@@ -1,0 +1,868 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Jornal AI</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Pirata+One&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #FFFFFF;
+    --ink: #121212;
+    --ink-dim: #444444;
+    --ink-faint: #767676;
+    --rule-heavy: #121212;
+    --rule-light: #C8C8C4;
+    --accent: #5A1A1A;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html { -webkit-font-smoothing: antialiased; }
+
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'Source Serif 4', Georgia, serif;
+    line-height: 1.5;
+  }
+
+  a { color: inherit; text-decoration: none; }
+
+  /* ===== Faixa superior: data / edição ===== */
+  .topbar {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 10px 24px 8px;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    font-family: 'Source Serif 4', serif;
+    font-size: 12px;
+    letter-spacing: 0.02em;
+    color: var(--ink-dim);
+    border-bottom: 1px solid var(--rule-light);
+  }
+
+  .topbar .edition {
+    font-style: italic;
+  }
+
+  /* ===== Masthead ===== */
+  .masthead {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 22px 24px 16px;
+    text-align: center;
+    border-bottom: 4px solid var(--rule-heavy);
+  }
+
+  .masthead-title {
+    font-family: 'Pirata One', 'Source Serif 4', serif;
+    font-size: 76px;
+    line-height: 1;
+    color: var(--ink);
+    letter-spacing: 0.01em;
+  }
+
+  .masthead-sub {
+    margin-top: 10px;
+    font-family: 'Source Serif 4', serif;
+    font-style: italic;
+    font-size: 13px;
+    color: var(--ink-dim);
+    letter-spacing: 0.02em;
+  }
+
+  @media (max-width: 620px) {
+    .masthead-title { font-size: 40px; }
+    .topbar { font-size: 10.5px; }
+  }
+
+  /* ===== Barra de seções/filtros ===== */
+  .sectionbar {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 10px 24px;
+    display: flex;
+    justify-content: center;
+    gap: 22px;
+    flex-wrap: wrap;
+    border-bottom: 1px solid var(--rule-heavy);
+    font-family: 'Source Serif 4', serif;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  .sectionbar button {
+    background: none;
+    border: none;
+    color: var(--ink-dim);
+    cursor: pointer;
+    padding: 4px 0;
+    border-bottom: 2px solid transparent;
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    text-transform: inherit;
+    letter-spacing: inherit;
+  }
+
+  .sectionbar button:hover {
+    color: var(--ink);
+  }
+
+  .sectionbar button.active {
+    color: var(--ink);
+    border-bottom-color: var(--accent);
+  }
+
+  @media (max-width: 620px) {
+    .sectionbar { overflow-x: auto; flex-wrap: nowrap; gap: 16px; -ms-overflow-style: none; scrollbar-width: none; }
+    .sectionbar::-webkit-scrollbar { display: none; }
+    .sectionbar button { flex-shrink: 0; }
+  }
+
+  /* ===== Status (atualização) ===== */
+  .statusline {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 8px 24px;
+    font-family: 'Source Serif 4', serif;
+    font-style: italic;
+    font-size: 12px;
+    color: var(--ink-faint);
+    text-align: right;
+    border-bottom: 1px solid var(--rule-light);
+  }
+
+  /* ===== Main layout: grade colunar de jornal ===== */
+  main {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 28px 24px 60px;
+  }
+
+  .news-grid {
+    display: grid;
+    grid-template-columns: 1.4fr 1px 1fr 1px 1fr;
+    gap: 28px;
+  }
+
+  .col-rule {
+    background: var(--rule-light);
+  }
+
+  .col-lead { display: flex; flex-direction: column; }
+  .col-secondary { display: flex; flex-direction: column; gap: 26px; }
+  .col-tertiary { display: flex; flex-direction: column; gap: 26px; }
+
+  @media (max-width: 980px) {
+    .news-grid { grid-template-columns: 1fr; }
+    .col-rule { display: none; }
+    .col-lead, .col-secondary, .col-tertiary { padding-top: 20px; border-top: 1px solid var(--rule-light); }
+    .col-lead { padding-top: 0; border-top: none; }
+  }
+
+  /* ===== Item de notícia (genérico, varia por contexto) ===== */
+  .story-kicker {
+    font-family: 'Source Serif 4', serif;
+    font-size: 11.5px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--accent);
+    margin-bottom: 6px;
+  }
+
+  .story-image {
+    width: 100%;
+    aspect-ratio: 16 / 10;
+    background: #EAEAE6;
+    margin-bottom: 12px;
+    overflow: hidden;
+  }
+
+  .story-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .story {
+    cursor: pointer;
+    display: block;
+  }
+
+  /* Lead story (manchete principal) */
+  .lead-story .story-headline {
+    font-family: 'Playfair Display', 'Source Serif 4', serif;
+    font-weight: 800;
+    font-size: 38px;
+    line-height: 1.12;
+    color: var(--ink);
+    margin-bottom: 12px;
+  }
+
+  .lead-story .story-dek {
+    font-size: 17px;
+    line-height: 1.55;
+    color: var(--ink-dim);
+    margin-bottom: 10px;
+  }
+
+  .lead-story:hover .story-headline {
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+  }
+
+  /* Secondary stories */
+  .story-headline {
+    font-family: 'Playfair Display', 'Source Serif 4', serif;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 1.22;
+    color: var(--ink);
+    margin-bottom: 8px;
+  }
+
+  .secondary-story .story-headline {
+    font-size: 20px;
+  }
+
+  .secondary-story .story-dek {
+    font-size: 14.5px;
+    line-height: 1.5;
+    color: var(--ink-dim);
+  }
+
+  .secondary-story:hover .story-headline,
+  .tertiary-story:hover .story-headline {
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+  }
+
+  /* Tertiary stories (lista mais densa, sem imagem) */
+  .tertiary-story {
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--rule-light);
+  }
+
+  .tertiary-story:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  .tertiary-story .story-headline {
+    font-size: 16.5px;
+    margin-bottom: 4px;
+  }
+
+  .story-byline {
+    font-family: 'Source Serif 4', serif;
+    font-style: italic;
+    font-size: 12px;
+    color: var(--ink-faint);
+  }
+
+  .story-byline .flag {
+    font-style: normal;
+  }
+
+  /* ===== Loading / empty states ===== */
+  .loading-msg, .empty-msg {
+    font-family: 'Source Serif 4', serif;
+    font-style: italic;
+    font-size: 14px;
+    color: var(--ink-faint);
+    text-align: center;
+    padding: 70px 20px;
+    grid-column: 1 / -1;
+  }
+
+  /* ===== Footer ===== */
+  footer {
+    border-top: 4px solid var(--rule-heavy);
+    padding: 26px 24px;
+    text-align: center;
+    font-family: 'Source Serif 4', serif;
+    font-style: italic;
+    font-size: 12px;
+    color: var(--ink-faint);
+  }
+
+  /* ===== Modo Leitura (jornal) ===== */
+  .reader-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 200;
+    background: rgba(18, 18, 18, 0.8);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+  }
+
+  .reader-overlay.open { display: flex; }
+
+  .reader-stage {
+    position: relative;
+    width: 100%;
+    max-width: 740px;
+    height: min(88vh, 900px);
+    perspective: 2400px;
+  }
+
+  .reader-page {
+    position: absolute;
+    inset: 0;
+    background: var(--bg);
+    box-shadow: 0 30px 70px rgba(0, 0, 0, 0.35);
+    overflow: hidden;
+    backface-visibility: hidden;
+    transform-origin: left center;
+    transform-style: preserve-3d;
+    transition: transform 0.55s cubic-bezier(0.45, 0.05, 0.15, 1);
+    display: flex;
+    flex-direction: column;
+  }
+
+  .reader-page.current { transform: rotateY(0deg); z-index: 3; }
+  .reader-page.next { transform: rotateY(0deg); z-index: 1; box-shadow: none; }
+  .reader-page.leaving { transform: rotateY(-130deg); z-index: 4; }
+  .reader-page.entering { transform: rotateY(0deg); z-index: 2; }
+
+  @media (prefers-reduced-motion: reduce) {
+    .reader-page { transition: opacity 0.25s ease; }
+    .reader-page.leaving { transform: none; opacity: 0; }
+  }
+
+  .reader-page-scroll {
+    overflow-y: auto;
+    flex: 1;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .reader-close {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    z-index: 10;
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    background: rgba(18, 18, 18, 0.06);
+    border: none;
+    color: var(--ink-dim);
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.15s ease;
+  }
+
+  .reader-close:hover { background: rgba(18, 18, 18, 0.12); }
+
+  .reader-page-image {
+    width: 100%;
+    aspect-ratio: 16 / 7;
+    flex-shrink: 0;
+    background: #EAEAE6;
+  }
+
+  .reader-page-body { padding: 34px 44px 44px; }
+
+  .reader-masthead-mini {
+    font-family: 'Pirata One', serif;
+    font-size: 22px;
+    text-align: center;
+    margin-bottom: 18px;
+    border-bottom: 2px solid var(--rule-heavy);
+    padding-bottom: 14px;
+  }
+
+  .reader-eyebrow {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: 'Source Serif 4', serif;
+    font-weight: 700;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--accent);
+    margin-bottom: 16px;
+  }
+
+  .reader-eyebrow .dot { color: var(--rule-light); }
+
+  .reader-headline {
+    font-family: 'Playfair Display', serif;
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 1.18;
+    color: var(--ink);
+    margin-bottom: 18px;
+  }
+
+  .reader-dek {
+    font-family: 'Source Serif 4', serif;
+    font-size: 18px;
+    line-height: 1.6;
+    color: var(--ink-dim);
+    margin-bottom: 28px;
+  }
+
+  .reader-source-line {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 0;
+    border-top: 1px solid var(--rule-light);
+    font-family: 'Source Serif 4', serif;
+    font-style: italic;
+    font-size: 13px;
+    color: var(--ink-faint);
+    margin-bottom: 24px;
+  }
+
+  .reader-read-original {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 12px 22px;
+    border: 1px solid var(--ink);
+    font-family: 'Source Serif 4', serif;
+    font-weight: 600;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--ink);
+    transition: all 0.15s ease;
+  }
+
+  .reader-read-original:hover { background: var(--ink); color: var(--bg); }
+
+  .reader-page-number {
+    font-family: 'Source Serif 4', serif;
+    font-style: italic;
+    font-size: 12px;
+    color: var(--ink-faint);
+    margin-top: 28px;
+    text-align: center;
+  }
+
+  .reader-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.95);
+    border: 1px solid var(--rule-light);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 18px;
+    color: var(--ink);
+    z-index: 20;
+    transition: transform 0.15s ease, background 0.15s ease;
+  }
+
+  .reader-nav:hover { background: var(--ink); color: var(--bg); transform: translateY(-50%) scale(1.06); }
+  .reader-nav.prev { left: -60px; }
+  .reader-nav.next { right: -60px; }
+  .reader-nav:disabled { opacity: 0.25; cursor: default; }
+  .reader-nav:disabled:hover { background: rgba(255, 255, 255, 0.95); color: var(--ink); transform: translateY(-50%); }
+
+  @media (max-width: 880px) {
+    .reader-nav.prev { left: 6px; }
+    .reader-nav.next { right: 6px; }
+    .reader-nav { width: 38px; height: 38px; background: rgba(255, 255, 255, 0.85); backdrop-filter: blur(4px); }
+  }
+
+  @media (max-width: 620px) {
+    .reader-overlay { padding: 0; }
+    .reader-stage { height: 100vh; max-width: 100%; perspective: 1400px; }
+    .reader-page-body { padding: 24px 20px 32px; }
+    .reader-headline { font-size: 25px; }
+    .reader-dek { font-size: 16px; }
+    .reader-nav.prev { left: 4px; }
+    .reader-nav.next { right: 4px; }
+  }
+
+  .story:focus-visible,
+  .sectionbar button:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <span id="todayDate">—</span>
+  <span class="edition">Edição Digital · Gratuita</span>
+</div>
+
+<div class="masthead">
+  <div class="masthead-title">The Jornal AI</div>
+  <div class="masthead-sub">Inteligência Artificial — Brasil e Mundo, todos os dias</div>
+</div>
+
+<div class="sectionbar" id="filters">
+  <button class="active" data-filter="todos">Capa</button>
+  <button data-filter="brasil">Brasil</button>
+  <button data-filter="mundo">Mundo</button>
+  <button data-filter="Modelos">Modelos</button>
+  <button data-filter="Produtos">Produtos</button>
+  <button data-filter="Pesquisa">Pesquisa</button>
+  <button data-filter="Regulação">Regulação</button>
+</div>
+
+<div class="statusline">
+  <span id="newsCount">—</span> notícias · <span id="lastUpdate">carregando…</span>
+</div>
+
+<main>
+  <div class="news-grid" id="grid">
+    <p class="loading-msg" id="loadingMsg">Carregando edição de hoje…</p>
+  </div>
+  <p class="empty-msg" id="emptyMsg" style="display:none;">Nenhuma notícia encontrada para essa seção ainda. Tente "Capa".</p>
+</main>
+
+<footer>
+  The Jornal AI — agregador automático e gratuito de notícias sobre inteligência artificial · feito por Rosa
+</footer>
+
+<div class="reader-overlay" id="readerOverlay">
+  <button class="reader-nav prev" id="readerPrev" aria-label="Notícia anterior">‹</button>
+  <div class="reader-stage" id="readerStage"></div>
+  <button class="reader-nav next" id="readerNext" aria-label="Próxima notícia">›</button>
+</div>
+
+<script>
+(function () {
+  const REGION_FILTERS = new Set(["brasil", "mundo"]);
+  const FLAG = { brasil: "🇧🇷", mundo: "🌐" };
+
+  let allItems = [];
+  let currentFiltered = [];
+  let activeFilter = "todos";
+
+  const grid = document.getElementById("grid");
+  const loadingMsg = document.getElementById("loadingMsg");
+  const emptyMsg = document.getElementById("emptyMsg");
+  const newsCount = document.getElementById("newsCount");
+  const lastUpdate = document.getElementById("lastUpdate");
+  const filters = document.getElementById("filters");
+  const todayDate = document.getElementById("todayDate");
+
+  function escapeHtml(str) {
+    const div = document.createElement("div");
+    div.textContent = str || "";
+    return div.innerHTML;
+  }
+
+  function timeAgo(isoDate) {
+    const then = new Date(isoDate).getTime();
+    const now = Date.now();
+    const diffMin = Math.max(0, Math.round((now - then) / 60000));
+    if (diffMin < 1) return "agora";
+    if (diffMin < 60) return `há ${diffMin} min`;
+    const diffH = Math.round(diffMin / 60);
+    if (diffH < 24) return `há ${diffH}h`;
+    const diffD = Math.round(diffH / 24);
+    return `há ${diffD}d`;
+  }
+
+  function setTodayDate() {
+    const now = new Date();
+    const formatted = now.toLocaleDateString("pt-BR", {
+      weekday: "long", day: "numeric", month: "long", year: "numeric"
+    });
+    todayDate.textContent = formatted.charAt(0).toUpperCase() + formatted.slice(1);
+  }
+
+  function storyImageHtml(item) {
+    if (!item.image) return "";
+    return `<div class="story-image"><img src="${escapeHtml(item.image)}" alt="" loading="lazy" onerror="this.parentElement.remove();" /></div>`;
+  }
+
+  function bylineHtml(item) {
+    const flag = FLAG[item.region] || "🌐";
+    const regionLabel = item.region === "brasil" ? "Brasil" : "Mundo";
+    return `<div class="story-byline"><span class="flag">${flag}</span> ${escapeHtml(item.source)} · ${regionLabel} · ${timeAgo(item.published_at)}</div>`;
+  }
+
+  function renderLeadStory(item, index) {
+    return `
+      <a class="story lead-story" tabindex="0" data-index="${index}">
+        <div class="story-kicker">${escapeHtml(item.category)}</div>
+        ${storyImageHtml(item)}
+        <h1 class="story-headline">${escapeHtml(item.title)}</h1>
+        <p class="story-dek">${escapeHtml(item.summary)}</p>
+        ${bylineHtml(item)}
+      </a>`;
+  }
+
+  function renderSecondaryStory(item, index) {
+    return `
+      <a class="story secondary-story" tabindex="0" data-index="${index}">
+        <div class="story-kicker">${escapeHtml(item.category)}</div>
+        ${storyImageHtml(item)}
+        <h2 class="story-headline">${escapeHtml(item.title)}</h2>
+        <p class="story-dek">${escapeHtml(item.summary)}</p>
+        ${bylineHtml(item)}
+      </a>`;
+  }
+
+  function renderTertiaryStory(item, index) {
+    return `
+      <a class="story tertiary-story" tabindex="0" data-index="${index}">
+        <div class="story-kicker">${escapeHtml(item.category)}</div>
+        <h3 class="story-headline">${escapeHtml(item.title)}</h3>
+        ${bylineHtml(item)}
+      </a>`;
+  }
+
+  function applyFilter(items) {
+    if (activeFilter === "todos") return items;
+    if (REGION_FILTERS.has(activeFilter)) return items.filter((it) => it.region === activeFilter);
+    return items.filter((it) => it.category === activeFilter);
+  }
+
+  function render() {
+    currentFiltered = applyFilter(allItems);
+
+    if (currentFiltered.length === 0) {
+      grid.style.display = "none";
+      emptyMsg.style.display = "block";
+      return;
+    }
+
+    grid.style.display = "grid";
+    emptyMsg.style.display = "none";
+
+    const lead = currentFiltered[0];
+    const secondary = currentFiltered.slice(1, 4); // até 3 na coluna do meio
+    const tertiary = currentFiltered.slice(4, 12); // até 8 na coluna lateral, lista densa
+
+    const leadHtml = lead ? renderLeadStory(lead, 0) : "";
+    const secondaryHtml = secondary.map((item, i) => renderSecondaryStory(item, i + 1)).join("");
+    const tertiaryHtml = tertiary.map((item, i) => renderTertiaryStory(item, i + 4)).join("");
+
+    grid.innerHTML = `
+      <div class="col-lead">${leadHtml}</div>
+      <div class="col-rule"></div>
+      <div class="col-secondary">${secondaryHtml}</div>
+      <div class="col-rule"></div>
+      <div class="col-tertiary">${tertiaryHtml}</div>
+    `;
+  }
+
+  function setupFilters() {
+    filters.addEventListener("click", (e) => {
+      const btn = e.target.closest("button");
+      if (!btn) return;
+      filters.querySelectorAll("button").forEach((c) => c.classList.remove("active"));
+      btn.classList.add("active");
+      activeFilter = btn.dataset.filter;
+      render();
+    });
+  }
+
+  function setupStoryClicks() {
+    grid.addEventListener("click", (e) => {
+      const story = e.target.closest(".story");
+      if (!story) return;
+      openReader(parseInt(story.dataset.index, 10));
+    });
+    grid.addEventListener("keydown", (e) => {
+      if (e.key !== "Enter" && e.key !== " ") return;
+      const story = e.target.closest(".story");
+      if (!story) return;
+      e.preventDefault();
+      openReader(parseInt(story.dataset.index, 10));
+    });
+  }
+
+  function updateStatus(data) {
+    newsCount.textContent = data.items.length;
+    lastUpdate.textContent = `atualizado ${timeAgo(data.generated_at)}`;
+  }
+
+  // ===== Modo Leitura (jornal) =====
+  const readerOverlay = document.getElementById("readerOverlay");
+  const readerStage = document.getElementById("readerStage");
+  const readerPrev = document.getElementById("readerPrev");
+  const readerNext = document.getElementById("readerNext");
+
+  let readerIndex = 0;
+  let isAnimating = false;
+
+  function buildPageHtml(item) {
+    const flag = FLAG[item.region] || "🌐";
+    const regionLabel = item.region === "brasil" ? "Brasil" : "Mundo";
+    const imageHtml = item.image
+      ? `<div class="reader-page-image"><img src="${escapeHtml(item.image)}" alt="" style="width:100%;height:100%;object-fit:cover;display:block;" onerror="this.parentElement.style.display='none';" /></div>`
+      : "";
+
+    return `
+      <button class="reader-close" aria-label="Fechar">✕</button>
+      <div class="reader-page-scroll">
+        ${imageHtml}
+        <div class="reader-page-body">
+          <div class="reader-masthead-mini">The Jornal AI</div>
+          <div class="reader-eyebrow">
+            <span>${escapeHtml(item.category)}</span>
+            <span class="dot">·</span>
+            <span>${flag} ${regionLabel}</span>
+            <span class="dot">·</span>
+            <span>${timeAgo(item.published_at)}</span>
+          </div>
+          <h1 class="reader-headline">${escapeHtml(item.title)}</h1>
+          <p class="reader-dek">${escapeHtml(item.summary)}</p>
+          <div class="reader-source-line">
+            <span>Fonte: ${escapeHtml(item.source)}</span>
+          </div>
+          <a class="reader-read-original" href="${escapeHtml(item.link)}" target="_blank" rel="noopener noreferrer">
+            Ler matéria completa na fonte →
+          </a>
+          <div class="reader-page-number">${readerIndex + 1} / ${currentFiltered.length}</div>
+        </div>
+      </div>`;
+  }
+
+  function makePageEl(item, className) {
+    const el = document.createElement("div");
+    el.className = `reader-page ${className}`;
+    el.innerHTML = buildPageHtml(item);
+    el.querySelector(".reader-close").addEventListener("click", closeReader);
+    return el;
+  }
+
+  function renderReaderPage() {
+    readerStage.innerHTML = "";
+    const item = currentFiltered[readerIndex];
+    const page = makePageEl(item, "current");
+    readerStage.appendChild(page);
+    updateNavState();
+  }
+
+  function updateNavState() {
+    readerPrev.disabled = readerIndex <= 0;
+    readerNext.disabled = readerIndex >= currentFiltered.length - 1;
+  }
+
+  function openReader(idx) {
+    if (idx < 0 || idx >= currentFiltered.length) return;
+    readerIndex = idx;
+    renderReaderPage();
+    readerOverlay.classList.add("open");
+    document.body.style.overflow = "hidden";
+  }
+
+  function closeReader() {
+    readerOverlay.classList.remove("open");
+    document.body.style.overflow = "";
+  }
+
+  function goToPage(newIndex) {
+    if (isAnimating) return;
+    if (newIndex < 0 || newIndex >= currentFiltered.length) return;
+
+    isAnimating = true;
+    const leavingPage = readerStage.querySelector(".reader-page");
+    const enteringPage = makePageEl(currentFiltered[newIndex], "next");
+    readerStage.appendChild(enteringPage);
+
+    requestAnimationFrame(() => {
+      leavingPage.classList.remove("current");
+      leavingPage.classList.add("leaving");
+      enteringPage.classList.remove("next");
+      enteringPage.classList.add("entering");
+
+      setTimeout(() => {
+        leavingPage.remove();
+        enteringPage.classList.remove("entering");
+        enteringPage.classList.add("current");
+        readerIndex = newIndex;
+        updateNavState();
+        isAnimating = false;
+      }, 560);
+    });
+  }
+
+  function setupReaderControls() {
+    readerPrev.addEventListener("click", () => goToPage(readerIndex - 1));
+    readerNext.addEventListener("click", () => goToPage(readerIndex + 1));
+
+    readerOverlay.addEventListener("click", (e) => {
+      if (e.target === readerOverlay) closeReader();
+    });
+
+    document.addEventListener("keydown", (e) => {
+      if (!readerOverlay.classList.contains("open")) return;
+      if (e.key === "Escape") closeReader();
+      if (e.key === "ArrowRight") goToPage(readerIndex + 1);
+      if (e.key === "ArrowLeft") goToPage(readerIndex - 1);
+    });
+
+    let touchStartX = null;
+    readerStage.addEventListener("touchstart", (e) => {
+      touchStartX = e.touches[0].clientX;
+    }, { passive: true });
+
+    readerStage.addEventListener("touchend", (e) => {
+      if (touchStartX === null) return;
+      const deltaX = e.changedTouches[0].clientX - touchStartX;
+      const THRESHOLD = 60;
+      if (deltaX > THRESHOLD) goToPage(readerIndex - 1);
+      else if (deltaX < -THRESHOLD) goToPage(readerIndex + 1);
+      touchStartX = null;
+    }, { passive: true });
+  }
+
+  async function loadNews() {
+    try {
+      const res = await fetch("news.json", { cache: "no-store" });
+      if (!res.ok) throw new Error("Falha ao carregar news.json");
+      const data = await res.json();
+
+      allItems = data.items || [];
+      loadingMsg.style.display = "none";
+
+      if (allItems.length === 0) {
+        emptyMsg.textContent = "Nenhuma notícia disponível no momento. Volte mais tarde.";
+        grid.style.display = "none";
+        emptyMsg.style.display = "block";
+        return;
+      }
+
+      updateStatus(data);
+      render();
+    } catch (err) {
+      loadingMsg.textContent = "Não foi possível carregar a edição de hoje. Tente recarregar a página em alguns minutos.";
+      console.error(err);
+    }
+  }
+
+  setTodayDate();
+  setupFilters();
+  setupStoryClicks();
+  setupReaderControls();
+  loadNews();
+})();
+</script>
+
+</body>
+</html>
