@@ -41,12 +41,17 @@ FEEDS = [
 
 # Palavras-chave usadas para filtrar apenas notícias relevantes de IA
 # (necessário para feeds genéricos de tecnologia, como Tecnoblog e Olhar Digital)
-AI_KEYWORDS = [
-    "inteligência artificial", "ia ", " ia", "intelig", "chatgpt", "gpt-",
+# IMPORTANTE: o matching usa \b (fronteira de palavra) para "ia" e "ai" isoladas,
+# para não confundir com substrings dentro de outras palavras comuns
+# (ex: "loteria", "dia", "notícia", "história" contêm "ia" mas não são sobre IA).
+AI_KEYWORDS_EXACT_WORD = ["ia", "ai", "ias", "ais"]  # exigem \b...\b (palavra isolada)
+
+AI_KEYWORDS_SUBSTRING = [
+    "inteligência artificial", "intelig", "chatgpt", "gpt-", "gpt5", "gpt-5",
     "claude", "anthropic", "openai", "gemini", "llm", "machine learning",
-    "deep learning", "rede neural", "modelo de linguagem", "ai ", " ai",
+    "deep learning", "rede neural", "redes neurais", "modelo de linguagem",
     "artificial intelligence", "copilot", "midjourney", "deepseek",
-    "robô", "automação", "algoritmo",
+    "chatbot", "agente de ia", "agentes de ia", "ai agent", "llms",
 ]
 
 MAX_ITEMS_PER_FEED = 8
@@ -126,9 +131,23 @@ def parse_date(entry):
 
 
 def matches_ai_keywords(title, summary):
-    """Verifica se o texto contém alguma palavra-chave de IA (case-insensitive)."""
+    """Verifica se o texto contém alguma palavra-chave de IA (case-insensitive).
+
+    Para as siglas curtas e ambíguas ("ia", "ai"), exige fronteira de palavra
+    real (\\b) para não confundir com substrings dentro de outras palavras
+    comuns como "loteria", "dia", "notícia", "história", "said", "main", etc.
+    """
     haystack = f"{title} {summary}".lower()
-    return any(kw in haystack for kw in AI_KEYWORDS)
+
+    for kw in AI_KEYWORDS_SUBSTRING:
+        if kw in haystack:
+            return True
+
+    for kw in AI_KEYWORDS_EXACT_WORD:
+        if re.search(rf"\b{re.escape(kw)}\b", haystack):
+            return True
+
+    return False
 
 
 def make_id(link):

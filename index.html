@@ -522,10 +522,6 @@
   <button class="active" data-filter="todos">Capa</button>
   <button data-filter="brasil">Brasil</button>
   <button data-filter="mundo">Mundo</button>
-  <button data-filter="Modelos">Modelos</button>
-  <button data-filter="Produtos">Produtos</button>
-  <button data-filter="Pesquisa">Pesquisa</button>
-  <button data-filter="Regulação">Regulação</button>
 </div>
 
 <div class="statusline">
@@ -640,6 +636,21 @@
     return items.filter((it) => it.category === activeFilter);
   }
 
+  function pickFeaturedFirst(items, count) {
+    // Para as posições de destaque (lead + secundárias), prioriza itens com imagem,
+    // sem perder a ordem cronológica relativa entre eles.
+    const withImage = items.filter((it) => it.image);
+    const withoutImage = items.filter((it) => !it.image);
+    const featured = withImage.slice(0, count);
+    const remainingFeatured = count - featured.length;
+    if (remainingFeatured > 0) {
+      featured.push(...withoutImage.slice(0, remainingFeatured));
+    }
+    const usedIds = new Set(featured.map((it) => it.id));
+    const rest = items.filter((it) => !usedIds.has(it.id));
+    return { featured, rest };
+  }
+
   function render() {
     currentFiltered = applyFilter(allItems);
 
@@ -652,13 +663,20 @@
     grid.style.display = "grid";
     emptyMsg.style.display = "none";
 
-    const lead = currentFiltered[0];
-    const secondary = currentFiltered.slice(1, 4); // até 3 na coluna do meio
-    const tertiary = currentFiltered.slice(4, 12); // até 8 na coluna lateral, lista densa
+    const { featured, rest } = pickFeaturedFirst(currentFiltered, 4);
+    const lead = featured[0];
+    const secondary = featured.slice(1, 4);
+    const tertiary = rest.slice(0, 8); // até 8 na coluna lateral, lista densa
 
-    const leadHtml = lead ? renderLeadStory(lead, 0) : "";
-    const secondaryHtml = secondary.map((item, i) => renderSecondaryStory(item, i + 1)).join("");
-    const tertiaryHtml = tertiary.map((item, i) => renderTertiaryStory(item, i + 4)).join("");
+    // Reordena currentFiltered para refletir a ordem visual da capa (lead, secundárias,
+    // depois terciárias), assim as setas do modo leitura seguem a leitura natural da página.
+    const visualOrder = [lead, ...secondary, ...tertiary].filter(Boolean);
+    currentFiltered = visualOrder;
+    const indexOf = (item) => visualOrder.findIndex((it) => it.id === item.id);
+
+    const leadHtml = lead ? renderLeadStory(lead, indexOf(lead)) : "";
+    const secondaryHtml = secondary.map((item) => renderSecondaryStory(item, indexOf(item))).join("");
+    const tertiaryHtml = tertiary.map((item) => renderTertiaryStory(item, indexOf(item))).join("");
 
     grid.innerHTML = `
       <div class="col-lead">${leadHtml}</div>
