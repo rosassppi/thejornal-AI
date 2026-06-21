@@ -11,11 +11,17 @@ Site estático que lê `news.json`, gerado automaticamente todo dia a partir de 
 3. O `index.html` lê o `news.json` e monta a "capa" do jornal na hora, no navegador: manchete principal + colunas secundárias + lista terciária.
 4. O GitHub Pages serve o site direto do repositório — de graça.
 
+## Tradução automática
+
+Notícias internacionais (fontes "mundo", originalmente em inglês) são traduzidas automaticamente para português usando a biblioteca `deep-translator` (gratuita, sem necessidade de API key). Notícias brasileiras não passam por tradução, já que já estão em português.
+
+Para economizar chamadas ao serviço de tradução, o script reaproveita traduções já feitas em execuções anteriores (usando o próprio `news.json` como cache) — só traduz notícias novas. Se a tradução falhar por qualquer motivo (instabilidade de rede, limite do serviço gratuito), a notícia simplesmente mantém o texto original em inglês, sem quebrar a coleta.
+
 ## Layout
 
-- **Masthead** em "Manufacturing Consent" (fonte blackletter de código aberto, inspirada no logotipo do NYT) + linha de data/edição acima e barra de seções abaixo.
-- **Capa em 3 colunas**: manchete principal (maior, com imagem), coluna de notícias secundárias (com imagem menor), coluna terciária densa em lista (sem imagem, estilo "últimas").
-- **Modo leitura "jornal"**: clicar em qualquer notícia abre em tela cheia com efeito de virar página (como um jornal/livro físico). Navegação por setas laterais, teclado (← →) ou arrastando no celular.
+- **Masthead** em "Pirata One" (fonte blackletter gratuita do Google Fonts, com letras mais legíveis que blackletters tradicionais) + linha de data/edição acima e barra de seções (Capa, Brasil, Mundo) abaixo.
+- **Capa em 3 colunas**: manchete principal (maior, com imagem), coluna de notícias secundárias (com imagem menor), coluna terciária densa em lista (sem imagem, estilo "últimas"). As posições de destaque (manchete + secundárias) priorizam notícias que têm imagem disponível.
+- **Modo leitura "jornal"**: clicar em qualquer notícia abre em tela cheia com efeito de virar página (como um jornal/livro físico). A animação respeita a direção real da navegação — avançar gira para um lado, voltar gira para o lado oposto. Botão "← Voltar à capa" sempre visível no topo. Navegação por setas laterais, teclado (← →) ou arrastando no celular.
 
 ## Como publicar (passo a passo)
 

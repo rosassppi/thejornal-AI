@@ -136,7 +136,7 @@
     font-style: italic;
     font-size: 12px;
     color: var(--ink-faint);
-    text-align: right;
+    text-align: center;
     border-bottom: 1px solid var(--rule-light);
   }
 
@@ -325,7 +325,6 @@
     box-shadow: 0 30px 70px rgba(0, 0, 0, 0.35);
     overflow: hidden;
     backface-visibility: hidden;
-    transform-origin: left center;
     transform-style: preserve-3d;
     transition: transform 0.55s cubic-bezier(0.45, 0.05, 0.15, 1);
     display: flex;
@@ -333,13 +332,50 @@
   }
 
   .reader-page.current { transform: rotateY(0deg); z-index: 3; }
-  .reader-page.next { transform: rotateY(0deg); z-index: 1; box-shadow: none; }
-  .reader-page.leaving { transform: rotateY(-130deg); z-index: 4; }
-  .reader-page.entering { transform: rotateY(0deg); z-index: 2; }
+
+  /* Avançar (próxima notícia): a página atual gira para a esquerda saindo,
+     como se estivesse virando a folha para a frente; a próxima entra por baixo. */
+  .reader-page.next-incoming {
+    transform-origin: left center;
+    transform: rotateY(0deg);
+    z-index: 1;
+    box-shadow: none;
+  }
+  .reader-page.next-leaving {
+    transform-origin: left center;
+    transform: rotateY(-130deg);
+    z-index: 4;
+  }
+  .reader-page.next-entering {
+    transform-origin: left center;
+    transform: rotateY(0deg);
+    z-index: 2;
+  }
+
+  /* Voltar (notícia anterior): o movimento é o inverso — a página atual gira
+     para a direita saindo, como se estivesse desvirando a folha; a anterior
+     entra por baixo a partir do lado direito. */
+  .reader-page.prev-incoming {
+    transform-origin: right center;
+    transform: rotateY(0deg);
+    z-index: 1;
+    box-shadow: none;
+  }
+  .reader-page.prev-leaving {
+    transform-origin: right center;
+    transform: rotateY(130deg);
+    z-index: 4;
+  }
+  .reader-page.prev-entering {
+    transform-origin: right center;
+    transform: rotateY(0deg);
+    z-index: 2;
+  }
 
   @media (prefers-reduced-motion: reduce) {
     .reader-page { transition: opacity 0.25s ease; }
-    .reader-page.leaving { transform: none; opacity: 0; }
+    .reader-page.next-leaving,
+    .reader-page.prev-leaving { transform: none; opacity: 0; }
   }
 
   .reader-page-scroll {
@@ -350,24 +386,27 @@
 
   .reader-close {
     position: absolute;
-    top: 14px;
-    right: 14px;
+    top: 16px;
+    left: 16px;
     z-index: 10;
-    width: 34px;
-    height: 34px;
-    border-radius: 50%;
-    background: rgba(18, 18, 18, 0.06);
-    border: none;
-    color: var(--ink-dim);
-    font-size: 16px;
+    height: 36px;
+    padding: 0 16px 0 12px;
+    border-radius: 100px;
+    background: rgba(255, 255, 255, 0.95);
+    border: 1px solid var(--rule-light);
+    color: var(--ink);
+    font-family: 'Source Serif 4', serif;
+    font-size: 13px;
+    font-weight: 600;
     cursor: pointer;
     display: flex;
     align-items: center;
-    justify-content: center;
-    transition: background 0.15s ease;
+    gap: 6px;
+    transition: background 0.15s ease, transform 0.15s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
   }
 
-  .reader-close:hover { background: rgba(18, 18, 18, 0.12); }
+  .reader-close:hover { background: var(--ink); color: var(--bg); transform: translateY(-1px); }
 
   .reader-page-image {
     width: 100%;
@@ -377,6 +416,10 @@
   }
 
   .reader-page-body { padding: 34px 44px 44px; }
+
+  .reader-page-scroll > .reader-page-body:first-child {
+    padding-top: 64px;
+  }
 
   .reader-masthead-mini {
     font-family: 'Pirata One', serif;
@@ -492,11 +535,14 @@
   @media (max-width: 620px) {
     .reader-overlay { padding: 0; }
     .reader-stage { height: 100vh; max-width: 100%; perspective: 1400px; }
+    .reader-page-scroll > .reader-page-body:first-child { padding-top: 56px; }
     .reader-page-body { padding: 24px 20px 32px; }
     .reader-headline { font-size: 25px; }
     .reader-dek { font-size: 16px; }
-    .reader-nav.prev { left: 4px; }
-    .reader-nav.next { right: 4px; }
+    .reader-close { top: 10px; left: 10px; font-size: 12px; height: 32px; padding: 0 12px 0 10px; }
+    .reader-nav.prev { left: 4px; top: auto; bottom: 14px; transform: none; }
+    .reader-nav.next { right: 4px; top: auto; bottom: 14px; transform: none; }
+    .reader-nav:hover { transform: scale(1.06); }
   }
 
   .story:focus-visible,
@@ -735,7 +781,7 @@
       : "";
 
     return `
-      <button class="reader-close" aria-label="Fechar">✕</button>
+      <button class="reader-close" aria-label="Voltar para a capa">← Voltar à capa</button>
       <div class="reader-page-scroll">
         ${imageHtml}
         <div class="reader-page-body">
@@ -798,20 +844,22 @@
     if (isAnimating) return;
     if (newIndex < 0 || newIndex >= currentFiltered.length) return;
 
+    const direction = newIndex > readerIndex ? "next" : "prev";
+
     isAnimating = true;
     const leavingPage = readerStage.querySelector(".reader-page");
-    const enteringPage = makePageEl(currentFiltered[newIndex], "next");
+    const enteringPage = makePageEl(currentFiltered[newIndex], `${direction}-incoming`);
     readerStage.appendChild(enteringPage);
 
     requestAnimationFrame(() => {
       leavingPage.classList.remove("current");
-      leavingPage.classList.add("leaving");
-      enteringPage.classList.remove("next");
-      enteringPage.classList.add("entering");
+      leavingPage.classList.add(`${direction}-leaving`);
+      enteringPage.classList.remove(`${direction}-incoming`);
+      enteringPage.classList.add(`${direction}-entering`);
 
       setTimeout(() => {
         leavingPage.remove();
-        enteringPage.classList.remove("entering");
+        enteringPage.classList.remove(`${direction}-entering`);
         enteringPage.classList.add("current");
         readerIndex = newIndex;
         updateNavState();

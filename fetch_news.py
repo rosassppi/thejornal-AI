@@ -14,6 +14,12 @@ import urllib.request
 from datetime import datetime, timezone
 from html import unescape
 
+try:
+    from deep_translator import GoogleTranslator
+    TRANSLATION_AVAILABLE = True
+except ImportError:
+    TRANSLATION_AVAILABLE = False
+
 # ============================================================
 # CONFIGURAÇÃO DE FONTES
 # Cada fonte tem: nome, url do feed, região (brasil/mundo), categoria padrão
@@ -199,6 +205,56 @@ def collect_feed(source):
     return items
 
 
+def load_translation_cache():
+    """Carrega traduções já feitas em execuções anteriores, usando o próprio
+    news.json existente como cache (evita re-traduzir o que já foi traduzido,
+    poupando chamadas ao serviço gratuito de tradução)."""
+    cache = {}
+    try:
+        with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+            previous = json.load(f)
+        for item in previous.get("items", []):
+            if item.get("id") and item.get("title"):
+                cache[item["id"]] = {
+                    "title": item["title"],
+                    "summary": item.get("summary", ""),
+                }
+    except (FileNotFoundError, json.JSONDecodeError):
+        pass
+    return cache
+
+
+def translate_item(item, translator, cache):
+    """Traduz título e resumo de um item 'mundo' (inglês) para português.
+    Usa cache quando disponível. Em caso de falha de tradução (rede instável,
+    limite do serviço gratuito), mantém o texto original em inglês —
+    nunca quebra a coleta por causa de um problema de tradução."""
+    if item["region"] != "mundo":
+        return item
+
+    cached = cache.get(item["id"])
+    if cached:
+        item["title"] = cached["title"]
+        item["summary"] = cached["summary"]
+        return item
+
+    if not TRANSLATION_AVAILABLE or translator is None:
+        return item
+
+    try:
+        item["title"] = translator.translate(item["title"]) or item["title"]
+    except Exception as exc:
+        print(f"  [aviso] falha ao traduzir título '{item['title'][:40]}...': {exc}")
+
+    try:
+        if item["summary"]:
+            item["summary"] = translator.translate(item["summary"]) or item["summary"]
+    except Exception as exc:
+        print(f"  [aviso] falha ao traduzir resumo de '{item['title'][:40]}...': {exc}")
+
+    return item
+
+
 def main():
     print("Radar.IA — coletando feeds...\n")
     all_items = []
@@ -214,6 +270,28 @@ def main():
     # Ordena por data de publicação, mais recente primeiro
     all_items.sort(key=lambda x: x["published_at"], reverse=True)
     all_items = all_items[:MAX_TOTAL_ITEMS]
+
+    # Traduz título e resumo das notícias internacionais (region "mundo") para
+    # português. Usa cache do news.json anterior para não retraduzir o que já
+    # foi traduzido, e nunca falha a coleta inteira se a tradução der problema.
+    print("\nTraduzindo notícias internacionais...")
+    translation_cache = load_translation_cache()
+    translator = None
+    if TRANSLATION_AVAILABLE:
+        try:
+            translator = GoogleTranslator(source="en", target="pt")
+        except Exception as exc:
+            print(f"  [aviso] não foi possível iniciar o tradutor: {exc}")
+    else:
+        print("  [aviso] biblioteca deep-translator não encontrada; notícias mundiais ficarão em inglês")
+
+    translated_count = 0
+    for item in all_items:
+        before = item["title"]
+        item = translate_item(item, translator, translation_cache)
+        if item["title"] != before:
+            translated_count += 1
+    print(f"  {translated_count} notícias traduzidas (ou recuperadas do cache)")
 
     output = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
