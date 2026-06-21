@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-06-21T14:08:35.906525+00:00",
-  "total": 79,
+  "generated_at": "2026-06-21T19:28:16.704814+00:00",
+  "total": 73,
   "items": [
+    {
+      "id": "f8cc0a4fce02ae0c",
+      "title": "Cofundador da Ubisoft, Claude Guillemot morre em acidente de avião",
+      "summary": "Claude Guillemot, que fundou a Ubisoft com seus quatro irmãos, morreu aos 69 anos.",
+      "link": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-21T18:34:31+00:00"
+    },
+    {
+      "id": "910cb3a24a969048",
+      "title": "Como descobrir se a IA está alucinando e inventando informação",
+      "summary": "Imagine pedir a uma inteligência artificial uma explicação técnica, um resumo de uma lei, uma lista de dados estatísticos ou até uma fonte acadêmica para um trabalho. Em segundos…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-descobrir-se-a-ia-esta-alucinando-e-inventando-informacao/",
+      "image": "https://t.ctcdn.com.br/56l8_fdioQnwgVi4_jGwMzuNbXQ=/700x394/smart/i929017.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-21T18:00:00+00:00"
+    },
+    {
+      "id": "ed87b021cf213d16",
+      "title": "Aliança entre Uber, Stellantis e Wayve pode mudar o futuro dos carros autônomos",
+      "summary": "Nova aliança entre Uber, Stellantis e Wayve aposta em carros autônomos sem motorista e tecnologia de IA para acelerar a chegada dos robotáxis. O post Aliança entre Uber…",
+      "link": "https://olhardigital.com.br/2026/06/21/carros-e-tecnologia/alianca-entre-uber-stellantis-e-wayve-pode-mudar-o-futuro-dos-carros-autonomos/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/robotaxis-wayve-1024x576.webp",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-21T17:33:24+00:00"
+    },
+    {
+      "id": "632c369be2b41213",
+      "title": "IA OpenAI acelera diagnóstico de doenças raras em hospital dos EUA",
+      "summary": "IA da OpenAI auxilia médicos nos EUA a diagnosticar 18 crianças com doenças raras em estudo que analisou genomas complexos. O post IA OpenAI acelera diagnóstico de doenças raras…",
+      "link": "https://olhardigital.com.br/2026/06/21/medicina-e-saude/ia-openai-acelera-diagnostico-de-doencas-raras-em-hospital-dos-eua/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/iStock-1882399241-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-21T16:25:56+00:00"
+    },
+    {
+      "id": "404b625c2fa5b6ab",
+      "title": "Samsung Neo QLED com IA: veja uma seleção de TVs 4K em promoção",
+      "summary": "Se você está de olho em uma TV nova, este é um bom momento para agir. Separamos três modelos da linha Samsung Vision AI Neo QLED Ultra 4K que chegaram em 2025 com tecnologia de…",
+      "link": "https://olhardigital.com.br/2026/06/21/reviews/samsung-neo-qled-com-ia-veja-uma-selecao-de-tvs-4k-em-promocao-2/",
+      "image": "https://m.media-amazon.com/images/I/41-5ZDRnUWL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-21T16:06:00+00:00"
+    },
+    {
+      "id": "a0065c4a2f8d55a5",
+      "title": "Quando a administração Trump reprime a Antrópica, quem se beneficia?",
+      "summary": "No novo episódio de Equity, discutimos o que realmente motivou os últimos movimentos do governo contra a Antrópico e o que isso pode significar para o ecossistema de IA.",
+      "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-21T15:28:17+00:00"
+    },
+    {
+      "id": "7f055dff129a6d7e",
+      "title": "Além da Siri: aqui estão os recursos práticos de IA que chegarão ao seu iPhone no iOS 27",
+      "summary": "A revisão da IA ​​da Siri pode ter ganhado as manchetes na WWDC, mas alguns dos recursos de IA mais úteis da Apple estão chegando em outro lugar no iOS 27.",
+      "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-21T14:40:28+00:00"
+    },
     {
       "id": "d6c95b9c88a48cc3",
       "title": "Como usar o Gemini para revisar um texto mantendo seu jeito de escrever",
@@ -12,50 +89,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-06-21T12:35:00+00:00"
-    },
-    {
-      "id": "7507b4c33d719dfa",
-      "title": "Inteligência artificial e alta performance: lições da Copa para o ambiente corporativo",
-      "summary": "A principal lição da Copa para o ambiente corporativo é clara: vencer não depende apenas de ter os melhores recursos O post Inteligência artificial e alta performance: lições da…",
-      "link": "https://olhardigital.com.br/2026/06/21/colunistas/inteligencia-artificial-e-alta-performance-licoes-da-copa-para-o-ambiente-corporativo/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-21T10:00:00+00:00"
-    },
-    {
-      "id": "63e9b68fea2cb5dc",
-      "title": "Crawlee para Python: crie um pipeline de rastreamento da Web com manipulação de robôs, gráficos de links e exportação de pedaços RAG",
-      "summary": "Neste tutorial, construímos um fluxo de trabalho completo do Crawlee para Python, desde a configuração até a saída pronta para IA. Geramos um site de demonstração local e depois o rastreamos com BeautifulSoupCrawler…",
-      "link": "https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-21T06:52:10+00:00"
-    },
-    {
-      "id": "eb0067d55e7b736b",
-      "title": "Cisco AI apresenta FAPO: otimização de prompt com reconhecimento de pipeline com atribuição de falha em nível de etapa e orquestração de código Claude",
-      "summary": "Cisco Foundation AI tem FAPO (Fully Automated Prompt Optimization) de código aberto, um sistema baseado em Claude Code que otimiza autonomamente pipelines LLM de várias etapas desde a linha de base…",
-      "link": "https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-20T23:04:55+00:00"
-    },
-    {
-      "id": "e303c6b643b14633",
-      "title": "Nous Research atualiza o agente Hermes com um modo de folha em branco que fixa conjuntos de ferramentas via platform_toolsets.cli e disabled_toolsets",
-      "summary": "A Nous Research adicionou um modo de configuração Blank Slate ao seu Hermes Agent de código aberto. Ele inicia um agente com tudo desligado, exceto provedor, modelo, operações de arquivo e terminal. Você…",
-      "link": "https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-20T21:50:11+00:00"
     },
     {
       "id": "20bfeecb69d72c26",
@@ -135,50 +168,6 @@
       "published_at": "2026-06-20T15:00:00+00:00"
     },
     {
-      "id": "ff43f991d9f73010",
-      "title": "10 dicas do que nunca colocar em um prompt de IA",
-      "summary": "Você provavelmente já fez isso ou pensou em fazer: abrir um chatbot para ganhar tempo e colar um contrato, um exame médico, uma planilha financeira, um currículo ou um e-mail do…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/10-dicas-do-que-nunca-colocar-em-um-prompt-de-ia/",
-      "image": "https://t.ctcdn.com.br/6_jjYCRUlsR2Up9Egs-xmFz1YPY=/700x394/smart/i1028123.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-20T12:40:00+00:00"
-    },
-    {
-      "id": "36eb0c4b6b9382e3",
-      "title": "Yandex Open-Sources YaFF: um formato de fio de cópia zero para Protobuf com velocidade de leitura quase estrutural",
-      "summary": "Neste artigo, examinamos o YaFF, o formato de transferência zero de cópia de código aberto do Yandex para o ecossistema Protobuf. Mantemos o arquivo .proto como a única fonte da verdade, mudando apenas como…",
-      "link": "https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-20T09:23:59+00:00"
-    },
-    {
-      "id": "b213fdf40090db39",
-      "title": "Como construir um pipeline de previsão com TimeCopilot usando modelos básicos e detecção automatizada de anomalias",
-      "summary": "Construímos um fluxo de trabalho de previsão ponta a ponta com o TimeCopilot em um painel de dados reais de passageiros de companhias aéreas e uma série sazonal sintética com anomalias injetadas. Nós avaliamos…",
-      "link": "https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-20T09:05:23+00:00"
-    },
-    {
-      "id": "1eba2fe0c2c9915e",
-      "title": "NVIDIA AI apresenta SpatialClaw: um agente sem treinamento que trata o código como uma interface de ação para raciocínio espacial",
-      "summary": "SpatialClaw é um agente livre de treinamento que escreve Python em um kernel persistente, compondo ferramentas de percepção para raciocínio espacial 3D O post NVIDIA AI apresenta SpatialClaw: A…",
-      "link": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-3.49.19-PM-1-150x150.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-19T22:51:59+00:00"
-    },
-    {
       "id": "0b42675c02c010f6",
       "title": "Do PGP ao Mythos: um breve histórico de controles de exportação que não impediram ninguém",
       "summary": "Nos últimos 30 anos, interromper o fluxo de software relacionado à segurança cibernética provou ser ineficaz. Não está claro por que funcionaria agora com o modelo de segurança cibernética da Anthropic…",
@@ -188,17 +177,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-06-19T22:40:14+00:00"
-    },
-    {
-      "id": "97a07fcdff0767b4",
-      "title": "VibeThinker-3B: um modelo de raciocínio denso 3B construído em Qwen2.5-Coder-3B com o pipeline pós-treinamento Spectrum-to-Signal",
-      "summary": "VibeThinker-3B, um modelo de raciocínio 3B licenciado pelo MIT que combina DeepSeek V3.2 e Kimi K2.5 em benchmarks verificáveis. A postagem VibeThinker-3B: Um modelo de raciocínio denso 3B construído em…",
-      "link": "https://www.marktechpost.com/2026/06/19/vibethinker-3b-a-3b-dense-reasoning-model-built-on-qwen2-5-coder-3b-with-the-spectrum-to-signal-post-training-pipeline/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-3.07.21-PM-1-150x150.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-19T22:06:31+00:00"
     },
     {
       "id": "f3edf7348dc1bc98",
@@ -212,17 +190,6 @@
       "published_at": "2026-06-19T20:38:09+00:00"
     },
     {
-      "id": "a72532f8748ceb52",
-      "title": "A proibição antrópica do governo dos EUA está ajudando acidentalmente a marca?",
-      "summary": "No final da semana passada, o governo dos EUA forçou a Anthropic a retirar seus dois modelos mais recentes, Fable 5 e Mythos 5, citando preocupações de segurança nacional após pesquisadores da Amazon…",
-      "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-19T16:08:17+00:00"
-    },
-    {
       "id": "8615437db14a6948",
       "title": "Alexa+: veja quais dispositivos são compatíveis ou não",
       "summary": "Nova assistente da Amazon com IA generativa chegou ao Brasil. Confira se o seu produto suporta a atualização. Alexa+: veja quais dispositivos são compatíveis ou não",
@@ -232,17 +199,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-06-19T15:34:46+00:00"
-    },
-    {
-      "id": "317002a5314d07bc",
-      "title": "O bilionário Ambani quer IA em todas as chamadas, aplicativos e residências",
-      "summary": "A Reliance está incorporando IA em serviços de telecomunicações usados ​​por mais de 500 milhões de pessoas.",
-      "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-19T15:23:28+00:00"
     },
     {
       "id": "3799f34232753c1c",
@@ -267,17 +223,6 @@
       "published_at": "2026-06-19T14:15:29+00:00"
     },
     {
-      "id": "e170b2aaad129bc4",
-      "title": "O CEO do novo negócio de IA da Allbirds tem um plano, mas nenhuma equipe",
-      "summary": "Chame-a de startup com um único fundador e uma grande rodada de sementes, mas o que vem a seguir é menos claro.",
-      "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-19T13:00:00+00:00"
-    },
-    {
       "id": "bd056869a29bf635",
       "title": "Uma startup afirma que rompeu um gargalo que está impedindo os LLMs",
       "summary": "A startup de IA com sede em Miami, Subquadratic, saiu do modo furtivo no mês passado com uma grande reivindicação. Anunciou que havia resolvido um gargalo matemático que estava impedindo…",
@@ -287,17 +232,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-19T10:40:24+00:00"
-    },
-    {
-      "id": "0162de192780ba16",
-      "title": "Liquid AI apresenta LFM2.5-Embedding-350M e LFM2.5-ColBERT-350M: Dense Bi-Encoder e modelos de interação tardia para pesquisa multilíngue rápida em 11 idiomas",
-      "summary": "Os LFM2.5 Retrievers da Liquid AI combinam um bi-codificador denso e um modelo de interação tardia ColBERT para pesquisa multilíngue em dispositivos de ponta. A postagem Liquid AI apresenta…",
-      "link": "https://www.marktechpost.com/2026/06/19/liquid-ai-introduces-lfm2-5-embedding-350m-and-lfm2-5-colbert-350m-dense-bi-encoder-and-late-interaction-models-for-fast-multilingual-search-across-11-languages/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2197.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-19T10:29:39+00:00"
     },
     {
       "id": "8ad2b1d3c2a8e540",
