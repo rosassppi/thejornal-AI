@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-06-21T03:28:05.962163+00:00",
-  "total": 70,
+  "generated_at": "2026-06-21T09:48:45.607190+00:00",
+  "total": 78,
   "items": [
+    {
+      "id": "63e9b68fea2cb5dc",
+      "title": "Crawlee para Python: crie um pipeline de rastreamento da Web com manipulação de robôs, gráficos de links e exportação de pedaços RAG",
+      "summary": "Neste tutorial, construímos um fluxo de trabalho completo do Crawlee para Python, desde a configuração até a saída pronta para IA. Geramos um site de demonstração local e depois o rastreamos com BeautifulSoupCrawler…",
+      "link": "https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-21T06:52:10+00:00"
+    },
+    {
+      "id": "eb0067d55e7b736b",
+      "title": "Cisco AI apresenta FAPO: otimização de prompt com reconhecimento de pipeline com atribuição de falha em nível de etapa e orquestração de código Claude",
+      "summary": "Cisco Foundation AI tem FAPO (Fully Automated Prompt Optimization) de código aberto, um sistema baseado em Claude Code que otimiza autonomamente pipelines LLM de várias etapas desde a linha de base…",
+      "link": "https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-20T23:04:55+00:00"
+    },
+    {
+      "id": "e303c6b643b14633",
+      "title": "Nous Research atualiza o agente Hermes com um modo de folha em branco que fixa conjuntos de ferramentas via platform_toolsets.cli e disabled_toolsets",
+      "summary": "A Nous Research adicionou um modo de configuração Blank Slate ao seu Hermes Agent de código aberto. Ele inicia um agente com tudo desligado, exceto provedor, modelo, operações de arquivo e terminal. Você…",
+      "link": "https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-20T21:50:11+00:00"
+    },
     {
       "id": "20bfeecb69d72c26",
       "title": "Meredith Whittaker da Signal quer que você se lembre de que os chatbots de IA ‘não são seus amigos’",
@@ -91,6 +124,28 @@
       "published_at": "2026-06-20T12:40:00+00:00"
     },
     {
+      "id": "36eb0c4b6b9382e3",
+      "title": "Yandex Open-Sources YaFF: um formato de fio de cópia zero para Protobuf com velocidade de leitura quase estrutural",
+      "summary": "Neste artigo, examinamos o YaFF, o formato de transferência zero de cópia de código aberto do Yandex para o ecossistema Protobuf. Mantemos o arquivo .proto como a única fonte da verdade, mudando apenas como…",
+      "link": "https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-20T09:23:59+00:00"
+    },
+    {
+      "id": "b213fdf40090db39",
+      "title": "Como construir um pipeline de previsão com TimeCopilot usando modelos básicos e detecção automatizada de anomalias",
+      "summary": "Construímos um fluxo de trabalho de previsão ponta a ponta com o TimeCopilot em um painel de dados reais de passageiros de companhias aéreas e uma série sazonal sintética com anomalias injetadas. Nós avaliamos…",
+      "link": "https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-20T09:05:23+00:00"
+    },
+    {
       "id": "8d66340f604388c7",
       "title": "Alexa Plus chegou: a assistente da Amazon ficou inteligente de verdade?",
       "summary": "Com IA generativa, Alexa Plus entende comandos complexos, personaliza respostas e promete transformar a forma como interagimos com assistentes virtuais Ouça ao podcast.",
@@ -102,6 +157,17 @@
       "published_at": "2026-06-20T09:00:00+00:00"
     },
     {
+      "id": "1eba2fe0c2c9915e",
+      "title": "NVIDIA AI apresenta SpatialClaw: um agente sem treinamento que trata o código como uma interface de ação para raciocínio espacial",
+      "summary": "SpatialClaw é um agente livre de treinamento que escreve Python em um kernel persistente, compondo ferramentas de percepção para raciocínio espacial 3D O post NVIDIA AI apresenta SpatialClaw: A…",
+      "link": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-3.49.19-PM-1-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-19T22:51:59+00:00"
+    },
+    {
       "id": "0b42675c02c010f6",
       "title": "Do PGP ao Mythos: um breve histórico de controles de exportação que não impediram ninguém",
       "summary": "Nos últimos 30 anos, interromper o fluxo de software relacionado à segurança cibernética provou ser ineficaz. Não está claro por que funcionaria agora com o modelo de segurança cibernética da Anthropic…",
@@ -111,6 +177,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-06-19T22:40:14+00:00"
+    },
+    {
+      "id": "97a07fcdff0767b4",
+      "title": "VibeThinker-3B: um modelo de raciocínio denso 3B construído em Qwen2.5-Coder-3B com o pipeline pós-treinamento Spectrum-to-Signal",
+      "summary": "VibeThinker-3B, um modelo de raciocínio 3B licenciado pelo MIT que combina DeepSeek V3.2 e Kimi K2.5 em benchmarks verificáveis. A postagem VibeThinker-3B: Um modelo de raciocínio denso 3B construído em…",
+      "link": "https://www.marktechpost.com/2026/06/19/vibethinker-3b-a-3b-dense-reasoning-model-built-on-qwen2-5-coder-3b-with-the-spectrum-to-signal-post-training-pipeline/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-3.07.21-PM-1-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-19T22:06:31+00:00"
     },
     {
       "id": "f3edf7348dc1bc98",
@@ -199,6 +276,17 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-19T10:40:24+00:00"
+    },
+    {
+      "id": "0162de192780ba16",
+      "title": "Liquid AI apresenta LFM2.5-Embedding-350M e LFM2.5-ColBERT-350M: Dense Bi-Encoder e modelos de interação tardia para pesquisa multilíngue rápida em 11 idiomas",
+      "summary": "Os LFM2.5 Retrievers da Liquid AI combinam um bi-codificador denso e um modelo de interação tardia ColBERT para pesquisa multilíngue em dispositivos de ponta. A postagem Liquid AI apresenta…",
+      "link": "https://www.marktechpost.com/2026/06/19/liquid-ai-introduces-lfm2-5-embedding-350m-and-lfm2-5-colbert-350m-dense-bi-encoder-and-late-interaction-models-for-fast-multilingual-search-across-11-languages/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2197.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-19T10:29:39+00:00"
     },
     {
       "id": "8ad2b1d3c2a8e540",
