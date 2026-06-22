@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-06-21T19:28:16.704814+00:00",
-  "total": 73,
+  "generated_at": "2026-06-22T04:06:09.758762+00:00",
+  "total": 72,
   "items": [
+    {
+      "id": "4a975b89e4a0f0fb",
+      "title": "Samsung Electronics traz ChatGPT e Codex para funcionários",
+      "summary": "A Samsung Electronics implanta ChatGPT Enterprise e Codex para funcionários em todo o mundo, marcando um dos maiores lançamentos de IA empresarial da OpenAI.",
+      "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-21T23:00:00+00:00"
+    },
+    {
+      "id": "eeeb813a0781d8f2",
+      "title": "Echo Dot em destaque: confira as opções do smart speaker com Alexa em promoção",
+      "summary": "Se você quer transformar sua casa em um ambiente mais inteligente sem gastar muito, o momento é agora. A Amazon colocou em oferta três versões do Echo Dot — o smart speaker…",
+      "link": "https://olhardigital.com.br/2026/06/21/reviews/echo-dot-em-destaque-confira-as-opcoes-do-smart-speaker-com-alexa-em-promocao/",
+      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-21T20:26:00+00:00"
+    },
+    {
+      "id": "a418e78f9ad94270",
+      "title": "Como criar uma rotina de estudos com ChatGPT do jeito certo",
+      "summary": "Final de semestre, vestibulares, concursos, certificações e cursos online costumam trazer o mesmo desafio: há muito conteúdo para estudar e pouco tempo para organizar tudo de…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-criar-uma-rotina-de-estudos-com-chatgpt-do-jeito-certo/",
+      "image": "https://t.ctcdn.com.br/nho0fo8xkYzaDwv-IVfc-UleZVU=/700x394/smart/i1076813.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-21T19:30:00+00:00"
+    },
     {
       "id": "f8cc0a4fce02ae0c",
       "title": "Cofundador da Ubisoft, Claude Guillemot morre em acidente de avião",
@@ -23,39 +56,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-06-21T18:00:00+00:00"
-    },
-    {
-      "id": "ed87b021cf213d16",
-      "title": "Aliança entre Uber, Stellantis e Wayve pode mudar o futuro dos carros autônomos",
-      "summary": "Nova aliança entre Uber, Stellantis e Wayve aposta em carros autônomos sem motorista e tecnologia de IA para acelerar a chegada dos robotáxis. O post Aliança entre Uber…",
-      "link": "https://olhardigital.com.br/2026/06/21/carros-e-tecnologia/alianca-entre-uber-stellantis-e-wayve-pode-mudar-o-futuro-dos-carros-autonomos/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/robotaxis-wayve-1024x576.webp",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-21T17:33:24+00:00"
-    },
-    {
-      "id": "632c369be2b41213",
-      "title": "IA OpenAI acelera diagnóstico de doenças raras em hospital dos EUA",
-      "summary": "IA da OpenAI auxilia médicos nos EUA a diagnosticar 18 crianças com doenças raras em estudo que analisou genomas complexos. O post IA OpenAI acelera diagnóstico de doenças raras…",
-      "link": "https://olhardigital.com.br/2026/06/21/medicina-e-saude/ia-openai-acelera-diagnostico-de-doencas-raras-em-hospital-dos-eua/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/iStock-1882399241-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-21T16:25:56+00:00"
-    },
-    {
-      "id": "404b625c2fa5b6ab",
-      "title": "Samsung Neo QLED com IA: veja uma seleção de TVs 4K em promoção",
-      "summary": "Se você está de olho em uma TV nova, este é um bom momento para agir. Separamos três modelos da linha Samsung Vision AI Neo QLED Ultra 4K que chegaram em 2025 com tecnologia de…",
-      "link": "https://olhardigital.com.br/2026/06/21/reviews/samsung-neo-qled-com-ia-veja-uma-selecao-de-tvs-4k-em-promocao-2/",
-      "image": "https://m.media-amazon.com/images/I/41-5ZDRnUWL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-21T16:06:00+00:00"
     },
     {
       "id": "a0065c4a2f8d55a5",
@@ -584,17 +584,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-06-14T17:00:00+00:00"
-    },
-    {
-      "id": "dd73139d2e3dcd4c",
-      "title": "Novos cursos da OpenAI Academy para a próxima era de trabalho",
-      "summary": "A OpenAI apresenta três cursos da Academia que ajudam as pessoas a desenvolver habilidades práticas de IA, criar fluxos de trabalho repetíveis e aplicar agentes no trabalho diário.",
-      "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-12T10:00:00+00:00"
     },
     {
       "id": "d20d2186d5e0c63f",
