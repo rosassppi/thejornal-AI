@@ -1,7 +1,216 @@
 {
-  "generated_at": "2026-06-22T16:57:40.159146+00:00",
-  "total": 82,
+  "generated_at": "2026-06-22T20:47:14.871291+00:00",
+  "total": 86,
   "items": [
+    {
+      "id": "a69f3aac209d6a29",
+      "title": "xAI lança /goal no Grok Build, adicionando execução autônoma de longa duração com verificação integrada para tarefas de codificação em várias etapas",
+      "summary": "xAI introduziu /goal no Grok Build, um modo para execução autônoma de tarefas de longa duração. Você entrega um objetivo e o agente planeja uma abordagem, executa uma lista de verificação de progresso…",
+      "link": "https://www.marktechpost.com/2026/06/22/xai-launches-goal-in-grok-build-adding-long-running-autonomous-execution-with-built-in-verification-for-multi-step-coding-tasks/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-22T20:34:48+00:00"
+    },
+    {
+      "id": "5bb24ad1420de840",
+      "title": "Groq, fabricante de chips de IA, confirma aumento de US$ 650 milhões e refaz a equipe após acordo de não aquisição de US$ 20 bilhões da Nvidia",
+      "summary": "O que uma empresa de IA faz depois de um desses acordos de não aquisição? Groq levantou dinheiro, está investindo em seu negócio de neocloud e contratando novos executivos.",
+      "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-22T20:13:58+00:00"
+    },
+    {
+      "id": "f2b84ebb0336bdf9",
+      "title": "A Nvidia quer reduzir o uso de água no data center, mas isso não é o mesmo que resolver o problema de água da IA",
+      "summary": "A Nvidia anunciou um novo sistema de refrigeração que reduz o uso de água dentro do data center. Mas não faz nada para abordar o maior uso de água da IA ​​– as centrais eléctricas alimentadas a combustíveis fósseis.",
+      "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-22T20:08:15+00:00"
+    },
+    {
+      "id": "c5904f4bcee21439",
+      "title": "Chatbot Claude pode exigir documentos ou selfie dos usuários, diz nova política da Anthropic",
+      "summary": "Mudança na política do Claude amplia controle sobre contas suspeitas e pode incluir envio de documentos e selfie em verificações específicas O post Chatbot Claude pode exigir…",
+      "link": "https://olhardigital.com.br/2026/06/22/inteligencia-artificial/chatbot-claude-pode-exigir-documentos-ou-selfie-dos-usuarios-diz-nova-politica-da-anthropic/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/claude_mythos-1024x691.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-22T20:02:04+00:00"
+    },
+    {
+      "id": "d36b8fef351847dd",
+      "title": "A IA está amaldiçoando os locatários com a promessa de casas impossíveis",
+      "summary": "Joyce, natural de Nova York, não achava que seria fácil encontrar seu primeiro apartamento solo na cidade. Mas ela também não achava que seria um “inferno”. Depois de olhar para muitos pequenos…",
+      "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268589_Vitual_staging_AParkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-22T20:00:00+00:00"
+    },
+    {
+      "id": "6b56002ccd7aa64c",
+      "title": "Banco Central Europeu revela impacto limitado da IA sobre empregos e salários nos EUA",
+      "summary": "Estudo do BCE indica mudança no mercado de trabalho dos EUA com IA, mas sem impacto relevante em salários ou emprego até agora O post Banco Central Europeu revela impacto limitado…",
+      "link": "https://olhardigital.com.br/2026/06/22/inteligencia-artificial/banco-central-europeu-revela-impacto-limitado-da-ia-sobre-empregos-e-salarios-nos-eua/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/banco_central_europeu-1024x768.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-22T19:43:33+00:00"
+    },
+    {
+      "id": "dee837135aa3bfd7",
+      "title": "Xiaomi mostra óculos inteligentes no Brasil que desafiam Ray-Ban Meta",
+      "summary": "A Xiaomi aproveitou o início da Eletrolar Show 2026 nesta segunda-feira (22) para exibir seus novos óculos inteligentes com inteligência artificial no Brasil. O Xiaomi AI Glasses…",
+      "link": "https://canaltech.com.br/produtos/xiaomi-mostra-oculos-inteligentes-com-ia-que-desafiam-o-ray-ban-meta/",
+      "image": "https://t.ctcdn.com.br/qdl96an5qTBPNQnxpX0tsSOQs4U=/700x394/smart/i1136755.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-22T19:27:00+00:00"
+    },
+    {
+      "id": "29351f111d20007b",
+      "title": "Google e estúdio A24 fecham parceria de US$ 75 milhões para criar ferramentas de IA voltadas ao cinema",
+      "summary": "Iniciativa conjunta com a DeepMind mira novas ferramentas para cineastas, enquanto mercado audiovisual reage a mudanças trazidas pela IA O post Google e estúdio A24 fecham…",
+      "link": "https://olhardigital.com.br/2026/06/22/inteligencia-artificial/google-e-estudio-a24-fecham-parceria-de-us-75-milhoes-para-criar-ferramentas-de-ia-voltadas-ao-cinema/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/google-4-1024x768.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-22T19:08:30+00:00"
+    },
+    {
+      "id": "e643b29a87c198ee",
+      "title": "Galaxy Watch 8 tem desconto agressivo e sai por até 10x sem juros no Mercado Livre",
+      "summary": "Galaxy Watch 8 BT (40 mm) está com 55% de desconto ao resgatar cupom disponível; smartwatch traz IA, tela AMOLED de 1,47” com brilho de até 3.000 nits e sensores avançados Galaxy…",
+      "link": "https://tecnoblog.net/achados/galaxy-watch-8-tem-desconto-agressivo-e-sai-por-ate-10x-sem-juros-no-mercado-livre/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/ukunaxh68o-7.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-22T19:03:54+00:00"
+    },
+    {
+      "id": "af3838c4d9b79802",
+      "title": "Sua empresa está atrasada em IA? Um em cada quatro funcionários pode pedir demissão por causa disso",
+      "summary": "74% dos profissionais já utilizam IA semanalmente... mas grande maioria acredita que empresas ainda não entregam o suficiente O post Sua empresa está atrasada em IA? Um em cada…",
+      "link": "https://olhardigital.com.br/2026/06/22/inteligencia-artificial/sua-empresa-esta-atrasada-em-ia-um-em-cada-quatro-funcionarios-pode-pedir-demissao-por-causa-disso/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2023/06/Automacao-IA-2-1024x768.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-22T19:03:19+00:00"
+    },
+    {
+      "id": "17cf73453cd11cb3",
+      "title": "Google DeepMind aposta US$ 75 milhões no futuro da IA ​​em Hollywood com acordo A24",
+      "summary": "Google DeepMind e A24 estão se unindo para construir ferramentas de produção cinematográfica de IA.",
+      "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-22T18:49:44+00:00"
+    },
+    {
+      "id": "ce81620d26d8326a",
+      "title": "Sakana AI lança Sakana Fugu: um modelo de orquestração que encaminha tarefas através de um conjunto intercambiável de LLMs de fronteira",
+      "summary": "Fugu e Fugu Ultra roteiam tarefas em um pool de modelos trocáveis, liderando a maioria dos benchmarks de codificação, raciocínio e agentes. O post Sakana AI lança Sakana Fugu: uma orquestração…",
+      "link": "https://www.marktechpost.com/2026/06/22/sakana-ai-launches-sakana-fugu-an-orchestration-model-that-routes-tasks-across-a-swappable-pool-of-frontier-llms/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-22T18:42:59+00:00"
+    },
+    {
+      "id": "6248bb117d769c8d",
+      "title": "Chips da Nvidia e IA aberta: o novo acordo bilionário da SpaceX",
+      "summary": "SpaceX fecha acordo bilionário de até US$ 6,3 bilhões com startup de IA e amplia uso de sua infraestrutura em computação avançada O post Chips da Nvidia e IA aberta: o novo acordo…",
+      "link": "https://olhardigital.com.br/2026/06/22/pro/chips-da-nvidia-e-ia-aberta-o-novo-acordo-bilionario-da-spacex/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/ia-computacao-1024x597.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-22T18:42:56+00:00"
+    },
+    {
+      "id": "f2ea0a1a1131db4c",
+      "title": "Anthropic diz que Claude pode querer ver sua identidade",
+      "summary": "O chatbot de Claude pode solicitar a verificação de sua idade e identidade “em certas circunstâncias”, como passaporte ou carteira de motorista, de acordo com uma alteração na política de privacidade.",
+      "link": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-22T18:05:13+00:00"
+    },
+    {
+      "id": "d5700dccd3e7bd12",
+      "title": "Como Intel e AMD querem fazer chips x86 lidarem com tarefas de IA",
+      "summary": "Intel e AMD publicaram especificação 1.15 do ACE, padrão que permitirá execução local de determinadas tarefas de IA por CPUs x86. Como Intel e AMD querem fazer chips x86 lidarem…",
+      "link": "https://tecnoblog.net/noticias/como-intel-e-amd-querem-fazer-chips-x86-lidarem-com-tarefas-de-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/10/wafer-silicio-chip-quantico-intel-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-22T18:03:14+00:00"
+    },
+    {
+      "id": "87c282464d6eaf83",
+      "title": "Três coisas para observar em meio à última rivalidade da Anthropic com o governo",
+      "summary": "Esta história apareceu originalmente em The Algorithm, nosso boletim informativo semanal sobre IA. Para receber histórias como essa em sua caixa de entrada primeiro, inscreva-se aqui. Para você que está aproveitando o verão...",
+      "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-22T18:00:00+00:00"
+    },
+    {
+      "id": "a650f7661a99650a",
+      "title": "Bug no OpenAI Codex pode destruir seu SSD em menos de um ano; veja como corrigir",
+      "summary": "Um bug identificado no cliente de linha de comando (CLI) do OpenAI Codex está gerando um volume excessivo de gravações em unidades de armazenamento de estado sólido (SSD), o que…",
+      "link": "https://canaltech.com.br/apps/bug-no-openai-codex-pode-destruir-seu-ssd-em-menos-de-um-ano-veja-como-corrigir/",
+      "image": "https://t.ctcdn.com.br/ORRvRPW-20CNZ2lZodY0p_I96kQ=/700x394/smart/i1129353.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-22T18:00:00+00:00"
+    },
+    {
+      "id": "770e025b874436db",
+      "title": "Copa do Mundo coloca em teste os limites do reconhecimento facial em massa",
+      "summary": "*Fernando Manfrin A Copa do Mundo de 2026 deve marcar um dos maiores usos de reconhecimento facial já aplicados em um evento esportivo global. Estádios inteligentes, controle…",
+      "link": "https://canaltech.com.br/colunas/copa-do-mundo-coloca-em-teste-os-limites-do-reconhecimento-facial-em-massa/",
+      "image": "https://t.ctcdn.com.br/-Ogzi-wEBkhZEA3c2YTAOc56GW4=/700x394/smart/i366131.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-22T17:44:46+00:00"
+    },
+    {
+      "id": "8bb7dc69ec75da3d",
+      "title": "Amazon está testando Alexa+ na Índia com suporte em hindi",
+      "summary": "A Amazon está planejando aumentar a presença de seu novo assistente de IA de conversação Alexa + na Índia e está convidando os usuários do país a testar uma versão em hindi.",
+      "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-22T17:31:29+00:00"
+    },
     {
       "id": "624c08170d2c4a0c",
       "title": "SpaceX fecha acordo de computação com Reflection AI, um laboratório de IA de código aberto",
@@ -34,50 +243,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-06-22T16:08:13+00:00"
-    },
-    {
-      "id": "d183f7709853bea2",
-      "title": "Busca por IA já disputa espaço com o Google no Brasil, mostra pesquisa",
-      "summary": "A busca tradicional ainda domina, mas os assistentes de inteligência artificial já entraram na rotina de pesquisa dos brasileiros . É o que mostra a nova edição do “Super…",
-      "link": "https://canaltech.com.br/apps/busca-por-ia-ja-disputa-espaco-com-o-google-no-brasil-mostra-pesquisa/",
-      "image": "https://t.ctcdn.com.br/Um8aoocB3kDtY0yQp1_MOA0-eU8=/700x394/smart/i992771.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-22T15:50:01+00:00"
-    },
-    {
-      "id": "57b28d10b57883db",
-      "title": "Luto nos games: morre Claude Guillemot, cofundador da Ubisoft",
-      "summary": "O cofundador da Ubisoft , Claude Guillemot , faleceu na última sexta-feira (19) em um acidente de avião na França. Aos 69 anos de idade, ele sofreu o desastre na cidade de La…",
-      "link": "https://canaltech.com.br/games/luto-nos-games-morre-claude-guillemot-cofundador-da-ubisoft/",
-      "image": "https://t.ctcdn.com.br/DQAGUTyoEvSoiuBfkKkUMATncEw=/700x394/smart/i1136491.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-22T15:50:00+00:00"
-    },
-    {
-      "id": "4bb6a4ae3ae8cc84",
-      "title": "TikTok distribui mais vídeos falsos de IA do que o YouTube Shorts",
-      "summary": "Uma pesquisa da plataforma de edição de vídeo Kapwing revelou que o TikTok distribui três vezes mais conteúdos de baixa qualidade gerados por inteligência artificial (IA)…",
-      "link": "https://canaltech.com.br/apps/tiktok-distribui-mais-videos-falsos-de-ia-do-que-o-youtube-shorts/",
-      "image": "https://t.ctcdn.com.br/wMZPLq_oTIjcDuktxhlHUO0ullQ=/700x394/smart/i1046343.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-22T15:00:00+00:00"
-    },
-    {
-      "id": "659dd6566223fc41",
-      "title": "iOS 27: Conheça as funções de IA que vão deixar o iPhone mais inteligente",
-      "summary": "Com o lançamento do iOS 27, a Apple está dando mais espaço para a inteligência artificial no iPhone. A Apple Intelligence vai aparecer em vários aplicativos do sistema, enquanto a…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ios-27-conheca-as-funcoes-de-ia-que-vao-deixar-o-iphone-mais-inteligente/",
-      "image": "https://t.ctcdn.com.br/j8ZKT-Ey8F9Z8UhPHdv7JZE7PqQ=/700x394/smart/i1136155.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-22T14:05:00+00:00"
     },
     {
       "id": "b58a8aabb6223ec6",
@@ -124,17 +289,6 @@
       "published_at": "2026-06-22T13:18:56+00:00"
     },
     {
-      "id": "8eb31317fff24224",
-      "title": "Acordo histórico faz Samsung liberar ChatGPT para funcionários",
-      "summary": "A OpenAI anunciou neste domingo (21) um acordo com a Samsung Electronics para implantar o ChatGPT Enterprise e o Codex na empresa. O acesso será liberado para todos os…",
-      "link": "https://canaltech.com.br/mercado/acordo-historico-faz-samsung-liberar-chatgpt-para-funcionarios/",
-      "image": "https://t.ctcdn.com.br/xd7PX63TXzmQbRAVRUtJt4QJkeQ=/700x394/smart/i1127081.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-22T12:30:00+00:00"
-    },
-    {
       "id": "c47909c526bb4772",
       "title": "Leia isto antes de codificar outro aplicativo",
       "summary": "Bob Starr ficou encantado com seu site codificado por vibração. \"Boomberg\" mostrou quanto dinheiro dos impostos dos EUA está indo para empresas de tecnologia, e Starr o lançou online imediatamente após fazê-lo...",
@@ -144,6 +298,28 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-22T11:00:00+00:00"
+    },
+    {
+      "id": "b63e5cb33bb0ec81",
+      "title": "Daybreak: Ferramentas para proteger todas as organizações do mundo",
+      "summary": "OpenAI apresenta novas ferramentas Daybreak, incluindo Codex Security e GPT-5.5-Cyber, para ajudar as organizações a encontrar, validar e corrigir vulnerabilidades em escala.",
+      "link": "https://openai.com/index/daybreak-securing-the-world",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-22T10:00:00+00:00"
+    },
+    {
+      "id": "3696e67c2c9e8aaa",
+      "title": "Patch the Planet: uma iniciativa Daybreak para apoiar mantenedores de código aberto",
+      "summary": "OpenAI apresenta Patch the Planet, uma iniciativa Daybreak que ajuda mantenedores de código aberto a encontrar, validar e corrigir vulnerabilidades com IA e revisão especializada.",
+      "link": "https://openai.com/index/patch-the-planet",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-22T10:00:00+00:00"
     },
     {
       "id": "2712033b3228d9c8",
@@ -166,6 +342,17 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-22T00:13:29+00:00"
+    },
+    {
+      "id": "e2330fefe7e28987",
+      "title": "Codex-maxxing para trabalhos de longa duração",
+      "summary": "Saiba como Jason Liu usa o Codex para preservar o contexto, gerenciar projetos complexos e ajudar o trabalho a continuar além de um único prompt.",
+      "link": "https://openai.com/index/codex-maxxing-long-running-work",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-22T00:00:00+00:00"
     },
     {
       "id": "f42baf77b9f42c29",
@@ -212,17 +399,6 @@
       "published_at": "2026-06-21T15:28:17+00:00"
     },
     {
-      "id": "7f055dff129a6d7e",
-      "title": "Além da Siri: aqui estão os recursos práticos de IA que chegarão ao seu iPhone no iOS 27",
-      "summary": "A revisão da IA ​​da Siri pode ter ganhado as manchetes na WWDC, mas alguns dos recursos de IA mais úteis da Apple estão chegando em outro lugar no iOS 27.",
-      "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-21T14:40:28+00:00"
-    },
-    {
       "id": "63e9b68fea2cb5dc",
       "title": "Crawlee para Python: crie um pipeline de rastreamento da Web com manipulação de robôs, gráficos de links e exportação de pedaços RAG",
       "summary": "Neste tutorial, construímos um fluxo de trabalho completo do Crawlee para Python, desde a configuração até a saída pronta para IA. Geramos um site de demonstração local e depois o rastreamos com BeautifulSoupCrawler…",
@@ -256,28 +432,6 @@
       "published_at": "2026-06-20T21:50:11+00:00"
     },
     {
-      "id": "20bfeecb69d72c26",
-      "title": "Meredith Whittaker da Signal quer que você se lembre de que os chatbots de IA ‘não são seus amigos’",
-      "summary": "\"Estes não são seus amigos. Estes não são seres conscientes. Estes não são interlocutores sencientes.\"",
-      "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-20T20:32:29+00:00"
-    },
-    {
-      "id": "abec0710ffac301a",
-      "title": "In the Weights está sua nova pesquisa personalizada centrada em IA",
-      "summary": "Então... qual é a sua pontuação no In the Weights?",
-      "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-20T19:41:11+00:00"
-    },
-    {
       "id": "549e0398a8a15bf3",
       "title": "The Atlantic criou um banco de dados pesquisável da música usada para treinar IA",
       "summary": "O repórter da Atlantic, Alex Reisner, descobriu recentemente quatro conjuntos de dados de música usados ​​para treinar modelos de IA e os tornou totalmente pesquisáveis ​​para o público. Dois dos conjuntos são…",
@@ -289,50 +443,6 @@
       "published_at": "2026-06-20T18:46:48+00:00"
     },
     {
-      "id": "2f622a8d7dc7ae66",
-      "title": "O ganhador do Nobel John Jumper está trocando a DeepMind pela rival Anthropic",
-      "summary": "Jumper não é o único grande nome que deixou o Google DeepMind.",
-      "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-20T16:39:57+00:00"
-    },
-    {
-      "id": "039c4efbe8623f97",
-      "title": "Cada novo recurso do iOS 27 que vale a pena conhecer",
-      "summary": "Embora não seja chamativo como as novas atualizações Siri AI e Apple Intelligence da Apple, ainda há uma série de adições ao iOS 27 que vale a pena dar uma olhada.",
-      "link": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-20T15:00:00+00:00"
-    },
-    {
-      "id": "36eb0c4b6b9382e3",
-      "title": "Yandex Open-Sources YaFF: um formato de fio de cópia zero para Protobuf com velocidade de leitura quase estrutural",
-      "summary": "Neste artigo, examinamos o YaFF, o formato de transferência zero de cópia de código aberto do Yandex para o ecossistema Protobuf. Mantemos o arquivo .proto como a única fonte da verdade, mudando apenas como…",
-      "link": "https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-20T09:23:59+00:00"
-    },
-    {
-      "id": "b213fdf40090db39",
-      "title": "Como construir um pipeline de previsão com TimeCopilot usando modelos básicos e detecção automatizada de anomalias",
-      "summary": "Construímos um fluxo de trabalho de previsão ponta a ponta com o TimeCopilot em um painel de dados reais de passageiros de companhias aéreas e uma série sazonal sintética com anomalias injetadas. Nós avaliamos…",
-      "link": "https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-20T09:05:23+00:00"
-    },
-    {
       "id": "f3edf7348dc1bc98",
       "title": "Smart TV 4K LG QNED 65″ atinge oferta jamais vista no Mercado Livre",
       "summary": "Smart TV LG QNED73 de 65 polegadas está em promoção inédita com 44% de desconto. Televisão com resolução 4K Ultra HD promete reproduzir 100% do DCI-P3 e traz inteligência…",
@@ -342,17 +452,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-06-19T20:38:09+00:00"
-    },
-    {
-      "id": "8615437db14a6948",
-      "title": "Alexa+: veja quais dispositivos são compatíveis ou não",
-      "summary": "Nova assistente da Amazon com IA generativa chegou ao Brasil. Confira se o seu produto suporta a atualização. Alexa+: veja quais dispositivos são compatíveis ou não",
-      "link": "https://tecnoblog.net/noticias/alexa-veja-quais-dispositivos-sao-compativeis-ou-nao/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/sz2gucw_zhw-1.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-19T15:34:46+00:00"
     },
     {
       "id": "b98b96efdd669128",
@@ -459,17 +558,6 @@
       "summary": "O plano da Adobe de incluir assistentes de IA em todo o seu pacote Creative Cloud está agora em pleno andamento, com novos chatbots sendo lançados em seus maiores aplicativos de edição e design. Como parte…",
       "link": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-18T13:00:00+00:00"
-    },
-    {
-      "id": "64631c10407a42ba",
-      "title": "O estúdio de IA redesenhado da Adobe lembra a aparência de suas criações",
-      "summary": "A Adobe está introduzindo alguns novos recursos para seu assistente Firefly AI, juntamente com um estúdio de IA “reimaginado” que permite editar e gerar novos designs a partir de uma única interface…",
-      "link": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Firefly-AI-studio-updates-lede.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
@@ -608,17 +696,6 @@
       "published_at": "2026-06-17T09:01:25+00:00"
     },
     {
-      "id": "381e7f583722c98d",
-      "title": "Apresentando LifeSciBench",
-      "summary": "Apresentando o LifeSciBench, um benchmark de autoria e revisão especializada para avaliar como os sistemas de IA lidam com tarefas e decisões de pesquisa em ciências da vida no mundo real.",
-      "link": "https://openai.com/index/introducing-life-sci-bench",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-17T00:00:00+00:00"
-    },
-    {
       "id": "b59b3271b775356f",
       "title": "Agentic Resource Discovery: permite que os agentes pesquisem",
       "summary": "",
@@ -663,17 +740,6 @@
       "published_at": "2026-06-16T09:00:00+00:00"
     },
     {
-      "id": "c000018ba1f03575",
-      "title": "Prever o comportamento do modelo antes do lançamento, simulando a implantação",
-      "summary": "OpenAI apresenta Simulação de Implantação, um método para prever o comportamento do modelo de IA antes da implantação usando dados reais de conversação para melhorar a segurança e a precisão da avaliação.",
-      "link": "https://openai.com/index/deployment-simulation",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-16T00:00:00+00:00"
-    },
-    {
       "id": "03dd6b7bca3abc23",
       "title": "Por que os sul-coreanos amam tanto a IA?",
       "summary": "Esta história apareceu originalmente em The Algorithm, nosso boletim informativo semanal sobre IA. Para receber histórias como essa em sua caixa de entrada primeiro, inscreva-se aqui. Quando cheguei em Seul depois de uma viagem cansativa…",
@@ -694,17 +760,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-06-15T15:00:00+00:00"
-    },
-    {
-      "id": "4a1a2edfc53fbcf8",
-      "title": "Apresentando a rede de parceiros OpenAI",
-      "summary": "OpenAI lança a Partner Network, investindo US$ 150 milhões para ajudar parceiros globais a acelerar a adoção, implantação e transformação de IA empresarial.",
-      "link": "https://openai.com/index/introducing-openai-partner-network",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-14T17:00:00+00:00"
     },
     {
       "id": "d20d2186d5e0c63f",
@@ -771,17 +826,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-05T09:00:00+00:00"
-    },
-    {
-      "id": "4abc503008ea1c08",
-      "title": "Como os tribunais estão lidando com uma enxurrada de ações judiciais geradas por IA",
-      "summary": "Na maioria dos dias em seu gabinete, a juíza Maritza Braswell, juíza federal do Colorado, examina pilhas de documentos escritos por pessoas sem advogado. Muitos deles não conseguem…",
-      "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-04T10:50:18+00:00"
     },
     {
       "id": "bb4886b95744d7c7",
