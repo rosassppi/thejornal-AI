@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-06-22T04:06:09.758762+00:00",
-  "total": 72,
+  "generated_at": "2026-06-22T11:51:59.174005+00:00",
+  "total": 79,
   "items": [
+    {
+      "id": "c47909c526bb4772",
+      "title": "Leia isto antes de codificar outro aplicativo",
+      "summary": "Bob Starr ficou encantado com seu site codificado por vibração. \"Boomberg\" mostrou quanto dinheiro dos impostos dos EUA está indo para empresas de tecnologia, e Starr o lançou online imediatamente após fazê-lo...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268570_vibe_coding_security_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-22T11:00:00+00:00"
+    },
+    {
+      "id": "5b8f9918cf47c22b",
+      "title": "Gigante da IA derruba Samsung e conquista posto histórico na Coreia do Sul",
+      "summary": "Com o boom da inteligência artificial, a SK Hynix dispara no mercado e ultrapassa a Samsung em valor, mudando o cenário global de chips O post Gigante da IA derruba Samsung e…",
+      "link": "https://olhardigital.com.br/2026/06/22/pro/gigante-da-ia-derruba-samsung-e-conquista-posto-historico-na-coreia-do-sul/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/sk_hynix-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-22T10:34:39+00:00"
+    },
+    {
+      "id": "f1f3b0b40ef86354",
+      "title": "Hackers enganaram a IA? O alerta que empresas não podem ignorar",
+      "summary": "Ataque que comprometeu contas do Instagram levanta debate sobre segurança, governança e autonomia dos agentes de inteligência artificial Ouça ao podcast.",
+      "link": "https://canaltech.com.br/podcast/podcast-canaltech/hackers-enganaram-a-ia-o-alerta-que-empresas-nao-podem-ignorar-6573/",
+      "image": "https://t.ctcdn.com.br/TvivQ3oOotCdwsVelxzHmZPJ4_g=/700x394/smart/i1136331.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-22T09:00:00+00:00"
+    },
+    {
+      "id": "2712033b3228d9c8",
+      "title": "MoonMath AI abre o código-fonte de um kernel de atenção HIP para AMD MI300X que supera o AITER v3 em todas as formas e modos de arredondamento",
+      "summary": "O kernel HIP usa wrappers ASM de uma instrução e um pipeline de oito ondas para superar o AITER v3 da AMD no MI300X. A postagem MoonMath AI abre o código-fonte de um kernel de atenção HIP para…",
+      "link": "https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-22T07:13:49+00:00"
+    },
+    {
+      "id": "0255a5faa006183d",
+      "title": "Como projetar painéis interativos Python-First com componentes de UI reativos pré-fabricados e exportação de HTML estático",
+      "summary": "Neste tutorial, construímos um aplicativo Prefab que cria painéis interativos inteiramente em Python. Desenhamos um dashboard de operações com estado reativo, gráficos, tabelas…",
+      "link": "https://www.marktechpost.com/2026/06/21/how-to-design-python-first-interactive-dashboards-with-prefab-reactive-ui-components-and-static-html-export/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-22T00:13:29+00:00"
+    },
+    {
+      "id": "f42baf77b9f42c29",
+      "title": "Os 7 tipos de memória de agente: um guia técnico para engenheiros de IA",
+      "summary": "LLMs são sem estado por padrão. A memória do agente corrige isso. Este guia divide todos os 7 tipos – funcional, semântico, episódico, processual, recuperação, paramétrico e prospectivo. Isto…",
+      "link": "https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-21T23:12:31+00:00"
+    },
     {
       "id": "4a975b89e4a0f0fb",
       "title": "Samsung Electronics traz ChatGPT e Codex para funcionários",
@@ -12,17 +78,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-06-21T23:00:00+00:00"
-    },
-    {
-      "id": "eeeb813a0781d8f2",
-      "title": "Echo Dot em destaque: confira as opções do smart speaker com Alexa em promoção",
-      "summary": "Se você quer transformar sua casa em um ambiente mais inteligente sem gastar muito, o momento é agora. A Amazon colocou em oferta três versões do Echo Dot — o smart speaker…",
-      "link": "https://olhardigital.com.br/2026/06/21/reviews/echo-dot-em-destaque-confira-as-opcoes-do-smart-speaker-com-alexa-em-promocao/",
-      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-21T20:26:00+00:00"
     },
     {
       "id": "a418e78f9ad94270",
@@ -91,6 +146,39 @@
       "published_at": "2026-06-21T12:35:00+00:00"
     },
     {
+      "id": "63e9b68fea2cb5dc",
+      "title": "Crawlee para Python: crie um pipeline de rastreamento da Web com manipulação de robôs, gráficos de links e exportação de pedaços RAG",
+      "summary": "Neste tutorial, construímos um fluxo de trabalho completo do Crawlee para Python, desde a configuração até a saída pronta para IA. Geramos um site de demonstração local e depois o rastreamos com BeautifulSoupCrawler…",
+      "link": "https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-21T06:52:10+00:00"
+    },
+    {
+      "id": "eb0067d55e7b736b",
+      "title": "Cisco AI apresenta FAPO: otimização de prompt com reconhecimento de pipeline com atribuição de falha em nível de etapa e orquestração de código Claude",
+      "summary": "Cisco Foundation AI tem FAPO (Fully Automated Prompt Optimization) de código aberto, um sistema baseado em Claude Code que otimiza autonomamente pipelines LLM de várias etapas desde a linha de base…",
+      "link": "https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-20T23:04:55+00:00"
+    },
+    {
+      "id": "e303c6b643b14633",
+      "title": "Nous Research atualiza o agente Hermes com um modo de folha em branco que fixa conjuntos de ferramentas via platform_toolsets.cli e disabled_toolsets",
+      "summary": "A Nous Research adicionou um modo de configuração Blank Slate ao seu Hermes Agent de código aberto. Ele inicia um agente com tudo desligado, exceto provedor, modelo, operações de arquivo e terminal. Você…",
+      "link": "https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-20T21:50:11+00:00"
+    },
+    {
       "id": "20bfeecb69d72c26",
       "title": "Meredith Whittaker da Signal quer que você se lembre de que os chatbots de IA ‘não são seus amigos’",
       "summary": "\"Estes não são seus amigos. Estes não são seres conscientes. Estes não são interlocutores sencientes.\"",
@@ -113,17 +201,6 @@
       "published_at": "2026-06-20T19:41:11+00:00"
     },
     {
-      "id": "e464ad330836ee81",
-      "title": "Como transformar uma ideia em roteiro de vídeo com a ajuda da IA",
-      "summary": "Você já teve uma boa ideia para um vídeo, mas travou na hora de montar o roteiro? Isso acontece com muitas pessoas. Às vezes, o tema já está definido e você sabe mais ou menos o…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-transformar-uma-ideia-em-roteiro-de-video-com-a-ajuda-da-ia/",
-      "image": "https://t.ctcdn.com.br/MGeZfQAEnGVxs88CkrfznECWBI8=/700x394/smart/i1125177.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-20T19:30:00+00:00"
-    },
-    {
       "id": "549e0398a8a15bf3",
       "title": "The Atlantic criou um banco de dados pesquisável da música usada para treinar IA",
       "summary": "O repórter da Atlantic, Alex Reisner, descobriu recentemente quatro conjuntos de dados de música usados ​​para treinar modelos de IA e os tornou totalmente pesquisáveis ​​para o público. Dois dos conjuntos são…",
@@ -133,17 +210,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-20T18:46:48+00:00"
-    },
-    {
-      "id": "4f4f7ff46910a48e",
-      "title": "8 formas de assinar o Gemini mais barato ou de graça",
-      "summary": "Muita gente pensa no AI Pro quando fala em Gemini pago, mas a verdade é que o Google já tem uma opção mais acessível , o AI Plus, além de alguns caminhos que podem ajudar a gastar…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-assinar-o-gemini-mais-barato-ou-de-graca/",
-      "image": "https://t.ctcdn.com.br/xJsYmUSfVb47gNGY9_wAC1H0BII=/700x394/smart/i1135135.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-20T18:00:00+00:00"
     },
     {
       "id": "2f622a8d7dc7ae66",
@@ -166,6 +232,28 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-06-20T15:00:00+00:00"
+    },
+    {
+      "id": "36eb0c4b6b9382e3",
+      "title": "Yandex Open-Sources YaFF: um formato de fio de cópia zero para Protobuf com velocidade de leitura quase estrutural",
+      "summary": "Neste artigo, examinamos o YaFF, o formato de transferência zero de cópia de código aberto do Yandex para o ecossistema Protobuf. Mantemos o arquivo .proto como a única fonte da verdade, mudando apenas como…",
+      "link": "https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-20T09:23:59+00:00"
+    },
+    {
+      "id": "b213fdf40090db39",
+      "title": "Como construir um pipeline de previsão com TimeCopilot usando modelos básicos e detecção automatizada de anomalias",
+      "summary": "Construímos um fluxo de trabalho de previsão ponta a ponta com o TimeCopilot em um painel de dados reais de passageiros de companhias aéreas e uma série sazonal sintética com anomalias injetadas. Nós avaliamos…",
+      "link": "https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-20T09:05:23+00:00"
     },
     {
       "id": "0b42675c02c010f6",
@@ -353,17 +441,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-06-18T08:00:00+00:00"
-    },
-    {
-      "id": "67d0422be3c1f116",
-      "title": "Midjourney vai desde a geração de imagens de gatos até ultrassonografias de corpo inteiro",
-      "summary": "O CEO da Midjourney, David Holz, acaba de exibir o primeiro produto de hardware da empresa e planeja construir um spa em São Francisco, que ele admitiu ser um pouco diferente das “fotos de gatos”…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-18T03:12:31+00:00"
     },
     {
       "id": "26cac67090219df5",
