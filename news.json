@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-06-22T11:51:59.174005+00:00",
-  "total": 79,
+  "generated_at": "2026-06-22T16:57:40.159146+00:00",
+  "total": 82,
   "items": [
+    {
+      "id": "624c08170d2c4a0c",
+      "title": "SpaceX fecha acordo de computação com Reflection AI, um laboratório de IA de código aberto",
+      "summary": "A Reflection AI pagará US $ 150 milhões por mês, de 1º de julho de 2026 a 2029, para acesso imediato aos mais recentes chips GB300 AI da Nvidia e hardware de suporte em toda a SpaceX…",
+      "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-22T16:51:29+00:00"
+    },
+    {
+      "id": "08acfb94e91f4a5f",
+      "title": "Samsung perde a coroa para SK Hynix após mais de duas décadas",
+      "summary": "Impulsionada pelo boom dos chips de IA, fabricante supera o valor de mercado da Samsung pela primeira vez na história. Samsung perde a coroa para SK Hynix após mais de duas décadas",
+      "link": "https://tecnoblog.net/noticias/samsung-perde-a-coroa-para-sk-hynix-apos-mais-de-duas-decadas/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/05/predio-sk-hynix-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-22T16:36:55+00:00"
+    },
+    {
+      "id": "40c4139fa362d2a9",
+      "title": "CEO da Microsoft diz que monopólios de IA são um problema",
+      "summary": "Satya Nadella criticou o domínio de poucas gigantes no setor. Executivo defendeu modelos de inteligência artificial mais baratos. CEO da Microsoft diz que monopólios de IA são um…",
+      "link": "https://tecnoblog.net/noticias/ceo-da-microsoft-diz-que-monopolios-de-ia-sao-um-problema/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/satya-nadella-ceo-edited-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-22T16:08:13+00:00"
+    },
+    {
+      "id": "d183f7709853bea2",
+      "title": "Busca por IA já disputa espaço com o Google no Brasil, mostra pesquisa",
+      "summary": "A busca tradicional ainda domina, mas os assistentes de inteligência artificial já entraram na rotina de pesquisa dos brasileiros . É o que mostra a nova edição do “Super…",
+      "link": "https://canaltech.com.br/apps/busca-por-ia-ja-disputa-espaco-com-o-google-no-brasil-mostra-pesquisa/",
+      "image": "https://t.ctcdn.com.br/Um8aoocB3kDtY0yQp1_MOA0-eU8=/700x394/smart/i992771.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-22T15:50:01+00:00"
+    },
+    {
+      "id": "57b28d10b57883db",
+      "title": "Luto nos games: morre Claude Guillemot, cofundador da Ubisoft",
+      "summary": "O cofundador da Ubisoft , Claude Guillemot , faleceu na última sexta-feira (19) em um acidente de avião na França. Aos 69 anos de idade, ele sofreu o desastre na cidade de La…",
+      "link": "https://canaltech.com.br/games/luto-nos-games-morre-claude-guillemot-cofundador-da-ubisoft/",
+      "image": "https://t.ctcdn.com.br/DQAGUTyoEvSoiuBfkKkUMATncEw=/700x394/smart/i1136491.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-22T15:50:00+00:00"
+    },
+    {
+      "id": "4bb6a4ae3ae8cc84",
+      "title": "TikTok distribui mais vídeos falsos de IA do que o YouTube Shorts",
+      "summary": "Uma pesquisa da plataforma de edição de vídeo Kapwing revelou que o TikTok distribui três vezes mais conteúdos de baixa qualidade gerados por inteligência artificial (IA)…",
+      "link": "https://canaltech.com.br/apps/tiktok-distribui-mais-videos-falsos-de-ia-do-que-o-youtube-shorts/",
+      "image": "https://t.ctcdn.com.br/wMZPLq_oTIjcDuktxhlHUO0ullQ=/700x394/smart/i1046343.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-22T15:00:00+00:00"
+    },
+    {
+      "id": "659dd6566223fc41",
+      "title": "iOS 27: Conheça as funções de IA que vão deixar o iPhone mais inteligente",
+      "summary": "Com o lançamento do iOS 27, a Apple está dando mais espaço para a inteligência artificial no iPhone. A Apple Intelligence vai aparecer em vários aplicativos do sistema, enquanto a…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/ios-27-conheca-as-funcoes-de-ia-que-vao-deixar-o-iphone-mais-inteligente/",
+      "image": "https://t.ctcdn.com.br/j8ZKT-Ey8F9Z8UhPHdv7JZE7PqQ=/700x394/smart/i1136155.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-22T14:05:00+00:00"
+    },
+    {
+      "id": "b58a8aabb6223ec6",
+      "title": "Como a Anthropic pode ter se convencido a proibir a exportação de IA",
+      "summary": "A empresa alertou sobre os perigos da IA ​​avançada muito mais do que a rival OpenAI.",
+      "link": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/lock-anthropic-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-22T13:45:24+00:00"
+    },
+    {
+      "id": "2437b60bc3c346fb",
+      "title": "Meta vive um dos piores climas da história, diz chefão",
+      "summary": "Diretor de tecnologia da empresa reconheceu que foco em IA, demissões e vigilância derrubaram moral dos funcionários de Mark Zuckerberg. Meta vive um dos piores climas da…",
+      "link": "https://tecnoblog.net/noticias/meta-vive-um-dos-piores-climas-da-historia-diz-chefao/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-01-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-22T13:36:29+00:00"
+    },
+    {
+      "id": "edef0cd9e56a4edb",
+      "title": "O que é NotebookLM? Conheça a ferramenta de IA do Google",
+      "summary": "O NotebookLM transforma arquivos complexos em bases de conhecimentos interativas e organizadas, sendo aplicado em negócios, análises profissionais e ambientes educacionais O que é…",
+      "link": "https://tecnoblog.net/responde/o-que-e-notebooklm-conheca-a-ferramenta-de-ia-do-google/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/10/chamada-notebooklm-google-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-22T13:34:39+00:00"
+    },
+    {
+      "id": "b497f30634e434d9",
+      "title": "PP-OCRv6 no rosto que abraça: OCR de 50 idiomas de parâmetros de 1,5M a 34,5M",
+      "summary": "",
+      "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-22T13:18:56+00:00"
+    },
+    {
+      "id": "8eb31317fff24224",
+      "title": "Acordo histórico faz Samsung liberar ChatGPT para funcionários",
+      "summary": "A OpenAI anunciou neste domingo (21) um acordo com a Samsung Electronics para implantar o ChatGPT Enterprise e o Codex na empresa. O acesso será liberado para todos os…",
+      "link": "https://canaltech.com.br/mercado/acordo-historico-faz-samsung-liberar-chatgpt-para-funcionarios/",
+      "image": "https://t.ctcdn.com.br/xd7PX63TXzmQbRAVRUtJt4QJkeQ=/700x394/smart/i1127081.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-22T12:30:00+00:00"
+    },
     {
       "id": "c47909c526bb4772",
       "title": "Leia isto antes de codificar outro aplicativo",
@@ -12,28 +144,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-22T11:00:00+00:00"
-    },
-    {
-      "id": "5b8f9918cf47c22b",
-      "title": "Gigante da IA derruba Samsung e conquista posto histórico na Coreia do Sul",
-      "summary": "Com o boom da inteligência artificial, a SK Hynix dispara no mercado e ultrapassa a Samsung em valor, mudando o cenário global de chips O post Gigante da IA derruba Samsung e…",
-      "link": "https://olhardigital.com.br/2026/06/22/pro/gigante-da-ia-derruba-samsung-e-conquista-posto-historico-na-coreia-do-sul/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/sk_hynix-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-22T10:34:39+00:00"
-    },
-    {
-      "id": "f1f3b0b40ef86354",
-      "title": "Hackers enganaram a IA? O alerta que empresas não podem ignorar",
-      "summary": "Ataque que comprometeu contas do Instagram levanta debate sobre segurança, governança e autonomia dos agentes de inteligência artificial Ouça ao podcast.",
-      "link": "https://canaltech.com.br/podcast/podcast-canaltech/hackers-enganaram-a-ia-o-alerta-que-empresas-nao-podem-ignorar-6573/",
-      "image": "https://t.ctcdn.com.br/TvivQ3oOotCdwsVelxzHmZPJ4_g=/700x394/smart/i1136331.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-22T09:00:00+00:00"
     },
     {
       "id": "2712033b3228d9c8",
@@ -80,17 +190,6 @@
       "published_at": "2026-06-21T23:00:00+00:00"
     },
     {
-      "id": "a418e78f9ad94270",
-      "title": "Como criar uma rotina de estudos com ChatGPT do jeito certo",
-      "summary": "Final de semestre, vestibulares, concursos, certificações e cursos online costumam trazer o mesmo desafio: há muito conteúdo para estudar e pouco tempo para organizar tudo de…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-criar-uma-rotina-de-estudos-com-chatgpt-do-jeito-certo/",
-      "image": "https://t.ctcdn.com.br/nho0fo8xkYzaDwv-IVfc-UleZVU=/700x394/smart/i1076813.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-21T19:30:00+00:00"
-    },
-    {
       "id": "f8cc0a4fce02ae0c",
       "title": "Cofundador da Ubisoft, Claude Guillemot morre em acidente de avião",
       "summary": "Claude Guillemot, que fundou a Ubisoft com seus quatro irmãos, morreu aos 69 anos.",
@@ -100,17 +199,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-06-21T18:34:31+00:00"
-    },
-    {
-      "id": "910cb3a24a969048",
-      "title": "Como descobrir se a IA está alucinando e inventando informação",
-      "summary": "Imagine pedir a uma inteligência artificial uma explicação técnica, um resumo de uma lei, uma lista de dados estatísticos ou até uma fonte acadêmica para um trabalho. Em segundos…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-descobrir-se-a-ia-esta-alucinando-e-inventando-informacao/",
-      "image": "https://t.ctcdn.com.br/56l8_fdioQnwgVi4_jGwMzuNbXQ=/700x394/smart/i929017.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-21T18:00:00+00:00"
     },
     {
       "id": "a0065c4a2f8d55a5",
@@ -133,17 +221,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-06-21T14:40:28+00:00"
-    },
-    {
-      "id": "d6c95b9c88a48cc3",
-      "title": "Como usar o Gemini para revisar um texto mantendo seu jeito de escrever",
-      "summary": "Se você já escreveu um texto, pediu para uma IA dar uma ajuda e recebeu de volta uma versão que até parecia melhor, mas não soava mais como você , saiba que não está sozinho. Isso…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-o-gemini-para-revisar-um-texto-mantendo-seu-jeito-de-escrever/",
-      "image": "https://t.ctcdn.com.br/u-ApvEXeczP3CmhwQ0AK7cHkEGs=/700x394/smart/i1132313.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-21T12:35:00+00:00"
     },
     {
       "id": "63e9b68fea2cb5dc",
@@ -256,17 +333,6 @@
       "published_at": "2026-06-20T09:05:23+00:00"
     },
     {
-      "id": "0b42675c02c010f6",
-      "title": "Do PGP ao Mythos: um breve histórico de controles de exportação que não impediram ninguém",
-      "summary": "Nos últimos 30 anos, interromper o fluxo de software relacionado à segurança cibernética provou ser ineficaz. Não está claro por que funcionaria agora com o modelo de segurança cibernética da Anthropic…",
-      "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-19T22:40:14+00:00"
-    },
-    {
       "id": "f3edf7348dc1bc98",
       "title": "Smart TV 4K LG QNED 65″ atinge oferta jamais vista no Mercado Livre",
       "summary": "Smart TV LG QNED73 de 65 polegadas está em promoção inédita com 44% de desconto. Televisão com resolução 4K Ultra HD promete reproduzir 100% do DCI-P3 e traz inteligência…",
@@ -287,17 +353,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-06-19T15:34:46+00:00"
-    },
-    {
-      "id": "3799f34232753c1c",
-      "title": "Senador quer que IA pague US$ 1.000 por ano a americanos",
-      "summary": "Bernie Sanders apresentou projeto de lei para criar fundo soberano com ações de empresas de IA. Fundo distribuiria US$ 1.000 por ano para cada cidadão americano. Senador quer que…",
-      "link": "https://tecnoblog.net/noticias/senador-quer-que-ia-pague-us-1-000-por-ano-a-americanos/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/bernie-sanders-senador-eua-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-19T14:18:38+00:00"
     },
     {
       "id": "b98b96efdd669128",
@@ -597,17 +652,6 @@
       "published_at": "2026-06-16T21:00:35+00:00"
     },
     {
-      "id": "a63630bc9083677b",
-      "title": "Pentágono se orgulha de usar IA para escrever relatórios exigidos pelo Congresso",
-      "summary": "O Pentágono também afirma que 1,5 milhão de funcionários estão usando ferramentas generativas de IA.",
-      "link": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Hegseth-Congress-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-16T18:11:05+00:00"
-    },
-    {
       "id": "6194c5e85918ac96",
       "title": "Quer colocar um data center online rapidamente? Dê um pouco de flexibilidade.",
       "summary": "No final de um primeiro tempo tenso e sem gols de uma partida de futebol entre a seleção masculina inglesa e a rival Alemanha, milhões de britânicos soltaram um suspiro coletivo e fizeram o que queriam…",
@@ -683,17 +727,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-11T11:00:45+00:00"
-    },
-    {
-      "id": "e51fa07b720fb1d3",
-      "title": "Criação de perfil em PyTorch (Parte 2): de nn.Linear a um MLP fundido",
-      "summary": "",
-      "link": "https://huggingface.co/blog/torch-mlp-fusion",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-11T00:00:00+00:00"
     },
     {
       "id": "c934b2ecf9244944",
