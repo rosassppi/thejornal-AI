@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-06-23T03:27:58.094260+00:00",
-  "total": 75,
+  "generated_at": "2026-06-23T09:36:56.056009+00:00",
+  "total": 77,
   "items": [
+    {
+      "id": "0b5b669013148f8e",
+      "title": "A máquina de US$ 400 milhões que impulsiona o futuro da fabricação de chips",
+      "summary": "Jos Benschop está subindo uma escada para chegar ao topo de sua mais nova máquina. É um pouco complicado. A engenhoca é do tamanho de um ônibus de dois andares – mais de 150 toneladas de…",
+      "link": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/zeiss-mirror-for-high-na-euv-lithography_689221_2.jpg?w=1936",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-23T09:00:00+00:00"
+    },
+    {
+      "id": "86cf1b798587943b",
+      "title": "Inteligência artificial, bateria e áudio: o futuro das caixas de som",
+      "summary": "AIWA explica como a cultura brasileira impulsiona o mercado de áudio e quais tecnologias estão moldando o futuro das caixas de som Ouça ao podcast.",
+      "link": "https://canaltech.com.br/podcast/podcast-canaltech/inteligencia-artificial-bateria-e-audio-o-futuro-das-caixas-de-som-6577/",
+      "image": "https://t.ctcdn.com.br/JeKXxdY7UiAKEnjL1Y6MnoUeJ30=/700x394/smart/i1136889.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-23T09:00:00+00:00"
+    },
+    {
+      "id": "b9e51bd9402bb629",
+      "title": "Meta cria “memória de marca” para anúncios feitos com IA",
+      "summary": "A Meta revelou ferramentas de IA voltadas à criação, teste e adaptação de anúncios em suas plataformas. As novidades foram apresentadas durante o Cannes Lions 2026 , nesta…",
+      "link": "https://canaltech.com.br/apps/meta-cria-memoria-de-marca-para-anuncios-feitos-com-ia/",
+      "image": "https://t.ctcdn.com.br/g3ve68zRNXey99yYQfmP7n24RWc=/700x394/smart/i952993.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-23T07:00:00+00:00"
+    },
     {
       "id": "28a16e8e650dc602",
       "title": "Advogado tenta prompt injection de IA e recebe multa de R$ 32,8 mil",
@@ -56,6 +89,28 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-06-23T00:01:12+00:00"
+    },
+    {
+      "id": "480508a9ca16ad81",
+      "title": "Como a Omio está a construir o futuro das viagens por conversação",
+      "summary": "Descubra como a Omio utiliza a OpenAI para potenciar experiências de viagem conversacionais, acelerar o desenvolvimento de produtos e transformar-se numa empresa nativa da IA.",
+      "link": "https://openai.com/index/omio",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-23T00:00:00+00:00"
+    },
+    {
+      "id": "b0d7df1028b033f7",
+      "title": "Envio huggingface_hub todas as semanas com IA, ferramentas abertas e um ser humano informado",
+      "summary": "",
+      "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-23T00:00:00+00:00"
     },
     {
       "id": "0844b7af34c2be02",
@@ -300,10 +355,10 @@
       "published_at": "2026-06-22T11:00:00+00:00"
     },
     {
-      "id": "3696e67c2c9e8aaa",
-      "title": "Patch the Planet: uma iniciativa Daybreak para apoiar mantenedores de código aberto",
-      "summary": "OpenAI apresenta Patch the Planet, uma iniciativa Daybreak que ajuda mantenedores de código aberto a encontrar, validar e corrigir vulnerabilidades com IA e revisão especializada.",
-      "link": "https://openai.com/index/patch-the-planet",
+      "id": "b63e5cb33bb0ec81",
+      "title": "Daybreak: Ferramentas para proteger todas as organizações do mundo",
+      "summary": "OpenAI apresenta novas ferramentas Daybreak, incluindo Codex Security e GPT-5.5-Cyber, para ajudar as organizações a encontrar, validar e corrigir vulnerabilidades em escala.",
+      "link": "https://openai.com/index/daybreak-securing-the-world",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -311,10 +366,10 @@
       "published_at": "2026-06-22T10:00:00+00:00"
     },
     {
-      "id": "b63e5cb33bb0ec81",
-      "title": "Daybreak: Ferramentas para proteger todas as organizações do mundo",
-      "summary": "OpenAI apresenta novas ferramentas Daybreak, incluindo Codex Security e GPT-5.5-Cyber, para ajudar as organizações a encontrar, validar e corrigir vulnerabilidades em escala.",
-      "link": "https://openai.com/index/daybreak-securing-the-world",
+      "id": "3696e67c2c9e8aaa",
+      "title": "Patch the Planet: uma iniciativa Daybreak para apoiar mantenedores de código aberto",
+      "summary": "OpenAI apresenta Patch the Planet, uma iniciativa Daybreak que ajuda mantenedores de código aberto a encontrar, validar e corrigir vulnerabilidades com IA e revisão especializada.",
+      "link": "https://openai.com/index/patch-the-planet",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -328,6 +383,17 @@
       "link": "https://openai.com/index/codex-maxxing-long-running-work",
       "image": null,
       "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-22T00:00:00+00:00"
+    },
+    {
+      "id": "965bb4d2ca17efb5",
+      "title": "Conseguimos modelos locais para fazer a triagem do repositório OpenClaw GRATUITAMENTE!*",
+      "summary": "",
+      "link": "https://huggingface.co/blog/local-models-pr-triage",
+      "image": null,
+      "source": "Hugging Face",
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-06-22T00:00:00+00:00"
@@ -564,39 +630,6 @@
       "published_at": "2026-06-17T10:18:05+00:00"
     },
     {
-      "id": "5ff2f715f1e62741",
-      "title": "Um químico de IA quase autônomo melhora uma reação desafiadora em química medicinal",
-      "summary": "OpenAI e Molecule.one mostram como um químico de IA quase autônomo usando GPT-5.4 melhorou uma reação importante na produção de medicamentos, avançando a pesquisa em química medicinal.",
-      "link": "https://openai.com/index/ai-chemist-improves-reaction",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-17T10:00:00+00:00"
-    },
-    {
-      "id": "9e3636b0b0345d81",
-      "title": "GLM-5.2: Construído para tarefas de longo horizonte",
-      "summary": "",
-      "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-17T09:01:25+00:00"
-    },
-    {
-      "id": "b59b3271b775356f",
-      "title": "Agentic Resource Discovery: permite que os agentes pesquisem",
-      "summary": "",
-      "link": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-17T00:00:00+00:00"
-    },
-    {
       "id": "d924cbf10fae6927",
       "title": "O administrador de Trump tenta bloquear o processo da Lei do Ar Limpo sobre as turbinas a gás da xAI",
       "summary": "O processo da NAACP diz que xAI usa turbinas a gás sem licença para o data center Grok.",
@@ -694,17 +727,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-06-05T14:45:00+00:00"
-    },
-    {
-      "id": "c1484d2b46f4e00c",
-      "title": "O Meta hack mostra que a segurança da IA ​​é mais do que Mythos",
-      "summary": "Em 5 de junho, a 404 Media informou que os invasores estavam usando o agente de suporte ao cliente AI da Meta para roubar contas do Instagram. A abordagem deles foi simples: eles pediram ao agente para vincular…",
-      "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-05T09:00:00+00:00"
     },
     {
       "id": "bb4886b95744d7c7",
