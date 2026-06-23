@@ -1,39 +1,171 @@
 {
-  "generated_at": "2026-06-23T14:46:25.486768+00:00",
-  "total": 87,
+  "generated_at": "2026-06-23T20:02:44.045542+00:00",
+  "total": 77,
   "items": [
     {
-      "id": "1f0c286146445c41",
-      "title": "Imita fala humana: nova IA do ChatGPT fala e ouve ao mesmo tempo",
-      "summary": "A OpenAI iniciou a liberação de um novo modelo de voz bidirecional para o ChatGPT, chamado internamente de \"GPT-Bidi-1\", de acordo com o TestingCatalog. A ferramenta altera a…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/imita-fala-humana-nova-ia-do-chatgpt-fala-e-ouve-ao-mesmo-tempo/",
-      "image": "https://t.ctcdn.com.br/eFsqw8IK-RmTRhZ7JYM_N-mqTj8=/700x394/smart/i1137009.png",
+      "id": "5f001d01bfb295a3",
+      "title": "Gemini ganha funções que vão mudar como você usa o Android",
+      "summary": "O Google atualizou a integração do Gemini no Android e agora permite acessar algumas das principais funções da IA sem abrir o aplicativo . A mudança está no menu suspenso do…",
+      "link": "https://canaltech.com.br/apps/gemini-ganha-funcoes-que-vao-mudar-como-voce-usa-o-android/",
+      "image": "https://t.ctcdn.com.br/6yp8IyqIFXk-DroW5LC4gCbPS4Q=/700x394/smart/i928737.png",
       "source": "Canaltech",
       "region": "brasil",
       "category": "Brasil",
-      "published_at": "2026-06-23T14:35:00+00:00"
+      "published_at": "2026-06-23T19:58:56+00:00"
     },
     {
-      "id": "09160a57554679c9",
-      "title": "Photoroom garante reembolso quando a IA erra na edição de imagens",
-      "summary": "Nem sempre as plataformas de inteligência artificial entregam imagens do jeito que foi solicitado pelo usuário. Pensando nisso, a Photoroom introduziu uma nova garantia para…",
-      "link": "https://canaltech.com.br/mercado/photoroom-garante-reembolso-quando-a-ia-erra-na-edicao-de-imagens/",
-      "image": "https://t.ctcdn.com.br/va4nnmvWLHT-WA7ByQ4BYndET0s=/700x394/smart/i1104463.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-23T14:20:00+00:00"
+      "id": "405c2d62cb4be76b",
+      "title": "Depois de apostar a empresa na Anthropic, Menlo Ventures levanta um fundo vitorioso de US$ 3 bilhões",
+      "summary": "Menlo criou uma reputação sólida como investidor em IA, tudo com base em um movimento corajoso de US$ 750 milhões em 2024.",
+      "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-23T19:49:55+00:00"
     },
     {
-      "id": "273facbcc2cab509",
-      "title": "IA perigosa da Anthropic invade sistemas da NSA em poucas horas durante teste",
-      "summary": "Considerado o modelo de IA mais poderoso da Anthropic, o Claude Mythos foi capaz d e invadir sistemas confidenciais da Agência Nacional de Segurança (NSA) dos Estados Unidos em…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-perigosa-da-anthropic-invade-sistemas-da-nsa-em-poucas-horas-durante-teste/",
-      "image": "https://t.ctcdn.com.br/yXjaYLlTPjjyGfquGaMp1sPAhrA=/700x394/smart/i1135103.png",
+      "id": "d60c55fd9deb4115",
+      "title": "Advogado de IA vence primeiro caso judicial e derrota advogados humanos",
+      "summary": "Um escritório de advocacia operado por inteligência artificial marcou um feito inédito no sistema judiciário britânico ao vencer seu primeiro caso em tribunal . A Garfield AI…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/advogado-de-ia-vence-primeiro-caso-judicial-e-derrota-advogados-humanos/",
+      "image": "https://t.ctcdn.com.br/hJdr_JU-c2DtH5TW7XxlIz8LsDw=/700x394/smart/i1137169.jpeg",
       "source": "Canaltech",
       "region": "brasil",
       "category": "Brasil",
-      "published_at": "2026-06-23T14:05:00+00:00"
+      "published_at": "2026-06-23T19:05:00+00:00"
+    },
+    {
+      "id": "cf67d71a514786c4",
+      "title": "Hackers roubam dados do LastPass, famoso sistema de gerenciamento de senhas",
+      "summary": "Falha em fornecedor de inteligência de mercado expõe dados de clientes do LastPass após invasão via tokens OAuth no sistema da Klue O post Hackers roubam dados do LastPass, famoso…",
+      "link": "https://olhardigital.com.br/2026/06/23/seguranca/hackers-roubam-dados-do-lastpass-famoso-sistema-de-gerenciamento-de-senhas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/linhas-de-cdigo-fonte-dados-arquitetura-software-programa-app-hacker-1024x684.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-23T18:22:32+00:00"
+    },
+    {
+      "id": "7383e18813860089",
+      "title": "Kylie Jenner revela novos óculos inteligentes da Meta; conheça todos os recursos",
+      "summary": "A Meta anunciou sua nova geração de óculos inteligentes com três novos estilos no mercado internacional. Entre as novidades, a influencer Kylie Jenner inspira um modelo exclusivo…",
+      "link": "https://canaltech.com.br/produtos/kylie-jenner-revela-novos-oculos-inteligentes-da-meta-conheca-todos-os-recursos/",
+      "image": "https://t.ctcdn.com.br/taS78iWvY0RqVuEaNjm9g8FMOik=/700x394/smart/i1137161.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-23T18:11:00+00:00"
+    },
+    {
+      "id": "6450b18d3e3a1e3c",
+      "title": "Meta lança linha de óculos inteligentes com preço mais baixo",
+      "summary": "Meta Glasses custam a partir de US$ 299 e saem US$ 80 mais baratos que o Ray-Ban Meta de 2ª geração. Ainda não há previsão de lançamento no Brasil. Meta lança linha de óculos…",
+      "link": "https://tecnoblog.net/noticias/meta-lanca-linha-de-oculos-inteligentes-com-preco-mais-baixo/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/m6ua1qq5290.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-23T17:48:29+00:00"
+    },
+    {
+      "id": "c4b83b4a74b98172",
+      "title": "Claude Tag da Anthropic está aprendendo sua empresa, uma mensagem do Slack por vez",
+      "summary": "O novo Claude Tag da Anthropic traz um companheiro de equipe de IA sempre ativo para o Slack. Mas além da produtividade, o recurso é uma peça estratégica para capturar o contexto organizacional, institucional…",
+      "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-23T17:00:00+00:00"
+    },
+    {
+      "id": "bf129b615f4b182f",
+      "title": "Por que os super PACs corporativos de IA gastaram US$ 27 milhões em eleições locais",
+      "summary": "Olá e bem-vindo ao Regulador, o boletim informativo para Beira assinantes narrando as desventuras de seus senhores da tecnologia favoritos e criaturas do pântano de Washington. (\"Favorito\" é…",
+      "link": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2280753489.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-23T17:00:00+00:00"
+    },
+    {
+      "id": "072c0c3973379946",
+      "title": "Como o GPT-5 ajudou a imunologista Derya Unutmaz a resolver um mistério de 3 anos",
+      "summary": "O GPT-5 Pro ajudou a resolver um mistério imunológico de 3 anos, oferecendo insights sobre o comportamento das células T. A descoberta poderia apoiar pesquisas sobre câncer e doenças autoimunes.",
+      "link": "https://openai.com/index/gpt-5-immunology-mystery",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-23T17:00:00+00:00"
+    },
+    {
+      "id": "5f17a671c89b95aa",
+      "title": "Nova IA chinesa derrota ChatGPT e tem uma vantagem gigantesca",
+      "summary": "Uma nova inteligência artificial desenvolvida na China começou a chamar a atenção de programadores ao redor do mundo por superar o ChatGPT em tarefas complexas e trazer uma…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/nova-ia-chinesa-derrota-chatgpt-e-tem-uma-vantagem-gigantesca/",
+      "image": "https://t.ctcdn.com.br/A-mP5q-7V45sHd3M2KAiqI2jMvE=/700x394/smart/i997593.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-23T17:00:00+00:00"
+    },
+    {
+      "id": "5aee81a4083c670c",
+      "title": "Claude fora do ar? IA da Anthropic passa por instabilidade nesta terça (23)",
+      "summary": "A IA Claude está fora do ar para alguns usuários nesta terça-feira (23) . A Anthropic já confirmou que há uma instabilidade no serviço e trabalha para corrigir o problema. Por que…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/claude-fora-do-ar-ia-da-anthropic-passa-por-instabilidade-nesta-terca-23/",
+      "image": "https://t.ctcdn.com.br/ZjcOUdfWaAgXirKJr4MiY0ln2Po=/700x394/smart/i1111425.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-23T16:00:00+00:00"
+    },
+    {
+      "id": "ae67da9a03a72dc4",
+      "title": "Algo está errado com o pivô do Midjourney para scanners corporais",
+      "summary": "Na semana passada, a Midjourney, uma startup de IA mais conhecida por seu gerador de imagens, fez um pivô incomum: imagens médicas. A empresa anunciou um scanner de ultrassom futurista que…",
+      "link": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-23T15:56:35+00:00"
+    },
+    {
+      "id": "26f23fc31c724eab",
+      "title": "Smart TV Samsung OLED 55” tem o melhor preço desde maio nesta oferta",
+      "summary": "Samsung Vision AI OLED S85F de 55\" tem tela 4K de 120 Hz, recursos de IA e suporta games na nuvem; Smart TV atinge melhor preço desde maio no Pix com cupom Smart TV Samsung OLED…",
+      "link": "https://tecnoblog.net/achados/smart-tv-samsung-oled-55-tem-o-melhor-preco-desde-maio-nesta-oferta/",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2025/11/tv-samsung-oled-vision-ai-55-1060x596.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-23T15:33:40+00:00"
+    },
+    {
+      "id": "654798678f8aecf8",
+      "title": "O Fitbit Air adota uma abordagem mais inteligente para o incêndio na lixeira de saúde da IA",
+      "summary": "O Google Health Coach parece pensar que estou à beira de um colapso físico. Meu sono não está onde deveria estar, daí minha pontuação de prontidão inexpressiva. Minha variabilidade da frequência cardíaca, um…",
+      "link": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268538_Fitbit_Air_AKrales_0012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-23T15:00:00+00:00"
+    },
+    {
+      "id": "c56474f2c0d0a3a2",
+      "title": "Claude fora do ar: IA da Anthropic volta a funcionar após instabilidade",
+      "summary": "Chatbot da Anthropic apresentou falhas nesta terça-feira (23). Empresa informou que problema já foi corrigido. Claude fora do ar: IA da Anthropic volta a funcionar após…",
+      "link": "https://tecnoblog.net/noticias/claude-fora-do-ar-usuarios-relatam-instabilidade-nesta-terca-feira-23/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/claude-design-edited-340x191.webp",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-23T14:53:47+00:00"
     },
     {
       "id": "67c47c57fb0945e4",
@@ -45,28 +177,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-06-23T14:03:22+00:00"
-    },
-    {
-      "id": "485a7da541e9ef1f",
-      "title": "Crítica feroz do setor de IA, Getty Images vira parceira oficial do ChatGPT",
-      "summary": "A Getty Images, que em 2023 entrou com processo contra uma empresa de inteligência artificial por uso indevido de imagens protegidas por direitos autorais, anunciou no domingo…",
-      "link": "https://canaltech.com.br/mercado/critica-feroz-do-setor-de-ia-getty-images-vira-parceira-oficial-do-chatgpt/",
-      "image": "https://t.ctcdn.com.br/vlLgFWhcojQVPVLg3zhCRjU0rQI=/700x394/smart/i1136963.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-23T13:35:00+00:00"
-    },
-    {
-      "id": "3d189f1a5b9cb886",
-      "title": "Oracle demite 21 mil pessoas enquanto aposta tudo em IA",
-      "summary": "Oracle corta cerca de 21 mil empregos enquanto acelera investimentos bilionários em inteligência artificial e expansão de data centers O post Oracle demite 21 mil pessoas enquanto…",
-      "link": "https://olhardigital.com.br/2026/06/23/pro/oracle-demite-21-mil-pessoas-enquanto-aposta-tudo-em-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/Destaque-Demissoes-por-conta-da-IA-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-23T13:32:11+00:00"
     },
     {
       "id": "f2bff0042fc5d083",
@@ -89,17 +199,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-23T13:25:42+00:00"
-    },
-    {
-      "id": "84673d47e7b34571",
-      "title": "Samsung Neo QLED com IA: três modelos em promoção para renovar sua sala",
-      "summary": "Se você está de olho em uma TV de alto nível, este é um bom momento para agir. A Samsung trouxe, em 2025, a linha Vision AI com tecnologia Neo QLED Ultra 4K — e três modelos estão…",
-      "link": "https://olhardigital.com.br/2026/06/23/reviews/samsung-neo-qled-com-ia-tres-modelos-em-promocao-para-renovar-sua-sala/",
-      "image": "https://m.media-amazon.com/images/I/41-5ZDRnUWL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-23T13:06:51+00:00"
     },
     {
       "id": "bbcba71ce335108a",
@@ -135,17 +234,6 @@
       "published_at": "2026-06-23T12:51:55+00:00"
     },
     {
-      "id": "9fc4242ded2d37d7",
-      "title": "Claude muda regras e vai exigir RG e selfie para liberar acesso a usuários",
-      "summary": "A Anthropic vai implementar um novo sistema de verificação de identidade e idade no Claude que pode exigir documentos oficiais com foto e selfie em tempo real para liberar ou…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/claude-muda-regras-e-vai-exigir-rg-e-selfie-para-liberar-acesso-a-usuarios/",
-      "image": "https://t.ctcdn.com.br/V5M0aA16mgRP6QN3EC8of5UbbyM=/700x394/smart/i1135099.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-23T12:18:58+00:00"
-    },
-    {
       "id": "eab6637d40286573",
       "title": "Como estourar a bolha da IA: ataque pelas raízes",
       "summary": "O autor de ficção científica/jornalista de tecnologia Cory Doctorow em seu novo livro, The Reverse Centaur's Guide to Life After AI.",
@@ -157,17 +245,6 @@
       "published_at": "2026-06-23T12:00:34+00:00"
     },
     {
-      "id": "5bc8ae42c57d7126",
-      "title": "Microsoft volta atrás e vai forçar instalação do Copilot no Windows",
-      "summary": "A Microsoft voltará a exigir a instalação do aplicativo Microsoft 365 Copilot no Windows 11 durante os próximos 30 dias. A medida será válida para um grupo selecionado de…",
-      "link": "https://canaltech.com.br/software/microsoft-volta-atras-e-vai-forcar-instalacao-do-copilot-no-windows/",
-      "image": "https://t.ctcdn.com.br/Hwvqog0otcxuJF8JWVKHPXSROpI=/700x394/smart/i1136883.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-23T10:40:00+00:00"
-    },
-    {
       "id": "0b5b669013148f8e",
       "title": "A máquina de US$ 400 milhões que impulsiona o futuro da fabricação de chips",
       "summary": "Jos Benschop está subindo uma escada para chegar ao topo de sua mais nova máquina. É um pouco complicado. A engenhoca é do tamanho de um ônibus de dois andares – mais de 150 toneladas de…",
@@ -177,28 +254,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-23T09:00:00+00:00"
-    },
-    {
-      "id": "c0f2550db1ea8dd6",
-      "title": "Prime Intellect lança prime-rl 0.6.0 para treinar modelos MoE de trilhões de parâmetros em cargas de trabalho Agentic RL",
-      "summary": "Prime Intellect lançou prime-rl 0.6.0, uma estrutura aberta para aprendizagem por reforço assíncrono em modelos de mistura de especialistas de trilhões de parâmetros. Treinou GLM-5 no SWE…",
-      "link": "https://www.marktechpost.com/2026/06/23/prime-intellect-releases-prime-rl-0-6-0-to-train-trillion-parameter-moe-models-on-agentic-rl-workloads/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2194.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-23T07:20:44+00:00"
-    },
-    {
-      "id": "a53fc0527580f2f5",
-      "title": "API GLM-5.2 compatível com OpenAI: um guia prático para esforço de raciocínio, chamada de função e recuperação de contexto longo",
-      "summary": "Construímos um fluxo de trabalho prático do GLM-5.2 usando sua API hospedada compatível com OpenAI em vez de executar o modelo localmente. Configuramos vários provedores, carregamos a chave API com segurança e…",
-      "link": "https://www.marktechpost.com/2026/06/22/glm-5-2-openai-compatible-api-a-hands-on-guide-to-reasoning-effort-function-calling-and-long-context-retrieval/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-23T06:35:05+00:00"
     },
     {
       "id": "28a16e8e650dc602",
@@ -256,6 +311,17 @@
       "published_at": "2026-06-23T00:00:00+00:00"
     },
     {
+      "id": "2e297cf400e7d42e",
+      "title": "Experimentando a API de armazenamento de origem cruzada proposta em Transformers.js",
+      "summary": "",
+      "link": "https://huggingface.co/blog/cross-origin-storage",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-23T00:00:00+00:00"
+    },
+    {
       "id": "0844b7af34c2be02",
       "title": "Nvidia diz que o design de seu data center de IA fica mais quente para usar muito menos água",
       "summary": "A resistência pública contra os data centers enfatizou seu consumo de água e energia, e agora a Nvidia está destacando sua afirmação de que o design de referência da geração Rubin para um…",
@@ -287,17 +353,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-06-22T20:53:11+00:00"
-    },
-    {
-      "id": "a69f3aac209d6a29",
-      "title": "xAI lança /goal no Grok Build, adicionando execução autônoma de longa duração com verificação integrada para tarefas de codificação em várias etapas",
-      "summary": "xAI introduziu /goal no Grok Build, um modo para execução autônoma de tarefas de longa duração. Você entrega um objetivo e o agente planeja uma abordagem, executa uma lista de verificação de progresso…",
-      "link": "https://www.marktechpost.com/2026/06/22/xai-launches-goal-in-grok-build-adding-long-running-autonomous-execution-with-built-in-verification-for-multi-step-coding-tasks/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-22T20:34:48+00:00"
     },
     {
       "id": "5bb24ad1420de840",
@@ -344,39 +399,6 @@
       "published_at": "2026-06-22T19:03:54+00:00"
     },
     {
-      "id": "17cf73453cd11cb3",
-      "title": "Google DeepMind aposta US$ 75 milhões no futuro da IA ​​em Hollywood com acordo A24",
-      "summary": "Google DeepMind e A24 estão se unindo para construir ferramentas de produção cinematográfica de IA.",
-      "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-22T18:49:44+00:00"
-    },
-    {
-      "id": "ce81620d26d8326a",
-      "title": "Sakana AI lança Sakana Fugu: um modelo de orquestração que encaminha tarefas através de um conjunto intercambiável de LLMs de fronteira",
-      "summary": "Fugu e Fugu Ultra roteiam tarefas em um pool de modelos trocáveis, liderando a maioria dos benchmarks de codificação, raciocínio e agentes. O post Sakana AI lança Sakana Fugu: uma orquestração…",
-      "link": "https://www.marktechpost.com/2026/06/22/sakana-ai-launches-sakana-fugu-an-orchestration-model-that-routes-tasks-across-a-swappable-pool-of-frontier-llms/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-22T18:42:59+00:00"
-    },
-    {
-      "id": "f2ea0a1a1131db4c",
-      "title": "Anthropic diz que Claude pode querer ver sua identidade",
-      "summary": "O chatbot de Claude pode solicitar a verificação de sua idade e identidade “em certas circunstâncias”, como passaporte ou carteira de motorista, de acordo com uma alteração na política de privacidade.",
-      "link": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-22T18:05:13+00:00"
-    },
-    {
       "id": "d5700dccd3e7bd12",
       "title": "Como Intel e AMD querem fazer chips x86 lidarem com tarefas de IA",
       "summary": "Intel e AMD publicaram especificação 1.15 do ACE, padrão que permitirá execução local de determinadas tarefas de IA por CPUs x86. Como Intel e AMD querem fazer chips x86 lidarem…",
@@ -399,28 +421,6 @@
       "published_at": "2026-06-22T18:00:00+00:00"
     },
     {
-      "id": "08acfb94e91f4a5f",
-      "title": "Samsung perde a coroa para SK Hynix após mais de duas décadas",
-      "summary": "Impulsionada pelo boom dos chips de IA, fabricante supera o valor de mercado da Samsung pela primeira vez na história. Samsung perde a coroa para SK Hynix após mais de duas décadas",
-      "link": "https://tecnoblog.net/noticias/samsung-perde-a-coroa-para-sk-hynix-apos-mais-de-duas-decadas/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/05/predio-sk-hynix-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-22T16:36:55+00:00"
-    },
-    {
-      "id": "40c4139fa362d2a9",
-      "title": "CEO da Microsoft diz que monopólios de IA são um problema",
-      "summary": "Satya Nadella criticou o domínio de poucas gigantes no setor. Executivo defendeu modelos de inteligência artificial mais baratos. CEO da Microsoft diz que monopólios de IA são um…",
-      "link": "https://tecnoblog.net/noticias/ceo-da-microsoft-diz-que-monopolios-de-ia-sao-um-problema/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/satya-nadella-ceo-edited-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-22T16:08:13+00:00"
-    },
-    {
       "id": "b58a8aabb6223ec6",
       "title": "Como a Anthropic pode ter se convencido a proibir a exportação de IA",
       "summary": "A empresa alertou sobre os perigos da IA ​​avançada muito mais do que a rival OpenAI.",
@@ -430,17 +430,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-22T13:45:24+00:00"
-    },
-    {
-      "id": "2437b60bc3c346fb",
-      "title": "Meta vive um dos piores climas da história, diz chefão",
-      "summary": "Diretor de tecnologia da empresa reconheceu que foco em IA, demissões e vigilância derrubaram moral dos funcionários de Mark Zuckerberg. Meta vive um dos piores climas da…",
-      "link": "https://tecnoblog.net/noticias/meta-vive-um-dos-piores-climas-da-historia-diz-chefao/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-01-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-22T13:36:29+00:00"
     },
     {
       "id": "b497f30634e434d9",
@@ -465,17 +454,6 @@
       "published_at": "2026-06-22T11:00:00+00:00"
     },
     {
-      "id": "b63e5cb33bb0ec81",
-      "title": "Daybreak: Ferramentas para proteger todas as organizações do mundo",
-      "summary": "OpenAI apresenta novas ferramentas Daybreak, incluindo Codex Security e GPT-5.5-Cyber, para ajudar as organizações a encontrar, validar e corrigir vulnerabilidades em escala.",
-      "link": "https://openai.com/index/daybreak-securing-the-world",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-22T10:00:00+00:00"
-    },
-    {
       "id": "3696e67c2c9e8aaa",
       "title": "Patch the Planet: uma iniciativa Daybreak para apoiar mantenedores de código aberto",
       "summary": "OpenAI apresenta Patch the Planet, uma iniciativa Daybreak que ajuda mantenedores de código aberto a encontrar, validar e corrigir vulnerabilidades com IA e revisão especializada.",
@@ -487,26 +465,15 @@
       "published_at": "2026-06-22T10:00:00+00:00"
     },
     {
-      "id": "2712033b3228d9c8",
-      "title": "MoonMath AI abre o código-fonte de um kernel de atenção HIP para AMD MI300X que supera o AITER v3 em todas as formas e modos de arredondamento",
-      "summary": "O kernel HIP usa wrappers ASM de uma instrução e um pipeline de oito ondas para superar o AITER v3 da AMD no MI300X. A postagem MoonMath AI abre o código-fonte de um kernel de atenção HIP para…",
-      "link": "https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/",
+      "id": "b63e5cb33bb0ec81",
+      "title": "Daybreak: Ferramentas para proteger todas as organizações do mundo",
+      "summary": "OpenAI apresenta novas ferramentas Daybreak, incluindo Codex Security e GPT-5.5-Cyber, para ajudar as organizações a encontrar, validar e corrigir vulnerabilidades em escala.",
+      "link": "https://openai.com/index/daybreak-securing-the-world",
       "image": null,
-      "source": "MarkTechPost",
+      "source": "OpenAI",
       "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-22T07:13:49+00:00"
-    },
-    {
-      "id": "0255a5faa006183d",
-      "title": "Como projetar painéis interativos Python-First com componentes de UI reativos pré-fabricados e exportação de HTML estático",
-      "summary": "Neste tutorial, construímos um aplicativo Prefab que cria painéis interativos inteiramente em Python. Desenhamos um dashboard de operações com estado reativo, gráficos, tabelas…",
-      "link": "https://www.marktechpost.com/2026/06/21/how-to-design-python-first-interactive-dashboards-with-prefab-reactive-ui-components-and-static-html-export/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-22T00:13:29+00:00"
+      "category": "Modelos",
+      "published_at": "2026-06-22T10:00:00+00:00"
     },
     {
       "id": "e2330fefe7e28987",
@@ -531,17 +498,6 @@
       "published_at": "2026-06-22T00:00:00+00:00"
     },
     {
-      "id": "f42baf77b9f42c29",
-      "title": "Os 7 tipos de memória de agente: um guia técnico para engenheiros de IA",
-      "summary": "LLMs são sem estado por padrão. A memória do agente corrige isso. Este guia divide todos os 7 tipos – funcional, semântico, episódico, processual, recuperação, paramétrico e prospectivo. Isto…",
-      "link": "https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-21T23:12:31+00:00"
-    },
-    {
       "id": "4a975b89e4a0f0fb",
       "title": "Samsung Electronics traz ChatGPT e Codex para funcionários",
       "summary": "A Samsung Electronics implanta ChatGPT Enterprise e Codex para funcionários em todo o mundo, marcando um dos maiores lançamentos de IA empresarial da OpenAI.",
@@ -553,39 +509,6 @@
       "published_at": "2026-06-21T23:00:00+00:00"
     },
     {
-      "id": "63e9b68fea2cb5dc",
-      "title": "Crawlee para Python: crie um pipeline de rastreamento da Web com manipulação de robôs, gráficos de links e exportação de pedaços RAG",
-      "summary": "Neste tutorial, construímos um fluxo de trabalho completo do Crawlee para Python, desde a configuração até a saída pronta para IA. Geramos um site de demonstração local e depois o rastreamos com BeautifulSoupCrawler…",
-      "link": "https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-21T06:52:10+00:00"
-    },
-    {
-      "id": "549e0398a8a15bf3",
-      "title": "The Atlantic criou um banco de dados pesquisável da música usada para treinar IA",
-      "summary": "O repórter da Atlantic, Alex Reisner, descobriu recentemente quatro conjuntos de dados de música usados ​​para treinar modelos de IA e os tornou totalmente pesquisáveis ​​para o público. Dois dos conjuntos são…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-20T18:46:48+00:00"
-    },
-    {
-      "id": "b98b96efdd669128",
-      "title": "O filme sobre Sam Altman foi descartado pela Amazon MGM",
-      "summary": "O filme de Luca Guadagnino sobre Sam Altman, CEO da OpenAI, Artificial, foi supostamente descartado pela Amazon MGM. O filme, estrelado por Andrew Garfield e cobre a montanha-russa cinco…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-19T14:15:29+00:00"
-    },
-    {
       "id": "bd056869a29bf635",
       "title": "Uma startup afirma que rompeu um gargalo que está impedindo os LLMs",
       "summary": "A startup de IA com sede em Miami, Subquadratic, saiu do modo furtivo no mês passado com uma grande reivindicação. Anunciou que havia resolvido um gargalo matemático que estava impedindo…",
@@ -595,17 +518,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-19T10:40:24+00:00"
-    },
-    {
-      "id": "8ad2b1d3c2a8e540",
-      "title": "Barret Zoph está novamente na OpenAI depois de apenas cinco meses",
-      "summary": "Cinco meses depois de retornar à OpenAI, Barret Zoph – chefe de vendas empresariais de IA da empresa – partiu, descobriu The Verge. Zoph retornou à OpenAI em meados de janeiro depois…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-19T04:49:33+00:00"
     },
     {
       "id": "cac668d0a0260f80",
@@ -663,17 +575,6 @@
       "published_at": "2026-06-18T11:00:00+00:00"
     },
     {
-      "id": "edcdc2401b35c370",
-      "title": "Usando IA para ajudar médicos a diagnosticar doenças genéticas raras que afetam crianças",
-      "summary": "Os investigadores usaram um modelo de raciocínio OpenAI para ajudar a diagnosticar doenças raras, identificando 18 novos diagnósticos em casos anteriormente não resolvidos.",
-      "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-18T08:00:00+00:00"
-    },
-    {
       "id": "26cac67090219df5",
       "title": "Além do LoRA: Você consegue vencer a técnica de ajuste fino mais popular?",
       "summary": "",
@@ -727,17 +628,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-17T15:57:14+00:00"
-    },
-    {
-      "id": "ece735789829f450",
-      "title": "MolmoMotion: previsão de movimento 3D guiada por linguagem",
-      "summary": "",
-      "link": "https://huggingface.co/blog/allenai/molmomotion",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-17T15:26:44+00:00"
     },
     {
       "id": "866972b9be74b221",
