@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-06-24T03:29:32.279637+00:00",
-  "total": 87,
+  "generated_at": "2026-06-24T09:27:21.227848+00:00",
+  "total": 86,
   "items": [
+    {
+      "id": "258ae533abaffccb",
+      "title": "Nous Research adiciona /learn ao sistema de habilidades do agente Hermes, capturando fluxos de trabalho como comandos de barra sem escrever à mão SKILL.md",
+      "summary": "A Nous Research adicionou /learn ao Sistema de Habilidades do Agente Hermes. O comando cria um SKILL.md compatível com os padrões a partir de um diretório local, uma URL de documento, uma conversa anterior ou…",
+      "link": "https://www.marktechpost.com/2026/06/24/nous-research-adds-learn-to-hermes-agents-skills-system-capturing-workflows-as-slash-commands-without-hand-writing-skill-md/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4c1.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-24T09:21:49+00:00"
+    },
+    {
+      "id": "faddae49fd92a6f2",
+      "title": "Como a tecnologia está mudando o varejo e a forma como você consome",
+      "summary": "Especialista explica como dados, IA e inovação estão transformando compras, atendimento e trabalho no varejo brasileiro Ouça ao podcast.",
+      "link": "https://canaltech.com.br/podcast/podcast-canaltech/como-a-tecnologia-esta-mudando-o-varejo-e-a-forma-como-voce-consome-6579/",
+      "image": "https://t.ctcdn.com.br/B1v2PB34FXkywxZ5Xymd5C7dXmU=/700x394/smart/i1137253.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-24T09:00:00+00:00"
+    },
+    {
+      "id": "303dc601af3e375b",
+      "title": "16 melhores ferramentas de codificação de IA generativa em 2026 comparadas: recursos e melhor ajuste",
+      "summary": "A IA generativa remodelou a forma como o software é construído. O que começou como preenchimento automático linha por linha agora abrange geração completa de aplicativos, pipelines de construção multiagentes e…",
+      "link": "https://www.marktechpost.com/2026/06/24/top-generative-ai-coding-tools-of-2026/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-24T08:12:27+00:00"
+    },
+    {
+      "id": "8d782c5ef21f2d1f",
+      "title": "A decodificação especulativa DFlash rascunha blocos inteiros de token em paralelo para uma taxa de transferência até 15x maior no NVIDIA Blackwell",
+      "summary": "O DFlash da UC San Diego substitui o desenho autoregressivo por um modelo leve de difusão em bloco para decodificação especulativa. Ele desenha blocos inteiros de tokens em uma única passagem para frente e…",
+      "link": "https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-12.00.06-AM-1-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-24T07:21:10+00:00"
+    },
+    {
+      "id": "2222eae583448bbf",
+      "title": "Como investir quando tudo está acontecendo muito rápido",
+      "summary": "A noite StrictlyVC do TechCrunch em Los Angeles no final da semana passada reuniu dois dos investidores mais diretos que trabalham em IA no momento. Eles eram tão divertidos quanto…",
+      "link": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-24T06:26:11+00:00"
+    },
     {
       "id": "dca31486357a3b3f",
       "title": "Fala AI: Google vai criar ferramentas de IA voltadas ao cinema",
@@ -47,17 +102,6 @@
       "published_at": "2026-06-23T23:30:00+00:00"
     },
     {
-      "id": "d026de08721b776a",
-      "title": "Ameaça cibernética global está a meses de distância, diz relatório",
-      "summary": "Especialistas consultados pelo Olhar Digital destacaram que a IA não criou ataques cibernéticos novos - apenas ampliou velocidade e alcance O post Ameaça cibernética global está a…",
-      "link": "https://olhardigital.com.br/2026/06/23/seguranca/ameaca-cibernetica-global-esta-a-meses-de-distancia-diz-relatorio/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2020/12/shutterstock_667595770-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-23T23:30:00+00:00"
-    },
-    {
       "id": "4c5c2c6ef805aa4a",
       "title": "Claude Tag: Nova IA vira \"colega de trabalho\" oficial no Slack",
       "summary": "A Anthropic anunciou o Claude Tag, uma nova integração que transforma o Claude em um “colega de trabalho” dentro do Slack. Com isso, os usuários podem mencionar a IA usando…",
@@ -69,28 +113,6 @@
       "published_at": "2026-06-23T23:10:00+00:00"
     },
     {
-      "id": "d824c317124983b4",
-      "title": "Em breve, o Google Home ficará melhor em reconhecer você",
-      "summary": "Uma nova atualização para o Google Home pode diminuir a probabilidade de suas câmeras domésticas inteligentes confundirem você com outra pessoa, só porque você está de costas para a câmera. A partir de 23 de junho…",
-      "link": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-23T22:28:19+00:00"
-    },
-    {
-      "id": "fa65836474a1cfd7",
-      "title": "Tesla culpa motorista e defende FSD após acidente fatal no Texas",
-      "summary": "Chefe de IA da empresa publicou no X que o condutor pressionou o acelerador ao máximo em área residencial O post Tesla culpa motorista e defende FSD após acidente fatal no Texas…",
-      "link": "https://olhardigital.com.br/2026/06/23/carros-e-tecnologia/tesla-culpa-motorista-e-defende-fsd-apos-acidente-fatal-no-texas/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/ashok-elluswamy-x-tesla.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-23T22:11:27+00:00"
-    },
-    {
       "id": "625728d8a745163a",
       "title": "Opinião polêmica: EA diz que usar IA ajuda a criar jogos mais rápido",
       "summary": "A presidente de enterprise development da Electronic Arts, Laura Miele, afirmou que o uso de Inteligência Artificial resultou em um \"real aumento na criatividade\" nos estúdios da…",
@@ -100,17 +122,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-06-23T22:05:00+00:00"
-    },
-    {
-      "id": "111f44f8de8d7b14",
-      "title": "Hollywood está dobrando os joelhos para OpenAI",
-      "summary": "Netflix, A24, Focus Features e Warner Bros. Todos os Clockwork decidiram deixar de escolher Artificial - o novo drama biográfico do diretor Luca Guadagnino sobre…",
-      "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-23T22:03:18+00:00"
     },
     {
       "id": "9d64b1947f5216e9",
@@ -454,17 +465,6 @@
       "published_at": "2026-06-23T01:27:55+00:00"
     },
     {
-      "id": "f7194843813fb6dc",
-      "title": "OpenAI lança nova iniciativa para ajudar a encontrar e corrigir bugs de código aberto",
-      "summary": "A OpenAI está tentando resolver os problemas de segurança da comunidade de software de código aberto.",
-      "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-23T00:11:31+00:00"
-    },
-    {
       "id": "480508a9ca16ad81",
       "title": "Como a Omio está a construir o futuro das viagens por conversação",
       "summary": "Descubra como a Omio utiliza a OpenAI para potenciar experiências de viagem conversacionais, acelerar o desenvolvimento de produtos e transformar-se numa empresa nativa da IA.",
@@ -520,26 +520,15 @@
       "published_at": "2026-06-22T21:52:39+00:00"
     },
     {
-      "id": "a69f3aac209d6a29",
-      "title": "xAI lança /goal no Grok Build, adicionando execução autônoma de longa duração com verificação integrada para tarefas de codificação em várias etapas",
-      "summary": "xAI introduziu /goal no Grok Build, um modo para execução autônoma de tarefas de longa duração. Você entrega um objetivo e o agente planeja uma abordagem, executa uma lista de verificação de progresso…",
-      "link": "https://www.marktechpost.com/2026/06/22/xai-launches-goal-in-grok-build-adding-long-running-autonomous-execution-with-built-in-verification-for-multi-step-coding-tasks/",
-      "image": null,
-      "source": "MarkTechPost",
+      "id": "d36b8fef351847dd",
+      "title": "A IA está amaldiçoando os locatários com a promessa de casas impossíveis",
+      "summary": "Joyce, natural de Nova York, não achava que seria fácil encontrar seu primeiro apartamento solo na cidade. Mas ela também não achava que seria um “inferno”. Depois de olhar para muitos pequenos…",
+      "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268589_Vitual_staging_AParkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
       "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-22T20:34:48+00:00"
-    },
-    {
-      "id": "ce81620d26d8326a",
-      "title": "Sakana AI lança Sakana Fugu: um modelo de orquestração que encaminha tarefas através de um conjunto intercambiável de LLMs de fronteira",
-      "summary": "Fugu e Fugu Ultra roteiam tarefas em um pool de modelos trocáveis, liderando a maioria dos benchmarks de codificação, raciocínio e agentes. O post Sakana AI lança Sakana Fugu: uma orquestração…",
-      "link": "https://www.marktechpost.com/2026/06/22/sakana-ai-launches-sakana-fugu-an-orchestration-model-that-routes-tasks-across-a-swappable-pool-of-frontier-llms/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-22T18:42:59+00:00"
+      "category": "Mundo",
+      "published_at": "2026-06-22T20:00:00+00:00"
     },
     {
       "id": "87c282464d6eaf83",
@@ -575,6 +564,17 @@
       "published_at": "2026-06-22T13:18:56+00:00"
     },
     {
+      "id": "c47909c526bb4772",
+      "title": "Leia isto antes de codificar outro aplicativo",
+      "summary": "Bob Starr ficou encantado com seu site codificado por vibração. \"Boomberg\" mostrou quanto dinheiro dos impostos dos EUA está indo para empresas de tecnologia, e Starr o lançou online imediatamente após fazê-lo...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268570_vibe_coding_security_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-22T11:00:00+00:00"
+    },
+    {
       "id": "b63e5cb33bb0ec81",
       "title": "Daybreak: Ferramentas para proteger todas as organizações do mundo",
       "summary": "OpenAI apresenta novas ferramentas Daybreak, incluindo Codex Security e GPT-5.5-Cyber, para ajudar as organizações a encontrar, validar e corrigir vulnerabilidades em escala.",
@@ -595,17 +595,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-06-22T10:00:00+00:00"
-    },
-    {
-      "id": "2712033b3228d9c8",
-      "title": "MoonMath AI abre um kernel de atenção HIP para AMD MI300X que supera o AITER v3 em todas as formas e modos de arredondamento",
-      "summary": "O kernel HIP usa wrappers ASM de uma instrução e um pipeline de oito ondas para superar o AITER v3 da AMD no MI300X. A postagem MoonMath AI abre o código-fonte de um kernel de atenção HIP para…",
-      "link": "https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-22T07:13:49+00:00"
     },
     {
       "id": "e2330fefe7e28987",
