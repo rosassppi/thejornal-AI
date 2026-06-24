@@ -1,17 +1,204 @@
 {
-  "generated_at": "2026-06-24T14:27:27.276080+00:00",
+  "generated_at": "2026-06-24T19:44:35.495567+00:00",
   "total": 80,
   "items": [
     {
-      "id": "30468576c917f369",
-      "title": "OpenAI entra na disputa dos chips e desafia Nvidia e Google",
-      "summary": "OpenAI apresenta chip próprio de IA desenvolvido com a Broadcom, marcando nova fase na disputa por infraestrutura entre gigantes da tecnologia O post OpenAI entra na disputa dos…",
-      "link": "https://olhardigital.com.br/2026/06/24/inteligencia-artificial/openai-entra-na-disputa-dos-chips-e-desafia-nvidia-e-google/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/openai-broadcom-jalapeno-inference-chip-image-1024x577.webp",
+      "id": "1c43f0ae6760cc61",
+      "title": "Congressista nega que a equipe tenha usado IA para redigir emenda ao financiamento da defesa",
+      "summary": "A deputada Anna Paulina Luna (R-FL) diz que sua equipe usou IA para \"verificação ortográfica\" em um resumo de emenda para um importante projeto de defesa, mas nega que tenha sido usado no próprio texto do projeto e diz…",
+      "link": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-24T19:36:46+00:00"
+    },
+    {
+      "id": "ab8f00d55d3dc071",
+      "title": "Meta relança Creator Studio como app com IA e abre disputa com TikTok e YouTube",
+      "summary": "Ferramenta ganha assistente inteligente, organiza rotina de criadores e aposta em recomendações automáticas para conteúdo e engajamento O post Meta relança Creator Studio como app…",
+      "link": "https://olhardigital.com.br/2026/06/24/internet-e-redes-sociais/meta-relanca-creator-studio-como-app-com-ia-e-abre-disputa-com-tiktok-e-youtube/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/facebook-muda-ferramentas-para-criadores-de-conteudo-na-plataforma-1024x577.jpg",
       "source": "Olhar Digital",
       "region": "brasil",
       "category": "Brasil",
-      "published_at": "2026-06-24T13:50:47+00:00"
+      "published_at": "2026-06-24T19:18:32+00:00"
+    },
+    {
+      "id": "9458127bfdbb1f18",
+      "title": "Como projetar um tempo de execução de agente no estilo OpenHarness com ferramentas, memória, permissões, habilidades e coordenação multiagente",
+      "summary": "Neste tutorial, construímos um equipamento de agente no estilo OpenHarness do zero para ver como funciona um sistema de agente prático. Recriamos os principais blocos de construção: uso de ferramentas, ferramenta digitada…",
+      "link": "https://www.marktechpost.com/2026/06/24/how-to-design-an-openharness-style-agent-runtime-with-tools-memory-permissions-skills-and-multi-agent-coordination/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f510.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-24T19:08:36+00:00"
+    },
+    {
+      "id": "7ec068b78fcdf896",
+      "title": "Eleita TV do ano por especialistas, LG OLED evo AI C5 tem imagem imbatível",
+      "summary": "A LG levou para casa o troféu de “TV do ano” no Prêmio Canaltech de 2026 graças à OLED evo AI C5 , que ao longo do último ano virou uma espécie de referência silenciosa entre quem…",
+      "link": "https://canaltech.com.br/tv/eleita-tv-do-ano-por-especialistas-lg-oled-evo-ai-c5-tem-imagem-imbativel/",
+      "image": "https://t.ctcdn.com.br/DoX3A6fYPtB0_Wnni2obENnIEmE=/700x394/smart/i1130901.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-24T18:50:00+00:00"
+    },
+    {
+      "id": "2dc76fa856e0138f",
+      "title": "Casa mais inteligente: Echo Dot em várias cores com Alexa+ está em oferta",
+      "summary": "Montar uma casa conectada ficou mais acessível. A Amazon colocou em promoção três versões do Echo Dot (geração mais recente) — o popular smart speaker com Alexa —, disponíveis nas…",
+      "link": "https://olhardigital.com.br/2026/06/24/reviews/casa-mais-inteligente-echo-dot-em-varias-cores-com-alexa-esta-em-oferta/",
+      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-24T18:40:00+00:00"
+    },
+    {
+      "id": "c65305a7adb8c56e",
+      "title": "China alerta para riscos da IA e cobra regras globais para regulamentação",
+      "summary": "Premiê chinês alerta para riscos da inteligência artificial sem regras, cita crise global, tensões EUA-China e incertezas econômicas mundiais O post China alerta para riscos da IA…",
+      "link": "https://olhardigital.com.br/2026/06/24/inteligencia-artificial/china-alerta-para-riscos-da-ia-e-cobra-regras-globais-para-regulamentacao/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/11/bandeira-china-shutterstock_2524333393-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-24T18:04:35+00:00"
+    },
+    {
+      "id": "5d1ac36024a1c4cf",
+      "title": "A guerra por procuração de Al de US$ 27 milhões sobre Alex Bores termina em empate",
+      "summary": "A cara guerra política por procuração de US$ 27 milhões entre a Anthropic e a OpenAI chegou ao fim na noite passada quando Alex Bores, um deputado do estado de Nova York cuja popularidade aumentou depois…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2282522212.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-24T17:25:00+00:00"
+    },
+    {
+      "id": "4a09296732a3c69c",
+      "title": "Facebook lança um aplicativo complementar de IA para criadores",
+      "summary": "O novo aplicativo, que está atualmente sendo testado com criadores selecionados, terá o recém-lançado assistente de criação de IA do Facebook integrado.",
+      "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-24T17:16:24+00:00"
+    },
+    {
+      "id": "3d6d1a7b7d8fccd9",
+      "title": "Deezer diz que seu novo recurso permite que os fãs remixem músicas com o consentimento do artista",
+      "summary": "O serviço global de streaming de música Deezer está adotando uma abordagem contrária à IA, ao mesmo tempo em que adiciona um recurso que permite aos fãs remixar músicas.",
+      "link": "https://techcrunch.com/2026/06/24/deezer-says-its-new-feature-lets-fans-remix-songs-with-artist-consent/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-24T17:14:33+00:00"
+    },
+    {
+      "id": "ce87d3a501c87ded",
+      "title": "Meta \"faz a Apple\" e vende base de carregamento para óculos sem carregador",
+      "summary": "A Meta anunciou uma nova base de carregamento para seus óculos inteligentes, mas a novidade chegou acompanhada de uma decisão que já virou motivo de críticas entre consumidores. A…",
+      "link": "https://canaltech.com.br/produtos/meta-faz-a-apple-e-vende-base-de-carregamento-para-oculos-sem-carregador/",
+      "image": "https://t.ctcdn.com.br/HibROHtHysDQhPX1jMFPnnLazTs=/700x394/smart/i1137487.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-24T16:24:52+00:00"
+    },
+    {
+      "id": "b6a13b5e4f48193a",
+      "title": "Figma adiciona camadas de código, suporte para animações e mais recursos de IA em nova atualização",
+      "summary": "A atualização do Figma adiciona uma nova camada de código, suporte para movimento e shaders e a capacidade de criar plug-ins personalizados para várias tarefas usando IA.",
+      "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-24T16:15:00+00:00"
+    },
+    {
+      "id": "a4a7a34251b04000",
+      "title": "Figma agora tem gráficos em movimento de IA e ferramentas de shader",
+      "summary": "Figma revelou algumas novas atualizações de produtos de design e codificação em sua conferência anual Config que visam ajudar os criativos a \"levar suas ideias adiante\" e automatizar tarefas tediosas com…",
+      "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figma-config-2026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-24T16:15:00+00:00"
+    },
+    {
+      "id": "6d4135a4940555c4",
+      "title": "Figma quer peitar After Effects com motion gerado por IA",
+      "summary": "Recurso chamado Motion estreia no canvas do Figma. Anúncio ocorre durante o Config, nos EUA. Figma quer peitar After Effects com motion gerado por IA",
+      "link": "https://tecnoblog.net/noticias/figma-quer-peitar-after-effects-com-motion-gerado-por-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/2zcc4k_iv5w.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-24T16:15:00+00:00"
+    },
+    {
+      "id": "ad312ce435987076",
+      "title": "Acelerando o ajuste fino de transformadores com NVIDIA NeMo AutoModel",
+      "summary": "",
+      "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-24T16:00:13+00:00"
+    },
+    {
+      "id": "8da24edac539003b",
+      "title": "OpenAI revela seu primeiro chip de IA: o Jalapeño",
+      "summary": "Desenvolvido em parceria com a Broadcom, chip foca no processo de inferência de IA para aumentar velocidade de resposta dos modelos. OpenAI revela seu primeiro chip de IA: o…",
+      "link": "https://tecnoblog.net/noticias/openai-revela-seu-primeiro-chip-de-ia-o-jalapeno/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/openai-broadcom-chip-340x191.webp",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-24T15:49:38+00:00"
+    },
+    {
+      "id": "350d49b0ef03bc90",
+      "title": "Galaxy A36 (256 GB) tem promoção com grande queda de preço no Mercado Livre",
+      "summary": "Galaxy A36 com tela AMOLED, câmera de 50 MP e Galaxy AI sai por menos da metade do preço ao combinar cupom e pagamento via Pix no Meli Galaxy A36 (256 GB) tem promoção com grande…",
+      "link": "https://tecnoblog.net/achados/galaxy-a36-256-gb-tem-promocao-com-grande-queda-de-preco-no-mercado-livre/",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2025/08/galaxy-a36-achados-1060x596.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-24T15:12:08+00:00"
+    },
+    {
+      "id": "d6bb4be6138d4490",
+      "title": "OpenAI revela seu primeiro chip personalizado, construído pela Broadcom",
+      "summary": "Chamado Jalapeño, o novo processador foi projetado especificamente para as necessidades exclusivas dos sistemas de inferência da OpenAI.",
+      "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-24T14:54:46+00:00"
+    },
+    {
+      "id": "196ffbbed28e088e",
+      "title": "OpenAI revela seu primeiro processador de IA: Jalapeño",
+      "summary": "A OpenAI acaba de revelar um novo chip de “processador de inteligência” para servidores de IA feito em parceria com a Broadcom. O chip, chamado Jalapeño, foi projetado para alimentar o presente e o futuro…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-broadcom-jalapeno-inference-chip-image.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-24T14:36:47+00:00"
     },
     {
       "id": "66427f009c2941d2",
@@ -25,28 +212,6 @@
       "published_at": "2026-06-24T13:00:00+00:00"
     },
     {
-      "id": "ce226985391f8ce6",
-      "title": "LastPass sofre mais um ataque e dados de usuários são expostos",
-      "summary": "Dados de usuários do LastPass foram expostos em um novo incidente de segurança . O vazamento ocorreu após um ataque à Klue , plataforma de inteligência de mercado utilizada pela…",
-      "link": "https://canaltech.com.br/seguranca/lastpass-sofre-mais-um-ataque-e-dados-de-usuarios-sao-expostos/",
-      "image": "https://t.ctcdn.com.br/yStDAdC7ptNAwM_tanZQuwckjq8=/700x394/smart/i1137379.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-24T12:40:57+00:00"
-    },
-    {
-      "id": "71984404ab02e240",
-      "title": "8 prompts do ChatGPT e Gemini para criar fotos suas na Copa do Mundo",
-      "summary": "Essa é a primeira Copa do Mundo em que é possível usar a inteligência artificial para criar experiências visuais altamente realistas de você no estádio, como jogador, torcedor ou…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/8-prompts-do-chatgpt-e-gemini-para-criar-fotos-suas-na-copa-do-mundo/",
-      "image": "https://t.ctcdn.com.br/JTY6Temc2PBeBsLQAEbwblE-jnE=/700x394/smart/i1136577.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-24T12:40:00+00:00"
-    },
-    {
       "id": "9fca72dbae7dafd3",
       "title": "O surgimento da camada de infraestrutura de dados da web para IA",
       "summary": "A IA está crescendo. Novos casos de uso surgem a cada dia. Para capitalizar o potencial da tecnologia, as empresas necessitam de dados em grande escala. Em muitos casos, porém, as informações relevantes…",
@@ -56,17 +221,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-24T11:59:54+00:00"
-    },
-    {
-      "id": "9878f028701dface",
-      "title": "Governança de IA: o risco que ainda não entrou no balanço",
-      "summary": "*Marcelo Crespo Os investimentos em IA continuam crescendo em ritmo acelerado e já figuram entre as prioridades estratégicas de empresas de praticamente todos os setores. Esses…",
-      "link": "https://canaltech.com.br/colunas/governanca-de-ia-o-risco-que-ainda-nao-entrou-no-balanco/",
-      "image": "https://t.ctcdn.com.br/PqYmfyaq6XX0Yps9yxJKwgshWtg=/700x394/smart/i771482.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-24T11:52:10+00:00"
     },
     {
       "id": "fd9b370a9388da4c",
@@ -146,6 +300,17 @@
       "published_at": "2026-06-24T00:30:00+00:00"
     },
     {
+      "id": "bb6dca4045d63cf1",
+      "title": "Apresentando a tabela de classificação FFASR: comparando ASR no mundo real",
+      "summary": "",
+      "link": "https://huggingface.co/blog/ffasr-leaderboard",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-24T00:00:00+00:00"
+    },
+    {
       "id": "8c088fd4fc8da0d4",
       "title": "Mistral OCR 4 traz saída estruturada pronta para citação para pipelines de pesquisa RAG, Agentic e Enterprise",
       "summary": "Mistral AI lançou o OCR 4 em 23 de junho de 2026, passando da extração de texto limpo para a saída de documentos estruturados. Cada bloco retorna uma caixa delimitadora, uma classificação digitada e…",
@@ -223,17 +388,6 @@
       "published_at": "2026-06-23T20:17:38+00:00"
     },
     {
-      "id": "405c2d62cb4be76b",
-      "title": "Depois de apostar a empresa na Anthropic, Menlo Ventures levanta um fundo vitorioso de US$ 3 bilhões",
-      "summary": "Menlo criou uma reputação sólida como investidor em IA, tudo com base em um movimento corajoso de US$ 750 milhões em 2024.",
-      "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-23T19:49:55+00:00"
-    },
-    {
       "id": "fe174e095c48939f",
       "title": "Datalab lança aumento: um modelo de visão de pesos abertos 9B que extrai JSON estruturado de PDFs usando esquemas",
       "summary": "A Datalab lançou o lift, um modelo de visão de peso aberto 9B que transforma PDFs e imagens em JSON de correspondência de esquema. Ele usa decodificação restrita por esquema para estrutura válida e treinada…",
@@ -256,28 +410,6 @@
       "published_at": "2026-06-23T18:31:36+00:00"
     },
     {
-      "id": "6450b18d3e3a1e3c",
-      "title": "Meta lança linha de óculos inteligentes com preço mais baixo",
-      "summary": "Meta Glasses custam a partir de US$ 299 e saem US$ 80 mais baratos que o Ray-Ban Meta de 2ª geração. Ainda não há previsão de lançamento no Brasil. Meta lança linha de óculos…",
-      "link": "https://tecnoblog.net/noticias/meta-lanca-linha-de-oculos-inteligentes-com-preco-mais-baixo/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/m6ua1qq5290.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-23T17:48:29+00:00"
-    },
-    {
-      "id": "c4b83b4a74b98172",
-      "title": "Claude Tag da Anthropic está aprendendo sua empresa, uma mensagem do Slack por vez",
-      "summary": "O novo Claude Tag da Anthropic traz um companheiro de equipe de IA sempre ativo para o Slack. Mas além da produtividade, o recurso é uma peça estratégica para capturar o contexto organizacional, institucional…",
-      "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-23T17:00:00+00:00"
-    },
-    {
       "id": "bf129b615f4b182f",
       "title": "Por que os super PACs corporativos de IA gastaram US$ 27 milhões em eleições locais",
       "summary": "Olá e bem-vindo ao Regulador, o boletim informativo para Beira assinantes narrando as desventuras de seus senhores da tecnologia favoritos e criaturas do pântano de Washington. (\"Favorito\" é…",
@@ -298,94 +430,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-06-23T17:00:00+00:00"
-    },
-    {
-      "id": "ae67da9a03a72dc4",
-      "title": "Algo está errado com o pivô do Midjourney para scanners corporais",
-      "summary": "Na semana passada, a Midjourney, uma startup de IA mais conhecida por seu gerador de imagens, fez um pivô incomum: imagens médicas. A empresa anunciou um scanner de ultrassom futurista que…",
-      "link": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-23T15:56:35+00:00"
-    },
-    {
-      "id": "26f23fc31c724eab",
-      "title": "Smart TV Samsung OLED 55” tem o melhor preço desde maio nesta oferta",
-      "summary": "Samsung Vision AI OLED S85F de 55\" tem tela 4K de 120 Hz, recursos de IA e suporta games na nuvem; Smart TV atinge melhor preço desde maio no Pix com cupom Smart TV Samsung OLED…",
-      "link": "https://tecnoblog.net/achados/smart-tv-samsung-oled-55-tem-o-melhor-preco-desde-maio-nesta-oferta/",
-      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2025/11/tv-samsung-oled-vision-ai-55-1060x596.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-23T15:33:40+00:00"
-    },
-    {
-      "id": "654798678f8aecf8",
-      "title": "O Fitbit Air adota uma abordagem mais inteligente para o incêndio na lixeira de saúde da IA",
-      "summary": "O Google Health Coach parece pensar que estou à beira de um colapso físico. Meu sono não está onde deveria estar, daí minha pontuação de prontidão inexpressiva. Minha variabilidade da frequência cardíaca, um…",
-      "link": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268538_Fitbit_Air_AKrales_0012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-23T15:00:00+00:00"
-    },
-    {
-      "id": "c56474f2c0d0a3a2",
-      "title": "Claude fora do ar: IA da Anthropic volta a funcionar após instabilidade",
-      "summary": "Chatbot da Anthropic apresentou falhas nesta terça-feira (23). Empresa informou que problema já foi corrigido. Claude fora do ar: IA da Anthropic volta a funcionar após…",
-      "link": "https://tecnoblog.net/noticias/claude-fora-do-ar-usuarios-relatam-instabilidade-nesta-terca-feira-23/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/claude-design-edited-340x191.webp",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-23T14:53:47+00:00"
-    },
-    {
-      "id": "67c47c57fb0945e4",
-      "title": "Meta pausa treinamento polêmico de IA com dados de funcionários",
-      "summary": "Meta suspendeu programa que monitora cliques e digitação nos computadores de funcionários devido a um possível vazamento de dados. Meta pausa treinamento polêmico de IA com dados…",
-      "link": "https://tecnoblog.net/noticias/meta-pausa-treinamento-polemico-de-ia-com-dados-de-funcionarios/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-01-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-23T14:03:22+00:00"
-    },
-    {
-      "id": "34fce8c42192ba1b",
-      "title": "O AI Camera Assistant da Sony é exatamente tão ruim quanto parece",
-      "summary": "Quando a Sony anunciou o Xperia 1 VIII no mês passado, ela promoveu o telefone compartilhando algumas das piores fotos tiradas com uma câmera Sony em anos. Mas não eram apenas fotos quaisquer…",
-      "link": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/sony-xperia-1-viii-ai-camera-assistant-samples.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-23T13:25:42+00:00"
-    },
-    {
-      "id": "bbcba71ce335108a",
-      "title": "Fika Jobs arrecada US$ 4 milhões para construir uma plataforma de contratação baseada em vídeo, onde agentes de IA entrevistam candidatos",
-      "summary": "A startup Fika Jobs, com sede em Estocolmo, está construindo uma plataforma de contratação baseada em vídeo que combina agentes de entrevista de IA com perfis de vídeo curtos, criando algo que parece um…",
-      "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-23T13:00:00+00:00"
-    },
-    {
-      "id": "34fb898dfb9f81c9",
-      "title": "Meta lança óculos inteligentes mais baratos sem Ray-Ban",
-      "summary": "Nos últimos três anos, “Meta” e “Ray-Ban” têm sido sinônimos no espaço dos óculos inteligentes. Não mais. Ontem coloquei vários pares de Meta Glasses - nada de Ray-Bans -…",
-      "link": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/MetaGlasses_1.jpg?quality=90&#038;strip=all&#038;crop=8.55,21.565660205136,82.25546875,73.01650212582",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-23T13:00:00+00:00"
     },
     {
       "id": "aec47bf765565a42",
@@ -430,28 +474,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-23T09:00:00+00:00"
-    },
-    {
-      "id": "c0f2550db1ea8dd6",
-      "title": "Prime Intellect lança prime-rl 0.6.0 para treinar modelos MoE de trilhões de parâmetros em cargas de trabalho Agentic RL",
-      "summary": "Prime Intellect lançou prime-rl 0.6.0, uma estrutura aberta para aprendizagem por reforço assíncrono em modelos de mistura de especialistas de trilhões de parâmetros. Treinou GLM-5 no SWE…",
-      "link": "https://www.marktechpost.com/2026/06/23/prime-intellect-releases-prime-rl-0-6-0-to-train-trillion-parameter-moe-models-on-agentic-rl-workloads/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2194.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-23T07:20:44+00:00"
-    },
-    {
-      "id": "ec9b9d1b8b046ec8",
-      "title": "A lista em execução: grandes demissões de tecnologia em 2026, onde os empregadores citaram a IA",
-      "summary": "Uma rápida olhada – em ordem cronológica inversa – nas maiores empresas de tecnologia que anunciaram demissões significativas este ano, tendo a IA como fator declarado.",
-      "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-23T01:27:55+00:00"
     },
     {
       "id": "480508a9ca16ad81",
@@ -628,28 +650,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-18T17:02:49+00:00"
-    },
-    {
-      "id": "26cac67090219df5",
-      "title": "Além do LoRA: Você consegue vencer a técnica de ajuste fino mais popular?",
-      "summary": "",
-      "link": "https://huggingface.co/blog/peft-beyond-lora",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-18T00:00:00+00:00"
-    },
-    {
-      "id": "432c23c0dd1c00f1",
-      "title": "É agente o suficiente? Comparando modelos abertos em suas próprias ferramentas",
-      "summary": "",
-      "link": "https://huggingface.co/blog/is-it-agentic-enough",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-18T00:00:00+00:00"
     },
     {
       "id": "2a13a388a1061382",
