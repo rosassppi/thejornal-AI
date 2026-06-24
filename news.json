@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-06-24T09:27:21.227848+00:00",
-  "total": 86,
+  "generated_at": "2026-06-24T14:27:27.276080+00:00",
+  "total": 80,
   "items": [
+    {
+      "id": "30468576c917f369",
+      "title": "OpenAI entra na disputa dos chips e desafia Nvidia e Google",
+      "summary": "OpenAI apresenta chip próprio de IA desenvolvido com a Broadcom, marcando nova fase na disputa por infraestrutura entre gigantes da tecnologia O post OpenAI entra na disputa dos…",
+      "link": "https://olhardigital.com.br/2026/06/24/inteligencia-artificial/openai-entra-na-disputa-dos-chips-e-desafia-nvidia-e-google/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/openai-broadcom-jalapeno-inference-chip-image-1024x577.webp",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-24T13:50:47+00:00"
+    },
+    {
+      "id": "66427f009c2941d2",
+      "title": "O alto-falante doméstico do Google tem um bom som e uma ótima aparência – mas é meticuloso",
+      "summary": "Assim que sai da caixa, o novo Google Home Speaker passou em alguns testes importantes. Mesmo com o volume em 100 por cento e a música tocando no alto-falante, ele rapidamente diminuiu…",
+      "link": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Home-Speaker.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-24T13:00:00+00:00"
+    },
+    {
+      "id": "ce226985391f8ce6",
+      "title": "LastPass sofre mais um ataque e dados de usuários são expostos",
+      "summary": "Dados de usuários do LastPass foram expostos em um novo incidente de segurança . O vazamento ocorreu após um ataque à Klue , plataforma de inteligência de mercado utilizada pela…",
+      "link": "https://canaltech.com.br/seguranca/lastpass-sofre-mais-um-ataque-e-dados-de-usuarios-sao-expostos/",
+      "image": "https://t.ctcdn.com.br/yStDAdC7ptNAwM_tanZQuwckjq8=/700x394/smart/i1137379.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-24T12:40:57+00:00"
+    },
+    {
+      "id": "71984404ab02e240",
+      "title": "8 prompts do ChatGPT e Gemini para criar fotos suas na Copa do Mundo",
+      "summary": "Essa é a primeira Copa do Mundo em que é possível usar a inteligência artificial para criar experiências visuais altamente realistas de você no estádio, como jogador, torcedor ou…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/8-prompts-do-chatgpt-e-gemini-para-criar-fotos-suas-na-copa-do-mundo/",
+      "image": "https://t.ctcdn.com.br/JTY6Temc2PBeBsLQAEbwblE-jnE=/700x394/smart/i1136577.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-24T12:40:00+00:00"
+    },
+    {
+      "id": "9fca72dbae7dafd3",
+      "title": "O surgimento da camada de infraestrutura de dados da web para IA",
+      "summary": "A IA está crescendo. Novos casos de uso surgem a cada dia. Para capitalizar o potencial da tecnologia, as empresas necessitam de dados em grande escala. Em muitos casos, porém, as informações relevantes…",
+      "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-1714934690.jpg",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-24T11:59:54+00:00"
+    },
+    {
+      "id": "9878f028701dface",
+      "title": "Governança de IA: o risco que ainda não entrou no balanço",
+      "summary": "*Marcelo Crespo Os investimentos em IA continuam crescendo em ritmo acelerado e já figuram entre as prioridades estratégicas de empresas de praticamente todos os setores. Esses…",
+      "link": "https://canaltech.com.br/colunas/governanca-de-ia-o-risco-que-ainda-nao-entrou-no-balanco/",
+      "image": "https://t.ctcdn.com.br/PqYmfyaq6XX0Yps9yxJKwgshWtg=/700x394/smart/i771482.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-24T11:52:10+00:00"
+    },
+    {
+      "id": "fd9b370a9388da4c",
+      "title": "Usando Graphify e NetworkX para mapear a estrutura da base de código Python com nós de Deus, comunidades e visualizações de arquitetura",
+      "summary": "Neste tutorial, construímos um pipeline Graphify totalmente offline que transforma um aplicativo Python multimódulo em um gráfico de conhecimento. Instalamos o Graphify, geramos uma amostra conectada…",
+      "link": "https://www.marktechpost.com/2026/06/24/using-graphify-and-networkx-to-map-python-codebase-structure-with-god-nodes-communities-and-architecture-visualizations/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-24T09:36:59+00:00"
+    },
     {
       "id": "258ae533abaffccb",
       "title": "Nous Research adiciona /learn ao sistema de habilidades do agente Hermes, capturando fluxos de trabalho como comandos de barra sem escrever à mão SKILL.md",
@@ -12,17 +89,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-24T09:21:49+00:00"
-    },
-    {
-      "id": "faddae49fd92a6f2",
-      "title": "Como a tecnologia está mudando o varejo e a forma como você consome",
-      "summary": "Especialista explica como dados, IA e inovação estão transformando compras, atendimento e trabalho no varejo brasileiro Ouça ao podcast.",
-      "link": "https://canaltech.com.br/podcast/podcast-canaltech/como-a-tecnologia-esta-mudando-o-varejo-e-a-forma-como-voce-consome-6579/",
-      "image": "https://t.ctcdn.com.br/B1v2PB34FXkywxZ5Xymd5C7dXmU=/700x394/smart/i1137253.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-24T09:00:00+00:00"
     },
     {
       "id": "303dc601af3e375b",
@@ -58,15 +124,15 @@
       "published_at": "2026-06-24T06:26:11+00:00"
     },
     {
-      "id": "dca31486357a3b3f",
-      "title": "Fala AI: Google vai criar ferramentas de IA voltadas ao cinema",
-      "summary": "Com união entre Google e A24 para desenvolver IA, o que muda no cinema que conhecemos hoje? O post Fala AI: Google vai criar ferramentas de IA voltadas ao cinema apareceu primeiro…",
-      "link": "https://olhardigital.com.br/2026/06/23/colunistas/fala-ai-google-vai-criar-ferramentas-de-ia-voltadas-ao-cinema/",
+      "id": "855db08b75f6ecde",
+      "title": "OpenAI e Broadcom revelam chip de inferência otimizado para LLM",
+      "summary": "OpenAI e Broadcom apresentam Jalapeño, um chip de IA personalizado desenvolvido para inferência LLM para melhorar o desempenho, a eficiência e a escala em sistemas de IA.",
+      "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-24T02:18:20+00:00"
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-24T06:00:00+00:00"
     },
     {
       "id": "d6ce5ce857299a69",
@@ -102,37 +168,26 @@
       "published_at": "2026-06-23T23:30:00+00:00"
     },
     {
-      "id": "4c5c2c6ef805aa4a",
-      "title": "Claude Tag: Nova IA vira \"colega de trabalho\" oficial no Slack",
-      "summary": "A Anthropic anunciou o Claude Tag, uma nova integração que transforma o Claude em um “colega de trabalho” dentro do Slack. Com isso, os usuários podem mencionar a IA usando…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/claude-tag-nova-ia-vira-colega-de-trabalho-oficial-no-slack/",
-      "image": "https://t.ctcdn.com.br/nhe5GfzxZbq5MOIORkQ9sn48Ts4=/700x394/smart/i1137245.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-23T23:10:00+00:00"
+      "id": "d824c317124983b4",
+      "title": "Em breve, o Google Home ficará melhor em reconhecer você",
+      "summary": "Uma nova atualização para o Google Home pode diminuir a probabilidade de suas câmeras domésticas inteligentes confundirem você com outra pessoa, só porque você está de costas para a câmera. A partir de 23 de junho…",
+      "link": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-23T22:28:19+00:00"
     },
     {
-      "id": "625728d8a745163a",
-      "title": "Opinião polêmica: EA diz que usar IA ajuda a criar jogos mais rápido",
-      "summary": "A presidente de enterprise development da Electronic Arts, Laura Miele, afirmou que o uso de Inteligência Artificial resultou em um \"real aumento na criatividade\" nos estúdios da…",
-      "link": "https://canaltech.com.br/games/opiniao-polemica-ea-diz-que-usar-ia-ajuda-a-criar-jogos-mais-rapido/",
-      "image": "https://t.ctcdn.com.br/ZxMcMYcsCRF18Z_vW_xrKn9grQU=/700x394/smart/i973901.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-23T22:05:00+00:00"
-    },
-    {
-      "id": "9d64b1947f5216e9",
-      "title": "Meta vaza dados sensíveis de funcionários e suspende monitoramento para IA",
-      "summary": "A Meta suspendeu por tempo indeterminado o Model Capability Initiative (MCI), programa interno que monitorava a atividade de seus funcionários para o treinamento de inteligência…",
-      "link": "https://canaltech.com.br/mercado/meta-vaza-dados-sensiveis-de-funcionarios-e-suspende-monitoramento-para-ia/",
-      "image": "https://t.ctcdn.com.br/Tl6F51vG5by3Aybp8rU__kSdw-8=/700x394/smart/i1068353.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-23T22:00:00+00:00"
+      "id": "111f44f8de8d7b14",
+      "title": "Hollywood está dobrando os joelhos para OpenAI",
+      "summary": "Netflix, A24, Focus Features e Warner Bros. Todos os Clockwork decidiram deixar de escolher Artificial - o novo drama biográfico do diretor Luca Guadagnino sobre…",
+      "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-23T22:03:18+00:00"
     },
     {
       "id": "da4336b3c5803622",
@@ -168,17 +223,6 @@
       "published_at": "2026-06-23T20:17:38+00:00"
     },
     {
-      "id": "5f001d01bfb295a3",
-      "title": "Gemini ganha funções que vão mudar como você usa o Android",
-      "summary": "O Google atualizou a integração do Gemini no Android e agora permite acessar algumas das principais funções da IA sem abrir o aplicativo . A mudança está no menu suspenso do…",
-      "link": "https://canaltech.com.br/apps/gemini-ganha-funcoes-que-vao-mudar-como-voce-usa-o-android/",
-      "image": "https://t.ctcdn.com.br/6yp8IyqIFXk-DroW5LC4gCbPS4Q=/700x394/smart/i928737.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-23T19:58:56+00:00"
-    },
-    {
       "id": "405c2d62cb4be76b",
       "title": "Depois de apostar a empresa na Anthropic, Menlo Ventures levanta um fundo vitorioso de US$ 3 bilhões",
       "summary": "Menlo criou uma reputação sólida como investidor em IA, tudo com base em um movimento corajoso de US$ 750 milhões em 2024.",
@@ -201,17 +245,6 @@
       "published_at": "2026-06-23T19:35:33+00:00"
     },
     {
-      "id": "d60c55fd9deb4115",
-      "title": "Advogado de IA vence primeiro caso judicial e derrota advogados humanos",
-      "summary": "Um escritório de advocacia operado por inteligência artificial marcou um feito inédito no sistema judiciário britânico ao vencer seu primeiro caso em tribunal . A Garfield AI…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/advogado-de-ia-vence-primeiro-caso-judicial-e-derrota-advogados-humanos/",
-      "image": "https://t.ctcdn.com.br/hJdr_JU-c2DtH5TW7XxlIz8LsDw=/700x394/smart/i1137169.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-23T19:05:00+00:00"
-    },
-    {
       "id": "685ed8be34a9d9a9",
       "title": "Como usar NVIDIA Canary-1B-v2 para ASR, tradução e exportação automática de legendas SRT em Python",
       "summary": "Neste tutorial, construímos um pipeline multilíngue de ASR e tradução de fala com NVIDIA Canary-1B-v2. Carregamos o modelo em um tempo de execução habilitado para GPU, preparamos o áudio em mono de 16 kHz…",
@@ -221,17 +254,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-23T18:31:36+00:00"
-    },
-    {
-      "id": "7383e18813860089",
-      "title": "Kylie Jenner revela novos óculos inteligentes da Meta; conheça todos os recursos",
-      "summary": "A Meta anunciou sua nova geração de óculos inteligentes com três novos estilos no mercado internacional. Entre as novidades, a influencer Kylie Jenner inspira um modelo exclusivo…",
-      "link": "https://canaltech.com.br/produtos/kylie-jenner-revela-novos-oculos-inteligentes-da-meta-conheca-todos-os-recursos/",
-      "image": "https://t.ctcdn.com.br/taS78iWvY0RqVuEaNjm9g8FMOik=/700x394/smart/i1137161.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-23T18:11:00+00:00"
     },
     {
       "id": "6450b18d3e3a1e3c",
@@ -333,17 +355,6 @@
       "published_at": "2026-06-23T14:03:22+00:00"
     },
     {
-      "id": "f2bff0042fc5d083",
-      "title": "Samsung anuncia UFS 5.0, memória duas vezes mais rápida para IA",
-      "summary": "Novo padrão de armazenamento atinge leitura de 10,8 GB/s, consome menos bateria e foca no processamento de IA direto no dispositivo. Samsung anuncia UFS 5.0, memória duas vezes…",
-      "link": "https://tecnoblog.net/noticias/samsung-anuncia-ufs-5-0-memoria-duas-vezes-mais-rapida-para-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/samsung-ufs-5-edited-1-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-23T13:29:44+00:00"
-    },
-    {
       "id": "34fce8c42192ba1b",
       "title": "O AI Camera Assistant da Sony é exatamente tão ruim quanto parece",
       "summary": "Quando a Sony anunciou o Xperia 1 VIII no mês passado, ela promoveu o telefone compartilhando algumas das piores fotos tiradas com uma câmera Sony em anos. Mas não eram apenas fotos quaisquer…",
@@ -432,28 +443,6 @@
       "published_at": "2026-06-23T07:20:44+00:00"
     },
     {
-      "id": "a53fc0527580f2f5",
-      "title": "API GLM-5.2 compatível com OpenAI: um guia prático para esforço de raciocínio, chamada de função e recuperação de contexto longo",
-      "summary": "Construímos um fluxo de trabalho prático do GLM-5.2 usando sua API hospedada compatível com OpenAI em vez de executar o modelo localmente. Configuramos vários provedores, carregamos a chave API com segurança e…",
-      "link": "https://www.marktechpost.com/2026/06/22/glm-5-2-openai-compatible-api-a-hands-on-guide-to-reasoning-effort-function-calling-and-long-context-retrieval/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-23T06:35:05+00:00"
-    },
-    {
-      "id": "28a16e8e650dc602",
-      "title": "Advogado tenta prompt injection de IA e recebe multa de R$ 32,8 mil",
-      "summary": "Decisão foi tomada por juiz na Paraíba após identificar comandos que tentavam manipular sistemas utilizados pelo judiciário. Advogado tenta prompt injection de IA e recebe multa…",
-      "link": "https://tecnoblog.net/noticias/advogado-tenta-prompt-injection-de-ia-e-recebe-multa-de-r-328-mil/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/07/TJPB-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-23T02:33:37+00:00"
-    },
-    {
       "id": "ec9b9d1b8b046ec8",
       "title": "A lista em execução: grandes demissões de tecnologia em 2026, onde os empregadores citaram a IA",
       "summary": "Uma rápida olhada – em ordem cronológica inversa – nas maiores empresas de tecnologia que anunciaram demissões significativas este ano, tendo a IA como fator declarado.",
@@ -498,17 +487,6 @@
       "published_at": "2026-06-23T00:00:00+00:00"
     },
     {
-      "id": "0844b7af34c2be02",
-      "title": "Nvidia diz que o design de seu data center de IA fica mais quente para usar muito menos água",
-      "summary": "A resistência pública contra os data centers enfatizou seu consumo de água e energia, e agora a Nvidia está destacando sua afirmação de que o design de referência da geração Rubin para um…",
-      "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-22T23:24:32+00:00"
-    },
-    {
       "id": "e5de597cff36bf14",
       "title": "GM instala robôs em sua principal fábrica de EV após demitir 1.300 trabalhadores",
       "summary": "Sindicato dos trabalhadores da indústria automobilística dos EUA alerta sobre a automação de robôs à medida que o futuro sombrio da fábrica se aproxima.",
@@ -518,17 +496,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-22T21:52:39+00:00"
-    },
-    {
-      "id": "d36b8fef351847dd",
-      "title": "A IA está amaldiçoando os locatários com a promessa de casas impossíveis",
-      "summary": "Joyce, natural de Nova York, não achava que seria fácil encontrar seu primeiro apartamento solo na cidade. Mas ela também não achava que seria um “inferno”. Depois de olhar para muitos pequenos…",
-      "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268589_Vitual_staging_AParkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-22T20:00:00+00:00"
     },
     {
       "id": "87c282464d6eaf83",
@@ -564,21 +531,10 @@
       "published_at": "2026-06-22T13:18:56+00:00"
     },
     {
-      "id": "c47909c526bb4772",
-      "title": "Leia isto antes de codificar outro aplicativo",
-      "summary": "Bob Starr ficou encantado com seu site codificado por vibração. \"Boomberg\" mostrou quanto dinheiro dos impostos dos EUA está indo para empresas de tecnologia, e Starr o lançou online imediatamente após fazê-lo...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268570_vibe_coding_security_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-22T11:00:00+00:00"
-    },
-    {
-      "id": "b63e5cb33bb0ec81",
-      "title": "Daybreak: Ferramentas para proteger todas as organizações do mundo",
-      "summary": "OpenAI apresenta novas ferramentas Daybreak, incluindo Codex Security e GPT-5.5-Cyber, para ajudar as organizações a encontrar, validar e corrigir vulnerabilidades em escala.",
-      "link": "https://openai.com/index/daybreak-securing-the-world",
+      "id": "3696e67c2c9e8aaa",
+      "title": "Patch the Planet: uma iniciativa Daybreak para apoiar mantenedores de código aberto",
+      "summary": "OpenAI apresenta Patch the Planet, uma iniciativa Daybreak que ajuda mantenedores de código aberto a encontrar, validar e corrigir vulnerabilidades com IA e revisão especializada.",
+      "link": "https://openai.com/index/patch-the-planet",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -586,10 +542,10 @@
       "published_at": "2026-06-22T10:00:00+00:00"
     },
     {
-      "id": "3696e67c2c9e8aaa",
-      "title": "Patch the Planet: uma iniciativa Daybreak para apoiar mantenedores de código aberto",
-      "summary": "OpenAI apresenta Patch the Planet, uma iniciativa Daybreak que ajuda mantenedores de código aberto a encontrar, validar e corrigir vulnerabilidades com IA e revisão especializada.",
-      "link": "https://openai.com/index/patch-the-planet",
+      "id": "b63e5cb33bb0ec81",
+      "title": "Daybreak: Ferramentas para proteger todas as organizações do mundo",
+      "summary": "OpenAI apresenta novas ferramentas Daybreak, incluindo Codex Security e GPT-5.5-Cyber, para ajudar as organizações a encontrar, validar e corrigir vulnerabilidades em escala.",
+      "link": "https://openai.com/index/daybreak-securing-the-world",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -672,17 +628,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-18T17:02:49+00:00"
-    },
-    {
-      "id": "450d5ccfb1602dc2",
-      "title": "Novas análises de uso e controles de gastos atualizados para empresas",
-      "summary": "OpenAI apresenta novos controles de gastos e análises de uso para ChatGPT Enterprise, ajudando as organizações a gerenciar custos e dimensionar a IA com confiança.",
-      "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-18T17:00:00+00:00"
     },
     {
       "id": "26cac67090219df5",
@@ -804,17 +749,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-09T10:20:06+00:00"
-    },
-    {
-      "id": "7397efee0e46f68a",
-      "title": "Cinco coisas que você precisa saber sobre IA",
-      "summary": "No SXSW Londres, na semana passada, dei uma palestra chamada “Cinco coisas que você precisa saber sobre IA”, na qual compartilhei o que considero serem os maiores temas da IA ​​no momento. tirei algumas coisas...",
-      "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-09T09:16:45+00:00"
     },
     {
       "id": "d8951679a130c7d5",
