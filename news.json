@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-06-25T03:26:57.784872+00:00",
+  "generated_at": "2026-06-25T09:19:39.946316+00:00",
   "total": 80,
   "items": [
+    {
+      "id": "e48898beb36798db",
+      "title": "O Creator Studio do Facebook foi revivido como um aplicativo complementar de IA",
+      "summary": "Meta está trazendo de volta o gerenciador de páginas do Facebook Creator Studio, agora “reimaginado” como um aplicativo complementar de IA independente. O novo aplicativo tem como objetivo tornar mais fácil para os criadores se conectarem com…",
+      "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Facebook-Creator-Studio-relaunch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-25T09:06:19+00:00"
+    },
+    {
+      "id": "6765e5e15c65d4fc",
+      "title": "Baidu lança OCR ilimitado, um modelo 3B que mantém o cache KV plano para análise de documentos longos",
+      "summary": "OCR ilimitado de código aberto do Baidu, um modelo MoE de parâmetro 3B que analisa dezenas de páginas de documentos em uma única passagem de avanço. Sua atenção de janela deslizante de referência (R-SWA) mantém o…",
+      "link": "https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-10.39.15-PM-1-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-25T05:39:53+00:00"
+    },
+    {
+      "id": "3d99cf87d464b7af",
+      "title": "Como os agentes estão transformando o trabalho",
+      "summary": "Um novo artigo de pesquisa da OpenAI mostra como os agentes de IA estão transformando o trabalho, permitindo tarefas mais longas e complexas e expandindo a produtividade entre funções.",
+      "link": "https://openai.com/index/how-agents-are-transforming-work",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-25T02:00:00+00:00"
+    },
     {
       "id": "73060177ad2de21e",
       "title": "IA confirma teoria de 30 anos: a água pode ser dois líquidos diferentes",
@@ -410,28 +443,6 @@
       "published_at": "2026-06-23T20:17:38+00:00"
     },
     {
-      "id": "fe174e095c48939f",
-      "title": "Datalab lança aumento: um modelo de visão de pesos abertos 9B que extrai JSON estruturado de PDFs usando esquemas",
-      "summary": "A Datalab lançou o lift, um modelo de visão de peso aberto 9B que transforma PDFs e imagens em JSON de correspondência de esquema. Ele usa decodificação restrita por esquema para estrutura válida e treinada…",
-      "link": "https://www.marktechpost.com/2026/06/23/datalab-releases-lift-a-9b-open-weights-vision-model-that-extracts-structured-json-from-pdfs-using-schemas/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-23T19:35:33+00:00"
-    },
-    {
-      "id": "bf129b615f4b182f",
-      "title": "Por que os super PACs corporativos de IA gastaram US$ 27 milhões em eleições locais",
-      "summary": "Olá e bem-vindo ao Regulador, o boletim informativo para Beira assinantes narrando as desventuras de seus senhores da tecnologia favoritos e criaturas do pântano de Washington. (\"Favorito\" é…",
-      "link": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2280753489.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-23T17:00:00+00:00"
-    },
-    {
       "id": "072c0c3973379946",
       "title": "Como o GPT-5 ajudou a imunologista Derya Unutmaz a resolver um mistério de 3 anos",
       "summary": "O GPT-5 Pro ajudou a resolver um mistério imunológico de 3 anos, oferecendo insights sobre o comportamento das células T. A descoberta poderia apoiar pesquisas sobre câncer e doenças autoimunes.",
@@ -564,10 +575,10 @@
       "published_at": "2026-06-22T13:18:56+00:00"
     },
     {
-      "id": "b63e5cb33bb0ec81",
-      "title": "Daybreak: Ferramentas para proteger todas as organizações do mundo",
-      "summary": "OpenAI apresenta novas ferramentas Daybreak, incluindo Codex Security e GPT-5.5-Cyber, para ajudar as organizações a encontrar, validar e corrigir vulnerabilidades em escala.",
-      "link": "https://openai.com/index/daybreak-securing-the-world",
+      "id": "3696e67c2c9e8aaa",
+      "title": "Patch the Planet: uma iniciativa Daybreak para apoiar mantenedores de código aberto",
+      "summary": "OpenAI apresenta Patch the Planet, uma iniciativa Daybreak que ajuda mantenedores de código aberto a encontrar, validar e corrigir vulnerabilidades com IA e revisão especializada.",
+      "link": "https://openai.com/index/patch-the-planet",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -575,10 +586,10 @@
       "published_at": "2026-06-22T10:00:00+00:00"
     },
     {
-      "id": "3696e67c2c9e8aaa",
-      "title": "Patch the Planet: uma iniciativa Daybreak para apoiar mantenedores de código aberto",
-      "summary": "OpenAI apresenta Patch the Planet, uma iniciativa Daybreak que ajuda mantenedores de código aberto a encontrar, validar e corrigir vulnerabilidades com IA e revisão especializada.",
-      "link": "https://openai.com/index/patch-the-planet",
+      "id": "b63e5cb33bb0ec81",
+      "title": "Daybreak: Ferramentas para proteger todas as organizações do mundo",
+      "summary": "OpenAI apresenta novas ferramentas Daybreak, incluindo Codex Security e GPT-5.5-Cyber, para ajudar as organizações a encontrar, validar e corrigir vulnerabilidades em escala.",
+      "link": "https://openai.com/index/daybreak-securing-the-world",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -606,17 +617,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-06-22T00:00:00+00:00"
-    },
-    {
-      "id": "4a975b89e4a0f0fb",
-      "title": "Samsung Electronics traz ChatGPT e Codex para funcionários",
-      "summary": "A Samsung Electronics implanta ChatGPT Enterprise e Codex para funcionários em todo o mundo, marcando um dos maiores lançamentos de IA empresarial da OpenAI.",
-      "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-21T23:00:00+00:00"
     },
     {
       "id": "bd056869a29bf635",
