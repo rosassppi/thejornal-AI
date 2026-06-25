@@ -1,39 +1,248 @@
 {
-  "generated_at": "2026-06-25T14:30:30.244863+00:00",
-  "total": 82,
+  "generated_at": "2026-06-25T19:59:22.078995+00:00",
+  "total": 73,
   "items": [
     {
-      "id": "1ed747eed9a90177",
-      "title": "Meta ressuscita app que vai usar IA para responder comentários por você",
-      "summary": "A Meta anunciou o relançamento do Creator Studio em uma versão reformulada e focada em inteligência artificial, voltada para ajudar criadores de conteúdo a gerenciar páginas…",
-      "link": "https://canaltech.com.br/apps/meta-ressuscita-app-que-vai-usar-ia-para-responder-comentarios-por-voce/",
-      "image": "https://t.ctcdn.com.br/adL_aDIpGckjjbWfLLoYh-kl-rI=/700x394/smart/i1064605.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-25T14:05:00+00:00"
+      "id": "5fa761beca9ae2d5",
+      "title": "O Notion Mail é encerrado em meio à aquisição do agente",
+      "summary": "A empresa disse que está descontinuando sua caixa de entrada de e-mail em favor de sua oferta de agente de IA, à medida que os usuários estão cada vez mais entregando as rédeas de seus e-mails aos agentes.",
+      "link": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-25T19:14:46+00:00"
     },
     {
-      "id": "72732c9ca8c0d473",
-      "title": "Bicicleta elétrica usa sol e IA, mas será que ela é eficiente?",
-      "summary": "Bicicleta elétrica solar com IA promete autonomia ampliada, mas especialistas apontam dúvidas sobre eficiência e uso real no dia a dia O post Bicicleta elétrica usa sol e IA, mas…",
-      "link": "https://olhardigital.com.br/2026/06/25/reviews/bicicleta-eletrica-usa-sol-e-ia-mas-sera-que-ela-e-eficiente/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/Phosgo-go5.webp",
+      "id": "77d430b3406748cc",
+      "title": "Nubank não vai parar de contratar pessoas por causa da IA, diz diretora",
+      "summary": "Banco passou a procurar novo perfil. Declaração foi dada por Ellen Kiss durante Config, conferência do Figma que reúne cases de clientes. Nubank não vai parar de contratar pessoas…",
+      "link": "https://tecnoblog.net/noticias/nubank-nao-vai-parar-de-contratar-pessoas-por-causa-da-ia-diz-diretora/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/04/nubank_capa-5_tb-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-25T19:08:16+00:00"
+    },
+    {
+      "id": "2dc4a2dae635b397",
+      "title": "Noção de matar o aplicativo de e-mail influenciado pelo Skiff, já que a maioria dos usuários usa agentes de IA",
+      "summary": "A noção é “apostar tudo no uso de agentes para administrar sua caixa de entrada”.",
+      "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2230437159-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-25T19:04:57+00:00"
+    },
+    {
+      "id": "add4e8d92da684b9",
+      "title": "Anthropic acusa Alibaba de roubar dados do Claude",
+      "summary": "Em carta enviada ao Congresso dos EUA, empresa afirma que gigante chinesa usou 25 mil contas falsas para extrair dados da IA. Anthropic acusa Alibaba de roubar dados do Claude",
+      "link": "https://tecnoblog.net/noticias/anthropic-acusa-alibaba-de-roubar-dados-do-claude/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/08/marca-claude-edited-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-25T18:58:22+00:00"
+    },
+    {
+      "id": "483f2dbca7cdce8b",
+      "title": "O Google finalmente lança um aplicativo financeiro para Android, promete versão iOS ainda em 2026",
+      "summary": "Demorou 20 anos, mas o aplicativo Finance chega bem a tempo de estar repleto de IA.",
+      "link": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Google_Finance-500x500.png",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-25T18:38:51+00:00"
+    },
+    {
+      "id": "af7de6657c361cfd",
+      "title": "Google Finance agora tem aplicativo e recursos impressionam",
+      "summary": "Google lança app do Finance para Android com IA que explica o mercado e reúne cotações, notícias e portfólios em tempo real O post Google Finance agora tem aplicativo e recursos…",
+      "link": "https://olhardigital.com.br/2026/06/25/pro/google-finance-agora-tem-aplicativo-e-recursos-impressionam/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/cotacao-google-finance.png",
       "source": "Olhar Digital",
       "region": "brasil",
       "category": "Brasil",
-      "published_at": "2026-06-25T14:00:12+00:00"
+      "published_at": "2026-06-25T18:32:16+00:00"
     },
     {
-      "id": "ecda3e8957b31667",
-      "title": "ChatGPT muda de personalidade para ficar mais natural e divertido; veja detalhes",
-      "summary": "A OpenAI começou a liberar uma atualização do GPT-5.5 Instant, modelo que serve de base para boa parte das conversas no ChatGPT. A novidade promete tornar as respostas mais…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-muda-de-personalidade-para-ficar-mais-natural-e-divertido-veja-detalhes/",
-      "image": "https://t.ctcdn.com.br/eFsqw8IK-RmTRhZ7JYM_N-mqTj8=/700x394/smart/i1137009.png",
+      "id": "69350af0804efa09",
+      "title": "IA Claude avança entre consumidores pagantes e pressiona liderança do ChatGPT, aponta análise de mercado",
+      "summary": "Dados de transações e interesse educacional mostram expansão do Claude, mas ChatGPT ainda mantém ampla liderança global em IA O post IA Claude avança entre consumidores pagantes e…",
+      "link": "https://olhardigital.com.br/2026/06/25/inteligencia-artificial/ia-claude-avanca-entre-consumidores-pagantes-e-pressiona-lideranca-do-chatgpt-aponta-analise-de-mercado/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/anthropic-2-1024x681.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-25T18:04:38+00:00"
+    },
+    {
+      "id": "0908748b13738d4b",
+      "title": "Notion vai fechar seu app de e-mail para focar em agentes de IA",
+      "summary": "O Notion Mail, app de e-mail da plataforma de produtividade, será encerrado nos próximos meses . O anúncio foi divulgado no X e LinkedIn em perfis oficiais da companhia na tarde…",
+      "link": "https://canaltech.com.br/software/notion-vai-fechar-seu-app-de-e-mail-para-focar-em-agentes-de-ia/",
+      "image": "https://t.ctcdn.com.br/ZFJ5eLzk-TUB2_Ff98v0hTAKAX0=/700x394/smart/i1058015.jpeg",
       "source": "Canaltech",
       "region": "brasil",
       "category": "Brasil",
-      "published_at": "2026-06-25T13:10:00+00:00"
+      "published_at": "2026-06-25T18:03:18+00:00"
+    },
+    {
+      "id": "aee534a5f26da6b8",
+      "title": "Anthropic diz que Alibaba deve ser punido pelo maior ataque de clonagem de Claude",
+      "summary": "O Alibaba supostamente usou 25.000 contas para explorar Claude em mais de 28,8 milhões de exchanges.",
+      "link": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2271847932-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-25T18:01:48+00:00"
+    },
+    {
+      "id": "31cae151607b6a8b",
+      "title": "Demanda por memória faz Micron superar Tesla e Meta em valor de mercado",
+      "summary": "Micron atingiu US$ 1,398 trilhão de valor de mercado, superando Tesla e Meta por um breve momento. Boa fase é impulsionada pela demanda por chips para IA. Demanda por memória faz…",
+      "link": "https://tecnoblog.net/noticias/demanda-por-memoria-faz-micron-superar-tesla-e-meta-em-valor-de-mercado/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/micron-estande-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-25T18:00:14+00:00"
+    },
+    {
+      "id": "e24e12ef9468cee2",
+      "title": "Claude da Anthropic está conquistando consumidores pagos, mercado de propriedade do ChatGPT",
+      "summary": "Apesar da liderança de mercado do ChatGPT, os consumidores que pagam pela IA têm escolhido cada vez mais Claude da Anthropic, mostram os dados.",
+      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-25T17:38:27+00:00"
+    },
+    {
+      "id": "251f408fe48d0b2f",
+      "title": "Guerra à pirataria: Japão quer usar IA para acelerar traduções de animes e mangá",
+      "summary": "O governo japonês iniciou uma mobilização para combater a pirataria de animes e mangás produzidos no país e evitar perdas monetárias durante a distribuição. 10 animes na…",
+      "link": "https://canaltech.com.br/entretenimento/guerra-a-pirataria-japao-quer-usar-ia-para-acelerar-traducoes-de-animes-e-manga/",
+      "image": "https://t.ctcdn.com.br/mG8pgWQe3FD9iFcKuHSN8oyiang=/700x394/smart/i1137765.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-25T17:05:00+00:00"
+    },
+    {
+      "id": "edf1878d4007e24e",
+      "title": "IA brasileira lança modelo poderoso para bater de frente com ChatGPT e Gemini",
+      "summary": "A Maritaca AI anunciou o lançamento do Sabiá 4 Thinking , um novo modelo de linguagem focado em raciocínio avançado e otimizado para o português brasileiro. A novidade já está…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/ia-brasileira-lanca-modelo-poderoso-para-bater-de-frente-com-chatgpt-e-gemini/",
+      "image": "https://t.ctcdn.com.br/9RtrmnDASrtehPx68aCA60gMr5A=/700x394/smart/i1137809.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-25T17:00:00+00:00"
+    },
+    {
+      "id": "d8d06740c33ad511",
+      "title": "Aposta de US$ 2,3 bilhões da General Intuition de que os videogames podem treinar agentes de IA para o mundo real",
+      "summary": "A General Intuition arrecadou US$ 320 milhões para dimensionar a IA treinada em milhões de horas de jogo. Os dados de ação de apostas podem ajudar a IA a desenvolver algo mais próximo da intuição humana.",
+      "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-25T16:55:00+00:00"
+    },
+    {
+      "id": "79e477154ce1d5b2",
+      "title": "O ex-chefe de IA da Databricks acha que pode reduzir a conta de energia da IA ​​em 1.000 vezes",
+      "summary": "Un-0 é uma ferramenta de sistema de geração de imagens que mostra pela primeira vez como a tecnologia da empresa pode replicar sistemas convencionais de IA.",
+      "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-25T16:48:11+00:00"
+    },
+    {
+      "id": "6a95b493803eeb37",
+      "title": "Quais tokens um modelo híbrido prevê melhor?",
+      "summary": "",
+      "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-25T16:11:42+00:00"
+    },
+    {
+      "id": "a38a0f79d8243c02",
+      "title": "Rippling agora quer ser toda a sua pilha de dados",
+      "summary": "\"Havia funcionários fazendo coisas como: 'Claude é muito útil para mim - ele analisa minha agenda e meu e-mail e monta um plano para mim'\", diz ele. \"Essa pessoa estava gastando...",
+      "link": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-25T16:00:00+00:00"
+    },
+    {
+      "id": "b2d68dc4771f270c",
+      "title": "Google Finance ganha aplicativo dedicado para Android",
+      "summary": "Os usuários poderão acessar suas listas de observação, dados de mercado em tempo real, notícias financeiras ao vivo e o recurso \"Momentos-chave\" alimentado por IA do Google, que explica por que as ações mudaram.",
+      "link": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-25T16:00:00+00:00"
+    },
+    {
+      "id": "14531ebca9f85c08",
+      "title": "Nossas atualizações mais recentes do Google Finance, incluindo um novo aplicativo",
+      "summary": "O logotipo do Google Finance, cercado por elementos da interface do usuário",
+      "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-25T16:00:00+00:00"
+    },
+    {
+      "id": "ee25c9bee5580128",
+      "title": "Gemini no Mac vai ganhar recurso importante da versão para celulares",
+      "summary": "O Gemini para macOS está prestes a receber três recursos que, até agora, existiam apenas na versão para celular: o Gemini Live, o ditado por voz em todo o sistema e o Magic…",
+      "link": "https://canaltech.com.br/apps/gemini-no-mac-vai-ganhar-recurso-importante-da-versao-para-celulares/",
+      "image": "https://t.ctcdn.com.br/xJsYmUSfVb47gNGY9_wAC1H0BII=/700x394/smart/i1135135.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-25T16:00:00+00:00"
+    },
+    {
+      "id": "edf2a473ca48646a",
+      "title": "Netris levanta US$ 15 milhões da Série A da a16z para ajudar as neonuvens de IA a entrarem em operação mais rapidamente",
+      "summary": "A Netris fornece software que roda em switches de rede e oferece uma plataforma que ajuda as operadoras de neocloud a reduzir o tempo necessário para entrar em operação.",
+      "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-25T14:55:38+00:00"
+    },
+    {
+      "id": "1ebb304792c71c74",
+      "title": "Reposicionando o varejo para a era da IA",
+      "summary": "A inteligência artificial está a remodelar rapidamente o retalho, mas não da forma como os consumidores poderão notar imediatamente. A maior transformação pode não ser testes virtuais chamativos ou…",
+      "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-25T14:22:59+00:00"
     },
     {
       "id": "d0592133264d7c84",
@@ -69,28 +278,6 @@
       "published_at": "2026-06-25T12:00:00+00:00"
     },
     {
-      "id": "1816347a5e1082ef",
-      "title": "Alibaba é acusado de tentar “copiar” IA da Anthropic",
-      "summary": "Anthropic acusa Alibaba de tentativa de extração de IA Claude em suposto ataque com milhões de interações e contas falsas O post Alibaba é acusado de tentar “copiar” IA da…",
-      "link": "https://olhardigital.com.br/2026/06/25/pro/alibaba-e-acusado-de-tentar-copiar-ia-da-anthropic/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/anthropic-2-1024x681.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-25T11:17:09+00:00"
-    },
-    {
-      "id": "a7b6e7daa83bff36",
-      "title": "OpenAI declara guerra à NVIDIA: saiba tudo sobre o novo chip de IA Jalapeño",
-      "summary": "A OpenAI deu o passo mais ousado de sua história em direção à independência de hardware. Em parceria com a Broadcom , a criadora do ChatGPT revelou o Jalapeño, seu primeiro chip…",
-      "link": "https://canaltech.com.br/hardware/openai-declara-guerra-a-nvidia-saiba-tudo-sobre-o-novo-chip-de-ia-jalapeno/",
-      "image": "https://t.ctcdn.com.br/kI0ZZi3kGUHU7zzwQfUpm6nEAi4=/700x394/smart/i1070273.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-25T10:40:00+00:00"
-    },
-    {
       "id": "922d781bb9442b12",
       "title": "IBM reivindica a primeira tecnologia de chip sub-1 nanômetro do mundo",
       "summary": "Os transistores nanostack da IBM podem aumentar o desempenho do chip ou a eficiência energética.",
@@ -100,17 +287,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-25T10:00:55+00:00"
-    },
-    {
-      "id": "4bc4527fa709a8a1",
-      "title": "IBM quer turbinar IA e nuvem com nova geração de chips 3D",
-      "summary": "A IBM apresentou, nesta quinta-feira (25), uma nova tecnologia de chip sub-1 nanômetro (nm) baseada na arquitetura tridimensional Nanostack . O avanço marca uma nova etapa para a…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ibm-quer-turbinar-ia-e-nuvem-com-nova-geracao-de-chips-3d/",
-      "image": "https://t.ctcdn.com.br/iwd8wrdTwVCNuAywBVZ_DDj5vyY=/700x394/smart/i1104447.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-25T10:00:00+00:00"
     },
     {
       "id": "e48898beb36798db",
@@ -124,17 +300,6 @@
       "published_at": "2026-06-25T09:06:19+00:00"
     },
     {
-      "id": "6765e5e15c65d4fc",
-      "title": "Baidu lança OCR ilimitado, um modelo 3B que mantém o cache KV plano para análise de documentos longos",
-      "summary": "OCR ilimitado de código aberto do Baidu, um modelo MoE de parâmetro 3B que analisa dezenas de páginas de documentos em uma única passagem de avanço. Sua atenção de janela deslizante de referência (R-SWA) mantém o…",
-      "link": "https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-10.39.15-PM-1-150x150.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-25T05:39:53+00:00"
-    },
-    {
       "id": "3d99cf87d464b7af",
       "title": "Como os agentes estão transformando o trabalho",
       "summary": "Um novo artigo de pesquisa da OpenAI mostra como os agentes de IA estão transformando o trabalho, permitindo tarefas mais longas e complexas e expandindo a produtividade entre funções.",
@@ -144,17 +309,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-06-25T02:00:00+00:00"
-    },
-    {
-      "id": "935096bdef6eacfd",
-      "title": "As ações da Cerebras despencam após os lucros, já que o CEO diz que a perspectiva de margem foi mal interpretada",
-      "summary": "Em seu primeiro relatório de lucros desde que abriu o capital, a fabricante de chips de IA previu uma margem bruta mais estreita em seu negócio principal, assustando os investidores.",
-      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-24T22:41:41+00:00"
     },
     {
       "id": "3481c120960d82e1",
@@ -168,61 +322,6 @@
       "published_at": "2026-06-24T22:28:18+00:00"
     },
     {
-      "id": "c955e39d506dcc19",
-      "title": "A IA deveria acabar com os empregos de engenharia, mas novos dados sugerem que eles são os mais resilientes",
-      "summary": "Embora a IA domine a narrativa das demissões, os engenheiros estão, na verdade, representando uma parcela maior das novas contratações, de acordo com dados da SignalFire.",
-      "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-24T21:56:41+00:00"
-    },
-    {
-      "id": "a536d55463d36147",
-      "title": "Pesquisadores de IA continuam trocando o Google por seus rivais",
-      "summary": "Os principais pesquisadores de IA Jonas Adler e Alexander Pritzel estão trocando o Google pela Anthropic, após a saída dos principais cientistas Noam Shazeer e John Jumper.",
-      "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-24T21:42:07+00:00"
-    },
-    {
-      "id": "2476e53a8912360d",
-      "title": "As empresas estão lutando para impedir que os funcionários estourem os orçamentos de IA com pequenas tarefas",
-      "summary": "A era do tokenmaxxing foi breve. Parece que agora estamos entrando na era do racionamento de tokens.",
-      "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-24T20:09:45+00:00"
-    },
-    {
-      "id": "85dd8b8908c3ac35",
-      "title": "Gradium lança modelos de tradução de fala em tempo real, stt-translate e s2s-translate, superando gpt-realtime-translate em precisão e latência",
-      "summary": "A Gradium lançou dois modelos de tradução de fala em tempo real, stt-translate e s2s-translate, abrangendo inglês, francês, alemão, espanhol e português em 20 pares de idiomas. O…",
-      "link": "https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-24T20:00:21+00:00"
-    },
-    {
-      "id": "ef1e71f8343341fa",
-      "title": "Valve diz que mercado de memória RAM ficou hostil para fabricantes de PCs",
-      "summary": "Empresa afirma que fabricantes de memória priorizam clientes de IA e não fazem mais contratos de longo prazo. Steam Machine chegará com apenas um módulo de 16 GB. Valve diz que…",
-      "link": "https://tecnoblog.net/noticias/valve-diz-que-mercado-de-memoria-ram-ficou-hostil-para-fabricantes-de-pcs/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/steam-machine-340x191.webp",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-24T19:59:31+00:00"
-    },
-    {
       "id": "1c43f0ae6760cc61",
       "title": "Congressista nega que a equipe tenha usado IA para redigir emenda ao financiamento da defesa",
       "summary": "A deputada Anna Paulina Luna (R-FL) diz que sua equipe usou IA para \"verificação ortográfica\" em um resumo de emenda para um importante projeto de defesa, mas nega que tenha sido usado no próprio texto do projeto e diz…",
@@ -232,17 +331,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-24T19:36:46+00:00"
-    },
-    {
-      "id": "9458127bfdbb1f18",
-      "title": "Como projetar um tempo de execução de agente no estilo OpenHarness com ferramentas, memória, permissões, habilidades e coordenação multiagente",
-      "summary": "Neste tutorial, construímos um equipamento de agente no estilo OpenHarness do zero para ver como funciona um sistema de agente prático. Recriamos os principais blocos de construção: uso de ferramentas, ferramenta digitada…",
-      "link": "https://www.marktechpost.com/2026/06/24/how-to-design-an-openharness-style-agent-runtime-with-tools-memory-permissions-skills-and-multi-agent-coordination/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f510.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-24T19:08:36+00:00"
     },
     {
       "id": "5d1ac36024a1c4cf",
@@ -256,39 +344,6 @@
       "published_at": "2026-06-24T17:25:00+00:00"
     },
     {
-      "id": "4a09296732a3c69c",
-      "title": "Facebook lança um aplicativo complementar de IA para criadores",
-      "summary": "O novo aplicativo, que está atualmente sendo testado com criadores selecionados, terá o recém-lançado assistente de criação de IA do Facebook integrado.",
-      "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-24T17:16:24+00:00"
-    },
-    {
-      "id": "3d6d1a7b7d8fccd9",
-      "title": "Deezer diz que seu novo recurso permite que os fãs remixem músicas com o consentimento do artista",
-      "summary": "O serviço global de streaming de música Deezer está adotando uma abordagem contrária à IA, ao mesmo tempo em que adiciona um recurso que permite aos fãs remixar músicas.",
-      "link": "https://techcrunch.com/2026/06/24/deezer-says-its-new-feature-lets-fans-remix-songs-with-artist-consent/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-24T17:14:33+00:00"
-    },
-    {
-      "id": "b6a13b5e4f48193a",
-      "title": "Figma adiciona camadas de código, suporte para animações e mais recursos de IA em nova atualização",
-      "summary": "A atualização do Figma adiciona uma nova camada de código, suporte para movimento e shaders e a capacidade de criar plug-ins personalizados para várias tarefas usando IA.",
-      "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-24T16:15:00+00:00"
-    },
-    {
       "id": "a4a7a34251b04000",
       "title": "Figma agora tem gráficos em movimento de IA e ferramentas de shader",
       "summary": "Figma revelou algumas novas atualizações de produtos de design e codificação em sua conferência anual Config que visam ajudar os criativos a \"levar suas ideias adiante\" e automatizar tarefas tediosas com…",
@@ -297,17 +352,6 @@
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
-      "published_at": "2026-06-24T16:15:00+00:00"
-    },
-    {
-      "id": "6d4135a4940555c4",
-      "title": "Figma quer peitar After Effects com motion gerado por IA",
-      "summary": "Recurso chamado Motion estreia no canvas do Figma. Anúncio ocorre durante o Config, nos EUA. Figma quer peitar After Effects com motion gerado por IA",
-      "link": "https://tecnoblog.net/noticias/figma-quer-peitar-after-effects-com-motion-gerado-por-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/2zcc4k_iv5w.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
       "published_at": "2026-06-24T16:15:00+00:00"
     },
     {
@@ -320,28 +364,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-06-24T16:00:13+00:00"
-    },
-    {
-      "id": "8da24edac539003b",
-      "title": "OpenAI revela seu primeiro chip de IA: o Jalapeño",
-      "summary": "Desenvolvido em parceria com a Broadcom, chip foca no processo de inferência de IA para aumentar velocidade de resposta dos modelos. OpenAI revela seu primeiro chip de IA: o…",
-      "link": "https://tecnoblog.net/noticias/openai-revela-seu-primeiro-chip-de-ia-o-jalapeno/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/openai-broadcom-chip-340x191.webp",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-24T15:49:38+00:00"
-    },
-    {
-      "id": "350d49b0ef03bc90",
-      "title": "Galaxy A36 (256 GB) tem promoção com grande queda de preço no Mercado Livre",
-      "summary": "Galaxy A36 com tela AMOLED, câmera de 50 MP e Galaxy AI sai por menos da metade do preço ao combinar cupom e pagamento via Pix no Meli Galaxy A36 (256 GB) tem promoção com grande…",
-      "link": "https://tecnoblog.net/achados/galaxy-a36-256-gb-tem-promocao-com-grande-queda-de-preco-no-mercado-livre/",
-      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2025/08/galaxy-a36-achados-1060x596.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-24T15:12:08+00:00"
     },
     {
       "id": "196ffbbed28e088e",
@@ -377,50 +399,6 @@
       "published_at": "2026-06-24T11:59:54+00:00"
     },
     {
-      "id": "fd9b370a9388da4c",
-      "title": "Usando Graphify e NetworkX para mapear a estrutura da base de código Python com nós de Deus, comunidades e visualizações de arquitetura",
-      "summary": "Neste tutorial, construímos um pipeline Graphify totalmente offline que transforma um aplicativo Python multimódulo em um gráfico de conhecimento. Instalamos o Graphify, geramos uma amostra conectada…",
-      "link": "https://www.marktechpost.com/2026/06/24/using-graphify-and-networkx-to-map-python-codebase-structure-with-god-nodes-communities-and-architecture-visualizations/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-24T09:36:59+00:00"
-    },
-    {
-      "id": "258ae533abaffccb",
-      "title": "Nous Research adiciona /learn ao sistema de habilidades do agente Hermes, capturando fluxos de trabalho como comandos de barra sem escrever à mão SKILL.md",
-      "summary": "A Nous Research adicionou /learn ao Sistema de Habilidades do Agente Hermes. O comando cria um SKILL.md compatível com os padrões a partir de um diretório local, uma URL de documento, uma conversa anterior ou…",
-      "link": "https://www.marktechpost.com/2026/06/24/nous-research-adds-learn-to-hermes-agents-skills-system-capturing-workflows-as-slash-commands-without-hand-writing-skill-md/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4c1.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-24T09:21:49+00:00"
-    },
-    {
-      "id": "303dc601af3e375b",
-      "title": "16 melhores ferramentas de codificação de IA generativa em 2026 comparadas: recursos e melhor ajuste",
-      "summary": "A IA generativa remodelou a forma como o software é construído. O que começou como preenchimento automático linha por linha agora abrange geração completa de aplicativos, pipelines de construção multiagentes e…",
-      "link": "https://www.marktechpost.com/2026/06/24/top-generative-ai-coding-tools-of-2026/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-24T08:12:27+00:00"
-    },
-    {
-      "id": "8d782c5ef21f2d1f",
-      "title": "A decodificação especulativa DFlash rascunha blocos inteiros de token em paralelo para uma taxa de transferência até 15x maior no NVIDIA Blackwell",
-      "summary": "O DFlash da UC San Diego substitui o desenho autoregressivo por um modelo leve de difusão em bloco para decodificação especulativa. Ele desenha blocos inteiros de tokens em uma única passagem para frente e…",
-      "link": "https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-12.00.06-AM-1-150x150.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-24T07:21:10+00:00"
-    },
-    {
       "id": "855db08b75f6ecde",
       "title": "OpenAI e Broadcom revelam chip de inferência otimizado para LLM",
       "summary": "OpenAI e Broadcom apresentam Jalapeño, um chip de IA personalizado desenvolvido para inferência LLM para melhorar o desempenho, a eficiência e a escala em sistemas de IA.",
@@ -441,17 +419,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-06-24T00:00:00+00:00"
-    },
-    {
-      "id": "8c088fd4fc8da0d4",
-      "title": "Mistral OCR 4 traz saída estruturada pronta para citação para pipelines de pesquisa RAG, Agentic e Enterprise",
-      "summary": "Mistral AI lançou o OCR 4 em 23 de junho de 2026, passando da extração de texto limpo para a saída de documentos estruturados. Cada bloco retorna uma caixa delimitadora, uma classificação digitada e…",
-      "link": "https://www.marktechpost.com/2026/06/23/mistral-ocr-4/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-23T23:43:43+00:00"
     },
     {
       "id": "d824c317124983b4",
@@ -586,17 +553,6 @@
       "published_at": "2026-06-22T18:00:00+00:00"
     },
     {
-      "id": "b58a8aabb6223ec6",
-      "title": "Como a Anthropic pode ter se convencido a proibir a exportação de IA",
-      "summary": "A empresa alertou sobre os perigos da IA ​​avançada muito mais do que a rival OpenAI.",
-      "link": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/lock-anthropic-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-22T13:45:24+00:00"
-    },
-    {
       "id": "b497f30634e434d9",
       "title": "PP-OCRv6 no rosto que abraça: OCR de 50 idiomas de parâmetros de 1,5M a 34,5M",
       "summary": "",
@@ -608,10 +564,10 @@
       "published_at": "2026-06-22T13:18:56+00:00"
     },
     {
-      "id": "b63e5cb33bb0ec81",
-      "title": "Daybreak: Ferramentas para proteger todas as organizações do mundo",
-      "summary": "OpenAI apresenta novas ferramentas Daybreak, incluindo Codex Security e GPT-5.5-Cyber, para ajudar as organizações a encontrar, validar e corrigir vulnerabilidades em escala.",
-      "link": "https://openai.com/index/daybreak-securing-the-world",
+      "id": "3696e67c2c9e8aaa",
+      "title": "Patch the Planet: uma iniciativa Daybreak para apoiar mantenedores de código aberto",
+      "summary": "OpenAI apresenta Patch the Planet, uma iniciativa Daybreak que ajuda mantenedores de código aberto a encontrar, validar e corrigir vulnerabilidades com IA e revisão especializada.",
+      "link": "https://openai.com/index/patch-the-planet",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -619,10 +575,10 @@
       "published_at": "2026-06-22T10:00:00+00:00"
     },
     {
-      "id": "3696e67c2c9e8aaa",
-      "title": "Patch the Planet: uma iniciativa Daybreak para apoiar mantenedores de código aberto",
-      "summary": "OpenAI apresenta Patch the Planet, uma iniciativa Daybreak que ajuda mantenedores de código aberto a encontrar, validar e corrigir vulnerabilidades com IA e revisão especializada.",
-      "link": "https://openai.com/index/patch-the-planet",
+      "id": "b63e5cb33bb0ec81",
+      "title": "Daybreak: Ferramentas para proteger todas as organizações do mundo",
+      "summary": "OpenAI apresenta novas ferramentas Daybreak, incluindo Codex Security e GPT-5.5-Cyber, para ajudar as organizações a encontrar, validar e corrigir vulnerabilidades em escala.",
+      "link": "https://openai.com/index/daybreak-securing-the-world",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -661,39 +617,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-19T10:40:24+00:00"
-    },
-    {
-      "id": "cac668d0a0260f80",
-      "title": "À medida que a China se aproxima, Taiwan fabrica mais drones para defesa e para os militares dos EUA",
-      "summary": "Os planos de gastos com drones de Taiwan para a defesa também poderiam impulsionar os negócios no exterior.",
-      "link": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Taiwan-military-drones-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-18T21:21:26+00:00"
-    },
-    {
-      "id": "2eb5bcc3ad88b97e",
-      "title": "MosaicLeaks: Seu agente de pesquisa consegue manter um segredo?",
-      "summary": "",
-      "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-18T18:13:13+00:00"
-    },
-    {
-      "id": "6972f12361941b30",
-      "title": "Bernie Sanders revela plano de US$ 7 trilhões para dar aos americanos o controle da indústria de IA",
-      "summary": "As maiores empresas de IA provavelmente recuarão diante do fundo de riqueza de IA de Bernie Sanders.",
-      "link": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2230233284-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-18T17:02:49+00:00"
     },
     {
       "id": "866972b9be74b221",
@@ -762,17 +685,6 @@
       "published_at": "2026-06-11T11:00:45+00:00"
     },
     {
-      "id": "c934b2ecf9244944",
-      "title": "Aprendendo a liderar em uma empresa híbrida de IA humana",
-      "summary": "À medida que a adoção de agentes de IA deverá aumentar até 300% nos próximos dois anos, as equipas de liderança estão a considerar cuidadosamente as implicações de uma força de trabalho híbrida entre humanos e IA…",
-      "link": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MIT-Abstract-Thumbnail-3-_-V2.png",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-09T10:20:06+00:00"
-    },
-    {
       "id": "d8951679a130c7d5",
       "title": "As últimas notícias sobre IA que anunciamos em maio de 2026",
       "summary": "Pode a IA recapitular",
@@ -815,17 +727,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-05-29T19:00:00+00:00"
-    },
-    {
-      "id": "b1eb05743ee0b9ea",
-      "title": "9 demonstrações do Gemini Omni e Gemini 3.5 em ação",
-      "summary": "Herói Gêmeos Omni e Gêmeos 3.5",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-05-29T17:30:00+00:00"
     },
     {
       "id": "4b0b581f96fdff4b",
