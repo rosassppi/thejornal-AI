@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-06-24T19:44:35.495567+00:00",
+  "generated_at": "2026-06-25T03:26:57.784872+00:00",
   "total": 80,
   "items": [
+    {
+      "id": "73060177ad2de21e",
+      "title": "IA confirma teoria de 30 anos: a água pode ser dois líquidos diferentes",
+      "summary": "Pesquisadores usaram aprendizado de máquina para rastrear como moléculas de água alternam entre estruturas de alta e baixa densidade – e o resultado pode explicar décadas de…",
+      "link": "https://olhardigital.com.br/2026/06/24/ciencia-e-espaco/ia-confirma-teoria-de-30-anos-a-agua-pode-ser-dois-liquidos-diferentes/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-25T00:08:38+00:00"
+    },
+    {
+      "id": "935096bdef6eacfd",
+      "title": "As ações da Cerebras despencam após os lucros, já que o CEO diz que a perspectiva de margem foi mal interpretada",
+      "summary": "Em seu primeiro relatório de lucros desde que abriu o capital, a fabricante de chips de IA previu uma margem bruta mais estreita em seu negócio principal, assustando os investidores.",
+      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-24T22:41:41+00:00"
+    },
+    {
+      "id": "3481c120960d82e1",
+      "title": "OpenAI e Broadcom anunciam chip projetado para inferência LLM em escala",
+      "summary": "A corrida do silício está esquentando em meio à luta para acompanhar a demanda.",
+      "link": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/openai-broadcom-jalapeno-inference-chip-image-500x500.webp",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-24T22:28:18+00:00"
+    },
+    {
+      "id": "c955e39d506dcc19",
+      "title": "A IA deveria acabar com os empregos de engenharia, mas novos dados sugerem que eles são os mais resilientes",
+      "summary": "Embora a IA domine a narrativa das demissões, os engenheiros estão, na verdade, representando uma parcela maior das novas contratações, de acordo com dados da SignalFire.",
+      "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-24T21:56:41+00:00"
+    },
+    {
+      "id": "a536d55463d36147",
+      "title": "Pesquisadores de IA continuam trocando o Google por seus rivais",
+      "summary": "Os principais pesquisadores de IA Jonas Adler e Alexander Pritzel estão trocando o Google pela Anthropic, após a saída dos principais cientistas Noam Shazeer e John Jumper.",
+      "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-24T21:42:07+00:00"
+    },
+    {
+      "id": "47081ab5d24c1b6f",
+      "title": "Google libera IA que consegue mexer no computador e controlar a tela sozinha",
+      "summary": "O Google anunciou a integração da função “Computer use” ao modelo Gemini 3.5 Flash para que agentes de inteligência artificial possam visualizar a tela e executar ações em…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/google-libera-ia-que-consegue-mexer-no-computador-e-controlar-a-tela-sozinha/",
+      "image": "https://t.ctcdn.com.br/m8Wp7wCpy3oVeMy-XnoynAhVdVw=/700x394/smart/i1137617.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-24T21:10:00+00:00"
+    },
+    {
+      "id": "2e172155a048056d",
+      "title": "Chrome ganha função inspirada no 'Circule para Pesquisar' do Android",
+      "summary": "O Google adicionou ao Chrome para desktop uma nova ferramenta dentro do painel do Gemini chamada “Select from Screen” (Seleciona da tela) . O recurso permite marcar qualquer parte…",
+      "link": "https://canaltech.com.br/apps/chrome-ganha-funcao-inspirada-no-circule-para-pesquisar-do-android/",
+      "image": "https://t.ctcdn.com.br/XW24Cpo6C2vnq90z_VyCKuBJ6ys=/700x394/smart/i1086865.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-24T20:30:00+00:00"
+    },
+    {
+      "id": "2476e53a8912360d",
+      "title": "As empresas estão lutando para impedir que os funcionários estourem os orçamentos de IA com pequenas tarefas",
+      "summary": "A era do tokenmaxxing foi breve. Parece que agora estamos entrando na era do racionamento de tokens.",
+      "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-24T20:09:45+00:00"
+    },
+    {
+      "id": "85dd8b8908c3ac35",
+      "title": "Gradium lança modelos de tradução de fala em tempo real, stt-translate e s2s-translate, superando gpt-realtime-translate em precisão e latência",
+      "summary": "A Gradium lançou dois modelos de tradução de fala em tempo real, stt-translate e s2s-translate, abrangendo inglês, francês, alemão, espanhol e português em 20 pares de idiomas. O…",
+      "link": "https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-24T20:00:21+00:00"
+    },
+    {
+      "id": "ef1e71f8343341fa",
+      "title": "Valve diz que mercado de memória RAM ficou hostil para fabricantes de PCs",
+      "summary": "Empresa afirma que fabricantes de memória priorizam clientes de IA e não fazem mais contratos de longo prazo. Steam Machine chegará com apenas um módulo de 16 GB. Valve diz que…",
+      "link": "https://tecnoblog.net/noticias/valve-diz-que-mercado-de-memoria-ram-ficou-hostil-para-fabricantes-de-pcs/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/steam-machine-340x191.webp",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-24T19:59:31+00:00"
+    },
+    {
+      "id": "2c90e2cbb413b9b6",
+      "title": "IA mais usada do ChatGPT recebe melhorias; veja o que mudou",
+      "summary": "A OpenAI anunciou nesta quarta-feira (24) uma atualização para o GPT-5.5 Instant , modelo mais de IA usado do ChatGPT. A mudança promete melhorar a qualidade das conversas …",
+      "link": "https://canaltech.com.br/apps/ia-mais-usada-do-chatgpt-recebe-melhorias-veja-o-que-mudou/",
+      "image": "https://t.ctcdn.com.br/elWRGd7DozFcUzbnLeKmr45Ecyw=/700x394/smart/i1137007.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-24T19:56:05+00:00"
+    },
     {
       "id": "1c43f0ae6760cc61",
       "title": "Congressista nega que a equipe tenha usado IA para redigir emenda ao financiamento da defesa",
@@ -12,17 +133,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-24T19:36:46+00:00"
-    },
-    {
-      "id": "ab8f00d55d3dc071",
-      "title": "Meta relança Creator Studio como app com IA e abre disputa com TikTok e YouTube",
-      "summary": "Ferramenta ganha assistente inteligente, organiza rotina de criadores e aposta em recomendações automáticas para conteúdo e engajamento O post Meta relança Creator Studio como app…",
-      "link": "https://olhardigital.com.br/2026/06/24/internet-e-redes-sociais/meta-relanca-creator-studio-como-app-com-ia-e-abre-disputa-com-tiktok-e-youtube/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/facebook-muda-ferramentas-para-criadores-de-conteudo-na-plataforma-1024x577.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-24T19:18:32+00:00"
     },
     {
       "id": "9458127bfdbb1f18",
@@ -45,28 +155,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-06-24T18:50:00+00:00"
-    },
-    {
-      "id": "2dc76fa856e0138f",
-      "title": "Casa mais inteligente: Echo Dot em várias cores com Alexa+ está em oferta",
-      "summary": "Montar uma casa conectada ficou mais acessível. A Amazon colocou em promoção três versões do Echo Dot (geração mais recente) — o popular smart speaker com Alexa —, disponíveis nas…",
-      "link": "https://olhardigital.com.br/2026/06/24/reviews/casa-mais-inteligente-echo-dot-em-varias-cores-com-alexa-esta-em-oferta/",
-      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-24T18:40:00+00:00"
-    },
-    {
-      "id": "c65305a7adb8c56e",
-      "title": "China alerta para riscos da IA e cobra regras globais para regulamentação",
-      "summary": "Premiê chinês alerta para riscos da inteligência artificial sem regras, cita crise global, tensões EUA-China e incertezas econômicas mundiais O post China alerta para riscos da IA…",
-      "link": "https://olhardigital.com.br/2026/06/24/inteligencia-artificial/china-alerta-para-riscos-da-ia-e-cobra-regras-globais-para-regulamentacao/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/11/bandeira-china-shutterstock_2524333393-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-24T18:04:35+00:00"
     },
     {
       "id": "5d1ac36024a1c4cf",
@@ -100,17 +188,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-06-24T17:14:33+00:00"
-    },
-    {
-      "id": "ce87d3a501c87ded",
-      "title": "Meta \"faz a Apple\" e vende base de carregamento para óculos sem carregador",
-      "summary": "A Meta anunciou uma nova base de carregamento para seus óculos inteligentes, mas a novidade chegou acompanhada de uma decisão que já virou motivo de críticas entre consumidores. A…",
-      "link": "https://canaltech.com.br/produtos/meta-faz-a-apple-e-vende-base-de-carregamento-para-oculos-sem-carregador/",
-      "image": "https://t.ctcdn.com.br/HibROHtHysDQhPX1jMFPnnLazTs=/700x394/smart/i1137487.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-24T16:24:52+00:00"
     },
     {
       "id": "b6a13b5e4f48193a",
@@ -267,17 +344,6 @@
       "published_at": "2026-06-24T07:21:10+00:00"
     },
     {
-      "id": "2222eae583448bbf",
-      "title": "Como investir quando tudo está acontecendo muito rápido",
-      "summary": "A noite StrictlyVC do TechCrunch em Los Angeles no final da semana passada reuniu dois dos investidores mais diretos que trabalham em IA no momento. Eles eram tão divertidos quanto…",
-      "link": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-24T06:26:11+00:00"
-    },
-    {
       "id": "855db08b75f6ecde",
       "title": "OpenAI e Broadcom revelam chip de inferência otimizado para LLM",
       "summary": "OpenAI e Broadcom apresentam Jalapeño, um chip de IA personalizado desenvolvido para inferência LLM para melhorar o desempenho, a eficiência e a escala em sistemas de IA.",
@@ -287,17 +353,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-06-24T06:00:00+00:00"
-    },
-    {
-      "id": "d6ce5ce857299a69",
-      "title": "Flipkart, apoiado pelo Walmart, expande impulso de comércio rápido à medida que a Amazon cresce na Índia",
-      "summary": "Flipkart, apoiado pelo Walmart, ultrapassou 1.000 centros de microatendimento enquanto a Amazon acelera seu próprio impulso de comércio rápido na Índia.",
-      "link": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-24T00:30:00+00:00"
     },
     {
       "id": "bb6dca4045d63cf1",
@@ -322,17 +377,6 @@
       "published_at": "2026-06-23T23:43:43+00:00"
     },
     {
-      "id": "ccbe4d356160d514",
-      "title": "MoEngage da Índia aposta que o futuro do marketing passa por milhões de agentes de IA",
-      "summary": "O acordo totalmente em dinheiro dá à MoEngage acesso à tecnologia que atribui agentes de IA a clientes individuais.",
-      "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-23T23:30:00+00:00"
-    },
-    {
       "id": "d824c317124983b4",
       "title": "Em breve, o Google Home ficará melhor em reconhecer você",
       "summary": "Uma nova atualização para o Google Home pode diminuir a probabilidade de suas câmeras domésticas inteligentes confundirem você com outra pessoa, só porque você está de costas para a câmera. A partir de 23 de junho…",
@@ -355,28 +399,6 @@
       "published_at": "2026-06-23T22:03:18+00:00"
     },
     {
-      "id": "da4336b3c5803622",
-      "title": "Superhuman adquire startup de detecção de IA GPTZero",
-      "summary": "Superhuman, que também possui uma ferramenta de detecção de IA como parte do Grammarly, comprou o GPTZero.",
-      "link": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-23T21:48:23+00:00"
-    },
-    {
-      "id": "f42be3344c996b21",
-      "title": "PineVoice: alto-falante inteligente traz chip RISC-V e Home Assistant",
-      "summary": "Pine64 lançou PineVoice, alto-falante inteligente focado no Home Assistant (solução aberta). Dispositivo é equipado com chip RISC-V Bouffalo BL606P. PineVoice: alto-falante…",
-      "link": "https://tecnoblog.net/noticias/pinevoice-alto-falante-inteligente-traz-chip-risc-v-e-home-assistant/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/pinevoice-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-23T20:51:53+00:00"
-    },
-    {
       "id": "71f308253a322d41",
       "title": "As 21.000 demissões da Oracle ajudam a impulsionar seus investimentos em IA alimentados por dívidas",
       "summary": "A Oracle está gastando bilhões em infraestrutura de data center para apoiar a IA.",
@@ -397,17 +419,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-23T19:35:33+00:00"
-    },
-    {
-      "id": "685ed8be34a9d9a9",
-      "title": "Como usar NVIDIA Canary-1B-v2 para ASR, tradução e exportação automática de legendas SRT em Python",
-      "summary": "Neste tutorial, construímos um pipeline multilíngue de ASR e tradução de fala com NVIDIA Canary-1B-v2. Carregamos o modelo em um tempo de execução habilitado para GPU, preparamos o áudio em mono de 16 kHz…",
-      "link": "https://www.marktechpost.com/2026/06/23/how-to-use-nvidia-canary-1b-v2-for-asr-translation-and-automatic-srt-subtitle-export-in-python/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-23T18:31:36+00:00"
     },
     {
       "id": "bf129b615f4b182f",
@@ -553,10 +564,10 @@
       "published_at": "2026-06-22T13:18:56+00:00"
     },
     {
-      "id": "3696e67c2c9e8aaa",
-      "title": "Patch the Planet: uma iniciativa Daybreak para apoiar mantenedores de código aberto",
-      "summary": "OpenAI apresenta Patch the Planet, uma iniciativa Daybreak que ajuda mantenedores de código aberto a encontrar, validar e corrigir vulnerabilidades com IA e revisão especializada.",
-      "link": "https://openai.com/index/patch-the-planet",
+      "id": "b63e5cb33bb0ec81",
+      "title": "Daybreak: Ferramentas para proteger todas as organizações do mundo",
+      "summary": "OpenAI apresenta novas ferramentas Daybreak, incluindo Codex Security e GPT-5.5-Cyber, para ajudar as organizações a encontrar, validar e corrigir vulnerabilidades em escala.",
+      "link": "https://openai.com/index/daybreak-securing-the-world",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -564,10 +575,10 @@
       "published_at": "2026-06-22T10:00:00+00:00"
     },
     {
-      "id": "b63e5cb33bb0ec81",
-      "title": "Daybreak: Ferramentas para proteger todas as organizações do mundo",
-      "summary": "OpenAI apresenta novas ferramentas Daybreak, incluindo Codex Security e GPT-5.5-Cyber, para ajudar as organizações a encontrar, validar e corrigir vulnerabilidades em escala.",
-      "link": "https://openai.com/index/daybreak-securing-the-world",
+      "id": "3696e67c2c9e8aaa",
+      "title": "Patch the Planet: uma iniciativa Daybreak para apoiar mantenedores de código aberto",
+      "summary": "OpenAI apresenta Patch the Planet, uma iniciativa Daybreak que ajuda mantenedores de código aberto a encontrar, validar e corrigir vulnerabilidades com IA e revisão especializada.",
+      "link": "https://openai.com/index/patch-the-planet",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -661,17 +672,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-17T19:25:19+00:00"
-    },
-    {
-      "id": "8e6bb3f38fd53afd",
-      "title": "Modelos de IA “perigosos” estão chegando, não importa o que aconteça",
-      "summary": "Modelos de IA com capacidades avançadas de hacking em breve serão a norma.",
-      "link": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-17T17:50:46+00:00"
     },
     {
       "id": "866972b9be74b221",
