@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-06-25T19:59:22.078995+00:00",
-  "total": 73,
+  "generated_at": "2026-06-26T03:35:07.846799+00:00",
+  "total": 84,
   "items": [
+    {
+      "id": "a1168eaf5c71207a",
+      "title": "Seu Direito Digital: advogada de IA vence caso inédito em tribunal inglês",
+      "summary": "Como a tecnologia é usada hoje no Direito? Confira! O post Seu Direito Digital: advogada de IA vence caso inédito em tribunal inglês apareceu primeiro em Olhar Digital .",
+      "link": "https://olhardigital.com.br/2026/06/25/colunistas/seu-direito-digital-advogada-de-ia-vence-caso-inedito-em-tribunal-ingles/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T01:07:06+00:00"
+    },
+    {
+      "id": "3492e2707c505834",
+      "title": "Governo Trump trata OpenAI e Anthropic de forma diferente ao regular IA",
+      "summary": "Enquanto Anthropic recebeu ultimato para suspender modelos, OpenAI conseguiu acordo mais favorável O post Governo Trump trata OpenAI e Anthropic de forma diferente ao regular IA…",
+      "link": "https://olhardigital.com.br/2026/06/25/pro/governo-trump-trata-openai-e-anthropic-de-forma-diferente-ao-regular-ia/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T00:28:02+00:00"
+    },
+    {
+      "id": "502aad33c5ab4dfd",
+      "title": "The New York Times amplia ação judicial contra Microsoft e OpenAI por uso de conteúdo em IA",
+      "summary": "TNYT altera processo nos EUA, ajusta acusações e mantém alegação central de uso indevido de artigos no treinamento de sistemas de IA O post The New York Times amplia ação judicial…",
+      "link": "https://olhardigital.com.br/2026/06/25/inteligencia-artificial/the-new-york-times-amplia-acao-judicial-contra-microsoft-e-openai-por-uso-de-conteudo-em-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/chatgpt-1-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T00:01:10+00:00"
+    },
+    {
+      "id": "5d2de9152522b89c",
+      "title": "Execute um servidor vLLM em trabalhos HF em um comando",
+      "summary": "",
+      "link": "https://huggingface.co/blog/vllm-jobs",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-26T00:00:00+00:00"
+    },
+    {
+      "id": "3d73062a8920c1be",
+      "title": "A Casa Branca está pedindo à OpenAI que retarde o lançamento de seu novo modelo por questões de segurança",
+      "summary": "A penAI supostamente planeja compartilhar seu mais novo modelo, GPT 5.6, com um grupo seleto de parceiros, em vez de com o público em geral. A razão: a administração Trump ordenou.",
+      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-25T23:34:39+00:00"
+    },
+    {
+      "id": "a624597acf2af943",
+      "title": "OpenAI pode adiar IPO enquanto enfrenta pressão do governo dos EUA e disputa judicial com The New York Times",
+      "summary": "Discussões internas indicam possível adiamento da estreia na bolsa, enquanto empresa lida com exigências regulatórias e processos nos EUA O post OpenAI pode adiar IPO enquanto…",
+      "link": "https://olhardigital.com.br/2026/06/25/pro/openai-pode-adiar-ipo-enquanto-enfrenta-pressao-do-governo-dos-eua-e-disputa-judicial-com-the-new-york-times/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/openai_-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-25T23:34:36+00:00"
+    },
+    {
+      "id": "a9f871abc7374d61",
+      "title": "OpenAI atrasará GPT-5.6 após solicitação da administração Trump",
+      "summary": "A administração Trump, apreensiva com possíveis problemas de segurança, teria pedido à OpenAI para escalonar o lançamento de seu próximo modelo caro, o GPT-5.6. A informação…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-25T21:57:06+00:00"
+    },
+    {
+      "id": "a79f80791b147dcb",
+      "title": "iPhone 15 tem câmera ultra-angular e preço mais acessível com cupom",
+      "summary": "iPhone 15 com 48% OFF ainda acaba sendo dos melhores celulares da Apple em 2026 para quem busca preço baixo, câmeras versáteis e abre mão de IA iPhone 15 tem câmera ultra-angular…",
+      "link": "https://tecnoblog.net/achados/iphone-15-tem-camera-ultra-angular-e-preco-mais-acessivel-com-cupom/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/illhl3nwnqc-2.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-25T20:45:09+00:00"
+    },
+    {
+      "id": "9fde553deecda35f",
+      "title": "Patronus AI consegue US$ 50 milhões para construir ‘mundos digitais’ que testam agentes de IA",
+      "summary": "A startup de testes de agentes Patronus AI, fundada por ex-pesquisadores da Meta AI, está enfrentando uma demanda quase insaciável, diz seu investidor.",
+      "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-25T20:19:25+00:00"
+    },
+    {
+      "id": "758f041477a615ec",
+      "title": "Siri no iOS 27 tem truque escondido para acessar o ChatGPT",
+      "summary": "O iOS 27 incluirá um aplicativo dedicado para a Siri com interface no estilo chatbot, permitindo que os usuários alternem rapidamente para o ChatGPT . A descoberta foi divulgada…",
+      "link": "https://canaltech.com.br/apps/siri-no-ios-27-tem-truque-escondido-para-acessar-o-chatgpt/",
+      "image": "https://t.ctcdn.com.br/ipLl7EVso1N79ianCSf_wJHCRZ8=/700x394/smart/i1114391.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-25T20:00:00+00:00"
+    },
     {
       "id": "5fa761beca9ae2d5",
       "title": "O Notion Mail é encerrado em meio à aquisição do agente",
@@ -58,28 +168,6 @@
       "published_at": "2026-06-25T18:38:51+00:00"
     },
     {
-      "id": "af7de6657c361cfd",
-      "title": "Google Finance agora tem aplicativo e recursos impressionam",
-      "summary": "Google lança app do Finance para Android com IA que explica o mercado e reúne cotações, notícias e portfólios em tempo real O post Google Finance agora tem aplicativo e recursos…",
-      "link": "https://olhardigital.com.br/2026/06/25/pro/google-finance-agora-tem-aplicativo-e-recursos-impressionam/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/cotacao-google-finance.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-25T18:32:16+00:00"
-    },
-    {
-      "id": "69350af0804efa09",
-      "title": "IA Claude avança entre consumidores pagantes e pressiona liderança do ChatGPT, aponta análise de mercado",
-      "summary": "Dados de transações e interesse educacional mostram expansão do Claude, mas ChatGPT ainda mantém ampla liderança global em IA O post IA Claude avança entre consumidores pagantes e…",
-      "link": "https://olhardigital.com.br/2026/06/25/inteligencia-artificial/ia-claude-avanca-entre-consumidores-pagantes-e-pressiona-lideranca-do-chatgpt-aponta-analise-de-mercado/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/anthropic-2-1024x681.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-25T18:04:38+00:00"
-    },
-    {
       "id": "0908748b13738d4b",
       "title": "Notion vai fechar seu app de e-mail para focar em agentes de IA",
       "summary": "O Notion Mail, app de e-mail da plataforma de produtividade, será encerrado nos próximos meses . O anúncio foi divulgado no X e LinkedIn em perfis oficiais da companhia na tarde…",
@@ -122,6 +210,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-06-25T17:38:27+00:00"
+    },
+    {
+      "id": "953f6a831f2a6db5",
+      "title": "DeepReinforce lança Ornith-1.0: uma família de modelos de codificação de código aberto que aprende seus próprios andaimes RL",
+      "summary": "DeepReinforce lançou Ornith-1.0, uma família de modelos de codificação de código aberto construída em Gemma 4 e Qwen 3.5. Em vez de um arnês fixo, o modelo aprende seu próprio andaime durante…",
+      "link": "https://www.marktechpost.com/2026/06/25/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-25T17:11:37+00:00"
     },
     {
       "id": "251f408fe48d0b2f",
@@ -212,28 +311,6 @@
       "published_at": "2026-06-25T16:00:00+00:00"
     },
     {
-      "id": "ee25c9bee5580128",
-      "title": "Gemini no Mac vai ganhar recurso importante da versão para celulares",
-      "summary": "O Gemini para macOS está prestes a receber três recursos que, até agora, existiam apenas na versão para celular: o Gemini Live, o ditado por voz em todo o sistema e o Magic…",
-      "link": "https://canaltech.com.br/apps/gemini-no-mac-vai-ganhar-recurso-importante-da-versao-para-celulares/",
-      "image": "https://t.ctcdn.com.br/xJsYmUSfVb47gNGY9_wAC1H0BII=/700x394/smart/i1135135.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-25T16:00:00+00:00"
-    },
-    {
-      "id": "edf2a473ca48646a",
-      "title": "Netris levanta US$ 15 milhões da Série A da a16z para ajudar as neonuvens de IA a entrarem em operação mais rapidamente",
-      "summary": "A Netris fornece software que roda em switches de rede e oferece uma plataforma que ajuda as operadoras de neocloud a reduzir o tempo necessário para entrar em operação.",
-      "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-25T14:55:38+00:00"
-    },
-    {
       "id": "1ebb304792c71c74",
       "title": "Reposicionando o varejo para a era da IA",
       "summary": "A inteligência artificial está a remodelar rapidamente o retalho, mas não da forma como os consumidores poderão notar imediatamente. A maior transformação pode não ser testes virtuais chamativos ou…",
@@ -254,17 +331,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-06-25T12:42:03+00:00"
-    },
-    {
-      "id": "4e2ef248849aa170",
-      "title": "Amazon aumenta aposta na Índia com novos investimentos em infraestrutura de IA de US$ 13 bilhões",
-      "summary": "O mais recente investimento da Amazon na Índia ocorre num momento em que as empresas globais de tecnologia correm para expandir a infraestrutura de IA no país.",
-      "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-25T12:00:38+00:00"
     },
     {
       "id": "d2a4420febdfbc6e",
@@ -300,6 +366,17 @@
       "published_at": "2026-06-25T09:06:19+00:00"
     },
     {
+      "id": "6765e5e15c65d4fc",
+      "title": "Baidu lança OCR ilimitado, um modelo 3B que mantém o cache KV plano para análise de documentos longos",
+      "summary": "OCR ilimitado de código aberto do Baidu, um modelo MoE de parâmetro 3B que analisa dezenas de páginas de documentos em uma única passagem de avanço. Sua atenção de janela deslizante de referência (R-SWA) mantém o…",
+      "link": "https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-10.39.15-PM-1-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-25T05:39:53+00:00"
+    },
+    {
       "id": "3d99cf87d464b7af",
       "title": "Como os agentes estão transformando o trabalho",
       "summary": "Um novo artigo de pesquisa da OpenAI mostra como os agentes de IA estão transformando o trabalho, permitindo tarefas mais longas e complexas e expandindo a produtividade entre funções.",
@@ -322,6 +399,17 @@
       "published_at": "2026-06-24T22:28:18+00:00"
     },
     {
+      "id": "85dd8b8908c3ac35",
+      "title": "Gradium lança modelos de tradução de fala em tempo real, stt-translate e s2s-translate, superando gpt-realtime-translate em precisão e latência",
+      "summary": "A Gradium lançou dois modelos de tradução de fala em tempo real, stt-translate e s2s-translate, abrangendo inglês, francês, alemão, espanhol e português em 20 pares de idiomas. O…",
+      "link": "https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-24T20:00:21+00:00"
+    },
+    {
       "id": "1c43f0ae6760cc61",
       "title": "Congressista nega que a equipe tenha usado IA para redigir emenda ao financiamento da defesa",
       "summary": "A deputada Anna Paulina Luna (R-FL) diz que sua equipe usou IA para \"verificação ortográfica\" em um resumo de emenda para um importante projeto de defesa, mas nega que tenha sido usado no próprio texto do projeto e diz…",
@@ -331,6 +419,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-24T19:36:46+00:00"
+    },
+    {
+      "id": "9458127bfdbb1f18",
+      "title": "Como projetar um tempo de execução de agente no estilo OpenHarness com ferramentas, memória, permissões, habilidades e coordenação multiagente",
+      "summary": "Neste tutorial, construímos um equipamento de agente no estilo OpenHarness do zero para ver como funciona um sistema de agente prático. Recriamos os principais blocos de construção: uso de ferramentas, ferramenta digitada…",
+      "link": "https://www.marktechpost.com/2026/06/24/how-to-design-an-openharness-style-agent-runtime-with-tools-memory-permissions-skills-and-multi-agent-coordination/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f510.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-24T19:08:36+00:00"
     },
     {
       "id": "5d1ac36024a1c4cf",
@@ -399,6 +498,50 @@
       "published_at": "2026-06-24T11:59:54+00:00"
     },
     {
+      "id": "fd9b370a9388da4c",
+      "title": "Usando Graphify e NetworkX para mapear a estrutura da base de código Python com nós de Deus, comunidades e visualizações de arquitetura",
+      "summary": "Neste tutorial, construímos um pipeline Graphify totalmente offline que transforma um aplicativo Python multimódulo em um gráfico de conhecimento. Instalamos o Graphify, geramos uma amostra conectada…",
+      "link": "https://www.marktechpost.com/2026/06/24/using-graphify-and-networkx-to-map-python-codebase-structure-with-god-nodes-communities-and-architecture-visualizations/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-24T09:36:59+00:00"
+    },
+    {
+      "id": "258ae533abaffccb",
+      "title": "Nous Research adiciona /learn ao sistema de habilidades do agente Hermes, capturando fluxos de trabalho como comandos de barra sem escrever à mão SKILL.md",
+      "summary": "A Nous Research adicionou /learn ao Sistema de Habilidades do Agente Hermes. O comando cria um SKILL.md compatível com os padrões a partir de um diretório local, uma URL de documento, uma conversa anterior ou…",
+      "link": "https://www.marktechpost.com/2026/06/24/nous-research-adds-learn-to-hermes-agents-skills-system-capturing-workflows-as-slash-commands-without-hand-writing-skill-md/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4c1.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-24T09:21:49+00:00"
+    },
+    {
+      "id": "303dc601af3e375b",
+      "title": "16 melhores ferramentas de codificação de IA generativa em 2026 comparadas: recursos e melhor ajuste",
+      "summary": "A IA generativa remodelou a forma como o software é construído. O que começou como preenchimento automático linha por linha agora abrange geração completa de aplicativos, pipelines de construção multiagentes e…",
+      "link": "https://www.marktechpost.com/2026/06/24/top-generative-ai-coding-tools-of-2026/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-24T08:12:27+00:00"
+    },
+    {
+      "id": "8d782c5ef21f2d1f",
+      "title": "A decodificação especulativa DFlash rascunha blocos inteiros de token em paralelo para uma taxa de transferência até 15x maior no NVIDIA Blackwell",
+      "summary": "O DFlash da UC San Diego substitui o desenho autoregressivo por um modelo leve de difusão em bloco para decodificação especulativa. Ele desenha blocos inteiros de tokens em uma única passagem para frente e…",
+      "link": "https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-12.00.06-AM-1-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-24T07:21:10+00:00"
+    },
+    {
       "id": "855db08b75f6ecde",
       "title": "OpenAI e Broadcom revelam chip de inferência otimizado para LLM",
       "summary": "OpenAI e Broadcom apresentam Jalapeño, um chip de IA personalizado desenvolvido para inferência LLM para melhorar o desempenho, a eficiência e a escala em sistemas de IA.",
@@ -419,17 +562,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-06-24T00:00:00+00:00"
-    },
-    {
-      "id": "d824c317124983b4",
-      "title": "Em breve, o Google Home ficará melhor em reconhecer você",
-      "summary": "Uma nova atualização para o Google Home pode diminuir a probabilidade de suas câmeras domésticas inteligentes confundirem você com outra pessoa, só porque você está de costas para a câmera. A partir de 23 de junho…",
-      "link": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-23T22:28:19+00:00"
     },
     {
       "id": "71f308253a322d41",
@@ -592,17 +724,6 @@
       "link": "https://openai.com/index/codex-maxxing-long-running-work",
       "image": null,
       "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-22T00:00:00+00:00"
-    },
-    {
-      "id": "965bb4d2ca17efb5",
-      "title": "Conseguimos modelos locais para fazer a triagem do repositório OpenClaw GRATUITAMENTE!*",
-      "summary": "",
-      "link": "https://huggingface.co/blog/local-models-pr-triage",
-      "image": null,
-      "source": "Hugging Face",
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-06-22T00:00:00+00:00"
