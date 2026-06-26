@@ -1,17 +1,193 @@
 {
-  "generated_at": "2026-06-26T14:22:30.870148+00:00",
-  "total": 79,
+  "generated_at": "2026-06-26T19:45:38.810847+00:00",
+  "total": 84,
   "items": [
     {
-      "id": "5521da525fb5806a",
-      "title": "GPT-5.6 deve ter estreia atrasada após pedido do governo dos EUA, revela portal",
-      "summary": "A estreia do GPT-5.6, nova versão do modelo de inteligência artificial (IA) do ChatGPT, deve levar mais tempo para acontecer. O atraso, caso confirmado, ocorrerá após uma…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/gpt-56-deve-ter-estreia-atrasada-apos-pedido-do-governo-dos-eua-revela-portal/",
-      "image": "https://t.ctcdn.com.br/CwTb5KNWOIPyQhMUlOLFldakqk8=/700x394/smart/i1119843.png",
+      "id": "d5258a79e0aa62c3",
+      "title": "OpenAI se prepara para levar o GPT-5.6 a mais países em breve",
+      "summary": "A OpenAI apresentou a prévia do GPT-5.6, seu novo modelo de fronteira, apenas a empresas dos Estados Unidos nesta sexta-feira (26). A dona do ChatGPT, por outro lado, pretende…",
+      "link": "https://canaltech.com.br/mercado/openai-se-prepara-para-levar-o-gpt-56-a-mais-paises-em-breve/",
+      "image": "https://t.ctcdn.com.br/eFsqw8IK-RmTRhZ7JYM_N-mqTj8=/700x394/smart/i1137009.png",
       "source": "Canaltech",
       "region": "brasil",
       "category": "Brasil",
-      "published_at": "2026-06-26T14:17:11+00:00"
+      "published_at": "2026-06-26T19:41:19+00:00"
+    },
+    {
+      "id": "642332390bb17e9a",
+      "title": "Perplexity lança computador para aconselhamento: uma camada agente multimodelo para fluxos de trabalho jurídicos",
+      "summary": "O Computer for Counsel da Perplexity estende o Perplexity Computer às equipes jurídicas. Ele roteia mais de 20 modelos em Midpage, conectores MCP e Microsoft 365, com resultados citados por advogados…",
+      "link": "https://www.marktechpost.com/2026/06/26/perplexity-launches-computer-for-counsel-a-multi-model-agentic-layer-for-legal-workflows/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/26a0.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-26T19:31:21+00:00"
+    },
+    {
+      "id": "fad5059fe2d67f1e",
+      "title": "Notion abandona app de email e decide focar em agentes de IA",
+      "summary": "Empresa anuncia que plataforma será reformulada para manter fluxos de trabalho automatizados e manterá maior parte dos dados no Gmail. Notion abandona app de email e decide focar…",
+      "link": "https://tecnoblog.net/noticias/notion-abadona-app-de-email-e-decide-focar-em-agentes-de-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/10/notion-mail-icone-edited-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T19:22:39+00:00"
+    },
+    {
+      "id": "33b5ffdd1d78945e",
+      "title": "OpenAI apresenta GPT-5.6 com Sol, Terra e Luna: modelos em camadas, novos modos de raciocínio, acesso limitado",
+      "summary": "A família GPT-5.6 da OpenAI adiciona modelos em camadas com raciocínio máximo e ultra. Aqui está o que os engenheiros iniciantes devem saber. A postagem OpenAI mostra GPT-5.6 com Sol, Terra e…",
+      "link": "https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-26T19:18:58+00:00"
+    },
+    {
+      "id": "1656bcd15dacc241",
+      "title": "OpenAI limita a implementação do GPT-5.6 após solicitação do governo, diz que restrições não deveriam ser a norma",
+      "summary": "“Não acreditamos que este tipo de processo de acesso governamental deva se tornar o padrão de longo prazo”, diz OpenAI. “Ele mantém as melhores ferramentas de usuários, desenvolvedores, empresas, cibernéticos…",
+      "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-26T18:32:14+00:00"
+    },
+    {
+      "id": "29d49b9451052bc5",
+      "title": "OpenAI contrata chefe do Uber Índia para liderar seu maior mercado fora dos EUA",
+      "summary": "A contratação marca o mais recente avanço da OpenAI na Índia, expandindo escritórios, parcerias e contratações.",
+      "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-26T18:19:36+00:00"
+    },
+    {
+      "id": "51dad47999e1ae08",
+      "title": "Nova IA do ChatGPT promete superar o Claude Mythos, mas poucos podem usá-la",
+      "summary": "A OpenAI apresentou o GPT-5.6 , sua nova geração de modelos de inteligência artificial (IA), nesta sexta-feira (26). A novidade superou o Claude Mythos em testes internos e…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/nova-ia-do-chatgpt-promete-superar-o-claude-mythos-mas-poucos-podem-usa-la/",
+      "image": "https://t.ctcdn.com.br/RmE9ENn_Q9luI0cRKjRTxjcI4x0=/700x394/smart/i1134143.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T18:17:42+00:00"
+    },
+    {
+      "id": "bc9e8d05fc0e8634",
+      "title": "Dr. Dolittle, é você? Cientista decifra o canto de pássaros",
+      "summary": "Pesquisa identifica padrões nos sons de tentilhões zebra e avança na compreensão da comunicação animal com apoio de inteligência artificial O post Dr. Dolittle, é você? Cientista…",
+      "link": "https://olhardigital.com.br/2026/06/26/ciencia-e-espaco/dr-dolittle-e-voce-cientista-decifra-o-canto-de-passaros/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/tensilhao-zebra-passarinhos-empoleirados-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T18:07:54+00:00"
+    },
+    {
+      "id": "f6b11abc3d8acd98",
+      "title": "Fim dos chatbots: OpenAI, Apple e Meta agora correm atrás da \"IA Espacial\"",
+      "summary": "A corrida da inteligência artificial está entrando em uma nova fase e deixando os chatbots em segundo plano. A OpenAI, Apple e Meta agora concentram esforços no desenvolvimento da…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/fim-dos-chatbots-openai-apple-e-meta-agora-correm-atras-da-ia-espacial/",
+      "image": "https://t.ctcdn.com.br/zZ1RXJ1G7mEyJ9M8cCEZyaZqdYA=/700x394/smart/i1109343.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T18:05:00+00:00"
+    },
+    {
+      "id": "6d2c4a176f39cb70",
+      "title": "Cérebro no prompt: o preço que você paga quando deixa a IA pensar (demais) por você",
+      "summary": "Entenda como o hábito de \"poupar energia mental\" por meio da IA generativa pode sabotar sua memória e atrofiar seu raciocínio O post Cérebro no prompt: o preço que você paga…",
+      "link": "https://olhardigital.com.br/2026/06/26/inteligencia-artificial/cerebro-no-prompt-o-preco-que-voce-paga-quando-deixa-a-ia-pensar-demais-por-voce/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/Cerebro-humano-e-IA-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T17:51:07+00:00"
+    },
+    {
+      "id": "22860fcb0315498a",
+      "title": "Por que todos, da OpenAI à SpaceX, estão construindo seus próprios chips (e aumentando a pressão sobre a Nvidia)",
+      "summary": "A Nvidia domina o mercado de chips de IA há anos, mas a era de dependência total pode estar terminando. OpenAI acaba de compartilhar seus planos para apimentar as coisas com Jalapeño, seu costume…",
+      "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-26T17:43:22+00:00"
+    },
+    {
+      "id": "7ec59b6a76d611d1",
+      "title": "OpenAI revela GPT-5.6 em meio ao drama regulatório de IA dos EUA",
+      "summary": "Menos de 24 horas após a notícia de que a OpenAI iria escalonar o lançamento de seu próximo modelo a pedido da administração Trump, esse modelo, GPT-5.6, está aqui. Na sexta-feira, o…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-26T17:00:00+00:00"
+    },
+    {
+      "id": "cadbc57d4a4004e8",
+      "title": "Óculos inteligentes agora permitem \"fazer Pix\" sem tirar celular do bolso",
+      "summary": "Os óculos inteligentes da Rokid receberam uma atualização que permite fazer pagamentos instantâneos pelo WeChat Pay , serviço equivalente ao Pix na China, sem precisar tirar o…",
+      "link": "https://canaltech.com.br/produtos/oculos-inteligentes-agora-permitem-fazer-pix-sem-tirar-celular-do-bolso/",
+      "image": "https://t.ctcdn.com.br/OxIvJnQu7-4dk_Mu2VmASIyn64U=/700x394/smart/i1138131.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T17:00:00+00:00"
+    },
+    {
+      "id": "e11467610a30053e",
+      "title": "Não se trata mais de Anthropic vs. OpenAI",
+      "summary": "Os modelos de IA progrediram ao ponto em que as suas capacidades têm consequências políticas reais. Lidar com essas consequências exigirá ação coletiva.",
+      "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-26T16:24:47+00:00"
+    },
+    {
+      "id": "5906189c9ec45dc6",
+      "title": "IA pode prolongar crise de memória para além de 2027, alerta Micron",
+      "summary": "A escassez de memória, impulsionada pela alta demanda da IA , já resultou no aumento de preços de computadores, celulares, videogames e demais produtos nos últimos meses. Mas essa…",
+      "link": "https://canaltech.com.br/mercado/ia-pode-prolongar-crise-de-memoria-para-alem-de-2027-alerta-micron/",
+      "image": "https://t.ctcdn.com.br/L9maoenwBir4vXhRN6a678nZrso=/700x394/smart/i1138107.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T16:08:22+00:00"
+    },
+    {
+      "id": "a82ef5d64a22c33e",
+      "title": "Google lança app com IA para administrar investimentos",
+      "summary": "Google Finanças ganhou um app que permite importar carteira via PDF, criar alertas e entender variações do mercado. Novidade chega primeiro para Android. Google lança app com IA…",
+      "link": "https://tecnoblog.net/noticias/google-lanca-app-com-ia-para-administrar-investimentos/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/google_finance_blog_image_june_2-width-1600-format-webp-340x191.webp",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T16:03:02+00:00"
+    },
+    {
+      "id": "089c7979a47bfea7",
+      "title": "OpenAI deve adiar o GPT-5.6 após pedido de Donald Trump",
+      "summary": "Novo modelo de IA ficará inicialmente restrito a poucos clientes corporativos, que serão aprovados pelo governo dos Estados Unidos. OpenAI deve adiar o GPT-5.6 após pedido de…",
+      "link": "https://tecnoblog.net/noticias/openai-deve-adiar-o-gpt-5-6-apos-pedido-de-donald-trump/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/capa-tbr-sam-altman-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T14:49:44+00:00"
     },
     {
       "id": "c7cc10cac3fff633",
@@ -25,37 +201,15 @@
       "published_at": "2026-06-26T14:07:03+00:00"
     },
     {
-      "id": "2b1c6e5e6069af58",
-      "title": "iPad fica R$ 4.500 mais caro no Brasil após crise causada pela IA; veja tabela",
-      "summary": "A escassez de chips de memória causada pelo avanço dos data centers de inteligência artificial (IA) impacta agora o bolso dos consumidores de dispositivos da Apple . A empresa…",
-      "link": "https://canaltech.com.br/tablet/ipad-fica-r-4500-mais-caro-no-brasil-apos-crise-causada-pela-ia-veja-tabela/",
-      "image": "https://t.ctcdn.com.br/kKkdF3dkXbVPRNfFAdS0OHDM6tM=/700x394/smart/i1107427.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T14:03:00+00:00"
-    },
-    {
-      "id": "769744b6bc2d6ae7",
-      "title": "Samsung Vision AI Neo QLED 2025: chegou a hora de renovar sua TV com qualidade de imagem impressionante",
-      "summary": "Se você está de olho em uma TV com tecnologia de ponta, esta é uma boa oportunidade. A linha Samsung Vision AI Neo QLED 2025 chegou trazendo painéis com resolução Ultra 4K…",
-      "link": "https://olhardigital.com.br/2026/06/26/reviews/samsung-vision-ai-neo-qled-2025-chegou-a-hora-de-renovar-sua-tv-com-qualidade-de-imagem-impressionante/",
-      "image": "https://m.media-amazon.com/images/I/41-5ZDRnUWL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T13:43:30+00:00"
-    },
-    {
-      "id": "cf44bea7eedaaa78",
-      "title": "Google cria novo app para acessar recurso presente na Busca",
-      "summary": "O Google lançou um novo aplicativo do Google Finance para Android, marcando o fim da fase beta e a evolução do serviço para uma plataforma de investimentos com inteligência…",
-      "link": "https://canaltech.com.br/apps/google-cria-novo-app-para-acessar-recurso-presente-na-busca/",
-      "image": "https://t.ctcdn.com.br/g3vUKVxmTKqdkTyn6MMXHchkIHg=/700x394/smart/i1137921.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T11:05:00+00:00"
+      "id": "30f48121decc708b",
+      "title": "Antevisão do GPT-5.6 Sol: um modelo de próxima geração",
+      "summary": "OpenAI apresenta o GPT-5.6 Sol, um modelo de próxima geração com recursos mais fortes em codificação, ciência e segurança cibernética, combinado com sua pilha de segurança mais avançada.",
+      "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-26T10:00:00+00:00"
     },
     {
       "id": "8c110031fe85df43",
@@ -201,17 +355,6 @@
       "published_at": "2026-06-25T18:01:48+00:00"
     },
     {
-      "id": "31cae151607b6a8b",
-      "title": "Demanda por memória faz Micron superar Tesla e Meta em valor de mercado",
-      "summary": "Micron atingiu US$ 1,398 trilhão de valor de mercado, superando Tesla e Meta por um breve momento. Boa fase é impulsionada pela demanda por chips para IA. Demanda por memória faz…",
-      "link": "https://tecnoblog.net/noticias/demanda-por-memoria-faz-micron-superar-tesla-e-meta-em-valor-de-mercado/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/micron-estande-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-25T18:00:14+00:00"
-    },
-    {
       "id": "e24e12ef9468cee2",
       "title": "Claude da Anthropic está conquistando consumidores pagos, mercado de propriedade do ChatGPT",
       "summary": "Apesar da liderança de mercado do ChatGPT, os consumidores que pagam pela IA têm escolhido cada vez mais Claude da Anthropic, mostram os dados.",
@@ -234,28 +377,6 @@
       "published_at": "2026-06-25T17:11:37+00:00"
     },
     {
-      "id": "d8d06740c33ad511",
-      "title": "Aposta de US$ 2,3 bilhões da General Intuition de que os videogames podem treinar agentes de IA para o mundo real",
-      "summary": "A General Intuition arrecadou US$ 320 milhões para dimensionar a IA treinada em milhões de horas de jogo. Os dados de ação de apostas podem ajudar a IA a desenvolver algo mais próximo da intuição humana.",
-      "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-25T16:55:00+00:00"
-    },
-    {
-      "id": "79e477154ce1d5b2",
-      "title": "O ex-chefe de IA da Databricks acha que pode reduzir a conta de energia da IA ​​em 1.000 vezes",
-      "summary": "Un-0 é uma ferramenta de sistema de geração de imagens que mostra pela primeira vez como a tecnologia da empresa pode replicar sistemas convencionais de IA.",
-      "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-25T16:48:11+00:00"
-    },
-    {
       "id": "6a95b493803eeb37",
       "title": "Quais tokens um modelo híbrido prevê melhor?",
       "summary": "",
@@ -265,28 +386,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-06-25T16:11:42+00:00"
-    },
-    {
-      "id": "a38a0f79d8243c02",
-      "title": "Rippling agora quer ser toda a sua pilha de dados",
-      "summary": "\"Havia funcionários fazendo coisas como: 'Claude é muito útil para mim - ele analisa minha agenda e meu e-mail e monta um plano para mim'\", diz ele. \"Essa pessoa estava gastando...",
-      "link": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-25T16:00:00+00:00"
-    },
-    {
-      "id": "b2d68dc4771f270c",
-      "title": "Google Finance ganha aplicativo dedicado para Android",
-      "summary": "Os usuários poderão acessar suas listas de observação, dados de mercado em tempo real, notícias financeiras ao vivo e o recurso \"Momentos-chave\" alimentado por IA do Google, que explica por que as ações mudaram.",
-      "link": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-25T16:00:00+00:00"
     },
     {
       "id": "14531ebca9f85c08",
@@ -443,17 +542,6 @@
       "published_at": "2026-06-24T16:00:13+00:00"
     },
     {
-      "id": "196ffbbed28e088e",
-      "title": "OpenAI revela seu primeiro processador de IA: Jalapeño",
-      "summary": "A OpenAI acaba de revelar um novo chip de “processador de inteligência” para servidores de IA feito em parceria com a Broadcom. O chip, chamado Jalapeño, foi projetado para alimentar o presente e o futuro…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-broadcom-jalapeno-inference-chip-image.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-24T14:36:47+00:00"
-    },
-    {
       "id": "9fca72dbae7dafd3",
       "title": "O surgimento da camada de infraestrutura de dados da web para IA",
       "summary": "A IA está crescendo. Novos casos de uso surgem a cada dia. Para capitalizar o potencial da tecnologia, as empresas necessitam de dados em grande escala. Em muitos casos, porém, as informações relevantes…",
@@ -463,28 +551,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-24T11:59:54+00:00"
-    },
-    {
-      "id": "fd9b370a9388da4c",
-      "title": "Usando Graphify e NetworkX para mapear a estrutura da base de código Python com nós de Deus, comunidades e visualizações de arquitetura",
-      "summary": "Neste tutorial, construímos um pipeline Graphify totalmente offline que transforma um aplicativo Python multimódulo em um gráfico de conhecimento. Instalamos o Graphify, geramos uma amostra conectada…",
-      "link": "https://www.marktechpost.com/2026/06/24/using-graphify-and-networkx-to-map-python-codebase-structure-with-god-nodes-communities-and-architecture-visualizations/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-24T09:36:59+00:00"
-    },
-    {
-      "id": "258ae533abaffccb",
-      "title": "Nous Research adiciona /learn ao sistema de habilidades do agente Hermes, capturando fluxos de trabalho como comandos de barra sem escrever à mão SKILL.md",
-      "summary": "A Nous Research adicionou /learn ao Sistema de Habilidades do Agente Hermes. O comando cria um SKILL.md compatível com os padrões a partir de um diretório local, uma URL de documento, uma conversa anterior ou…",
-      "link": "https://www.marktechpost.com/2026/06/24/nous-research-adds-learn-to-hermes-agents-skills-system-capturing-workflows-as-slash-commands-without-hand-writing-skill-md/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4c1.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-24T09:21:49+00:00"
     },
     {
       "id": "855db08b75f6ecde",
@@ -661,17 +727,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-06-22T10:00:00+00:00"
-    },
-    {
-      "id": "e2330fefe7e28987",
-      "title": "Codex-maxxing para trabalhos de longa duração",
-      "summary": "Saiba como Jason Liu usa o Codex para preservar o contexto, gerenciar projetos complexos e ajudar o trabalho a continuar além de um único prompt.",
-      "link": "https://openai.com/index/codex-maxxing-long-running-work",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-22T00:00:00+00:00"
     },
     {
       "id": "bd056869a29bf635",
