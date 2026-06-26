@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-06-26T09:23:50.615774+00:00",
-  "total": 82,
+  "generated_at": "2026-06-26T14:22:30.870148+00:00",
+  "total": 79,
   "items": [
+    {
+      "id": "5521da525fb5806a",
+      "title": "GPT-5.6 deve ter estreia atrasada após pedido do governo dos EUA, revela portal",
+      "summary": "A estreia do GPT-5.6, nova versão do modelo de inteligência artificial (IA) do ChatGPT, deve levar mais tempo para acontecer. O atraso, caso confirmado, ocorrerá após uma…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/gpt-56-deve-ter-estreia-atrasada-apos-pedido-do-governo-dos-eua-revela-portal/",
+      "image": "https://t.ctcdn.com.br/CwTb5KNWOIPyQhMUlOLFldakqk8=/700x394/smart/i1119843.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T14:17:11+00:00"
+    },
+    {
+      "id": "c7cc10cac3fff633",
+      "title": "A bagunça do Mythos da Antrópico só está piorando",
+      "summary": "Já se passaram duas semanas desde que a Anthropic retirou seus modelos da classe Mythos do ar após um ultimato da administração Trump na noite de sexta-feira. A empresa entrou em ação…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-26T14:07:03+00:00"
+    },
+    {
+      "id": "2b1c6e5e6069af58",
+      "title": "iPad fica R$ 4.500 mais caro no Brasil após crise causada pela IA; veja tabela",
+      "summary": "A escassez de chips de memória causada pelo avanço dos data centers de inteligência artificial (IA) impacta agora o bolso dos consumidores de dispositivos da Apple . A empresa…",
+      "link": "https://canaltech.com.br/tablet/ipad-fica-r-4500-mais-caro-no-brasil-apos-crise-causada-pela-ia-veja-tabela/",
+      "image": "https://t.ctcdn.com.br/kKkdF3dkXbVPRNfFAdS0OHDM6tM=/700x394/smart/i1107427.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T14:03:00+00:00"
+    },
+    {
+      "id": "769744b6bc2d6ae7",
+      "title": "Samsung Vision AI Neo QLED 2025: chegou a hora de renovar sua TV com qualidade de imagem impressionante",
+      "summary": "Se você está de olho em uma TV com tecnologia de ponta, esta é uma boa oportunidade. A linha Samsung Vision AI Neo QLED 2025 chegou trazendo painéis com resolução Ultra 4K…",
+      "link": "https://olhardigital.com.br/2026/06/26/reviews/samsung-vision-ai-neo-qled-2025-chegou-a-hora-de-renovar-sua-tv-com-qualidade-de-imagem-impressionante/",
+      "image": "https://m.media-amazon.com/images/I/41-5ZDRnUWL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T13:43:30+00:00"
+    },
+    {
+      "id": "cf44bea7eedaaa78",
+      "title": "Google cria novo app para acessar recurso presente na Busca",
+      "summary": "O Google lançou um novo aplicativo do Google Finance para Android, marcando o fim da fase beta e a evolução do serviço para uma plataforma de investimentos com inteligência…",
+      "link": "https://canaltech.com.br/apps/google-cria-novo-app-para-acessar-recurso-presente-na-busca/",
+      "image": "https://t.ctcdn.com.br/g3vUKVxmTKqdkTyn6MMXHchkIHg=/700x394/smart/i1137921.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T11:05:00+00:00"
+    },
     {
       "id": "8c110031fe85df43",
       "title": "Conheça o contêiner: ferramenta Swift de código aberto da Apple para executar contêineres Linux como VMs leves no Apple Silicon",
@@ -23,28 +78,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-26T08:00:07+00:00"
-    },
-    {
-      "id": "a1168eaf5c71207a",
-      "title": "Seu Direito Digital: advogada de IA vence caso inédito em tribunal inglês",
-      "summary": "Como a tecnologia é usada hoje no Direito? Confira! O post Seu Direito Digital: advogada de IA vence caso inédito em tribunal inglês apareceu primeiro em Olhar Digital .",
-      "link": "https://olhardigital.com.br/2026/06/25/colunistas/seu-direito-digital-advogada-de-ia-vence-caso-inedito-em-tribunal-ingles/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T01:07:06+00:00"
-    },
-    {
-      "id": "3492e2707c505834",
-      "title": "Governo Trump trata OpenAI e Anthropic de forma diferente ao regular IA",
-      "summary": "Enquanto Anthropic recebeu ultimato para suspender modelos, OpenAI conseguiu acordo mais favorável O post Governo Trump trata OpenAI e Anthropic de forma diferente ao regular IA…",
-      "link": "https://olhardigital.com.br/2026/06/25/pro/governo-trump-trata-openai-e-anthropic-de-forma-diferente-ao-regular-ia/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T00:28:02+00:00"
     },
     {
       "id": "5d2de9152522b89c",
@@ -102,17 +135,6 @@
       "published_at": "2026-06-25T20:19:25+00:00"
     },
     {
-      "id": "758f041477a615ec",
-      "title": "Siri no iOS 27 tem truque escondido para acessar o ChatGPT",
-      "summary": "O iOS 27 incluirá um aplicativo dedicado para a Siri com interface no estilo chatbot, permitindo que os usuários alternem rapidamente para o ChatGPT . A descoberta foi divulgada…",
-      "link": "https://canaltech.com.br/apps/siri-no-ios-27-tem-truque-escondido-para-acessar-o-chatgpt/",
-      "image": "https://t.ctcdn.com.br/ipLl7EVso1N79ianCSf_wJHCRZ8=/700x394/smart/i1114391.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-25T20:00:00+00:00"
-    },
-    {
       "id": "5fa761beca9ae2d5",
       "title": "O Notion Mail é encerrado em meio à aquisição do agente",
       "summary": "A empresa disse que está descontinuando sua caixa de entrada de e-mail em favor de sua oferta de agente de IA, à medida que os usuários estão cada vez mais entregando as rédeas de seus e-mails aos agentes.",
@@ -168,17 +190,6 @@
       "published_at": "2026-06-25T18:38:51+00:00"
     },
     {
-      "id": "0908748b13738d4b",
-      "title": "Notion vai fechar seu app de e-mail para focar em agentes de IA",
-      "summary": "O Notion Mail, app de e-mail da plataforma de produtividade, será encerrado nos próximos meses . O anúncio foi divulgado no X e LinkedIn em perfis oficiais da companhia na tarde…",
-      "link": "https://canaltech.com.br/software/notion-vai-fechar-seu-app-de-e-mail-para-focar-em-agentes-de-ia/",
-      "image": "https://t.ctcdn.com.br/ZFJ5eLzk-TUB2_Ff98v0hTAKAX0=/700x394/smart/i1058015.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-25T18:03:18+00:00"
-    },
-    {
       "id": "aee534a5f26da6b8",
       "title": "Anthropic diz que Alibaba deve ser punido pelo maior ataque de clonagem de Claude",
       "summary": "O Alibaba supostamente usou 25.000 contas para explorar Claude em mais de 28,8 milhões de exchanges.",
@@ -221,28 +232,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-25T17:11:37+00:00"
-    },
-    {
-      "id": "251f408fe48d0b2f",
-      "title": "Guerra à pirataria: Japão quer usar IA para acelerar traduções de animes e mangá",
-      "summary": "O governo japonês iniciou uma mobilização para combater a pirataria de animes e mangás produzidos no país e evitar perdas monetárias durante a distribuição. 10 animes na…",
-      "link": "https://canaltech.com.br/entretenimento/guerra-a-pirataria-japao-quer-usar-ia-para-acelerar-traducoes-de-animes-e-manga/",
-      "image": "https://t.ctcdn.com.br/mG8pgWQe3FD9iFcKuHSN8oyiang=/700x394/smart/i1137765.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-25T17:05:00+00:00"
-    },
-    {
-      "id": "edf1878d4007e24e",
-      "title": "IA brasileira lança modelo poderoso para bater de frente com ChatGPT e Gemini",
-      "summary": "A Maritaca AI anunciou o lançamento do Sabiá 4 Thinking , um novo modelo de linguagem focado em raciocínio avançado e otimizado para o português brasileiro. A novidade já está…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-brasileira-lanca-modelo-poderoso-para-bater-de-frente-com-chatgpt-e-gemini/",
-      "image": "https://t.ctcdn.com.br/9RtrmnDASrtehPx68aCA60gMr5A=/700x394/smart/i1137809.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-25T17:00:00+00:00"
     },
     {
       "id": "d8d06740c33ad511",
@@ -320,17 +309,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-25T14:22:59+00:00"
-    },
-    {
-      "id": "d0592133264d7c84",
-      "title": "O que é Projeto Stargate? Conheça a iniciativa de IA da OpenAI",
-      "summary": "Projeto Stargate visa criar uma superestrutura para acelerar o desenvolvimento da Inteligência Artificial Geral (AGI), além de expandir a infraestrutura de data centers nos EUA O…",
-      "link": "https://tecnoblog.net/responde/o-que-e-projeto-stargate-conheca-a-iniciativa-de-ia-da-openai/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/stargate_openai-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-25T12:42:03+00:00"
     },
     {
       "id": "d2a4420febdfbc6e",
@@ -474,17 +452,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-24T14:36:47+00:00"
-    },
-    {
-      "id": "66427f009c2941d2",
-      "title": "O alto-falante doméstico do Google tem um bom som e uma ótima aparência – mas é meticuloso",
-      "summary": "Assim que sai da caixa, o novo Google Home Speaker passou em alguns testes importantes. Mesmo com o volume em 100 por cento e a música tocando no alto-falante, ele rapidamente diminuiu…",
-      "link": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Home-Speaker.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-24T13:00:00+00:00"
     },
     {
       "id": "9fca72dbae7dafd3",
