@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-06-26T03:35:07.846799+00:00",
-  "total": 84,
+  "generated_at": "2026-06-26T09:23:50.615774+00:00",
+  "total": 82,
   "items": [
+    {
+      "id": "8c110031fe85df43",
+      "title": "Conheça o contêiner: ferramenta Swift de código aberto da Apple para executar contêineres Linux como VMs leves no Apple Silicon",
+      "summary": "A Apple lançou o contêiner 1.0, uma ferramenta Swift de código aberto que executa contêineres Linux como máquinas virtuais leves em silício da Apple. O post Container Meet: código aberto da Apple…",
+      "link": "https://www.marktechpost.com/2026/06/26/meet-container-apples-open-source-swift-tool-for-running-linux-containers-as-lightweight-vms-on-apple-silicon/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-26T08:48:39+00:00"
+    },
+    {
+      "id": "383f85d5cac38e22",
+      "title": "Crie um agente de IA estilo Nanobot no Google Colab com chamada de ferramentas, memória de sessão, habilidades e servidores MCP",
+      "summary": "Neste tutorial, construímos um agente pessoal de IA leve inspirado na arquitetura do nanobot, executável inteiramente no Google Colab. Começamos com uma abstração de provedor, então…",
+      "link": "https://www.marktechpost.com/2026/06/26/build-a-nanobot-style-ai-agent-in-google-colab-with-tool-calling-session-memory-skills-and-mcp-servers/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f408.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-26T08:00:07+00:00"
+    },
     {
       "id": "a1168eaf5c71207a",
       "title": "Seu Direito Digital: advogada de IA vence caso inédito em tribunal inglês",
@@ -25,17 +47,6 @@
       "published_at": "2026-06-26T00:28:02+00:00"
     },
     {
-      "id": "502aad33c5ab4dfd",
-      "title": "The New York Times amplia ação judicial contra Microsoft e OpenAI por uso de conteúdo em IA",
-      "summary": "TNYT altera processo nos EUA, ajusta acusações e mantém alegação central de uso indevido de artigos no treinamento de sistemas de IA O post The New York Times amplia ação judicial…",
-      "link": "https://olhardigital.com.br/2026/06/25/inteligencia-artificial/the-new-york-times-amplia-acao-judicial-contra-microsoft-e-openai-por-uso-de-conteudo-em-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/chatgpt-1-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T00:01:10+00:00"
-    },
-    {
       "id": "5d2de9152522b89c",
       "title": "Execute um servidor vLLM em trabalhos HF em um comando",
       "summary": "",
@@ -56,17 +67,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-06-25T23:34:39+00:00"
-    },
-    {
-      "id": "a624597acf2af943",
-      "title": "OpenAI pode adiar IPO enquanto enfrenta pressão do governo dos EUA e disputa judicial com The New York Times",
-      "summary": "Discussões internas indicam possível adiamento da estreia na bolsa, enquanto empresa lida com exigências regulatórias e processos nos EUA O post OpenAI pode adiar IPO enquanto…",
-      "link": "https://olhardigital.com.br/2026/06/25/pro/openai-pode-adiar-ipo-enquanto-enfrenta-pressao-do-governo-dos-eua-e-disputa-judicial-com-the-new-york-times/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/openai_-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-25T23:34:36+00:00"
     },
     {
       "id": "a9f871abc7374d61",
@@ -518,28 +518,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-24T09:21:49+00:00"
-    },
-    {
-      "id": "303dc601af3e375b",
-      "title": "16 melhores ferramentas de codificação de IA generativa em 2026 comparadas: recursos e melhor ajuste",
-      "summary": "A IA generativa remodelou a forma como o software é construído. O que começou como preenchimento automático linha por linha agora abrange geração completa de aplicativos, pipelines de construção multiagentes e…",
-      "link": "https://www.marktechpost.com/2026/06/24/top-generative-ai-coding-tools-of-2026/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-24T08:12:27+00:00"
-    },
-    {
-      "id": "8d782c5ef21f2d1f",
-      "title": "A decodificação especulativa DFlash rascunha blocos inteiros de token em paralelo para uma taxa de transferência até 15x maior no NVIDIA Blackwell",
-      "summary": "O DFlash da UC San Diego substitui o desenho autoregressivo por um modelo leve de difusão em bloco para decodificação especulativa. Ele desenha blocos inteiros de tokens em uma única passagem para frente e…",
-      "link": "https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-12.00.06-AM-1-150x150.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-24T07:21:10+00:00"
     },
     {
       "id": "855db08b75f6ecde",
