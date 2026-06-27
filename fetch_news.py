@@ -11,7 +11,7 @@ import re
 import hashlib
 import time
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from html import unescape
 
 try:
@@ -39,6 +39,15 @@ FEEDS = [
     {"name": "Hugging Face",    "url": "https://huggingface.co/blog/feed.xml",                            "region": "mundo", "category": "Modelos",   "generic": False},
     {"name": "Google AI Blog",  "url": "https://blog.google/technology/ai/rss/",                          "region": "mundo", "category": "Modelos",   "generic": False},
 
+    # --- Mundo: grandes empresas de IA ---
+    {"name": "Anthropic",       "url": "https://www.anthropic.com/news/rss.xml",                               "region": "mundo", "category": "Modelos",   "generic": False},
+    {"name": "Microsoft AI",    "url": "https://blogs.microsoft.com/ai/feed/",                                 "region": "mundo", "category": "Produtos",  "generic": False},
+    {"name": "Meta AI",         "url": "https://ai.meta.com/blog/rss/",                                       "region": "mundo", "category": "Pesquisa",  "generic": False},
+    {"name": "DeepMind",        "url": "https://deepmind.google/discover/blog/rss.xml",                        "region": "mundo", "category": "Pesquisa",  "generic": False},
+    {"name": "NVIDIA AI",       "url": "https://blogs.nvidia.com/blog/category/deep-learning/feed/",           "region": "mundo", "category": "Produtos",  "generic": False},
+    {"name": "The Decoder",     "url": "https://the-decoder.com/feed/",                                       "region": "mundo", "category": "Mundo",     "generic": False},
+    {"name": "Mistral",         "url": "https://mistral.ai/news/rss.xml",                                     "region": "mundo", "category": "Modelos",   "generic": False},
+
     # --- Brasil: imprensa tech geral, filtrada por palavra-chave de IA ---
     {"name": "Tecnoblog",       "url": "https://tecnoblog.net/feed/",                                     "region": "brasil", "category": "Brasil",   "generic": True},
     {"name": "Olhar Digital",   "url": "https://olhardigital.com.br/feed/",                               "region": "brasil", "category": "Brasil",   "generic": True},
@@ -58,11 +67,15 @@ AI_KEYWORDS_SUBSTRING = [
     "deep learning", "rede neural", "redes neurais", "modelo de linguagem",
     "artificial intelligence", "copilot", "midjourney", "deepseek",
     "chatbot", "agente de ia", "agentes de ia", "ai agent", "llms",
+    "mistral", "meta ai", "deepmind", "perplexity", "grok", "xai",
+    "nvidia", "microsoft ai", "cohere", "stability ai", "stable diffusion",
+    "inflection", "character.ai", "sora", "dall-e", "whisper",
 ]
 
 MAX_ITEMS_PER_FEED = 8
 OUTPUT_FILE = "news.json"
 MAX_TOTAL_ITEMS = 90
+KEEP_DAYS = 7  # Mantém notícias por até 7 dias mesmo após nova coleta
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -205,6 +218,25 @@ def collect_feed(source):
     return items
 
 
+def load_existing_items():
+    """Carrega itens salvos do news.json anterior para manter histórico."""
+    try:
+        with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        return data.get("items", [])
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
+
+
+def parse_published_dt(item):
+    """Retorna datetime timezone-aware a partir do campo published_at do item."""
+    try:
+        dt = datetime.fromisoformat(item.get("published_at", ""))
+        return dt if dt.tzinfo else dt.replace(tzinfo=timezone.utc)
+    except (ValueError, AttributeError):
+        return datetime.min.replace(tzinfo=timezone.utc)
+
+
 def load_translation_cache():
     """Carrega traduções já feitas em execuções anteriores, usando o próprio
     news.json existente como cache (evita re-traduzir o que já foi traduzido,
@@ -265,6 +297,16 @@ def main():
             if item["id"] in seen_ids:
                 continue
             seen_ids.add(item["id"])
+            all_items.append(item)
+
+    # Mescla com notícias antigas (até KEEP_DAYS dias) para não perder histórico
+    cutoff = datetime.now(timezone.utc) - timedelta(days=KEEP_DAYS)
+    existing_items = load_existing_items()
+    new_ids = {item["id"] for item in all_items}
+    for item in existing_items:
+        if item["id"] in new_ids:
+            continue
+        if parse_published_dt(item) > cutoff:
             all_items.append(item)
 
     # Ordena por data de publicação, mais recente primeiro

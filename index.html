@@ -9,7 +9,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Pirata+One&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg: #FFFFFF;
+    --bg: #F7F3E9;
     --ink: #121212;
     --ink-dim: #444444;
     --ink-faint: #767676;
@@ -27,6 +27,16 @@
     color: var(--ink);
     font-family: 'Source Serif 4', Georgia, serif;
     line-height: 1.5;
+  }
+
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 9999;
+    opacity: 0.055;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23n)'/%3E%3C/svg%3E");
   }
 
   a { color: inherit; text-decoration: none; }
@@ -65,7 +75,16 @@
     line-height: 1;
     color: var(--ink);
     letter-spacing: 0.01em;
+    background: none;
+    border: none;
+    cursor: pointer;
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 0;
   }
+
+  .masthead-title:hover { opacity: 0.8; }
 
   .masthead-sub {
     margin-top: 10px;
@@ -560,7 +579,7 @@
 </div>
 
 <div class="masthead">
-  <div class="masthead-title">The Jornal AI</div>
+  <button class="masthead-title" id="homeBtn">The Jornal AI</button>
   <div class="masthead-sub">Inteligência Artificial — Brasil e Mundo, todos os dias</div>
 </div>
 
@@ -587,7 +606,9 @@
 
 <div class="reader-overlay" id="readerOverlay">
   <button class="reader-nav prev" id="readerPrev" aria-label="Notícia anterior">‹</button>
-  <div class="reader-stage" id="readerStage"></div>
+  <div class="reader-stage" id="readerStage">
+    <button class="reader-close" id="readerClose" aria-label="Voltar para a capa">← Voltar à capa</button>
+  </div>
   <button class="reader-nav next" id="readerNext" aria-label="Próxima notícia">›</button>
 </div>
 
@@ -781,7 +802,6 @@
       : "";
 
     return `
-      <button class="reader-close" aria-label="Voltar para a capa">← Voltar à capa</button>
       <div class="reader-page-scroll">
         ${imageHtml}
         <div class="reader-page-body">
@@ -810,7 +830,6 @@
     const el = document.createElement("div");
     el.className = `reader-page ${className}`;
     el.innerHTML = buildPageHtml(item);
-    el.querySelector(".reader-close").addEventListener("click", closeReader);
     return el;
   }
 
@@ -869,6 +888,7 @@
   }
 
   function setupReaderControls() {
+    document.getElementById("readerClose").addEventListener("click", closeReader);
     readerPrev.addEventListener("click", () => goToPage(readerIndex - 1));
     readerNext.addEventListener("click", () => goToPage(readerIndex + 1));
 
@@ -884,17 +904,28 @@
     });
 
     let touchStartX = null;
+    let touchStartY = null;
     readerStage.addEventListener("touchstart", (e) => {
       touchStartX = e.touches[0].clientX;
+      touchStartY = e.touches[0].clientY;
     }, { passive: true });
 
     readerStage.addEventListener("touchend", (e) => {
       if (touchStartX === null) return;
       const deltaX = e.changedTouches[0].clientX - touchStartX;
-      const THRESHOLD = 60;
-      if (deltaX > THRESHOLD) goToPage(readerIndex - 1);
-      else if (deltaX < -THRESHOLD) goToPage(readerIndex + 1);
+      const deltaY = e.changedTouches[0].clientY - touchStartY;
+      const THRESHOLD = 55;
+      if (Math.abs(deltaX) >= Math.abs(deltaY)) {
+        // swipe horizontal
+        if (deltaX > THRESHOLD) goToPage(readerIndex - 1);
+        else if (deltaX < -THRESHOLD) goToPage(readerIndex + 1);
+      } else {
+        // swipe vertical: cima = próxima, baixo = anterior
+        if (deltaY < -THRESHOLD) goToPage(readerIndex + 1);
+        else if (deltaY > THRESHOLD) goToPage(readerIndex - 1);
+      }
       touchStartX = null;
+      touchStartY = null;
     }, { passive: true });
   }
 
@@ -926,6 +957,17 @@
   setupFilters();
   setupStoryClicks();
   setupReaderControls();
+
+  document.getElementById("homeBtn").addEventListener("click", () => {
+    closeReader();
+    activeFilter = "todos";
+    filters.querySelectorAll("button").forEach(btn => {
+      btn.classList.toggle("active", btn.dataset.filter === "todos");
+    });
+    render();
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
+
   loadNews();
 })();
 </script>
