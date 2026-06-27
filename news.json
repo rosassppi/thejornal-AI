@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T02:57:16.854830+00:00",
-  "total": 81,
+  "generated_at": "2026-06-27T08:34:30.360733+00:00",
+  "total": 69,
   "items": [
     {
       "id": "da24c736e6fe3aa6",
@@ -14,6 +14,17 @@
       "published_at": "2026-06-27T01:01:37+00:00"
     },
     {
+      "id": "9cafba394397a09a",
+      "title": "Mythos 5 da Antrópico está de volta",
+      "summary": "Depois de um processo de negociação de montanha-russa com a administração Trump que se arrastou por duas semanas, o Mythos 5 da Anthropic está finalmente de volta à ação - pelo menos, um pouco, por um…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-27T00:33:44+00:00"
+    },
+    {
       "id": "d1efb048f3d0adbb",
       "title": "IA auxilia pesquisadores a ler papiro carbonizado pela erupção do Vesúvio",
       "summary": "Tecnologia de escaneamento e IA permite reconstruir digitalmente camadas internas de manuscrito romano antes ilegível O post IA auxilia pesquisadores a ler papiro carbonizado pela…",
@@ -25,17 +36,6 @@
       "published_at": "2026-06-27T00:20:08+00:00"
     },
     {
-      "id": "34f1df2d412f0093",
-      "title": "Criando dados de ajuste fino supervisionados do NVIDIA Open-SWE-Traces: análise de trajetória, análise de patches, orçamentos de token e métricas de uso de ferramentas",
-      "summary": "Neste tutorial, trabalhamos com o conjunto de dados Open-SWE-Traces da NVIDIA para estudar trajetórias de engenharia de software de agente para ajuste fino. Transmitimos os dados diretamente do Hugging Face…",
-      "link": "https://www.marktechpost.com/2026/06/26/building-supervised-fine-tuning-data-from-nvidia-open-swe-traces-trajectory-parsing-patch-analysis-token-budgets-and-tool-use-metrics/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-27T00:02:33+00:00"
-    },
-    {
       "id": "5ab3b68eac103075",
       "title": "Após impasse regulatório, EUA liberam acesso parcial a modelo de IA da Anthropic",
       "summary": "Decisão envolve vigilância sobre riscos de segurança nacional e limita uso a empresas e órgãos selecionados nos Estados Unidos em IA avançada O post Após impasse regulatório, EUA…",
@@ -45,17 +45,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-06-26T23:54:21+00:00"
-    },
-    {
-      "id": "6682974d54c65144",
-      "title": "Estudo do Cursor descobre que hacking de recompensa aumenta as pontuações de benchmark do agente de codificação no SWE-bench Pro",
-      "summary": "Um estudo do Cursor mostra que os agentes de codificação recuperam correções conhecidas em vez de derivá-las, aumentando as pontuações do SWE-bench Pro por meio da contaminação do tempo de execução. A postagem Estudo do Cursor Encontra Recompensa…",
-      "link": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-26T23:31:29+00:00"
     },
     {
       "id": "ba3fcf4a3167b39c",
@@ -91,17 +80,6 @@
       "published_at": "2026-06-26T22:19:05+00:00"
     },
     {
-      "id": "f2d6205bf2dbed70",
-      "title": "OpenAI revela prévia do GPT 5.6, que chega com acesso restrito",
-      "summary": "Nova geração inclui três modelos: Sol, Terra e Luna. Lançamento ocorre em prévia restrita a parceiros selecionados, após solicitação do governo dos Estados Unidos. OpenAI revela…",
-      "link": "https://tecnoblog.net/noticias/openai-revela-previa-do-gpt-5-6-que-chega-com-acesso-restrito/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T20:56:00+00:00"
-    },
-    {
       "id": "5eee074db3850cbb",
       "title": "NYT critica Microsoft por construir supercomputador que viola direitos autorais para OpenAI",
       "summary": "NYT altera reivindicações de direitos autorais da OpenAI/Microsoft após decisão da SCOTUS contra a Sony.",
@@ -133,39 +111,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-06-26T19:41:00+00:00"
-    },
-    {
-      "id": "642332390bb17e9a",
-      "title": "Perplexity lança computador para aconselhamento: uma camada agente multimodelo para fluxos de trabalho jurídicos",
-      "summary": "O Computer for Counsel da Perplexity estende o Perplexity Computer às equipes jurídicas. Ele roteia mais de 20 modelos em Midpage, conectores MCP e Microsoft 365, com resultados citados por advogados…",
-      "link": "https://www.marktechpost.com/2026/06/26/perplexity-launches-computer-for-counsel-a-multi-model-agentic-layer-for-legal-workflows/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/26a0.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-26T19:31:21+00:00"
-    },
-    {
-      "id": "fad5059fe2d67f1e",
-      "title": "Notion abandona app de email e decide focar em agentes de IA",
-      "summary": "Empresa anuncia que plataforma será reformulada para manter fluxos de trabalho automatizados e manterá maior parte dos dados no Gmail. Notion abandona app de email e decide focar…",
-      "link": "https://tecnoblog.net/noticias/notion-abadona-app-de-email-e-decide-focar-em-agentes-de-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/10/notion-mail-icone-edited-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T19:22:39+00:00"
-    },
-    {
-      "id": "33b5ffdd1d78945e",
-      "title": "OpenAI apresenta GPT-5.6 com Sol, Terra e Luna: modelos em camadas, novos modos de raciocínio, acesso limitado",
-      "summary": "A família GPT-5.6 da OpenAI adiciona modelos em camadas com raciocínio máximo e ultra. Aqui está o que os engenheiros iniciantes devem saber. A postagem OpenAI mostra GPT-5.6 com Sol, Terra e…",
-      "link": "https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-26T19:18:58+00:00"
     },
     {
       "id": "1656bcd15dacc241",
@@ -223,28 +168,6 @@
       "published_at": "2026-06-26T16:24:47+00:00"
     },
     {
-      "id": "a82ef5d64a22c33e",
-      "title": "Google lança app com IA para administrar investimentos",
-      "summary": "Google Finanças ganhou um app que permite importar carteira via PDF, criar alertas e entender variações do mercado. Novidade chega primeiro para Android. Google lança app com IA…",
-      "link": "https://tecnoblog.net/noticias/google-lanca-app-com-ia-para-administrar-investimentos/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/google_finance_blog_image_june_2-width-1600-format-webp-340x191.webp",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T16:03:02+00:00"
-    },
-    {
-      "id": "089c7979a47bfea7",
-      "title": "OpenAI deve adiar o GPT-5.6 após pedido de Donald Trump",
-      "summary": "Novo modelo de IA ficará inicialmente restrito a poucos clientes corporativos, que serão aprovados pelo governo dos Estados Unidos. OpenAI deve adiar o GPT-5.6 após pedido de…",
-      "link": "https://tecnoblog.net/noticias/openai-deve-adiar-o-gpt-5-6-apos-pedido-de-donald-trump/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/capa-tbr-sam-altman-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T14:49:44+00:00"
-    },
-    {
       "id": "c7cc10cac3fff633",
       "title": "A bagunça do Mythos da Antrópico só está piorando",
       "summary": "Já se passaram duas semanas desde que a Anthropic retirou seus modelos da classe Mythos do ar após um ultimato da administração Trump na noite de sexta-feira. A empresa entrou em ação…",
@@ -265,28 +188,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-06-26T10:00:00+00:00"
-    },
-    {
-      "id": "8c110031fe85df43",
-      "title": "Conheça o contêiner: ferramenta Swift de código aberto da Apple para executar contêineres Linux como VMs leves no Apple Silicon",
-      "summary": "A Apple lançou o contêiner 1.0, uma ferramenta Swift de código aberto que executa contêineres Linux como máquinas virtuais leves em silício da Apple. O post Container Meet: código aberto da Apple…",
-      "link": "https://www.marktechpost.com/2026/06/26/meet-container-apples-open-source-swift-tool-for-running-linux-containers-as-lightweight-vms-on-apple-silicon/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-26T08:48:39+00:00"
-    },
-    {
-      "id": "383f85d5cac38e22",
-      "title": "Crie um agente de IA estilo Nanobot no Google Colab com chamada de ferramentas, memória de sessão, habilidades e servidores MCP",
-      "summary": "Neste tutorial, construímos um agente pessoal de IA leve inspirado na arquitetura do nanobot, executável inteiramente no Google Colab. Começamos com uma abstração de provedor, então…",
-      "link": "https://www.marktechpost.com/2026/06/26/build-a-nanobot-style-ai-agent-in-google-colab-with-tool-calling-session-memory-skills-and-mcp-servers/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f408.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-26T08:00:07+00:00"
     },
     {
       "id": "5d2de9152522b89c",
@@ -377,17 +278,6 @@
       "published_at": "2026-06-25T18:01:48+00:00"
     },
     {
-      "id": "953f6a831f2a6db5",
-      "title": "DeepReinforce lança Ornith-1.0: uma família de modelos de codificação de código aberto que aprende seus próprios andaimes RL",
-      "summary": "DeepReinforce lançou Ornith-1.0, uma família de modelos de codificação de código aberto construída em Gemma 4 e Qwen 3.5. Em vez de um arnês fixo, o modelo aprende seu próprio andaime durante…",
-      "link": "https://www.marktechpost.com/2026/06/25/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-25T17:11:37+00:00"
-    },
-    {
       "id": "6a95b493803eeb37",
       "title": "Quais tokens um modelo híbrido prevê melhor?",
       "summary": "",
@@ -454,17 +344,6 @@
       "published_at": "2026-06-25T09:06:19+00:00"
     },
     {
-      "id": "6765e5e15c65d4fc",
-      "title": "Baidu lança OCR ilimitado, um modelo 3B que mantém o cache KV plano para análise de documentos longos",
-      "summary": "OCR ilimitado de código aberto do Baidu, um modelo MoE de parâmetro 3B que analisa dezenas de páginas de documentos em uma única passagem de avanço. Sua atenção de janela deslizante de referência (R-SWA) mantém o…",
-      "link": "https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-10.39.15-PM-1-150x150.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-25T05:39:53+00:00"
-    },
-    {
       "id": "3d99cf87d464b7af",
       "title": "Como os agentes estão transformando o trabalho",
       "summary": "Um novo artigo de pesquisa da OpenAI mostra como os agentes de IA estão transformando o trabalho, permitindo tarefas mais longas e complexas e expandindo a produtividade entre funções.",
@@ -507,17 +386,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-24T17:25:00+00:00"
-    },
-    {
-      "id": "a4a7a34251b04000",
-      "title": "Figma agora tem gráficos em movimento de IA e ferramentas de shader",
-      "summary": "Figma revelou algumas novas atualizações de produtos de design e codificação em sua conferência anual Config que visam ajudar os criativos a \"levar suas ideias adiante\" e automatizar tarefas tediosas com…",
-      "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figma-config-2026.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-24T16:15:00+00:00"
     },
     {
       "id": "ad312ce435987076",
