@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-06-26T19:45:38.810847+00:00",
-  "total": 84,
+  "generated_at": "2026-06-27T02:57:16.854830+00:00",
+  "total": 81,
   "items": [
+    {
+      "id": "da24c736e6fe3aa6",
+      "title": "Trump Admin lança Anthropic Mythos para ser usado por mais de 100 empresas e agências dos EUA",
+      "summary": "Mais de 100 empresas e agências governamentais estão autorizadas a usar o Mythos 5, incluindo seus funcionários não americanos.",
+      "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-27T01:01:37+00:00"
+    },
+    {
+      "id": "d1efb048f3d0adbb",
+      "title": "IA auxilia pesquisadores a ler papiro carbonizado pela erupção do Vesúvio",
+      "summary": "Tecnologia de escaneamento e IA permite reconstruir digitalmente camadas internas de manuscrito romano antes ilegível O post IA auxilia pesquisadores a ler papiro carbonizado pela…",
+      "link": "https://olhardigital.com.br/2026/06/26/inteligencia-artificial/ia-auxilia-pesquisadores-a-ler-papiro-carbonizado-pela-erupcao-do-vesuvio/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/cpia-digital-do-manuscrito-de-herculano-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-27T00:20:08+00:00"
+    },
+    {
+      "id": "34f1df2d412f0093",
+      "title": "Criando dados de ajuste fino supervisionados do NVIDIA Open-SWE-Traces: análise de trajetória, análise de patches, orçamentos de token e métricas de uso de ferramentas",
+      "summary": "Neste tutorial, trabalhamos com o conjunto de dados Open-SWE-Traces da NVIDIA para estudar trajetórias de engenharia de software de agente para ajuste fino. Transmitimos os dados diretamente do Hugging Face…",
+      "link": "https://www.marktechpost.com/2026/06/26/building-supervised-fine-tuning-data-from-nvidia-open-swe-traces-trajectory-parsing-patch-analysis-token-budgets-and-tool-use-metrics/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-27T00:02:33+00:00"
+    },
+    {
+      "id": "5ab3b68eac103075",
+      "title": "Após impasse regulatório, EUA liberam acesso parcial a modelo de IA da Anthropic",
+      "summary": "Decisão envolve vigilância sobre riscos de segurança nacional e limita uso a empresas e órgãos selecionados nos Estados Unidos em IA avançada O post Após impasse regulatório, EUA…",
+      "link": "https://olhardigital.com.br/2026/06/26/inteligencia-artificial/apos-impasse-regulatorio-eua-liberam-acesso-parcial-a-modelo-de-ia-da-anthropic/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/Destaque-Anthropic-Claude-Mythos-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T23:54:21+00:00"
+    },
+    {
+      "id": "6682974d54c65144",
+      "title": "Estudo do Cursor descobre que hacking de recompensa aumenta as pontuações de benchmark do agente de codificação no SWE-bench Pro",
+      "summary": "Um estudo do Cursor mostra que os agentes de codificação recuperam correções conhecidas em vez de derivá-las, aumentando as pontuações do SWE-bench Pro por meio da contaminação do tempo de execução. A postagem Estudo do Cursor Encontra Recompensa…",
+      "link": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-26T23:31:29+00:00"
+    },
+    {
+      "id": "ba3fcf4a3167b39c",
+      "title": "Como entrar no acesso antecipado da Alexa+ no Brasil?",
+      "summary": "A Alexa+ é a versão da assistente da Amazon integrada com IA generativa, o que permite conversas mais longas e “memória” para lembrar preferências de cada indivíduo. O serviço foi…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-entrar-no-acesso-antecipado-da-alexa-no-brasil/",
+      "image": "https://t.ctcdn.com.br/a-wcwFrH_TN91Ju6CTf8i0pJoik=/700x394/smart/i1135617.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T22:40:00+00:00"
+    },
+    {
+      "id": "8c5a87d16e57ac08",
+      "title": "Conteúdo adulto burla IA do Instagram e chega a menores, aponta Folha",
+      "summary": "Em testes com dez perfis, sete exibiram material explícito para conta cadastrada como menor de 16 anos – mesmo com todas as ferramentas de proteção ativadas O post Conteúdo adulto…",
+      "link": "https://olhardigital.com.br/2026/06/26/internet-e-redes-sociais/conteudo-adulto-burla-ia-do-instagram-e-chega-a-menores-aponta-folha/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T22:33:06+00:00"
+    },
+    {
+      "id": "9ad3af891193d1bf",
+      "title": "Coreia do Sul planeja treinar militares inteiros como “guerreiros drones”",
+      "summary": "Meio milhão de militares treinarão em drones como “ferramenta de combate universal”.",
+      "link": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1244261698-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-26T22:19:05+00:00"
+    },
+    {
+      "id": "f2d6205bf2dbed70",
+      "title": "OpenAI revela prévia do GPT 5.6, que chega com acesso restrito",
+      "summary": "Nova geração inclui três modelos: Sol, Terra e Luna. Lançamento ocorre em prévia restrita a parceiros selecionados, após solicitação do governo dos Estados Unidos. OpenAI revela…",
+      "link": "https://tecnoblog.net/noticias/openai-revela-previa-do-gpt-5-6-que-chega-com-acesso-restrito/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T20:56:00+00:00"
+    },
+    {
+      "id": "5eee074db3850cbb",
+      "title": "NYT critica Microsoft por construir supercomputador que viola direitos autorais para OpenAI",
+      "summary": "NYT altera reivindicações de direitos autorais da OpenAI/Microsoft após decisão da SCOTUS contra a Sony.",
+      "link": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2235233117-500x500-1782501951.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-26T20:04:55+00:00"
+    },
+    {
+      "id": "1d49400702e92940",
+      "title": "Homem é preso após revelar ao ChatGPT plano de matar filho",
+      "summary": "Um homem de 36 anos foi preso em São Gabriel da Palha, no Noroeste do Espírito Santo, após planejar a morte do próprio filho de 8 anos para deixar de pagar pensão alimentícia. O…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/homem-e-preso-apos-revelar-ao-chatgpt-plano-de-matar-filho/",
+      "image": "https://t.ctcdn.com.br/acRueoy8pm4ccyyiYQ94jDappHc=/700x394/smart/i1138193.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T20:00:00+00:00"
+    },
     {
       "id": "d5258a79e0aa62c3",
       "title": "OpenAI se prepara para levar o GPT-5.6 a mais países em breve",
@@ -11,7 +132,7 @@
       "source": "Canaltech",
       "region": "brasil",
       "category": "Brasil",
-      "published_at": "2026-06-26T19:41:19+00:00"
+      "published_at": "2026-06-26T19:41:00+00:00"
     },
     {
       "id": "642332390bb17e9a",
@@ -69,50 +190,6 @@
       "published_at": "2026-06-26T18:19:36+00:00"
     },
     {
-      "id": "51dad47999e1ae08",
-      "title": "Nova IA do ChatGPT promete superar o Claude Mythos, mas poucos podem usá-la",
-      "summary": "A OpenAI apresentou o GPT-5.6 , sua nova geração de modelos de inteligência artificial (IA), nesta sexta-feira (26). A novidade superou o Claude Mythos em testes internos e…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/nova-ia-do-chatgpt-promete-superar-o-claude-mythos-mas-poucos-podem-usa-la/",
-      "image": "https://t.ctcdn.com.br/RmE9ENn_Q9luI0cRKjRTxjcI4x0=/700x394/smart/i1134143.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T18:17:42+00:00"
-    },
-    {
-      "id": "bc9e8d05fc0e8634",
-      "title": "Dr. Dolittle, é você? Cientista decifra o canto de pássaros",
-      "summary": "Pesquisa identifica padrões nos sons de tentilhões zebra e avança na compreensão da comunicação animal com apoio de inteligência artificial O post Dr. Dolittle, é você? Cientista…",
-      "link": "https://olhardigital.com.br/2026/06/26/ciencia-e-espaco/dr-dolittle-e-voce-cientista-decifra-o-canto-de-passaros/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/tensilhao-zebra-passarinhos-empoleirados-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T18:07:54+00:00"
-    },
-    {
-      "id": "f6b11abc3d8acd98",
-      "title": "Fim dos chatbots: OpenAI, Apple e Meta agora correm atrás da \"IA Espacial\"",
-      "summary": "A corrida da inteligência artificial está entrando em uma nova fase e deixando os chatbots em segundo plano. A OpenAI, Apple e Meta agora concentram esforços no desenvolvimento da…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/fim-dos-chatbots-openai-apple-e-meta-agora-correm-atras-da-ia-espacial/",
-      "image": "https://t.ctcdn.com.br/zZ1RXJ1G7mEyJ9M8cCEZyaZqdYA=/700x394/smart/i1109343.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T18:05:00+00:00"
-    },
-    {
-      "id": "6d2c4a176f39cb70",
-      "title": "Cérebro no prompt: o preço que você paga quando deixa a IA pensar (demais) por você",
-      "summary": "Entenda como o hábito de \"poupar energia mental\" por meio da IA generativa pode sabotar sua memória e atrofiar seu raciocínio O post Cérebro no prompt: o preço que você paga…",
-      "link": "https://olhardigital.com.br/2026/06/26/inteligencia-artificial/cerebro-no-prompt-o-preco-que-voce-paga-quando-deixa-a-ia-pensar-demais-por-voce/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/Cerebro-humano-e-IA-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T17:51:07+00:00"
-    },
-    {
       "id": "22860fcb0315498a",
       "title": "Por que todos, da OpenAI à SpaceX, estão construindo seus próprios chips (e aumentando a pressão sobre a Nvidia)",
       "summary": "A Nvidia domina o mercado de chips de IA há anos, mas a era de dependência total pode estar terminando. OpenAI acaba de compartilhar seus planos para apimentar as coisas com Jalapeño, seu costume…",
@@ -135,17 +212,6 @@
       "published_at": "2026-06-26T17:00:00+00:00"
     },
     {
-      "id": "cadbc57d4a4004e8",
-      "title": "Óculos inteligentes agora permitem \"fazer Pix\" sem tirar celular do bolso",
-      "summary": "Os óculos inteligentes da Rokid receberam uma atualização que permite fazer pagamentos instantâneos pelo WeChat Pay , serviço equivalente ao Pix na China, sem precisar tirar o…",
-      "link": "https://canaltech.com.br/produtos/oculos-inteligentes-agora-permitem-fazer-pix-sem-tirar-celular-do-bolso/",
-      "image": "https://t.ctcdn.com.br/OxIvJnQu7-4dk_Mu2VmASIyn64U=/700x394/smart/i1138131.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T17:00:00+00:00"
-    },
-    {
       "id": "e11467610a30053e",
       "title": "Não se trata mais de Anthropic vs. OpenAI",
       "summary": "Os modelos de IA progrediram ao ponto em que as suas capacidades têm consequências políticas reais. Lidar com essas consequências exigirá ação coletiva.",
@@ -155,17 +221,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-06-26T16:24:47+00:00"
-    },
-    {
-      "id": "5906189c9ec45dc6",
-      "title": "IA pode prolongar crise de memória para além de 2027, alerta Micron",
-      "summary": "A escassez de memória, impulsionada pela alta demanda da IA , já resultou no aumento de preços de computadores, celulares, videogames e demais produtos nos últimos meses. Mas essa…",
-      "link": "https://canaltech.com.br/mercado/ia-pode-prolongar-crise-de-memoria-para-alem-de-2027-alerta-micron/",
-      "image": "https://t.ctcdn.com.br/L9maoenwBir4vXhRN6a678nZrso=/700x394/smart/i1138107.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T16:08:22+00:00"
     },
     {
       "id": "a82ef5d64a22c33e",
@@ -267,17 +322,6 @@
       "published_at": "2026-06-25T21:57:06+00:00"
     },
     {
-      "id": "a79f80791b147dcb",
-      "title": "iPhone 15 tem câmera ultra-angular e preço mais acessível com cupom",
-      "summary": "iPhone 15 com 48% OFF ainda acaba sendo dos melhores celulares da Apple em 2026 para quem busca preço baixo, câmeras versáteis e abre mão de IA iPhone 15 tem câmera ultra-angular…",
-      "link": "https://tecnoblog.net/achados/iphone-15-tem-camera-ultra-angular-e-preco-mais-acessivel-com-cupom/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/illhl3nwnqc-2.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-25T20:45:09+00:00"
-    },
-    {
       "id": "9fde553deecda35f",
       "title": "Patronus AI consegue US$ 50 milhões para construir ‘mundos digitais’ que testam agentes de IA",
       "summary": "A startup de testes de agentes Patronus AI, fundada por ex-pesquisadores da Meta AI, está enfrentando uma demanda quase insaciável, diz seu investidor.",
@@ -300,17 +344,6 @@
       "published_at": "2026-06-25T19:14:46+00:00"
     },
     {
-      "id": "77d430b3406748cc",
-      "title": "Nubank não vai parar de contratar pessoas por causa da IA, diz diretora",
-      "summary": "Banco passou a procurar novo perfil. Declaração foi dada por Ellen Kiss durante Config, conferência do Figma que reúne cases de clientes. Nubank não vai parar de contratar pessoas…",
-      "link": "https://tecnoblog.net/noticias/nubank-nao-vai-parar-de-contratar-pessoas-por-causa-da-ia-diz-diretora/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/04/nubank_capa-5_tb-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-25T19:08:16+00:00"
-    },
-    {
       "id": "2dc4a2dae635b397",
       "title": "Noção de matar o aplicativo de e-mail influenciado pelo Skiff, já que a maioria dos usuários usa agentes de IA",
       "summary": "A noção é “apostar tudo no uso de agentes para administrar sua caixa de entrada”.",
@@ -320,17 +353,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-25T19:04:57+00:00"
-    },
-    {
-      "id": "add4e8d92da684b9",
-      "title": "Anthropic acusa Alibaba de roubar dados do Claude",
-      "summary": "Em carta enviada ao Congresso dos EUA, empresa afirma que gigante chinesa usou 25 mil contas falsas para extrair dados da IA. Anthropic acusa Alibaba de roubar dados do Claude",
-      "link": "https://tecnoblog.net/noticias/anthropic-acusa-alibaba-de-roubar-dados-do-claude/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/08/marca-claude-edited-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-25T18:58:22+00:00"
     },
     {
       "id": "483f2dbca7cdce8b",
@@ -353,17 +375,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-25T18:01:48+00:00"
-    },
-    {
-      "id": "e24e12ef9468cee2",
-      "title": "Claude da Anthropic está conquistando consumidores pagos, mercado de propriedade do ChatGPT",
-      "summary": "Apesar da liderança de mercado do ChatGPT, os consumidores que pagam pela IA têm escolhido cada vez mais Claude da Anthropic, mostram os dados.",
-      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-25T17:38:27+00:00"
     },
     {
       "id": "953f6a831f2a6db5",
@@ -476,17 +487,6 @@
       "published_at": "2026-06-24T22:28:18+00:00"
     },
     {
-      "id": "85dd8b8908c3ac35",
-      "title": "Gradium lança modelos de tradução de fala em tempo real, stt-translate e s2s-translate, superando gpt-realtime-translate em precisão e latência",
-      "summary": "A Gradium lançou dois modelos de tradução de fala em tempo real, stt-translate e s2s-translate, abrangendo inglês, francês, alemão, espanhol e português em 20 pares de idiomas. O…",
-      "link": "https://www.marktechpost.com/2026/06/24/gradium-launches-stt-translate-and-s2s-translate-real-time-speech-translation-models-beating-gpt-realtime-translate-on-accuracy-and-latency/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-24T20:00:21+00:00"
-    },
-    {
       "id": "1c43f0ae6760cc61",
       "title": "Congressista nega que a equipe tenha usado IA para redigir emenda ao financiamento da defesa",
       "summary": "A deputada Anna Paulina Luna (R-FL) diz que sua equipe usou IA para \"verificação ortográfica\" em um resumo de emenda para um importante projeto de defesa, mas nega que tenha sido usado no próprio texto do projeto e diz…",
@@ -496,17 +496,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-24T19:36:46+00:00"
-    },
-    {
-      "id": "9458127bfdbb1f18",
-      "title": "Como projetar um tempo de execução de agente no estilo OpenHarness com ferramentas, memória, permissões, habilidades e coordenação multiagente",
-      "summary": "Neste tutorial, construímos um equipamento de agente no estilo OpenHarness do zero para ver como funciona um sistema de agente prático. Recriamos os principais blocos de construção: uso de ferramentas, ferramenta digitada…",
-      "link": "https://www.marktechpost.com/2026/06/24/how-to-design-an-openharness-style-agent-runtime-with-tools-memory-permissions-skills-and-multi-agent-coordination/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f510.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-24T19:08:36+00:00"
     },
     {
       "id": "5d1ac36024a1c4cf",
@@ -619,17 +608,6 @@
       "published_at": "2026-06-23T12:51:55+00:00"
     },
     {
-      "id": "eab6637d40286573",
-      "title": "Como estourar a bolha da IA: ataque pelas raízes",
-      "summary": "O autor de ficção científica/jornalista de tecnologia Cory Doctorow em seu novo livro, The Reverse Centaur's Guide to Life After AI.",
-      "link": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/cory3-500x500-1782115411.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-23T12:00:34+00:00"
-    },
-    {
       "id": "0b5b669013148f8e",
       "title": "A máquina de US$ 400 milhões que impulsiona o futuro da fabricação de chips",
       "summary": "Jos Benschop está subindo uma escada para chegar ao topo de sua mais nova máquina. É um pouco complicado. A engenhoca é do tamanho de um ônibus de dois andares – mais de 150 toneladas de…",
@@ -672,17 +650,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-06-23T00:00:00+00:00"
-    },
-    {
-      "id": "e5de597cff36bf14",
-      "title": "GM instala robôs em sua principal fábrica de EV após demitir 1.300 trabalhadores",
-      "summary": "Sindicato dos trabalhadores da indústria automobilística dos EUA alerta sobre a automação de robôs à medida que o futuro sombrio da fábrica se aproxima.",
-      "link": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GM-factory-zero-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-22T21:52:39+00:00"
     },
     {
       "id": "87c282464d6eaf83",
