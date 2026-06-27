@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-06-27T08:34:30.360733+00:00",
-  "total": 69,
+  "generated_at": "2026-06-27T13:40:28.490963+00:00",
+  "total": 78,
   "items": [
+    {
+      "id": "ec0ed2b3689ae183",
+      "title": "Por que a Apple está me pedindo para pagar mais pela obsessão da Big Tech pela IA?",
+      "summary": "Tim Cook disse recentemente que os aumentos de preços eram “inevitáveis” e descreveu os preços da empresa como “insustentáveis”. O MacBook Pro de 16 polegadas teve seu preço aumentado em US$ 300. O de 11 polegadas…",
+      "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-27T13:30:00+00:00"
+    },
+    {
+      "id": "d7c9ba16801a504a",
+      "title": "Este é o ponto cego da inteligência artificial nas empresas",
+      "summary": "Precisamos falar sobre soberania digital e segurança em tempos de IA O post Este é o ponto cego da inteligência artificial nas empresas apareceu primeiro em Olhar Digital .",
+      "link": "https://olhardigital.com.br/2026/06/27/colunistas/este-e-o-ponto-cego-da-inteligencia-artificial-nas-empresas/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-27T13:02:00+00:00"
+    },
+    {
+      "id": "4aa00fc448d1c579",
+      "title": "ChatGPT alertou autoridades sobre pai que queria matar filho no ES",
+      "summary": "OpenAI, startup desenvolvedora do ChatGPT, alertou autoridades dos EUA - que repassaram informações ao governo brasileiro O post ChatGPT alertou autoridades sobre pai que queria…",
+      "link": "https://olhardigital.com.br/2026/06/27/inteligencia-artificial/chatgpt-alertou-autoridades-sobre-pai-que-queria-matar-filho-no-es/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-27T12:17:48+00:00"
+    },
+    {
+      "id": "e6219a13550166c0",
+      "title": "Startups asiáticas de IA lançam modelos semelhantes ao Mythos à medida que a proibição de exportação da Anthropic se arrasta",
+      "summary": "Novos modelos estão sendo lançados na Ásia e prometem capacidades semelhantes às do Mythos, sem medo de uma proibição de exportação. Os laboratórios de IA dos EUA poderão nunca recuperar este enorme mercado.",
+      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-27T12:00:00+00:00"
+    },
+    {
+      "id": "e1e19b11c2ba886c",
+      "title": "O papel da IA na redução de atrito em jornadas de cobrança e atendimento",
+      "summary": "A IA surge como uma ferramenta capaz de tornar jornadas de cobrança e atendimento mais ágeis, personalizadas e centradas no cliente O post O papel da IA na redução de atrito em…",
+      "link": "https://olhardigital.com.br/2026/06/27/colunistas/o-papel-da-ia-na-reducao-de-atrito-em-jornadas-de-cobranca-e-atendimento/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-27T12:00:00+00:00"
+    },
+    {
+      "id": "393a39e68c7df242",
+      "title": "Como impedir que o ChatGPT treine IA com seus dados",
+      "summary": "Você provavelmente já fez isso sem pensar duas vezes: copiou um e-mail de trabalho para pedir ajuda na resposta, colou um contrato para resumir cláusulas, enviou uma planilha para…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-impedir-que-o-chatgpt-treine-ia-com-seus-dados/",
+      "image": "https://t.ctcdn.com.br/ZYG6Fut2RaMaLKaCUk5JQX-psxM=/700x394/smart/i1119851.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-27T11:30:00+00:00"
+    },
+    {
+      "id": "1d473eadcd76538c",
+      "title": "Astryx da Meta traz um servidor CLI e MCP para um sistema de design React de código aberto que os agentes podem ler",
+      "summary": "A Meta lançou o Astryx, um sistema de design React de código aberto construído no StyleX. Ele combina uma cascata de tema variável CSS com um servidor CLI e MCP, para que engenheiros e agentes de IA construam…",
+      "link": "https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2197.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-27T08:38:26+00:00"
+    },
     {
       "id": "da24c736e6fe3aa6",
       "title": "Trump Admin lança Anthropic Mythos para ser usado por mais de 100 empresas e agências dos EUA",
@@ -25,26 +102,26 @@
       "published_at": "2026-06-27T00:33:44+00:00"
     },
     {
-      "id": "d1efb048f3d0adbb",
-      "title": "IA auxilia pesquisadores a ler papiro carbonizado pela erupção do Vesúvio",
-      "summary": "Tecnologia de escaneamento e IA permite reconstruir digitalmente camadas internas de manuscrito romano antes ilegível O post IA auxilia pesquisadores a ler papiro carbonizado pela…",
-      "link": "https://olhardigital.com.br/2026/06/26/inteligencia-artificial/ia-auxilia-pesquisadores-a-ler-papiro-carbonizado-pela-erupcao-do-vesuvio/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/cpia-digital-do-manuscrito-de-herculano-1024x577.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-27T00:20:08+00:00"
+      "id": "34f1df2d412f0093",
+      "title": "Criando dados de ajuste fino supervisionados do NVIDIA Open-SWE-Traces: análise de trajetória, análise de patches, orçamentos de token e métricas de uso de ferramentas",
+      "summary": "Neste tutorial, trabalhamos com o conjunto de dados Open-SWE-Traces da NVIDIA para estudar trajetórias de engenharia de software de agente para ajuste fino. Transmitimos os dados diretamente do Hugging Face…",
+      "link": "https://www.marktechpost.com/2026/06/26/building-supervised-fine-tuning-data-from-nvidia-open-swe-traces-trajectory-parsing-patch-analysis-token-budgets-and-tool-use-metrics/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-27T00:02:33+00:00"
     },
     {
-      "id": "5ab3b68eac103075",
-      "title": "Após impasse regulatório, EUA liberam acesso parcial a modelo de IA da Anthropic",
-      "summary": "Decisão envolve vigilância sobre riscos de segurança nacional e limita uso a empresas e órgãos selecionados nos Estados Unidos em IA avançada O post Após impasse regulatório, EUA…",
-      "link": "https://olhardigital.com.br/2026/06/26/inteligencia-artificial/apos-impasse-regulatorio-eua-liberam-acesso-parcial-a-modelo-de-ia-da-anthropic/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/Destaque-Anthropic-Claude-Mythos-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T23:54:21+00:00"
+      "id": "6682974d54c65144",
+      "title": "Estudo do Cursor descobre que hacking de recompensa aumenta as pontuações de benchmark do agente de codificação no SWE-bench Pro",
+      "summary": "Um estudo do Cursor mostra que os agentes de codificação recuperam correções conhecidas em vez de derivá-las, aumentando as pontuações do SWE-bench Pro por meio da contaminação do tempo de execução. A postagem Estudo do Cursor Encontra Recompensa…",
+      "link": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-26T23:31:29+00:00"
     },
     {
       "id": "ba3fcf4a3167b39c",
@@ -56,17 +133,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-06-26T22:40:00+00:00"
-    },
-    {
-      "id": "8c5a87d16e57ac08",
-      "title": "Conteúdo adulto burla IA do Instagram e chega a menores, aponta Folha",
-      "summary": "Em testes com dez perfis, sete exibiram material explícito para conta cadastrada como menor de 16 anos – mesmo com todas as ferramentas de proteção ativadas O post Conteúdo adulto…",
-      "link": "https://olhardigital.com.br/2026/06/26/internet-e-redes-sociais/conteudo-adulto-burla-ia-do-instagram-e-chega-a-menores-aponta-folha/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T22:33:06+00:00"
     },
     {
       "id": "9ad3af891193d1bf",
@@ -111,6 +177,28 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-06-26T19:41:00+00:00"
+    },
+    {
+      "id": "642332390bb17e9a",
+      "title": "Perplexity lança computador para aconselhamento: uma camada agente multimodelo para fluxos de trabalho jurídicos",
+      "summary": "O Computer for Counsel da Perplexity estende o Perplexity Computer às equipes jurídicas. Ele roteia mais de 20 modelos em Midpage, conectores MCP e Microsoft 365, com resultados citados por advogados…",
+      "link": "https://www.marktechpost.com/2026/06/26/perplexity-launches-computer-for-counsel-a-multi-model-agentic-layer-for-legal-workflows/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/26a0.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-26T19:31:21+00:00"
+    },
+    {
+      "id": "33b5ffdd1d78945e",
+      "title": "OpenAI apresenta GPT-5.6 com Sol, Terra e Luna: modelos em camadas, novos modos de raciocínio, acesso limitado",
+      "summary": "A família GPT-5.6 da OpenAI adiciona modelos em camadas com raciocínio máximo e ultra. Aqui está o que os engenheiros iniciantes devem saber. A postagem OpenAI mostra GPT-5.6 com Sol, Terra e…",
+      "link": "https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-26T19:18:58+00:00"
     },
     {
       "id": "1656bcd15dacc241",
@@ -190,6 +278,28 @@
       "published_at": "2026-06-26T10:00:00+00:00"
     },
     {
+      "id": "8c110031fe85df43",
+      "title": "Conheça o contêiner: ferramenta Swift de código aberto da Apple para executar contêineres Linux como VMs leves no Apple Silicon",
+      "summary": "A Apple lançou o contêiner 1.0, uma ferramenta Swift de código aberto que executa contêineres Linux como máquinas virtuais leves no silício da Apple. O post Container Meet: código aberto da Apple…",
+      "link": "https://www.marktechpost.com/2026/06/26/meet-container-apples-open-source-swift-tool-for-running-linux-containers-as-lightweight-vms-on-apple-silicon/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-26T08:48:39+00:00"
+    },
+    {
+      "id": "383f85d5cac38e22",
+      "title": "Crie um agente de IA estilo Nanobot no Google Colab com chamada de ferramentas, memória de sessão, habilidades e servidores MCP",
+      "summary": "Neste tutorial, construímos um agente pessoal de IA leve inspirado na arquitetura do nanobot, executável inteiramente no Google Colab. Começamos com uma abstração de provedor, então…",
+      "link": "https://www.marktechpost.com/2026/06/26/build-a-nanobot-style-ai-agent-in-google-colab-with-tool-calling-session-memory-skills-and-mcp-servers/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f408.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-26T08:00:07+00:00"
+    },
+    {
       "id": "5d2de9152522b89c",
       "title": "Execute um servidor vLLM em trabalhos HF em um comando",
       "summary": "",
@@ -234,17 +344,6 @@
       "published_at": "2026-06-25T20:19:25+00:00"
     },
     {
-      "id": "5fa761beca9ae2d5",
-      "title": "O Notion Mail é encerrado em meio à aquisição do agente",
-      "summary": "A empresa disse que está descontinuando sua caixa de entrada de e-mail em favor de sua oferta de agente de IA, à medida que os usuários estão cada vez mais entregando as rédeas de seus e-mails aos agentes.",
-      "link": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-25T19:14:46+00:00"
-    },
-    {
       "id": "2dc4a2dae635b397",
       "title": "Noção de matar o aplicativo de e-mail influenciado pelo Skiff, já que a maioria dos usuários usa agentes de IA",
       "summary": "A noção é “apostar tudo no uso de agentes para administrar sua caixa de entrada”.",
@@ -276,6 +375,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-25T18:01:48+00:00"
+    },
+    {
+      "id": "953f6a831f2a6db5",
+      "title": "DeepReinforce lança Ornith-1.0: uma família de modelos de codificação de código aberto que aprende seus próprios andaimes RL",
+      "summary": "DeepReinforce lançou Ornith-1.0, uma família de modelos de codificação de código aberto construída em Gemma 4 e Qwen 3.5. Em vez de um arnês fixo, o modelo aprende seu próprio andaime durante…",
+      "link": "https://www.marktechpost.com/2026/06/25/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-25T17:11:37+00:00"
     },
     {
       "id": "6a95b493803eeb37",
@@ -375,17 +485,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-24T19:36:46+00:00"
-    },
-    {
-      "id": "5d1ac36024a1c4cf",
-      "title": "A guerra por procuração de Al de US$ 27 milhões sobre Alex Bores termina em empate",
-      "summary": "A cara guerra política por procuração de US$ 27 milhões entre a Anthropic e a OpenAI chegou ao fim na noite passada quando Alex Bores, um deputado do estado de Nova York cuja popularidade aumentou depois…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2282522212.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-24T17:25:00+00:00"
     },
     {
       "id": "ad312ce435987076",
