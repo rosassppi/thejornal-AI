@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-06-27T13:40:28.490963+00:00",
-  "total": 78,
+  "generated_at": "2026-06-27T19:19:13.283129+00:00",
+  "total": 75,
   "items": [
+    {
+      "id": "bd4103dcd79b7df2",
+      "title": "Margaret Atwood diz que o problema com a IA é ‘entra lixo, sai lixo’",
+      "summary": "Maraget Atwood, a célebre autora de The Handmaid's Tale e The Blind Assassin, foi entrevistada no âmbito do Festival Literário e Cultural Babell no Porto, Portugal. Como é…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2258417618.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-27T18:39:32+00:00"
+    },
+    {
+      "id": "9100dcc0eb5fd01b",
+      "title": "O que é harness engineering – e como ela redefine seu papel na era das IAs",
+      "summary": "A ideia central é que, em um ambiente em que agentes geram código de forma autônoma, o papel do engenheiro passa a ser construir o ambiente de controle que orienta, supervisiona e…",
+      "link": "https://olhardigital.com.br/2026/06/27/colunistas/o-que-e-harness-engineering-e-como-ela-redefine-seu-papel-na-era-das-ias/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-27T18:00:00+00:00"
+    },
+    {
+      "id": "3c50bd82847dc695",
+      "title": "DeepSeek lança DSpark, uma estrutura de decodificação especulativa que acelera a geração por usuário do DeepSeek-V4 em 60–85% em relação ao MTP-1",
+      "summary": "DSpark de código aberto do DeepSeek, uma estrutura de decodificação especulativa que anexa um módulo de rascunho aos pesos DeepSeek-V4 existentes. Ele combina um backbone de projeto paralelo com um peso leve…",
+      "link": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-27T16:59:58+00:00"
+    },
+    {
+      "id": "e99e21695232a11a",
+      "title": "O executivo do Apple Vision Pro está saindo para OpenAI",
+      "summary": "Paul Meade, vice-presidente da Apple responsável pelo headset Vision Pro, está deixando a empresa para se juntar à equipe de hardware da OpenAI.",
+      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-27T16:45:09+00:00"
+    },
+    {
+      "id": "d76837751d590cfe",
+      "title": "Gemini grátis vale a pena? Veja o que dá e o que não dá para fazer",
+      "summary": "Assistente de IA do Google, o Gemini pode ser usado gratuitamente pelo navegador, por aplicativo para celulares ou pela integração com celulares Android. Por isso, o serviço é uma…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-gratis-vale-a-pena-veja-o-que-da-e-o-que-nao-da-para-fazer/",
+      "image": "https://t.ctcdn.com.br/c92TVkOI7wQC41OlpJQENH1HJ_k=/700x394/smart/i1127127.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-27T14:30:00+00:00"
+    },
+    {
+      "id": "8d6c368cee31ac55",
+      "title": "O fundador mais apto da sala teve câncer. Veja como ele usou a IA para revidar.",
+      "summary": "Quando confrontado com o câncer, Connor Christou alimentou Claude com tudo relacionado ao seu regime – resultados de sangue, dados de varredura, resultados vestíveis, anotações de diário.",
+      "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-27T14:00:00+00:00"
+    },
     {
       "id": "ec0ed2b3689ae183",
       "title": "Por que a Apple está me pedindo para pagar mais pela obsessão da Big Tech pela IA?",
@@ -14,28 +80,6 @@
       "published_at": "2026-06-27T13:30:00+00:00"
     },
     {
-      "id": "d7c9ba16801a504a",
-      "title": "Este é o ponto cego da inteligência artificial nas empresas",
-      "summary": "Precisamos falar sobre soberania digital e segurança em tempos de IA O post Este é o ponto cego da inteligência artificial nas empresas apareceu primeiro em Olhar Digital .",
-      "link": "https://olhardigital.com.br/2026/06/27/colunistas/este-e-o-ponto-cego-da-inteligencia-artificial-nas-empresas/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-27T13:02:00+00:00"
-    },
-    {
-      "id": "4aa00fc448d1c579",
-      "title": "ChatGPT alertou autoridades sobre pai que queria matar filho no ES",
-      "summary": "OpenAI, startup desenvolvedora do ChatGPT, alertou autoridades dos EUA - que repassaram informações ao governo brasileiro O post ChatGPT alertou autoridades sobre pai que queria…",
-      "link": "https://olhardigital.com.br/2026/06/27/inteligencia-artificial/chatgpt-alertou-autoridades-sobre-pai-que-queria-matar-filho-no-es/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-27T12:17:48+00:00"
-    },
-    {
       "id": "e6219a13550166c0",
       "title": "Startups asiáticas de IA lançam modelos semelhantes ao Mythos à medida que a proibição de exportação da Anthropic se arrasta",
       "summary": "Novos modelos estão sendo lançados na Ásia e prometem capacidades semelhantes às do Mythos, sem medo de uma proibição de exportação. Os laboratórios de IA dos EUA poderão nunca recuperar este enorme mercado.",
@@ -44,17 +88,6 @@
       "source": "TechCrunch",
       "region": "mundo",
       "category": "Produtos",
-      "published_at": "2026-06-27T12:00:00+00:00"
-    },
-    {
-      "id": "e1e19b11c2ba886c",
-      "title": "O papel da IA na redução de atrito em jornadas de cobrança e atendimento",
-      "summary": "A IA surge como uma ferramenta capaz de tornar jornadas de cobrança e atendimento mais ágeis, personalizadas e centradas no cliente O post O papel da IA na redução de atrito em…",
-      "link": "https://olhardigital.com.br/2026/06/27/colunistas/o-papel-da-ia-na-reducao-de-atrito-em-jornadas-de-cobranca-e-atendimento/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
       "published_at": "2026-06-27T12:00:00+00:00"
     },
     {
@@ -155,28 +188,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-26T20:04:55+00:00"
-    },
-    {
-      "id": "1d49400702e92940",
-      "title": "Homem é preso após revelar ao ChatGPT plano de matar filho",
-      "summary": "Um homem de 36 anos foi preso em São Gabriel da Palha, no Noroeste do Espírito Santo, após planejar a morte do próprio filho de 8 anos para deixar de pagar pensão alimentícia. O…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/homem-e-preso-apos-revelar-ao-chatgpt-plano-de-matar-filho/",
-      "image": "https://t.ctcdn.com.br/acRueoy8pm4ccyyiYQ94jDappHc=/700x394/smart/i1138193.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T20:00:00+00:00"
-    },
-    {
-      "id": "d5258a79e0aa62c3",
-      "title": "OpenAI se prepara para levar o GPT-5.6 a mais países em breve",
-      "summary": "A OpenAI apresentou a prévia do GPT-5.6, seu novo modelo de fronteira, apenas a empresas dos Estados Unidos nesta sexta-feira (26). A dona do ChatGPT, por outro lado, pretende…",
-      "link": "https://canaltech.com.br/mercado/openai-se-prepara-para-levar-o-gpt-56-a-mais-paises-em-breve/",
-      "image": "https://t.ctcdn.com.br/eFsqw8IK-RmTRhZ7JYM_N-mqTj8=/700x394/smart/i1137009.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T19:41:00+00:00"
     },
     {
       "id": "642332390bb17e9a",
@@ -311,17 +322,6 @@
       "published_at": "2026-06-26T00:00:00+00:00"
     },
     {
-      "id": "3d73062a8920c1be",
-      "title": "A Casa Branca está pedindo à OpenAI que retarde o lançamento de seu novo modelo por questões de segurança",
-      "summary": "A penAI supostamente planeja compartilhar seu mais novo modelo, GPT 5.6, com um grupo seleto de parceiros, em vez de com o público em geral. A razão: a administração Trump ordenou.",
-      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-25T23:34:39+00:00"
-    },
-    {
       "id": "a9f871abc7374d61",
       "title": "OpenAI atrasará GPT-5.6 após solicitação da administração Trump",
       "summary": "A administração Trump, apreensiva com possíveis problemas de segurança, teria pedido à OpenAI para escalonar o lançamento de seu próximo modelo caro, o GPT-5.6. A informação…",
@@ -331,17 +331,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-25T21:57:06+00:00"
-    },
-    {
-      "id": "9fde553deecda35f",
-      "title": "Patronus AI consegue US$ 50 milhões para construir ‘mundos digitais’ que testam agentes de IA",
-      "summary": "A startup de testes de agentes Patronus AI, fundada por ex-pesquisadores da Meta AI, está enfrentando uma demanda quase insaciável, diz seu investidor.",
-      "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-25T20:19:25+00:00"
     },
     {
       "id": "2dc4a2dae635b397",
@@ -375,17 +364,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-25T18:01:48+00:00"
-    },
-    {
-      "id": "953f6a831f2a6db5",
-      "title": "DeepReinforce lança Ornith-1.0: uma família de modelos de codificação de código aberto que aprende seus próprios andaimes RL",
-      "summary": "DeepReinforce lançou Ornith-1.0, uma família de modelos de codificação de código aberto construída em Gemma 4 e Qwen 3.5. Em vez de um arnês fixo, o modelo aprende seu próprio andaime durante…",
-      "link": "https://www.marktechpost.com/2026/06/25/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-25T17:11:37+00:00"
     },
     {
       "id": "6a95b493803eeb37",
@@ -474,17 +452,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-24T22:28:18+00:00"
-    },
-    {
-      "id": "1c43f0ae6760cc61",
-      "title": "Congressista nega que a equipe tenha usado IA para redigir emenda ao financiamento da defesa",
-      "summary": "A deputada Anna Paulina Luna (R-FL) diz que sua equipe usou IA para \"verificação ortográfica\" em um resumo de emenda para um importante projeto de defesa, mas nega que tenha sido usado no próprio texto do projeto e diz…",
-      "link": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-24T19:36:46+00:00"
     },
     {
       "id": "ad312ce435987076",
