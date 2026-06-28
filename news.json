@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-06-28T13:44:14.285987+00:00",
+  "generated_at": "2026-06-28T19:17:57.059566+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "1b13fe6ad15a6b39",
+      "title": "Ford recontrata engenheiros de ‘barba grisalha’ depois que IA falha",
+      "summary": "\"Equivocadamente pensamos que apenas introduzindo a inteligência artificial... isso produziria um produto de alta qualidade.\"",
+      "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-28T19:05:39+00:00"
+    },
+    {
+      "id": "8108eabf5f191ba3",
+      "title": "Nova Nvidia? Conheça a fabricante de memória que é a grande aposta de Wall Street",
+      "summary": "Uma das maiores fabricantes de memória é a nova aposta do mercado para se tornar uma gigante na era da inteligência artificial O post Nova Nvidia? Conheça a fabricante de memória…",
+      "link": "https://olhardigital.com.br/2026/06/28/pro/nova-nvidia-conheca-a-fabricante-de-memoria-que-e-a-nova-grande-aposta-do-vale-do-silicio/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/memoria_ram-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-28T17:34:36+00:00"
+    },
+    {
+      "id": "2ecad164504c8801",
+      "title": "Mobilidade TechCrunch: todos os olhos voltados para Tesla FSD",
+      "summary": "Bem-vindo de volta ao TechCrunch Mobility, seu centro para o futuro dos transportes e agora, mais do que nunca, como a IA está desempenhando um papel importante.",
+      "link": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-28T16:05:00+00:00"
+    },
+    {
+      "id": "485f7258b0f9c4e6",
+      "title": "Por que Wall Street pensa que a fabricante de memórias americana Micron é a próxima Nvidia",
+      "summary": "Ansiosos por encontrar mais empresas públicas relacionadas à IA que possam ter um desempenho tão bom quanto a Nvidia, os investidores de Wall Street acham que encontraram um vencedor com a Micron.",
+      "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-28T15:00:00+00:00"
+    },
+    {
+      "id": "f1c4313296e236bf",
+      "title": "ChatGPT consegue fazer check-up do seu PC sem abrir nenhum arquivo; veja como",
+      "summary": "Caso o seu computador esteja lento ou você queira apenas conferir se está tudo certo com o PC, é possível usar o ChatGPT para fazer um check-up da máquina . Tudo isso ocorre sem…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-consegue-fazer-check-up-do-seu-pc-sem-abrir-nenhum-arquivo-veja-como/",
+      "image": "https://t.ctcdn.com.br/XEBOq4znLBtDvGS9vw30OlKA7Ik=/700x394/smart/i1119849.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-28T14:30:00+00:00"
+    },
+    {
+      "id": "d51b23efa8b8634d",
+      "title": "Os promotores usaram registros do ChatGPT como evidência no julgamento de incêndio em Palisades",
+      "summary": "Jonathan Rinderknecht estava enfrentando acusações de incêndio criminoso por atear fogo no dia de Ano Novo de 2025, que se tornou um dos incêndios florestais mais mortíferos da história de Los Angeles. Para defender o caso deles…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22530766/1232927726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-28T14:12:06+00:00"
+    },
     {
       "id": "eda7e5bd465af366",
       "title": "A IA não se tornará um verdadeiro colega de trabalho até parar de responder e começar a terminar tarefas",
@@ -925,72 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-15T18:46:08+00:00"
-    },
-    {
-      "id": "08b81d0f1eb9581b",
-      "title": "Estamos fortalecendo nossa presença no Alabama por meio de novos investimentos e apoio comunitário.",
-      "summary": "O Google anunciou um investimento de US$ 1,5 bilhão para 2026 e 2027 para expandir seu campus de data center no condado de Jackson, Alabama. Operando desde 2019 em um antigo reaproveitado…",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-      "image": null,
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-15T15:00:00+00:00"
-    },
-    {
-      "id": "d20d2186d5e0c63f",
-      "title": "Nossos novos investimentos comunitários na Virgínia apoiam empregos locais e expandem a acessibilidade energética.",
-      "summary": "Estamos ajudando a formar a próxima geração de força de trabalho do estado e investindo em programas de energia.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-11T20:00:00+00:00"
-    },
-    {
-      "id": "58357669f5a0b70f",
-      "title": "O Google DeepMind está preocupado com o que acontece quando milhões de agentes começam a interagir",
-      "summary": "O Google DeepMind está financiando pesquisas sobre os perigos potenciais de situações em que milhões de diferentes agentes de IA interagem entre si online. De acordo com Rohin Shah, que…",
-      "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-11T11:00:45+00:00"
-    },
-    {
-      "id": "d8951679a130c7d5",
-      "title": "As últimas notícias sobre IA que anunciamos em maio de 2026",
-      "summary": "Pode a IA recapitular",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-05T14:45:00+00:00"
-    },
-    {
-      "id": "bb4886b95744d7c7",
-      "title": "5 maneiras pelas quais a Pesquisa Google pode aumentar suas compras econômicas e vintage",
-      "summary": "Uma colagem colorida com textura granulada de vários itens espalhados em um fundo azul claro. Os itens incluem um chapéu verde, um cabide de madeira, um chapéu listrado azul e vermelho…",
-      "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-03T13:00:00+00:00"
-    },
-    {
-      "id": "10845ea96e172413",
-      "title": "Como usamos o Gemini para construir o Google I/O 2026",
-      "summary": "Uma colagem de imagens relacionadas ao I/O, incluindo o pop-up Antigravity Coffee Co., uma água-viva colorida e uma foto do vídeo Timmy TPU. A palavra AI se repete três vezes no…",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_IO.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-01T16:00:00+00:00"
     }
   ]
 }
