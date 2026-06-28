@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-06-28T03:40:36.838349+00:00",
+  "generated_at": "2026-06-28T08:50:09.280981+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "711415472c9be605",
+      "title": "O modelo aberto VibeThinker-3B de Sina visa mostrar que o raciocínio se comprime bem, mas o conhecimento factual não",
+      "summary": "O VibeThinker-3B do Sina Weibo tem apenas três bilhões de parâmetros, mas corresponde a modelos como DeepSeek V3.2 e Kimi K2.5 em benchmarks matemáticos e de codificação. Esses modelos são até 333 vezes…",
+      "link": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/vibe-thinker-small-reasoning-model-generated-image-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-28T07:44:41+00:00"
+    },
+    {
+      "id": "74b0f904cc3f06d8",
+      "title": "O chefe de pagamentos indiano acredita que a IA estará fortemente envolvida na próxima era de crescimento dos pagamentos digitais",
+      "summary": "Dilip Asbe disse que os aplicativos UPI mais recentes poderiam ser mais competitivos com um modelo comercial viável",
+      "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-28T05:00:00+00:00"
+    },
     {
       "id": "642e295216b221a1",
       "title": "Hora de renovar seu home office: impressoras em promoção na Amazon",
@@ -969,28 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-01-12T11:30:00+00:00"
-    },
-    {
-      "id": "fe052daa70a8c4c9",
-      "title": "O NousCoder-14B da Nous Research é um modelo de codificação de código aberto que chega bem no momento do Código Claude",
-      "summary": "Nous Research, a startup de inteligência artificial de código aberto apoiada pela empresa de risco de criptografia Paradigm, lançou um novo modelo de programação competitiva na segunda-feira que diz…",
-      "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/66Tw6dMGGoSZZOK6XB6gm6/0fafc7520898e26c88edf1de9e74e863/nuneybits_Vector_art_of_radiant_skull_emitting_code_beams_deep__17d19acc-0af7-41ad-ac28-16f09ef5234b.webp?w=300&q=30",
-      "source": "VentureBeat",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-01-07T20:00:00+00:00"
-    },
-    {
-      "id": "ca82a7731d9ae1a0",
-      "title": "Plataforma NVIDIA Rubin, modelos abertos, direção autônoma: NVIDIA apresenta projeto para o futuro na CES",
-      "summary": "O fundador e CEO da NVIDIA, Jensen Huang, subiu ao palco no Fontainebleau Las Vegas para abrir a CES 2026, declarando que a IA está se expandindo para todos os domínios e todos os dispositivos. “A informática tem…",
-      "link": "https://blogs.nvidia.com/blog/2026-ces-special-presentation/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/01/ces26-nvidialive-JL3_1386-3-1280x680-1-842x450.jpg",
-      "source": "NVIDIA AI",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-01-05T23:30:18+00:00"
     }
   ]
 }
