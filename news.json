@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-06-27T19:19:13.283129+00:00",
-  "total": 75,
+  "generated_at": "2026-06-28T03:40:36.838349+00:00",
+  "total": 90,
   "items": [
+    {
+      "id": "642e295216b221a1",
+      "title": "Hora de renovar seu home office: impressoras em promoção na Amazon",
+      "summary": "Se você está pensando em trocar a impressora ou finalmente ter uma em casa, este é um bom momento para agir. Reunimos três opções de impressoras multifuncionais em oferta na…",
+      "link": "https://olhardigital.com.br/2026/06/27/reviews/hora-de-renovar-seu-home-office-impressoras-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-27T21:51:00+00:00"
+    },
+    {
+      "id": "4a60fb6c85ff540c",
+      "title": "ChatGPT esquecendo as coisas? Conheça truque simples para resolver",
+      "summary": "Você já passou vários minutos explicando um projeto para o ChatGPT, alinhando detalhes, corrigindo respostas e definindo exatamente o que queria, apenas para perceber que a IA…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-esquecendo-as-coisas-truque-para-resolver/",
+      "image": "https://t.ctcdn.com.br/ZYG6Fut2RaMaLKaCUk5JQX-psxM=/700x394/smart/i1119851.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-27T19:30:00+00:00"
+    },
     {
       "id": "bd4103dcd79b7df2",
       "title": "Margaret Atwood diz que o problema com a IA é ‘entra lixo, sai lixo’",
@@ -25,6 +47,17 @@
       "published_at": "2026-06-27T18:00:00+00:00"
     },
     {
+      "id": "364510c761e1661d",
+      "title": "Fable 5 da Anthropic pode retornar dentro de dias, enquanto a administração Trump se prepara para suspender as restrições",
+      "summary": "O modelo de IA da Anthropic, Fable 5, poderá estar disponível novamente em alguns dias. Segundo Axios, a administração Trump está perto de suspender as restrições impostas em 12 de junho em…",
+      "link": "https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/fable_5_logo-scaled.webp",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-27T17:03:06+00:00"
+    },
+    {
       "id": "3c50bd82847dc695",
       "title": "DeepSeek lança DSpark, uma estrutura de decodificação especulativa que acelera a geração por usuário do DeepSeek-V4 em 60–85% em relação ao MTP-1",
       "summary": "DSpark de código aberto do DeepSeek, uma estrutura de decodificação especulativa que anexa um módulo de rascunho aos pesos DeepSeek-V4 existentes. Ele combina um backbone de projeto paralelo com um peso leve…",
@@ -45,6 +78,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-06-27T16:45:09+00:00"
+    },
+    {
+      "id": "036a10510abc06ea",
+      "title": "Metade dos usuários do Claude afirma que a IA já consegue lidar com metade do seu trabalho, de acordo com a pesquisa Anthropic",
+      "summary": "Cerca de metade dos usuários do Claude afirma que a IA já pode lidar com 50% ou mais de suas tarefas de trabalho, de acordo com uma pesquisa realizada pela Anthropic com cerca de 9.700 usuários. Em 12 meses, 26 por cento…",
+      "link": "https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/03/anthropic_office_work.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-27T15:28:59+00:00"
     },
     {
       "id": "d76837751d590cfe",
@@ -80,6 +124,28 @@
       "published_at": "2026-06-27T13:30:00+00:00"
     },
     {
+      "id": "bd1f60d3ade76210",
+      "title": "JP Morgan vê uma pilha de bandeiras vermelhas no mercado de IA",
+      "summary": "O JP Morgan alerta que há “sinais de exuberância dos investidores” nos mercados de IA. Apenas 42 empresas de IA no S&P 500 respondem por 65 a 80 por cento dos lucros totais do índice. O…",
+      "link": "https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/03/us_flag_wireframe.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-27T13:22:44+00:00"
+    },
+    {
+      "id": "517e3bc987512983",
+      "title": "As empresas com maior probabilidade de automatizar o seu trabalho estão agora financiando um programa de US$ 1 bilhão para retreiná-lo",
+      "summary": "A ex-secretária de Comércio dos EUA, Gina Raimondo, lançou a \"Raise Us\", uma organização sem fins lucrativos bipartidária para preparar os trabalhadores americanos para turnos de trabalho orientados pela IA. Amazon, Antrópico, Microsoft e…",
+      "link": "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/Raise-Us.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-27T12:25:21+00:00"
+    },
+    {
       "id": "e6219a13550166c0",
       "title": "Startups asiáticas de IA lançam modelos semelhantes ao Mythos à medida que a proibição de exportação da Anthropic se arrasta",
       "summary": "Novos modelos estão sendo lançados na Ásia e prometem capacidades semelhantes às do Mythos, sem medo de uma proibição de exportação. Os laboratórios de IA dos EUA poderão nunca recuperar este enorme mercado.",
@@ -102,6 +168,28 @@
       "published_at": "2026-06-27T11:30:00+00:00"
     },
     {
+      "id": "662e453524ace35b",
+      "title": "Anthropic obtém aprovação dos EUA para trazer de volta Claude Mythos 5",
+      "summary": "A Anthropic tem aprovação dos EUA para reimplantar o Claude Mythos 5 para organizações que administram infraestrutura crítica. A empresa ainda negocia acesso mais amplo e o retorno de Fable 5…",
+      "link": "https://the-decoder.com/anthropic-gets-us-approval-to-bring-back-claude-mythos-5/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/05/glasswing_mythos_cybersecurity_anthropic-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-27T09:43:39+00:00"
+    },
+    {
+      "id": "c4392ed4da6db180",
+      "title": "O novo modelo carro-chefe da OpenAI, GPT-5.6 Sol, trapaceia em testes de software mais do que qualquer modelo anterior",
+      "summary": "A organização de testes independente METR descobriu que o GPT-5.6 Sol da OpenAI trapaceou mais do que qualquer modelo de IA testado publicamente antes dele, explorando bugs no ambiente de teste, extraindo…",
+      "link": "https://the-decoder.com/gpt-5-6-sol-cheats-on-software-tests-more-than-any-model-before-it/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/metr_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-27T09:23:42+00:00"
+    },
+    {
       "id": "1d473eadcd76538c",
       "title": "Astryx da Meta traz um servidor CLI e MCP para um sistema de design React de código aberto que os agentes podem ler",
       "summary": "A Meta lançou o Astryx, um sistema de design React de código aberto construído no StyleX. Ele combina uma cascata de tema variável CSS com um servidor CLI e MCP, para que engenheiros e agentes de IA construam…",
@@ -111,6 +199,17 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-27T08:38:26+00:00"
+    },
+    {
+      "id": "322a73d0b7132c31",
+      "title": "O \"iLLaDA\" da ByteDance é um modelo de linguagem de difusão que acompanha Qwen2.5",
+      "summary": "Pesquisadores da Renmin University e da ByteDance lançaram o iLLaDA, um modelo de linguagem 8B que gera texto de forma diferente do ChatGPT. Corresponde ao Qwen2.5 no nível básico, mas…",
+      "link": "https://the-decoder.com/bytedances-illada-is-a-diffusion-language-model-that-keeps-up-with-qwen2-5/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/iLLaDA-Diffusion-LLM.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-27T07:48:29+00:00"
     },
     {
       "id": "da24c736e6fe3aa6",
@@ -179,6 +278,17 @@
       "published_at": "2026-06-26T22:19:05+00:00"
     },
     {
+      "id": "f2d6205bf2dbed70",
+      "title": "OpenAI revela prévia do GPT 5.6, que chega com acesso restrito",
+      "summary": "Nova geração inclui três modelos: Sol, Terra e Luna. Lançamento ocorre em prévia restrita a parceiros selecionados, após solicitação do governo dos Estados Unidos. OpenAI revela…",
+      "link": "https://tecnoblog.net/noticias/openai-revela-previa-do-gpt-5-6-que-chega-com-acesso-restrito/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T20:56:00+00:00"
+    },
+    {
       "id": "5eee074db3850cbb",
       "title": "NYT critica Microsoft por construir supercomputador que viola direitos autorais para OpenAI",
       "summary": "NYT altera reivindicações de direitos autorais da OpenAI/Microsoft após decisão da SCOTUS contra a Sony.",
@@ -201,6 +311,17 @@
       "published_at": "2026-06-26T19:31:21+00:00"
     },
     {
+      "id": "fad5059fe2d67f1e",
+      "title": "Notion abandona app de email e decide focar em agentes de IA",
+      "summary": "Empresa anuncia que plataforma será reformulada para manter fluxos de trabalho automatizados e manterá maior parte dos dados no Gmail. Notion abandona app de email e decide focar…",
+      "link": "https://tecnoblog.net/noticias/notion-abadona-app-de-email-e-decide-focar-em-agentes-de-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/10/notion-mail-icone-edited-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T19:22:39+00:00"
+    },
+    {
       "id": "33b5ffdd1d78945e",
       "title": "OpenAI apresenta GPT-5.6 com Sol, Terra e Luna: modelos em camadas, novos modos de raciocínio, acesso limitado",
       "summary": "A família GPT-5.6 da OpenAI adiciona modelos em camadas com raciocínio máximo e ultra. Aqui está o que os engenheiros iniciantes devem saber. A postagem OpenAI mostra GPT-5.6 com Sol, Terra e…",
@@ -221,6 +342,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-06-26T18:32:14+00:00"
+    },
+    {
+      "id": "14105357d27ac12a",
+      "title": "OpenAI lança rival de Claude Mythos, GPT-5.6 Sol, sob acesso governamental que considera insustentável",
+      "summary": "O novo carro-chefe da OpenAI, GPT-5.6 Sol, supera Claude Mythos 5 da Anthropic em benchmarks de codificação, mas o governo dos EUA está forçando uma implementação restrita. OpenAI não está feliz com isso. O…",
+      "link": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_gpt56_sol.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-26T18:30:01+00:00"
     },
     {
       "id": "29d49b9451052bc5",
@@ -265,6 +397,28 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-06-26T16:24:47+00:00"
+    },
+    {
+      "id": "a82ef5d64a22c33e",
+      "title": "Google lança app com IA para administrar investimentos",
+      "summary": "Google Finanças ganhou um app que permite importar carteira via PDF, criar alertas e entender variações do mercado. Novidade chega primeiro para Android. Google lança app com IA…",
+      "link": "https://tecnoblog.net/noticias/google-lanca-app-com-ia-para-administrar-investimentos/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/google_finance_blog_image_june_2-width-1600-format-webp-340x191.webp",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T16:03:02+00:00"
+    },
+    {
+      "id": "089c7979a47bfea7",
+      "title": "OpenAI deve adiar o GPT-5.6 após pedido de Donald Trump",
+      "summary": "Novo modelo de IA ficará inicialmente restrito a poucos clientes corporativos, que serão aprovados pelo governo dos Estados Unidos. OpenAI deve adiar o GPT-5.6 após pedido de…",
+      "link": "https://tecnoblog.net/noticias/openai-deve-adiar-o-gpt-5-6-apos-pedido-de-donald-trump/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/capa-tbr-sam-altman-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-26T14:49:44+00:00"
     },
     {
       "id": "c7cc10cac3fff633",
@@ -826,6 +980,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-01-07T20:00:00+00:00"
+    },
+    {
+      "id": "ca82a7731d9ae1a0",
+      "title": "Plataforma NVIDIA Rubin, modelos abertos, direção autônoma: NVIDIA apresenta projeto para o futuro na CES",
+      "summary": "O fundador e CEO da NVIDIA, Jensen Huang, subiu ao palco no Fontainebleau Las Vegas para abrir a CES 2026, declarando que a IA está se expandindo para todos os domínios e todos os dispositivos. “A informática tem…",
+      "link": "https://blogs.nvidia.com/blog/2026-ces-special-presentation/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/01/ces26-nvidialive-JL3_1386-3-1280x680-1-842x450.jpg",
+      "source": "NVIDIA AI",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-01-05T23:30:18+00:00"
     }
   ]
 }
