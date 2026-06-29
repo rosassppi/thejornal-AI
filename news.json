@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-06-29T03:45:50.894263+00:00",
+  "generated_at": "2026-06-29T10:56:45.137772+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "61f5ae90c025a4d0",
+      "title": "Conheça EverOS: um tempo de execução de memória de agente Markdown-First de código aberto com BM25 híbrido + recuperação de vetores e habilidades de autoevolução",
+      "summary": "EverMind tem EverOS de código aberto, um tempo de execução de memória local que armazena a memória do agente de IA como Markdown simples indexado por SQLite e LanceDB. Combina híbrido BM25 + vetor…",
+      "link": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-29T10:42:47+00:00"
+    },
+    {
+      "id": "1dc5b8ee15c4d69a",
+      "title": "Claude Code executa malware oculto de um repositório GitHub sem verificação, dando aos invasores controle total",
+      "summary": "Pesquisadores de segurança da plataforma 0DIN da Mozilla mostraram como um único repositório GitHub comprometido pode assumir o controle da máquina de um desenvolvedor no momento em que uma ferramenta de codificação de IA como Claude Code…",
+      "link": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/ai_prompt_injection.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-29T10:04:32+00:00"
+    },
+    {
+      "id": "33d057e83c074553",
+      "title": "Deepfakes, bets e golpes: os riscos digitais da Copa do Mundo",
+      "summary": "Especialista explica como a inteligência artificial, as apostas online e a desinformação estão impulsionando uma nova geração de golpes Ouça ao podcast.",
+      "link": "https://canaltech.com.br/podcast/podcast-canaltech/deepfakes-bets-e-golpes-os-riscos-digitais-da-copa-do-mundo-6585/",
+      "image": "https://t.ctcdn.com.br/0XxZgCpIKrxJH1H1_6gY9LbH-cc=/700x394/smart/i1138253.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-29T09:00:00+00:00"
+    },
+    {
+      "id": "f06f44319f0d598d",
+      "title": "Samsung e SK Hynix planejam investimento de US$ 590 bilhões em chips à medida que a demanda por IA aumenta os preços das memórias",
+      "summary": "A Samsung e a SK Hynix, apoiadas pelo governo sul-coreano, estão investindo US$ 590 bilhões em novas fábricas de chips e centros de embalagem à medida que a demanda por data centers de IA aumenta. De acordo com…",
+      "link": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/memory_hbm.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-29T08:17:41+00:00"
+    },
+    {
+      "id": "247324a6d137edef",
+      "title": "Mapeando as oportunidades da força de trabalho em IA na Europa",
+      "summary": "Um novo relatório da OpenAI mapeia a forma como a IA pode remodelar os empregos em toda a UE, destacando quais as profissões que podem enfrentar alterações na automatização, no crescimento ou nos fluxos de trabalho.",
+      "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-29T07:00:00+00:00"
+    },
     {
       "id": "946d307c203886f8",
       "title": "Z.ai da China afirma que pode se igualar ao Mythos em segurança cibernética",
@@ -936,61 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-06-23T00:00:00+00:00"
-    },
-    {
-      "id": "b0d7df1028b033f7",
-      "title": "Envio huggingface_hub todas as semanas com IA, ferramentas abertas e um ser humano informado",
-      "summary": "",
-      "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-23T00:00:00+00:00"
-    },
-    {
-      "id": "2e297cf400e7d42e",
-      "title": "Experimentando a API de armazenamento de origem cruzada proposta em Transformers.js",
-      "summary": "",
-      "link": "https://huggingface.co/blog/cross-origin-storage",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-23T00:00:00+00:00"
-    },
-    {
-      "id": "87c282464d6eaf83",
-      "title": "Três coisas para observar em meio à última rivalidade da Anthropic com o governo",
-      "summary": "Esta história apareceu originalmente em The Algorithm, nosso boletim informativo semanal sobre IA. Para receber histórias como essa em sua caixa de entrada primeiro, inscreva-se aqui. Para você que está aproveitando o verão...",
-      "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-22T18:00:00+00:00"
-    },
-    {
-      "id": "b497f30634e434d9",
-      "title": "PP-OCRv6 no rosto que abraça: OCR de 50 idiomas de parâmetros de 1,5M a 34,5M",
-      "summary": "",
-      "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-22T13:18:56+00:00"
-    },
-    {
-      "id": "3696e67c2c9e8aaa",
-      "title": "Patch the Planet: uma iniciativa Daybreak para apoiar mantenedores de código aberto",
-      "summary": "OpenAI apresenta Patch the Planet, uma iniciativa Daybreak que ajuda mantenedores de código aberto a encontrar, validar e corrigir vulnerabilidades com IA e revisão especializada.",
-      "link": "https://openai.com/index/patch-the-planet",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-22T10:00:00+00:00"
     }
   ]
 }
