@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-06-28T19:17:57.059566+00:00",
+  "generated_at": "2026-06-29T03:45:50.894263+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "946d307c203886f8",
+      "title": "Z.ai da China afirma que pode se igualar ao Mythos em segurança cibernética",
+      "summary": "A Zhipu AI (Z.ai) da China lançou seu GLM-5.2 de peso aberto, e alguns pesquisadores afirmaram que ele corresponde ao Mythos em certos cenários de detecção de bugs e segurança cibernética. Enquanto GLM…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-28T21:42:51+00:00"
+    },
+    {
+      "id": "7b4deb3553ed2540",
+      "title": "Hora de imprimir mais e gastar menos: veja ofertas de impressoras na Amazon",
+      "summary": "Se você está pensando em renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções em promoção na Amazon — todas multifuncionais…",
+      "link": "https://olhardigital.com.br/2026/06/28/reviews/hora-de-imprimir-mais-e-gastar-menos-veja-ofertas-de-impressoras-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-28T21:11:00+00:00"
+    },
+    {
+      "id": "13b1053481f6a8a0",
+      "title": "Suno lança programa de incubadora Spark para alimentar artistas independentes em sua máquina de IA",
+      "summary": "Suno tem ambições de ser mais do que apenas um brinquedo para produzir lixo de IA, ele também quer ser um destino de streaming e revelar novos artistas. Spark é seu novo programa de incubadora para…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-28T20:27:36+00:00"
+    },
     {
       "id": "1b13fe6ad15a6b39",
       "title": "Ford recontrata engenheiros de ‘barba grisalha’ depois que IA falha",
@@ -23,6 +56,28 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-06-28T17:34:36+00:00"
+    },
+    {
+      "id": "5f8ae94d3d52ae74",
+      "title": "HP Inc. lança parceria estratégica Frontier com OpenAI",
+      "summary": "amplia sua parceria OpenAI Frontier para implantar IA em experiências de clientes, desenvolvimento de software e operações empresariais.",
+      "link": "https://openai.com/index/hp-frontier-partnership",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-28T17:00:00+00:00"
+    },
+    {
+      "id": "22cacedcd4a11576",
+      "title": "Tutorial OCRmyPDF: Converta documentos digitalizados em arquivos PDF/A pesquisáveis ​​com extração de texto lateral e processamento em lote",
+      "summary": "Neste tutorial, construímos um pipeline OCRmyPDF completo e independente em Python. Geramos PDFs somente com imagens sintéticas para que possamos testar o OCR sem arquivos externos e depois converter…",
+      "link": "https://www.marktechpost.com/2026/06/28/ocrmypdf-tutorial-convert-scanned-documents-into-searchable-pdf-a-files-with-sidecar-text-extraction-and-batch-processing/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-28T16:47:50+00:00"
     },
     {
       "id": "2ecad164504c8801",
@@ -936,61 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-06-22T10:00:00+00:00"
-    },
-    {
-      "id": "b63e5cb33bb0ec81",
-      "title": "Daybreak: Ferramentas para proteger todas as organizações do mundo",
-      "summary": "OpenAI apresenta novas ferramentas Daybreak, incluindo Codex Security e GPT-5.5-Cyber, para ajudar as organizações a encontrar, validar e corrigir vulnerabilidades em escala.",
-      "link": "https://openai.com/index/daybreak-securing-the-world",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-22T10:00:00+00:00"
-    },
-    {
-      "id": "bd056869a29bf635",
-      "title": "Uma startup afirma que rompeu um gargalo que está impedindo os LLMs",
-      "summary": "A startup de IA com sede em Miami, Subquadratic, saiu do modo furtivo no mês passado com uma grande reivindicação. Anunciou que havia resolvido um gargalo matemático que estava impedindo…",
-      "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-19T10:40:24+00:00"
-    },
-    {
-      "id": "866972b9be74b221",
-      "title": "Uma nova investigação mostra como a AMIE, a nossa IA médica, pode ajudar a gerir as condições de saúde.",
-      "summary": "A pesquisa na “Nature” mostra que nosso sistema de IA conversacional combina com os médicos de atenção primária no gerenciamento de doenças complexas.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-17T15:00:00+00:00"
-    },
-    {
-      "id": "6194c5e85918ac96",
-      "title": "Quer colocar um data center online rapidamente? Dê um pouco de flexibilidade.",
-      "summary": "No final de um primeiro tempo tenso e sem gols de uma partida de futebol entre a seleção masculina inglesa e a rival Alemanha, milhões de britânicos soltaram um suspiro coletivo e fizeram o que queriam…",
-      "link": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/26-05-27-MIT-TECH-01-Interior-1-FIN-cmyk_1.jpg?w=1425",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-16T09:00:00+00:00"
-    },
-    {
-      "id": "03dd6b7bca3abc23",
-      "title": "Por que os sul-coreanos amam tanto a IA?",
-      "summary": "Esta história apareceu originalmente em The Algorithm, nosso boletim informativo semanal sobre IA. Para receber histórias como essa em sua caixa de entrada primeiro, inscreva-se aqui. Quando cheguei em Seul depois de uma viagem cansativa…",
-      "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-15T18:46:08+00:00"
     }
   ]
 }
