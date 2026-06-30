@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-06-30T09:33:05.867465+00:00",
+  "generated_at": "2026-06-30T14:16:32.590359+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "2ea416aada1c6fd6",
+      "title": "Lumo, o chatbot de IA com foco na privacidade da Proton, recebe uma atualização",
+      "summary": "O Lumo 2.0 da Proton será lançado esta semana, oferecendo aos usuários uma variedade mais ampla de recursos.",
+      "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-30T14:00:00+00:00"
+    },
+    {
+      "id": "29e96f6b0b367467",
+      "title": "Gemini libera de graça super-recurso de geração de imagens que antes era pago",
+      "summary": "A geração personalizada de imagens no Gemini deixou de ser exclusividade de assinantes pagos. O Google anunciou nesta segunda-feira (29) que a função está disponível gratuitamente…",
+      "link": "https://canaltech.com.br/apps/gemini-libera-de-graca-super-recurso-de-geracao-de-imagens-que-antes-era-pago/",
+      "image": "https://t.ctcdn.com.br/xJsYmUSfVb47gNGY9_wAC1H0BII=/700x394/smart/i1135135.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-30T14:00:00+00:00"
+    },
+    {
+      "id": "b5f7a43830a59cb9",
+      "title": "LG Dual Inverter AI Voice vence prêmio Canaltech com inteligência e economia",
+      "summary": "O ar-condicionado LG DUAL Inverter Voice foi reconhecido na 9ª edição do Prêmio Canaltech como “Campeã de Vendas do Magalu” em 2025¹ . O selo reforça não apenas a popularidade dos…",
+      "link": "https://canaltech.com.br/eletro/lg-dual-inverter-ai-voice-vence-premio-canaltech-com-inteligencia-e-economia/",
+      "image": "https://t.ctcdn.com.br/FCb6k96iIrsciVNgKFZyMM6BRAY=/700x394/smart/i1133795.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-30T13:36:00+00:00"
+    },
+    {
+      "id": "b513cf129b4e6087",
+      "title": "Nova IA criptografada da Proton supera o Claude em teste interno",
+      "summary": "A Proton revelou a versão 2.0 do Lumo , seu assistente de inteligência artificial (IA) criptografado, nesta terça-feira (30). Além de incrementar a performance do modelo , a…",
+      "link": "https://canaltech.com.br/apps/nova-ia-criptografada-da-proton-supera-claude-em-teste-interno/",
+      "image": "https://t.ctcdn.com.br/pooGYGtNc8admjJ-BoRuGVVL0Ak=/700x394/smart/i1031955.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-30T13:14:00+00:00"
+    },
+    {
+      "id": "c0af1b04c8cee919",
+      "title": "OpenAI anuncia novo hardware para programação",
+      "summary": "Acessório criado em parceria com a Work Louder deve facilitar o uso do Codex. Produto será lançado em 15 de julho. OpenAI anuncia novo hardware para programação",
+      "link": "https://tecnoblog.net/noticias/openai-anuncia-novo-hardware-para-programacao/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/openai-1-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-30T12:41:47+00:00"
+    },
+    {
+      "id": "26e884fd2bcff753",
+      "title": "As campanhas dos EUA agora são baseadas em IA em quase todas as etapas, e a Europa está traçando uma linha mais dura",
+      "summary": "As campanhas republicanas e democratas agora são baseadas em IA em quase todas as etapas, desde a verificação dos oponentes até a micro-direcionamento dos eleitores, de acordo com uma reportagem do New York Times. Mas a tecnologia…",
+      "link": "https://the-decoder.com/us-campaigns-now-run-on-ai-at-nearly-every-step-and-europe-is-drawing-a-harder-line/",
+      "image": "https://the-decoder.com/wp-content/uploads/2024/11/us_election_chatgpt.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-30T12:36:40+00:00"
+    },
+    {
+      "id": "23fd0580adbbf945",
+      "title": "Agora você pode ter o agente de IA mais falado do momento no seu celular",
+      "summary": "OpenClaw lança apps com IA agentic para iOS e Android que acessam funções do celular e levantam debates sobre segurança e autonomia O post Agora você pode ter o agente de IA mais…",
+      "link": "https://olhardigital.com.br/2026/06/30/inteligencia-artificial/agora-voce-pode-ter-o-agente-de-ia-mais-falado-do-momento-no-seu-celular/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/shutterstock_2734645363-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-30T12:27:25+00:00"
+    },
+    {
+      "id": "96becef356974918",
+      "title": "Como é o \"olho mágico\" da BYD que promete evitar acidentes com pets e crianças",
+      "summary": "A BYD deu mais um passo para tentar revolucionar a segurança automotiva A gigante chinesa registrou na China uma patente inovadora, que consiste em um sistema que usa inteligência…",
+      "link": "https://canaltech.com.br/carros/como-e-o-olho-magico-da-byd-que-promete-evitar-acidentes-com-pets-e-criancas/",
+      "image": "https://t.ctcdn.com.br/bvgxWL-DWd7UsGlNtcIalceXtEc=/700x394/smart/i1138625.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-30T12:05:00+00:00"
+    },
+    {
+      "id": "a7ac400f51a38c30",
+      "title": "Conheça o advogado que venceu Elon Musk – duas vezes",
+      "summary": "Assistir Elon Musk fulminar Bill Savitt durante Musk v. Altman - o caso em que Musk processou Sam Altman e OpenAI em vez de consultar um terapeuta sobre suas falhas de IA - foi um…",
+      "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268607_An_interview_with_William_Savitt_Elon_Musks_courtroom_nemesis_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-30T12:00:00+00:00"
+    },
+    {
+      "id": "33f454e5c47a33f2",
+      "title": "A agricultura está pronta para a IA, mas os seus dados não",
+      "summary": "A inteligência artificial está a transformar o que é possível na agricultura, mas os líderes da indústria devem ter cuidado ao investir em IA sem antes estabelecerem as bases. Os casos de uso…",
+      "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Reltio-iStock-2279127589.jpg?w=2309",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-30T12:00:00+00:00"
+    },
+    {
+      "id": "c830c4a73c977b83",
+      "title": "Meta testou secretamente ChatGPT, Gemini e Character.AI com milhares de avisos de crise de perspectiva menor",
+      "summary": "Meta supostamente fez com que centenas de empreiteiros se passassem por menores e enviassem avisos relacionados a suicídio, sexo e drogas para chatbots da OpenAI, Google e Character.AI. Em um único teste…",
+      "link": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/meta_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-30T11:14:52+00:00"
+    },
+    {
+      "id": "6126bf9483e7bfdf",
+      "title": "Quem vai pagar o pedágio da IA corporativa?",
+      "summary": "*Por James Barroso A inteligência artificial deixou de ser apenas uma agenda de experimentação. Depois de um ciclo marcado por pilotos, testes com IA generativa e discussões sobre…",
+      "link": "https://canaltech.com.br/colunas/quem-vai-pagar-o-pedagio-da-ia-corporativa/",
+      "image": "https://t.ctcdn.com.br/GLxNIT6kCnjMj-SjWx-6rjtp4eo=/700x394/smart/i526608.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-30T11:00:00+00:00"
+    },
+    {
+      "id": "a846143e360b217f",
+      "title": "Taiwan invade escritórios da Super Micro em investigação sobre contrabando de chips Nvidia para a China",
+      "summary": "As autoridades de Taiwan invadiram os escritórios da Super Micro Computer e de várias empresas parceiras locais. O artigo Taiwan invade escritórios da Super Micro em investigação sobre chip Nvidia…",
+      "link": "https://the-decoder.com/taiwan-raids-super-micro-offices-in-probe-over-nvidia-chip-smuggling-to-china/",
+      "image": "https://the-decoder.com/wp-content/uploads/2024/09/ai_chip_china_illustration.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-30T09:43:41+00:00"
+    },
     {
       "id": "2783ddb1c4c5abed",
       "title": "Troca de criptografia OKX quer que agentes de IA contratem e paguem uns aos outros",
@@ -23,6 +166,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-30T08:28:02+00:00"
+    },
+    {
+      "id": "a2746100df518ea1",
+      "title": "Meta AI lança Brain2Qwerty v2: um pipeline MEG não invasivo de decodificação de frases digitadas com 61% de precisão de palavras",
+      "summary": "Meta AI lança Brain2Qwerty v2, um pipeline MEG não invasivo de cérebro para texto que atinge 61% de precisão de palavras com código de treinamento aberto. A postagem Meta AI lança Brain2Qwerty v2: A…",
+      "link": "https://www.marktechpost.com/2026/06/30/meta-ai-releases-brain2qwerty-v2-a-non-invasive-meg-brain-to-text-pipeline-decoding-typed-sentences-at-61-word-accuracy/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-30T08:13:41+00:00"
     },
     {
       "id": "2987e3b3c79a3a0a",
@@ -102,6 +256,28 @@
       "published_at": "2026-06-30T00:05:00+00:00"
     },
     {
+      "id": "326b5d51b877e9cf",
+      "title": "Apresentando todos os resultados de avaliação nas páginas de modelos de rostos abraçados",
+      "summary": "",
+      "link": "https://huggingface.co/blog/eee-community-evals",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-30T00:00:00+00:00"
+    },
+    {
+      "id": "9845f6fdd8c81ba5",
+      "title": "OpenClaw lança aplicativos de nó complementar para iOS e Android que conectam um telefone a um gateway de agente de IA auto-hospedado",
+      "summary": "Os aplicativos iOS e Android do OpenClaw são nós complementares, não chatbots independentes. Cada telefone é emparelhado com um gateway auto-hospedado via WebSocket. Isso adiciona hardware ao dispositivo – câmera…",
+      "link": "https://www.marktechpost.com/2026/06/29/openclaw-releases-ios-and-android-companion-node-apps-that-connect-a-phone-to-a-self-hosted-ai-agent-gateway/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-29T23:41:29+00:00"
+    },
+    {
       "id": "f782fc3c86488288",
       "title": "Google 'corta as asas' da Meta e raciona uso do Gemini por Mark Zuckerberg",
       "summary": "A crise de infraestrutura no setor de inteligência artificial atingiu diretamente a operação de duas das maiores empresas de tecnologia do mundo. De acordo com informações…",
@@ -133,6 +309,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-06-29T21:37:48+00:00"
+    },
+    {
+      "id": "c148ca1210e0a460",
+      "title": "Fluxo de trabalho de implementação do PyGraphistry para pipelines de inteligência de gráficos interativos em análise de segurança e investigação de riscos",
+      "summary": "Construímos um fluxo de trabalho PyGraphistry pronto para Colab para análise gráfica interativa em dados de acesso corporativo. Geramos um conjunto de dados sintético de usuários, dispositivos, IPs, serviços, funções…",
+      "link": "https://www.marktechpost.com/2026/06/29/pygraphistry-implementation-workflow-for-interactive-graph-intelligence-pipelines-in-security-analytics-and-risk-investigation/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2b50.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-29T21:34:42+00:00"
     },
     {
       "id": "0c22bcce83de4978",
@@ -553,6 +740,17 @@
       "published_at": "2026-06-29T07:00:00+00:00"
     },
     {
+      "id": "f41a09c48d5a19d3",
+      "title": "As 6 principais ferramentas sem código para engenheiros/desenvolvedores de IA",
+      "summary": "No mundo atual orientado pela IA, as ferramentas sem código estão transformando a forma como as pessoas criam e implantam aplicativos inteligentes. Eles capacitam qualquer pessoa, independentemente da experiência em codificação, a construir…",
+      "link": "https://www.marktechpost.com/2026/06/28/top-6-no-code-tools-for-ai-engineers-developers/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-29T03:20:00+00:00"
+    },
+    {
       "id": "946d307c203886f8",
       "title": "Z.ai da China afirma que pode se igualar ao Mythos em segurança cibernética",
       "summary": "A Zhipu AI (Z.ai) da China lançou seu GLM-5.2 de peso aberto, e alguns pesquisadores afirmaram que ele corresponde ao Mythos em certos cenários de detecção de bugs e segurança cibernética. Enquanto GLM…",
@@ -793,204 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-06-27T19:30:00+00:00"
-    },
-    {
-      "id": "bd4103dcd79b7df2",
-      "title": "Margaret Atwood diz que o problema com a IA é ‘entra lixo, sai lixo’",
-      "summary": "Maraget Atwood, a célebre autora de The Handmaid's Tale e The Blind Assassin, foi entrevistada no âmbito do Festival Literário e Cultural Babell no Porto, Portugal. Como é…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2258417618.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-27T18:39:32+00:00"
-    },
-    {
-      "id": "9100dcc0eb5fd01b",
-      "title": "O que é harness engineering – e como ela redefine seu papel na era das IAs",
-      "summary": "A ideia central é que, em um ambiente em que agentes geram código de forma autônoma, o papel do engenheiro passa a ser construir o ambiente de controle que orienta, supervisiona e…",
-      "link": "https://olhardigital.com.br/2026/06/27/colunistas/o-que-e-harness-engineering-e-como-ela-redefine-seu-papel-na-era-das-ias/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-27T18:00:00+00:00"
-    },
-    {
-      "id": "364510c761e1661d",
-      "title": "Fable 5 da Anthropic pode retornar dentro de dias, enquanto a administração Trump se prepara para suspender as restrições",
-      "summary": "O modelo de IA da Anthropic, Fable 5, poderá estar disponível novamente em alguns dias. Segundo Axios, a administração Trump está perto de suspender as restrições impostas em 12 de junho em…",
-      "link": "https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/fable_5_logo-scaled.webp",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-27T17:03:06+00:00"
-    },
-    {
-      "id": "3c50bd82847dc695",
-      "title": "DeepSeek lança DSpark, uma estrutura de decodificação especulativa que acelera a geração por usuário do DeepSeek-V4 em 60–85% em relação ao MTP-1",
-      "summary": "DSpark de código aberto do DeepSeek, uma estrutura de decodificação especulativa que anexa um módulo de rascunho aos pesos DeepSeek-V4 existentes. Ele combina um backbone de projeto paralelo com um peso leve…",
-      "link": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-27T16:59:58+00:00"
-    },
-    {
-      "id": "e99e21695232a11a",
-      "title": "O executivo do Apple Vision Pro está saindo para OpenAI",
-      "summary": "Paul Meade, vice-presidente da Apple responsável pelo headset Vision Pro, está deixando a empresa para se juntar à equipe de hardware da OpenAI.",
-      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-27T16:45:09+00:00"
-    },
-    {
-      "id": "036a10510abc06ea",
-      "title": "Metade dos usuários do Claude afirma que a IA já consegue lidar com metade do seu trabalho, de acordo com a pesquisa Anthropic",
-      "summary": "Cerca de metade dos usuários do Claude afirma que a IA já pode lidar com 50% ou mais de suas tarefas de trabalho, de acordo com uma pesquisa realizada pela Anthropic com cerca de 9.700 usuários. Em 12 meses, 26 por cento…",
-      "link": "https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/03/anthropic_office_work.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-27T15:28:59+00:00"
-    },
-    {
-      "id": "d76837751d590cfe",
-      "title": "Gemini grátis vale a pena? Veja o que dá e o que não dá para fazer",
-      "summary": "Assistente de IA do Google, o Gemini pode ser usado gratuitamente pelo navegador, por aplicativo para celulares ou pela integração com celulares Android. Por isso, o serviço é uma…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-gratis-vale-a-pena-veja-o-que-da-e-o-que-nao-da-para-fazer/",
-      "image": "https://t.ctcdn.com.br/c92TVkOI7wQC41OlpJQENH1HJ_k=/700x394/smart/i1127127.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-27T14:30:00+00:00"
-    },
-    {
-      "id": "8d6c368cee31ac55",
-      "title": "O fundador mais apto da sala teve câncer. Veja como ele usou a IA para revidar.",
-      "summary": "Quando confrontado com o câncer, Connor Christou alimentou Claude com tudo relacionado ao seu regime – resultados de sangue, dados de varredura, resultados vestíveis, anotações de diário.",
-      "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-27T14:00:00+00:00"
-    },
-    {
-      "id": "ec0ed2b3689ae183",
-      "title": "Por que a Apple está me pedindo para pagar mais pela obsessão da Big Tech pela IA?",
-      "summary": "Tim Cook disse recentemente que os aumentos de preços eram “inevitáveis” e descreveu os preços da empresa como “insustentáveis”. O MacBook Pro de 16 polegadas teve seu preço aumentado em US$ 300. O de 11 polegadas…",
-      "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-27T13:30:00+00:00"
-    },
-    {
-      "id": "bd1f60d3ade76210",
-      "title": "JP Morgan vê uma pilha de bandeiras vermelhas no mercado de IA",
-      "summary": "O JP Morgan alerta que há “sinais de exuberância dos investidores” nos mercados de IA. Apenas 42 empresas de IA no S&P 500 respondem por 65 a 80 por cento dos lucros totais do índice. O…",
-      "link": "https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/03/us_flag_wireframe.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-27T13:22:44+00:00"
-    },
-    {
-      "id": "517e3bc987512983",
-      "title": "As empresas com maior probabilidade de automatizar o seu trabalho estão agora financiando um programa de US$ 1 bilhão para retreiná-lo",
-      "summary": "A ex-secretária de Comércio dos EUA, Gina Raimondo, lançou a \"Raise Us\", uma organização sem fins lucrativos bipartidária para preparar os trabalhadores americanos para turnos de trabalho orientados pela IA. Amazon, Antrópico, Microsoft e…",
-      "link": "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/Raise-Us.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-27T12:25:21+00:00"
-    },
-    {
-      "id": "e6219a13550166c0",
-      "title": "Startups asiáticas de IA lançam modelos semelhantes ao Mythos à medida que a proibição de exportação da Anthropic se arrasta",
-      "summary": "Novos modelos estão sendo lançados na Ásia e prometem capacidades semelhantes às do Mythos, sem medo de uma proibição de exportação. Os laboratórios de IA dos EUA poderão nunca recuperar este enorme mercado.",
-      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-27T12:00:00+00:00"
-    },
-    {
-      "id": "393a39e68c7df242",
-      "title": "Como impedir que o ChatGPT treine IA com seus dados",
-      "summary": "Você provavelmente já fez isso sem pensar duas vezes: copiou um e-mail de trabalho para pedir ajuda na resposta, colou um contrato para resumir cláusulas, enviou uma planilha para…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-impedir-que-o-chatgpt-treine-ia-com-seus-dados/",
-      "image": "https://t.ctcdn.com.br/ZYG6Fut2RaMaLKaCUk5JQX-psxM=/700x394/smart/i1119851.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-27T11:30:00+00:00"
-    },
-    {
-      "id": "662e453524ace35b",
-      "title": "Anthropic obtém aprovação dos EUA para trazer de volta Claude Mythos 5",
-      "summary": "A Anthropic tem aprovação dos EUA para reimplantar o Claude Mythos 5 para organizações que administram infraestrutura crítica. A empresa ainda negocia acesso mais amplo e o retorno de Fable 5…",
-      "link": "https://the-decoder.com/anthropic-gets-us-approval-to-bring-back-claude-mythos-5/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/05/glasswing_mythos_cybersecurity_anthropic-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-27T09:43:39+00:00"
-    },
-    {
-      "id": "c4392ed4da6db180",
-      "title": "O novo modelo carro-chefe da OpenAI, GPT-5.6 Sol, trapaceia em testes de software mais do que qualquer modelo anterior",
-      "summary": "A organização de testes independente METR descobriu que o GPT-5.6 Sol da OpenAI trapaceou mais do que qualquer modelo de IA testado publicamente antes dele, explorando bugs no ambiente de teste, extraindo…",
-      "link": "https://the-decoder.com/gpt-5-6-sol-cheats-on-software-tests-more-than-any-model-before-it/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/metr_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-27T09:23:42+00:00"
-    },
-    {
-      "id": "1d473eadcd76538c",
-      "title": "Astryx da Meta traz um servidor CLI e MCP para um sistema de design React de código aberto que os agentes podem ler",
-      "summary": "A Meta lançou o Astryx, um sistema de design React de código aberto construído no StyleX. Ele combina uma cascata de tema variável CSS com um servidor CLI e MCP, para que engenheiros e agentes de IA construam…",
-      "link": "https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2197.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-27T08:38:26+00:00"
-    },
-    {
-      "id": "322a73d0b7132c31",
-      "title": "O \"iLLaDA\" da ByteDance é um modelo de linguagem de difusão que acompanha Qwen2.5",
-      "summary": "Pesquisadores da Renmin University e da ByteDance lançaram o iLLaDA, um modelo de linguagem 8B que gera texto de forma diferente do ChatGPT. Corresponde ao Qwen2.5 no nível básico, mas…",
-      "link": "https://the-decoder.com/bytedances-illada-is-a-diffusion-language-model-that-keeps-up-with-qwen2-5/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/iLLaDA-Diffusion-LLM.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-27T07:48:29+00:00"
-    },
-    {
-      "id": "da24c736e6fe3aa6",
-      "title": "Trump Admin lança Anthropic Mythos para ser usado por mais de 100 empresas e agências dos EUA",
-      "summary": "Mais de 100 empresas e agências governamentais estão autorizadas a usar o Mythos 5, incluindo seus funcionários não americanos.",
-      "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-27T01:01:37+00:00"
     }
   ]
 }
