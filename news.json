@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-06-29T19:56:13.167638+00:00",
+  "generated_at": "2026-06-30T03:33:02.844704+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "559a10d0dfda2d93",
+      "title": "A plataforma de codificação Vibe Base44 lança modelo próprio enquanto startups de IA buscam defensabilidade",
+      "summary": "A plataforma de codificação de vibração Base44, de propriedade do Wix, começou a lançar seu próprio modelo de IA – com a esperança de que eventualmente superará os modelos de fronteira.",
+      "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-30T02:28:41+00:00"
+    },
+    {
+      "id": "aa18060c9602a174",
+      "title": "“Nariz eletrônico” detecta comida estragada e alerta sobre alergênicos com ajuda de IA",
+      "summary": "Dispositivo experimental usa sensores químicos e aprendizado de máquina para transformar odores em dados e antecipar riscos alimentares em casa O post “Nariz eletrônico” detecta…",
+      "link": "https://olhardigital.com.br/2026/06/29/ciencia-e-espaco/nariz-eletronico-detecta-comida-estragada-e-alerta-sobre-alergenicos-com-ajuda-de-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/criadora-do-nariz-eletronico-1024x585.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-30T01:12:03+00:00"
+    },
+    {
+      "id": "04eb60a87213fdc0",
+      "title": "Coreia do Sul investe mais de US$ 900 bilhões em chips e IA para disputar liderança global no mercado tech",
+      "summary": "Plano sul-coreano reúne gigantes como Samsung e SK Hynix em expansão industrial que mira suprir demanda global de memória para IA até 2035 O post Coreia do Sul investe mais de US$…",
+      "link": "https://olhardigital.com.br/2026/06/29/inteligencia-artificial/coreia-do-sul-investe-mais-de-us-900-bilhoes-em-chips-e-ia-para-disputar-lideranca-global-no-mercado-tech/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/10/chip-coreia-do-sul-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-30T00:33:46+00:00"
+    },
+    {
+      "id": "a1f737751d678058",
+      "title": "OpenAI prepara teclado programável para controlar a ferramenta Codex",
+      "summary": "Dispositivo da OpenAI para o Codex traz painel físico com botões programáveis para acionar funções de programação com um toque O post OpenAI prepara teclado programável para…",
+      "link": "https://olhardigital.com.br/2026/06/29/reviews/openai-prepara-teclado-programavel-para-controlar-a-ferramenta-codex/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/openai-codex-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-30T00:16:58+00:00"
+    },
+    {
+      "id": "41a2a2c867d635f3",
+      "title": "Novo recurso do Gemini quer mudar jeito que você baixa apps no celular",
+      "summary": "O Google começou a liberar uma nova integração entre o Gemini e a Google Play Store que permite pesquisar aplicativos usando comandos de texto . Com a novidade, os usuários podem…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/novo-recurso-do-gemini-quer-mudar-jeito-que-voce-baixa-apps-no-celular/",
+      "image": "https://t.ctcdn.com.br/COAAXu7xv1ADZu-rb9iEaPxnf50=/700x394/smart/i1138491.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-30T00:05:00+00:00"
+    },
+    {
+      "id": "f782fc3c86488288",
+      "title": "Google 'corta as asas' da Meta e raciona uso do Gemini por Mark Zuckerberg",
+      "summary": "A crise de infraestrutura no setor de inteligência artificial atingiu diretamente a operação de duas das maiores empresas de tecnologia do mundo. De acordo com informações…",
+      "link": "https://canaltech.com.br/mercado/google-corta-as-asas-da-meta-e-raciona-uso-do-gemini-por-mark-zuckerberg/",
+      "image": "https://t.ctcdn.com.br/4gNXR3hw2PwhIdHCgEcqo9TATgI=/700x394/smart/i1138519.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-29T23:05:00+00:00"
+    },
+    {
+      "id": "831f4eb9f5af92b1",
+      "title": "Meta usou contas falsas de menores para testar chatbots rivais com prompts sobre suicídio e drogas, diz site",
+      "summary": "Projeto interno chamado \"Cannes\" instruiu centenas de contratados a se passar por adolescentes e enviar perguntas de alto risco ao ChatGPT, Gemini e Character.AI O post Meta usou…",
+      "link": "https://olhardigital.com.br/2026/06/29/inteligencia-artificial/meta-usou-contas-falsas-de-menores-para-testar-chatbots-rivais-com-prompts-sobre-suicidio-e-drogas-diz-wired/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-29T23:00:42+00:00"
+    },
+    {
+      "id": "69c9729765a68fd8",
+      "title": "Galaxy Watch 8 LTE (44 mm) surge com desconto agressivo no Magazine Luiza",
+      "summary": "Aproveite a chance de ter o Galaxy Watch 8 LTE com tela Super AMOLED brilhante, conexão 4G e IA integrada. Use o cupom SONOAPP100 pelo aplicativo e garanta 63% de desconto Galaxy…",
+      "link": "https://tecnoblog.net/achados/galaxy-watch-8-lte-44-mm-surge-com-desconto-agressivo-no-magazine-luiza/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/ukunaxh68o-11.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-29T21:37:48+00:00"
+    },
+    {
+      "id": "0c22bcce83de4978",
+      "title": "Coreia do Sul gastará US$ 1 trilhão em mais produção de chips de memória e robôs humanóides",
+      "summary": "A Coreia do Sul tem como alvo robôs humanóides comerciais e líderes de IA físicos até 2028.",
+      "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-4.36.13-PM-500x500.png",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-29T21:09:43+00:00"
+    },
+    {
+      "id": "392b2fac8b63845f",
+      "title": "Chamath Palihapitiya arrecada US$ 135 milhões na Série A para sua startup de codificação de IA e assume o cargo de CEO",
+      "summary": "Os VCs continuam sedentos por financiar startups de codificação de IA. Este, fundado pelo investidor Chamath Palihapitiya, não foge à regra.",
+      "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-29T20:55:50+00:00"
+    },
+    {
+      "id": "e21df0133831be8f",
+      "title": "A geração de imagens de IA personalizadas do Gemini agora é gratuita para usuários dos EUA",
+      "summary": "O Google está expandindo a geração de imagens de IA personalizadas do Gemini para usuários gratuitos qualificados nos EUA, permitindo que o chatbot crie imagens com base em seus interesses e dados de…",
+      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-29T20:12:59+00:00"
+    },
+    {
+      "id": "5ac66c2fcff9528d",
+      "title": "Melhor smartwatch em 2026: 10 modelos para comprar",
+      "summary": "Lista reúne os melhores relógios inteligentes para comprar no Brasil; veja smartwatches para monitorar a saúde, registrar exercícios e ler mensagens longe do celular Melhor…",
+      "link": "https://tecnoblog.net/guias/melhor-smartwatch/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/galaxy-watch-ultra-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-06-29T19:58:02+00:00"
+    },
     {
       "id": "024d61b386342a9f",
       "title": "O Tidal não pagará royalties sobre músicas geradas por IA, mas não as banirá completamente",
@@ -859,138 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-06-26T22:40:00+00:00"
-    },
-    {
-      "id": "9ad3af891193d1bf",
-      "title": "Coreia do Sul planeja treinar militares inteiros como “guerreiros drones”",
-      "summary": "Meio milhão de militares treinarão em drones como “ferramenta de combate universal”.",
-      "link": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1244261698-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-26T22:19:05+00:00"
-    },
-    {
-      "id": "f2d6205bf2dbed70",
-      "title": "OpenAI revela prévia do GPT 5.6, que chega com acesso restrito",
-      "summary": "Nova geração inclui três modelos: Sol, Terra e Luna. Lançamento ocorre em prévia restrita a parceiros selecionados, após solicitação do governo dos Estados Unidos. OpenAI revela…",
-      "link": "https://tecnoblog.net/noticias/openai-revela-previa-do-gpt-5-6-que-chega-com-acesso-restrito/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T20:56:00+00:00"
-    },
-    {
-      "id": "5eee074db3850cbb",
-      "title": "NYT critica Microsoft por construir supercomputador que viola direitos autorais para OpenAI",
-      "summary": "NYT altera reivindicações de direitos autorais da OpenAI/Microsoft após decisão da SCOTUS contra a Sony.",
-      "link": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2235233117-500x500-1782501951.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-26T20:04:55+00:00"
-    },
-    {
-      "id": "642332390bb17e9a",
-      "title": "Perplexity lança computador para aconselhamento: uma camada agente multimodelo para fluxos de trabalho jurídicos",
-      "summary": "O Computer for Counsel da Perplexity estende o Perplexity Computer às equipes jurídicas. Ele roteia mais de 20 modelos em Midpage, conectores MCP e Microsoft 365, com resultados citados por advogados…",
-      "link": "https://www.marktechpost.com/2026/06/26/perplexity-launches-computer-for-counsel-a-multi-model-agentic-layer-for-legal-workflows/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/26a0.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-26T19:31:21+00:00"
-    },
-    {
-      "id": "fad5059fe2d67f1e",
-      "title": "Notion abandona app de email e decide focar em agentes de IA",
-      "summary": "Empresa anuncia que plataforma será reformulada para manter fluxos de trabalho automatizados e manterá maior parte dos dados no Gmail. Notion abandona app de email e decide focar…",
-      "link": "https://tecnoblog.net/noticias/notion-abadona-app-de-email-e-decide-focar-em-agentes-de-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/10/notion-mail-icone-edited-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T19:22:39+00:00"
-    },
-    {
-      "id": "33b5ffdd1d78945e",
-      "title": "OpenAI apresenta GPT-5.6 com Sol, Terra e Luna: modelos em camadas, novos modos de raciocínio, acesso limitado",
-      "summary": "A família GPT-5.6 da OpenAI adiciona modelos em camadas com raciocínio máximo e ultra. Aqui está o que os engenheiros iniciantes devem saber. A postagem OpenAI mostra GPT-5.6 com Sol, Terra e…",
-      "link": "https://www.marktechpost.com/2026/06/26/openai-previews-gpt-5-6-with-sol-terra-and-luna-tiered-models-new-reasoning-modes-limited-access/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-26T19:18:58+00:00"
-    },
-    {
-      "id": "1656bcd15dacc241",
-      "title": "OpenAI limita a implementação do GPT-5.6 após solicitação do governo, diz que restrições não deveriam ser a norma",
-      "summary": "“Não acreditamos que este tipo de processo de acesso governamental deva se tornar o padrão de longo prazo”, diz OpenAI. “Ele mantém as melhores ferramentas de usuários, desenvolvedores, empresas, cibernéticos…",
-      "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-26T18:32:14+00:00"
-    },
-    {
-      "id": "14105357d27ac12a",
-      "title": "OpenAI lança rival de Claude Mythos, GPT-5.6 Sol, sob acesso governamental que considera insustentável",
-      "summary": "O novo carro-chefe da OpenAI, GPT-5.6 Sol, supera Claude Mythos 5 da Anthropic em benchmarks de codificação, mas o governo dos EUA está forçando uma implementação restrita. OpenAI não está feliz com isso. O…",
-      "link": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_gpt56_sol.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-26T18:30:01+00:00"
-    },
-    {
-      "id": "29d49b9451052bc5",
-      "title": "OpenAI contrata chefe do Uber Índia para liderar seu maior mercado fora dos EUA",
-      "summary": "A contratação marca o mais recente avanço da OpenAI na Índia, expandindo escritórios, parcerias e contratações.",
-      "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-26T18:19:36+00:00"
-    },
-    {
-      "id": "22860fcb0315498a",
-      "title": "Por que todos, da OpenAI à SpaceX, estão construindo seus próprios chips (e aumentando a pressão sobre a Nvidia)",
-      "summary": "A Nvidia domina o mercado de chips de IA há anos, mas a era de dependência total pode estar terminando. OpenAI acaba de compartilhar seus planos para apimentar as coisas com Jalapeño, seu costume…",
-      "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-26T17:43:22+00:00"
-    },
-    {
-      "id": "7ec59b6a76d611d1",
-      "title": "OpenAI revela GPT-5.6 em meio ao drama regulatório de IA dos EUA",
-      "summary": "Menos de 24 horas após a notícia de que a OpenAI iria escalonar o lançamento de seu próximo modelo a pedido da administração Trump, esse modelo, GPT-5.6, está aqui. Na sexta-feira, o…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-26T17:00:00+00:00"
-    },
-    {
-      "id": "e11467610a30053e",
-      "title": "Não se trata mais de Anthropic vs. OpenAI",
-      "summary": "Os modelos de IA progrediram ao ponto em que as suas capacidades têm consequências políticas reais. Lidar com essas consequências exigirá ação coletiva.",
-      "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-26T16:24:47+00:00"
     }
   ]
 }
