@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-06-30T03:33:02.844704+00:00",
+  "generated_at": "2026-06-30T09:33:05.867465+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "2783ddb1c4c5abed",
+      "title": "Troca de criptografia OKX quer que agentes de IA contratem e paguem uns aos outros",
+      "summary": "A OKX está reunindo pagamentos, identidade e reputação em um mercado para agentes de IA.",
+      "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-30T09:00:00+00:00"
+    },
+    {
+      "id": "c0a7d25e1e931766",
+      "title": "O DSpark da Deepseek aumenta a velocidade da IA ​​em até 85 por cento, uma vitória estratégica sob o aperto dos controles de exportação dos EUA",
+      "summary": "A nova estrutura DSpark da Deepseek aumenta a velocidade de resposta por usuário em 60 a 85 por cento. Um modelo pequeno propõe candidatos a tokens que o modelo maior verifica em lotes, comprimindo mais…",
+      "link": "https://the-decoder.com/deepseeks-dspark-boosts-ai-speed-by-up-to-85-percent-a-strategic-win-under-tightening-us-export-controls/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/deepseek_red_whale.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-06-30T08:28:02+00:00"
+    },
+    {
+      "id": "2987e3b3c79a3a0a",
+      "title": "Desbloqueando a próxima era de produtividade da Grã-Bretanha: Construindo uma nação de pioneiros em IA",
+      "summary": "Quatro personagens ilustrados representando diferentes funções profissionais, incluindo cientista, técnico, explorador e observador.",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-06-30T06:00:00+00:00"
+    },
+    {
+      "id": "e24933b652505592",
+      "title": "O debate sobre empregos de IA ficou ainda mais confuso",
+      "summary": "Um novo relatório descobriu que “adotadores de IA de alta intensidade” viram o número de funcionários aumentar 10,2%. Entre essas empresas, o número de funcionários iniciantes aumentou 12%, contrariando a retórica de que a IA mata…",
+      "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-06-30T04:01:00+00:00"
+    },
     {
       "id": "559a10d0dfda2d93",
       "title": "A plataforma de codificação Vibe Base44 lança modelo próprio enquanto startups de IA buscam defensabilidade",
@@ -947,50 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-06-27T01:01:37+00:00"
-    },
-    {
-      "id": "9cafba394397a09a",
-      "title": "Mythos 5 da Antrópico está de volta",
-      "summary": "Depois de um processo de negociação de montanha-russa com a administração Trump que se arrastou por duas semanas, o Mythos 5 da Anthropic está finalmente de volta à ação - pelo menos, um pouco, por um…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-27T00:33:44+00:00"
-    },
-    {
-      "id": "34f1df2d412f0093",
-      "title": "Criando dados de ajuste fino supervisionados do NVIDIA Open-SWE-Traces: análise de trajetória, análise de patches, orçamentos de token e métricas de uso de ferramentas",
-      "summary": "Neste tutorial, trabalhamos com o conjunto de dados Open-SWE-Traces da NVIDIA para estudar trajetórias de engenharia de software de agente para ajuste fino. Transmitimos os dados diretamente do Hugging Face…",
-      "link": "https://www.marktechpost.com/2026/06/26/building-supervised-fine-tuning-data-from-nvidia-open-swe-traces-trajectory-parsing-patch-analysis-token-budgets-and-tool-use-metrics/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-27T00:02:33+00:00"
-    },
-    {
-      "id": "6682974d54c65144",
-      "title": "Estudo do Cursor descobre que hacking de recompensa aumenta as pontuações de benchmark do agente de codificação no SWE-bench Pro",
-      "summary": "Um estudo do Cursor mostra que os agentes de codificação recuperam correções conhecidas em vez de derivá-las, aumentando as pontuações do SWE-bench Pro por meio da contaminação do tempo de execução. A postagem Estudo do Cursor Encontra Recompensa…",
-      "link": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-26T23:31:29+00:00"
-    },
-    {
-      "id": "ba3fcf4a3167b39c",
-      "title": "Como entrar no acesso antecipado da Alexa+ no Brasil?",
-      "summary": "A Alexa+ é a versão da assistente da Amazon integrada com IA generativa, o que permite conversas mais longas e “memória” para lembrar preferências de cada indivíduo. O serviço foi…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-entrar-no-acesso-antecipado-da-alexa-no-brasil/",
-      "image": "https://t.ctcdn.com.br/a-wcwFrH_TN91Ju6CTf8i0pJoik=/700x394/smart/i1135617.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-26T22:40:00+00:00"
     }
   ]
 }
