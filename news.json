@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-07-01T03:42:06.568563+00:00",
+  "generated_at": "2026-07-01T09:43:24.907449+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "8c40a1431db23979",
+      "title": "Homem preso após conversa com IA: o que realmente aconteceu",
+      "summary": "Especialista explica por que chatbots não devem substituir senso crítico, relações humanas ou decisões pessoais importantes Ouça ao podcast.",
+      "link": "https://canaltech.com.br/podcast/podcast-canaltech/homem-preso-apos-conversa-com-ia-o-que-realmente-aconteceu-6591/",
+      "image": "https://t.ctcdn.com.br/E9jPsJNHwCb0u57P8nMtRCHf1-8=/700x394/smart/i1138907.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-01T09:00:00+00:00"
+    },
+    {
+      "id": "960801c117b356ce",
+      "title": "NVIDIA lança Nemotron-Labs-TwoTower: um modelo de linguagem de difusão de peso aberto construído em um backbone Nemotron-3-Nano-30B-A3B autoregressivo congelado",
+      "summary": "A NVIDIA lançou o Nemotron-Labs-TwoTower, um modelo de linguagem de difusão construído em um backbone autorregressivo pré-treinado. Ele é enviado como peso aberto sob o modelo aberto NVIDIA Nemotron…",
+      "link": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-01T08:10:17+00:00"
+    },
+    {
+      "id": "d6f28375d21210eb",
+      "title": "Google AI apresenta TabFM: um modelo de base tabular de atenção híbrida para classificação e regressão Zero-Shot",
+      "summary": "O Google Research lançou o TabFM, um modelo básico para dados tabulares. Ele realiza classificação e regressão zero-shot por meio de aprendizagem no contexto. As previsões vêm de um ...",
+      "link": "https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-01T07:48:59+00:00"
+    },
+    {
+      "id": "3211c51ee54864d1",
+      "title": "Fable 5 da Anthropic está de volta ao mundo após uma proibição governamental de duas semanas devido a uma fuga de presos",
+      "summary": "Após uma proibição de duas semanas, o governo dos EUA está permitindo que a Anthropic envie Fable 5 globalmente novamente. Os pesquisadores da Amazon encontraram um jailbreak, mas a Anthropic diz que modelos ainda muito menores…",
+      "link": "https://the-decoder.com/anthropics-fable-5-is-back-worldwide-after-a-two-week-government-ban-over-a-jailbreak/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_logoreihe.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-01T07:40:29+00:00"
+    },
+    {
+      "id": "8f2c47564aa6e7f8",
+      "title": "CUP (Common Useful Python): Construindo Fluxos de Trabalho Python Confiáveis ​​com o Kit de Ferramentas Utilitárias do Baidu",
+      "summary": "Neste tutorial, exploramos CUP, a biblioteca Common Useful Python do Baidu, como um kit de ferramentas utilitário prático para fluxos de trabalho Python mais fortes. Nós o instalamos em um ambiente amigável ao Colab…",
+      "link": "https://www.marktechpost.com/2026/06/30/cup-common-useful-python-building-reliable-python-workflows-with-baidus-utility-toolkit/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-01T06:03:21+00:00"
+    },
     {
       "id": "5926ae6482dd8f3f",
       "title": "Trump retira restrições aos modelos Mythos e Fable da Anthropic",
@@ -102,6 +157,17 @@
       "published_at": "2026-06-30T23:18:22+00:00"
     },
     {
+      "id": "78a3e8a019cf85ca",
+      "title": "Os aplicativos iMessage da Linq trazem pagamentos, passagens, voos e jogos para o balão do iMessage por meio da parte imessage_app",
+      "summary": "Linq lança aplicativos iMessage: cartões imessage_app interativos que executam pagamentos, passagens, voos e jogos dentro do thread do iMessage para agentes. A postagem Aplicativos iMessage do Linq…",
+      "link": "https://www.marktechpost.com/2026/06/30/linqs-imessage-apps/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-30T22:17:56+00:00"
+    },
+    {
       "id": "319975cb5f1ba629",
       "title": "Claude Science é o mais novo carro-chefe da Anthropic",
       "summary": "Em um evento para executivos farmacêuticos, fundadores de biotecnologia e pesquisadores na terça-feira, a Anthropic anunciou Claude Science, um novo produto importante destinado a apoiar a ciência…",
@@ -111,6 +177,17 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-06-30T21:50:04+00:00"
+    },
+    {
+      "id": "d6957ba73f058704",
+      "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Benchmarks de codificação Agentic, preços de API e compensações custo-desempenho comparados",
+      "summary": "Claude Sonnet 5 da Anthropic reduz a lacuna para o Opus 4.8 na codificação de agente, a preços de token Sonnet mais baratos. O post Antrópico Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic…",
+      "link": "https://www.marktechpost.com/2026/06/30/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-30-at-2.15.57-PM-1-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-06-30T21:37:40+00:00"
     },
     {
       "id": "e9459f72e24368d1",
@@ -914,83 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-29T21:09:43+00:00"
-    },
-    {
-      "id": "392b2fac8b63845f",
-      "title": "Chamath Palihapitiya arrecada US$ 135 milhões na Série A para sua startup de codificação de IA e assume o cargo de CEO",
-      "summary": "Os VCs continuam sedentos por financiar startups de codificação de IA. Este, fundado pelo investidor Chamath Palihapitiya, não foge à regra.",
-      "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-29T20:55:50+00:00"
-    },
-    {
-      "id": "e21df0133831be8f",
-      "title": "A geração de imagens de IA personalizadas do Gemini agora é gratuita para usuários dos EUA",
-      "summary": "O Google está expandindo a geração de imagens de IA personalizadas do Gemini para usuários gratuitos qualificados nos EUA, permitindo que o chatbot crie imagens com base em seus interesses e dados de…",
-      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-29T20:12:59+00:00"
-    },
-    {
-      "id": "5ac66c2fcff9528d",
-      "title": "Melhor smartwatch em 2026: 10 modelos para comprar",
-      "summary": "Lista reúne os melhores relógios inteligentes para comprar no Brasil; veja smartwatches para monitorar a saúde, registrar exercícios e ler mensagens longe do celular Melhor…",
-      "link": "https://tecnoblog.net/guias/melhor-smartwatch/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/galaxy-watch-ultra-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-29T19:58:02+00:00"
-    },
-    {
-      "id": "024d61b386342a9f",
-      "title": "O Tidal não pagará royalties sobre músicas geradas por IA, mas não as banirá completamente",
-      "summary": "O Tidal compartilhou hoje suas novas políticas em relação à música gerada por IA e como a plataforma planeja “proteger os artistas” e “informar os ouvintes”. Em vez de proibi-lo completamente, começar…",
-      "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-29T19:47:35+00:00"
-    },
-    {
-      "id": "631504f325c702ba",
-      "title": "Hora de imprimir com economia: impressoras em promoção na Amazon",
-      "summary": "Se você está precisando de uma impressora nova ou quer trocar aquela antiga por um modelo mais econômico, este é o momento certo. Reunimos três ótimas opções de impressoras…",
-      "link": "https://olhardigital.com.br/2026/06/29/reviews/hora-de-imprimir-com-economia-impressoras-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-29T19:34:00+00:00"
-    },
-    {
-      "id": "3ad39b9d26d5a25e",
-      "title": "NVIDIA BioNeMo Agent Toolkit transforma modelos biomoleculares em habilidades utilizáveis ​​para agentes de IA na descoberta de medicamentos",
-      "summary": "O BioNeMo Agent Toolkit de código aberto da NVIDIA transforma modelos biomoleculares como OpenFold3, DiffDock e GenMol em habilidades documentadas e exigíveis para agentes de IA. Cada habilidade descreve um…",
-      "link": "https://www.marktechpost.com/2026/06/29/nvidia-bionemo-agent-toolkit-turns-biomolecular-models-into-callable-skills-for-ai-agents-in-drug-discovery/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-29T19:06:47+00:00"
-    },
-    {
-      "id": "5362c5ea222cc1e3",
-      "title": "Google limita acesso da Meta ao Gemini após excesso de uso",
-      "summary": "Google teria limitado o uso do Gemini pela Meta após excesso de demanda por IA, revelando pressão crescente na infraestrutura das big techs O post Google limita acesso da Meta ao…",
-      "link": "https://olhardigital.com.br/2026/06/29/inteligencia-artificial/google-limita-acesso-da-meta-ao-gemini-apos-excesso-de-uso/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/Destaque-Google-Gemini-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-29T19:05:23+00:00"
     }
   ]
 }
