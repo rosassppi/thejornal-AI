@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-07-01T09:43:24.907449+00:00",
+  "generated_at": "2026-07-01T14:32:33.469348+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "f9391c7e278f7efe",
+      "title": "Venice AI se torna um unicórnio com US$ 65 milhões da Série A à medida que sua plataforma de IA com foco na privacidade decola",
+      "summary": "A Venice AI já é lucrativa, com receitas anuais de mais de US$ 70 milhões, disse o CEO Erik Voorhees.",
+      "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-01T14:25:23+00:00"
+    },
+    {
+      "id": "84ff4d52cf276e95",
+      "title": "Gemini Spark, assistente de agente do Google, agora está disponível no Mac",
+      "summary": "O assistente de agência 24 horas por dia, 7 dias por semana do Google, Gemini Spark, chega ao Mac junto com outras melhorias, como rastreamento em tempo real e suporte para mais aplicativos.",
+      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-01T14:20:19+00:00"
+    },
+    {
+      "id": "86fbbbea4c1a5e96",
+      "title": "Samsung Neo QLED com IA: confira uma seleção de TVs em promoção na Amazon",
+      "summary": "Se você está de olho em uma TV de alta qualidade, esta é uma boa hora para agir. A Amazon está com três modelos da linha Samsung Vision AI Neo QLED 4K em oferta — TVs lançadas em…",
+      "link": "https://olhardigital.com.br/2026/07/01/reviews/samsung-neo-qled-com-ia-confira-uma-selecao-de-tvs-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/41BopBIghwL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-01T14:00:00+00:00"
+    },
+    {
+      "id": "cde7cb6aebd302d1",
+      "title": "Chatbots podem ter consciência? Big techs investigam",
+      "summary": "Google, Meta e Anthropic investigam se chatbots podem ter consciência ou emoções, levantando um debate ético no avanço da inteligência artificial O post Chatbots podem ter…",
+      "link": "https://olhardigital.com.br/2026/07/01/inteligencia-artificial/chatbots-podem-ter-consciencia-big-techs-investigam/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/emocao-ia-1024x572.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-01T13:52:11+00:00"
+    },
+    {
+      "id": "6fcb01f9e95e7d01",
+      "title": "Meta, como a SpaceX, busca transformar o excesso de computação de IA em dinheiro",
+      "summary": "A Meta está desenvolvendo planos para um negócio de infraestrutura em nuvem, vendendo acesso a modelos e poder de computação de IA. A mudança o colocaria contra grandes provedores de nuvem como a Amazon Web…",
+      "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-01T13:43:07+00:00"
+    },
+    {
+      "id": "4599d92aeeefcc07",
+      "title": "Óculos inteligente da Samsung vazou: veja tudo que ele vai fazer",
+      "summary": "O mercado de wearables deve ganhar um novo protagonista em breve com os óculos inteligentes da Samsung . Um vazamento recente indica que a empresa está preparando um ecossistema…",
+      "link": "https://canaltech.com.br/produtos/oculos-inteligente-da-samsung-vazou-veja-tudo-que-ele-vai-fazer/",
+      "image": "https://t.ctcdn.com.br/onIbhgQRvjZbu2HexmOxtTb6RA8=/700x394/smart/i1139157.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-01T13:28:19+00:00"
+    },
+    {
+      "id": "8758a3867b508218",
+      "title": "Português é o 3º idioma mais usado no ChatGPT",
+      "summary": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/portugues-e-o-3o-idioma-mais-usado-no-chatgpt/",
+      "image": "https://t.ctcdn.com.br/elWRGd7DozFcUzbnLeKmr45Ecyw=/700x394/smart/i1137007.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-01T12:27:36+00:00"
+    },
+    {
+      "id": "c0eba1d2af64fc49",
+      "title": "O Google construiu um ótimo alto-falante inteligente, mas Gemini não está pronto para isso",
+      "summary": "Os alto-falantes inteligentes passaram os últimos anos em busca de um segundo ato atraente. Além da música, dos temporizadores e do controle das luzes, eles têm lutado para justificar a ocupação de espaço…",
+      "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-01T12:00:00+00:00"
+    },
+    {
+      "id": "9657a75b7f3bd225",
+      "title": "Código oculto no Claude Code sinalizou secretamente usuários chineses",
+      "summary": "A Anthropic está removendo um recurso de monitoramento oculto de sua ferramenta de programação, Claude Code, depois que gerou indignação nas redes sociais. O artigo Código oculto no Código Claude secretamente…",
+      "link": "https://the-decoder.com/hidden-code-in-claude-code-secretly-flagged-chinese-users/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/11/prompt_injections_claude.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-01T11:27:06+00:00"
+    },
+    {
+      "id": "599fa4d7191dedc3",
+      "title": "Claude Sonnet 5 continua o padrão da Anthropic de ocultar aumentos de preços atrás de taxas simbólicas inalteradas",
+      "summary": "Claude Sonnet 5 ocupa o quinto lugar no Índice de Inteligência de Análise Artificial com 53 pontos e até vence o mais caro Opus 4.8 em algumas tarefas baseadas em agentes. Mas a modelo mastiga…",
+      "link": "https://the-decoder.com/claude-sonnet-5-continues-anthropics-pattern-of-hiding-price-increases-behind-unchanged-token-rates/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/fable_5_anthropic_money-scaled.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-01T11:12:09+00:00"
+    },
+    {
+      "id": "895865295058ba11",
+      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
+      "summary": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
+      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-01T11:00:00+00:00"
+    },
+    {
+      "id": "b5d15a91cf093632",
+      "title": "O artigo genômico da OpenAI revela acidentalmente uma linha Pro que ainda não foi anunciada",
+      "summary": "Um documento de benchmark OpenAI sugere que o nível Pro do GPT-5.6 poderia ser fornecido em três variantes. Essa seria a primeira grande mudança na estrutura do ChatGPT Pro desde o plano…",
+      "link": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_gpt56_sol.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-01T10:03:41+00:00"
+    },
     {
       "id": "8c40a1431db23979",
       "title": "Homem preso após conversa com IA: o que realmente aconteceu",
@@ -859,138 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-06-30T00:33:46+00:00"
-    },
-    {
-      "id": "a1f737751d678058",
-      "title": "OpenAI prepara teclado programável para controlar a ferramenta Codex",
-      "summary": "Dispositivo da OpenAI para o Codex traz painel físico com botões programáveis para acionar funções de programação com um toque O post OpenAI prepara teclado programável para…",
-      "link": "https://olhardigital.com.br/2026/06/29/reviews/openai-prepara-teclado-programavel-para-controlar-a-ferramenta-codex/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/openai-codex-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-30T00:16:58+00:00"
-    },
-    {
-      "id": "41a2a2c867d635f3",
-      "title": "Novo recurso do Gemini quer mudar jeito que você baixa apps no celular",
-      "summary": "O Google começou a liberar uma nova integração entre o Gemini e a Google Play Store que permite pesquisar aplicativos usando comandos de texto . Com a novidade, os usuários podem…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/novo-recurso-do-gemini-quer-mudar-jeito-que-voce-baixa-apps-no-celular/",
-      "image": "https://t.ctcdn.com.br/COAAXu7xv1ADZu-rb9iEaPxnf50=/700x394/smart/i1138491.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-30T00:05:00+00:00"
-    },
-    {
-      "id": "0b8dc2473cab870c",
-      "title": "Apresentando GeneBench-Pro",
-      "summary": "Apresentando o GeneBench-Pro, um novo benchmark que testa o desempenho da IA ​​em genômica, biologia e pesquisa científica usando conjuntos de dados complexos do mundo real.",
-      "link": "https://openai.com/index/introducing-genebench-pro",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-30T00:00:00+00:00"
-    },
-    {
-      "id": "f1f7d4f8001b4288",
-      "title": "Epidemiologia do core dump: corrigindo um bug de 18 anos",
-      "summary": "Os engenheiros da OpenAI usaram análises de core dump em grande escala para depurar falhas raras de infraestrutura, descobrindo tanto uma falha de hardware quanto um bug de software de longa data.",
-      "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-30T00:00:00+00:00"
-    },
-    {
-      "id": "617f45738c65d6ba",
-      "title": "Por dentro do Genebench-Pro",
-      "summary": "",
-      "link": "https://openai.com/index/genebench-pro/case-studies",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-30T00:00:00+00:00"
-    },
-    {
-      "id": "326b5d51b877e9cf",
-      "title": "Apresentando todos os resultados de avaliação nas páginas de modelos de rostos abraçados",
-      "summary": "",
-      "link": "https://huggingface.co/blog/eee-community-evals",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-30T00:00:00+00:00"
-    },
-    {
-      "id": "9845f6fdd8c81ba5",
-      "title": "OpenClaw lança aplicativos de nó complementar para iOS e Android que conectam um telefone a um gateway de agente de IA auto-hospedado",
-      "summary": "Os aplicativos iOS e Android do OpenClaw são nós complementares, não chatbots independentes. Cada telefone é emparelhado com um gateway auto-hospedado via WebSocket. Isso adiciona hardware ao dispositivo – câmera…",
-      "link": "https://www.marktechpost.com/2026/06/29/openclaw-releases-ios-and-android-companion-node-apps-that-connect-a-phone-to-a-self-hosted-ai-agent-gateway/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-29T23:41:29+00:00"
-    },
-    {
-      "id": "f782fc3c86488288",
-      "title": "Google 'corta as asas' da Meta e raciona uso do Gemini por Mark Zuckerberg",
-      "summary": "A crise de infraestrutura no setor de inteligência artificial atingiu diretamente a operação de duas das maiores empresas de tecnologia do mundo. De acordo com informações…",
-      "link": "https://canaltech.com.br/mercado/google-corta-as-asas-da-meta-e-raciona-uso-do-gemini-por-mark-zuckerberg/",
-      "image": "https://t.ctcdn.com.br/4gNXR3hw2PwhIdHCgEcqo9TATgI=/700x394/smart/i1138519.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-29T23:05:00+00:00"
-    },
-    {
-      "id": "831f4eb9f5af92b1",
-      "title": "Meta usou contas falsas de menores para testar chatbots rivais com prompts sobre suicídio e drogas, diz site",
-      "summary": "Projeto interno chamado \"Cannes\" instruiu centenas de contratados a se passar por adolescentes e enviar perguntas de alto risco ao ChatGPT, Gemini e Character.AI O post Meta usou…",
-      "link": "https://olhardigital.com.br/2026/06/29/inteligencia-artificial/meta-usou-contas-falsas-de-menores-para-testar-chatbots-rivais-com-prompts-sobre-suicidio-e-drogas-diz-wired/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-29T23:00:42+00:00"
-    },
-    {
-      "id": "69c9729765a68fd8",
-      "title": "Galaxy Watch 8 LTE (44 mm) surge com desconto agressivo no Magazine Luiza",
-      "summary": "Aproveite a chance de ter o Galaxy Watch 8 LTE com tela Super AMOLED brilhante, conexão 4G e IA integrada. Use o cupom SONOAPP100 pelo aplicativo e garanta 63% de desconto Galaxy…",
-      "link": "https://tecnoblog.net/achados/galaxy-watch-8-lte-44-mm-surge-com-desconto-agressivo-no-magazine-luiza/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/ukunaxh68o-11.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-29T21:37:48+00:00"
-    },
-    {
-      "id": "c148ca1210e0a460",
-      "title": "Fluxo de trabalho de implementação do PyGraphistry para pipelines de inteligência de gráficos interativos em análise de segurança e investigação de riscos",
-      "summary": "Construímos um fluxo de trabalho PyGraphistry pronto para Colab para análise gráfica interativa em dados de acesso corporativo. Geramos um conjunto de dados sintético de usuários, dispositivos, IPs, serviços, funções…",
-      "link": "https://www.marktechpost.com/2026/06/29/pygraphistry-implementation-workflow-for-interactive-graph-intelligence-pipelines-in-security-analytics-and-risk-investigation/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2b50.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-29T21:34:42+00:00"
-    },
-    {
-      "id": "0c22bcce83de4978",
-      "title": "Coreia do Sul gastará US$ 1 trilhão em mais produção de chips de memória e robôs humanóides",
-      "summary": "A Coreia do Sul tem como alvo robôs humanóides comerciais e líderes de IA físicos até 2028.",
-      "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-4.36.13-PM-500x500.png",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-29T21:09:43+00:00"
     }
   ]
 }
