@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-07-02T03:27:53.425032+00:00",
+  "generated_at": "2026-07-02T08:54:23.617825+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "8ffbd243b9b01ace",
+      "title": "A API do Google Health tem uma CLI: ghealth é uma ferramenta de código aberto para seus dados Fitbit Air",
+      "summary": "A API Google Health agora possui uma CLI de código aberto. ghealth é um único binário Go que expõe 40 tipos de dados como JSON pronto para agente. É um projeto comunitário, não um projeto oficial do Google…",
+      "link": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-02T08:46:56+00:00"
+    },
+    {
+      "id": "122379e5267c11ca",
+      "title": "Magnata da tecnologia indiano aposta US$ 30 milhões de seu próprio dinheiro para construir uma alternativa de IA ao Microsoft Office",
+      "summary": "Neo é o quinto empreendimento de Bhavin Turakhia e seu mais recente software empresarial. Desta vez ele está enfrentando o Microsoft Office, Google Apps com IA.",
+      "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-02T05:30:00+00:00"
+    },
     {
       "id": "53c7e4c4b91d9dae",
       "title": "Olhar do Amanhã: IA vira policial e denuncia crime para autoridades",
@@ -969,28 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-30T15:38:08+00:00"
-    },
-    {
-      "id": "a8dba2229a7af2bc",
-      "title": "Libby filtrará o conteúdo de IA, mais ou menos",
-      "summary": "Este é Lowpass de Janko Roettgers, um boletim informativo sobre a interseção em constante evolução entre tecnologia e entretenimento, distribuído apenas para assinantes do The Verge uma vez por semana. \"IA é a nova…",
-      "link": "https://www.theverge.com/column/959433/libby-ai-filter",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-30T15:30:00+00:00"
-    },
-    {
-      "id": "bfcce1f7eac6938a",
-      "title": "LongCat-2.0 da Meituan mostra que a China pode treinar modelos massivos de IA sem Nvidia",
-      "summary": "A Meituan treina um modelo de IA de 1,6 trilhão de parâmetros inteiramente em chips chineses, sem necessidade de Nvidia. O artigo LongCat-2.0 da Meituan mostra que a China pode treinar modelos massivos de IA sem…",
-      "link": "https://the-decoder.com/meituans-longcat-2-0-shows-china-can-train-massive-ai-models-without-nvidia/",
-      "image": "https://the-decoder.com/wp-content/uploads/2024/09/midjourney_china_ai_chi_illustration.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-30T15:23:46+00:00"
     }
   ]
 }
