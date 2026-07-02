@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-07-01T19:53:17.724604+00:00",
+  "generated_at": "2026-07-02T03:27:53.425032+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "53c7e4c4b91d9dae",
+      "title": "Olhar do Amanhã: IA vira policial e denuncia crime para autoridades",
+      "summary": "Estamos diante de uma redefinição do papel da IA como agente ativo na prevenção de crimes? O post Olhar do Amanhã: IA vira policial e denuncia crime para autoridades apareceu…",
+      "link": "https://olhardigital.com.br/2026/07/01/colunistas/olhar-do-amanha-ia-vira-policial-e-denuncia-crime-para-autoridades/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-02T01:28:23+00:00"
+    },
+    {
+      "id": "19c221628d764b6f",
+      "title": "Português é o 3º idioma mais usado no ChatGPT, diz relatório da OpenAI",
+      "summary": "Expansão global da plataforma mostra queda da hegemonia do inglês e avanço do uso em idiomas locais em várias regiões do mundo O post Português é o 3º idioma mais usado no…",
+      "link": "https://olhardigital.com.br/2026/07/01/pro/portugues-e-o-3o-idioma-mais-usado-no-chatgpt-diz-relatorio-da-openai/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/openai-e1776162556695-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-01T23:14:44+00:00"
+    },
+    {
+      "id": "526112af65b9627d",
+      "title": "AI Slop impacta mundo dos games e gera reação",
+      "summary": "Plataforma open source Godot vai proibir códigos gerados com inteligência artificial. AI Slop impacta mundo dos games e gera reação",
+      "link": "https://tecnoblog.net/noticias/ai-slop-impacta-mundo-dos-games-e-gera-reacao/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/10/tbr-pc-gamer-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-01T21:56:48+00:00"
+    },
+    {
+      "id": "8a8ce4add2766a43",
+      "title": "Usando o Lift para transformar PDFs de pesquisa em JSON estruturado com avaliação em nível de campo controlada e guiada por esquema",
+      "summary": "Neste tutorial, construímos um fluxo de trabalho completo de PDF para dados estruturados em torno do Lift, criado para avaliação controlada em vez de uma demonstração única. Preparamos um ambiente GPU Colab, carregamos…",
+      "link": "https://www.marktechpost.com/2026/07/01/using-lift-to-turn-research-pdfs-into-structured-json-with-controlled-schema-guided-field-level-evaluation/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-01T21:09:53+00:00"
+    },
+    {
+      "id": "c3ac27155de9db4d",
+      "title": "Anthropic reimplanta Claude Fable 5 em 1º de julho, após levantamento dos controles de exportação dos EUA, adiciona novo classificador de segurança cibernética",
+      "summary": "A Anthropic está realocando Claude Fable 5 em 1º de julho, depois que os controles de exportação dos EUA foram suspensos. Um novo classificador de segurança bloqueia a técnica no relatório da Amazon em 99% das vezes…",
+      "link": "https://www.marktechpost.com/2026/07/01/anthropic-redeploys-claude-fable-5-on-july-1-after-us-export-controls-lift-adds-new-cybersecurity-classifier/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-01T20:41:56+00:00"
+    },
+    {
+      "id": "5572b60d7846ddae",
+      "title": "Apple está lançando mais atualizações para o iPhone e a culpa é da IA",
+      "summary": "A Apple liberou uma atualização de segurança antecipada para o iPhone por causa do aumento das ameaças cibernéticas impulsionadas pela inteligência artificial. Segundo a Reuters…",
+      "link": "https://canaltech.com.br/apps/apple-esta-lancando-mais-atualizacoes-para-o-iphone-e-a-culpa-e-da-ia/",
+      "image": "https://t.ctcdn.com.br/2xMtmDmgr4eLyK7hVwxC33kMU8w=/700x394/smart/i996209.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-01T20:10:00+00:00"
+    },
     {
       "id": "a4d3956842935655",
       "title": "SpaceX mostra aos investidores um protótipo fino de smartphone com IA equipado com tecnologia xAI",
@@ -106,7 +172,7 @@
       "title": "As últimas notícias sobre IA que anunciamos em junho de 2026",
       "summary": "Herói do Pixel Drop de junho",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/June_AI_Recap_social.max-600x600.format-webp.webp",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp",
       "source": "Google AI Blog",
       "region": "mundo",
       "category": "Modelos",
@@ -925,72 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-06-30T15:23:46+00:00"
-    },
-    {
-      "id": "04414acbcdbfc456",
-      "title": "X agora oferece um servidor MCP para tornar sua plataforma mais fácil de usar para ferramentas de IA",
-      "summary": "X lançou um servidor MCP hospedado, facilitando aos desenvolvedores a conexão de aplicativos de IA com a API da empresa.",
-      "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-30T15:08:42+00:00"
-    },
-    {
-      "id": "9476a724701bc386",
-      "title": "O boom da IA ​​em São Francisco está precificando trabalhadores de tecnologia de seis dígitos que não conseguem encontrar aluguel abaixo de US$ 5.000",
-      "summary": "O boom da IA ​​em São Francisco está a aumentar o custo de vida tão rapidamente que mesmo os casais que ganham 365 mil dólares por ano não conseguem encontrar um apartamento acessível. O aluguel médio é de US$ 3.827 e…",
-      "link": "https://the-decoder.com/san-franciscos-ai-boom-is-pricing-out-six-figure-tech-workers-who-cant-find-rent-under-5000/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/sf_money-3.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-30T15:04:55+00:00"
-    },
-    {
-      "id": "fd93a14ef0eaaad2",
-      "title": "A plataforma de podcasting Riverside entra no jogo de publicação de boletins informativos",
-      "summary": "Os usuários poderão usar IA para criar newsletters com base em suas gravações.",
-      "link": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-30T15:00:00+00:00"
-    },
-    {
-      "id": "d6adaabeb707b608",
-      "title": "Amazon lança nova organização FDE de US$ 1 bilhão, seguindo OpenAI e Anthropic",
-      "summary": "Os engenheiros da nova equipe serão incorporados às empresas para implantar agentes específicos, com foco em implantações rápidas e na autossuficiência do cliente.",
-      "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-30T15:00:00+00:00"
-    },
-    {
-      "id": "2117869969e4f220",
-      "title": "Como a governança de IA se tornou uma prioridade máxima no atendimento",
-      "summary": "* Por Shana Simmons Por anos, o roteiro de compras de softwares corporativos seguiu uma cartilha previsível. Executivos avaliavam funcionalidades, preço, capacidade de integração…",
-      "link": "https://canaltech.com.br/colunas/como-a-governanca-de-ia-se-tornou-uma-prioridade-maxima-no-atendimento/",
-      "image": "https://t.ctcdn.com.br/yZKwz4wtLGaWLOBLKbJyFMEvstA=/700x394/smart/i632423.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-30T15:00:00+00:00"
-    },
-    {
-      "id": "9f340727232d898a",
-      "title": "Por que a especialização é inevitável",
-      "summary": "",
-      "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-06-30T14:39:11+00:00"
     }
   ]
 }
