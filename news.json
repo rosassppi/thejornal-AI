@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-07-02T08:54:23.617825+00:00",
+  "generated_at": "2026-07-02T13:57:27.820870+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "acd0d232ab24c111",
+      "title": "Microsoft lança sua própria empresa de implantação de IA com compromisso de US$ 2,5 bilhões",
+      "summary": "A Microsoft segue Amazon, OpenAI e Anthropic com seu novo grupo de implantação de IA.",
+      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-02T13:53:00+00:00"
+    },
+    {
+      "id": "74b5c8b5c51e959e",
+      "title": "Por que o próximo ciclo computacional precisa ser construído para todos",
+      "summary": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes…",
+      "link": "https://canaltech.com.br/colunas/por-que-o-proximo-ciclo-computacional-precisa-ser-construido-para-todos/",
+      "image": "https://t.ctcdn.com.br/nZ6sNq7PsgAB4H-oy5G3Tk3upoA=/700x394/smart/i1003705.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-02T13:43:03+00:00"
+    },
+    {
+      "id": "e8b94457198a7ae8",
+      "title": "Nvidia está financiando startups de IA para afrouxar o controle da Big Tech em seu negócio de chips",
+      "summary": "A Nvidia está agindo cada vez mais como um banco central para startups de IA, moldando ativamente o mercado de computação. O artigo A Nvidia está financiando startups de IA para afrouxar o controle da Big Tech sobre…",
+      "link": "https://the-decoder.com/nvidia-is-bankrolling-ai-startups-to-loosen-big-techs-grip-on-its-chip-business/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-02T13:00:05+00:00"
+    },
+    {
+      "id": "7e8972a4de9e4905",
+      "title": "Alvo de críticas, Google destaca métodos de suicídio em resumos de IA",
+      "summary": "Caso reacende debate sobre responsabilidade de plataformas digitais na moderação de informações geradas por inteligência artificial O post Alvo de críticas, Google destaca métodos…",
+      "link": "https://olhardigital.com.br/2026/07/02/inteligencia-artificial/alvo-de-criticas-google-destaca-metodos-de-suicidio-em-resumos-de-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/Destaque-Google-Gemini-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-02T12:52:13+00:00"
+    },
+    {
+      "id": "2e6433c4f899a042",
+      "title": "Ensinando IA a funcionar com turbinas",
+      "summary": "A inteligência artificial pode ter capturado a imaginação do público através de chatbots e geradores de imagens, mas alguns dos seus casos de uso mais importantes estão se desenvolvendo longe de…",
+      "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-02T12:51:44+00:00"
+    },
+    {
+      "id": "23a0377940e38b09",
+      "title": "Os agentes de IA agora podem concluir 16% dos trabalhos freelance com qualidade profissional, acima dos 2,5% de oito meses atrás",
+      "summary": "O Índice de Trabalho Remoto mede a frequência com que os agentes de IA concluem projetos freelance remunerados com qualidade profissional. Em oito meses, a taxa máxima de automação mais que quadruplicou…",
+      "link": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/Remote-labor-index-bench-title.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-02T12:37:49+00:00"
+    },
+    {
+      "id": "d37c6caf0bdce64e",
+      "title": "Google traz curtas de vídeo estilo TikTok para NotebookLM",
+      "summary": "O Google expandiu o NotebookLM para incluir visões gerais de vídeo no formato curto comumente usado nas redes sociais. O artigo Google traz curtas de vídeo estilo TikTok para NotebookLM…",
+      "link": "https://the-decoder.com/google-brings-tiktok-style-video-shorts-to-notebooklm/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/07/notebooklm_video_overview.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-02T12:17:15+00:00"
+    },
+    {
+      "id": "58c8298c3319f5d8",
+      "title": "Sim, estamos usando OpenClaw até agora",
+      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-02T12:00:00+00:00"
+    },
+    {
+      "id": "98dab85b0b7d8d8a",
+      "title": "Nova DeepSeek? IA chinesa desafia gigantes do Ocidente",
+      "summary": "IA da startup Z.ai ganha destaque no Vale do Silício, desafia gigantes dos EUA e reforça avanço da China na corrida global de IA O post Nova DeepSeek? IA chinesa desafia gigantes…",
+      "link": "https://olhardigital.com.br/2026/07/02/inteligencia-artificial/nova-deepseek-ia-chinesa-desafia-gigantes-do-ocidente/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/vale-do-silicio-1024x619.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-02T11:19:20+00:00"
+    },
+    {
+      "id": "7ca0461599026749",
+      "title": "A construção de IA do Google impulsionou um aumento de 37% no uso de eletricidade em 2025",
+      "summary": "O Google tenta equilibrar as emissões de data centers de IA com esforços de energia limpa.",
+      "link": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2246163658-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-02T11:15:49+00:00"
+    },
+    {
+      "id": "45cec26c9e323823",
+      "title": "A OpenAI supostamente oferece à administração Trump uma participação de cinco por cento na empresa",
+      "summary": "A OpenAI está oferecendo à administração Trump uma participação de cinco por cento na empresa. O que o governo daria em troca, se é que daria alguma coisa, ainda não está claro. The move shows…",
+      "link": "https://the-decoder.com/openai-reportedly-offers-the-trump-administration-a-five-percent-stake-in-the-company/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_anthropic_white_house.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-02T10:44:16+00:00"
+    },
+    {
+      "id": "b6eaabd227348bac",
+      "title": "OpenAI flutua dando à administração Trump 5% de corte no boom da IA",
+      "summary": "A OpenAI sugeriu dar ao governo dos EUA uma participação acionária de 5% como forma de aliviar as tensões com a administração Trump e atenuar a crescente reação pública contra a IA…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-02T10:23:27+00:00"
+    },
     {
       "id": "8ffbd243b9b01ace",
       "title": "A API do Google Health tem uma CLI: ghealth é uma ferramenta de código aberto para seus dados Fitbit Air",
@@ -859,138 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-06-30T18:10:00+00:00"
-    },
-    {
-      "id": "ae0f3f6c60206141",
-      "title": "Anthropic lança Claude Science, um espaço de trabalho de IA construído especificamente para pesquisadores",
-      "summary": "A Anthropic lançou o Claude Science, uma bancada de IA para pesquisadores. Mais de 60 habilidades pré-configuradas abrangem áreas como genômica e química computacional, e uma verificação…",
-      "link": "https://the-decoder.com/anthropic-launches-claude-science-an-ai-workspace-built-specifically-for-researchers/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/claude_science_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-30T18:03:48+00:00"
-    },
-    {
-      "id": "a2fd93ac1dfd7270",
-      "title": "Anthropic lança Claude Sonnet 5 como uma forma mais barata de administrar agentes",
-      "summary": "O Claude Sonnet 5 da Anthropic traz capacidades de agente mais fortes, preços mais baixos e maior segurança, posicionando o modelo como uma alternativa mais barata ao Opus, GPT-5.5 e Gemini…",
-      "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-30T18:00:00+00:00"
-    },
-    {
-      "id": "3cd2541eae96f9f6",
-      "title": "Acti coloca agentes de IA diretamente no teclado do seu smartphone",
-      "summary": "A Acti aposta que o teclado do smartphone será o próximo lar dos assistentes de IA. O novo teclado da startup para iOS e Android funciona em aplicativos e permite que os usuários criem…",
-      "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-30T17:52:46+00:00"
-    },
-    {
-      "id": "3ec169616dd586c7",
-      "title": "A OpenAI supostamente reduziu os custos de resposta para usuários convidados do ChatGPT em mais da metade",
-      "summary": "De acordo com um relatório da The Information, a OpenAI reduziu os custos de inferência para seus modelos de IA em mais da metade. A empresa aplicou as otimizações ao ChatGPT, onde o número de…",
-      "link": "https://the-decoder.com/openai-reportedly-cut-response-costs-for-guest-chatgpt-users-by-more-than-half/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-30T17:43:27+00:00"
-    },
-    {
-      "id": "b9b64ef9482c360a",
-      "title": "A Netflix está usando uma voz de Gene Wilder gerada por IA em seu reality show Willy Wonka",
-      "summary": "Um novo teaser trailer confirmou que The Golden Ticket de Wonka estreará na Netflix em 23 de setembro, seguindo seu reality show Squid Game na tendência de criar reais…",
-      "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-30T17:19:15+00:00"
-    },
-    {
-      "id": "c6a4afe87cc03451",
-      "title": "Google lança Nano Banana 2 Lite para imagens rápidas de IA e Gemini Omni Flash para vídeo via API",
-      "summary": "O Google adiciona dois novos modelos generativos de IA. Nano Banana 2 Lite gera imagens em quatro segundos a US$ 0,034 por unidade. Gemini Omni Flash traz geração e edição de vídeo via texto…",
-      "link": "https://the-decoder.com/google-launches-nano-banana-2-lite-for-fast-ai-images-and-gemini-omni-flash-for-video-via-api/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/gemini_nano_banana_2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-30T17:17:33+00:00"
-    },
-    {
-      "id": "db48df331e9ec59e",
-      "title": "Novidade do Gemini deixará você controlar seu computador à distância",
-      "summary": "O Google está desenvolvendo um novo recurso para controlar e acompanhar um computador pelo aplicativo do Gemini no celular. A novidade foi descoberta pelo Android Authority em uma…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/novidade-do-gemini-deixara-voce-controlar-seu-computador-a-distancia/",
-      "image": "https://t.ctcdn.com.br/xJsYmUSfVb47gNGY9_wAC1H0BII=/700x394/smart/i1135135.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-30T17:05:00+00:00"
-    },
-    {
-      "id": "0c2252c9cad784f3",
-      "title": "Claude Science, da Anthropic, aposta no fluxo de trabalho, e não em um novo modelo, para conquistar cientistas",
-      "summary": "Claude Science da Anthropic é uma bancada que oferece aos cientistas um ambiente para fazer pesquisas computacionais, poupando-os da necessidade de alternar entre bancos de dados, pipelines e…",
-      "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-06-30T17:00:00+00:00"
-    },
-    {
-      "id": "055d65598c847dcd",
-      "title": "O plano de Trump de redesenhar todos os sites .gov leva a horrores projetados pela IA",
-      "summary": "Um ano depois, o National Design Studio atrasa o plano de atualização dos padrões governamentais da web.",
-      "link": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/national-design-web-vomit-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-30T16:59:02+00:00"
-    },
-    {
-      "id": "be02f00863d13518",
-      "title": "Google Meet libera função de IA \"salvadora de reuniões\" para mais pessoas",
-      "summary": "O Google liberou o recurso “Anota pra mim” , do Google Meet, para assinantes de planos individuais da empresa. O modo usa inteligência artificial do Gemini para analisar uma…",
-      "link": "https://canaltech.com.br/apps/google-meet-libera-funcao-de-ia-salvadora-de-reunioes-para-mais-pessoas/",
-      "image": "https://t.ctcdn.com.br/LXNWkjIo_NNs13XECce6uIEqptU=/700x394/smart/i1137425.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-30T16:20:00+00:00"
-    },
-    {
-      "id": "5c051fa5c13a4e4c",
-      "title": "Ford contrata mais de 300 engenheiros veteranos após problemas com IA",
-      "summary": "A Ford contratou engenheiros veteranos depois que ferramentas de IA não atingiram os padrões de qualidade das inspeções feitas por humanos , segundo a Bloomberg. A chegada dos…",
-      "link": "https://canaltech.com.br/mercado/ia-falha-em-inspecoes-e-ford-recontrata-engenheiros-veteranos/",
-      "image": "https://t.ctcdn.com.br/hMM7n_kzeacR9DjQvkczpi8hLv0=/700x394/smart/i1132925.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-30T15:42:00+00:00"
-    },
-    {
-      "id": "3bd3bcf3016593e1",
-      "title": "Trump pediu a Musk ações da SpaceX para semear contas de poupança de crianças dos EUA, diz o relatório",
-      "summary": "Fontes sugerem que Musk pode estar pensando em fazer uma grande doação para Trump Accounts.",
-      "link": "https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2280560807-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-06-30T15:38:08+00:00"
     }
   ]
 }
