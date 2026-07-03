@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-07-03T14:00:48.067251+00:00",
+  "generated_at": "2026-07-03T19:19:57.250142+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "01a1a9afbbe4c258",
+      "title": "Chrome e outros navegadores com IA apresentam falhas de segurança, aponta pesquisa",
+      "summary": "Estudo da Universidade de Washington revela falhas em navegadores com IA que podem expor dados sensíveis a ataques cibernéticos O post Chrome e outros navegadores com IA…",
+      "link": "https://olhardigital.com.br/2026/07/03/internet-e-redes-sociais/chrome-e-outros-navegadores-com-ia-apresentam-falhas-de-seguranca-aponta-pesquisa/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/shutterstock_2698472703-1024x768.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-03T18:52:54+00:00"
+    },
+    {
+      "id": "f827a03708abc88d",
+      "title": "Google vai banir extensões do Chrome que burlam IAs",
+      "summary": "Chrome Web Store endureceu as regras contra ferramentas que contornam limites de chatbots. Mudanças entram em vigor em agosto. Google vai banir extensões do Chrome que burlam IAs",
+      "link": "https://tecnoblog.net/noticias/google-vai-banir-extensoes-do-chrome-que-burlam-ias/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/11/google-chrome-capa-3-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-03T17:27:10+00:00"
+    },
+    {
+      "id": "6b9a9adbb24a0906",
+      "title": "O complicado problema da China de Claude Code envolve proibições em ambos os lados do Pacífico",
+      "summary": "A Anthropic está tentando impedir que empresas chinesas como ByteDance e Ant Financial acessem o Claude Code, mas estão contornando as restrições por meio de VPNs e no exterior…",
+      "link": "https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_logoreihe.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-03T17:11:33+00:00"
+    },
+    {
+      "id": "8faf09e47f47dd93",
+      "title": "Os relatórios de vulnerabilidade de segurança explodiram desde que os modelos de IA começaram a procurar bugs",
+      "summary": "Epoch AI relata um aumento acentuado nos relatórios de vulnerabilidade de segurança. Em junho de 2026, 21 organizações relataram cerca de 1.500 CVEs críticos e de alta gravidade, mais de 3,5 vezes o…",
+      "link": "https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/cybersecurity-kraken-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-03T16:49:47+00:00"
+    },
+    {
+      "id": "7f749a04fe48a748",
+      "title": "O AI Security Institute do Reino Unido descobre que os benchmarks padrão subestimam sistematicamente o que os agentes de IA podem realmente fazer",
+      "summary": "Num estudo que abrange sete benchmarks, o AI Security Institute do Reino Unido mostra que as avaliações padrão de IA subestimam sistematicamente as capacidades dos agentes, limitando a computação…",
+      "link": "https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/test_time_compute_illustration-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-03T16:14:44+00:00"
+    },
+    {
+      "id": "b62132c63a3ed311",
+      "title": "Jaqueta autografada do CEO da NVIDIA pode chegar a US$ 60 mil em leilão",
+      "summary": "A lendária jaqueta de couro preta usada por Jensen Huang, cofundador e CEO da NVIDIA , acaba de se transformar em um item de colecionador altamente cobiçado no mercado. A casa de…",
+      "link": "https://canaltech.com.br/hardware/jaqueta-autografada-do-ceo-da-nvidia-pode-chegar-a-us-60-mil-em-leilao/",
+      "image": "https://t.ctcdn.com.br/-vO-hWpxjveLx491G17Ss2Udu_4=/700x394/smart/i991359.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-03T15:10:00+00:00"
+    },
+    {
+      "id": "a514bdb35ce3c27a",
+      "title": "O que é o “erro 1099” no Gemini? Saiba o que acontece com a IA",
+      "summary": "Os usuários do Gemini, tanto na versão web quanto em celulares Android, têm relatado o aparecimento do “erro 1099” , uma falha que interrompe o uso da inteligência artificial…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-e-o-erro-1099-no-gemini-saiba-o-que-acontece-com-a-ia/",
+      "image": "https://t.ctcdn.com.br/BUD5tnSrkkYlVQlUMUP7n-eLQ5U=/700x394/smart/i1111873.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-03T14:37:55+00:00"
+    },
+    {
+      "id": "9a7d9e75530e2e4e",
+      "title": "Alibaba manda funcionários abandonarem IA da Anthropic",
+      "summary": "Empresa chinesa vetou o uso interno do Claude Code e orientou funcionários a usarem a plataforma própria Qoder. Alibaba alega rastreamento. Alibaba manda funcionários abandonarem…",
+      "link": "https://tecnoblog.net/noticias/alibaba-manda-funcionarios-abandonarem-ia-da-anthropic/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/alibaba-edited-340x191.webp",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-03T14:34:43+00:00"
+    },
+    {
+      "id": "88ecdef43c05f6e5",
+      "title": "Anthropic quer desenvolver seus próprios medicamentos",
+      "summary": "No evento \"The Briefing: AI for Science\" no início desta semana, a Anthropic anunciou Claude Science, uma nova \"bancada de trabalho de IA para cientistas\" que extrai ferramentas e conjuntos de dados fragmentados...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-03T13:56:52+00:00"
+    },
     {
       "id": "2caded386431eeed",
       "title": "Project Aion: vazamento sugere que Microsoft criou SO focado no Copilot",
@@ -892,105 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-01T15:00:00+00:00"
-    },
-    {
-      "id": "474f7328326cc846",
-      "title": "Os LLMs estão presos em um ritmo de pensamento de grupo. Esta startup está tentando tirá-los.",
-      "summary": "Vamos começar com um jogo. Abra o chatbot de sua preferência - Claude, ChatGPT, Gemini - e digite “Dê-me um número aleatório entre 1 e 10”. Você vai conseguir 7. Quase sempre. Agora digite…",
-      "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-01T14:35:16+00:00"
-    },
-    {
-      "id": "f9391c7e278f7efe",
-      "title": "Venice AI se torna um unicórnio com US$ 65 milhões da Série A à medida que sua plataforma de IA com foco na privacidade decola",
-      "summary": "A Venice AI já é lucrativa, com receitas anuais de mais de US$ 70 milhões, disse o CEO Erik Voorhees.",
-      "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-01T14:25:23+00:00"
-    },
-    {
-      "id": "84ff4d52cf276e95",
-      "title": "Gemini Spark, assistente de agente do Google, agora está disponível no Mac",
-      "summary": "O assistente de agência 24 horas por dia, 7 dias por semana do Google, Gemini Spark, chega ao Mac junto com outras melhorias, como rastreamento em tempo real e suporte para mais aplicativos.",
-      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-01T14:20:19+00:00"
-    },
-    {
-      "id": "86fbbbea4c1a5e96",
-      "title": "Samsung Neo QLED com IA: confira uma seleção de TVs em promoção na Amazon",
-      "summary": "Se você está de olho em uma TV de alta qualidade, esta é uma boa hora para agir. A Amazon está com três modelos da linha Samsung Vision AI Neo QLED 4K em oferta — TVs lançadas em…",
-      "link": "https://olhardigital.com.br/2026/07/01/reviews/samsung-neo-qled-com-ia-confira-uma-selecao-de-tvs-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/41BopBIghwL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T14:00:00+00:00"
-    },
-    {
-      "id": "cde7cb6aebd302d1",
-      "title": "Chatbots podem ter consciência? Big techs investigam",
-      "summary": "Google, Meta e Anthropic investigam se chatbots podem ter consciência ou emoções, levantando um debate ético no avanço da inteligência artificial O post Chatbots podem ter…",
-      "link": "https://olhardigital.com.br/2026/07/01/inteligencia-artificial/chatbots-podem-ter-consciencia-big-techs-investigam/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/emocao-ia-1024x572.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T13:52:11+00:00"
-    },
-    {
-      "id": "6fcb01f9e95e7d01",
-      "title": "Meta, como a SpaceX, busca transformar o excesso de computação de IA em dinheiro",
-      "summary": "A Meta está desenvolvendo planos para um negócio de infraestrutura em nuvem, vendendo acesso a modelos e poder de computação de IA. A mudança o colocaria contra grandes provedores de nuvem como a Amazon Web…",
-      "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-01T13:43:07+00:00"
-    },
-    {
-      "id": "4599d92aeeefcc07",
-      "title": "Óculos inteligente da Samsung vazou: veja tudo que ele vai fazer",
-      "summary": "O mercado de wearables deve ganhar um novo protagonista em breve com os óculos inteligentes da Samsung . Um vazamento recente indica que a empresa está preparando um ecossistema…",
-      "link": "https://canaltech.com.br/produtos/oculos-inteligente-da-samsung-vazou-veja-tudo-que-ele-vai-fazer/",
-      "image": "https://t.ctcdn.com.br/onIbhgQRvjZbu2HexmOxtTb6RA8=/700x394/smart/i1139157.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T13:28:19+00:00"
-    },
-    {
-      "id": "8758a3867b508218",
-      "title": "Português é o 3º idioma mais usado no ChatGPT",
-      "summary": "O português é agora o terceiro idioma mais usado no ChatGPT , segundo dados da OpenAI divulgados no relatório OpenAI Signals. Ele fica atrás apenas do inglês e do espanhol. O…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/portugues-e-o-3o-idioma-mais-usado-no-chatgpt/",
-      "image": "https://t.ctcdn.com.br/elWRGd7DozFcUzbnLeKmr45Ecyw=/700x394/smart/i1137007.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T12:27:36+00:00"
-    },
-    {
-      "id": "c0eba1d2af64fc49",
-      "title": "O Google construiu um ótimo alto-falante inteligente, mas Gemini não está pronto para isso",
-      "summary": "Os alto-falantes inteligentes passaram os últimos anos em busca de um segundo ato atraente. Além da música, dos temporizadores e do controle das luzes, eles têm lutado para justificar a ocupação de espaço…",
-      "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-01T12:00:00+00:00"
     }
   ]
 }
