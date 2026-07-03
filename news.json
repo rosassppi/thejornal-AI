@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-07-03T02:50:49.427098+00:00",
+  "generated_at": "2026-07-03T09:16:20.001347+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "08fffdb6f8872e30",
+      "title": "Caso Anthropic expõe nova disputa global pela inteligência artificial",
+      "summary": "Especialista explica por que governos passaram a tratar modelos de IA como ativos estratégicos e o que isso significa para empresas e usuários Ouça ao podcast.",
+      "link": "https://canaltech.com.br/podcast/podcast-canaltech/caso-anthropic-expoe-nova-disputa-global-pela-inteligencia-artificial-6595/",
+      "image": "https://t.ctcdn.com.br/KcwmucVhNnBLxRVFqb4iePdWJA0=/700x394/smart/i1139905.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-03T09:00:00+00:00"
+    },
+    {
+      "id": "c9596402e4a24f78",
+      "title": "Kling, fabricante chinês de vídeos de IA, levanta US$ 2 bilhões enquanto se prepara para IPO em Hong Kong",
+      "summary": "Kuaishou levantou cerca de US$ 2 bilhões de investidores para sua divisão de vídeo de IA, Kling. O artigo Kling, fabricante chinês de vídeos de IA, levanta US $ 2 bilhões enquanto se prepara para o IPO de Hong Kong ...",
+      "link": "https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/kling-motion-control.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-03T08:53:16+00:00"
+    },
+    {
+      "id": "70efc522c0161cdc",
+      "title": "Conheça o WebBrain: um agente de navegador de IA local e de código aberto que lê páginas e automatiza tarefas no Chrome e Firefox",
+      "summary": "WebBrain é um agente de navegador de IA gratuito e licenciado pelo MIT para Chrome e Firefox. Ele lê páginas, extrai dados e automatiza tarefas de várias etapas por meio dos modos Perguntar e Agir. Execute-o localmente…",
+      "link": "https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9e0.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-03T05:55:47+00:00"
+    },
+    {
+      "id": "13e65bb517877b03",
+      "title": "Interfaze lança diffusion-gemma-asr-small, um modelo ASR de difusão de código aberto que transcreve seis idiomas por meio do decodificador paralelo de eliminação de ruído da DiffusionGemma",
+      "summary": "Interfaze difusão-gemma-asr-small de código aberto, um modelo ASR multilíngue que transcreve por difusão, não por autorregressão. Ele adiciona áudio ao DiffusionGemma congelado do Google…",
+      "link": "https://www.marktechpost.com/2026/07/02/interfaze-ships-diffusion-gemma-asr-small-an-open-source-diffusion-asr-model-transcribing-six-languages-via-diffusiongemmas-parallel-denoising-decoder/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-03T03:24:23+00:00"
+    },
     {
       "id": "6a5bcd53d610aa42",
       "title": "Google e Amazon registram alta de emissões de gases de efeito estufa por IA",
@@ -58,6 +102,17 @@
       "published_at": "2026-07-02T22:08:07+00:00"
     },
     {
+      "id": "63cb10801367ebfa",
+      "title": "Tutorial RAG-Anything: Construa um pipeline de recuperação multimodal para texto, tabelas, equações e imagens no Colab",
+      "summary": "Neste tutorial, construímos um fluxo de trabalho RAG-Anything para explorar como funciona a recuperação multimodal em texto, tabelas, equações e imagens. Preparamos um ambiente Colab, entre em nosso…",
+      "link": "https://www.marktechpost.com/2026/07/02/rag-anything-tutorial-build-a-multimodal-retrieval-pipeline-for-text-tables-equations-and-images-in-colab/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-02T21:38:34+00:00"
+    },
+    {
       "id": "cf14b46c8761acd7",
       "title": "Virginia Fonseca tem “clone de IA” para conversar com fãs por até R$ 89",
       "summary": "A plataforma Versio funciona como um chatbot de IA na qual é possível conversar com versões inspiradas em especialistas e celebridades, como a influenciadora Virginia Fonseca . O…",
@@ -67,6 +122,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-02T21:00:00+00:00"
+    },
+    {
+      "id": "190ada5e5a2acc25",
+      "title": "Conheça o Page Agent do Alibaba: um agente GUI JavaScript na página que controla interfaces da Web com linguagem natural por meio do DOM",
+      "summary": "O Page Agent do Alibaba é executado como JavaScript do lado do cliente dentro da página da web. Ele lê o DOM ativo como texto e, em seguida, clica e digita a partir de comandos de linguagem natural. Sem capturas de tela, não…",
+      "link": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-02T20:51:39+00:00"
     },
     {
       "id": "9ac380645645a045",
@@ -925,72 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-07-01T07:48:59+00:00"
-    },
-    {
-      "id": "3211c51ee54864d1",
-      "title": "Fable 5 da Anthropic está de volta ao mundo após uma proibição governamental de duas semanas devido a uma fuga de presos",
-      "summary": "Após uma proibição de duas semanas, o governo dos EUA está permitindo que a Anthropic envie Fable 5 globalmente novamente. Os pesquisadores da Amazon encontraram um jailbreak, mas a Anthropic diz que modelos ainda muito menores…",
-      "link": "https://the-decoder.com/anthropics-fable-5-is-back-worldwide-after-a-two-week-government-ban-over-a-jailbreak/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_logoreihe.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-01T07:40:29+00:00"
-    },
-    {
-      "id": "8f2c47564aa6e7f8",
-      "title": "CUP (Common Useful Python): Construindo Fluxos de Trabalho Python Confiáveis ​​com o Kit de Ferramentas Utilitárias do Baidu",
-      "summary": "Neste tutorial, exploramos CUP, a biblioteca Common Useful Python do Baidu, como um kit de ferramentas utilitário prático para fluxos de trabalho Python mais fortes. Nós o instalamos em um ambiente amigável ao Colab…",
-      "link": "https://www.marktechpost.com/2026/06/30/cup-common-useful-python-building-reliable-python-workflows-with-baidus-utility-toolkit/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-01T06:03:21+00:00"
-    },
-    {
-      "id": "5926ae6482dd8f3f",
-      "title": "Trump retira restrições aos modelos Mythos e Fable da Anthropic",
-      "summary": "A Anthropic disse que começaria a restaurar o acesso ao Fable em 1º de julho.",
-      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-01T02:16:06+00:00"
-    },
-    {
-      "id": "ef51c8cf54bebe4a",
-      "title": "Wayve lança oferta pública de US$ 85 milhões para funcionários com avaliação de US$ 8,5 bilhões",
-      "summary": "A oferta da Wayve faz parte de uma tendência crescente de startups de IA que usam licitações para funcionários como uma ferramenta estratégica para atrair e reter talentos.",
-      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-01T02:04:40+00:00"
-    },
-    {
-      "id": "2e2f5e9c69646ee0",
-      "title": "Fala AI: baixar agente de IA no celular é uma boa ideia?",
-      "summary": "Será que baixar um agente de IA no seu celular é uma boa ideia? O post Fala AI: baixar agente de IA no celular é uma boa ideia? apareceu primeiro em Olhar Digital .",
-      "link": "https://olhardigital.com.br/2026/06/30/colunistas/fala-ai-baixar-agente-de-ia-no-celular-e-uma-boa-ideia/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T01:22:02+00:00"
-    },
-    {
-      "id": "94e28b66eb516706",
-      "title": "Anthropic lança Claude Sonnet 5, nova aposta em IA mais autônoma e menor custo",
-      "summary": "Modelo chega com foco em execução de tarefas complexas sem supervisão constante e amplia disputa por sistemas de IA agentic no setor global de tecnologia O post Anthropic lança…",
-      "link": "https://olhardigital.com.br/2026/06/30/inteligencia-artificial/anthropic-lanca-claude-sonnet-5-nova-aposta-em-ia-mais-autonoma-e-menor-custo/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2024/06/claude-3.5-sonnet-2-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T00:28:21+00:00"
     }
   ]
 }
