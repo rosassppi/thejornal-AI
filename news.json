@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-07-02T19:22:49.087870+00:00",
+  "generated_at": "2026-07-03T02:50:49.427098+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "6a5bcd53d610aa42",
+      "title": "Google e Amazon registram alta de emissões de gases de efeito estufa por IA",
+      "summary": "O Google e a Amazon divulgaram aumentos expressivos em suas emissões de gases de efeito estufa, atribuídos à construção acelerada de infraestrutura voltada O post Google e Amazon…",
+      "link": "https://olhardigital.com.br/2026/07/02/pro/google-e-amazon-registram-alta-de-emissoes-de-gases-de-efeito-estufa-por-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/google_logo-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-03T01:39:33+00:00"
+    },
+    {
+      "id": "18a91685f137e82b",
+      "title": "Confira o Olhar Digital News na íntegra (02/07/2026)",
+      "summary": "Calor ameaça funcionamento dos data centers... mas será que os eventos climáticos extremos podem parar a IA? O post Confira o Olhar Digital News na íntegra (02/07/2026) apareceu…",
+      "link": "https://olhardigital.com.br/2026/07/02/videos/confira-o-olhar-digital-news-na-integra-02-07-2026/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-03T01:26:23+00:00"
+    },
+    {
+      "id": "e0097b651f31a93b",
+      "title": "Seu Direito Digital: Google revela métodos de suicídio em resumos de IA",
+      "summary": "Google tem sido alvo de críticas após sua IA destacar métodos de suicídio em resumos de notícias O post Seu Direito Digital: Google revela métodos de suicídio em resumos de IA…",
+      "link": "https://olhardigital.com.br/2026/07/02/colunistas/seu-direito-digital-google-revela-metodos-de-suicidio-em-resumos-de-ia/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-03T00:34:59+00:00"
+    },
+    {
+      "id": "8aafbde5522c666a",
+      "title": "Mark Zuckerberg diz à equipe que os agentes de IA não progrediram tão rapidamente quanto ele esperava",
+      "summary": "Numa reunião interna, o CEO da Meta teria dito que os esforços de desenvolvimento de IA não estavam avançando tão rapidamente quanto o previsto.",
+      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-02T23:38:10+00:00"
+    },
+    {
+      "id": "f20a657e7f3a0ea9",
+      "title": "Meta lança app para criação de jogos e experiências com IA",
+      "summary": "Chamado Pocket, software permite que usuários gerem pequenos aplicativos e jogos utilizando comandos de texto (prompts) enviados à IA O post Meta lança app para criação de jogos e…",
+      "link": "https://olhardigital.com.br/2026/07/02/inteligencia-artificial/meta-lanca-app-para-criacao-de-jogos-e-experiencias-com-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/gizmo_pocket-1024x447.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-02T22:08:07+00:00"
+    },
+    {
+      "id": "cf14b46c8761acd7",
+      "title": "Virginia Fonseca tem “clone de IA” para conversar com fãs por até R$ 89",
+      "summary": "A plataforma Versio funciona como um chatbot de IA na qual é possível conversar com versões inspiradas em especialistas e celebridades, como a influenciadora Virginia Fonseca . O…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/virginia-fonseca-tem-clone-de-ia-para-conversar-com-fas-por-ate-r-89/",
+      "image": "https://t.ctcdn.com.br/k8MEe2l3PH5iKwUNiwyAeaBzMwA=/700x394/smart/i1139979.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-02T21:00:00+00:00"
+    },
+    {
+      "id": "9ac380645645a045",
+      "title": "Alexa grandona: caixa de som inteligente e potente aparece em oferta na Amazon",
+      "summary": "A Amazon antecipou as ofertas do Prime Day e colocou a Echo Dot Max , geração mais recente da linha de caixas de som inteligentes da marca, em promoção. Aplicando o cupom…",
+      "link": "https://canaltech.com.br/produtos/alexa-grandona-caixa-de-som-inteligente-e-potente-aparece-em-oferta-na-amazon/",
+      "image": "https://t.ctcdn.com.br/i2cLJipt6SylyF9h3BD7JSpsb2g=/700x394/smart/i1077025.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-02T20:20:33+00:00"
+    },
+    {
+      "id": "7624ce29282e5cc1",
+      "title": "Cloudflare vai bloquear bots de IA por padrão em sites com anúncios",
+      "summary": "Cloudflare dará mais poderes para que donos de sites bloqueiem, total ou parcialmente, mecanismos de IA que vasculham suas páginas sem oferecer contrapartidas. Cloudflare vai…",
+      "link": "https://tecnoblog.net/noticias/cloudflare-bloqueara-bots-de-ia-por-padrao-em-sites-com-anuncios/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/cloudflare-bloqueio-ia-edited-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-02T20:16:47+00:00"
+    },
+    {
+      "id": "4e067ac4eae1853b",
+      "title": "O IPO de Jersey Mike ilustra o quão ruim se tornou o hype da IA",
+      "summary": "Só por diversão, dei uma olhada nos documentos do IPO de Jersey Mike. Certamente uma lanchonete não precisaria mencionar IA. Mas vejam só.",
+      "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-02T20:11:59+00:00"
+    },
+    {
+      "id": "eb01ca86e0a722d5",
+      "title": "OpenAI pode ceder 5% da empresa para o governo dos EUA",
+      "summary": "Plano de Sam Altman seria criar fundo de riqueza para distribuir lucros da IA e acalmar as tensões com a gestão Trump. OpenAI pode ceder 5% da empresa para o governo dos EUA",
+      "link": "https://tecnoblog.net/noticias/openai-pode-ceder-5-da-empresa-para-o-governo-dos-eua/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-1-capa-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-02T19:44:24+00:00"
+    },
     {
       "id": "27df604320b6c778",
       "title": "Microsoft lança \"Frontier Company\" de US$ 2,5 bilhões para incorporar 6.000 engenheiros de IA em clientes corporativos",
@@ -158,8 +268,8 @@
     },
     {
       "id": "5ab3f063a7c21ede",
-      "title": "Galaxy Tab S11 Ultra chega a 29% OFF em até 12x sem juros no Prime Day 2026",
-      "summary": "Galaxy Tab S11 Ultra com 512 GB, tela AMOLED, Galaxy AI e ampla bateria tem o pagamento facilitado com cupom na Amazon Galaxy Tab S11 Ultra chega a 29% OFF em até 12x sem juros no…",
+      "title": "Galaxy Tab S11 Ultra chega a 31% OFF em até 12x sem juros no Prime Day 2026",
+      "summary": "Galaxy Tab S11 Ultra com 512 GB, tela AMOLED, Galaxy AI e ampla bateria tem o pagamento facilitado com cupom na Amazon Galaxy Tab S11 Ultra chega a 31% OFF em até 12x sem juros no…",
       "link": "https://tecnoblog.net/achados/galaxy-tab-s11-ultra-chega-a-29-off-em-ate-12x-sem-juros-no-prime-day-2026/",
       "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/07/galaxy-tab-s11-ultra-achado-do-dia-1060x596.webp",
       "source": "Tecnoblog",
@@ -881,116 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-01T00:28:21+00:00"
-    },
-    {
-      "id": "3e0a66ea937d29ed",
-      "title": "Anthropic lança Claude Science, IA para revolucionar pesquisas científicas",
-      "summary": "Plataforma integra dados, agentes e computação em ambiente único para automatizar fluxos científicos em biologia e áreas correlatas O post Anthropic lança Claude Science, IA para…",
-      "link": "https://olhardigital.com.br/2026/06/30/inteligencia-artificial/anthropic-lanca-claude-science-ia-para-revolucionar-pesquisas-cientificas/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/anthropic-1-1024x585.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T00:07:37+00:00"
-    },
-    {
-      "id": "8b43afad599765a4",
-      "title": "Google lança IA que cria imagens em 4 segundos e edita vídeos por voz",
-      "summary": "O Google anunciou dois novos modelos de inteligência artificial capazes de acelerar a criação de imagens e vídeos: o Nano Banana 2 Lite , que gera imagens em até 4 segundos, e o…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/google-lanca-ia-que-cria-imagens-em-4-segundos-e-edita-videos-por-voz/",
-      "image": "https://t.ctcdn.com.br/EjoC2BgBPs0m6x8imu4sGDkEYDk=/700x394/smart/i1138889.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T00:05:00+00:00"
-    },
-    {
-      "id": "0a7ef5b46f0256da",
-      "title": "Fable 5 da Anthropic, há muito tempo marginalizado, tem sinal verde para retornar",
-      "summary": "Depois de semanas de negociações com a administração Trump, a Anthropic finalmente conseguirá colocar Claude Fable 5 novamente online. Em uma postagem no X, a Anthropic disse que planeja…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-01T00:03:55+00:00"
-    },
-    {
-      "id": "e4a022908747a557",
-      "title": "Hugging Face e Cerebras trazem Gemma 4 para IA de voz em tempo real",
-      "summary": "",
-      "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-01T00:00:00+00:00"
-    },
-    {
-      "id": "fe7e312865a7a9d1",
-      "title": "O calor extremo pode parar a inteligência artificial?",
-      "summary": "Especialistas consultados pelo Olhar Digital explicaram os riscos de eventos climáticos extremos para os data centers O post O calor extremo pode parar a inteligência artificial?…",
-      "link": "https://olhardigital.com.br/2026/06/30/inteligencia-artificial/o-calor-extremo-pode-parar-a-inteligencia-artificial/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/Destaque-Data-center-de-IA-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-30T23:30:00+00:00"
-    },
-    {
-      "id": "0180667f8e3a280d",
-      "title": "Google lança Nano Banana 2 Lite e Gemini Omni Flash para imagens e vídeos com IA",
-      "summary": "Ferramentas da DeepMind priorizam velocidade, baixo custo e integração entre geração de imagens e vídeos em fluxo multimodal contínuo O post Google lança Nano Banana 2 Lite e…",
-      "link": "https://olhardigital.com.br/2026/06/30/inteligencia-artificial/google-lanca-nano-banana-2-lite-e-gemini-omni-flash-para-imagens-e-videos-com-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/09/nano-banana-1-1-1-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-30T23:18:22+00:00"
-    },
-    {
-      "id": "78a3e8a019cf85ca",
-      "title": "Os aplicativos iMessage da Linq trazem pagamentos, passagens, voos e jogos para o balão do iMessage por meio da parte imessage_app",
-      "summary": "Linq lança aplicativos iMessage: cartões imessage_app interativos que executam pagamentos, passagens, voos e jogos dentro do thread do iMessage para agentes. A postagem Aplicativos iMessage do Linq…",
-      "link": "https://www.marktechpost.com/2026/06/30/linqs-imessage-apps/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-30T22:17:56+00:00"
-    },
-    {
-      "id": "319975cb5f1ba629",
-      "title": "Claude Science é o mais novo carro-chefe da Anthropic",
-      "summary": "Em um evento para executivos farmacêuticos, fundadores de biotecnologia e pesquisadores na terça-feira, a Anthropic anunciou Claude Science, um novo produto importante destinado a apoiar a ciência…",
-      "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-30T21:50:04+00:00"
-    },
-    {
-      "id": "d6957ba73f058704",
-      "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Benchmarks de codificação Agentic, preços de API e compensações custo-desempenho comparados",
-      "summary": "Claude Sonnet 5 da Anthropic reduz a lacuna para o Opus 4.8 na codificação de agente, a preços de token Sonnet mais baratos. O post Antrópico Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic…",
-      "link": "https://www.marktechpost.com/2026/06/30/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/Screenshot-2026-06-30-at-2.15.57-PM-1-150x150.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-06-30T21:37:40+00:00"
-    },
-    {
-      "id": "e9459f72e24368d1",
-      "title": "Crise apertou: Meta recicla memórias antigas em servidores de última geração",
-      "summary": "Em meio à escassez e à disparada nos preços das memórias , a Meta desenvolveu uma solução ousada para cortar custos em seus data centers focados em inteligência artificial. A dona…",
-      "link": "https://canaltech.com.br/hardware/crise-apertou-meta-recicla-memorias-antigas-em-servidores-de-ultima-geracao/",
-      "image": "https://t.ctcdn.com.br/Vo3vDbt3WeP4cOqx95cRcdbes8s=/700x394/smart/i838499.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-06-30T21:10:00+00:00"
     }
   ]
 }
