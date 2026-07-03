@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-07-03T09:16:20.001347+00:00",
+  "generated_at": "2026-07-03T14:00:48.067251+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "2caded386431eeed",
+      "title": "Project Aion: vazamento sugere que Microsoft criou SO focado no Copilot",
+      "summary": "Project Aion, ou Copilot OS, é um suposto sistema operacional experimental da Microsoft que coloca a inteligência artificial no centro da experiência. Project Aion: vazamento…",
+      "link": "https://tecnoblog.net/noticias/project-aion-vazamento-sugere-que-microsoft-criou-so-focado-no-copilot/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/gggquwtdmuk.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-03T13:43:12+00:00"
+    },
+    {
+      "id": "330b98120c74145e",
+      "title": "Argentina quer criar empresas geridas por inteligência artificial — mas há um detalhe",
+      "summary": "Argentina discute empresas geridas por inteligência artificial com supervisão humana e levanta debate global sobre o futuro dos negócios O post Argentina quer criar empresas…",
+      "link": "https://olhardigital.com.br/2026/07/03/inteligencia-artificial/argentina-quer-criar-empresas-geridas-por-inteligencia-artificial-mas-ha-um-detalhe/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/ia-trabalho-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-03T13:13:15+00:00"
+    },
+    {
+      "id": "46b3bd3959eacfee",
+      "title": "Impressora boa e barata? Confira uma seleção com ótimas opções em promoção",
+      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções de impressoras multifuncionais em oferta na…",
+      "link": "https://olhardigital.com.br/2026/07/03/reviews/impressora-boa-e-barata-confira-uma-selecao-com-otimas-opcoes-em-promocao/",
+      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-03T13:00:50+00:00"
+    },
+    {
+      "id": "22b7694194445ab2",
+      "title": "Uma olhada nos bastidores do scanner médico de Midjourney deixa muitas perguntas sem resposta",
+      "summary": "Midjourney mostrou mais de seu scanner médico futurista. Ainda não mostrou muitas provas de que funciona. A startup de IA, mais conhecida por gerar imagens, lançou um…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-03T11:49:10+00:00"
+    },
+    {
+      "id": "a6916fb5d65221ce",
+      "title": "GPT e Claude foram reprovados nos testes financeiros da Bridgewater porque as respostas certas nunca foram públicas",
+      "summary": "O fundo de hedge Bridgewater e o Thinking Machines Lab relatam que um modelo de peso aberto bem ajustado supera os modelos de IA mais poderosos na avaliação de documentos financeiros…",
+      "link": "https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/Hesitant_AI_Robot_Arm_Before_Money_and_Servers.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-03T11:16:42+00:00"
+    },
+    {
+      "id": "3ab3db2418cb2a98",
+      "title": "O impulso do agente de IA da Meta está se movendo mais devagar do que o planejado por Zuckerberg",
+      "summary": "Mark Zuckerberg admitiu fraquezas na reestruturação da empresa durante uma reunião interna. Os agentes de IA reorganizados em torno do Meta estão progredindo mais lentamente do que o planejado…",
+      "link": "https://the-decoder.com/metas-ai-agent-push-is-moving-slower-than-zuckerberg-planned/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/Meta-AI-Agents.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-03T11:05:22+00:00"
+    },
+    {
+      "id": "b347fe694566944b",
+      "title": "Tesla limita gastos de funcionários com IA em US$ 200 por semana",
+      "summary": "A Tesla limita os gastos dos funcionários com IA em US$ 200 por semana, de acordo com um memorando interno relatado pelo The Information. O artigo Tesla limita os gastos dos funcionários com IA em US$ 200 por semana apareceu…",
+      "link": "https://the-decoder.com/tesla-caps-employee-ai-spending-at-200-per-week/",
+      "image": "https://the-decoder.com/wp-content/uploads/2024/10/We-Robot-Carousel-Slide-3-TeslaBot-Desktop.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-03T10:56:51+00:00"
+    },
     {
       "id": "08fffdb6f8872e30",
       "title": "Caso Anthropic expõe nova disputa global pela inteligência artificial",
@@ -914,83 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-01T12:00:00+00:00"
-    },
-    {
-      "id": "9657a75b7f3bd225",
-      "title": "Código oculto no Claude Code sinalizou secretamente usuários chineses",
-      "summary": "A Anthropic está removendo um recurso de monitoramento oculto de sua ferramenta de programação, Claude Code, depois que gerou indignação nas redes sociais. O artigo Código oculto no Código Claude secretamente…",
-      "link": "https://the-decoder.com/hidden-code-in-claude-code-secretly-flagged-chinese-users/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/11/prompt_injections_claude.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-01T11:27:06+00:00"
-    },
-    {
-      "id": "599fa4d7191dedc3",
-      "title": "Claude Sonnet 5 continua o padrão da Anthropic de ocultar aumentos de preços atrás de taxas simbólicas inalteradas",
-      "summary": "Claude Sonnet 5 ocupa o quinto lugar no Índice de Inteligência de Análise Artificial com 53 pontos e até vence o mais caro Opus 4.8 em algumas tarefas baseadas em agentes. Mas a modelo mastiga…",
-      "link": "https://the-decoder.com/claude-sonnet-5-continues-anthropics-pattern-of-hiding-price-increases-behind-unchanged-token-rates/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/fable_5_anthropic_money-scaled.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-01T11:12:09+00:00"
-    },
-    {
-      "id": "895865295058ba11",
-      "title": "Novo sistema usará IA para \"traduzir\" o que o seu corpo realmente precisa",
-      "summary": "A startup Vilo apresentou o Signal OS , um sistema operacional com inteligência artificial criado para anéis inteligentes . A proposta é transformar números de frequência…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/novo-sistema-usara-ia-para-traduzir-o-que-o-seu-corpo-realmente-precisa/",
-      "image": "https://t.ctcdn.com.br/4BlAeU73zGDl24KwhTRIfUE4ZkA=/700x394/smart/i1138901.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T11:00:00+00:00"
-    },
-    {
-      "id": "b5d15a91cf093632",
-      "title": "O artigo genômico da OpenAI revela acidentalmente uma linha Pro que ainda não foi anunciada",
-      "summary": "Um documento de benchmark OpenAI sugere que o nível Pro do GPT-5.6 poderia ser fornecido em três variantes. Essa seria a primeira grande mudança na estrutura do ChatGPT Pro desde o plano…",
-      "link": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_gpt56_sol.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-01T10:03:41+00:00"
-    },
-    {
-      "id": "8c40a1431db23979",
-      "title": "Homem preso após conversa com IA: o que realmente aconteceu",
-      "summary": "Especialista explica por que chatbots não devem substituir senso crítico, relações humanas ou decisões pessoais importantes Ouça ao podcast.",
-      "link": "https://canaltech.com.br/podcast/podcast-canaltech/homem-preso-apos-conversa-com-ia-o-que-realmente-aconteceu-6591/",
-      "image": "https://t.ctcdn.com.br/E9jPsJNHwCb0u57P8nMtRCHf1-8=/700x394/smart/i1138907.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T09:00:00+00:00"
-    },
-    {
-      "id": "960801c117b356ce",
-      "title": "NVIDIA lança Nemotron-Labs-TwoTower: um modelo de linguagem de difusão de peso aberto construído em um backbone Nemotron-3-Nano-30B-A3B autoregressivo congelado",
-      "summary": "A NVIDIA lançou o Nemotron-Labs-TwoTower, um modelo de linguagem de difusão construído em um backbone autorregressivo pré-treinado. Ele é enviado como peso aberto sob o modelo aberto NVIDIA Nemotron…",
-      "link": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-01T08:10:17+00:00"
-    },
-    {
-      "id": "d6f28375d21210eb",
-      "title": "Google AI apresenta TabFM: um modelo de base tabular de atenção híbrida para classificação e regressão Zero-Shot",
-      "summary": "O Google Research lançou o TabFM, um modelo básico para dados tabulares. Ele realiza classificação e regressão zero-shot por meio de aprendizagem no contexto. As previsões vêm de um ...",
-      "link": "https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-01T07:48:59+00:00"
     }
   ]
 }
