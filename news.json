@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-07-03T19:19:57.250142+00:00",
+  "generated_at": "2026-07-04T02:46:43.034502+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "bdf22f5f7b005eeb",
+      "title": "Confira o Olhar Digital News na íntegra (03/07/2026)",
+      "summary": "Medicamentos feitos por IA? Anthropic quer desenvolver fármacos por conta própria O post Confira o Olhar Digital News na íntegra (03/07/2026) apareceu primeiro em Olhar Digital .",
+      "link": "https://olhardigital.com.br/2026/07/03/videos/confira-o-olhar-digital-news-na-integra-03-07-2026/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-04T01:45:43+00:00"
+    },
+    {
+      "id": "d00414b8e877e769",
+      "title": "Dona do AliExpress vai banir uso do Claude Code dos funcionários",
+      "summary": "A Alibaba, dona do AliExpress, proibiu funcionários de usar o Claude Code , ferramenta de programação com inteligência artificial da Anthropic, no ambiente de trabalho. A…",
+      "link": "https://canaltech.com.br/mercado/dona-do-aliexpress-vai-banir-uso-do-claude-code-dos-funcionarios/",
+      "image": "https://t.ctcdn.com.br/81tBjui86lEYcFRUgmDuR6sbNqc=/700x394/smart/i681364.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-03T23:00:00+00:00"
+    },
+    {
+      "id": "4a1e33bd09e1aa3a",
+      "title": "Mistral AI lança Leanstral 1.5: um modelo de agente de código Apache-2.0 Lean 4 que resolve 587 de 672 problemas do PutnamBench",
+      "summary": "A Mistral AI lançou o Leanstral 1.5, um modelo de agente de código Apache-2.0 gratuito para Lean 4. Ele satura o miniF2F e resolve 587 dos 672 problemas do PutnamBench. A mistura de especialistas 119B…",
+      "link": "https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-03T22:20:26+00:00"
+    },
+    {
+      "id": "45d562be09bd8ae9",
+      "title": "Governo Federal lança matriz de competências para uso de IA",
+      "summary": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/governo-federal-lanca-matriz-de-competencias-para-uso-de-ia/",
+      "image": "https://t.ctcdn.com.br/kzQDM-16SY2FIYKPRKkiU42iGYs=/700x394/smart/i1140307.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-03T22:00:00+00:00"
+    },
+    {
+      "id": "a00577fc3335bd27",
+      "title": "Mark Zuckerberg está insatisfeito com progresso de agentes de IA da Meta",
+      "summary": "Executivo disse, em reunião com funcionários, que reestruturação de empresa para se adaptar ao mercado de IA ainda não deu os frutos esperados. Mark Zuckerberg está insatisfeito…",
+      "link": "https://tecnoblog.net/noticias/mark-zuckerberg-esta-insatisfeito-com-progresso-de-agentes-de-ia-da-meta/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-01-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-03T21:52:56+00:00"
+    },
+    {
+      "id": "9bec287b96270cef",
+      "title": "Projetando um pipeline de inteligência de fatura guiado por esquema com lift-pdf para extração, validação e geração de razão de contas a pagar",
+      "summary": "Neste tutorial, construímos um pipeline de extração de contas a pagar de ponta a ponta com lift-pdf, usando PDFs de faturas sintéticas como documentos de teste controlados e um esquema JSON estruturado…",
+      "link": "https://www.marktechpost.com/2026/07/03/schema-guided-invoice-intelligence-pipeline-with-lift-pdf/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f389.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-03T21:25:33+00:00"
+    },
+    {
+      "id": "3e4ac5636d69d8e6",
+      "title": "O único glossário de IA que você precisará este ano",
+      "summary": "A ascensão da IA ​​trouxe uma avalanche de novos termos e gírias. Aqui está um glossário com definições de algumas das palavras e frases mais importantes que você pode encontrar.",
+      "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-03T21:20:00+00:00"
+    },
+    {
+      "id": "1e945e5b8bcc179d",
+      "title": "Brasileiro lidera nova aposta bilionária da Microsoft em inteligência artificial",
+      "summary": "Nova unidade da Microsoft recebe US$ 2,5 bilhões para expandir IA em empresas, com foco em automação e eficiência corporativa global O post Brasileiro lidera nova aposta…",
+      "link": "https://olhardigital.com.br/2026/07/03/pro/brasileiro-lidera-nova-aposta-bilionaria-da-microsoft-em-inteligencia-artificial/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/Destaque-Data-center-de-IA-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-03T20:40:18+00:00"
+    },
+    {
+      "id": "5a2e92b8fe40b73a",
+      "title": "O que é vibe coding? Saiba como funciona a programação assistida por IA",
+      "summary": "O vibe coding utiliza modelos de IA para facilitar e agilizar a criação de códigos para softwares e outras aplicações O que é vibe coding? Saiba como funciona a programação…",
+      "link": "https://tecnoblog.net/responde/o-que-e-vibe-coding-saiba-como-funciona-a-programacao-assistida-por-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/ilustracao-de-vibe-coding-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-03T20:06:57+00:00"
+    },
+    {
+      "id": "dee58d4b294ae807",
+      "title": "A Microsoft segue Anthropic e OpenAI na corrida de superaplicativos de IA com agentes Copilot e AutoPilot revisados",
+      "summary": "A Microsoft planeja fundir seus aplicativos Copilot para consumidores e empresas em um único aplicativo em agosto. Recursos raramente usados, como Copilot Podcasts, estão sendo cortados e nova IA…",
+      "link": "https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/microsoft_copilot_logo-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-03T19:24:40+00:00"
+    },
     {
       "id": "01a1a9afbbe4c258",
       "title": "Chrome e outros navegadores com IA apresentam falhas de segurança, aponta pesquisa",
@@ -881,116 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-07-01T18:15:00+00:00"
-    },
-    {
-      "id": "a64617b5bfdf3602",
-      "title": "Alexa com preço no chão: Amazon Echo Dot sai por R$ 278 e permite parcelar em 6x",
-      "summary": "A Amazon colocou a sua caixa de som inteligente em promoção nesta quarta-feira (01). O Echo Dot da geração mais recente (5ª geração) apareceu à venda por R$ 278 ao aplicar o cupom…",
-      "link": "https://canaltech.com.br/produtos/alexa-com-preco-no-chao-amazon-echo-dot-sai-por-r-278-e-permite-parcelar-em-6x/",
-      "image": "https://t.ctcdn.com.br/ERFq1G0o1vqw3sSEXbJd9DgNzm8=/700x394/smart/i751480.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T18:03:00+00:00"
-    },
-    {
-      "id": "7139019c41a28d88",
-      "title": "Echo Dot em promoção: veja as melhores opções de Smart Speaker com Alexa",
-      "summary": "Se você quer transformar sua casa em um ambiente inteligente sem gastar muito, esta é uma boa oportunidade. Reunimos três opções do Echo Dot — o smart speaker da Amazon com Alexa…",
-      "link": "https://olhardigital.com.br/2026/07/01/reviews/echo-dot-em-promocao-veja-as-melhores-opcoes-de-smart-speaker-com-alexa/",
-      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T18:00:33+00:00"
-    },
-    {
-      "id": "1d209c5581795359",
-      "title": "A nova política da Cloudflare obriga as empresas de IA a pagar pelo conteúdo dos editores",
-      "summary": "A Cloudflare está dando às empresas de IA até 15 de setembro para separar os rastreadores da web usados ​​para pesquisa daqueles usados ​​para treinamento e agentes de IA, ou correm o risco de serem bloqueados por padrão em muitos…",
-      "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-01T17:48:37+00:00"
-    },
-    {
-      "id": "507d9dc9d5129897",
-      "title": "Sim, você terá que pagar uma assinatura para usar IA nos seus óculos",
-      "summary": "Meta anuncia que uso do recurso de foco na conversa será limitado até mesmo para quem tiver o plano. Sim, você terá que pagar uma assinatura para usar IA nos seus óculos",
-      "link": "https://tecnoblog.net/noticias/sim-voce-tera-que-pagar-uma-assinatura-para-usar-a-ia-nos-seus-oculos/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/09/ray-ban-meta-display-glasses-foto-thassius-veloso-tecnoblog-3-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T17:09:45+00:00"
-    },
-    {
-      "id": "2fa44ef0aa71c936",
-      "title": "Depois de assustar Trump com testes de segurança, os modelos de IA antrópica são lançados globalmente",
-      "summary": "Os EUA suspendem as restrições aos modelos avançados Fable e Mythos da Anthropic.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280258777-500x500-1782918942.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-01T16:44:18+00:00"
-    },
-    {
-      "id": "b02b5de2667cf25f",
-      "title": "Meta segue o manual da SpaceX e constrói um negócio em nuvem para vender sua computação extra de IA para clientes externos",
-      "summary": "A Meta está construindo seu próprio negócio em nuvem para vender computação de IA sobressalente para clientes externos. Com investimentos planejados em IA de até US$ 145 bilhões somente neste ano, a mesma pergunta que…",
-      "link": "https://the-decoder.com/meta-follows-spacexs-playbook-and-builds-a-cloud-business-to-sell-its-spare-ai-compute-to-outside-customers/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/04/meta_ai_logo_wall_muse.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-01T16:00:43+00:00"
-    },
-    {
-      "id": "94c768ce3675b2b1",
-      "title": "Educadores e líderes do setor da cidade de Nova York se reuniram nos escritórios do Google para moldar o futuro da IA ​​nas salas de aula.",
-      "summary": "O Google, o New York Jobs CEO Council e a Urban Assembly organizaram uma cúpula de IA para 150 líderes da educação e da indústria.",
-      "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-01T16:00:00+00:00"
-    },
-    {
-      "id": "0983ae2397ceede9",
-      "title": "Anthropic libera Claude Fable 5 após governo dos EUA retirar proibição",
-      "summary": "Amazon havia encontrado forma de fazer jailbreak no modelo. Decisão que proibia uso por estrangeiros foi derrubada. Anthropic libera Claude Fable 5 após governo dos EUA retirar…",
-      "link": "https://tecnoblog.net/noticias/anthropic-libera-claude-fable-5-apos-governo-dos-eua-retirar-proibicao/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/5f5jylzhdhw.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T15:34:16+00:00"
-    },
-    {
-      "id": "ac4bd0d0756f98bd",
-      "title": "A IA não invasiva de cérebro para texto da Meta está fechando a lacuna com implantes cirúrgicos",
-      "summary": "A equipe FAIR AI da Meta usa Brain2Qwerty v2 para traduzir a atividade cerebral em frases digitadas, sem necessidade de implantes ou cirurgia. O sistema lê sinais magnéticos fora do…",
-      "link": "https://the-decoder.com/metas-non-invasive-brain-to-text-ai-is-closing-the-gap-with-surgical-implants/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/Brain2Qwertyv2-title.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-01T15:34:09+00:00"
-    },
-    {
-      "id": "a213ede9ece8535d",
-      "title": "Fable e Mythos 5: governo Trump libera IAs mais perigosas da Anthropic",
-      "summary": "O Departamento de Comércio dos Estados Unidos retirou nesta terça-feira (30) as restrições de exportação que pesavam sobre o Mythos 5 e o Fable 5 , os modelos de inteligência…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/fable-e-mythos-5-governo-trump-libera-ias-mais-perigosas-da-anthropic/",
-      "image": "https://t.ctcdn.com.br/Am6VaUx8jmQtCNJCxA_znmbrltc=/700x394/smart/i1107289.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T15:00:00+00:00"
     }
   ]
 }
