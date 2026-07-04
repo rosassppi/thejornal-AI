@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-07-04T13:22:13.284907+00:00",
+  "generated_at": "2026-07-04T19:09:57.326342+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "bbe4392212bad398",
+      "title": "12 prompts do Gemini para pesquisar, comparar e comprar um celular novo",
+      "summary": "Comprar produtos de tecnologia deveria ser simples, mas quase nunca é. Você entra querendo só escolher um celular e, quando percebe, já está preso em abas, reviews que dizem…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/prompts-gemini-pesquisar-comparar-comprar-celular-novo/",
+      "image": "https://t.ctcdn.com.br/u-ApvEXeczP3CmhwQ0AK7cHkEGs=/700x394/smart/i1132313.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-04T19:00:00+00:00"
+    },
+    {
+      "id": "805a9f6f302f5981",
+      "title": "Hora de colocar um smartwatch no pulso: veja ofertas selecionadas na Amazon",
+      "summary": "Se você ainda não tem um relógio inteligente — ou quer trocar o que já usa por um modelo mais completo — este é um bom momento para pesquisar. Reunimos três opções de smartwatches…",
+      "link": "https://olhardigital.com.br/2026/07/04/reviews/hora-de-colocar-um-smartwatch-no-pulso-veja-ofertas-selecionadas-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/41NXd7sA45L._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-04T18:30:44+00:00"
+    },
+    {
+      "id": "f234b3f2b433537f",
+      "title": "A ferramenta de código aberto pxpipe oculta texto em PNGs para reduzir os custos dos tokens Claude Code e Fable 5 em até 70%",
+      "summary": "A ferramenta de código aberto pxpipe converte prompts de texto longos para Claude Code em PNGs compactos, explorando o fato de que a Anthropic cobra por imagens por tamanho de pixel, não por conteúdo de texto…",
+      "link": "https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/text_to_image_compression_title.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-04T18:11:33+00:00"
+    },
+    {
+      "id": "85afafbbb341e6d7",
+      "title": "Midjourney quer que os estúdios de Hollywood revelem os detalhes de seu uso de IA",
+      "summary": "Como parte de uma disputa legal em andamento com três estúdios de Hollywood, Midjourney está tentando obrigar esses estúdios a revelar como eles próprios usam a IA.",
+      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-04T18:00:05+00:00"
+    },
+    {
+      "id": "e9f49d0f5a9d4b40",
+      "title": "Alibaba supostamente proíbe funcionários de usar o Código Claude",
+      "summary": "O Alibaba classificou Claude Code como software de alto risco.",
+      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-04T16:32:08+00:00"
+    },
+    {
+      "id": "337eef6fefd0426d",
+      "title": "O que é IA Mistral? Tudo o que você precisa saber sobre o concorrente OpenAI",
+      "summary": "A Mistral AI, que oferece alguns modelos de IA de código aberto, arrecadou financiamento significativo desde a sua criação em 2023, com a ambição de “colocar a IA de fronteira nas mãos de todos”.",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-04T15:51:32+00:00"
+    },
+    {
+      "id": "f9d5c74b32193b95",
+      "title": "IA pode destruir a bateria do seu celular; veja como resolver",
+      "summary": "A inteligência artificial está cada vez mais presente nos smartphones, sendo integrada ao sistema e a diversos aplicativos para executar tarefas, como resumos de notificações…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/ia-pode-destruir-a-bateria-do-seu-celular-veja-como-resolver/",
+      "image": "https://t.ctcdn.com.br/ZHTeRLBEvZ9V6ryjoDtw8E9DI2E=/700x394/smart/i1086691.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-04T15:00:00+00:00"
+    },
+    {
+      "id": "653ff833c82ce8ec",
+      "title": "5 produtos para começar uma casa inteligente pronta para qualquer imprevisto",
+      "summary": "Você já imaginou investir uma boa quantia para começar a automatizar sua casa e, do dia para a noite, os aparelhos comprados deixarem de ser úteis? Essa é uma situação real que…",
+      "link": "https://canaltech.com.br/produtos/5-produtos-para-comecar-uma-casa-inteligente-pronta-para-qualquer-imprevisto/",
+      "image": "https://t.ctcdn.com.br/FEFgKURrePD_gMSyHEew97czqCU=/700x394/smart/i1139815.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-04T14:30:00+00:00"
+    },
+    {
+      "id": "3abecd0c88617874",
+      "title": "Combo de cinema da Samsung: TV QLED 55\" e soundbar por R$ 3 mil",
+      "summary": "Uma oportunidade excelente acaba de aparecer para quem deseja montar um verdadeiro cinema em casa pagando muito menos . O combo que traz a Smart TV Samsung Vision AI QLED 4K de 55…",
+      "link": "https://canaltech.com.br/tv/combo-de-cinema-da-samsung-tv-qled-55-e-soundbar-por-r-3-mil/",
+      "image": "https://t.ctcdn.com.br/5sPEouOJZt4gk49NJ9X5tVBy8Ys=/700x394/smart/i1033315.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-04T13:54:09+00:00"
+    },
     {
       "id": "828c9b359cda7280",
       "title": "Hora de imprimir mais e gastar menos: seleção de impressoras em oferta na Amazon",
@@ -892,105 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-02T10:44:16+00:00"
-    },
-    {
-      "id": "b6eaabd227348bac",
-      "title": "OpenAI flutua dando à administração Trump 5% de corte no boom da IA",
-      "summary": "A OpenAI sugeriu dar ao governo dos EUA uma participação acionária de 5% como forma de aliviar as tensões com a administração Trump e atenuar a crescente reação pública contra a IA…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-02T10:23:27+00:00"
-    },
-    {
-      "id": "8ffbd243b9b01ace",
-      "title": "A API do Google Health tem uma CLI: ghealth é uma ferramenta de código aberto para seus dados Fitbit Air",
-      "summary": "A API Google Health agora possui uma CLI de código aberto. ghealth é um único binário Go que expõe 40 tipos de dados como JSON pronto para agente. É um projeto comunitário, não um projeto oficial do Google…",
-      "link": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-02T08:46:56+00:00"
-    },
-    {
-      "id": "122379e5267c11ca",
-      "title": "Magnata da tecnologia indiano aposta US$ 30 milhões de seu próprio dinheiro para construir uma alternativa de IA ao Microsoft Office",
-      "summary": "Neo é o quinto empreendimento de Bhavin Turakhia e seu mais recente software empresarial. Desta vez ele está enfrentando o Microsoft Office, Google Apps com IA.",
-      "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-02T05:30:00+00:00"
-    },
-    {
-      "id": "53c7e4c4b91d9dae",
-      "title": "Olhar do Amanhã: IA vira policial e denuncia crime para autoridades",
-      "summary": "Estamos diante de uma redefinição do papel da IA como agente ativo na prevenção de crimes? O post Olhar do Amanhã: IA vira policial e denuncia crime para autoridades apareceu…",
-      "link": "https://olhardigital.com.br/2026/07/01/colunistas/olhar-do-amanha-ia-vira-policial-e-denuncia-crime-para-autoridades/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-02T01:28:23+00:00"
-    },
-    {
-      "id": "19c221628d764b6f",
-      "title": "Português é o 3º idioma mais usado no ChatGPT, diz relatório da OpenAI",
-      "summary": "Expansão global da plataforma mostra queda da hegemonia do inglês e avanço do uso em idiomas locais em várias regiões do mundo O post Português é o 3º idioma mais usado no…",
-      "link": "https://olhardigital.com.br/2026/07/01/pro/portugues-e-o-3o-idioma-mais-usado-no-chatgpt-diz-relatorio-da-openai/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/openai-e1776162556695-1024x577.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T23:14:44+00:00"
-    },
-    {
-      "id": "526112af65b9627d",
-      "title": "AI Slop impacta mundo dos games e gera reação",
-      "summary": "Plataforma open source Godot vai proibir códigos gerados com inteligência artificial. AI Slop impacta mundo dos games e gera reação",
-      "link": "https://tecnoblog.net/noticias/ai-slop-impacta-mundo-dos-games-e-gera-reacao/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/10/tbr-pc-gamer-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T21:56:48+00:00"
-    },
-    {
-      "id": "8a8ce4add2766a43",
-      "title": "Usando o Lift para transformar PDFs de pesquisa em JSON estruturado com avaliação em nível de campo controlada e guiada por esquema",
-      "summary": "Neste tutorial, construímos um fluxo de trabalho completo de PDF para dados estruturados em torno do Lift, criado para avaliação controlada em vez de uma demonstração única. Preparamos um ambiente GPU Colab, carregamos…",
-      "link": "https://www.marktechpost.com/2026/07/01/using-lift-to-turn-research-pdfs-into-structured-json-with-controlled-schema-guided-field-level-evaluation/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-01T21:09:53+00:00"
-    },
-    {
-      "id": "c3ac27155de9db4d",
-      "title": "Anthropic reimplanta Claude Fable 5 em 1º de julho, após levantamento dos controles de exportação dos EUA, adiciona novo classificador de segurança cibernética",
-      "summary": "A Anthropic está realocando Claude Fable 5 em 1º de julho, depois que os controles de exportação dos EUA foram suspensos. Um novo classificador de segurança bloqueia a técnica no relatório da Amazon em 99% das vezes…",
-      "link": "https://www.marktechpost.com/2026/07/01/anthropic-redeploys-claude-fable-5-on-july-1-after-us-export-controls-lift-adds-new-cybersecurity-classifier/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-01T20:41:56+00:00"
-    },
-    {
-      "id": "5572b60d7846ddae",
-      "title": "Apple está lançando mais atualizações para o iPhone e a culpa é da IA",
-      "summary": "A Apple liberou uma atualização de segurança antecipada para o iPhone por causa do aumento das ameaças cibernéticas impulsionadas pela inteligência artificial. Segundo a Reuters…",
-      "link": "https://canaltech.com.br/apps/apple-esta-lancando-mais-atualizacoes-para-o-iphone-e-a-culpa-e-da-ia/",
-      "image": "https://t.ctcdn.com.br/2xMtmDmgr4eLyK7hVwxC33kMU8w=/700x394/smart/i996209.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T20:10:00+00:00"
     }
   ]
 }
