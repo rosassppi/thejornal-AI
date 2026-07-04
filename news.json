@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-07-04T02:46:43.034502+00:00",
+  "generated_at": "2026-07-04T08:35:04.306986+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "2128ca26c080a88d",
+      "title": "Anthropic lança seus próprios programas de descoberta de medicamentos para combater doenças que a Big Pharma considera não lucrativas",
+      "summary": "A Anthropic está lançando seu próprio programa de desenvolvimento de medicamentos para doenças negligenciadas que a indústria farmacêutica considera não lucrativas. O CEO da Novartis, Vas Narasimhan, acha que a IA poderia…",
+      "link": "https://the-decoder.com/anthropic-launches-its-own-drug-discovery-programs-to-tackle-diseases-big-pharma-considers-unprofitable/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_medicine.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-04T08:11:18+00:00"
+    },
+    {
+      "id": "f7c800fea72796c6",
+      "title": "Micron inicia expansão de fábrica no Japão com investimento de R$ 48 bilhões",
+      "summary": "Unidade será dedicada à fabricação de chips, como a memória HBM, componente essencial para processadores de IA, como os da Nvidia O post Micron inicia expansão de fábrica no Japão…",
+      "link": "https://olhardigital.com.br/2026/07/04/pro/micron-inicia-obras-de-expansao-de-fabrica-em-hiroshima-com-investimento-de-r-48-bilhoes/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/micron_2-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-04T07:27:00+00:00"
+    },
+    {
+      "id": "ffaef0bbea8d5ad6",
+      "title": "O Leanstral 1.5 de código aberto da Mistral supera os benchmarks matemáticos formais e detecta bugs reais no código",
+      "summary": "A Mistral AI lançou o Leanstral 1.5, um modelo de código aberto para verificação formal no Lean 4. Além da matemática, o modelo encontrou cinco bugs até então desconhecidos ao verificar 57 códigos abertos…",
+      "link": "https://the-decoder.com/mistrals-open-source-leanstral-1-5-aces-formal-math-benchmarks-and-catches-real-bugs-in-code/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/mistral_ai-3.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-04T07:12:47+00:00"
+    },
+    {
+      "id": "b6081228a80daf53",
+      "title": "França e Índia disputam investimentos em IA",
+      "summary": "Emmanuel Macron e Narendra Modi intensificaram, este ano, o contato direto com big techs O post França e Índia disputam investimentos em IA apareceu primeiro em Olhar Digital .",
+      "link": "https://olhardigital.com.br/2026/07/04/pro/franca-e-india-disputam-investimentos-em-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/Equilibrio-IA-e-cerebro-humano-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-04T06:55:31+00:00"
+    },
     {
       "id": "bdf22f5f7b005eeb",
       "title": "Confira o Olhar Digital News na íntegra (03/07/2026)",
@@ -947,50 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-07-01T18:47:22+00:00"
-    },
-    {
-      "id": "28504fd3c35088dd",
-      "title": "Prime Day 2026: Motorola Razr 60 (256 GB) sai pelo menor preço em meses",
-      "summary": "Dobrável Razr 60 com telas POLED de 120 Hz, câmera de 50 MP e Moto AI recebe grande desconto com pagamento via Pix na Amazon Prime Day 2026: Motorola Razr 60 (256 GB) sai pelo…",
-      "link": "https://tecnoblog.net/achados/prime-day-2026-motorola-razr-60-256-gb-sai-pelo-menor-preco-em-meses/",
-      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/07/razr-60-2-1060x596.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T18:44:21+00:00"
-    },
-    {
-      "id": "bbe1cf4dcf9c2426",
-      "title": "IA revela falha em sistema que vende ingressos de grandes eventos",
-      "summary": "Pesquisador usa IA para identificar falha em sistema de ingressos de grandes festivais nos EUA e acesso preocupa especialistas em segurança digital O post IA revela falha em…",
-      "link": "https://olhardigital.com.br/2026/07/01/seguranca/ia-revela-falha-em-sistema-que-vende-ingressos-de-grandes-eventos/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/ingressos-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T18:35:52+00:00"
-    },
-    {
-      "id": "6f0f12fb121fbd88",
-      "title": "Neocloud Together AI levanta US$ 800 milhões e salta para avaliação de US$ 8,3 bilhões",
-      "summary": "O provedor de IA neocloud, especializado em hospedar modelos de código aberto, arrecadou pela última vez uma avaliação de US$ 3,3 bilhões no início de 2025.",
-      "link": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-01T18:29:14+00:00"
-    },
-    {
-      "id": "0be6913362ae4cbf",
-      "title": "As últimas notícias sobre IA que anunciamos em junho de 2026",
-      "summary": "Herói do Pixel Drop de junho",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-01T18:15:00+00:00"
     }
   ]
 }
