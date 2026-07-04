@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-07-04T08:35:04.306986+00:00",
+  "generated_at": "2026-07-04T13:22:13.284907+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "828c9b359cda7280",
+      "title": "Hora de imprimir mais e gastar menos: seleção de impressoras em oferta na Amazon",
+      "summary": "Se você está pensando em renovar a impressora de casa ou do escritório, este é um bom momento para agir. Reunimos três modelos multifuncionais em promoção na Amazon — todos com…",
+      "link": "https://olhardigital.com.br/2026/07/04/reviews/hora-de-imprimir-mais-e-gastar-menos-selecao-de-impressoras-em-oferta-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-04T12:50:39+00:00"
+    },
+    {
+      "id": "16bf8a3efd57d7d7",
+      "title": "O desenvolvedor Anthropic compartilha dicas para Fable 5 que se concentram em encontrar primeiro seus próprios pontos cegos",
+      "summary": "O desenvolvedor da Anthropic, Thariq Shihipar, argumenta que com o novo modelo de Claude, Fable 5, o gargalo não é mais o modelo em si, mas os pontos cegos do usuário. Ele descreve técnicas…",
+      "link": "https://the-decoder.com/anthropic-developer-shares-prompting-tips-for-fable-5-that-focus-on-finding-your-own-blind-spots-first/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/fable_5_unknown_unknown.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-04T12:37:51+00:00"
+    },
+    {
+      "id": "cee0fddb91eac98e",
+      "title": "A comunidade de fanfiction está em guerra com a IA – e consigo mesma",
+      "summary": "Na semana passada, um novo movimento de fanworks começou, com o objetivo de erradicar autores que usam IA generativa. Mas os métodos de detecção implementados são questionáveis ​​e…",
+      "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-04T12:00:00+00:00"
+    },
+    {
+      "id": "98a26f179cc143b0",
+      "title": "Estamos terceirizando nossa opinião para o algoritmo?",
+      "summary": "Neste artigo, Rodrigo Almeida avalia o impacto das redes sociais e da inteligência artificial na formação da nossa opinião O post Estamos terceirizando nossa opinião para o…",
+      "link": "https://olhardigital.com.br/2026/07/04/colunistas/estamos-terceirizando-nossa-opiniao-para-o-algoritmo/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-04T10:00:00+00:00"
+    },
+    {
+      "id": "6cd0e669525c53d0",
+      "title": "O cofundador da OpenAI prevê um futuro “quase sem interface”, onde ninguém mais aprende software",
+      "summary": "Greg Brockman admite que os plug-ins do ChatGPT, fortemente comercializados em 2023, falharam “porque os modelos não estavam prontos”. Em vez de extensões de aplicativos, ele vê o futuro de uma forma invisível…",
+      "link": "https://the-decoder.com/openai-cofounder-envisions-almost-no-interface-future-where-nobody-learns-software-anymore/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/10/openai_logo_wall-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-04T09:53:21+00:00"
+    },
+    {
+      "id": "3ed8a11511f49132",
+      "title": "Um estudo com 26.000 estudantes mostra que o custo oculto de aprendizagem da IA ​​leva dois anos inteiros para aparecer",
+      "summary": "Um estudo com mais de 26.000 estudantes chineses descobriu que os usuários de IA terminaram o dever de casa mais rápido e obtiveram pontuações mais altas, mas tiveram desempenho até 24% pior nos exames. O impacto total em…",
+      "link": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/ai-generated-homework-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-04T09:08:41+00:00"
+    },
     {
       "id": "2128ca26c080a88d",
       "title": "Anthropic lança seus próprios programas de descoberta de medicamentos para combater doenças que a Big Pharma considera não lucrativas",
@@ -925,72 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-01T20:10:00+00:00"
-    },
-    {
-      "id": "a4d3956842935655",
-      "title": "SpaceX mostra aos investidores um protótipo fino de smartphone com IA equipado com tecnologia xAI",
-      "summary": "A SpaceX mostrou aos investidores um protótipo de smartphone com IA que é supostamente mais fino que um iPhone e integra tecnologia xAI. O dispositivo funciona com um chip Qualcomm Snapdragon com seu próprio…",
-      "link": "https://the-decoder.com/spacex-shows-investors-a-slim-ai-smartphone-prototype-powered-by-xai-technology/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/spacex_logo_wall.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-01T19:47:31+00:00"
-    },
-    {
-      "id": "ef4086f75fe20cbb",
-      "title": "Vazou! Veja o óculos inteligente da Samsung e o que ele pode fazer",
-      "summary": "Nova aposta da Samsung indica integração entre IA e dispositivos vestíveis com controle por gestos e funções conectadas no dia a dia O post Vazou! Veja o óculos inteligente da…",
-      "link": "https://olhardigital.com.br/2026/07/01/reviews/vazou-veja-o-oculos-inteligente-da-samsung-e-o-que-ele-pode-fazer/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2024/07/anel-de-branco-de-titanio-galaxy-ring-samsung-1024x576.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T19:11:13+00:00"
-    },
-    {
-      "id": "d0e37f1fe32c6a46",
-      "title": "IA falha em tarefas e empresas voltam a contratar humanos",
-      "summary": "Demissões motivadas por inteligência artificial começam a ser revistas por empresas que enfrentaram problemas operacionais e baixa eficiência O post IA falha em tarefas e empresas…",
-      "link": "https://olhardigital.com.br/2026/07/01/inteligencia-artificial/ia-falha-em-tarefas-e-empresas-voltam-a-contratar-humanos/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/gestao-escritorio-humano-e-agentes-IA-1024x480.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T18:58:17+00:00"
-    },
-    {
-      "id": "372624dec7e9fff7",
-      "title": "A SpaceX tem um protótipo de dispositivo de IA e com certeza parece um telefone",
-      "summary": "A SpaceX supostamente mostrou aos investidores um dispositivo de IA “semelhante a um aparelho” antes de abrir o capital. Pode ser outro sinal que a SpaceX deseja expandir para a tecnologia sem fio.",
-      "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-01T18:54:18+00:00"
-    },
-    {
-      "id": "01bd395485c79582",
-      "title": "ChatGPT ganha app da TIM para consulta de planos com IA",
-      "summary": "A TIM estreou o seu próprio aplicativo no ChatGPT nesta quarta-feira (1º). A integração permite consultar serviços da operadora de telefonia através do chatbot com inteligência…",
-      "link": "https://canaltech.com.br/apps/chatgpt-ganha-app-da-tim-para-consulta-de-planos-com-ia/",
-      "image": "https://t.ctcdn.com.br/CwTb5KNWOIPyQhMUlOLFldakqk8=/700x394/smart/i1119843.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-01T18:47:41+00:00"
-    },
-    {
-      "id": "3846c59276e8fff1",
-      "title": "Ashton Kutcher deixando a Sound Ventures para lançar uma nova empresa de capital de risco com Morgan Beller",
-      "summary": "A Sound construiu sua reputação com base em apostas concentradas e de alta convicção em laboratórios de IA líderes da categoria, enquanto o novo fundo de Kutcher parece estar perseguindo a camada abaixo dessas empresas -…",
-      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-01T18:47:22+00:00"
     }
   ]
 }
