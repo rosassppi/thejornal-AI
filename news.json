@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-07-05T13:28:14.010120+00:00",
+  "generated_at": "2026-07-05T19:16:02.084560+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "4bc9b18ef28abf42",
+      "title": "Hora de imprimir mais gastando menos: selecionamos impressoras em promoção na Amazon",
+      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções de impressoras multifuncionais em oferta na…",
+      "link": "https://olhardigital.com.br/2026/07/05/reviews/hora-de-imprimir-mais-gastando-menos-selecionamos-impressoras-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-05T18:40:00+00:00"
+    },
+    {
+      "id": "974203a8f34c03ad",
+      "title": "Claude Code e Fable 5 portaram o jogo Command & Conquer para PC de 2003 para iOS nativo em “algumas horas”",
+      "summary": "Um desenvolvedor do Google Deepmind portou o jogo de estratégia em tempo real de 2003 \"Command & Conquer: Generals Zero Hour\" para iPhone e iPad usando Claude Code da Anthropic. A primeira construção demorou…",
+      "link": "https://the-decoder.com/claude-code-and-fable-5-ported-the-2003-pc-game-command-conquer-to-native-ios-in-a-few-hours/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/cc5_fable_5_ios_port.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-05T15:58:56+00:00"
+    },
+    {
+      "id": "71fd193e4f941736",
+      "title": "O \"OCR ilimitado\" do Baidu processa dezenas de páginas de documentos de uma só vez, tratando a memória como o esquecimento humano",
+      "summary": "O OCR ilimitado do Baidu lê dezenas de páginas de documentos em uma única passagem, enquanto os sistemas anteriores chegavam a cerca de dez. Um mecanismo de atenção modificado mantém o uso da memória estável…",
+      "link": "https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/baidu-ocr-machine-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-05T15:25:07+00:00"
+    },
+    {
+      "id": "8d29f9a311918fa5",
+      "title": "Como liberar espaço no Gmail com a ajuda do Gemini",
+      "summary": "Seu Gmail está lotado e, de repente, você percebe que não consegue mais receber e-mails. Aquele aviso de “armazenamento cheio” aparece e a solução mais óbvia — sair apagando…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-gemini-liberar-espaco-gmail/",
+      "image": "https://t.ctcdn.com.br/PN-Y77BZ34aq5FAco6sKhuzKKvA=/700x394/smart/i1137517.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-05T15:05:00+00:00"
+    },
+    {
+      "id": "95839bb42bc41c85",
+      "title": "iPhone agora edita fotos com IA melhor que Galaxy? Veja nosso comparativo",
+      "summary": "Após um bom tempo sendo “piada” pela edição de imagem bem distante do padrão Apple de qualidade, o Apple Intelligence finalmente ficou inteligente de verdade com o iOS 27, graças…",
+      "link": "https://canaltech.com.br/smartphone/iphone-agora-edita-fotos-com-ia-melhor-que-galaxy-veja-nosso-comparativo/",
+      "image": "https://t.ctcdn.com.br/lPz-u8ClPhhF9R-iK94Py1Py1-s=/700x394/smart/i975619.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-05T14:30:00+00:00"
+    },
+    {
+      "id": "de9adfa52a186630",
+      "title": "Comercial enfurecedor do Google imagina os pais fundadores adotando a IA",
+      "summary": "\"Projeto de grupo, mas faça-o em 1776.\" É assim que abre um novo comercial do Google Workspace. E as coisas só ficam mais complicadas a partir daí. O clipe imagina como seria se…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Q3RjZY-rSsc-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-05T14:23:11+00:00"
+    },
     {
       "id": "b683fbfc9b266b24",
       "title": "Quase 90 novos unicórnios foram cunhados até agora este ano – aqui estão eles",
@@ -925,72 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-02T18:36:13+00:00"
-    },
-    {
-      "id": "347e208fedcb5370",
-      "title": "Anthropic está discutindo um novo chip personalizado com a Samsung",
-      "summary": "A notícia chega cerca de uma semana depois que a OpenAI anunciou seu próprio chip de IA personalizado em parceria com a Broadcom.",
-      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-02T18:31:09+00:00"
-    },
-    {
-      "id": "4a3a7d40845e7358",
-      "title": "O papel da inteligência artificial nos resgates após o terremoto na Venezuela",
-      "summary": "NASA, Microsoft e União Europeia usam IA e satélites para mapear danos após terremoto na Venezuela e acelerar ações de resgate O post O papel da inteligência artificial nos…",
-      "link": "https://olhardigital.com.br/2026/07/02/inteligencia-artificial/o-papel-da-inteligencia-artificial-nos-resgates-apos-o-terremoto-na-venezuela/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/iStock-1136916454-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-02T18:04:09+00:00"
-    },
-    {
-      "id": "bed853e399b4809b",
-      "title": "Instagram ganha novos recursos para gravar Stories com óculos da Meta",
-      "summary": "O Instagram anunciou novos recursos para quem usa os óculos inteligentes da Meta . A atualização integra ainda mais os dispositivos à rede social e facilita a criação de Stories…",
-      "link": "https://canaltech.com.br/apps/instagram-ganha-novos-recursos-para-gravar-stories-com-oculos-da-meta/",
-      "image": "https://t.ctcdn.com.br/nL_VD59qF939VRvm5r5TtzRRxFs=/700x394/smart/i1139753.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-02T18:00:00+00:00"
-    },
-    {
-      "id": "4205d09d4bead6d1",
-      "title": "A Anthropic supostamente explora a fabricação de chips personalizados com a Samsung, enquanto insiste que a Nvidia ainda é importante",
-      "summary": "A Anthropic está supostamente em negociações com a Samsung Electronics sobre a fabricação de um chip de IA personalizado. O projeto ainda é inicial, mas a Anthropic já contratou engenheiros de chips. Depois…",
-      "link": "https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_ai_chip.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-02T17:30:57+00:00"
-    },
-    {
-      "id": "8baea75c41ab3d2d",
-      "title": "A Anthropic diz que cortou 80 por cento do prompt do sistema de Claude Code porque os modelos Fable 5 “querem um prompt do sistema menor”",
-      "summary": "A Anthropic reduziu a solicitação do sistema para Claude Code em 80 por cento. De acordo com o funcionário Tariq Shihipar, os novos modelos do Fable 5 precisam de menos instruções e exemplos. As diretrizes podem…",
-      "link": "https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_ai_conference_talk_shihipar.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-02T16:20:29+00:00"
-    },
-    {
-      "id": "278a86c76556c667",
-      "title": "IA que responde por sua empresa no WhatsApp terá cobrança por uso, explica Meta",
-      "summary": "A Meta detalhou o funcionamento do Meta Business Agent , agente de IA para empresas que mantém contato com consumidores via WhatsApp . Em comunicado aos desenvolvedores, a…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-que-responde-por-sua-empresa-no-whatsapp-tera-cobranca-por-uso-explica-meta/",
-      "image": "https://t.ctcdn.com.br/GTdOgzY5mikmzRQDT7ZWI0A6HSI=/700x394/smart/i1052831.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-02T16:04:52+00:00"
     }
   ]
 }
