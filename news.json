@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-07-05T02:57:15.332040+00:00",
+  "generated_at": "2026-07-05T08:51:20.741935+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "0cedcc6d516e353a",
+      "title": "Os agentes de pesquisa de IA não falham na pesquisa, eles falham em fazer as perguntas certas quando as consultas se tornam ambíguas",
+      "summary": "Os agentes de pesquisa de IA raramente falham em pesquisas em várias etapas por causa da própria pesquisa. Seu verdadeiro problema não é pedir esclarecimentos ao usuário quando as dúvidas são ambíguas. Um novo…",
+      "link": "https://the-decoder.com/ai-search-agents-dont-fail-at-searching-they-fail-at-asking-the-right-questions-when-queries-get-ambiguous/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/discobench-search-agents-have-to-decide-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-05T07:52:17+00:00"
+    },
+    {
+      "id": "deca4d6d7d9726a3",
+      "title": "LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 com ferramentas de recuperação, localização, leitura e grep",
+      "summary": "O legal-kb do LlamaIndex é um aplicativo de referência pública que fornece aos agentes acesso no estilo de sistema de arquivos a uma base de conhecimento de documentos no Index v2. Ele expõe recuperação (pesquisa semântica híbrida)…",
+      "link": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4c4.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-05T07:50:19+00:00"
+    },
+    {
+      "id": "a8bc8363cb80f5f4",
+      "title": "PDF para JSON estruturado: um guia para modelos de extração de código aberto em 2026",
+      "summary": "A maioria dos dados corporativos ainda fica em PDFs, digitalizações e apresentações de slides. Grandes modelos e agentes de linguagem não podem usar esses dados até que se tornem JSON estruturado. Documento de código aberto…",
+      "link": "https://www.marktechpost.com/2026/07/04/structured-pdf-to-json-a-guide-to-open-source-extraction-models-in-2026/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-05T03:02:08+00:00"
+    },
+    {
+      "id": "d79999ee33f40af5",
+      "title": "Antigo líder de Qwen sobre o que o pensamento híbrido deu errado - e por que ele agora apóia os agentes",
+      "summary": "Junyang Lin, ex-líder técnico da Qwen do Alibaba, percorreu a família de modelos em uma palestra “em direção a um modelo/agente generalista” e depois a expandiu em um ensaio. Nós lemos…",
+      "link": "https://www.marktechpost.com/2026/07/04/qwens-former-lead-on-what-hybrid-thinking-got-wrong-and-why-he-now-backs-agents/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/b0xlsq_6wuq.jpg",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-05T02:31:14+00:00"
+    },
     {
       "id": "1cb2f01002c2b06e",
       "title": "Processada por Hollywood, Midjourney quer provar que estúdios fazem o mesmo que ela",
@@ -100,6 +144,28 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-07-04T16:32:08+00:00"
+    },
+    {
+      "id": "b79e1323d00c07f7",
+      "title": "Anthropic lança Claude Science Beta: uma bancada de trabalho de IA multiagente para pipelines reproduzíveis de genômica, proteômica e quimioinformática",
+      "summary": "A Anthropic lançou o Claude Science em versão beta em 30 de junho de 2026. O aplicativo funciona em modelos Claude existentes. Um agente coordenador delega para especialistas de domínio, um agente revisor sinaliza…",
+      "link": "https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-04T16:21:21+00:00"
+    },
+    {
+      "id": "91216e9c0b2acb09",
+      "title": "NVIDIA HORIZON: um agente viva-voz que evolui as árvores de trabalho do Git e atinge 100% de conclusão do benchmark RTL",
+      "summary": "Uma estrutura de agente NVIDIA viva-voz hospeda cada problema RTL como um repositório versionado, atingindo 100% de conclusão em benchmarks. A postagem NVIDIA HORIZON: um agente viva-voz que…",
+      "link": "https://www.marktechpost.com/2026/07/04/nvidia-horizon-a-hands-free-agent-that-evolves-git-worktrees-and-hits-100-rtl-benchmark-completion/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-04-at-9.03.06-AM-1-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-04T16:04:29+00:00"
     },
     {
       "id": "337eef6fefd0426d",
@@ -254,6 +320,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-04T06:55:31+00:00"
+    },
+    {
+      "id": "7779d8a9f1b8fa33",
+      "title": "NVIDIA AI apresenta ASPIRE: uma estrutura robótica de autoaperfeiçoamento que atinge 31% de tiro zero em tarefas longas do LIBERO-Pro",
+      "summary": "O ASPIRE da NVIDIA escreve e refina programas de controle de robôs e depois transforma os reparos validados em uma biblioteca de habilidades reutilizável. Ganha até 77 pontos no LIBERO-Pro e transfere…",
+      "link": "https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-04T06:32:47+00:00"
     },
     {
       "id": "bdf22f5f7b005eeb",
@@ -914,83 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-02T14:39:17+00:00"
-    },
-    {
-      "id": "acd0d232ab24c111",
-      "title": "Microsoft lança sua própria empresa de implantação de IA com compromisso de US$ 2,5 bilhões",
-      "summary": "A Microsoft segue Amazon, OpenAI e Anthropic com seu novo grupo de implantação de IA.",
-      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-02T13:53:00+00:00"
-    },
-    {
-      "id": "74b5c8b5c51e959e",
-      "title": "Por que o próximo ciclo computacional precisa ser construído para todos",
-      "summary": "Nos últimos três anos, a capacidade computacional global dedicada à inteligência artificial cresceu aproximadamente 100 vezes . É uma das revoluções tecnológicas mais impactantes…",
-      "link": "https://canaltech.com.br/colunas/por-que-o-proximo-ciclo-computacional-precisa-ser-construido-para-todos/",
-      "image": "https://t.ctcdn.com.br/nZ6sNq7PsgAB4H-oy5G3Tk3upoA=/700x394/smart/i1003705.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-02T13:43:03+00:00"
-    },
-    {
-      "id": "e8b94457198a7ae8",
-      "title": "Nvidia está financiando startups de IA para afrouxar o controle da Big Tech em seu negócio de chips",
-      "summary": "A Nvidia está agindo cada vez mais como um banco central para startups de IA, moldando ativamente o mercado de computação. O artigo A Nvidia está financiando startups de IA para afrouxar o controle da Big Tech sobre…",
-      "link": "https://the-decoder.com/nvidia-is-bankrolling-ai-startups-to-loosen-big-techs-grip-on-its-chip-business/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-02T13:00:05+00:00"
-    },
-    {
-      "id": "7e8972a4de9e4905",
-      "title": "Alvo de críticas, Google destaca métodos de suicídio em resumos de IA",
-      "summary": "Caso reacende debate sobre responsabilidade de plataformas digitais na moderação de informações geradas por inteligência artificial O post Alvo de críticas, Google destaca métodos…",
-      "link": "https://olhardigital.com.br/2026/07/02/inteligencia-artificial/alvo-de-criticas-google-destaca-metodos-de-suicidio-em-resumos-de-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/Destaque-Google-Gemini-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-02T12:52:13+00:00"
-    },
-    {
-      "id": "2e6433c4f899a042",
-      "title": "Ensinando IA a funcionar com turbinas",
-      "summary": "A inteligência artificial pode ter capturado a imaginação do público através de chatbots e geradores de imagens, mas alguns dos seus casos de uso mais importantes estão se desenvolvendo longe de…",
-      "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-02T12:51:44+00:00"
-    },
-    {
-      "id": "23a0377940e38b09",
-      "title": "Os agentes de IA agora podem concluir 16% dos trabalhos freelance com qualidade profissional, acima dos 2,5% de oito meses atrás",
-      "summary": "O Índice de Trabalho Remoto mede a frequência com que os agentes de IA concluem projetos freelance remunerados com qualidade profissional. Em oito meses, a taxa máxima de automação mais que quadruplicou…",
-      "link": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/Remote-labor-index-bench-title.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-02T12:37:49+00:00"
-    },
-    {
-      "id": "d37c6caf0bdce64e",
-      "title": "Google traz curtas de vídeo estilo TikTok para NotebookLM",
-      "summary": "O Google expandiu o NotebookLM para incluir visões gerais de vídeo no formato curto comumente usado nas redes sociais. O artigo Google traz curtas de vídeo estilo TikTok para NotebookLM…",
-      "link": "https://the-decoder.com/google-brings-tiktok-style-video-shorts-to-notebooklm/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/07/notebooklm_video_overview.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-02T12:17:15+00:00"
     }
   ]
 }
