@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-07-06T10:17:52.844664+00:00",
+  "generated_at": "2026-07-06T15:29:35.261036+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "bf55a61637b6dda9",
+      "title": "LeRobot v0.6.0: Imagine, avalie, melhore",
+      "summary": "",
+      "link": "https://huggingface.co/blog/lerobot-release-v060",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-07T00:00:00+00:00"
+    },
+    {
+      "id": "d021bea7ae741168",
+      "title": "Reddit está usando LLMs para resolver um problema que LLMs criou em grande parte",
+      "summary": "Na era da IA, as plataformas não têm escolha a não ser combater fogo com fogo para eliminar o spam.",
+      "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-06T15:22:08+00:00"
+    },
+    {
+      "id": "3042b4159f4dfbe6",
+      "title": "Xbox em crise? Microsoft corta milhares de empregos e fecha estúdios",
+      "summary": "Demissões e mudanças no Xbox marcam nova fase da Microsoft, que prioriza inteligência artificial e reduz operação em games O post Xbox em crise? Microsoft corta milhares de…",
+      "link": "https://olhardigital.com.br/2026/07/06/games-e-consoles/xbox-em-crise-microsoft-corta-milhares-de-empregos-e-fecha-estudios/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/10/xbox-1-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-06T15:10:34+00:00"
+    },
+    {
+      "id": "432c3ecf1f6e1a7c",
+      "title": "Microsoft demite quase 5.000 funcionários no Xbox, vendas comerciais",
+      "summary": "A Microsoft cortou cerca de 4.800 cargos, ou 2,1% de sua força de trabalho global, na segunda-feira – a última de uma série de demissões que alimentam temores de que a IA substitua empregos. As demissões vão atingir…",
+      "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-06T15:08:46+00:00"
+    },
+    {
+      "id": "a7a1ae6ee93e26fe",
+      "title": "Regulador do Reino Unido alerta sobre “corrida armamentista” para acompanhar o uso de IA em serviços financeiros",
+      "summary": "Funcionário da FCA defende maiores poderes de vigilância, à medida que milhões de pessoas usam a tecnologia para decisões financeiras pessoais.",
+      "link": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ftcms_90ad2b22-0222-4d93-ab0a-6c1af73b39fc-1-500x500.jpeg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-06T14:17:42+00:00"
+    },
+    {
+      "id": "ce81d4dd1a419144",
+      "title": "Após críticas, Microsoft permitirá desligar IA no Teams",
+      "summary": "Usuários poderão desligar o Copilot, resumos e anotações automáticas durante as videochamadas. Atualização deve ser liberada ainda neste mês. Após críticas, Microsoft permitirá…",
+      "link": "https://tecnoblog.net/noticias/apos-criticas-microsoft-permitira-desligar-ia-no-teams/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2020/11/microsoft-teams-iphone-app-ios-tecnoblog-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-06T14:03:11+00:00"
+    },
+    {
+      "id": "291bd557d3e718da",
+      "title": "Adobe Lightroom para celulares ganha IA para transformar fotos em vídeos",
+      "summary": "A Adobe liberou o “Photo to Video” para o app do Lightroom para celulares e tablets Android e iOS nesta segunda-feira (6). Com a atualização, os usuários conseguem animar as…",
+      "link": "https://canaltech.com.br/apps/adobe-lightroom-para-celulares-ganha-ia-para-transformar-fotos-em-videos/",
+      "image": "https://t.ctcdn.com.br/dpdo78P-a67pSu2adGJK0CJszHc=/700x394/smart/i1140657.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-06T13:49:43+00:00"
+    },
+    {
+      "id": "3b35e07d1ddd6387",
+      "title": "Microsoft está demitindo 4.800 funcionários",
+      "summary": "Um ano depois de demitir cerca de 9.100 funcionários, a Microsoft está fazendo mais demissões hoje, ao iniciar seu novo ano financeiro. A fabricante de software está demitindo cerca de 4.800 funcionários…",
+      "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2262967364.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-06T13:30:00+00:00"
+    },
+    {
+      "id": "9cde332f81ea52ac",
+      "title": "A Estação F se torna uma plataforma de lançamento para as startups de IA mais importantes da Europa",
+      "summary": "Station F, um centro de startups com sede em Paris fundado pelo bilionário francês Xavier Niel, está se preparando para uma nova edição de seu programa acelerador F/ai em uma tentativa de fortalecer seu…",
+      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-06T13:00:00+00:00"
+    },
+    {
+      "id": "795ea94e1100415a",
+      "title": "Kyber NVL144 da Nvidia supostamente adiou mais de um ano, fornecedores asiáticos caíram",
+      "summary": "O próximo rack de servidor AI da Nvidia, Kyber NVL144, foi adiado mais de um ano para 2028 devido a problemas de fabricação de placas de circuito, de acordo com a empresa de análise SemiAnalysis…",
+      "link": "https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-06T12:30:11+00:00"
+    },
+    {
+      "id": "ab11040d9fae6511",
+      "title": "A China força suas maiores plataformas de IA a encerrar personas de chatbot com aparência humana",
+      "summary": "ByteDance e Alibaba estão desativando os recursos que permitem aos usuários criar e conversar com companheiros de IA personalizados, respondendo às novas regulamentações de Pequim. O artigo Forças da China…",
+      "link": "https://the-decoder.com/china-forces-its-biggest-ai-platforms-to-shut-down-humanlike-chatbot-personas/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/12/china_neural_network.jpeg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-06T12:26:09+00:00"
+    },
+    {
+      "id": "8c82ed91748703e5",
+      "title": "Amazon pôr do sol Mechanical Turk, a \"Inteligência Artificial Artificial\" original",
+      "summary": "Amazon Web Services está encerrando seu serviço de crowdsourcing Mechanical Turk para novos clientes a partir de 30 de julho de 2026. O artigo Amazon encerra Mechanical Turk, o original…",
+      "link": "https://the-decoder.com/amazon-sunsets-mechanical-turk-the-original-artificial-artificial-intelligence/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/12/white_collar_work_ai.jpeg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-06T11:19:29+00:00"
+    },
     {
       "id": "26a4f9fd61a283e1",
       "title": "JADEPUFFER é a primeira operação de ransomware agente e expõe antigos pecados de segurança na velocidade da máquina",
@@ -859,138 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-07-03T03:24:23+00:00"
-    },
-    {
-      "id": "6a5bcd53d610aa42",
-      "title": "Google e Amazon registram alta de emissões de gases de efeito estufa por IA",
-      "summary": "O Google e a Amazon divulgaram aumentos expressivos em suas emissões de gases de efeito estufa, atribuídos à construção acelerada de infraestrutura voltada O post Google e Amazon…",
-      "link": "https://olhardigital.com.br/2026/07/02/pro/google-e-amazon-registram-alta-de-emissoes-de-gases-de-efeito-estufa-por-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/google_logo-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-03T01:39:33+00:00"
-    },
-    {
-      "id": "18a91685f137e82b",
-      "title": "Confira o Olhar Digital News na íntegra (02/07/2026)",
-      "summary": "Calor ameaça funcionamento dos data centers... mas será que os eventos climáticos extremos podem parar a IA? O post Confira o Olhar Digital News na íntegra (02/07/2026) apareceu…",
-      "link": "https://olhardigital.com.br/2026/07/02/videos/confira-o-olhar-digital-news-na-integra-02-07-2026/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-03T01:26:23+00:00"
-    },
-    {
-      "id": "e0097b651f31a93b",
-      "title": "Seu Direito Digital: Google revela métodos de suicídio em resumos de IA",
-      "summary": "Google tem sido alvo de críticas após sua IA destacar métodos de suicídio em resumos de notícias O post Seu Direito Digital: Google revela métodos de suicídio em resumos de IA…",
-      "link": "https://olhardigital.com.br/2026/07/02/colunistas/seu-direito-digital-google-revela-metodos-de-suicidio-em-resumos-de-ia/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-03T00:34:59+00:00"
-    },
-    {
-      "id": "8aafbde5522c666a",
-      "title": "Mark Zuckerberg diz à equipe que os agentes de IA não progrediram tão rapidamente quanto ele esperava",
-      "summary": "Numa reunião interna, o CEO da Meta teria dito que os esforços de desenvolvimento de IA não estavam avançando tão rapidamente quanto o previsto.",
-      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-02T23:38:10+00:00"
-    },
-    {
-      "id": "f20a657e7f3a0ea9",
-      "title": "Meta lança app para criação de jogos e experiências com IA",
-      "summary": "Chamado Pocket, software permite que usuários gerem pequenos aplicativos e jogos utilizando comandos de texto (prompts) enviados à IA O post Meta lança app para criação de jogos e…",
-      "link": "https://olhardigital.com.br/2026/07/02/inteligencia-artificial/meta-lanca-app-para-criacao-de-jogos-e-experiencias-com-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/gizmo_pocket-1024x447.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-02T22:08:07+00:00"
-    },
-    {
-      "id": "63cb10801367ebfa",
-      "title": "Tutorial RAG-Anything: Construa um pipeline de recuperação multimodal para texto, tabelas, equações e imagens no Colab",
-      "summary": "Neste tutorial, construímos um fluxo de trabalho RAG-Anything para explorar como funciona a recuperação multimodal em texto, tabelas, equações e imagens. Preparamos um ambiente Colab, entre em nosso…",
-      "link": "https://www.marktechpost.com/2026/07/02/rag-anything-tutorial-build-a-multimodal-retrieval-pipeline-for-text-tables-equations-and-images-in-colab/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-02T21:38:34+00:00"
-    },
-    {
-      "id": "cf14b46c8761acd7",
-      "title": "Virginia Fonseca tem “clone de IA” para conversar com fãs por até R$ 89",
-      "summary": "A plataforma Versio funciona como um chatbot de IA na qual é possível conversar com versões inspiradas em especialistas e celebridades, como a influenciadora Virginia Fonseca . O…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/virginia-fonseca-tem-clone-de-ia-para-conversar-com-fas-por-ate-r-89/",
-      "image": "https://t.ctcdn.com.br/k8MEe2l3PH5iKwUNiwyAeaBzMwA=/700x394/smart/i1139979.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-02T21:00:00+00:00"
-    },
-    {
-      "id": "190ada5e5a2acc25",
-      "title": "Conheça o Page Agent do Alibaba: um agente GUI JavaScript na página que controla interfaces da Web com linguagem natural por meio do DOM",
-      "summary": "O Page Agent do Alibaba é executado como JavaScript do lado do cliente dentro da página da web. Ele lê o DOM ativo como texto e, em seguida, clica e digita a partir de comandos de linguagem natural. Sem capturas de tela, não…",
-      "link": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-02T20:51:39+00:00"
-    },
-    {
-      "id": "9ac380645645a045",
-      "title": "Alexa grandona: caixa de som inteligente e potente aparece em oferta na Amazon",
-      "summary": "A Amazon antecipou as ofertas do Prime Day e colocou a Echo Dot Max , geração mais recente da linha de caixas de som inteligentes da marca, em promoção. Aplicando o cupom…",
-      "link": "https://canaltech.com.br/produtos/alexa-grandona-caixa-de-som-inteligente-e-potente-aparece-em-oferta-na-amazon/",
-      "image": "https://t.ctcdn.com.br/i2cLJipt6SylyF9h3BD7JSpsb2g=/700x394/smart/i1077025.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-02T20:20:33+00:00"
-    },
-    {
-      "id": "7624ce29282e5cc1",
-      "title": "Cloudflare vai bloquear bots de IA por padrão em sites com anúncios",
-      "summary": "Cloudflare dará mais poderes para que donos de sites bloqueiem, total ou parcialmente, mecanismos de IA que vasculham suas páginas sem oferecer contrapartidas. Cloudflare vai…",
-      "link": "https://tecnoblog.net/noticias/cloudflare-bloqueara-bots-de-ia-por-padrao-em-sites-com-anuncios/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/cloudflare-bloqueio-ia-edited-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-02T20:16:47+00:00"
-    },
-    {
-      "id": "4e067ac4eae1853b",
-      "title": "O IPO de Jersey Mike ilustra o quão ruim se tornou o hype da IA",
-      "summary": "Só por diversão, dei uma olhada nos documentos do IPO de Jersey Mike. Certamente uma lanchonete não precisaria mencionar IA. Mas vejam só.",
-      "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-02T20:11:59+00:00"
-    },
-    {
-      "id": "eb01ca86e0a722d5",
-      "title": "OpenAI pode ceder 5% da empresa para o governo dos EUA",
-      "summary": "Plano de Sam Altman seria criar fundo de riqueza para distribuir lucros da IA e acalmar as tensões com a gestão Trump. OpenAI pode ceder 5% da empresa para o governo dos EUA",
-      "link": "https://tecnoblog.net/noticias/openai-pode-ceder-5-da-empresa-para-o-governo-dos-eua/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-1-capa-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-02T19:44:24+00:00"
     }
   ]
 }
