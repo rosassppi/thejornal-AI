@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-07-06T03:23:59.075917+00:00",
+  "generated_at": "2026-07-06T10:17:52.844664+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "26a4f9fd61a283e1",
+      "title": "JADEPUFFER é a primeira operação de ransomware agente e expõe antigos pecados de segurança na velocidade da máquina",
+      "summary": "A empresa de segurança Sysdig descreve um ataque de extorsão em que um modelo de linguagem invadiu por conta própria, roubou credenciais e destruiu bancos de dados. Nenhum humano parecia estar nos controles…",
+      "link": "https://the-decoder.com/jadepuffer-is-the-first-agentic-ransomware-operation-and-it-exposes-old-security-sins-at-machine-speed/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/Agentic-Ransomware-Attack-title.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-06T10:04:02+00:00"
+    },
+    {
+      "id": "3bcd3228317b8e36",
+      "title": "Como o Kindle virou um refúgio contra as distrações",
+      "summary": "Amazon explica como o Kindle evoluiu, ganhou recursos de IA e se tornou uma aposta para ajudar leitores a recuperar o foco na era das distrações Ouça ao podcast.",
+      "link": "https://canaltech.com.br/podcast/podcast-canaltech/como-o-kindle-virou-um-refugio-contra-as-distracoes-6599/",
+      "image": "https://t.ctcdn.com.br/DVtvnUjV-CzRlRK9NoPmeE_3yDE=/700x394/smart/i1140401.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-06T09:00:00+00:00"
+    },
+    {
+      "id": "e998906a376bd21c",
+      "title": "🤗 Kernels: atualizações importantes",
+      "summary": "",
+      "link": "https://huggingface.co/blog/revamped-kernels",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-06T00:00:00+00:00"
+    },
     {
       "id": "62797d7741b41a29",
       "title": "Alguns dos ricos do país estão permitindo que a IA ensine seus filhos",
@@ -958,39 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-02T19:44:24+00:00"
-    },
-    {
-      "id": "27df604320b6c778",
-      "title": "Microsoft lança \"Frontier Company\" de US$ 2,5 bilhões para incorporar 6.000 engenheiros de IA em clientes corporativos",
-      "summary": "A Microsoft está investindo US$ 2,5 bilhões em uma nova unidade chamada “Frontier Company”, que coloca 6 mil engenheiros diretamente em clientes corporativos. O objetivo é integrar a IA no núcleo…",
-      "link": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/05/microsoft_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-02T19:18:29+00:00"
-    },
-    {
-      "id": "17604d1f5ea995cc",
-      "title": "Um sinal de alerta sobre o custo real da IA, cortesia do Google e da Amazon",
-      "summary": "A IA tornou muito mais difícil para empresas de tecnologia como Amazon e Google cumprirem suas promessas de emissões líquidas zero.",
-      "link": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-02T19:14:46+00:00"
-    },
-    {
-      "id": "7aa7dee0c92d0a08",
-      "title": "Apple planeja cinco novos iPhones até 2027 e negocia chips chineses",
-      "summary": "Movimento ocorre em um contexto de escassez generalizada de componentes no setor, impulsionada pela demanda de data centers de IA O post Apple planeja cinco novos iPhones até 2027…",
-      "link": "https://olhardigital.com.br/2026/07/02/reviews/apple-planeja-cinco-novos-iphones-ate-2027-e-negocia-chips-chineses/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/camera-de-celular-smartphone-iphone-1024x577.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-02T18:56:58+00:00"
     }
   ]
 }
