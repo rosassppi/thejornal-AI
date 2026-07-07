@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-07-07T14:30:33.887956+00:00",
+  "generated_at": "2026-07-07T19:53:23.999559+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "a5c8937a365690ee",
+      "title": "Meta faz grande aposta para rivalizar com Nano Banana e ChatGPT Images",
+      "summary": "A Meta lançou nesta terça-feira (07) o Muse Image , novo modelo de IA para gerar imagens. Além de melhorar a qualidade do resultado final, a novidade integra a tecnologia com as…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/meta-faz-grande-aposta-para-rivalizar-com-nano-banana-e-chatgpt-images/",
+      "image": "https://t.ctcdn.com.br/uG09ie63J2aO8xloC6VgtIWO7w8=/700x394/smart/i1097607.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-07T19:51:03+00:00"
+    },
+    {
+      "id": "1456e1678db7593b",
+      "title": "Discord admite que bug de moderação de IA baniu injustamente usuários por causa de imagens inofensivas",
+      "summary": "A empresa confirmou que o problema estava afetando as contas desde maio, com mais 200 usuários banidos no fim de semana antes que sua equipe identificasse e corrigisse o problema.",
+      "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-07T19:28:38+00:00"
+    },
+    {
+      "id": "e717a095af92f56e",
+      "title": "Hora de imprimir mais e gastar menos: confira as melhores ofertas de impressoras",
+      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções de multifuncionais em promoção na Amazon, com…",
+      "link": "https://olhardigital.com.br/2026/07/07/reviews/hora-de-imprimir-mais-e-gastar-menos-confira-as-melhores-ofertas-de-impressoras/",
+      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-07T18:40:00+00:00"
+    },
+    {
+      "id": "58cc482b0ee405cf",
+      "title": "O Copilot fica barato à medida que a Microsoft elimina os modelos OpenAI e Anthropic para cortar custos",
+      "summary": "A Microsoft está substituindo os modelos de IA da OpenAI e Anthropic por seus próprios modelos MAI em produtos como Excel e Outlook. Dezenas de milhares de consultas por semana já são realizadas…",
+      "link": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/microsoft_coopilot.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-07T18:35:58+00:00"
+    },
+    {
+      "id": "9ea8f1e93dec1d53",
+      "title": "Pessoas confiam mais em rostos falsos do que em rostos humanos, diz estudo",
+      "summary": "Este é o primeiro estudo a examinar a confiabilidade de rostos de IA criados com a mais recente tecnologia de difusão O post Pessoas confiam mais em rostos falsos do que em rostos…",
+      "link": "https://olhardigital.com.br/2026/07/07/inteligencia-artificial/pessoas-confiam-mais-em-rostos-falsos-do-que-em-rostos-humanos-diz-estudo/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/crianca-estudando-aprendendo-com-inteligencia-artificial-ia-sem-professor-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-07T18:34:16+00:00"
+    },
+    {
+      "id": "a360840f4c304d6e",
+      "title": "Cohere Transcribe Arabic é um modelo de código aberto desenvolvido para os problemas de transcrição mais difíceis do árabe",
+      "summary": "Cohere lançou Transcribe Arabic, um modelo de código aberto para reconhecimento de fala árabe que, segundo a empresa, supera Whisper e OmniASR em dialetos, troca de código e…",
+      "link": "https://the-decoder.com/cohere-transcribe-arabic-is-an-open-source-model-built-for-arabics-toughest-transcription-problems/",
+      "image": "https://the-decoder.com/wp-content/uploads/2024/06/cohere_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-07T17:54:08+00:00"
+    },
+    {
+      "id": "359c68ac53cb2f3a",
+      "title": "Claude leva uma das suas ferramentas mais poderosas aos celulares",
+      "summary": "A Anthropic anunciou a chegada do Claude Cowork para navegadores e no aplicativo para celulares a partir desta terça-feira (07). O assistente consegue acessar seus arquivos e…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/claude-leva-uma-das-suas-ferramentas-mais-poderosas-para-celulares/",
+      "image": "https://t.ctcdn.com.br/yXjaYLlTPjjyGfquGaMp1sPAhrA=/700x394/smart/i1135103.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-07T17:52:00+00:00"
+    },
+    {
+      "id": "9e6282f436819adf",
+      "title": "Anthropic está lançando Claude Cowork no mobile e web",
+      "summary": "A partir de terça-feira, a plataforma Claude Cowork AI da Anthropic estará disponível para dispositivos móveis e web pela primeira vez. O acesso expandido está sendo implementado primeiro para assinantes do Max e…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Cowork-Web-Mobile-Press-No-Logo-1920x1080-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-07T17:46:59+00:00"
+    },
+    {
+      "id": "fd3da67cf02e4b61",
+      "title": "O agente Claude Cowork AI da Anthropic agora está disponível para dispositivos móveis e web",
+      "summary": "A Anthropic está lançando seu agente de IA, Claude Cowork, para dispositivos móveis e web. Até agora, o recurso estava limitado ao aplicativo de desktop. O agente continua trabalhando em segundo plano mesmo quando…",
+      "link": "https://the-decoder.com/anthropics-claude-cowork-ai-agent-is-now-available-on-mobile-and-web/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/antropic_logo_chat_cowork-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-07T17:04:30+00:00"
+    },
+    {
+      "id": "1783468e23e9e8c8",
+      "title": "Liquid AI Open-Sources Antidoom: um método final de otimização de preferência de token (FTPO) que reduz loops de destruição em modelos de raciocínio",
+      "summary": "A Liquid AI lançou o Antidoom, um método de código aberto que visa loops de destruição em modelos de raciocínio. Um loop doom repete um período até que a janela de contexto se esgote. Antidoom descobre…",
+      "link": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-07T16:50:50+00:00"
+    },
+    {
+      "id": "369e64b6fb06e204",
+      "title": "DeepSeek prepara chip de IA para reduzir dependência da NVIDIA, revela portal",
+      "summary": "A DeepSeek tende a lançar o seu próprio chip de IA , seguindo os passos da Amazon , Google, OpenAI e Microsoft. A nova aposta da empresa chinesa foi revelada pela agência de…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/deepseek-prepara-chip-de-ia-para-reduzir-dependencia-da-nvidia-revela-portal/",
+      "image": "https://t.ctcdn.com.br/bTkmlUts3SxUJAKpY1QBAUExSno=/700x394/smart/i1054603.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-07T16:32:00+00:00"
+    },
+    {
+      "id": "ae9e772be9004928",
+      "title": "Claude Cowork se expande para dispositivos móveis e web",
+      "summary": "Com esta atualização, os usuários podem iniciar uma tarefa em sua mesa, obter atualizações de status em seus telefones e retomar o resultado final mais tarde, mesmo que o laptop esteja fechado.",
+      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-07T16:27:18+00:00"
+    },
+    {
+      "id": "0baa408c4427c5b5",
+      "title": "Enfrentando controles de exportação dos EUA, DeepSeek da China planeja fabricar seus próprios chips",
+      "summary": "Ainda é cedo, mas o plano é reduzir a dependência da Nvidia e da Huawei.",
+      "link": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-2195894561-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-07T16:14:53+00:00"
+    },
+    {
+      "id": "c91121b3522beefa",
+      "title": "A China pretende restringir as exportações dos seus principais modelos de IA e a Europa está no meio",
+      "summary": "Segundo a Reuters, as autoridades chinesas estão a tentar restringir o acesso estrangeiro aos modelos de IA mais poderosos do país. Alibaba, Bytedance e Z.ai seriam todos afetados…",
+      "link": "https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/Europe-AI-Race-in-the-Middle.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-07T16:13:45+00:00"
+    },
+    {
+      "id": "1ec294ada9f40d0a",
+      "title": "Abraçando modelos de rosto na computação gerenciada do Foundry",
+      "summary": "",
+      "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-07T15:20:06+00:00"
+    },
+    {
+      "id": "194e698db0f23331",
+      "title": "DeepSeek está desenvolvendo seu primeiro chip de IA",
+      "summary": "Startup chinesa trabalha em processador voltado para inferência. Medida busca driblar restrições dos EUA. DeepSeek está desenvolvendo seu primeiro chip de IA",
+      "link": "https://tecnoblog.net/noticias/deepseek-esta-desenvolvendo-seu-primeiro-chip-de-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/01/Capa-Deepseek-China-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-07T15:16:42+00:00"
+    },
+    {
+      "id": "ba0a4de3b98b9acf",
+      "title": "O monólogo interno oculto de Claude agora é legível graças à nova lente jacobiana da Anthropic",
+      "summary": "A Anthropic descobriu que Claude desenvolveu uma memória interna de trabalho por conta própria durante o treinamento. A empresa o chama de “J-Space” e agora pode lê-lo usando uma nova ferramenta de análise…",
+      "link": "https://the-decoder.com/claudes-hidden-inner-monologue-is-now-readable-thanks-to-anthropics-new-jacobian-lens/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/10/anthropic_claude_memory.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-07T14:46:29+00:00"
+    },
+    {
+      "id": "9ec121b03e3fabc8",
+      "title": "Norma, startup de direito de IA, levanta US$ 120 milhões e atinge avaliação de unicórnio",
+      "summary": "A startup jurídica de IA Norm levantou uma rodada Série C de US$ 120 milhões liderada pela Khosla Ventures, avaliando a startup em US$ 1,2 bilhão.",
+      "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-07T14:35:42+00:00"
+    },
     {
       "id": "42ec3ad7a9a27229",
       "title": "Novo chip da DeepSeek pode mudar a disputa da inteligência artificial",
@@ -179,6 +377,17 @@
       "published_at": "2026-07-07T09:00:00+00:00"
     },
     {
+      "id": "2a44ce948b87c338",
+      "title": "Expansão de agentes gerenciados na API Gemini: tarefas em segundo plano, MCP remoto e muito mais",
+      "summary": "Lançamento do pacote de recursos de agentes gerenciados",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-07T08:54:00+00:00"
+    },
+    {
       "id": "1e1285a1168e3b11",
       "title": "Tencent lança Hy3: um modelo aberto de mistura de especialistas (MoE) de 295B com parâmetros ativos de 21B e contexto de 256K",
       "summary": "A equipe Hy da Tencent lançou o Hy3, um modelo de mistura de especialistas (MoE) de 295B que ativa apenas 21B de parâmetros por token. Ele é fornecido no Apache 2.0 com uma janela de contexto de 256K, visando…",
@@ -243,6 +452,28 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-07T01:33:15+00:00"
+    },
+    {
+      "id": "ab9ea62ec59ebe1a",
+      "title": "Australian Payments Plus avança mais rápido com ChatGPT e Codex",
+      "summary": "Veja como o Australian Payments Plus usa ChatGPT Enterprise e Codex para avançar mais rapidamente na complexidade dos pagamentos. AP+ economiza tempo, melhora a qualidade e mantém o julgamento humano no centro.",
+      "link": "https://openai.com/index/australian-payments-plus",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-07T00:00:00+00:00"
+    },
+    {
+      "id": "8125b5dd69d0a597",
+      "title": "Execute cargas de trabalho de IA em qualquer nuvem e armazene no Hugging Face: armazenamento com saída zero com o SkyPilot",
+      "summary": "",
+      "link": "https://huggingface.co/blog/skypilot-hf-storage",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-07T00:00:00+00:00"
     },
     {
       "id": "bf55a61637b6dda9",
@@ -760,237 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-05T22:30:54+00:00"
-    },
-    {
-      "id": "8b2219aa2635800f",
-      "title": "Meituan lança LongCat-2.0: um modelo MoE aberto com parâmetro 1.6T com contexto nativo de 1M e atenção esparsa LongCat",
-      "summary": "A Meituan lançou o LongCat-2.0, um modelo de mistura de especialistas de 1,6 trilhão de parâmetros que ativa cerca de 48 bilhões de parâmetros por token. Ele emparelha um token nativo de 1 milhão…",
-      "link": "https://www.marktechpost.com/2026/07/05/meituan-releases-longcat-2-0-a-1-6t-parameter-open-moe-model-with-native-1m-context-and-longcat-sparse-attention/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-05-at-2.23.44-PM-1-150x150.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-05T21:25:10+00:00"
-    },
-    {
-      "id": "5feab0be8b1452fc",
-      "title": "7 funções escondidas do Gemini que vão salvar sua rotina de trabalho",
-      "summary": "Embora o Google Gemini já seja conhecido como um assistente de inteligência artificial, ele ainda conta com diversas funções pouco aproveitadas pela maioria dos usuários. Quando…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-funcoes-escondidas-para-salvar-rotina-trabalho/",
-      "image": "https://t.ctcdn.com.br/xJsYmUSfVb47gNGY9_wAC1H0BII=/700x394/smart/i1135135.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-05T21:00:00+00:00"
-    },
-    {
-      "id": "4bc9b18ef28abf42",
-      "title": "Hora de imprimir mais gastando menos: selecionamos impressoras em promoção na Amazon",
-      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções de impressoras multifuncionais em oferta na…",
-      "link": "https://olhardigital.com.br/2026/07/05/reviews/hora-de-imprimir-mais-gastando-menos-selecionamos-impressoras-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-05T18:40:00+00:00"
-    },
-    {
-      "id": "974203a8f34c03ad",
-      "title": "Claude Code e Fable 5 portaram o jogo Command & Conquer para PC de 2003 para iOS nativo em “algumas horas”",
-      "summary": "Um desenvolvedor do Google Deepmind portou o jogo de estratégia em tempo real de 2003 \"Command & Conquer: Generals Zero Hour\" para iPhone e iPad usando Claude Code da Anthropic. A primeira construção demorou…",
-      "link": "https://the-decoder.com/claude-code-and-fable-5-ported-the-2003-pc-game-command-conquer-to-native-ios-in-a-few-hours/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/cc5_fable_5_ios_port.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-05T15:58:56+00:00"
-    },
-    {
-      "id": "71fd193e4f941736",
-      "title": "O \"OCR ilimitado\" do Baidu processa dezenas de páginas de documentos de uma só vez, tratando a memória como o esquecimento humano",
-      "summary": "O OCR ilimitado do Baidu lê dezenas de páginas de documentos em uma única passagem, enquanto os sistemas anteriores chegavam a cerca de dez. Um mecanismo de atenção modificado mantém o uso da memória estável…",
-      "link": "https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/baidu-ocr-machine-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-05T15:25:07+00:00"
-    },
-    {
-      "id": "8d29f9a311918fa5",
-      "title": "Como liberar espaço no Gmail com a ajuda do Gemini",
-      "summary": "Seu Gmail está lotado e, de repente, você percebe que não consegue mais receber e-mails. Aquele aviso de “armazenamento cheio” aparece e a solução mais óbvia — sair apagando…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-gemini-liberar-espaco-gmail/",
-      "image": "https://t.ctcdn.com.br/PN-Y77BZ34aq5FAco6sKhuzKKvA=/700x394/smart/i1137517.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-05T15:05:00+00:00"
-    },
-    {
-      "id": "95839bb42bc41c85",
-      "title": "iPhone agora edita fotos com IA melhor que Galaxy? Veja nosso comparativo",
-      "summary": "Após um bom tempo sendo “piada” pela edição de imagem bem distante do padrão Apple de qualidade, o Apple Intelligence finalmente ficou inteligente de verdade com o iOS 27, graças…",
-      "link": "https://canaltech.com.br/smartphone/iphone-agora-edita-fotos-com-ia-melhor-que-galaxy-veja-nosso-comparativo/",
-      "image": "https://t.ctcdn.com.br/lPz-u8ClPhhF9R-iK94Py1Py1-s=/700x394/smart/i975619.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-05T14:30:00+00:00"
-    },
-    {
-      "id": "de9adfa52a186630",
-      "title": "Comercial enfurecedor do Google imagina os pais fundadores adotando a IA",
-      "summary": "\"Projeto de grupo, mas faça-o em 1776.\" É assim que abre um novo comercial do Google Workspace. E as coisas só ficam mais complicadas a partir daí. O clipe imagina como seria se…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Q3RjZY-rSsc-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-05T14:23:11+00:00"
-    },
-    {
-      "id": "b683fbfc9b266b24",
-      "title": "Quase 90 novos unicórnios foram cunhados até agora este ano – aqui estão eles",
-      "summary": "Com a IA desencadeando um frenesi de investidores, mais startups estão alcançando o status de unicórnio a cada mês.",
-      "link": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-05T12:47:39+00:00"
-    },
-    {
-      "id": "df0dff9e1b3544b8",
-      "title": "Moto g06 em promoção: confira uma seleção de ofertas para economizar na Motorola",
-      "summary": "Quem está em busca de um smartphone com boa bateria, câmera com inteligência artificial e preço acessível vai gostar do que separamos aqui. O Motorola Moto g06 aparece em três…",
-      "link": "https://olhardigital.com.br/2026/07/05/reviews/moto-g06-em-promocao-confira-uma-selecao-de-ofertas-para-economizar-na-motorola/",
-      "image": "https://m.media-amazon.com/images/I/41DX0EoIkpL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-05T12:40:00+00:00"
-    },
-    {
-      "id": "e42676d7e5268ef0",
-      "title": "Samsung NEO QLED com IA: veja uma seleção de TVs Vision AI em promoção na Amazon",
-      "summary": "Se você está pensando em renovar a TV da sala, este é um bom momento para olhar o que a Samsung trouxe com a linha Vision AI de 2025. São modelos NEO QLED Ultra 4K com…",
-      "link": "https://olhardigital.com.br/2026/07/05/reviews/samsung-neo-qled-com-ia-veja-uma-selecao-de-tvs-vision-ai-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/41-5ZDRnUWL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-05T11:20:00+00:00"
-    },
-    {
-      "id": "b4bef4e0768e897f",
-      "title": "Escolas privadas de IA vendem às famílias ricas dos EUA aprendizagem personalizada em vez da educação tradicional",
-      "summary": "As famílias ricas dos EUA estão cada vez mais enviando seus filhos para escolas de IA como a Alpha School, que combina duas horas de aulas de IA com workshops baseados em projetos por até US$ 75.000 por…",
-      "link": "https://the-decoder.com/ai-private-schools-sell-wealthy-us-families-on-personalized-learning-over-traditional-education/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/alpha_school.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-05T10:45:46+00:00"
-    },
-    {
-      "id": "bdb3857d7848cc01",
-      "title": "O CEO da Mistral, Mensch, diz que os modelos proprietários de IA dão aos laboratórios um lugar na primeira fila para seus processos de negócios",
-      "summary": "O fundador da Mistral, Arthur Mensch, alerta as empresas contra a dependência de modelos fechados de IA. Ele afirma que os laboratórios de IA estão armazenando cada vez mais dados de clientes e, em alguns casos, os usaram para ir…",
-      "link": "https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/mistral_europe.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-05T10:22:06+00:00"
-    },
-    {
-      "id": "6a766273c513b0b8",
-      "title": "Hollywood quer que o Seedance seja banido e supostamente também quer continuar usando-o",
-      "summary": "A ferramenta de vídeo AI da Bytedance, Seedance, está dividindo Hollywood. Um clipe viral apresentando Brad Pitt e Tom Cruise gerados por IA motivou o primeiro lançamento da Motion Picture Association…",
-      "link": "https://the-decoder.com/hollywood-wants-seedance-banned-and-reportedly-also-wants-to-keep-using-it/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/bytedance_seedance.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-05T09:02:36+00:00"
-    },
-    {
-      "id": "0cedcc6d516e353a",
-      "title": "Os agentes de pesquisa de IA não falham na pesquisa, eles falham em fazer as perguntas certas quando as consultas se tornam ambíguas",
-      "summary": "Os agentes de pesquisa de IA raramente falham em pesquisas em várias etapas por causa da própria pesquisa. Seu verdadeiro problema não é pedir esclarecimentos ao usuário quando as dúvidas são ambíguas. Um novo…",
-      "link": "https://the-decoder.com/ai-search-agents-dont-fail-at-searching-they-fail-at-asking-the-right-questions-when-queries-get-ambiguous/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/discobench-search-agents-have-to-decide-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-05T07:52:17+00:00"
-    },
-    {
-      "id": "deca4d6d7d9726a3",
-      "title": "LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 com ferramentas de recuperação, localização, leitura e grep",
-      "summary": "O legal-kb do LlamaIndex é um aplicativo de referência pública que fornece aos agentes acesso no estilo de sistema de arquivos a uma base de conhecimento de documentos no Index v2. Ele expõe recuperação (pesquisa semântica híbrida)…",
-      "link": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4c4.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-05T07:50:19+00:00"
-    },
-    {
-      "id": "a8bc8363cb80f5f4",
-      "title": "PDF para JSON estruturado: um guia para modelos de extração de código aberto em 2026",
-      "summary": "A maioria dos dados corporativos ainda fica em PDFs, digitalizações e apresentações de slides. Grandes modelos e agentes de linguagem não podem usar esses dados até que se tornem JSON estruturado. Documento de código aberto…",
-      "link": "https://www.marktechpost.com/2026/07/04/structured-pdf-to-json-a-guide-to-open-source-extraction-models-in-2026/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-05T03:02:08+00:00"
-    },
-    {
-      "id": "d79999ee33f40af5",
-      "title": "Antigo líder de Qwen sobre o que o pensamento híbrido deu errado - e por que ele agora apóia os agentes",
-      "summary": "Junyang Lin, ex-líder técnico da Qwen do Alibaba, percorreu a família de modelos em uma palestra “em direção a um modelo/agente generalista” e depois a expandiu em um ensaio. Nós lemos…",
-      "link": "https://www.marktechpost.com/2026/07/04/qwens-former-lead-on-what-hybrid-thinking-got-wrong-and-why-he-now-backs-agents/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/b0xlsq_6wuq.jpg",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-05T02:31:14+00:00"
-    },
-    {
-      "id": "1cb2f01002c2b06e",
-      "title": "Processada por Hollywood, Midjourney quer provar que estúdios fazem o mesmo que ela",
-      "summary": "Disney, Universal e Warner processam a startup por usar personagens protegidos para treinar IA O post Processada por Hollywood, Midjourney quer provar que estúdios fazem o mesmo…",
-      "link": "https://olhardigital.com.br/2026/07/04/inteligencia-artificial/processada-por-hollywood-midjourney-quer-provar-que-estudios-fazem-o-mesmo-que-ela/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-04T21:19:28+00:00"
-    },
-    {
-      "id": "7be518c0d44c0c14",
-      "title": "Use o ChatGPT para descobrir talentos ocultos e transformar a sua carreira",
-      "summary": "O ChatGPT pode ajudar na autoanálise e na descoberta de talentos ocultos por meio de uma conversa guiada. Nesse processo, o usuário responde perguntas sobre carreira e vida…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/use-o-chatgpt-para-descobrir-talentos-ocultos-e-transformar-a-sua-carreira/",
-      "image": "https://t.ctcdn.com.br/ZYG6Fut2RaMaLKaCUk5JQX-psxM=/700x394/smart/i1119851.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-04T21:05:00+00:00"
-    },
-    {
-      "id": "8148c8e03297e7ab",
-      "title": "Novo comercial do Google imagina uma Declaração de Independência escrita com a ajuda da IA",
-      "summary": "Duzentos e cinquenta anos após a assinatura da Declaração de Independência, um novo comercial pergunta: E se os Pais Fundadores tivessem acesso ao Google Workspace?",
-      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-04T20:55:25+00:00"
     }
   ]
 }
