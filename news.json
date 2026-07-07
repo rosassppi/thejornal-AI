@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-07-07T02:57:26.259856+00:00",
+  "generated_at": "2026-07-07T09:38:34.178525+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "62ed20ca43076e43",
+      "title": "A IA vai mudar a sua conta de luz? Entenda a nova corrida por energia",
+      "summary": "O crescimento dos data centers está transformando o setor elétrico e pode impactar preços, infraestrutura e o futuro da inteligência artificial Ouça ao podcast.",
+      "link": "https://canaltech.com.br/podcast/podcast-canaltech/a-ia-vai-mudar-a-sua-conta-de-luz-entenda-a-nova-corrida-por-energia-6601/",
+      "image": "https://t.ctcdn.com.br/NT8V8OT_P1yNVFteV9BH1t5Ln_M=/700x394/smart/i1140735.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-07T09:00:00+00:00"
+    },
+    {
+      "id": "1e1285a1168e3b11",
+      "title": "Tencent lança Hy3: um modelo aberto de mistura de especialistas (MoE) de 295B com parâmetros ativos de 21B e contexto de 256K",
+      "summary": "A equipe Hy da Tencent lançou o Hy3, um modelo de mistura de especialistas (MoE) de 295B que ativa apenas 21B de parâmetros por token. Ele é fornecido no Apache 2.0 com uma janela de contexto de 256K, visando…",
+      "link": "https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-06-at-10.56.27-PM-1-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-07T05:59:07+00:00"
+    },
+    {
+      "id": "cc52f9794513bcae",
+      "title": "OpenAI lança GPT-Realtime-2.1 e GPT-Realtime-2.1-mini para agentes de voz de baixa latência na API",
+      "summary": "OpenAI adicionou dois modelos Realtime à sua API. GPT-Realtime-2.1-mini é um mini modelo de raciocínio para voz, com preço semelhante ao gpt-realtime-mini anterior. OpenAI também reduziu a latência p95 em…",
+      "link": "https://www.marktechpost.com/2026/07/06/openai-gpt-realtime-2-1-mini-reasoning-realtime-api/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/26a1.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-07T04:35:09+00:00"
+    },
     {
       "id": "b6ce6c8ad5784195",
       "title": "Confira o Olhar Digital News na íntegra (06/07/2026)",
@@ -958,39 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-04T12:00:00+00:00"
-    },
-    {
-      "id": "98a26f179cc143b0",
-      "title": "Estamos terceirizando nossa opinião para o algoritmo?",
-      "summary": "Neste artigo, Rodrigo Almeida avalia o impacto das redes sociais e da inteligência artificial na formação da nossa opinião O post Estamos terceirizando nossa opinião para o…",
-      "link": "https://olhardigital.com.br/2026/07/04/colunistas/estamos-terceirizando-nossa-opiniao-para-o-algoritmo/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-04T10:00:00+00:00"
-    },
-    {
-      "id": "6cd0e669525c53d0",
-      "title": "O cofundador da OpenAI prevê um futuro “quase sem interface”, onde ninguém mais aprende software",
-      "summary": "Greg Brockman admite que os plug-ins do ChatGPT, fortemente comercializados em 2023, falharam “porque os modelos não estavam prontos”. Em vez de extensões de aplicativos, ele vê o futuro de uma forma invisível…",
-      "link": "https://the-decoder.com/openai-cofounder-envisions-almost-no-interface-future-where-nobody-learns-software-anymore/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/10/openai_logo_wall-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-04T09:53:21+00:00"
-    },
-    {
-      "id": "3ed8a11511f49132",
-      "title": "Um estudo com 26.000 estudantes mostra que o custo oculto de aprendizagem da IA ​​leva dois anos inteiros para aparecer",
-      "summary": "Um estudo com mais de 26.000 estudantes chineses descobriu que os usuários de IA terminaram o dever de casa mais rápido e obtiveram pontuações mais altas, mas tiveram desempenho até 24% pior nos exames. O impacto total em…",
-      "link": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/ai-generated-homework-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-04T09:08:41+00:00"
     }
   ]
 }
