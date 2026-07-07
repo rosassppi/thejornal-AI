@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-07-06T19:54:31.296888+00:00",
+  "generated_at": "2026-07-07T02:57:26.259856+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "b6ce6c8ad5784195",
+      "title": "Confira o Olhar Digital News na íntegra (06/07/2026)",
+      "summary": "ONU faz alerta sobre IA e pede regras globais para proteger crianças O post Confira o Olhar Digital News na íntegra (06/07/2026) apareceu primeiro em Olhar Digital .",
+      "link": "https://olhardigital.com.br/2026/07/06/videos/confira-o-olhar-digital-news-na-integra-06-07-2026/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-07T02:15:03+00:00"
+    },
+    {
+      "id": "74c0f52fb5d704d1",
+      "title": "Alibaba proíbe funcionários de usar IA da Anthropic por “risco à segurança”",
+      "summary": "Empresa chinesa incluiu Claude Code em lista interna de softwares de alto risco, alegando que companhia estadunidense representa riscos de segurança por meio de backdoors O post…",
+      "link": "https://olhardigital.com.br/2026/07/06/inteligencia-artificial/alibaba-proibe-funcionarios-de-usar-ia-da-anthropic-por-risco-a-seguranca/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/anthropic-2-1024x681.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-07T01:55:52+00:00"
+    },
+    {
+      "id": "f708c773ab455ff9",
+      "title": "Construindo um cocientista QSAR de floresta aleatória dividida em andaime para descoberta de inibidor de EGFR usando ChEMBL, RDKit, SHAP e BRICS",
+      "summary": "Neste tutorial, construímos um cocientista de IA autônomo para a descoberta do inibidor EGFR C797S. Resolvemos o alvo por meio de ChEMBL e UniProt e, em seguida, extraímos os registros IC50 em um ambiente limpo…",
+      "link": "https://www.marktechpost.com/2026/07/06/building-a-scaffold-split-random-forest-qsar-co-scientist-for-egfr-inhibitor-discovery-using-chembl-rdkit-shap-and-brics/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-07T01:43:28+00:00"
+    },
+    {
+      "id": "19bee9e021503c09",
+      "title": "EUA: agência usa IA da Anthropic para encontrar falhas em sistemas do governo",
+      "summary": "Segundo as fontes, ferramenta está sendo usada na análise de repositórios de código do governo em busca de falhas que possam ser exploradas por espiões estrangeiros ou criminosos…",
+      "link": "https://olhardigital.com.br/2026/07/06/seguranca/eua-agencia-usa-ia-da-anthropic-para-encontrar-falhas-em-sistemas-do-governo/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/anthropic-2-1024x681.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-07T01:33:15+00:00"
+    },
     {
       "id": "bf55a61637b6dda9",
       "title": "LeRobot v0.6.0: Imagine, avalie, melhore",
@@ -14,6 +58,61 @@
       "published_at": "2026-07-07T00:00:00+00:00"
     },
     {
+      "id": "ce297b0dfa3ddd52",
+      "title": "O ‘primeiro’ ataque de ransomware executado por IA ainda precisava de um ser humano",
+      "summary": "Um agente de IA realizou a execução técnica de um ataque de ransomware no mundo real pela primeira vez, mas novos detalhes mostram que um humano ainda escolheu a vítima, configurou o…",
+      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-06T23:56:14+00:00"
+    },
+    {
+      "id": "83306285cc3acbc1",
+      "title": "IA nas eleições: o que pode e o que está proibido em 2026",
+      "summary": "Olhar Digital consultou especialistas que explicaram os limites da IAS nas eleições de 2026 e como funciona a fiscalização por parte do TSE O post IA nas eleições: o que pode e o…",
+      "link": "https://olhardigital.com.br/2026/07/06/inteligencia-artificial/ia-nas-eleicoes-o-que-pode-e-o-que-esta-proibido-em-2026/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/Destaque-Urna-eletronica-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-06T23:37:00+00:00"
+    },
+    {
+      "id": "1e8e07f37467128a",
+      "title": "Os investidores dos EUA em breve terão acesso à SK Hynix, outro fabricante de memórias aproveitando o boom da IA",
+      "summary": "SK Hynix está passando por um boom creditado à IA. Isso levará a um IPO multibilionário nos EUA, previsto para ocorrer na sexta-feira.",
+      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-06T23:21:03+00:00"
+    },
+    {
+      "id": "b49859bc029fe52e",
+      "title": "Ataque de ransomware usa agente de IA para se adaptar a sistemas",
+      "summary": "Operação JadePuffer não usa técnicas sofisticadas, mas é capaz de aprender com falhas e gerar correções em poucos segundos. Ataque de ransomware usa agente de IA para se adaptar a…",
+      "link": "https://tecnoblog.net/noticias/ataque-de-ransomware-usa-agente-de-ia-para-se-adaptar-a-sistemas/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/01/seguranca-capa-3-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-06T22:42:07+00:00"
+    },
+    {
+      "id": "228b94128e2184d0",
+      "title": "Midjourney quer que estúdios de Hollywood revelem como usam IA",
+      "summary": "Startup tenta ampliar acesso a documentos internos de Disney, Universal e Warner em processo sobre personagens protegidos por direitos autorais. Midjourney quer que estúdios de…",
+      "link": "https://tecnoblog.net/noticias/midjourney-quer-que-estudios-de-hollywood-revelem-como-usam-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/09/capa-midjourney-1-tbr-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-06T21:23:14+00:00"
+    },
+    {
       "id": "38df0774b8fe750b",
       "title": "Claude fora do ar? Usuários relatam instabilidade na IA da Anthropic",
       "summary": "O Claude , chatbot de inteligência artificial da Anthropic, passa por instabilidades na tarde desta segunda-feira (6). Pelas redes sociais, usuários relatam não conseguir enviar…",
@@ -22,7 +121,7 @@
       "source": "Canaltech",
       "region": "brasil",
       "category": "Brasil",
-      "published_at": "2026-07-06T19:45:14+00:00"
+      "published_at": "2026-07-06T19:45:00+00:00"
     },
     {
       "id": "cf81c1f523c037db",
@@ -45,6 +144,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-06T19:36:11+00:00"
+    },
+    {
+      "id": "960c1e075caea8a5",
+      "title": "Agora você pode personalizar o ritmo e a expressividade do Siri na última versão beta do iOS 27",
+      "summary": "A atualização faz parte do esforço mais amplo da Apple para tornar o Siri mais natural e pessoal, à medida que reconstrói o assistente em torno da IA ​​generativa.",
+      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-06T19:01:59+00:00"
     },
     {
       "id": "90719a4008d30ef6",
@@ -881,116 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-04T09:08:41+00:00"
-    },
-    {
-      "id": "2128ca26c080a88d",
-      "title": "Anthropic lança seus próprios programas de descoberta de medicamentos para combater doenças que a Big Pharma considera não lucrativas",
-      "summary": "A Anthropic está lançando seu próprio programa de desenvolvimento de medicamentos para doenças negligenciadas que a indústria farmacêutica considera não lucrativas. O CEO da Novartis, Vas Narasimhan, acha que a IA poderia…",
-      "link": "https://the-decoder.com/anthropic-launches-its-own-drug-discovery-programs-to-tackle-diseases-big-pharma-considers-unprofitable/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_medicine.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-04T08:11:18+00:00"
-    },
-    {
-      "id": "f7c800fea72796c6",
-      "title": "Micron inicia expansão de fábrica no Japão com investimento de R$ 48 bilhões",
-      "summary": "Unidade será dedicada à fabricação de chips, como a memória HBM, componente essencial para processadores de IA, como os da Nvidia O post Micron inicia expansão de fábrica no Japão…",
-      "link": "https://olhardigital.com.br/2026/07/04/pro/micron-inicia-obras-de-expansao-de-fabrica-em-hiroshima-com-investimento-de-r-48-bilhoes/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/micron_2-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-04T07:27:00+00:00"
-    },
-    {
-      "id": "ffaef0bbea8d5ad6",
-      "title": "O Leanstral 1.5 de código aberto da Mistral supera os benchmarks matemáticos formais e detecta bugs reais no código",
-      "summary": "A Mistral AI lançou o Leanstral 1.5, um modelo de código aberto para verificação formal no Lean 4. Além da matemática, o modelo encontrou cinco bugs até então desconhecidos ao verificar 57 códigos abertos…",
-      "link": "https://the-decoder.com/mistrals-open-source-leanstral-1-5-aces-formal-math-benchmarks-and-catches-real-bugs-in-code/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/mistral_ai-3.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-04T07:12:47+00:00"
-    },
-    {
-      "id": "b6081228a80daf53",
-      "title": "França e Índia disputam investimentos em IA",
-      "summary": "Emmanuel Macron e Narendra Modi intensificaram, este ano, o contato direto com big techs O post França e Índia disputam investimentos em IA apareceu primeiro em Olhar Digital .",
-      "link": "https://olhardigital.com.br/2026/07/04/pro/franca-e-india-disputam-investimentos-em-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/Equilibrio-IA-e-cerebro-humano-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-04T06:55:31+00:00"
-    },
-    {
-      "id": "7779d8a9f1b8fa33",
-      "title": "NVIDIA AI apresenta ASPIRE: uma estrutura robótica de autoaperfeiçoamento que atinge 31% de tiro zero em tarefas longas do LIBERO-Pro",
-      "summary": "O ASPIRE da NVIDIA escreve e refina programas de controle de robôs e depois transforma os reparos validados em uma biblioteca de habilidades reutilizável. Ganha até 77 pontos no LIBERO-Pro e transfere…",
-      "link": "https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-04T06:32:47+00:00"
-    },
-    {
-      "id": "bdf22f5f7b005eeb",
-      "title": "Confira o Olhar Digital News na íntegra (03/07/2026)",
-      "summary": "Medicamentos feitos por IA? Anthropic quer desenvolver fármacos por conta própria O post Confira o Olhar Digital News na íntegra (03/07/2026) apareceu primeiro em Olhar Digital .",
-      "link": "https://olhardigital.com.br/2026/07/03/videos/confira-o-olhar-digital-news-na-integra-03-07-2026/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-04T01:45:43+00:00"
-    },
-    {
-      "id": "d00414b8e877e769",
-      "title": "Dona do AliExpress vai banir uso do Claude Code dos funcionários",
-      "summary": "A Alibaba, dona do AliExpress, proibiu funcionários de usar o Claude Code , ferramenta de programação com inteligência artificial da Anthropic, no ambiente de trabalho. A…",
-      "link": "https://canaltech.com.br/mercado/dona-do-aliexpress-vai-banir-uso-do-claude-code-dos-funcionarios/",
-      "image": "https://t.ctcdn.com.br/81tBjui86lEYcFRUgmDuR6sbNqc=/700x394/smart/i681364.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-03T23:00:00+00:00"
-    },
-    {
-      "id": "4a1e33bd09e1aa3a",
-      "title": "Mistral AI lança Leanstral 1.5: um modelo de agente de código Apache-2.0 Lean 4 que resolve 587 de 672 problemas do PutnamBench",
-      "summary": "A Mistral AI lançou o Leanstral 1.5, um modelo de agente de código Apache-2.0 gratuito para Lean 4. Ele satura o miniF2F e resolve 587 dos 672 problemas do PutnamBench. A mistura de especialistas 119B…",
-      "link": "https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-03T22:20:26+00:00"
-    },
-    {
-      "id": "45d562be09bd8ae9",
-      "title": "Governo Federal lança matriz de competências para uso de IA",
-      "summary": "O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulgou, na última semana, a Matriz de Competências em Inteligência Artificial do Governo do Brasil . O documento…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/governo-federal-lanca-matriz-de-competencias-para-uso-de-ia/",
-      "image": "https://t.ctcdn.com.br/kzQDM-16SY2FIYKPRKkiU42iGYs=/700x394/smart/i1140307.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-03T22:00:00+00:00"
-    },
-    {
-      "id": "a00577fc3335bd27",
-      "title": "Mark Zuckerberg está insatisfeito com progresso de agentes de IA da Meta",
-      "summary": "Executivo disse, em reunião com funcionários, que reestruturação de empresa para se adaptar ao mercado de IA ainda não deu os frutos esperados. Mark Zuckerberg está insatisfeito…",
-      "link": "https://tecnoblog.net/noticias/mark-zuckerberg-esta-insatisfeito-com-progresso-de-agentes-de-ia-da-meta/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-01-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-03T21:52:56+00:00"
     }
   ]
 }
