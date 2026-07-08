@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-07-08T02:33:35.090800+00:00",
+  "generated_at": "2026-07-08T08:25:53.174910+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "857c58384d8046b5",
+      "title": "O GPT-5.6 da OpenAI é lançado quinta-feira após um atraso forçado pelo governo dos EUA",
+      "summary": "A OpenAI está lançando o GPT-5.6 na quinta-feira, depois que o governo dos EUA suspendeu sua proibição de lançamento após testes adicionais. Padrões vinculativos para futuras aprovações de modelos ainda não…",
+      "link": "https://the-decoder.com/openais-gpt-5-6-launches-thursday-after-a-delay-forced-by-the-u-s-government/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_vis-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-08T08:00:30+00:00"
+    },
+    {
+      "id": "c6520adc872d1aa7",
+      "title": "A startup francesa ZML lança produto gratuito para acelerar a inferência em muitos chips de IA",
+      "summary": "ZML, uma startup francesa de IA endossada pelo vencedor do Prêmio Turing Yann LeCun, lançou agora o ZML/LLMD, software que pode tornar a execução de IA menos dispendiosa.",
+      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-08T08:00:00+00:00"
+    },
+    {
+      "id": "dbf8259066547c8e",
+      "title": "A fabricante de chips AI SambaNova levanta US$ 1 bilhão com avaliação de US$ 11 bilhões, 5 meses após a última mega rodada",
+      "summary": "A fabricante de chips de IA SambaNova levantou uma avaliação de US$ 11 bilhões meses depois de rumores de que a Intel estava tentando comprá-la por cerca de US$ 1,6 bilhão.",
+      "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-08T07:16:00+00:00"
+    },
+    {
+      "id": "f97cf8bd76ccb191",
+      "title": "Tutorial Cosmos-Framework da NVIDIA: Projetando uma miniatura compatível com Colab de modelos mundiais do Cosmos 3 com mistura de transformadores omnimodais",
+      "summary": "Neste tutorial, exploramos a estrutura cosmos da NVIDIA de um ângulo prático do Colab, enquanto permanecemos honestos sobre o hardware necessário para os pontos de verificação reais do Cosmos 3. Nós investigamos o…",
+      "link": "https://www.marktechpost.com/2026/07/08/nvidias-cosmos-framework-tutorial-designing-a-colab-friendly-miniature-of-cosmos-3-world-models-with-omnimodal-mixture-of-transformers/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-08T07:15:35+00:00"
+    },
+    {
+      "id": "e5525d910e9c2c4f",
+      "title": "Os hackers podem usar 9 das ferramentas de IA mais populares para montar botnets massivos",
+      "summary": "\"HalluSquatting\" transforma em arma a incapacidade dos LLMs de dizer \"Não sei\".",
+      "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rogue-ai-agent-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-08T07:00:51+00:00"
+    },
+    {
+      "id": "33f7c579606425b2",
+      "title": "LingBot-Vision de código aberto Robbyant do Ant Group: um modelo de base de visão centrado em limites 1B para percepção espacial densa",
+      "summary": "LingBot-Vision de código aberto Robbyant do Ant Group, uma família ViT auto-supervisionada para percepção espacial densa. A modelagem de limites mascarados torna os limites da imagem um treinamento nativo…",
+      "link": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/c8dji75wcfy.jpg",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-08T03:03:22+00:00"
+    },
+    {
+      "id": "cd0c3005a2914d2a",
+      "title": "Anthropic vai expandir sua equipe nos EUA",
+      "summary": "Companhia pretende dobrar sua força de trabalho em Nova York, alcançando mil funcionários ainda este ano O post Anthropic vai expandir sua equipe nos EUA apareceu primeiro em…",
+      "link": "https://olhardigital.com.br/2026/07/07/pro/anthropic-vai-expandir-sua-equipe-nos-eua/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/claude-anthropic-1-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-08T02:15:20+00:00"
+    },
     {
       "id": "55ffabce2a0c5471",
       "title": "Confira o Olhar Digital News na íntegra (07/07/2026)",
@@ -914,83 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-06T16:44:18+00:00"
-    },
-    {
-      "id": "25eba88e53a29169",
-      "title": "eu espio",
-      "summary": "Há muito que defendo que Hollywood simultaneamente definiu e arruinou as nossas expectativas em relação aos óculos inteligentes. Mas depois de assistir duas temporadas de A Man on the Inside, da Netflix, isso…",
-      "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0111.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-06T16:00:00+00:00"
-    },
-    {
-      "id": "779e35ceb9d3cf6b",
-      "title": "Microsoft demite 4.800 funcionários em nova reestruturação",
-      "summary": "Cortes representam cerca de 2,1% da força de trabalho global e incluem divisão de games. Empresa cita ajuste estrutural e avanço da inteligência artificial. Microsoft demite 4.800…",
-      "link": "https://tecnoblog.net/noticias/microsoft-demite-4-800-funcionarios-em-nova-reestruturacao/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/4gras4yyncq-1.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-06T15:58:14+00:00"
-    },
-    {
-      "id": "432c3ecf1f6e1a7c",
-      "title": "Microsoft demite quase 5.000 funcionários no Xbox, vendas comerciais",
-      "summary": "A Microsoft cortou cerca de 4.800 cargos, ou 2,1% de sua força de trabalho global, na segunda-feira – a última de uma série de demissões que alimentam temores de que a IA substitua empregos. As demissões vão atingir…",
-      "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-06T15:32:43+00:00"
-    },
-    {
-      "id": "1dc5824027254506",
-      "title": "PRX Parte 4: Nossa Estratégia de Dados",
-      "summary": "",
-      "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-06T15:30:55+00:00"
-    },
-    {
-      "id": "d021bea7ae741168",
-      "title": "Reddit está usando LLMs para resolver um problema que LLMs criou em grande parte",
-      "summary": "Na era da IA, as plataformas não têm escolha a não ser combater fogo com fogo para eliminar o spam.",
-      "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-06T15:22:08+00:00"
-    },
-    {
-      "id": "3042b4159f4dfbe6",
-      "title": "Xbox em crise? Microsoft corta milhares de empregos e fecha estúdios",
-      "summary": "Demissões e mudanças no Xbox marcam nova fase da Microsoft, que prioriza inteligência artificial e reduz operação em games O post Xbox em crise? Microsoft corta milhares de…",
-      "link": "https://olhardigital.com.br/2026/07/06/games-e-consoles/xbox-em-crise-microsoft-corta-milhares-de-empregos-e-fecha-estudios/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/10/xbox-1-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-06T15:10:34+00:00"
-    },
-    {
-      "id": "a7a1ae6ee93e26fe",
-      "title": "Regulador do Reino Unido alerta sobre “corrida armamentista” para acompanhar o uso de IA em serviços financeiros",
-      "summary": "Funcionário da FCA defende maiores poderes de vigilância, à medida que milhões de pessoas usam a tecnologia para decisões financeiras pessoais.",
-      "link": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ftcms_90ad2b22-0222-4d93-ab0a-6c1af73b39fc-1-500x500.jpeg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-06T14:17:42+00:00"
     }
   ]
 }
