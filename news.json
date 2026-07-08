@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-07-08T08:25:53.174910+00:00",
+  "generated_at": "2026-07-08T14:02:23.754888+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "14f656ef7da62a4a",
+      "title": "Instagram deixa qualquer um usar suas fotos em montagens de IA; saiba desativar",
+      "summary": "O Muse Image, novo modelo de geração de imagens da Meta , trouxe em seu lançamento um recurso que já gera desconforto entre usuários do Instagram. A ferramenta permite criar…",
+      "link": "https://canaltech.com.br/apps/ia-da-meta-pode-usar-suas-fotos-do-instagram-em-montagens-veja-como-desativar/",
+      "image": "https://t.ctcdn.com.br/lcSxcnSY_nUCR882JWA6NNNKD3o=/700x394/smart/i1128857.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-08T13:45:00+00:00"
+    },
+    {
+      "id": "aad713e9febc435b",
+      "title": "1º celular 100% controlado por IA ganha data de lançamento; o que já sabemos",
+      "summary": "O primeiro smartphone que promete ser 100% controlado por um agente de inteligência artificial (IA) está a caminho e já tem data para ser lançado. O aparelho é desenvolvido pela…",
+      "link": "https://canaltech.com.br/smartphone/1o-celular-100-controlado-por-ia-ganha-data-de-lancamento-o-que-ja-sabemos/",
+      "image": "https://t.ctcdn.com.br/t7TTGOlPjuqnIVHnaaFKV9aFBkw=/700x394/smart/i1141593.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-08T13:42:51+00:00"
+    },
+    {
+      "id": "9661d3193505f535",
+      "title": "A startup chinesa de IA MiniMax planeja abrir o código-fonte de um modelo de parâmetros de 2,7 trilhões ainda este ano",
+      "summary": "O desenvolvedor chinês de IA MiniMax está trabalhando em um novo modelo de linguagem grande com 2,7 trilhões de parâmetros. MiniMax planeja lançar o modelo como código aberto. O artigo IA chinesa…",
+      "link": "https://the-decoder.com/chinese-ai-startup-minimax-plans-to-open-source-a-2-7-trillion-parameter-model-later-this-year/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/MiniMax-Logo-Silhouette-Nano-Banana-Pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-08T12:44:52+00:00"
+    },
+    {
+      "id": "408283ebc5834116",
+      "title": "Motorola em promoção: veja uma seleção de smartphones com bateria potente e câmera com IA",
+      "summary": "Se você está de olho em um novo smartphone e quer unir custo-benefício com boas especificações, a Motorola tem opções interessantes em oferta agora mesmo. Reunimos três modelos da…",
+      "link": "https://olhardigital.com.br/2026/07/08/reviews/motorola-em-promocao-veja-uma-selecao-de-smartphones-com-bateria-potente-e-camera-com-ia/",
+      "image": "https://m.media-amazon.com/images/I/41DX0EoIkpL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-08T12:40:00+00:00"
+    },
+    {
+      "id": "d197293b1cbd4c39",
+      "title": "Claude Code vira alvo de alerta de segurança na China; entenda",
+      "summary": "China aponta possível backdoor no Claude Code, ferramenta da Anthropic, e alerta sobre envio de dados de usuários para servidores remotos O post Claude Code vira alvo de alerta de…",
+      "link": "https://olhardigital.com.br/2026/07/08/inteligencia-artificial/claude-code-vira-alvo-de-alerta-de-seguranca-na-china-entenda/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/anthropic-2-1024x681.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-08T12:39:15+00:00"
+    },
+    {
+      "id": "64802775c3d3ff92",
+      "title": "O ex-executivo da OpenAI Kevin Weil agora faz parte do conselho da Stoke Space",
+      "summary": "A nova função de Kevin Weil na Stoke Space sugere que foguetes reutilizáveis ​​​​são a próxima novidade no Vale do Silício.",
+      "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-08T12:00:00+00:00"
+    },
+    {
+      "id": "651d9528ee5f3d8a",
+      "title": "Meta testa óculos de IA sempre ligados que capturam o dia inteiro",
+      "summary": "A Meta está testando um protótipo de headsets alimentados por IA com “Super Sensing” que usa uma câmera e um microfone para registrar cada momento da vida do usuário. O artigo Meta testes…",
+      "link": "https://the-decoder.com/meta-tests-always-on-ai-glasses-that-capture-your-entire-day/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/04/Ray-Ban-Meta-Always-On-KI.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-08T11:48:30+00:00"
+    },
+    {
+      "id": "e84be07cd61e57c4",
+      "title": "Muse Image é tecnicamente impressionante, mas o uso de fotos do Instagram pelo Meta levanta questões",
+      "summary": "O Superintelligence Labs da Meta envia o Muse Image, seu primeiro modelo de geração de imagens. Assim como o GPT Image 2 da OpenAI, ele funciona como um agente, usando ferramentas como execução de código e pesquisa na web…",
+      "link": "https://the-decoder.com/muse-image-is-technically-impressive-but-metas-use-of-instagram-photos-raises-questions/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/Meta-Muse-Image-Video-title.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-08T11:16:37+00:00"
+    },
     {
       "id": "857c58384d8046b5",
       "title": "O GPT-5.6 da OpenAI é lançado quinta-feira após um atraso forçado pelo governo dos EUA",
@@ -553,6 +641,17 @@
       "published_at": "2026-07-07T11:04:34+00:00"
     },
     {
+      "id": "d8b82cdff6329ac6",
+      "title": "Como a IA poderia permitir robôs autônomos em locais de trabalho – e talvez em residências",
+      "summary": "Os principais pesquisadores e fundadores da robótica explicam como a autonomia dos robôs está evoluindo.",
+      "link": "https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Agility_Digit_06-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-07T11:00:18+00:00"
+    },
+    {
       "id": "91540574703a76e3",
       "title": "Como a IA poderia permitir robôs autônomos em locais de trabalho – e talvez em residências",
       "summary": "Os principais pesquisadores e fundadores da robótica explicam como a autonomia dos robôs está evoluindo.",
@@ -892,105 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-06T18:15:00+00:00"
-    },
-    {
-      "id": "ccea1c495f94b820",
-      "title": "Microsoft libera botão para desligar IA no Teams e mudança já tem data",
-      "summary": "Nova atualização do Teams permite desligar recursos de IA como Copilot e Facilitator, com liberação prevista para julho de 2026 O post Microsoft libera botão para desligar IA no…",
-      "link": "https://olhardigital.com.br/2026/07/06/inteligencia-artificial/microsoft-libera-botao-para-desligar-ia-no-teams-e-mudanca-ja-tem-data/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/copilot-ia-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-06T18:05:39+00:00"
-    },
-    {
-      "id": "3e2846ba20e37b03",
-      "title": "Bugatti revela superesportivo com peças de porcelana e preço absurdo",
-      "summary": "E se um superesportivo pudesse ficar ainda mais exclusivo ? Pois é o que propôs a Bugatti com o novo exemplar do Mistral, que recebeu o nome “ Blanc Éternal ” e foi desenhado em…",
-      "link": "https://canaltech.com.br/carros/bugatti-revela-superesportivo-com-pecas-de-porcelana-e-preco-absurdo/",
-      "image": "https://t.ctcdn.com.br/vbcGx6L7XUmosK0VBhyLgCyqKPM=/700x394/smart/i1140765.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-06T18:05:00+00:00"
-    },
-    {
-      "id": "ce189003d01bb134",
-      "title": "Tencent lança modelo de código aberto Hy3 que supostamente corresponde a modelos até cinco vezes seu tamanho ativo",
-      "summary": "A Tencent lançou o Hy3, um modelo de linguagem de código aberto com 295 bilhões de parâmetros construído em uma arquitetura mista de especialistas. Apenas 21 bilhões de parâmetros estão ativos em qualquer momento…",
-      "link": "https://the-decoder.com/tencent-releases-hy3-open-source-model-that-allegedly-matches-models-up-to-five-times-its-active-size/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/05/tencent_logo_wakk.png.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-06T18:03:15+00:00"
-    },
-    {
-      "id": "656d0246c92afc74",
-      "title": "A participação de US$ 300 da sua família na OpenAI",
-      "summary": "Esta história apareceu originalmente em The Algorithm, nosso boletim informativo semanal sobre IA. Para receber histórias como essa em sua caixa de entrada primeiro, inscreva-se aqui. O frequentemente discutido do CEO da OpenAI, Sam Altman…",
-      "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-06T18:00:00+00:00"
-    },
-    {
-      "id": "7b1ac1973ec2fd47",
-      "title": "Oportunidade: Galaxy S25 (256 GB) atinge 2º menor preço que já vimos",
-      "summary": "Galaxy S25 com tela AMOLED, Galaxy AI e câmera de 50 MP sai por menos da metade do preço ao combinar cupom e pagamento via Pix no Mercado Livre Oportunidade: Galaxy S25 (256 GB)…",
-      "link": "https://achados.tecnoblog.net/oportunidade-galaxy-s25-256-gb-atinge-2o-menor-preco-que-ja-vimos/",
-      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/06/galaxy-s25-imagem-thassius-veloso-tecnoblog-1060x596.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-06T17:33:40+00:00"
-    },
-    {
-      "id": "5c4211855cb123dd",
-      "title": "Quando o go-to-market vira produto",
-      "summary": "*Por Vinícius Boemeke À medida que a inteligência artificial avança nas empresas, fica cada vez mais evidente que ainda estamos discutindo essa tecnologia de um jeito pequeno…",
-      "link": "https://canaltech.com.br/colunas/quando-o-go-to-market-vira-produto/",
-      "image": "https://t.ctcdn.com.br/zeOyHNNRRjAemubeQZ3XX-INhiQ=/700x394/smart/i944765.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-06T17:20:17+00:00"
-    },
-    {
-      "id": "74be02461dbf4efd",
-      "title": "O domínio do GPT-4 durou um ano, enquanto os principais modelos de hoje mal sobrevivem sete semanas no topo",
-      "summary": "O GPT-4 da OpenAI liderou o Índice de Capacidades da Época por cerca de um ano, muito mais do que qualquer modelo desde então. Desde que Claude 3 Opus assumiu o primeiro lugar em fevereiro de 2024, a liderança mudou…",
-      "link": "https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/",
-      "image": "https://the-decoder.com/wp-content/uploads/2023/03/openai_gpt-4_visual-e1678820006678.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-06T17:14:11+00:00"
-    },
-    {
-      "id": "553315ec957ffb15",
-      "title": "Se você usa o Google, você está treinando sua IA. Veja como cancelar.",
-      "summary": "PSA: Uma mudança nas configurações de privacidade do Google permitiu que ele treinasse sua IA em mais dados seus. Veja como cancelar.",
-      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-06T17:04:58+00:00"
-    },
-    {
-      "id": "a9597067b214d8b3",
-      "title": "O rastreador secreto de Claude choca os usuários após a postura anti-vigilância da Anthropic",
-      "summary": "Antrópico acusado de espionar usuários; engenheiro diz que o “experimento” acabou.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277613277-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-06T16:44:18+00:00"
     }
   ]
 }
