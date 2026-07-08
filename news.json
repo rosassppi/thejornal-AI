@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-07-07T19:53:23.999559+00:00",
+  "generated_at": "2026-07-08T02:33:35.090800+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "55ffabce2a0c5471",
+      "title": "Confira o Olhar Digital News na íntegra (07/07/2026)",
+      "summary": "IA pode ser uma das protagonistas das eleições de 2026... mas o que pode e o que está proibido este ano? O post Confira o Olhar Digital News na íntegra (07/07/2026) apareceu…",
+      "link": "https://olhardigital.com.br/2026/07/07/videos/confira-o-olhar-digital-news-na-integra-07-07-2026/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-08T01:43:50+00:00"
+    },
+    {
+      "id": "3273c69cda5af3a1",
+      "title": "Fala AI: uso excessivo da IA pode te deixar menos inteligente?",
+      "summary": "Até que ponto o uso da IA representa uma ameaça real à autonomia humana? O post Fala AI: uso excessivo da IA pode te deixar menos inteligente? apareceu primeiro em Olhar Digital .",
+      "link": "https://olhardigital.com.br/2026/07/07/colunistas/fala-ai-uso-excessivo-da-ia-pode-te-deixar-menos-inteligente/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-08T01:26:12+00:00"
+    },
+    {
+      "id": "6c0fc0b8b8a7e5a3",
+      "title": "NVIDIA lança Audex (Nemotron-Labs-Audex-30B-A3B): um LLM de áudio-texto unificado que preserva a inteligência de texto de seu backbone",
+      "summary": "O Nemotron-Labs-Audex-30B-A3B da NVIDIA unifica compreensão de áudio, reconhecimento de fala, tradução, TTS e geração de áudio em um modelo MoE. Ele mantém a inteligência do texto de ...",
+      "link": "https://www.marktechpost.com/2026/07/07/nvidia-releases-audex-nemotron-labs-audex-30b-a3b-a-unified-audio-text-llm-that-preserves-the-text-intelligence-of-its-backbone/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-08T00:50:26+00:00"
+    },
+    {
+      "id": "1b828e1a3e3796b9",
+      "title": "SpaceXAI planeja lançar novo modelo de IA em parceria com a Cursor",
+      "summary": "A xAI, empresa de inteligência artificial de Elon Musk, planeja lançar um novo modelo em parceria com o editor de código Cursor ainda nesta quarta-feira, s O post SpaceXAI planeja…",
+      "link": "https://olhardigital.com.br/2026/07/07/inteligencia-artificial/xai-planeja-lancar-novo-modelo-em-parceria-com-a-cursor/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/cursor_spacex-1024x538.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-07T23:44:01+00:00"
+    },
+    {
+      "id": "5c807c2450bc3bcd",
+      "title": "Meta AI, WhatsApp e Instagram ganham novo modelo de IA para gerar imagens",
+      "summary": "Muse Image é o primeiro modelo de imagens e o segundo modelo de IA desenvolvido pelo novo laboratório de superinteligência da Meta. Meta AI, WhatsApp e Instagram ganham novo…",
+      "link": "https://tecnoblog.net/noticias/meta-ai-whatsapp-e-instagram-ganham-novo-modelo-de-ia-para-gerar-imagens/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/04_text_prompt_carousel-03-edited-340x191.webp",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-07T22:52:37+00:00"
+    },
+    {
+      "id": "0433a25f95c5b0f5",
+      "title": "Meta acaba de lançar um novo gerador de IA, Muse Image, e os usuários já estão resistindo ao uso de suas fotos",
+      "summary": "O novo modelo de geração de imagens tem vários casos de uso, incluindo publicidade, decoração e oportunidades baseadas em criadores.",
+      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-07T22:18:10+00:00"
+    },
+    {
+      "id": "77d64de25479fa60",
+      "title": "Do Hugging Face ao Amazon SageMaker Studio com um clique",
+      "summary": "",
+      "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-07T21:15:33+00:00"
+    },
+    {
+      "id": "f2f6cc398051c998",
+      "title": "Claude \"pensa sozinho\"? Estudo da Anthropic divide especialistas",
+      "summary": "Uma declaração antiga de Amanda Askell, pesquisadora e filósofa da Anthropic, voltou a repercutir após a divulgação de um novo estudo da empresa sobre o funcionamento interno do…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/claude-pensa-sozinho-estudo-da-anthropic-divide-especialistas/",
+      "image": "https://t.ctcdn.com.br/yXjaYLlTPjjyGfquGaMp1sPAhrA=/700x394/smart/i1135103.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-07T21:15:00+00:00"
+    },
+    {
+      "id": "e5d35e50d7bbce00",
+      "title": "A demanda de energia dos data centers ameaça o plano “Made in America” de Trump",
+      "summary": "Apertar as contas de eletricidade do Rust Belt ameaça o plano de produção de Trump.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Electric-Arc-Furnace-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-07T21:03:07+00:00"
+    },
+    {
+      "id": "779fe69a19a664e4",
+      "title": "O novo modelo Muse Image da Meta pode atrair outros usuários do Instagram para fotos de IA",
+      "summary": "A Meta está lançando o primeiro modelo de geração de imagens de IA feito por sua divisão Superintelligence Labs. O modelo Muse Image agora alimenta as ferramentas de criação de imagens no aplicativo Meta AI…",
+      "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-07T20:31:58+00:00"
+    },
+    {
+      "id": "d8d8ef485f43990e",
+      "title": "Por que a ascensão da IA ​​de código aberto não está prejudicando a Antrópica... ainda",
+      "summary": "O sucesso dos modelos de código aberto não ocorre às custas dos laboratórios de ponta. Em vez disso, cada um deles parece capturar duas fases do mesmo ciclo de vida.",
+      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-07T20:04:32+00:00"
+    },
+    {
+      "id": "cae50a1326ebfe47",
+      "title": "China também quer restringir o uso de suas IAs no exterior",
+      "summary": "Governo se reúne com empresas de tecnologia do país para discutir proibições. Investimentos estrangeiros e vazamentos também entram na pauta. China também quer restringir o uso de…",
+      "link": "https://tecnoblog.net/noticias/china-tambem-quer-restringir-o-uso-de-suas-ias-no-exterior/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/12/bandeira-china-1-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-07T19:58:58+00:00"
+    },
+    {
+      "id": "566599dd56a09c23",
+      "title": "A Microsoft adere à tendência de corte de custos de IA confiando mais em seus próprios modelos",
+      "summary": "A Microsoft é a mais recente gigante do Vale do Silício a reduzir seus gastos com IA.",
+      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-07T19:58:20+00:00"
+    },
     {
       "id": "a5c8937a365690ee",
       "title": "Meta faz grande aposta para rivalizar com Nano Banana e ChatGPT Images",
@@ -465,6 +608,17 @@
       "published_at": "2026-07-07T00:00:00+00:00"
     },
     {
+      "id": "b7195bbec0581aa4",
+      "title": "MUFG pretende se tornar nativo de IA com OpenAI",
+      "summary": "MUFG usa ChatGPT Enterprise para construir uma organização nativa de IA, melhorar fluxos de trabalho e fornecer novos serviços financeiros baseados em IA em escala.",
+      "link": "https://openai.com/index/mufg",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-07T00:00:00+00:00"
+    },
+    {
       "id": "8125b5dd69d0a597",
       "title": "Execute cargas de trabalho de IA em qualquer nuvem e armazene no Hugging Face: armazenamento com saída zero com o SkyPilot",
       "summary": "",
@@ -837,160 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-06T14:17:42+00:00"
-    },
-    {
-      "id": "ce81d4dd1a419144",
-      "title": "Após críticas, Microsoft permitirá desligar IA no Teams",
-      "summary": "Usuários poderão desligar o Copilot, resumos e anotações automáticas durante as videochamadas. Atualização deve ser liberada ainda neste mês. Após críticas, Microsoft permitirá…",
-      "link": "https://tecnoblog.net/noticias/apos-criticas-microsoft-permitira-desligar-ia-no-teams/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2020/11/microsoft-teams-iphone-app-ios-tecnoblog-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-06T14:03:11+00:00"
-    },
-    {
-      "id": "291bd557d3e718da",
-      "title": "Adobe Lightroom para celulares ganha IA para transformar fotos em vídeos",
-      "summary": "A Adobe liberou o “Photo to Video” para o app do Lightroom para celulares e tablets Android e iOS nesta segunda-feira (6). Com a atualização, os usuários conseguem animar as…",
-      "link": "https://canaltech.com.br/apps/adobe-lightroom-para-celulares-ganha-ia-para-transformar-fotos-em-videos/",
-      "image": "https://t.ctcdn.com.br/dpdo78P-a67pSu2adGJK0CJszHc=/700x394/smart/i1140657.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-06T13:49:43+00:00"
-    },
-    {
-      "id": "3b35e07d1ddd6387",
-      "title": "Microsoft está demitindo 4.800 funcionários",
-      "summary": "Um ano depois de demitir cerca de 9.100 funcionários, a Microsoft está fazendo mais demissões hoje, ao iniciar seu novo ano financeiro. A fabricante de software está demitindo cerca de 4.800 funcionários…",
-      "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2262967364.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-06T13:30:00+00:00"
-    },
-    {
-      "id": "9cde332f81ea52ac",
-      "title": "A Estação F se torna uma plataforma de lançamento para as startups de IA mais importantes da Europa",
-      "summary": "Station F, um centro de startups com sede em Paris fundado pelo bilionário francês Xavier Niel, está se preparando para uma nova edição de seu programa acelerador F/ai em uma tentativa de fortalecer seu…",
-      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-06T13:00:00+00:00"
-    },
-    {
-      "id": "795ea94e1100415a",
-      "title": "Kyber NVL144 da Nvidia supostamente adiou mais de um ano, fornecedores asiáticos caíram",
-      "summary": "O próximo rack de servidor AI da Nvidia, Kyber NVL144, foi adiado mais de um ano para 2028 devido a problemas de fabricação de placas de circuito, de acordo com a empresa de análise SemiAnalysis…",
-      "link": "https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-06T12:30:11+00:00"
-    },
-    {
-      "id": "ab11040d9fae6511",
-      "title": "A China força suas maiores plataformas de IA a encerrar personas de chatbot com aparência humana",
-      "summary": "ByteDance e Alibaba estão desativando os recursos que permitem aos usuários criar e conversar com companheiros de IA personalizados, respondendo às novas regulamentações de Pequim. O artigo Forças da China…",
-      "link": "https://the-decoder.com/china-forces-its-biggest-ai-platforms-to-shut-down-humanlike-chatbot-personas/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/12/china_neural_network.jpeg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-06T12:26:09+00:00"
-    },
-    {
-      "id": "8c82ed91748703e5",
-      "title": "Amazon pôr do sol Mechanical Turk, a \"Inteligência Artificial Artificial\" original",
-      "summary": "Amazon Web Services está encerrando seu serviço de crowdsourcing Mechanical Turk para novos clientes a partir de 30 de julho de 2026. O artigo Amazon encerra Mechanical Turk, o original…",
-      "link": "https://the-decoder.com/amazon-sunsets-mechanical-turk-the-original-artificial-artificial-intelligence/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/12/white_collar_work_ai.jpeg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-06T11:19:29+00:00"
-    },
-    {
-      "id": "26a4f9fd61a283e1",
-      "title": "JADEPUFFER é a primeira operação de ransomware agente e expõe antigos pecados de segurança na velocidade da máquina",
-      "summary": "A empresa de segurança Sysdig descreve um ataque de extorsão em que um modelo de linguagem invadiu por conta própria, roubou credenciais e destruiu bancos de dados. Nenhum humano parecia estar nos controles…",
-      "link": "https://the-decoder.com/jadepuffer-is-the-first-agentic-ransomware-operation-and-it-exposes-old-security-sins-at-machine-speed/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/Agentic-Ransomware-Attack-title.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-06T10:04:02+00:00"
-    },
-    {
-      "id": "3bcd3228317b8e36",
-      "title": "Como o Kindle virou um refúgio contra as distrações",
-      "summary": "Amazon explica como o Kindle evoluiu, ganhou recursos de IA e se tornou uma aposta para ajudar leitores a recuperar o foco na era das distrações Ouça ao podcast.",
-      "link": "https://canaltech.com.br/podcast/podcast-canaltech/como-o-kindle-virou-um-refugio-contra-as-distracoes-6599/",
-      "image": "https://t.ctcdn.com.br/DVtvnUjV-CzRlRK9NoPmeE_3yDE=/700x394/smart/i1140401.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-06T09:00:00+00:00"
-    },
-    {
-      "id": "5e274022ec835b5d",
-      "title": "Sakana AI lança Sakana Translate, uma ferramenta de tradução japonês-inglês-chinês com tecnologia Namazu com modos de tradução, revisão e pergunta",
-      "summary": "Sakana AI adicionou Sakana Translate ao Sakana Chat. Funciona na série de modelos Namazu. A ferramenta traduz bidirecionalmente em japonês, inglês e chinês. Três modos…",
-      "link": "https://www.marktechpost.com/2026/07/05/sakana-ai-launches-sakana-translate/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-05-at-10.22.26-PM-1-150x150.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-06T05:35:09+00:00"
-    },
-    {
-      "id": "d0d4b213614dfe95",
-      "title": "Synthetic Sciences lança OpenScience: um ambiente de trabalho de IA de código aberto e independente de modelo para pesquisa de aprendizado de máquina, biologia, física e química",
-      "summary": "A Synthetic Sciences lançou o OpenScience, um ambiente de trabalho de IA Apache-2.0 para pesquisa científica. Funciona com qualquer modelo de fronteira ou de peso aberto, usando suas próprias chaves de API. Corre…",
-      "link": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-06T05:07:12+00:00"
-    },
-    {
-      "id": "6b587e6a4fc713cb",
-      "title": "Treinando Gemma-3 para raciocínio matemático estruturado com Tunix GRPO, adaptadores LoRA e recompensas GSM8K",
-      "summary": "Construímos um fluxo de trabalho de treinamento GRPO ponta a ponta que ensina Gemma-3 a raciocinar através de problemas matemáticos GSM8K. Preparamos o ambiente, autenticamos com Hugging Face, carregamos Gemma-3…",
-      "link": "https://www.marktechpost.com/2026/07/05/training-gemma-3-for-structured-mathematical-reasoning-with-tunix-grpo-lora-adapters-and-gsm8k-rewards/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-06T04:26:58+00:00"
-    },
-    {
-      "id": "e998906a376bd21c",
-      "title": "🤗 Kernels: atualizações importantes",
-      "summary": "",
-      "link": "https://huggingface.co/blog/revamped-kernels",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-06T00:00:00+00:00"
-    },
-    {
-      "id": "62797d7741b41a29",
-      "title": "Alguns dos ricos do país estão permitindo que a IA ensine seus filhos",
-      "summary": "A maioria dos americanos não confia na IA. Está provado que não sabe quais são os recheios seguros para pizza. As pessoas nem querem ouvir música de IA. Mas nada disso importa para alguns…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-05T22:30:54+00:00"
     }
   ]
 }
