@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-07-09T09:36:53.981401+00:00",
+  "generated_at": "2026-07-09T14:56:01.850499+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "30e870106f056953",
+      "title": "O novo recurso Claude da Anthropic está silenciosamente vendendo IA para você",
+      "summary": "O novo painel Reflect de Claude não apenas visualiza como você usa a IA. Também reforça sutilmente o quanto o seu trabalho diário agora depende do chatbot da Anthropic.",
+      "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-09T14:53:09+00:00"
+    },
+    {
+      "id": "255a1ec5e3e85467",
+      "title": "Anthropic, OpenAI e SpaceX são maiores do que os últimos 25 anos de saídas de tecnologia",
+      "summary": "Três grandes IPOs de IA deverão gerar mais valor do que todas as saídas apoiadas por VC nos EUA desde 2000.",
+      "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-09T14:51:00+00:00"
+    },
+    {
+      "id": "e0fdf65b31af1ba6",
+      "title": "China acusa Claude Code de coletar dados sem permissão e emite alerta; entenda",
+      "summary": "A China emitiu um alerta de segurança contra o Claude Code , ferramenta de programação com inteligência artificial da Anthropic. Segundo o Banco Nacional de Dados de…",
+      "link": "https://canaltech.com.br/seguranca/china-acusa-claude-code-de-coletar-dados-sem-permissao-e-emite-alerta-entenda/",
+      "image": "https://t.ctcdn.com.br/V5M0aA16mgRP6QN3EC8of5UbbyM=/700x394/smart/i1135099.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-09T14:11:47+00:00"
+    },
+    {
+      "id": "b952de633e504b59",
+      "title": "Claude ganha painel para te ajudar a usar menos… o Claude",
+      "summary": "Recurso Reflect mostra padrões de uso, sugere pausas e faz perguntas O post Claude ganha painel para te ajudar a usar menos… o Claude apareceu primeiro em Olhar Digital .",
+      "link": "https://olhardigital.com.br/2026/07/09/inteligencia-artificial/claude-ganha-painel-para-te-ajudar-a-usar-menos-o-claude/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/anthropic-claude-reflect-1-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-09T14:03:35+00:00"
+    },
+    {
+      "id": "7f7a4b9756dd95a7",
+      "title": "OpenAI descobre que cerca de 30% dos testes populares de codificação de IA estão quebrados",
+      "summary": "A OpenAI revisou o SWE-Bench Pro, um teste amplamente utilizado para medir as habilidades de programação de modelos de IA, e descobriu que cerca de 30% de suas tarefas estão quebradas. A empresa está puxando seu…",
+      "link": "https://the-decoder.com/openai-finds-roughly-30-percent-of-popular-ai-coding-test-is-broken/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_vis-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-09T13:23:57+00:00"
+    },
+    {
+      "id": "fb81b5bbdacf72ec",
+      "title": "Hora de colocar um smartwatch no pulso: veja ofertas selecionadas na Amazon",
+      "summary": "Se você está pensando em monitorar sua saúde, receber notificações no pulso ou simplesmente renovar o visual com um relógio inteligente, este é o momento certo. Reunimos três…",
+      "link": "https://olhardigital.com.br/2026/07/09/reviews/hora-de-colocar-um-smartwatch-no-pulso-veja-ofertas-selecionadas-na-amazon-3/",
+      "image": "https://m.media-amazon.com/images/I/41NXd7sA45L._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-09T13:20:00+00:00"
+    },
+    {
+      "id": "5d77deb799966360",
+      "title": "A popular ferramenta de desenvolvimento de IA de código aberto Ollama arrecada US$ 65 milhões e chega a quase 9 milhões de usuários",
+      "summary": "Ollama, apoiado por benchmark, acumulou 176.000 estrelas e quase 17.000 forks no GitHub, ajudando os desenvolvedores a executar IA facilmente em seus PCs.",
+      "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-09T13:00:00+00:00"
+    },
+    {
+      "id": "277ae1a5108bb085",
+      "title": "Character.AI entra na arena do microdrama com suas próprias produções, mas há uma reviravolta",
+      "summary": "Em uma reviravolta interessante que aproveita o produto principal da empresa, os usuários podem conversar com os personagens desses programas, fazer perguntas e até mesmo interpretar diferentes histórias.",
+      "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-09T13:00:00+00:00"
+    },
+    {
+      "id": "caae1a83e951d8c4",
+      "title": "Análise do Lenovo LOQ 15 com RTX 4050: vale a pena para jogos em 2026?",
+      "summary": "Com placa gráfica Nvidia, processador Intel Core i5, 16 GB de RAM e tela de alta qualidade: confira mais sobre o modelo O post Análise do Lenovo LOQ 15 com RTX 4050: vale a pena…",
+      "link": "https://olhardigital.com.br/2026/07/09/reviews/analise-do-lenovo-loq-15-com-rtx-4050-vale-a-pena-para-jogos-em-2026/",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/07/lenovo2.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-09T13:00:00+00:00"
+    },
+    {
+      "id": "f896f31ef9eed1d9",
+      "title": "Carros que \"conversam\" com motoristas já são realidade; saiba mais",
+      "summary": "O uso de Inteligência Artificial embarcada no pacote de tecnologias dos carros está cada vez maior. Pelo menos 3 marcas conhecidas e muito queridas pelo público brasileiro já…",
+      "link": "https://canaltech.com.br/carros/carros-que-conversam-com-motoristas-ja-sao-realidade-saiba-mais/",
+      "image": "https://t.ctcdn.com.br/3vEdCVXbcOorO87YFfEL731Lw68=/700x394/smart/i1065457.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-09T12:55:00+00:00"
+    },
+    {
+      "id": "0c099a85d8fb79f7",
+      "title": "Nandan Nilekani deixa o cargo de GP na Fundamentum ao lançar o terceiro fundo de US$ 200 milhões",
+      "summary": "Nilekani continua sendo o investidor âncora da Fundamentum à medida que a empresa expande sua equipe de liderança e visa startups de IA e fintech na Índia.",
+      "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-09T12:00:00+00:00"
+    },
+    {
+      "id": "15b54d79c2e36ffd",
+      "title": "Databricks torna o modelo chinês de código aberto GLM 5.2 seu mecanismo de codificação padrão depois de combinar com o Opus a um custo menor",
+      "summary": "A Databricks comparou agentes de codificação em sua própria base de código multimilionária e descobriu que o modelo de código aberto chinês GLM 5.2 correspondia ao Opus 4.8 da Anthropic por US$ 1,28 por tarefa…",
+      "link": "https://the-decoder.com/databricks-makes-chinese-open-source-model-glm-5-2-its-default-coding-engine-after-it-matched-opus-at-lower-cost/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/databricks_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-09T11:03:39+00:00"
+    },
+    {
+      "id": "fd2ae24a3f1ecf19",
+      "title": "A IA da OpenAI vence todos os humanos no AtCoder, um concurso de programação competitivo",
+      "summary": "Nas finais do AtCoder World Tour 2026, um sistema OpenAI esmagou todos os competidores humanos em uma partida de exibição, resolvendo todos os cinco problemas na Divisão de Algoritmos. Dois desses…",
+      "link": "https://the-decoder.com/openais-ai-beats-every-human-at-atcoder-a-top-competitive-programming-contest/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/AtCoder-OpenAI-Win-title.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-09T09:56:57+00:00"
+    },
     {
       "id": "080736e852d734eb",
       "title": "IA virou requisito? Entenda o que as empresas buscam nos profissionais",
@@ -848,149 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-07T20:31:58+00:00"
-    },
-    {
-      "id": "d8d8ef485f43990e",
-      "title": "Por que a ascensão da IA ​​de código aberto não está prejudicando a Antrópica... ainda",
-      "summary": "O sucesso dos modelos de código aberto não ocorre às custas dos laboratórios de ponta. Em vez disso, cada um deles parece capturar duas fases do mesmo ciclo de vida.",
-      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-07T20:04:32+00:00"
-    },
-    {
-      "id": "cae50a1326ebfe47",
-      "title": "China também quer restringir o uso de suas IAs no exterior",
-      "summary": "Governo se reúne com empresas de tecnologia do país para discutir proibições. Investimentos estrangeiros e vazamentos também entram na pauta. China também quer restringir o uso de…",
-      "link": "https://tecnoblog.net/noticias/china-tambem-quer-restringir-o-uso-de-suas-ias-no-exterior/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/12/bandeira-china-1-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-07T19:58:58+00:00"
-    },
-    {
-      "id": "566599dd56a09c23",
-      "title": "A Microsoft adere à tendência de corte de custos de IA confiando mais em seus próprios modelos",
-      "summary": "A Microsoft é a mais recente gigante do Vale do Silício a reduzir seus gastos com IA.",
-      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-07T19:58:20+00:00"
-    },
-    {
-      "id": "a5c8937a365690ee",
-      "title": "Meta faz grande aposta para rivalizar com Nano Banana e ChatGPT Images",
-      "summary": "A Meta lançou nesta terça-feira (07) o Muse Image , novo modelo de IA para gerar imagens. Além de melhorar a qualidade do resultado final, a novidade integra a tecnologia com as…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/meta-faz-grande-aposta-para-rivalizar-com-nano-banana-e-chatgpt-images/",
-      "image": "https://t.ctcdn.com.br/uG09ie63J2aO8xloC6VgtIWO7w8=/700x394/smart/i1097607.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-07T19:51:03+00:00"
-    },
-    {
-      "id": "1456e1678db7593b",
-      "title": "Discord admite que bug de moderação de IA baniu injustamente usuários por causa de imagens inofensivas",
-      "summary": "A empresa confirmou que o problema estava afetando as contas desde maio, com mais 200 usuários banidos no fim de semana antes que sua equipe identificasse e corrigisse o problema.",
-      "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-07T19:28:38+00:00"
-    },
-    {
-      "id": "e717a095af92f56e",
-      "title": "Hora de imprimir mais e gastar menos: confira as melhores ofertas de impressoras",
-      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções de multifuncionais em promoção na Amazon, com…",
-      "link": "https://olhardigital.com.br/2026/07/07/reviews/hora-de-imprimir-mais-e-gastar-menos-confira-as-melhores-ofertas-de-impressoras/",
-      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-07T18:40:00+00:00"
-    },
-    {
-      "id": "58cc482b0ee405cf",
-      "title": "O Copilot fica barato à medida que a Microsoft elimina os modelos OpenAI e Anthropic para cortar custos",
-      "summary": "A Microsoft está substituindo os modelos de IA da OpenAI e Anthropic por seus próprios modelos MAI em produtos como Excel e Outlook. Dezenas de milhares de consultas por semana já são realizadas…",
-      "link": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/microsoft_coopilot.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-07T18:35:58+00:00"
-    },
-    {
-      "id": "9ea8f1e93dec1d53",
-      "title": "Pessoas confiam mais em rostos falsos do que em rostos humanos, diz estudo",
-      "summary": "Este é o primeiro estudo a examinar a confiabilidade de rostos de IA criados com a mais recente tecnologia de difusão O post Pessoas confiam mais em rostos falsos do que em rostos…",
-      "link": "https://olhardigital.com.br/2026/07/07/inteligencia-artificial/pessoas-confiam-mais-em-rostos-falsos-do-que-em-rostos-humanos-diz-estudo/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/crianca-estudando-aprendendo-com-inteligencia-artificial-ia-sem-professor-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-07T18:34:16+00:00"
-    },
-    {
-      "id": "a360840f4c304d6e",
-      "title": "Cohere Transcribe Arabic é um modelo de código aberto desenvolvido para os problemas de transcrição mais difíceis do árabe",
-      "summary": "Cohere lançou Transcribe Arabic, um modelo de código aberto para reconhecimento de fala árabe que, segundo a empresa, supera Whisper e OmniASR em dialetos, troca de código e…",
-      "link": "https://the-decoder.com/cohere-transcribe-arabic-is-an-open-source-model-built-for-arabics-toughest-transcription-problems/",
-      "image": "https://the-decoder.com/wp-content/uploads/2024/06/cohere_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-07T17:54:08+00:00"
-    },
-    {
-      "id": "359c68ac53cb2f3a",
-      "title": "Claude leva uma das suas ferramentas mais poderosas aos celulares",
-      "summary": "A Anthropic anunciou a chegada do Claude Cowork para navegadores e no aplicativo para celulares a partir desta terça-feira (07). O assistente consegue acessar seus arquivos e…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/claude-leva-uma-das-suas-ferramentas-mais-poderosas-para-celulares/",
-      "image": "https://t.ctcdn.com.br/yXjaYLlTPjjyGfquGaMp1sPAhrA=/700x394/smart/i1135103.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-07T17:52:00+00:00"
-    },
-    {
-      "id": "9e6282f436819adf",
-      "title": "Anthropic está lançando Claude Cowork no mobile e web",
-      "summary": "A partir de terça-feira, a plataforma Claude Cowork AI da Anthropic estará disponível para dispositivos móveis e web pela primeira vez. O acesso expandido está sendo implementado primeiro para assinantes do Max e…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Cowork-Web-Mobile-Press-No-Logo-1920x1080-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-07T17:46:59+00:00"
-    },
-    {
-      "id": "fd3da67cf02e4b61",
-      "title": "O agente Claude Cowork AI da Anthropic agora está disponível para dispositivos móveis e web",
-      "summary": "A Anthropic está lançando seu agente de IA, Claude Cowork, para dispositivos móveis e web. Até agora, o recurso estava limitado ao aplicativo de desktop. O agente continua trabalhando em segundo plano mesmo quando…",
-      "link": "https://the-decoder.com/anthropics-claude-cowork-ai-agent-is-now-available-on-mobile-and-web/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/antropic_logo_chat_cowork-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-07T17:04:30+00:00"
-    },
-    {
-      "id": "1783468e23e9e8c8",
-      "title": "Liquid AI Open-Sources Antidoom: um método final de otimização de preferência de token (FTPO) que reduz loops de destruição em modelos de raciocínio",
-      "summary": "A Liquid AI lançou o Antidoom, um método de código aberto que visa loops de destruição em modelos de raciocínio. Um loop doom repete um período até que a janela de contexto se esgote. Antidoom descobre…",
-      "link": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-07T16:50:50+00:00"
     }
   ]
 }
