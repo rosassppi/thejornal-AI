@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-07-09T02:51:30.984792+00:00",
+  "generated_at": "2026-07-09T09:36:53.981401+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "080736e852d734eb",
+      "title": "IA virou requisito? Entenda o que as empresas buscam nos profissionais",
+      "summary": "Especialista explica como a inteligência artificial está mudando contratações, carreiras e as habilidades mais valorizadas no mercado tech Ouça ao podcast.",
+      "link": "https://canaltech.com.br/podcast/podcast-canaltech/ia-virou-requisito-entenda-o-que-as-empresas-buscam-nos-profissionais-6605/",
+      "image": "https://t.ctcdn.com.br/YxY9vVyldmyiOPwATsdwUjAIFF4=/700x394/smart/i1141711.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-09T09:00:00+00:00"
+    },
+    {
+      "id": "e7afab5c789f9f75",
+      "title": "NVIDIA lança Nemotron-Labs-3-Puzzle-75B-A9B: um LLM MoE híbrido compactado que oferece taxa de transferência de servidor 2,03x com taxa de transferência de usuário correspondente",
+      "summary": "A NVIDIA lançou o Nemotron-Labs-3-Puzzle-75B-A9B, uma variante compactada do Nemotron-3-Super. O Iterative Puzzle alterna compressão estrutural com reconhecimento de hardware com…",
+      "link": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-1.25.52-AM-1-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-09T08:47:37+00:00"
+    },
+    {
+      "id": "482f227407b7c2cf",
+      "title": "ChatGPT mais poderoso chega hoje; saiba o que esperar",
+      "summary": "Estamos falando do modelo GPT 5.6, o mais poderoso da OpenAI O post ChatGPT mais poderoso chega hoje; saiba o que esperar apareceu primeiro em Olhar Digital .",
+      "link": "https://olhardigital.com.br/2026/07/09/inteligencia-artificial/chatgpt-mais-poderoso-chega-hoje-saiba-o-que-esperar/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-09T08:26:33+00:00"
+    },
+    {
+      "id": "f6852b653d52f4af",
+      "title": "Google AI Studio adiciona importação do GitHub para criar um aplicativo implantável",
+      "summary": "O Google AI Studio está lançando a importação do GitHub no modo Build. Ele transforma um repositório existente em um formato compatível com tempo de execução. Você pode então iterá-lo, implantá-lo e muito mais…",
+      "link": "https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-09T07:58:06+00:00"
+    },
+    {
+      "id": "b00d52ca2ad31d86",
+      "title": "Datalab Lift versus o campo: como um extrator de esquema 9B se compara com NuExtract3, LlamaExtract, Marker e Docling",
+      "summary": "O Lift do Datalab é uma ferramenta focada de extração de documentos com uma promessa específica: forneça um PDF ou imagem mais um esquema JSON e ele retornará JSON em formato de esquema diretamente. Em vez de…",
+      "link": "https://www.marktechpost.com/2026/07/09/datalab-lift-vs-the-field-how-a-9b-schema-first-extractor-compares-with-nuextract3-llamaextract-marker-and-docling/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-09T07:50:47+00:00"
+    },
+    {
+      "id": "2c5dfa5364c0ba93",
+      "title": "Grok 4.5 é tão barato comparado ao Fable 5 e GPT 5.5 que as lacunas de benchmark podem não importar muito",
+      "summary": "xAI lança Grok 4.5, treinado em dezenas de milhares de GPUs Nvidia GB300. Em benchmarks de codificação, o modelo segue Fable 5 e GPT-5.5, mas precisa de 4,2 vezes menos tokens que o Opus…",
+      "link": "https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/xai_logo_wakk.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-09T07:47:44+00:00"
+    },
     {
       "id": "e2864fdda9f259da",
       "title": "Meta trabalha em óculos inteligentes com gravação contínua, diz jornal",
@@ -166,17 +232,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-07-08T19:19:15+00:00"
-    },
-    {
-      "id": "2c5dfa5364c0ba93",
-      "title": "Grok 4.5 é tão barato comparado ao Fable 5 e GPT 5.5 que as lacunas de benchmark podem não importar muito",
-      "summary": "xAI lança Grok 4.5, treinado em dezenas de milhares de GPUs Nvidia GB300. Em benchmarks de codificação, o modelo segue Fable 5 e GPT-5.5, mas precisa de 4,2 vezes menos tokens que o Opus…",
-      "link": "https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/xai_logo_wakk.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-08T19:01:44+00:00"
     },
     {
       "id": "df76533db7e6348f",
@@ -936,61 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-07-07T16:50:50+00:00"
-    },
-    {
-      "id": "369e64b6fb06e204",
-      "title": "DeepSeek prepara chip de IA para reduzir dependência da NVIDIA, revela portal",
-      "summary": "A DeepSeek tende a lançar o seu próprio chip de IA , seguindo os passos da Amazon , Google, OpenAI e Microsoft. A nova aposta da empresa chinesa foi revelada pela agência de…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/deepseek-prepara-chip-de-ia-para-reduzir-dependencia-da-nvidia-revela-portal/",
-      "image": "https://t.ctcdn.com.br/bTkmlUts3SxUJAKpY1QBAUExSno=/700x394/smart/i1054603.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-07T16:32:00+00:00"
-    },
-    {
-      "id": "ae9e772be9004928",
-      "title": "Claude Cowork se expande para dispositivos móveis e web",
-      "summary": "Com esta atualização, os usuários podem iniciar uma tarefa em sua mesa, obter atualizações de status em seus telefones e retomar o resultado final mais tarde, mesmo que o laptop esteja fechado.",
-      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-07T16:27:18+00:00"
-    },
-    {
-      "id": "0baa408c4427c5b5",
-      "title": "Enfrentando controles de exportação dos EUA, DeepSeek da China planeja fabricar seus próprios chips",
-      "summary": "Ainda é cedo, mas o plano é reduzir a dependência da Nvidia e da Huawei.",
-      "link": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-2195894561-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-07T16:14:53+00:00"
-    },
-    {
-      "id": "c91121b3522beefa",
-      "title": "A China pretende restringir as exportações dos seus principais modelos de IA e a Europa está no meio",
-      "summary": "Segundo a Reuters, as autoridades chinesas estão a tentar restringir o acesso estrangeiro aos modelos de IA mais poderosos do país. Alibaba, Bytedance e Z.ai seriam todos afetados…",
-      "link": "https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/Europe-AI-Race-in-the-Middle.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-07T16:13:45+00:00"
-    },
-    {
-      "id": "1ec294ada9f40d0a",
-      "title": "Abraçando modelos de rosto na computação gerenciada do Foundry",
-      "summary": "",
-      "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-07T15:20:06+00:00"
     }
   ]
 }
