@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-07-08T19:23:33.696995+00:00",
+  "generated_at": "2026-07-09T02:51:30.984792+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "e2864fdda9f259da",
+      "title": "Meta trabalha em óculos inteligentes com gravação contínua, diz jornal",
+      "summary": "Segundo informações do Financial Times, projeto prevê que dispositivos gravem áudio de forma contínua e capturem fotografias em intervalos de poucos segundos O post Meta trabalha…",
+      "link": "https://olhardigital.com.br/2026/07/08/reviews/meta-trabalha-em-oculos-inteligentes-com-gravacao-continua-diz-jornal/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/meta-e1777458619772-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-09T00:54:56+00:00"
+    },
+    {
+      "id": "67d4841afa16f8e8",
+      "title": "Robbyant lança LingBot-VLA 2.0: um modelo de visão-linguagem-ação (VLA) 6B de código aberto para manipulação de robôs de incorporação cruzada",
+      "summary": "Robbyant do Ant Group lançou o LingBot-VLA 2.0, um modelo de visão-linguagem-ação Apache-2.0 para manipulação de robôs de incorporação cruzada. O ponto de verificação 6B é pré-treinado aproximadamente…",
+      "link": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-09T00:45:39+00:00"
+    },
+    {
+      "id": "3b3c6bf8989ab918",
+      "title": "SpaceXAI lança Grok 4.5, um modelo treinado por cursor para codificação, tarefas de agente e trabalho de conhecimento com entrada de US$ 2/m",
+      "summary": "A SpaceXAI lançou o Grok 4.5, um modelo treinado por Cursor para codificação, tarefas de agente e trabalho de conhecimento. Ele atende a 80 TPS, custa $ 2/$ 6 por milhão de tokens e ocupa o primeiro lugar no Harvey's…",
+      "link": "https://www.marktechpost.com/2026/07/08/spacexai-releases-grok-4-5/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-08T23:54:28+00:00"
+    },
+    {
+      "id": "1d0c9806404fbe72",
+      "title": "Smartwatch bom e barato: qual modelo comprar em 2026?",
+      "summary": "Conheça os melhores relógios inteligentes com preço acessível e boas especificações para monitorar saúde, exercícios e esportes Smartwatch bom e barato: qual modelo comprar em…",
+      "link": "https://tecnoblog.net/guias/smartwatch-bom-e-barato/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/samsung-galaxy-fit3-guia-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-08T21:52:47+00:00"
+    },
+    {
+      "id": "c47c4c24fc478f33",
+      "title": "Suspeitando de trapaça na IA, o professor da Ivy League ordenou uma final presencial; pontuações caíram 50%",
+      "summary": "A trapaça da IA ​​leva a “uma sociedade falida”, diz o professor.",
+      "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261090247-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-08T21:42:44+00:00"
+    },
+    {
+      "id": "23f1c740dfcbfb10",
+      "title": "Google Fotos ganha nova função que transforma vídeos com IA",
+      "summary": "Video Remix aplica efeitos de luz, troca fundos e muda o estilo visual de clipes salvos no app. Google Fotos ganha nova função que transforma vídeos com IA",
+      "link": "https://tecnoblog.net/noticias/google-fotos-ganha-nova-funcao-que-transforma-videos-com-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/remix-de-video-google-fotos-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-08T21:25:59+00:00"
+    },
+    {
+      "id": "b50fe5fefb37734e",
+      "title": "A equipe de IA da Netflix reduz a latência de leitura de partições amplas de segundos para milissegundos, dividindo as partições Cassandra por ID",
+      "summary": "Os engenheiros da Netflix detalharam como lidam com partições amplas no Apache Cassandra para a abstração TimeSeries. Duas abordagens funcionam juntas: músicas de reparticionamento do Time Slice…",
+      "link": "https://www.marktechpost.com/2026/07/08/netflix-ai-team-cuts-wide-partition-read-latency-from-seconds-to-milliseconds-by-splitting-cassandra-partitions-per-id/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-08T21:00:58+00:00"
+    },
+    {
+      "id": "fc75b9bd5d033a7b",
+      "title": "O sistema de detecção de deepfake do Google usado para desmascarar a foto do boato de McConnell",
+      "summary": "No início desta semana, uma foto parecia mostrar o senador do Kentucky, Mitch McConnell, coberto de tubos em uma cama de hospital em estado de extrema angústia. Acabou sendo um gerado por IA ...",
+      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-08T20:37:03+00:00"
+    },
+    {
+      "id": "e19685956069d553",
+      "title": "OpenAI vai liberar GPT-5.6 após governo Trump remover restrições",
+      "summary": "Nova família de IA será lançada nesta quinta-feira (09/07) após período de acesso restrito a clientes selecionados. OpenAI vai liberar GPT-5.6 após governo Trump remover restrições",
+      "link": "https://tecnoblog.net/noticias/openai-vai-liberar-gpt-5-6-apos-governo-trump-remover-restricoes/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/ean5cj347py.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-08T20:15:21+00:00"
+    },
+    {
+      "id": "4c80b494b76958b4",
+      "title": "Sonic de jaqueta de couro: NVIDIA promete presença no aniversário do ouriço azul",
+      "summary": "A NVIDIA e a SEGA já tiveram uma parceria em um passado distante, mais especificamente na década de 1990. Por algum motivo, ambas as empresas resolveram se juntar novamente em um…",
+      "link": "https://canaltech.com.br/hardware/jensen-huang-estara-em-evento-fechado-da-sega-para-revelar-tecnologia-para-games/",
+      "image": "https://t.ctcdn.com.br/HwLrZzngL7uUkcCrJRGpb8b5pjk=/700x394/smart/i1141713.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-08T20:10:00+00:00"
+    },
+    {
+      "id": "0517a16889ea545f",
+      "title": "Modo de voz do ChatGPT está mais fluido e vira alternativa ao Google Tradutor",
+      "summary": "A OpenAI anunciou o GPT-Live nesta quarta-feira (08), novo modelo de IA para conversas por voz no ChatGPT. A atualização deixa as interações mais fluidas e ainda transforma o…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/modo-de-voz-do-chatgpt-esta-mais-fluido-e-vira-alternativa-ao-google-tradutor/",
+      "image": "https://t.ctcdn.com.br/zr9DPZzNf7HXeuW2nEaK4d7TqNk=/700x394/smart/i1141797.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-08T19:59:11+00:00"
+    },
+    {
+      "id": "47a8b29856e6213b",
+      "title": "Processo: Homem usou Grok para fazer 7 mil imagens de sexo da enteada e depois atirou em si mesmo",
+      "summary": "Mais meninas processam X por causa de Grok CSAM; X acusado de proteger crianças predadoras.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261524889-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-08T19:56:37+00:00"
+    },
+    {
+      "id": "38130ab286ce4e77",
+      "title": "IA do Instagram poderá usar seu perfil para gerar imagens; veja como bloquear",
+      "summary": "Recurso ainda não lançado no Brasil permite gerar imagens com base em conteúdo de perfis públicos. Configuração padrão autoriza uso. IA do Instagram poderá usar seu perfil para…",
+      "link": "https://tecnoblog.net/noticias/ia-do-instagram-podera-usar-seu-perfil-para-gerar-imagens-veja-como-bloquear/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-03-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-08T19:48:21+00:00"
+    },
+    {
+      "id": "f2a88ed8a71182b8",
+      "title": "SpaceXAI lança Grok 4.5, que Elon descreve como um ‘modelo da classe Opus’",
+      "summary": "A empresa de tecnologia de Elon Musk lançou a versão mais recente do Grok na quarta-feira, prometendo uma alternativa mais barata e eficiente a outros modelos poderosos de IA.",
+      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-08T19:30:16+00:00"
+    },
     {
       "id": "87e79a974906b32d",
       "title": "Esta startup acha que a robótica está prestes a ter seu momento ChatGPT",
@@ -34,6 +188,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-08T18:48:18+00:00"
+    },
+    {
+      "id": "0e9606fb9a7384dd",
+      "title": "Google AI Studio adiciona ‘Importar do GitHub’ ao modo de construção, transformando um repositório existente em um aplicativo editável e implantável",
+      "summary": "O Google AI Studio está lançando a importação do GitHub no modo Build. Ele transforma um repositório existente em um formato compatível com tempo de execução. Você pode então iterá-lo, implantá-lo e muito mais…",
+      "link": "https://www.marktechpost.com/2026/07/08/google-ai-studio-adds-import-from-github-to-build-mode/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-08T18:41:57+00:00"
     },
     {
       "id": "b325acdaa797d45f",
@@ -89,6 +254,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-08T18:17:52+00:00"
+    },
+    {
+      "id": "64244d41822872a8",
+      "title": "OpenAI lança GPT-Live e GPT-Live-1 mini: modelos de voz full-duplex que delegam raciocínio mais profundo ao GPT-5.5",
+      "summary": "A OpenAI lançou o GPT-Live, uma nova geração de modelos de voz que agora alimentam o ChatGPT Voice. Ele usa uma arquitetura full-duplex para ouvir e falar ao mesmo tempo, e os delegados pesquisam e…",
+      "link": "https://www.marktechpost.com/2026/07/08/openai-releases-gpt-live-and-gpt-live-1-mini-full-duplex-voice-models-that-delegate-deeper-reasoning-to-gpt-5-5/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-08T18:08:21+00:00"
     },
     {
       "id": "c57bfd26098a4d41",
@@ -150,7 +326,7 @@
       "title": "OpenAI lança novo modelo de voz para deixar ChatGPT mais humano e natural",
       "summary": "Família GPT-Live consegue ouvir e falar ao mesmo tempo. Pesquisas na web e tarefas de raciocínio são delegadas ao GPT-5.5. OpenAI lança novo modelo de voz para deixar ChatGPT mais…",
       "link": "https://tecnoblog.net/noticias/openai-lanca-novo-modelo-de-voz-para-deixar-chatgpt-mais-humano-e-natural/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/press-static-hero-16x9-1-340x191.jpg",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/ean5cj347py-1.jpg",
       "source": "Tecnoblog",
       "region": "brasil",
       "category": "Brasil",
@@ -309,6 +485,28 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-08T13:42:51+00:00"
+    },
+    {
+      "id": "e00d55023af7c16f",
+      "title": "Nossa abordagem às parcerias governamentais e de segurança nacional",
+      "summary": "Saiba como a OpenAI aborda parcerias governamentais e de segurança nacional, com princípios para uso responsável de IA, responsabilidade democrática e segurança pública.",
+      "link": "https://openai.com/index/government-national-security-partnerships",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-08T13:30:00+00:00"
+    },
+    {
+      "id": "e9167e656930e3f1",
+      "title": "Separando sinal de ruído em avaliações de codificação",
+      "summary": "Uma nova análise da OpenAI revela problemas no SWE-Bench Pro, um benchmark de codificação popular, levantando preocupações sobre confiabilidade e precisão na avaliação de modelos de IA.",
+      "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-08T13:00:00+00:00"
     },
     {
       "id": "9661d3193505f535",
@@ -793,204 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-07-07T15:20:06+00:00"
-    },
-    {
-      "id": "194e698db0f23331",
-      "title": "DeepSeek está desenvolvendo seu primeiro chip de IA",
-      "summary": "Startup chinesa trabalha em processador voltado para inferência. Medida busca driblar restrições dos EUA. DeepSeek está desenvolvendo seu primeiro chip de IA",
-      "link": "https://tecnoblog.net/noticias/deepseek-esta-desenvolvendo-seu-primeiro-chip-de-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/01/Capa-Deepseek-China-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-07T15:16:42+00:00"
-    },
-    {
-      "id": "ba0a4de3b98b9acf",
-      "title": "O monólogo interno oculto de Claude agora é legível graças à nova lente jacobiana da Anthropic",
-      "summary": "A Anthropic descobriu que Claude desenvolveu uma memória interna de trabalho por conta própria durante o treinamento. A empresa o chama de “J-Space” e agora pode lê-lo usando uma nova ferramenta de análise…",
-      "link": "https://the-decoder.com/claudes-hidden-inner-monologue-is-now-readable-thanks-to-anthropics-new-jacobian-lens/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/10/anthropic_claude_memory.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-07T14:46:29+00:00"
-    },
-    {
-      "id": "9ec121b03e3fabc8",
-      "title": "Norma, startup de direito de IA, levanta US$ 120 milhões e atinge avaliação de unicórnio",
-      "summary": "A startup jurídica de IA Norm levantou uma rodada Série C de US$ 120 milhões liderada pela Khosla Ventures, avaliando a startup em US$ 1,2 bilhão.",
-      "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-07T14:35:42+00:00"
-    },
-    {
-      "id": "42ec3ad7a9a27229",
-      "title": "Novo chip da DeepSeek pode mudar a disputa da inteligência artificial",
-      "summary": "DeepSeek desenvolve chip próprio de IA para reduzir dependência da Nvidia e Huawei, buscando mais autonomia na corrida tecnológica chinesa O post Novo chip da DeepSeek pode mudar…",
-      "link": "https://olhardigital.com.br/2026/07/07/inteligencia-artificial/novo-chip-da-deepseek-pode-mudar-a-disputa-da-inteligencia-artificial/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/ia_norte-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-07T13:45:24+00:00"
-    },
-    {
-      "id": "68041221e1f65a73",
-      "title": "Não consegue criar imagens no ChatGPT? Falha atinge IA nesta terça (7)",
-      "summary": "Usuários do ChatGPT relatam falhas ao gerar imagens pelo assistente de inteligência artificial (IA) nesta terça-feira (7). Em nota, a OpenAI confirmou o incidente e destacou que…",
-      "link": "https://canaltech.com.br/apps/nao-consegue-criar-imagens-no-chatgpt-falha-atinge-ia-nesta-terca-7/",
-      "image": "https://t.ctcdn.com.br/eFsqw8IK-RmTRhZ7JYM_N-mqTj8=/700x394/smart/i1137009.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-07T13:45:00+00:00"
-    },
-    {
-      "id": "b633eba6a8debd30",
-      "title": "Ransomware com IA acelera ataques, mas ainda depende de ação humana",
-      "summary": "Pesquisadores da Sysdig identificaram um dos primeiros ataques de ransomware conduzidos por um agente de IA . Atribuído ao operador JadePuffer, o ataque automatiza etapas do golpe…",
-      "link": "https://canaltech.com.br/seguranca/ransomware-com-ia-acelera-ataques-mas-ainda-depende-de-acao-humana/",
-      "image": "https://t.ctcdn.com.br/xe3KF39ILGMJkMQ-CM096HEZrGs=/700x394/smart/i528293.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-07T13:18:17+00:00"
-    },
-    {
-      "id": "13c713ca03e6e349",
-      "title": "Solos lança uma versão ainda mais leve de seus óculos inteligentes sem câmera",
-      "summary": "Solos anunciou uma nova versão de seus óculos inteligentes AirGo, que renuncia às câmeras por um design mais elegante e um assistente de IA que depende de interações de voz. AirGo A5 do ano passado…",
-      "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/solos1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-07T13:00:00+00:00"
-    },
-    {
-      "id": "13f23565e8c5d244",
-      "title": "A democratização da IA e a próxima onda de transformação das PMEs",
-      "summary": "Durante muitos anos, falar em uma efetiva transformação digital corporativa significava falar sobre investimentos vultosos, equipes especializadas de tecnologia e projetos…",
-      "link": "https://canaltech.com.br/colunas/a-democratizacao-da-ia-e-a-proxima-onda-de-transformacao-das-pmes/",
-      "image": "https://t.ctcdn.com.br/kAL4WsoCPyRvy77V70Bo-UaVU-4=/700x394/smart/i979769.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-07T12:48:43+00:00"
-    },
-    {
-      "id": "8aee68da4163eaa7",
-      "title": "Google está te usando para treinar IA sem você perceber",
-      "summary": "Nova política amplia o uso de buscas e arquivos enviados aos serviços do Google para desenvolver IA, com opção de desativação pelos usuários O post Google está te usando para…",
-      "link": "https://olhardigital.com.br/2026/07/07/inteligencia-artificial/google-esta-te-usando-para-treinar-ia-sem-voce-perceber/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/12/busca_google-e1769510988782-1024x577.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-07T12:47:41+00:00"
-    },
-    {
-      "id": "ae6d2983577719d2",
-      "title": "Moto g06 em promoção: confira as melhores ofertas deste smartphone Motorola na Amazon",
-      "summary": "Se você está em busca de um smartphone com bom desempenho, bateria robusta e câmera com inteligência artificial sem gastar uma fortuna, o Motorola Moto g06 pode ser exatamente o…",
-      "link": "https://olhardigital.com.br/2026/07/07/reviews/moto-g06-em-promocao-confira-as-melhores-ofertas-deste-smartphone-motorola-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/41DX0EoIkpL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-07T12:40:00+00:00"
-    },
-    {
-      "id": "90a74ce7768b0f24",
-      "title": "O aplicativo de Savi visa proteger os consumidores de golpes realistas de IA, como sequestradores exigindo resgate",
-      "summary": "A empresa acaba de levantar US$ 7 milhões em financiamento inicial e está lançando seu aplicativo para iPhone e Android na terça-feira.",
-      "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-07T12:00:00+00:00"
-    },
-    {
-      "id": "48166ec9d94f3bbf",
-      "title": "Crise da RAM faz Samsung bater recorde de lucro e deixa Apple e NVIDIA para trás",
-      "summary": "A forte alta nos preços das memórias RAM transformou o segundo trimestre de 2026 em um período histórico para a Samsung , que registrou um lucro operacional de 89,4 trilhões de…",
-      "link": "https://canaltech.com.br/produtos/crise-da-ram-faz-samsung-bater-recorde-de-lucro-e-deixa-apple-e-nvidia-para-tras/",
-      "image": "https://t.ctcdn.com.br/yVOAmnBheo26ZETrC9D61ld8g2U=/700x394/smart/i1141045.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-07T11:37:37+00:00"
-    },
-    {
-      "id": "9bf27f202a2d3d13",
-      "title": "Os modelos chineses de IA passam regularmente 30% no OpenRouter à medida que a diferença de custos aumenta",
-      "summary": "Os modelos chineses de IA estão ganhando terreno entre as empresas norte-americanas porque custam muito menos do que os sistemas OpenAI e Anthropic, relata a CNBC. O artigo Modela IA chinesa regularmente…",
-      "link": "https://the-decoder.com/chinese-ai-models-regularly-pass-30-percent-on-openrouter-as-cost-gap-widens/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/china_vs_usa_ai_race.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-07T11:34:52+00:00"
-    },
-    {
-      "id": "65f527a36efca151",
-      "title": "Os elementos fundamentais da arquitetura de IA que os líderes de TI precisam para escalar",
-      "summary": "Com o rápido progresso das capacidades de IA e a mudança para sistemas de agentes, as organizações estão a expandir os seus casos de utilização à medida que a tecnologia continua a crescer. Essa constante…",
-      "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2216481617.jpg",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-07T11:10:52+00:00"
-    },
-    {
-      "id": "7ac5a37c278d4a1c",
-      "title": "Deepseek está projetando seu próprio chip de IA",
-      "summary": "A startup chinesa Deepseek está construindo seu próprio chip de IA, relata a Reuters. O artigo Deepseek está projetando seu próprio chip de IA apareceu pela primeira vez no The Decoder.",
-      "link": "https://the-decoder.com/deepseek-is-designing-its-own-ai-chip/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/deepseek_red_whale.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-07T11:04:34+00:00"
-    },
-    {
-      "id": "d8b82cdff6329ac6",
-      "title": "Como a IA poderia permitir robôs autônomos em locais de trabalho – e talvez em residências",
-      "summary": "Os principais pesquisadores e fundadores da robótica explicam como a autonomia dos robôs está evoluindo.",
-      "link": "https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Agility_Digit_06-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-07T11:00:18+00:00"
-    },
-    {
-      "id": "91540574703a76e3",
-      "title": "Como a IA poderia permitir robôs autônomos em locais de trabalho – e talvez em residências",
-      "summary": "Os principais pesquisadores e fundadores da robótica explicam como a autonomia dos robôs está evoluindo.",
-      "link": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Agility_Digit_06-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-07T11:00:18+00:00"
-    },
-    {
-      "id": "140385f30ea03009",
-      "title": "OpenAI e Anthropic estão doando milhões em poder computacional para atrair startups",
-      "summary": "OpenAI, Anthropic e os principais provedores de nuvem estão correndo para superar uns aos outros com créditos de computação gratuitos para atrair startups para seus ecossistemas. Algumas ofertas individuais custam US$ 3…",
-      "link": "https://the-decoder.com/openai-and-anthropic-are-giving-away-millions-in-computing-power-to-attract-startups/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/04/openai_anthropic_torn_apart.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-07T10:44:35+00:00"
     }
   ]
 }
