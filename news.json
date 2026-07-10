@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-07-10T14:23:06.887860+00:00",
+  "generated_at": "2026-07-10T19:25:30.221867+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "1d971e053c145464",
+      "title": "Como construir um agente autônomo de ciência de dados compatível com T4 com DeepAnalyze-8B, execução de código em sandbox e análise iterativa",
+      "summary": "Construímos um agente autônomo de ciência de dados em torno do DeepAnalyze-8B e o executamos de ponta a ponta. Preparamos um tempo de execução estável do Colab, instalamos as dependências de aprendizado de máquina e carregamos o…",
+      "link": "https://www.marktechpost.com/2026/07/10/how-to-build-a-t4-friendly-autonomous-data-science-agent-with-deepanalyze-8b-sandboxed-code-execution-and-iterative-analysis/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4ca.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-10T19:24:00+00:00"
+    },
+    {
+      "id": "993fc46d0231cf40",
+      "title": "IA não deveria aparecer para quem não gosta, diz chefe do Instagram",
+      "summary": "Adam Mosseri diz que algoritmo deve aprender preferências do usuário, mas descarta bloquear conteúdo de IA na rede. IA não deveria aparecer para quem não gosta, diz chefe do…",
+      "link": "https://tecnoblog.net/noticias/ia-nao-deveria-aparecer-para-quem-nao-gosta-diz-chefe-do-instagram/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/yq_ewmtfwvq.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T18:54:42+00:00"
+    },
+    {
+      "id": "58d25b27a9989762",
+      "title": "Hora de imprimir mais gastando menos: seleção de impressoras em oferta na Amazon",
+      "summary": "Se você está pensando em trocar a impressora ou comprar a primeira, este é um bom momento para agir. Reunimos três modelos multifuncionais em promoção na Amazon — todos com…",
+      "link": "https://olhardigital.com.br/2026/07/10/reviews/hora-de-imprimir-mais-gastando-menos-selecao-de-impressoras-em-oferta-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T18:40:00+00:00"
+    },
+    {
+      "id": "1a52b6ac61471c45",
+      "title": "SK Hynix: parceira da Nvidia quebra recorde bilionário em estreia na Bolsa",
+      "summary": "Levantamento de R$ 135,7 bilhões se tornou maior abertura de capital da história dos EUA realizada por empresa estrangeira O post SK Hynix: parceira da Nvidia quebra recorde…",
+      "link": "https://olhardigital.com.br/2026/07/10/pro/sk-hynix-parceira-da-nvidia-quebra-recorde-bilionario-em-estreia-na-bolsa/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/nvidia_logo-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T18:37:43+00:00"
+    },
+    {
+      "id": "901b6fbe91a60aff",
+      "title": "IA muda ritmo dos ataques e força empresas a priorizar vulnerabilidades",
+      "summary": "As vulnerabilidades passaram a responder cerca de 40% das exposições críticas registradas em ambientes corporativos em 2026, mais que o dobro da proporção observada no ano…",
+      "link": "https://canaltech.com.br/seguranca/ia-muda-ritmo-dos-ataques-e-forca-empresas-a-priorizar-vulnerabilidades/",
+      "image": "https://t.ctcdn.com.br/pWauEFO5ZHg28VnLnUEDuLXnnsI=/700x394/smart/i1096325.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T18:30:07+00:00"
+    },
+    {
+      "id": "c61d078210e87371",
+      "title": "SK Hynix quebra recorde e tem estreia bilionária na Nasdaq",
+      "summary": "Fabricante sul-coreana de memória levanta US$ 26,5 bilhões. Dinheiro deve ajudar a financiar novas fábricas para atender às demandas criadas pela IA generativa. SK Hynix quebra…",
+      "link": "https://tecnoblog.net/noticias/sk-hynix-quebra-recorde-e-tem-estreia-bilionaria-na-nasdaq/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/05/predio-sk-hynix-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T18:24:05+00:00"
+    },
+    {
+      "id": "eba406d056cc1159",
+      "title": "NVIDIA não abandonou os PC gamers e prepara nova versão da RTX 5090",
+      "summary": "As recentes decisões da NVIDIA nos mostram que existe pouco interesse na divisão de gaming com as GeForce RTX atualmente depois da explosão da IA. Porém um novo rumor, vindo do…",
+      "link": "https://canaltech.com.br/hardware/nvidia-nao-abandonou-os-pc-gamers-e-prepara-nova-versao-da-rtx-5090/",
+      "image": "https://t.ctcdn.com.br/1jZ1MGeIxM8SVfJnmuTGuDXMHU0=/700x394/smart/i974557.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T18:10:00+00:00"
+    },
+    {
+      "id": "d0e38d01b634bed6",
+      "title": "SpaceX pode ganhar mais com IA do que com foguetes – e os números provam isso",
+      "summary": "Contratos com Anthropic, Google e Reflection AI devem gerar mais de US$ 28 bilhões ao ano em receita de computação terrestre O post SpaceX pode ganhar mais com IA do que com…",
+      "link": "https://olhardigital.com.br/2026/07/10/pro/spacex-pode-ganhar-mais-com-ia-do-que-com-foguetes-e-os-numeros-provam-isso/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/cursor_spacex-1024x538.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T17:42:32+00:00"
+    },
+    {
+      "id": "215c84d847ed7459",
+      "title": "SK Hynix levanta US$ 26,5 bilhões no maior IPO estrangeiro da história dos EUA e é instada a construir novas fábricas nos EUA",
+      "summary": "O boom dos chips de IA acaba de produzir seu maior momento em Wall Street. Agora, a SK Hynix e a Samsung estão sendo solicitadas a construir fábricas nos EUA.",
+      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-10T17:17:12+00:00"
+    },
+    {
+      "id": "96752052f3ecbe70",
+      "title": "ChatGPT Work: qual a diferença entre o novo agente e a versão padrão da IA?",
+      "summary": "A OpenAI anunciou o ChatGPT Work , um novo agente de IA focado em tarefas que podem levar minutos ou horas para serem concluídas. Diferente da experiência tradicional do ChatGPT…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-work-qual-a-diferenca-entre-o-novo-agente-e-a-versao-padrao-da-ia/",
+      "image": "https://t.ctcdn.com.br/t4uumEWy4N7Kff9hPJgA56C05wU=/700x394/smart/i1142079.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T17:05:00+00:00"
+    },
+    {
+      "id": "16d9512a7c0ae47d",
+      "title": "Smart TV LG QNED 50” sai com 42% OFF em até 12x sem juros na Amazon",
+      "summary": "LG QNED de 50 polegadas recomenda conteúdos via IA e tem tela 4K com preto profundo; smart TV modelo QNED73 recebe desconto de 42% em até 12x sem juros com cupom Smart TV LG QNED…",
+      "link": "https://tecnoblog.net/achados/smart-tv-lg-qned-50-sai-com-42-off-em-ate-12x-sem-juros-na-amazon/",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/03/smart-tv-lg-qled73-imagem-divulgacao-1060x596.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T17:00:13+00:00"
+    },
+    {
+      "id": "660259271d2dcaa2",
+      "title": "OpenAI acaba com navegador após menos de um ano",
+      "summary": "Recursos do ChatGPT Atlas foram incorporados ao novo app de desktop ChatGPT Work. Navegador será encerrado em 9 de agosto. OpenAI acaba com navegador após menos de um ano",
+      "link": "https://tecnoblog.net/noticias/openai-acaba-com-navegador-apos-menos-de-um-ano/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/wq45rvpgnhs.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T15:53:40+00:00"
+    },
+    {
+      "id": "b9185147eb30a4a4",
+      "title": "Desative a reprodução automática e a rolagem infinita ou arrisque multas pesadas, diz UE à Meta",
+      "summary": "A Lei de Serviços Digitais pode forçar a Meta a fazer grandes mudanças em suas plataformas.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2284791473-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-10T15:46:18+00:00"
+    },
+    {
+      "id": "3543a9e7d6f152ff",
+      "title": "Claude lança retrospectiva estilo Spotify para avaliar suas conversas no app",
+      "summary": "O Claude ganhou o novo recurso Refletir , que funciona como uma retrospectiva com o tempo gasto e as tarefas mais pedidas para a IA . No maior estilo Spotify Wrapped, o modo traz…",
+      "link": "https://canaltech.com.br/apps/claude-lanca-retrospectiva-estilo-spotify-para-avaliar-suas-conversas-no-app/",
+      "image": "https://t.ctcdn.com.br/s5ywFd8jkitC_5blWuVtcL4mR80=/700x394/smart/i1111421.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T15:15:00+00:00"
+    },
+    {
+      "id": "1448fd0a47074ae5",
+      "title": "Banco do Brasil testa IA que troca menus por conversa no app e WhatsApp",
+      "summary": "O Banco do Brasil (BB) apresentou sua nova plataforma de atendimento com inteligência artificial , que integra diferentes serviços e canais do banco. O experimento foi anunciado…",
+      "link": "https://canaltech.com.br/apps/banco-do-brasil-testa-ia-que-troca-menus-por-conversa-no-app-e-whatsapp/",
+      "image": "https://t.ctcdn.com.br/YIwlwe-11xaGdxlOLGAOl0iSZL0=/700x394/smart/i630321.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T14:52:37+00:00"
+    },
+    {
+      "id": "1d4b7898a4ffff49",
+      "title": "Como ativar a nova Alexa+ de graça no benefício do Amazon Prime",
+      "summary": "A Alexa+ ajuda a planejar e executar tarefas complexas com IA generativa, oferecendo conversas fluidas, automação de rotinas e gerenciamento de casa inteligente Como ativar a nova…",
+      "link": "https://tecnoblog.net/responde/como-ativar-a-nova-alexa-de-graca-no-beneficio-do-amazon-prime/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/como-ativar-a-nova-alexa-de-graca-no-beneficio-do-amazon-prime-340x191.jpeg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T14:24:06+00:00"
+    },
     {
       "id": "67d711d21d0f55d8",
       "title": "Claude ganha painel que detalha como você usa a IA",
@@ -23,6 +199,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-10T14:10:53+00:00"
+    },
+    {
+      "id": "9dcf2f1655207657",
+      "title": "Abraçando o CEO da Face sobre por que as empresas pararam de alugar sua IA",
+      "summary": "A IA de código aberto está crescendo, de acordo com Clem Delangue, CEO da Hugging Face. A empresa cresceu e se tornou algo como um GitHub para IA nos últimos anos, onde os construtores de IA podem compartilhar e…",
+      "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-10T14:00:00+00:00"
     },
     {
       "id": "a2758dec3cff3643",
@@ -804,193 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-09T13:11:53+00:00"
-    },
-    {
-      "id": "b98a594ec40e8f26",
-      "title": "GPT-5.6 agora é o modelo preferido no Microsoft 365 Copilot",
-      "summary": "Saiba como o GPT-5.6 potencializa o Microsoft 365 Copilot com recursos de IA mais fortes no Word, Excel, PowerPoint, Chat e Cowork para um trabalho mais rápido e de maior qualidade.",
-      "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-09T13:00:00+00:00"
-    },
-    {
-      "id": "189cdf143351e22d",
-      "title": "FL Studio 2026 transforma seu chatbot de IA em seu engenheiro assistente",
-      "summary": "No ano passado, a Image Line apresentou o Gopher para FL Studio, um chatbot de IA que era basicamente um manual de instruções glorificado. Você perguntou como fazer algo, e isso serviria para...",
-      "link": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Hands-on-assistance-built-in.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-09T13:00:00+00:00"
-    },
-    {
-      "id": "5d77deb799966360",
-      "title": "A popular ferramenta de desenvolvimento de IA de código aberto Ollama arrecada US$ 65 milhões e chega a quase 9 milhões de usuários",
-      "summary": "Ollama, apoiado por benchmark, acumulou 176.000 estrelas e quase 17.000 forks no GitHub, ajudando os desenvolvedores a executar IA facilmente em seus PCs.",
-      "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-09T13:00:00+00:00"
-    },
-    {
-      "id": "277ae1a5108bb085",
-      "title": "Character.AI entra na arena do microdrama com suas próprias produções, mas há uma reviravolta",
-      "summary": "Em uma reviravolta interessante que aproveita o produto principal da empresa, os usuários podem conversar com os personagens desses programas, fazer perguntas e até mesmo interpretar diferentes histórias.",
-      "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-09T13:00:00+00:00"
-    },
-    {
-      "id": "caae1a83e951d8c4",
-      "title": "Análise do Lenovo LOQ 15 com RTX 4050: vale a pena para jogos em 2026?",
-      "summary": "Com placa gráfica Nvidia, processador Intel Core i5, 16 GB de RAM e tela de alta qualidade: confira mais sobre o modelo O post Análise do Lenovo LOQ 15 com RTX 4050: vale a pena…",
-      "link": "https://olhardigital.com.br/2026/07/09/reviews/analise-do-lenovo-loq-15-com-rtx-4050-vale-a-pena-para-jogos-em-2026/",
-      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/07/lenovo2.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-09T13:00:00+00:00"
-    },
-    {
-      "id": "f896f31ef9eed1d9",
-      "title": "Carros que \"conversam\" com motoristas já são realidade; saiba mais",
-      "summary": "O uso de Inteligência Artificial embarcada no pacote de tecnologias dos carros está cada vez maior. Pelo menos 3 marcas conhecidas e muito queridas pelo público brasileiro já…",
-      "link": "https://canaltech.com.br/carros/carros-que-conversam-com-motoristas-ja-sao-realidade-saiba-mais/",
-      "image": "https://t.ctcdn.com.br/3vEdCVXbcOorO87YFfEL731Lw68=/700x394/smart/i1065457.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-09T12:55:00+00:00"
-    },
-    {
-      "id": "0c099a85d8fb79f7",
-      "title": "Nandan Nilekani deixa o cargo de GP na Fundamentum ao lançar o terceiro fundo de US$ 200 milhões",
-      "summary": "Nilekani continua sendo o investidor âncora da Fundamentum à medida que a empresa expande sua equipe de liderança e visa startups de IA e fintech na Índia.",
-      "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-09T12:00:00+00:00"
-    },
-    {
-      "id": "15b54d79c2e36ffd",
-      "title": "Databricks torna o modelo chinês de código aberto GLM 5.2 seu mecanismo de codificação padrão depois de combinar com o Opus a um custo menor",
-      "summary": "A Databricks comparou agentes de codificação em sua própria base de código multimilionária e descobriu que o modelo de código aberto chinês GLM 5.2 correspondia ao Opus 4.8 da Anthropic por US$ 1,28 por tarefa…",
-      "link": "https://the-decoder.com/databricks-makes-chinese-open-source-model-glm-5-2-its-default-coding-engine-after-it-matched-opus-at-lower-cost/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/databricks_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-09T11:03:39+00:00"
-    },
-    {
-      "id": "e19fbb75eb44457e",
-      "title": "GPT-5.6: Inteligência de fronteira que se adapta à sua ambição",
-      "summary": "Mais inteligência de cada token, melhor desempenho por dólar e mais capacidade sob demanda para o seu trabalho mais difícil.",
-      "link": "https://openai.com/index/gpt-5-6",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-09T10:00:00+00:00"
-    },
-    {
-      "id": "2015b07b78a1afec",
-      "title": "ChatGPT agora é parceiro do seu trabalho mais ambicioso",
-      "summary": "ChatGPT Work é um agente que pode realizar ações em seus aplicativos e arquivos, permanecer em um projeto por horas, se necessário, e transformar uma meta em trabalho concluído.",
-      "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-09T10:00:00+00:00"
-    },
-    {
-      "id": "07aa5a8a45a2217e",
-      "title": "Recompensa de bug biológico GPT-5.5",
-      "summary": "Detalhes sobre o programa OpenAI Bio Bounty",
-      "link": "https://openai.com/index/bio-bug-bounty",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-09T10:00:00+00:00"
-    },
-    {
-      "id": "fd2ae24a3f1ecf19",
-      "title": "A IA da OpenAI vence todos os humanos no AtCoder, um concurso de programação competitivo",
-      "summary": "Nas finais do AtCoder World Tour 2026, um sistema OpenAI esmagou todos os competidores humanos em uma partida de exibição, resolvendo todos os cinco problemas na Divisão de Algoritmos. Dois desses…",
-      "link": "https://the-decoder.com/openais-ai-beats-every-human-at-atcoder-a-top-competitive-programming-contest/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/AtCoder-OpenAI-Win-title.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-09T09:56:57+00:00"
-    },
-    {
-      "id": "080736e852d734eb",
-      "title": "IA virou requisito? Entenda o que as empresas buscam nos profissionais",
-      "summary": "Especialista explica como a inteligência artificial está mudando contratações, carreiras e as habilidades mais valorizadas no mercado tech Ouça ao podcast.",
-      "link": "https://canaltech.com.br/podcast/podcast-canaltech/ia-virou-requisito-entenda-o-que-as-empresas-buscam-nos-profissionais-6605/",
-      "image": "https://t.ctcdn.com.br/YxY9vVyldmyiOPwATsdwUjAIFF4=/700x394/smart/i1141711.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-09T09:00:00+00:00"
-    },
-    {
-      "id": "e7afab5c789f9f75",
-      "title": "NVIDIA lança Nemotron-Labs-3-Puzzle-75B-A9B: um LLM MoE híbrido compactado que oferece taxa de transferência de servidor 2,03x com taxa de transferência de usuário correspondente",
-      "summary": "A NVIDIA lançou o Nemotron-Labs-3-Puzzle-75B-A9B, uma variante compactada do Nemotron-3-Super. O Iterative Puzzle alterna compressão estrutural com reconhecimento de hardware com…",
-      "link": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-1.25.52-AM-1-150x150.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-09T08:47:37+00:00"
-    },
-    {
-      "id": "482f227407b7c2cf",
-      "title": "ChatGPT mais poderoso chega hoje; saiba o que esperar",
-      "summary": "Estamos falando do modelo GPT 5.6, o mais poderoso da OpenAI O post ChatGPT mais poderoso chega hoje; saiba o que esperar apareceu primeiro em Olhar Digital .",
-      "link": "https://olhardigital.com.br/2026/07/09/inteligencia-artificial/chatgpt-mais-poderoso-chega-hoje-saiba-o-que-esperar/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-09T08:26:33+00:00"
-    },
-    {
-      "id": "f6852b653d52f4af",
-      "title": "Google AI Studio adiciona importação do GitHub para criar um aplicativo implantável",
-      "summary": "O Google AI Studio está lançando a importação do GitHub no modo Build. Ele transforma um repositório existente em um formato compatível com tempo de execução. Você pode então iterá-lo, implantá-lo e muito mais…",
-      "link": "https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-09T07:58:06+00:00"
-    },
-    {
-      "id": "b00d52ca2ad31d86",
-      "title": "Datalab Lift versus o campo: como um extrator de esquema 9B se compara com NuExtract3, LlamaExtract, Marker e Docling",
-      "summary": "O Lift do Datalab é uma ferramenta focada de extração de documentos com uma promessa específica: forneça um PDF ou imagem mais um esquema JSON e ele retornará JSON em formato de esquema diretamente. Em vez de…",
-      "link": "https://www.marktechpost.com/2026/07/09/datalab-lift-vs-the-field-how-a-9b-schema-first-extractor-compares-with-nuextract3-llamaextract-marker-and-docling/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-09T07:50:47+00:00"
     }
   ]
 }
