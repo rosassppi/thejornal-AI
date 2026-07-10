@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-07-10T09:32:39.379732+00:00",
+  "generated_at": "2026-07-10T14:23:06.887860+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "67d711d21d0f55d8",
+      "title": "Claude ganha painel que detalha como você usa a IA",
+      "summary": "Nova ferramenta da Anthropic oferece dados de uso, dicas de produtividade e alertas de pausa. Claude ganha painel que detalha como você usa a IA",
+      "link": "https://tecnoblog.net/noticias/claude-ganha-painel-que-detalha-como-voce-usa-a-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/claude-2-340x191.webp",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T14:12:43+00:00"
+    },
+    {
+      "id": "927a5724f7a25754",
+      "title": "As notas despencaram depois que professor adotou medida contra IA",
+      "summary": "Professor da Universidade Brown notou que média de um exame foi de 96 pontos, mas que desempenho caiu pela metade quando segundo teste foi aplicado em sala de aula. As notas…",
+      "link": "https://tecnoblog.net/noticias/professor-descobre-cola-com-ia-em-prova-remota-apos-notas-cairem-no-presencial/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/capas-iasartboard-2-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T14:10:53+00:00"
+    },
+    {
+      "id": "a2758dec3cff3643",
+      "title": "Google vai \"dedurar\" anúncios que usarem IA",
+      "summary": "O Google anunciou nesta quinta-feira (9) uma nova funcionalidade que vai indicar quando um anúncio foi criado ou editado com inteligência artificial (IA) . A informação fica…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/google-vai-dedurar-anuncios-que-usarem-ia/",
+      "image": "https://t.ctcdn.com.br/W0fYsTilS9jiNXJMFaeqTH-Z5o0=/700x394/smart/i1130231.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T14:00:00+00:00"
+    },
+    {
+      "id": "8de8dab2a459a18b",
+      "title": "Mi Band 11 da Xiaomi vaza pela primeira vez; veja tudo que já sabemos",
+      "summary": "A nova pulseira inteligente da Xiaomi , Mi Band 11 , apareceu em registros de certificação na China, revelando os primeiros detalhes sobre o dispositivo antes do anúncio oficial…",
+      "link": "https://canaltech.com.br/smartwatch/mi-band-11-da-xiaomi-vaza-pela-primeira-vez-veja-tudo-que-ja-sabemos/",
+      "image": "https://t.ctcdn.com.br/oOHsP3A1ts3B-cOgcQk3-dx4EgE=/700x394/smart/i1053235.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T13:50:51+00:00"
+    },
+    {
+      "id": "e52e7a22c645fc08",
+      "title": "Adam Mosseri do Instagram: Se você não gosta de IA, ‘então você não deveria tê-la em seu feed’",
+      "summary": "Embora o chefe do Instagram, Adam Mosseri, não queira filtrar o conteúdo de IA na plataforma, ele argumenta que você “não deveria tê-lo em seu feed” se não gostar. \"Eu não acho...",
+      "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-10T13:45:02+00:00"
+    },
+    {
+      "id": "0ea73ec74d98a954",
+      "title": "IA vai transformar a jornada de compra no varejo, diz CEO do Magalu",
+      "summary": "A IA vai abrir uma nova fase do varejo, na qual o consumidor poderá conversar com agentes capazes de entender seu contexto, recomendar produtos e concluir compras sem trocar de…",
+      "link": "https://canaltech.com.br/mercado/ia-vai-transformar-a-jornada-de-compra-no-varejo-diz-ceo-do-magalu/",
+      "image": "https://t.ctcdn.com.br/GrWBBKxIeGWxBIUjrVvEzQvp5BU=/700x394/smart/i1064529.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T13:34:38+00:00"
+    },
+    {
+      "id": "b9d1e982c843e2ba",
+      "title": "Você hospedaria parte de um data center de IA em sua casa?",
+      "summary": "Uma empresa de armazenamento de energia solar e doméstica está se expandindo para data centers de IA, mas não construindo um - em vez disso, está se oferecendo para pagar seus clientes para colocar suas unidades de computação em seus…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sunrun-distributed-compute1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-10T13:20:25+00:00"
+    },
+    {
+      "id": "cfac4582c50ff0c3",
+      "title": "Mas já? OpenAI encerra aplicativo poucos meses após o lançamento",
+      "summary": "A OpenAI vai descontinuar o navegador ChatGPT Atlas , lançado em outubro do ano passado. A decisão foi anunciada nesta quinta-feira (9) ao revelar o ChatGPT Work , novo agente…",
+      "link": "https://canaltech.com.br/software/mas-ja-openai-encerra-aplicativo-em-poucos-meses-apos-o-lancamento/",
+      "image": "https://t.ctcdn.com.br/v9m8HoFRpctt9w03hbE5R_YokZw=/700x394/smart/i1133689.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T13:03:00+00:00"
+    },
+    {
+      "id": "1819b28429737c7f",
+      "title": "Estreia da SK Hynix na Bolsa testa o futuro da IA e dos chips",
+      "summary": "A gigante sul-coreana de chips estreia na Nasdaq nesta sexta-feira (10) – e isso vai medir a confiança dos investidores no boom da IA O post Estreia da SK Hynix na Bolsa testa o…",
+      "link": "https://olhardigital.com.br/2026/07/10/inteligencia-artificial/estreia-da-sk-hynix-na-bolsa-testa-o-futuro-da-ia-e-dos-chips/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/jensen_huang-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T13:01:54+00:00"
+    },
+    {
+      "id": "41f895220f311c3c",
+      "title": "Motorola em promoção: confira uma seleção de smartphones com câmera com IA e bateria potente",
+      "summary": "A Motorola segue firme entre as marcas mais buscadas no Brasil, e agora é um bom momento para quem quer trocar de celular sem gastar muito. Reunimos três opções da linha Moto g…",
+      "link": "https://olhardigital.com.br/2026/07/10/reviews/motorola-em-promocao-confira-uma-selecao-de-smartphones-com-camera-com-ia-e-bateria-potente/",
+      "image": "https://m.media-amazon.com/images/I/41VhTuPsmCL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T12:40:00+00:00"
+    },
+    {
+      "id": "72a7fc6d20b48a74",
+      "title": "OpenAI encerra seu navegador Atlas depois de apenas oito meses e inclui tudo no ChatGPT",
+      "summary": "A OpenAI está encerrando seu navegador de IA Atlas menos de oito meses após o lançamento. Seus recursos estão migrando para a extensão atualizada do Chrome do ChatGPT, que permitirá aos usuários executar o ChatGPT…",
+      "link": "https://the-decoder.com/openai-kills-its-atlas-browser-after-just-eight-months-and-folds-everything-into-chatgpt/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_atlas.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-10T12:19:21+00:00"
+    },
+    {
+      "id": "b3622413200461d8",
+      "title": "O Fed quer que o investidor em IA Marc Andreessen ajude a descobrir se a IA pode domar a inflação",
+      "summary": "O presidente do Fed, Kevin Warsh, nomeou o capitalista de risco Marc Andreessen para aconselhar o Federal Reserve sobre o impacto económico da IA. Warsh vê a IA como um “desinflacionário significativo…",
+      "link": "https://the-decoder.com/the-fed-wants-ai-investor-marc-andreessen-to-help-figure-out-if-ai-can-tame-inflation/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/02/Office-Work-AI-scaled.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-10T12:18:32+00:00"
+    },
+    {
+      "id": "202d49c94b29ec7a",
+      "title": "Bun troca Zig por Rust com a ajuda de Claude Fable 5, escreve mais de um milhão de linhas de código em 11 dias",
+      "summary": "A ferramenta JavaScript Bun foi totalmente reescrita de Zig para Rust, e Fable 5 da Anthropic fez a maior parte do trabalho. O artigo Bun troca Zig por Rust com a ajuda de Claude Fable…",
+      "link": "https://the-decoder.com/bun-ditches-zig-for-rust-with-help-from-claude-fable-5-writes-over-a-million-lines-of-code-in-11-days/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo_money.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-10T11:09:44+00:00"
+    },
     {
       "id": "79e4db2341aa4c2a",
       "title": "Google Research apresenta SensorFM: um modelo wearable Health Foundation pré-treinado em um trilhão de minutos de dados de sensores",
@@ -848,149 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-07-09T07:50:47+00:00"
-    },
-    {
-      "id": "2c5dfa5364c0ba93",
-      "title": "Grok 4.5 é tão barato comparado ao Fable 5 e GPT 5.5 que as lacunas de benchmark podem não importar muito",
-      "summary": "xAI lança Grok 4.5, treinado em dezenas de milhares de GPUs Nvidia GB300. Em benchmarks de codificação, o modelo segue Fable 5 e GPT-5.5, mas precisa de 4,2 vezes menos tokens que o Opus…",
-      "link": "https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/xai_logo_wakk.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-09T07:47:44+00:00"
-    },
-    {
-      "id": "e2864fdda9f259da",
-      "title": "Meta trabalha em óculos inteligentes com gravação contínua, diz jornal",
-      "summary": "Segundo informações do Financial Times, projeto prevê que dispositivos gravem áudio de forma contínua e capturem fotografias em intervalos de poucos segundos O post Meta trabalha…",
-      "link": "https://olhardigital.com.br/2026/07/08/reviews/meta-trabalha-em-oculos-inteligentes-com-gravacao-continua-diz-jornal/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/meta-e1777458619772-1024x577.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-09T00:54:56+00:00"
-    },
-    {
-      "id": "67d4841afa16f8e8",
-      "title": "Robbyant lança LingBot-VLA 2.0: um modelo de visão-linguagem-ação (VLA) 6B de código aberto para manipulação de robôs de incorporação cruzada",
-      "summary": "Robbyant do Ant Group lançou o LingBot-VLA 2.0, um modelo de visão-linguagem-ação Apache-2.0 para manipulação de robôs de incorporação cruzada. O ponto de verificação 6B é pré-treinado aproximadamente…",
-      "link": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-09T00:45:39+00:00"
-    },
-    {
-      "id": "3b3c6bf8989ab918",
-      "title": "SpaceXAI lança Grok 4.5, um modelo treinado por cursor para codificação, tarefas de agente e trabalho de conhecimento com entrada de US$ 2/m",
-      "summary": "A SpaceXAI lançou o Grok 4.5, um modelo treinado por Cursor para codificação, tarefas de agente e trabalho de conhecimento. Ele atende a 80 TPS, custa $ 2/$ 6 por milhão de tokens e ocupa o primeiro lugar no Harvey's…",
-      "link": "https://www.marktechpost.com/2026/07/08/spacexai-releases-grok-4-5/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-08T23:54:28+00:00"
-    },
-    {
-      "id": "1d0c9806404fbe72",
-      "title": "Smartwatch bom e barato: qual modelo comprar em 2026?",
-      "summary": "Conheça os melhores relógios inteligentes com preço acessível e boas especificações para monitorar saúde, exercícios e esportes Smartwatch bom e barato: qual modelo comprar em…",
-      "link": "https://tecnoblog.net/guias/smartwatch-bom-e-barato/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/samsung-galaxy-fit3-guia-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-08T21:52:47+00:00"
-    },
-    {
-      "id": "c47c4c24fc478f33",
-      "title": "Suspeitando de trapaça na IA, o professor da Ivy League ordenou uma final presencial; pontuações caíram 50%",
-      "summary": "A trapaça da IA ​​leva a “uma sociedade falida”, diz o professor.",
-      "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261090247-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-08T21:42:44+00:00"
-    },
-    {
-      "id": "23f1c740dfcbfb10",
-      "title": "Google Fotos ganha nova função que transforma vídeos com IA",
-      "summary": "Video Remix aplica efeitos de luz, troca fundos e muda o estilo visual de clipes salvos no app. Google Fotos ganha nova função que transforma vídeos com IA",
-      "link": "https://tecnoblog.net/noticias/google-fotos-ganha-nova-funcao-que-transforma-videos-com-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/remix-de-video-google-fotos-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-08T21:25:59+00:00"
-    },
-    {
-      "id": "b50fe5fefb37734e",
-      "title": "A equipe de IA da Netflix reduz a latência de leitura de partições amplas de segundos para milissegundos, dividindo as partições Cassandra por ID",
-      "summary": "Os engenheiros da Netflix detalharam como lidam com partições amplas no Apache Cassandra para a abstração TimeSeries. Duas abordagens funcionam juntas: músicas de reparticionamento do Time Slice…",
-      "link": "https://www.marktechpost.com/2026/07/08/netflix-ai-team-cuts-wide-partition-read-latency-from-seconds-to-milliseconds-by-splitting-cassandra-partitions-per-id/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-08T21:00:58+00:00"
-    },
-    {
-      "id": "fc75b9bd5d033a7b",
-      "title": "O sistema de detecção de deepfake do Google usado para desmascarar a foto do boato de McConnell",
-      "summary": "No início desta semana, uma foto parecia mostrar o senador do Kentucky, Mitch McConnell, coberto de tubos em uma cama de hospital em estado de extrema angústia. Acabou sendo um gerado por IA ...",
-      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-08T20:37:03+00:00"
-    },
-    {
-      "id": "e19685956069d553",
-      "title": "OpenAI vai liberar GPT-5.6 após governo Trump remover restrições",
-      "summary": "Nova família de IA será lançada nesta quinta-feira (09/07) após período de acesso restrito a clientes selecionados. OpenAI vai liberar GPT-5.6 após governo Trump remover restrições",
-      "link": "https://tecnoblog.net/noticias/openai-vai-liberar-gpt-5-6-apos-governo-trump-remover-restricoes/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/ean5cj347py.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-08T20:15:21+00:00"
-    },
-    {
-      "id": "4c80b494b76958b4",
-      "title": "Sonic de jaqueta de couro: NVIDIA promete presença no aniversário do ouriço azul",
-      "summary": "A NVIDIA e a SEGA já tiveram uma parceria em um passado distante, mais especificamente na década de 1990. Por algum motivo, ambas as empresas resolveram se juntar novamente em um…",
-      "link": "https://canaltech.com.br/hardware/jensen-huang-estara-em-evento-fechado-da-sega-para-revelar-tecnologia-para-games/",
-      "image": "https://t.ctcdn.com.br/HwLrZzngL7uUkcCrJRGpb8b5pjk=/700x394/smart/i1141713.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-08T20:10:00+00:00"
-    },
-    {
-      "id": "0517a16889ea545f",
-      "title": "Modo de voz do ChatGPT está mais fluido e vira alternativa ao Google Tradutor",
-      "summary": "A OpenAI anunciou o GPT-Live nesta quarta-feira (08), novo modelo de IA para conversas por voz no ChatGPT. A atualização deixa as interações mais fluidas e ainda transforma o…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/modo-de-voz-do-chatgpt-esta-mais-fluido-e-vira-alternativa-ao-google-tradutor/",
-      "image": "https://t.ctcdn.com.br/zr9DPZzNf7HXeuW2nEaK4d7TqNk=/700x394/smart/i1141797.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-08T19:59:11+00:00"
-    },
-    {
-      "id": "47a8b29856e6213b",
-      "title": "Processo: Homem usou Grok para fazer 7 mil imagens de sexo da enteada e depois atirou em si mesmo",
-      "summary": "Mais meninas processam X por causa de Grok CSAM; X acusado de proteger crianças predadoras.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261524889-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-08T19:56:37+00:00"
     }
   ]
 }
