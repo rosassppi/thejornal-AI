@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-07-10T02:54:43.158251+00:00",
+  "generated_at": "2026-07-10T09:32:39.379732+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "79e4db2341aa4c2a",
+      "title": "Google Research apresenta SensorFM: um modelo wearable Health Foundation pré-treinado em um trilhão de minutos de dados de sensores",
+      "summary": "SensorFM, um modelo de base de saúde vestível do Google Research, Google DeepMind e colaboradores universitários. Percorremos seu backbone de autoencoder mascarado ViT-1D…",
+      "link": "https://www.marktechpost.com/2026/07/10/google-research-introduces-sensorfm-a-wearable-health-foundation-model-pretrained-on-one-trillion-minutes-of-sensor-data/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-10-at-1.44.28-AM-1-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-10T08:52:04+00:00"
+    },
+    {
+      "id": "fba98f6ef2a77fa8",
+      "title": "Projeto brasileiro usa relógios inteligentes para detectar doenças antes de os sintomas aparecerem",
+      "summary": "Iniciativa é da Unicamp em parceria com a Samsung e poderá identificar sinais precoces de doenças como Parkinson e condições cardíacas O post Projeto brasileiro usa relógios…",
+      "link": "https://olhardigital.com.br/2026/07/10/medicina-e-saude/projeto-brasileiro-usa-relogios-inteligentes-para-detectar-doencas-antes-de-os-sintomas-aparecerem/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/viva-bem-1024x768.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T08:00:00+00:00"
+    },
+    {
+      "id": "521cb8f5727237af",
+      "title": "Como a Deutsche Telekom está religando as telecomunicações com IA",
+      "summary": "Como a Deutsche Telekom está se tornando uma empresa de telecomunicações nativa da IA ​​com o atendimento ao cliente, os fluxos de trabalho dos funcionários, as operações de rede e o futuro da voz que transformam o OpenAI.",
+      "link": "https://openai.com/index/deutsche-telekom",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-10T07:00:00+00:00"
+    },
+    {
+      "id": "93799ccbd9e7bc0e",
+      "title": "Conheça LingBot-World-Infinity: um modelo de mundo causal aberto com um arnês agente",
+      "summary": "Robbyant, unidade de inteligência incorporada do Ant Group, lançou o LingBot-World-Infinity (LingBot-World 2.0). É um modelo de geração de vídeo causal 14B que se comporta como um sistema interativo…",
+      "link": "https://www.marktechpost.com/2026/07/09/meet-lingbot-world-infinity-an-open-causal-world-model-with-an-agentic-harness/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-10T04:38:20+00:00"
+    },
     {
       "id": "294cb47467c9e115",
       "title": "Confira o Olhar Digital News na íntegra (09/07/2026)",
@@ -56,6 +100,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-10T00:04:13+00:00"
+    },
+    {
+      "id": "9dd06ff2acc7e68a",
+      "title": "Criação de perfil no PyTorch (Parte 3): Atenção é tudo o que você cria",
+      "summary": "",
+      "link": "https://huggingface.co/blog/torch-attention-profile",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-10T00:00:00+00:00"
     },
     {
       "id": "be2c4208e1eb1c1a",
@@ -696,6 +751,17 @@
       "published_at": "2026-07-09T11:03:39+00:00"
     },
     {
+      "id": "e19fbb75eb44457e",
+      "title": "GPT-5.6: Inteligência de fronteira que se adapta à sua ambição",
+      "summary": "Mais inteligência de cada token, melhor desempenho por dólar e mais capacidade sob demanda para o seu trabalho mais difícil.",
+      "link": "https://openai.com/index/gpt-5-6",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-09T10:00:00+00:00"
+    },
+    {
       "id": "2015b07b78a1afec",
       "title": "ChatGPT agora é parceiro do seu trabalho mais ambicioso",
       "summary": "ChatGPT Work é um agente que pode realizar ações em seus aplicativos e arquivos, permanecer em um projeto por horas, se necessário, e transformar uma meta em trabalho concluído.",
@@ -711,17 +777,6 @@
       "title": "Recompensa de bug biológico GPT-5.5",
       "summary": "Detalhes sobre o programa OpenAI Bio Bounty",
       "link": "https://openai.com/index/bio-bug-bounty",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-09T10:00:00+00:00"
-    },
-    {
-      "id": "e19fbb75eb44457e",
-      "title": "GPT-5.6: Inteligência de fronteira que se adapta à sua ambição",
-      "summary": "Mais inteligência de cada token, melhor desempenho por dólar e mais capacidade sob demanda para o seu trabalho mais difícil.",
-      "link": "https://openai.com/index/gpt-5-6",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -936,61 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-08T19:56:37+00:00"
-    },
-    {
-      "id": "38130ab286ce4e77",
-      "title": "IA do Instagram poderá usar seu perfil para gerar imagens; veja como bloquear",
-      "summary": "Recurso ainda não lançado no Brasil permite gerar imagens com base em conteúdo de perfis públicos. Configuração padrão autoriza uso. IA do Instagram poderá usar seu perfil para…",
-      "link": "https://tecnoblog.net/noticias/ia-do-instagram-podera-usar-seu-perfil-para-gerar-imagens-veja-como-bloquear/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-03-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-08T19:48:21+00:00"
-    },
-    {
-      "id": "f2a88ed8a71182b8",
-      "title": "SpaceXAI lança Grok 4.5, que Elon descreve como um ‘modelo da classe Opus’",
-      "summary": "A empresa de tecnologia de Elon Musk lançou a versão mais recente do Grok na quarta-feira, prometendo uma alternativa mais barata e eficiente a outros modelos poderosos de IA.",
-      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-08T19:30:16+00:00"
-    },
-    {
-      "id": "87e79a974906b32d",
-      "title": "Esta startup acha que a robótica está prestes a ter seu momento ChatGPT",
-      "summary": "A General Intuition está apostando que milhões de horas de dados de videogame podem treinar os modelos básicos para IA física, tornando mais fácil construir robôs mais inteligentes com o mínimo do mundo real…",
-      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-08T19:19:15+00:00"
-    },
-    {
-      "id": "df76533db7e6348f",
-      "title": "Vazamento revela planos da Amazon para criar a Alexa mais inteligente da história",
-      "summary": "Segundo documentos, o projeto, conhecido pelo codinome Moonraker, também se tornou uma das iniciativas mais caras da reformulação da Alexa+ O post Vazamento revela planos da…",
-      "link": "https://olhardigital.com.br/2026/07/08/reviews/vazamento-revela-planos-da-amazon-para-criar-a-alexa-mais-inteligente-da-historia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/12/alexa-plus-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-08T18:48:18+00:00"
-    },
-    {
-      "id": "0e9606fb9a7384dd",
-      "title": "Google AI Studio adiciona ‘Importar do GitHub’ ao modo de construção, transformando um repositório existente em um aplicativo editável e implantável",
-      "summary": "O Google AI Studio está lançando a importação do GitHub no modo Build. Ele transforma um repositório existente em um formato compatível com tempo de execução. Você pode então iterá-lo, implantá-lo e muito mais…",
-      "link": "https://www.marktechpost.com/2026/07/08/google-ai-studio-adds-import-from-github-to-build-mode/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-08T18:41:57+00:00"
     }
   ]
 }
