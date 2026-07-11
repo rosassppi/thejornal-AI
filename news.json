@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-07-11T13:15:40.308551+00:00",
+  "generated_at": "2026-07-11T19:01:18.772887+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "5f6e531b2fbd4cc8",
+      "title": "Após polêmica, Instagram cancela IA que acessava as fotos dos usuários",
+      "summary": "Função durou pouquíssimos dias. Meta admitiu que “errou o alvo”. Após polêmica, Instagram cancela IA que acessava as fotos dos usuários",
+      "link": "https://tecnoblog.net/noticias/apos-polemica-instagram-desativa-ia-que-acessava-fotos-de-usuarios/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/03/instagram-capa-2-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-11T17:48:51+00:00"
+    },
+    {
+      "id": "5a67335f98e71e89",
+      "title": "O GPT-5.6 Sol Ultra da OpenAI supostamente resolve um problema matemático de 50 anos em menos de uma hora",
+      "summary": "O GPT-5.6 Sol Ultra da OpenAI produziu uma prova da Conjectura da Cobertura Dupla do Ciclo em menos de uma hora, usando 64 subagentes trabalhando em paralelo. A conjectura permaneceu sem solução por…",
+      "link": "https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/a_math_universe.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-11T17:38:35+00:00"
+    },
+    {
+      "id": "f9f5c4082d736a08",
+      "title": "Empresa quer espalhar servidores de IA pelas casas dos usuários",
+      "summary": "Sunrun quer distribuir computadores específicos para rodar inteligência artificial para o cliente, e pode pagar quem aderir ao projeto. Empresa quer espalhar servidores de IA…",
+      "link": "https://tecnoblog.net/noticias/empresa-quer-espalhar-servidores-de-ia-pelas-casas-dos-usuarios/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/img_1629-edited-340x191.webp",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-11T17:27:33+00:00"
+    },
+    {
+      "id": "cf64416523f1910d",
+      "title": "Grupos terroristas estão usando todos os principais chatbots de IA para planejamento de ataques e desenvolvimento de armas",
+      "summary": "Um estudo de Cambridge descobriu que o Boko Haram usa chatbots de IA como ChatGPT, Claude e Gemini para planejar ataques, construir explosivos e manter armas. Operativos do ISIS foram ...",
+      "link": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/llm_bomb.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-11T17:04:28+00:00"
+    },
+    {
+      "id": "98472724ebda07d6",
+      "title": "Casa inteligente de verdade: confira uma seleção de Smart Speakers Alexa em oferta",
+      "summary": "Automatizar a casa nunca foi tão acessível. A Amazon disponibilizou uma seleção de smart speakers com Alexa em promoção, e reunimos três opções para diferentes perfis e ambientes…",
+      "link": "https://olhardigital.com.br/2026/07/11/reviews/casa-inteligente-de-verdade-confira-uma-selecao-de-smart-speakers-alexa-em-oferta/",
+      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-11T17:00:00+00:00"
+    },
+    {
+      "id": "bd4f86e02adeb803",
+      "title": "Como usar o Nano Banana 2 Lite? Confira vantagens da IA",
+      "summary": "O Nano Banana 2 Lite é a versão mais rápida e econômica do Google para a geração de imagens com inteligência artificial dentro do ecossistema Gemini. O modelo permite criar…",
+      "link": "https://canaltech.com.br/apps/como-usar-o-nano-banana-2-lite-confira-vantagens-da-ia/",
+      "image": "https://t.ctcdn.com.br/EjoC2BgBPs0m6x8imu4sGDkEYDk=/700x394/smart/i1138889.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-11T17:00:00+00:00"
+    },
+    {
+      "id": "0b5548f4f21701f2",
+      "title": "OpenAI rebate Apple e nega interesse em segredos de rivais",
+      "summary": "A OpenAI se manifestou após ser processada pela Apple por suposto roubo de segredos comerciais da fabricante do iPhone O post OpenAI rebate Apple e nega interesse em segredos de…",
+      "link": "https://olhardigital.com.br/2026/07/11/pro/openai-rebate-apple-e-nega-interesse-em-segredos-de-rivais/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2021/04/tim-cook-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-11T15:40:38+00:00"
+    },
+    {
+      "id": "015c66f9892c3cd0",
+      "title": "OpenAI aposta nas famílias à medida que ChatGPT se aprofunda nas famílias",
+      "summary": "ChatGPT está contratando um gerente de produto dedicado para construir experiências para famílias, cuidadores e idosos, de acordo com um anúncio de emprego.",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-11T14:13:00+00:00"
+    },
     {
       "id": "ed46f837c63a989c",
       "title": "Especialista em deepfake usa a física para identificar imagens feitas por IA",
@@ -56,6 +144,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-11T08:01:09+00:00"
+    },
+    {
+      "id": "074ecb3dec60d209",
+      "title": "Robbyant do Ant Group revela LingBot-VA 2.0: um modelo causal de vídeo-ação construído nativamente para IA física",
+      "summary": "Robbyant do Ant Group lançou o relatório técnico LingBot-VA 2.0 - um modelo de base de vídeo-ação de IA física construído do zero para incorporação, em vez de ajustado a partir de um…",
+      "link": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-11-at-12.53.47-AM-1-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-11T07:56:11+00:00"
     },
     {
       "id": "dcb9b52126836242",
@@ -892,105 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-07-09T19:05:58+00:00"
-    },
-    {
-      "id": "cb25bcec069ab2f1",
-      "title": "Meta pode lançar óculos com IA que gravam tudo o tempo todo",
-      "summary": "Protótipo usaria captação contínua para ajudar o usuário com interações futuras. Meta pode lançar óculos com IA que gravam tudo o tempo todo",
-      "link": "https://tecnoblog.net/noticias/meta-pode-lancar-oculos-com-ia-que-gravam-tudo-o-tempo-todo/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/m6ua1qq5290.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-09T18:59:11+00:00"
-    },
-    {
-      "id": "bb427a24a1bd5592",
-      "title": "OpenAI pode ter cometido um erro fatal na luta por direitos autorais com organizações de notícias",
-      "summary": "OpenAI pode ser sancionado por ocultar e excluir logs do ChatGPT na luta por direitos autorais do NYT.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2270682238-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-09T18:57:53+00:00"
-    },
-    {
-      "id": "a206aaab06de4869",
-      "title": "Meta libera Muse Spark 1.1 para competir com OpenAI e Anthropic",
-      "summary": "Desenvolvedores já estão aptos a utilizar a IA O post Meta libera Muse Spark 1.1 para competir com OpenAI e Anthropic apareceu primeiro em Olhar Digital .",
-      "link": "https://olhardigital.com.br/2026/07/09/inteligencia-artificial/meta-libera-muse-spark-1-1-para-competir-com-openai-e-anthropic/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/meta-mark-zuckerberg-e1783598391147-1024x577.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-09T18:47:08+00:00"
-    },
-    {
-      "id": "45abde51242c88e9",
-      "title": "Google agora divulgará quais anúncios são feitos com IA",
-      "summary": "Embora o Google proíba anúncios enganosos e enganosos, um anúncio ainda pode aproveitar a IA para criar algum tipo de conteúdo sintético ou alterado digitalmente. Até agora, isso é algo que o Google…",
-      "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-09T18:40:51+00:00"
-    },
-    {
-      "id": "68288a619750ef66",
-      "title": "Hora de economizar: impressoras em promoção na Amazon",
-      "summary": "Se você está pensando em renovar a impressora de casa ou do escritório, o momento é oportuno. Reunimos três opções multifuncionais em oferta na Amazon, com modelos de marcas…",
-      "link": "https://olhardigital.com.br/2026/07/09/reviews/hora-de-economizar-impressoras-em-promocao-na-amazon-2/",
-      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-09T18:40:00+00:00"
-    },
-    {
-      "id": "637a824e82dae6f6",
-      "title": "GPT-5.6 Sol quase iguala Fable 5 em benchmarks agregados por um terço do custo",
-      "summary": "O GPT-5.6 Sol da OpenAI marca 59 pontos no Índice de Inteligência de Análise Artificial, apenas um ponto atrás de Claude Fable 5. Custando US$ 1,04 por tarefa, custa um terço do que o Anthropic…",
-      "link": "https://the-decoder.com/gpt-5-6-sol-nearly-matches-fable-5-on-aggregated-benchmarks-at-one-third-the-cost/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_sol.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-09T18:37:51+00:00"
-    },
-    {
-      "id": "1c41e753863c0f0c",
-      "title": "Gradium, startup de voz com sede em Paris, levanta US$ 100 milhões, apoiado pela Nvidia",
-      "summary": "A empresa está usando o dinheiro para abrir um escritório na Bay Area e competir por talentos lá, “fortalecendo sua posição no coração do principal ecossistema de IA do mundo”.",
-      "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-09T18:34:35+00:00"
-    },
-    {
-      "id": "437c5d4ba0b1e702",
-      "title": "Como o governo decidiu que o modelo de fronteira da OpenAI era seguro para lançamento?",
-      "summary": "“Exatamente como foi esse diálogo entre o governo e a Antthropic e a OpenAI não está claro.”",
-      "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-09T18:22:39+00:00"
-    },
-    {
-      "id": "2961160ce19f34f4",
-      "title": "Meta lança Muse Spark 1.1 para competir em programação com IA",
-      "summary": "Novidade atua como agente autônomo e navega na web sem supervisão do usuário. Meta lança Muse Spark 1.1 para competir em programação com IA",
-      "link": "https://tecnoblog.net/noticias/meta-lanca-muse-spark-1-1-sua-ia-para-programacao/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/11/meta-capa-2-nov-2022-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-09T18:06:29+00:00"
     }
   ]
 }
