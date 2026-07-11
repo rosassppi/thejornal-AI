@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-11T02:31:28.674218+00:00",
+  "generated_at": "2026-07-11T07:53:15.948284+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "dcb9b52126836242",
+      "title": "A Apple processa a OpenAI por supostamente realizar uma “campanha coordenada” para roubar segredos comerciais por meio de funcionários caçados",
+      "summary": "A Apple está processando a OpenAI por caça furtiva sistemática de funcionários e suposto roubo de segredos comerciais vinculados a produtos não lançados. Segundo a denúncia, mais de 400 ex-Apple…",
+      "link": "https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/apple_logo_neon_green.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-11T06:56:20+00:00"
+    },
     {
       "id": "21ae8085dc290bcb",
       "title": "Instagram: Meta remove recurso de IA após críticas",
@@ -980,17 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-07-09T17:17:37+00:00"
-    },
-    {
-      "id": "3ea4e94c707ece2d",
-      "title": "A Nvidia é vítima do mercado de computação que criou",
-      "summary": "Tendo provado o quão valiosa a computação pode ser, a empresa encontra-se no centro de um mercado em que todos desejam estar – enquanto tecnologias mais simples e empresas menos interessantes…",
-      "link": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-09T17:06:11+00:00"
     }
   ]
 }
