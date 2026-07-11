@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-07-10T19:25:30.221867+00:00",
+  "generated_at": "2026-07-11T02:31:28.674218+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "21ae8085dc290bcb",
+      "title": "Instagram: Meta remove recurso de IA após críticas",
+      "summary": "Recurso fazia parte do lançamento do Muse Image, novo gerador de imagens por IA da empresa, anunciado na última terça-feira (7) O post Instagram: Meta remove recurso de IA após…",
+      "link": "https://olhardigital.com.br/2026/07/10/internet-e-redes-sociais/instagram-meta-remove-recurso-de-ia-apos-criticas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/meta-e1777458619772-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-11T01:48:56+00:00"
+    },
+    {
+      "id": "5fdf7a2e04f494e8",
+      "title": "Meta remove recurso polêmico de IA no Instagram após reação negativa",
+      "summary": "“Nossa intenção era fornecer uma ferramenta criativa útil e dar às pessoas controle sobre se seu conteúdo público poderia ser referenciado dessa forma”, disse a empresa em uma postagem no blog…",
+      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-10T23:55:07+00:00"
+    },
+    {
+      "id": "6d85e2e3be1c0774",
+      "title": "Meta desativa o recurso do Instagram que permite aos usuários fazer deepfakes de IA em contas públicas",
+      "summary": "Após uma reação significativa, a Meta está desativando o recurso anunciado esta semana que permite aos usuários gerar imagens de IA com base no conteúdo de contas públicas do Instagram apenas por…",
+      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-10T23:49:50+00:00"
+    },
+    {
+      "id": "7231fadcded6e901",
+      "title": "Apple processa OpenAI por supostamente roubar segredos de hardware",
+      "summary": "A Apple processou a OpenAI, alegando que os engenheiros roubaram segredos da Apple para avançar nos planos de hardware da startup de IA. Em sua denúncia, a Apple afirma ter descoberto “um padrão de roubo de…",
+      "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-10T21:36:51+00:00"
+    },
+    {
+      "id": "f42ceac46d74e0d8",
+      "title": "Apple processa OpenAI por suposto roubo de segredos comerciais",
+      "summary": "Dona do iPhone também processou ex-funcionários que hoje atuam na empresa de Sam Altman O post Apple processa OpenAI por suposto roubo de segredos comerciais apareceu primeiro em…",
+      "link": "https://olhardigital.com.br/2026/07/10/pro/apple-processa-openai-por-suposto-roubo-de-segredos-comerciais/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/chatgpt-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T21:18:29+00:00"
+    },
+    {
+      "id": "9475fac4ce71b697",
+      "title": "O GPT-5.6 Sol da OpenAI pós-treinou autonomamente o modelo Luna menor com um \"prompt bastante subespecificado\"",
+      "summary": "De acordo com a OpenAI, o GPT-5.6 Sol ajustou de forma independente o modelo Luna menor, acionado por um único “prompt bastante subespecificado”. No benchmark RSI interno da OpenAI para…",
+      "link": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/gpt_56_sol.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-10T21:12:47+00:00"
+    },
+    {
+      "id": "3daaf068f42c7ccb",
+      "title": "Apple processa OpenAI por suposto roubo de segredo comercial",
+      "summary": "A Apple alega que a má conduta foi dirigida pela liderança sênior da OpenAI, incluindo um ex-funcionário de longa data.",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-10T21:00:29+00:00"
+    },
+    {
+      "id": "22c59cee4cbe10b6",
+      "title": "Samsung Health vai usar seus dados para treinar IA",
+      "summary": "Usuários são notificados de autorização, mas desativar a opção impede a sincronização do app com sua conta. Samsung Health vai usar seus dados para treinar IA",
+      "link": "https://tecnoblog.net/noticias/samsung-health-vai-usar-seus-dados-para-treinamento-de-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/05/Galaxy-Watch-Esportes-01-destaque-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T20:51:47+00:00"
+    },
+    {
+      "id": "f95b7b87cc4aa2b9",
+      "title": "Anthropic revela o que acontece dentro da IA antes de ela responder",
+      "summary": "Pesquisadores da empresa criaram ferramenta chamada lente Jacobiana e a utilizaram para revelar área oculta, que batizaram de J-space, dentro do Claude Opus 4.6 O post Anthropic…",
+      "link": "https://olhardigital.com.br/2026/07/10/inteligencia-artificial/anthropic-revela-o-que-acontece-dentro-da-ia-antes-de-ela-responder/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/anthropic-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T20:27:09+00:00"
+    },
+    {
+      "id": "7cfca48cff57cf46",
+      "title": "Kyutai lança MuScriptor: um transformador somente decodificador de peso aberto para transcrição de música de vários instrumentos para MIDI",
+      "summary": "MuScriptor é um Transformer de peso aberto apenas para decodificador da Kyutai e Mirelo. Treinado em 170 mil gravações reais mais 1,45 milhões de MIDIs sintéticos, ele transcreve multi-instrumentos completos…",
+      "link": "https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-10T20:21:08+00:00"
+    },
+    {
+      "id": "3fac2f280485081a",
+      "title": "Detector de IA da Meta falha ao identificar imagens do próprio modelo de IA",
+      "summary": "Uma ferramenta de detecção de imagens geradas por inteligência artificial (IA) da Meta falhou em identificar 55% das próprias imagens produzidas pelo Muse Image depois que elas…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/detector-de-ia-da-meta-falha-ao-identificar-imagens-do-proprio-modelo-de-ia/",
+      "image": "https://t.ctcdn.com.br/Tl6F51vG5by3Aybp8rU__kSdw-8=/700x394/smart/i1068353.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-10T20:00:00+00:00"
+    },
     {
       "id": "1d971e053c145464",
       "title": "Como construir um agente autônomo de ciência de dados compatível com T4 com DeepAnalyze-8B, execução de código em sandbox e análise iterativa",
@@ -80,6 +201,17 @@
       "published_at": "2026-07-10T18:10:00+00:00"
     },
     {
+      "id": "cc42d7e3d1c835ea",
+      "title": "O funcionário da OpenAI mapeia qual dos cinco níveis de raciocínio do GPT-5.6 Sol se adapta a qual complexidade de tarefa",
+      "summary": "GPT-5.6 Sol vem com cinco níveis de raciocínio de “Light” a “xhigh”, além dos modos “Max” e “Ultra” que implantam vários subagentes em paralelo. Vaibhav Srivastav da OpenAI…",
+      "link": "https://the-decoder.com/openai-staffer-maps-out-which-of-gpt-5-6-sols-five-reasoning-levels-fits-which-task-complexity/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_vis-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-10T17:52:06+00:00"
+    },
+    {
       "id": "d0e38d01b634bed6",
       "title": "SpaceX pode ganhar mais com IA do que com foguetes – e os números provam isso",
       "summary": "Contratos com Anthropic, Google e Reflection AI devem gerar mais de US$ 28 bilhões ao ano em receita de computação terrestre O post SpaceX pode ganhar mais com IA do que com…",
@@ -122,6 +254,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-10T17:00:13+00:00"
+    },
+    {
+      "id": "2d87cb6e2af0a001",
+      "title": "Tencent decide comprar participação majoritária na Manus depois que Pequim forçou Meta a cancelar seu acordo de US$ 2 bilhões",
+      "summary": "A Tencent está em negociações para comprar uma participação majoritária na startup de agentes de IA Manus pela mesma avaliação de US$ 2 bilhões, de acordo com o Financial Times, depois que Pequim bloqueou a aquisição da Meta…",
+      "link": "https://the-decoder.com/tencent-moves-to-buy-majority-stake-in-manus-after-beijing-forced-meta-to-unwind-its-2-billion-deal/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/manus_tencent_meta.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-10T16:48:05+00:00"
     },
     {
       "id": "660259271d2dcaa2",
@@ -848,149 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-07-09T17:06:11+00:00"
-    },
-    {
-      "id": "430f86c0084d2fbe",
-      "title": "O patch da Microsoft às terças-feiras está prestes a ficar maior",
-      "summary": "As atualizações do Windows 11 poderão em breve incluir correções para mais problemas de segurança de uma só vez. A Microsoft disse em um blog na quinta-feira que agora está usando IA para “identificar possíveis problemas…",
-      "link": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24038601/acastro_STK109_microsoft_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-09T17:00:00+00:00"
-    },
-    {
-      "id": "9cf9c4c94b41cfdc",
-      "title": "OpenAI lança GPT-5.6 após luz verde do governo – e anuncia ‘ChatGPT Work’",
-      "summary": "Cerca de duas semanas depois que o GPT-5.6 da OpenAI foi envolvido em um drama regulatório - lançado apenas para organizações aprovadas pelo governo durante um período de \"visualização limitada\" - a empresa…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-09T17:00:00+00:00"
-    },
-    {
-      "id": "9bd8a6083b995f36",
-      "title": "Os preços da API Muse Spark 1.1 da Meta apertam OpenAI e Anthropic à medida que a guerra de preços de IA esquenta",
-      "summary": "A Meta está entrando no negócio de API de IA com o Muse Spark 1.1 a preços que superam até mesmo o barato Grok 4.5, lançado ontem. A US$ 4,25 por milhão de tokens de saída, Meta…",
-      "link": "https://the-decoder.com/metas-muse-spark-1-1-api-pricing-squeezes-openai-and-anthropic-as-the-ai-price-war-heats-up/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/meta_logo-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-09T16:58:44+00:00"
-    },
-    {
-      "id": "cbfa96eef7284b2c",
-      "title": "Gastos com IA confundem e assustam empresários",
-      "summary": "Consultoria KPMG fez pesquisa com 2,1 mil executivos em 20 países. Gastos com IA confundem e assustam empresários",
-      "link": "https://tecnoblog.net/noticias/gastos-com-ia-confundem-e-assustam-empresarios/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/ia-4-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-09T16:12:27+00:00"
-    },
-    {
-      "id": "30e870106f056953",
-      "title": "O novo recurso Claude da Anthropic está silenciosamente vendendo IA para você",
-      "summary": "O novo painel Reflect de Claude não apenas visualiza como você usa a IA. Também reforça sutilmente o quanto o seu trabalho diário agora depende do chatbot da Anthropic.",
-      "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-09T14:53:09+00:00"
-    },
-    {
-      "id": "255a1ec5e3e85467",
-      "title": "Anthropic, OpenAI e SpaceX são maiores do que os últimos 25 anos de saídas de tecnologia",
-      "summary": "Três grandes IPOs de IA deverão gerar mais valor do que todas as saídas apoiadas por VC nos EUA desde 2000.",
-      "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-09T14:51:00+00:00"
-    },
-    {
-      "id": "e0fdf65b31af1ba6",
-      "title": "China acusa Claude Code de coletar dados sem permissão e emite alerta; entenda",
-      "summary": "A China emitiu um alerta de segurança contra o Claude Code , ferramenta de programação com inteligência artificial da Anthropic. Segundo o Banco Nacional de Dados de…",
-      "link": "https://canaltech.com.br/seguranca/china-acusa-claude-code-de-coletar-dados-sem-permissao-e-emite-alerta-entenda/",
-      "image": "https://t.ctcdn.com.br/V5M0aA16mgRP6QN3EC8of5UbbyM=/700x394/smart/i1135099.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-09T14:11:47+00:00"
-    },
-    {
-      "id": "b952de633e504b59",
-      "title": "Claude ganha painel para te ajudar a usar menos… o Claude",
-      "summary": "Recurso Reflect mostra padrões de uso, sugere pausas e faz perguntas O post Claude ganha painel para te ajudar a usar menos… o Claude apareceu primeiro em Olhar Digital .",
-      "link": "https://olhardigital.com.br/2026/07/09/inteligencia-artificial/claude-ganha-painel-para-te-ajudar-a-usar-menos-o-claude/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/anthropic-claude-reflect-1-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-09T14:03:35+00:00"
-    },
-    {
-      "id": "ab49074175541c7f",
-      "title": "Meta diz que seu novo modelo de IA está pronto para competir em codificação",
-      "summary": "Depois de reentrar na corrida da IA ​​com seu primeiro modelo Muse Spark interno em abril, a Meta agora está abrindo as portas para desenvolvedores com um novo modelo que pode ser conectado à codificação de IA…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-09T14:00:00+00:00"
-    },
-    {
-      "id": "016a0f72b52b9096",
-      "title": "Diga olá para Claude Wrapped",
-      "summary": "A popularidade do Spotify Wrapped deu início a uma ampla gama de recursos em análise no ano, em aplicativos do YouTube ao Uber - e agora, a tendência de retrospectiva chegou à IA. Antrópico em…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Reflect-graph-blog.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-09T13:30:00+00:00"
-    },
-    {
-      "id": "7f7a4b9756dd95a7",
-      "title": "OpenAI descobre que cerca de 30% dos testes populares de codificação de IA estão quebrados",
-      "summary": "A OpenAI revisou o SWE-Bench Pro, um teste amplamente utilizado para medir as habilidades de programação de modelos de IA, e descobriu que cerca de 30% de suas tarefas estão quebradas. A empresa está puxando seu…",
-      "link": "https://the-decoder.com/openai-finds-roughly-30-percent-of-popular-ai-coding-test-is-broken/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_vis-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-09T13:23:57+00:00"
-    },
-    {
-      "id": "fb81b5bbdacf72ec",
-      "title": "Hora de colocar um smartwatch no pulso: veja ofertas selecionadas na Amazon",
-      "summary": "Se você está pensando em monitorar sua saúde, receber notificações no pulso ou simplesmente renovar o visual com um relógio inteligente, este é o momento certo. Reunimos três…",
-      "link": "https://olhardigital.com.br/2026/07/09/reviews/hora-de-colocar-um-smartwatch-no-pulso-veja-ofertas-selecionadas-na-amazon-3/",
-      "image": "https://m.media-amazon.com/images/I/41NXd7sA45L._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-09T13:20:00+00:00"
-    },
-    {
-      "id": "ecdd5635202fac48",
-      "title": "Character.AI quer um pedaço da torta do microdrama",
-      "summary": "O plano da Character.AI de se tornar mais do que apenas uma plataforma de chatbot com tecnologia LLM vai além de livros interativos, quadrinhos e dramas de áudio. Hoje, a empresa anunciou a estreia de…",
-      "link": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/c.ai-Series-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-09T13:11:53+00:00"
     }
   ]
 }
