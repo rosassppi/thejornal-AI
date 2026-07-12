@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-12T02:37:25.776156+00:00",
+  "generated_at": "2026-07-12T08:14:45.951090+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "3e5a14a2aa3a18f0",
+      "title": "Agentes de IA vencem no Slay the Spire 2 depois que os pesquisadores substituem os crescentes registros de bate-papo por memória estruturada",
+      "summary": "O projeto AgenticSTS substitui o crescente registro de bate-papo dos agentes de IA por cinco camadas de memória separadas. Testado no jogo de cartas Slay the Spire 2, o prompt fica em torno de 5.000…",
+      "link": "https://the-decoder.com/ai-agents-win-at-slay-the-spire-2-after-researchers-replace-growing-chat-logs-with-structured-memory/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/agentsts2-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-12T07:45:35+00:00"
+    },
     {
       "id": "c662e780a070384a",
       "title": "O laboratório de máquinas pensantes de Mira Murati apresenta argumentos técnicos para IA centrada no ser humano, baseada em pesos de modelo personalizáveis",
@@ -980,17 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-09T20:12:03+00:00"
-    },
-    {
-      "id": "e6b8352aa8d6a36a",
-      "title": "O Google agora dirá se um anúncio foi feito com IA",
-      "summary": "Você pode ver se os anúncios na Pesquisa Google, no Google Discover e no YouTube foram criados ou editados usando IA em uma nova seção em \"Minha central de anúncios\" do Google, conforme relatado anteriormente pelo TechCrunch…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-09T20:11:38+00:00"
     }
   ]
 }
