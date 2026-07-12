@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-07-11T19:01:18.772887+00:00",
+  "generated_at": "2026-07-12T02:37:25.776156+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "c662e780a070384a",
+      "title": "O laboratório de máquinas pensantes de Mira Murati apresenta argumentos técnicos para IA centrada no ser humano, baseada em pesos de modelo personalizáveis",
+      "summary": "O Thinking Machines Lab publicou \"O futuro que vale a pena construir é humano\". O ensaio enquadra a participação humana, a propriedade do modelo e o alinhamento descentralizado como desafios técnicos…",
+      "link": "https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-12T00:46:13+00:00"
+    },
+    {
+      "id": "f94530b7ebd8f1f8",
+      "title": "Um guia de codificação para programação de GPU baseada em blocos da NVIDIA: dos kernels cuTile e Triton à atenção do Flash",
+      "summary": "Neste tutorial, exploramos a programação de GPU baseada em blocos NVIDIA com TileGym, construindo um fluxo de trabalho Colab que é executado em diferentes hardwares. Nós investigamos o ambiente CUDA, tentamos o…",
+      "link": "https://www.marktechpost.com/2026/07/11/a-coding-guide-to-nvidias-tile-based-gpu-programming-from-cutile-and-triton-kernels-to-flash-attention/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-12T00:01:06+00:00"
+    },
+    {
+      "id": "af97b14274a3c463",
+      "title": "Detector de IA da Meta falha ao identificar suas próprias imagens após recorte, diz agência",
+      "summary": "Testes com 40 imagens geradas pelo Muse Image mostraram que a ferramenta errou em 55% dos casos após o recorte O post Detector de IA da Meta falha ao identificar suas próprias…",
+      "link": "https://olhardigital.com.br/2026/07/11/inteligencia-artificial/detector-de-ia-da-meta-falha-ao-identificar-suas-proprias-imagens-apos-recorte-diz-agencia/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-11T21:03:42+00:00"
+    },
+    {
+      "id": "c445e87ed0f093d0",
+      "title": "Rival do Pinterest com IA: conheça as principais funções do Mixboard, do Google",
+      "summary": "O Google Mixboard é um experimento do Google Labs que usa inteligência artificial para criar quadros de inspiração e organizar ideias visualmente. A ferramenta lembra o Pinterest…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/rival-do-pinterest-com-ia-conheca-o-mixboard-do-google/",
+      "image": "https://t.ctcdn.com.br/TOuLgfM1u13wMh1QlbX0VR3IdAM=/700x394/smart/i1142109.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-11T19:30:00+00:00"
+    },
     {
       "id": "5f6e531b2fbd4cc8",
       "title": "Após polêmica, Instagram cancela IA que acessava as fotos dos usuários",
@@ -47,23 +91,23 @@
       "published_at": "2026-07-11T17:04:28+00:00"
     },
     {
-      "id": "98472724ebda07d6",
-      "title": "Casa inteligente de verdade: confira uma seleção de Smart Speakers Alexa em oferta",
-      "summary": "Automatizar a casa nunca foi tão acessível. A Amazon disponibilizou uma seleção de smart speakers com Alexa em promoção, e reunimos três opções para diferentes perfis e ambientes…",
-      "link": "https://olhardigital.com.br/2026/07/11/reviews/casa-inteligente-de-verdade-confira-uma-selecao-de-smart-speakers-alexa-em-oferta/",
-      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-11T17:00:00+00:00"
-    },
-    {
       "id": "bd4f86e02adeb803",
       "title": "Como usar o Nano Banana 2 Lite? Confira vantagens da IA",
       "summary": "O Nano Banana 2 Lite é a versão mais rápida e econômica do Google para a geração de imagens com inteligência artificial dentro do ecossistema Gemini. O modelo permite criar…",
       "link": "https://canaltech.com.br/apps/como-usar-o-nano-banana-2-lite-confira-vantagens-da-ia/",
       "image": "https://t.ctcdn.com.br/EjoC2BgBPs0m6x8imu4sGDkEYDk=/700x394/smart/i1138889.png",
       "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-11T17:00:00+00:00"
+    },
+    {
+      "id": "98472724ebda07d6",
+      "title": "Casa inteligente de verdade: confira uma seleção de Smart Speakers Alexa em oferta",
+      "summary": "Automatizar a casa nunca foi tão acessível. A Amazon disponibilizou uma seleção de smart speakers com Alexa em promoção, e reunimos três opções para diferentes perfis e ambientes…",
+      "link": "https://olhardigital.com.br/2026/07/11/reviews/casa-inteligente-de-verdade-confira-uma-selecao-de-smart-speakers-alexa-em-oferta/",
+      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
+      "source": "Olhar Digital",
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-11T17:00:00+00:00"
@@ -947,50 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-09T20:11:38+00:00"
-    },
-    {
-      "id": "4362f7dc854a2735",
-      "title": "Microsoft vai usar IA para sair na frente dos hackers no Windows",
-      "summary": "Microsoft usará recursos de inteligência artificial para identificar e corrigir falhas no Windows mais rapidamente, se antecipando a eventuais explorações de vulnerabilidades…",
-      "link": "https://tecnoblog.net/noticias/microsoft-vai-usar-ia-para-sair-na-frente-dos-hackers-no-windows/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-1-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-09T19:57:32+00:00"
-    },
-    {
-      "id": "9683c84e437bc211",
-      "title": "Meta entra na batalha lotada de codificação de IA com Muse Spark 1.1",
-      "summary": "O novo Muse Spark 1.1 da Meta. irá enfrentar produtos similares oferecidos pela Anthropic e OpenAI.",
-      "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-09T19:40:45+00:00"
-    },
-    {
-      "id": "9b979674bfbbcbe8",
-      "title": "Conheça Nemotron Labs 3 Puzzle 75B A9B: um MoE LLM híbrido compactado que oferece taxa de transferência de servidor 2,03x",
-      "summary": "A NVIDIA lançou o Nemotron-Labs-3-Puzzle-75B-A9B, uma variante compactada do Nemotron-3-Super. O Iterative Puzzle alterna compressão estrutural com reconhecimento de hardware com…",
-      "link": "https://www.marktechpost.com/2026/07/09/meet-nemotron-labs-3-puzzle-75b-a9b/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-1.25.52-AM-1-150x150.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-09T19:31:25+00:00"
-    },
-    {
-      "id": "fb09c8d68fa6d6c1",
-      "title": "New York Times diz que OpenAI escondeu evidências no julgamento de direitos autorais do ChatGPT",
-      "summary": "Os editores de notícias dizem que a OpenAI escondeu ferramentas e conjuntos de dados que poderiam identificar jornalismo protegido por direitos autorais nos resultados do ChatGPT, intensificando seu processo com uma nova moção de sanções.",
-      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-09T19:05:58+00:00"
     }
   ]
 }
