@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-07-12T13:16:20.662951+00:00",
+  "generated_at": "2026-07-12T19:03:44.534283+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "1294b5354d5db600",
+      "title": "16 comandos para usar o Gemini no Google Maps",
+      "summary": "O Google Maps está deixando de ser apenas um aplicativo de rotas para se tornar um assistente de viagem com ajuda do Gemini. Com o recurso “Perguntar ao Maps” , os usuários podem…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/16-comandos-para-usar-o-gemini-no-google-maps/",
+      "image": "https://t.ctcdn.com.br/jIaUTM2GHqOx0JMmNHJ3YeQ2qfM=/700x394/smart/i1141273.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-12T18:30:00+00:00"
+    },
+    {
+      "id": "e1be9c45e270cf3a",
+      "title": "Como impedir que o Gemini use seus dados para treinar IA",
+      "summary": "O Gemini, assim como outras inteligências artificiais generativas, usa dados fornecidos pelos usuários para aprimorar seus modelos de IA . As conversas feitas no chatbot, arquivos…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-impedir-que-o-gemini-use-seus-dados-para-treinar-ia/",
+      "image": "https://t.ctcdn.com.br/c92TVkOI7wQC41OlpJQENH1HJ_k=/700x394/smart/i1127127.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-12T17:30:00+00:00"
+    },
+    {
+      "id": "e92367a17b39cd32",
+      "title": "Echo Dot em várias cores: smart speakers com Alexa em oferta na Amazon",
+      "summary": "Se você quer deixar a casa mais inteligente sem gastar muito, a Amazon tem ótimas opções de smart speakers com Alexa disponíveis agora. Reunimos três versões do Echo Dot — preto…",
+      "link": "https://olhardigital.com.br/2026/07/12/reviews/echo-dot-em-varias-cores-smart-speakers-com-alexa-em-oferta-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-12T17:00:00+00:00"
+    },
+    {
+      "id": "261dbfb1023c9236",
+      "title": "O LinkedIn é o rei indiscutível do desperdício de IA de formato longo, de acordo com um estudo que abrange cinco plataformas",
+      "summary": "Uma em cada quatro postagens mais longas nas redes sociais é inteiramente gerada por IA, de acordo com uma análise da Pangram. O LinkedIn lidera com 41% das postagens longas sinalizadas como escritas por IA. O…",
+      "link": "https://the-decoder.com/linkedin-is-the-undisputed-king-of-long-form-ai-slop-according-to-a-study-spanning-five-platforms/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/pangram_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-12T16:41:47+00:00"
+    },
+    {
+      "id": "8b32daa86337d052",
+      "title": "O fracassado programa de carros autônomos da Apple deixou um legado de poderosos chips de IA",
+      "summary": "O programa de carros autônomos da Apple nunca saiu do papel, mas pode ter sido o que tornou os chips da empresa os poderosos executores de IA que são. No início do desenvolvimento…",
+      "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-12T16:27:06+00:00"
+    },
+    {
+      "id": "53d7e1ab3423cf65",
+      "title": "Mobilidade TechCrunch: um ultimato robotaxi",
+      "summary": "Bem-vindo de volta ao TechCrunch Mobility, seu centro para o futuro dos transportes e agora, mais do que nunca, como a IA está desempenhando um papel importante.",
+      "link": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-12T16:07:00+00:00"
+    },
+    {
+      "id": "57ce054f9c489413",
+      "title": "Claude Code agora possui um navegador integrado que permite à IA ler, clicar e digitar em sites externos",
+      "summary": "Claude Code agora possui um navegador integrado que permite que a IA abra, leia e interaja com páginas da web diretamente dentro do ambiente de desenvolvimento. Ações de gravação em sites externos são…",
+      "link": "https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_medicine.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-12T15:02:06+00:00"
+    },
     {
       "id": "656256e20f4f281d",
       "title": "Motorola em promoção: confira uma seleção de smartphones com 5G, câmera com IA e ótimo custo-benefício",
@@ -69,23 +146,23 @@
       "published_at": "2026-07-12T11:20:00+00:00"
     },
     {
-      "id": "d34a6c5319b45aca",
-      "title": "Hiperautomação: a nova fronteira da competitividade empresarial",
-      "summary": "A evolução da inteligência artificial, da análise de dados e da integração entre sistemas ampliou o alcance da automação O post Hiperautomação: a nova fronteira da competitividade…",
-      "link": "https://olhardigital.com.br/2026/07/12/colunistas/hiperautomacao-a-nova-fronteira-da-competitividade-empresarial/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-12T10:00:00+00:00"
-    },
-    {
       "id": "f85e86eccb8c32af",
       "title": "A sinergia entre conectividade e segurança inteligente no novo varejo de rua",
       "summary": "*Por Ismael Mota e Ricieire Piovezan Nos últimos anos, o varejo físico precisou rever suas prioridades e redesenhar sua operação diante de um ambiente econômico instável, que teve…",
       "link": "https://canaltech.com.br/colunas/a-sinergia-entre-conectividade-e-seguranca-inteligente-no-novo-varejo-de-rua/",
       "image": "https://t.ctcdn.com.br/5nIj5fqwSVchlTbVXJl-UAZRa_0=/700x394/smart/i1120075.jpeg",
       "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-12T10:00:00+00:00"
+    },
+    {
+      "id": "d34a6c5319b45aca",
+      "title": "Hiperautomação: a nova fronteira da competitividade empresarial",
+      "summary": "A evolução da inteligência artificial, da análise de dados e da integração entre sistemas ampliou o alcance da automação O post Hiperautomação: a nova fronteira da competitividade…",
+      "link": "https://olhardigital.com.br/2026/07/12/colunistas/hiperautomacao-a-nova-fronteira-da-competitividade-empresarial/",
+      "image": null,
+      "source": "Olhar Digital",
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-12T10:00:00+00:00"
@@ -914,83 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-10T00:04:13+00:00"
-    },
-    {
-      "id": "9dd06ff2acc7e68a",
-      "title": "Criação de perfil no PyTorch (Parte 3): Atenção é tudo o que você cria",
-      "summary": "",
-      "link": "https://huggingface.co/blog/torch-attention-profile",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-10T00:00:00+00:00"
-    },
-    {
-      "id": "be2c4208e1eb1c1a",
-      "title": "Musk elogia Anthropic e promete não cortar acesso a servidores da SpaceX",
-      "summary": "Elon Musk publicou elogios à Anthropic no X na quinta-feira (9) e afirmou que jamais cortaria o acesso da empresa à infraestrutura da SpaceX. A declaração O post Musk elogia…",
-      "link": "https://olhardigital.com.br/2026/07/09/pro/musk-elogia-anthropic-e-promete-nao-cortar-acesso-a-servidores-da-spacex/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/anthropic-2-1024x681.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-09T23:56:13+00:00"
-    },
-    {
-      "id": "cf980a9dfc71c2ae",
-      "title": "Fidji Simo desce do não. 2 papel",
-      "summary": "O segundo executivo da OpenAI, Fidji Simo, está deixando seu cargo de tempo integral depois que sua licença médica foi mais longa do que o esperado - um vácuo de liderança que surge em um momento complicado…",
-      "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-09T23:38:00+00:00"
-    },
-    {
-      "id": "8a65c5f7682e80e3",
-      "title": "Fidji Simo deixa de liderar o trabalho AGI da OpenAI devido a doença",
-      "summary": "Fidji Simo da OpenAI está deixando seu cargo de tempo integral como chefe de AGI da empresa e está fazendo a transição para ser uma \"consultora de meio período\", disse ela no X. A notícia segue o original de Simo…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1239232101.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-09T23:24:04+00:00"
-    },
-    {
-      "id": "fd42b7dde38ec2bb",
-      "title": "O que é Gemini Spark? Conheça o agente de IA pessoal do Google",
-      "summary": "A nova fase da inteligência artificial é marcada pela chegada dos chamados agentes de IA , sistemas que conseguem executar tarefas de forma autônoma, indo além das respostas…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-e-gemini-spark-conheca-o-agente-de-ia-pessoal-do-google/",
-      "image": "https://t.ctcdn.com.br/VEam7Z1kG8djfL4VM4rEDavn04M=/700x394/smart/i1140763.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-09T23:00:00+00:00"
-    },
-    {
-      "id": "2ea0191ba7e6650b",
-      "title": "Meta Superintelligence Labs lança Muse Spark 1.1: um modelo de raciocínio multimodal para tarefas de agente na API Meta Model",
-      "summary": "O Meta Superintelligence Labs lançou o Muse Spark 1.1 em 9 de julho de 2026, junto com uma prévia pública da API Meta Model. É um modelo de raciocínio multimodal construído para tarefas de agente…",
-      "link": "https://www.marktechpost.com/2026/07/09/meta-superintelligence-labs-releases-muse-spark-1-1/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-09T22:26:16+00:00"
-    },
-    {
-      "id": "40c4cf9177d51c76",
-      "title": "OpenAI lança sua nova família de modelos com GPT-5.6",
-      "summary": "A mais recente família de modelos da OpenAI promete melhorias em diversas áreas, incluindo segurança cibernética.",
-      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-09T22:24:24+00:00"
     }
   ]
 }
