@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-07-12T19:03:44.534283+00:00",
+  "generated_at": "2026-07-13T02:39:15.602538+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "e4ff10ba751d0ebd",
+      "title": "Conheça o NeuroVFM: um novo modelo de base de neuroimagem treinado com Vol-JEPA em volumes clínicos de ressonância magnética e tomografia computadorizada não curados",
+      "summary": "NeuroVFM é um modelo básico de neuroimagem generalista da Universidade de Michigan, treinado em 5,24 milhões de volumes clínicos de ressonância magnética e tomografia computadorizada. Sua base Vol-JEPA estende I-JEPA e V-JEPA…",
+      "link": "https://www.marktechpost.com/2026/07/12/meet-neurovfm-a-new-neuroimaging-foundation-model-trained-with-vol-jepa-on-uncurated-clinical-mri-and-ct-volumes/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-13T00:35:36+00:00"
+    },
+    {
+      "id": "bda1bc7d237db1bd",
+      "title": "8 prompts para conversar com voz no ChatGPT",
+      "summary": "O ChatGPT ganhou uma nova geração de recursos de voz com o GPT-Live , que deixa as conversas com a inteligência artificial mais naturais e próximas de um diálogo real. A…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/8-prompts-para-conversar-com-voz-no-chatgpt/",
+      "image": "https://t.ctcdn.com.br/dZNITw6rBxnUm_Quv0YIawc78O8=/700x394/smart/i1142147.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-12T23:00:00+00:00"
+    },
+    {
+      "id": "5dc0bd782606a8e2",
+      "title": "Musk e Altman trocam farpas no X após Apple processar OpenAI",
+      "summary": "Episódio marca mais um capítulo na rivalidade entre os executivos O post Musk e Altman trocam farpas no X após Apple processar OpenAI apareceu primeiro em Olhar Digital .",
+      "link": "https://olhardigital.com.br/2026/07/12/internet-e-redes-sociais/musk-e-altman-trocam-farpas-no-x-apos-apple-processar-openai/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/openai_-1-1024x637.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-12T21:47:34+00:00"
+    },
+    {
+      "id": "a2182472201f3678",
+      "title": "Homem mais rico da Alemanha quer criar rival europeia de Google e Amazon",
+      "summary": "Estratégia busca reduzir dependência digital da Europa em relação aos EUA e à China por meio de investimentos em computação em nuvem, segurança digital, IA e grandes data centers…",
+      "link": "https://olhardigital.com.br/2026/07/12/pro/homem-mais-rico-da-alemanha-quer-criar-rival-europeia-de-google-e-amazon/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/supermercado_schwarz-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-12T20:43:54+00:00"
+    },
+    {
+      "id": "1dbb10ceec9d2e3e",
+      "title": "Lorde diz que os óculos Ray-Ban Meta AI ‘não são sexy’",
+      "summary": "Lorde estava se apresentando no Real Cool Festival em Madrid na quinta-feira e reservou algum tempo durante sua apresentação para se manifestar contra os óculos de IA. Embora ela não tenha especificado nenhuma marca em…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279420244.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-12T20:10:19+00:00"
+    },
+    {
+      "id": "1e24a6854b4104e4",
+      "title": "Guia para engenharia de loop: como 'autopesquisa' e 'bilevel Autoresearch' transformam agentes de IA em loops de pesquisa de ML de aprendizado de máquina autônomo",
+      "summary": "A maioria das pessoas ainda usa IA como uma caixa de pesquisa de 2015. Você digita, você lê, você digita novamente. Um padrão mais recente substitui o vaivém manual por um loop. Este guia explica o loop…",
+      "link": "https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-12T20:07:02+00:00"
+    },
+    {
+      "id": "7b5bbf1e8d5a6e40",
+      "title": "Como criar apps com IA só conversando: 5 ideias para começar no Vibe Coding",
+      "summary": "Uma nova geração de ferramentas de inteligência artificial permite criar aplicativos, sites e calculadoras sem escrever código, apenas descrevendo em texto o que se quer…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-criar-apps-com-ia-so-conversando-5-ideias-para-comecar-no-vibe-coding/",
+      "image": "https://t.ctcdn.com.br/aHTdDHH-PuXftTvprxhaVfezbH0=/700x394/smart/i1142113.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-12T19:30:00+00:00"
+    },
+    {
+      "id": "b19500db5e2d28dd",
+      "title": "Hora de economizar: impressoras multifuncionais em promoção na Amazon",
+      "summary": "Impressora sem tinta, papel preso ou fila de impressão travada — quem trabalha ou estuda em casa conhece bem essas situações. Se você está pensando em trocar a sua ou comprar a…",
+      "link": "https://olhardigital.com.br/2026/07/12/reviews/hora-de-economizar-impressoras-multifuncionais-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-12T18:40:00+00:00"
+    },
     {
       "id": "1294b5354d5db600",
       "title": "16 comandos para usar o Gemini no Google Maps",
@@ -903,94 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-07-10T08:52:04+00:00"
-    },
-    {
-      "id": "fba98f6ef2a77fa8",
-      "title": "Projeto brasileiro usa relógios inteligentes para detectar doenças antes de os sintomas aparecerem",
-      "summary": "Iniciativa é da Unicamp em parceria com a Samsung e poderá identificar sinais precoces de doenças como Parkinson e condições cardíacas O post Projeto brasileiro usa relógios…",
-      "link": "https://olhardigital.com.br/2026/07/10/medicina-e-saude/projeto-brasileiro-usa-relogios-inteligentes-para-detectar-doencas-antes-de-os-sintomas-aparecerem/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/viva-bem-1024x768.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-10T08:00:00+00:00"
-    },
-    {
-      "id": "521cb8f5727237af",
-      "title": "Como a Deutsche Telekom está religando as telecomunicações com IA",
-      "summary": "Como a Deutsche Telekom está se tornando uma empresa de telecomunicações nativa da IA ​​com o atendimento ao cliente, os fluxos de trabalho dos funcionários, as operações de rede e o futuro da voz que transformam o OpenAI.",
-      "link": "https://openai.com/index/deutsche-telekom",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-10T07:00:00+00:00"
-    },
-    {
-      "id": "93799ccbd9e7bc0e",
-      "title": "Conheça LingBot-World-Infinity: um modelo de mundo causal aberto com um arnês agente",
-      "summary": "Robbyant, unidade de inteligência incorporada do Ant Group, lançou o LingBot-World-Infinity (LingBot-World 2.0). É um modelo de geração de vídeo causal 14B que se comporta como um sistema interativo…",
-      "link": "https://www.marktechpost.com/2026/07/09/meet-lingbot-world-infinity-an-open-causal-world-model-with-an-agentic-harness/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-10T04:38:20+00:00"
-    },
-    {
-      "id": "294cb47467c9e115",
-      "title": "Confira o Olhar Digital News na íntegra (09/07/2026)",
-      "summary": "OpenAI lança GPT-5.6 e promete mudar tudo na inteligência artificial! O post Confira o Olhar Digital News na íntegra (09/07/2026) apareceu primeiro em Olhar Digital .",
-      "link": "https://olhardigital.com.br/2026/07/09/videos/confira-o-olhar-digital-news-na-integra-09-07-2026/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-10T01:52:39+00:00"
-    },
-    {
-      "id": "4c0daa7d711a9a90",
-      "title": "Entrevista: GPT-5.6 inaugura uma nova fase da IA?",
-      "summary": "OpenAI anunciou o lançamento de três modelos da família GPT-5.6, incluindo o mais potente até agora O post Entrevista: GPT-5.6 inaugura uma nova fase da IA? apareceu primeiro em…",
-      "link": "https://olhardigital.com.br/2026/07/09/videos/entrevista-gpt-5-6-inaugura-uma-nova-fase-da-ia/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-10T01:31:44+00:00"
-    },
-    {
-      "id": "b432a65e00251c7e",
-      "title": "Anthropic vai cobrar (a mais) pelo Claude Fable 5",
-      "summary": "Mudança entra em vigor em 13 de julho (no Brasil) e representa alteração significativa no modelo de negócios adotado pelas empresas de IA O post Anthropic vai cobrar (a mais) pelo…",
-      "link": "https://olhardigital.com.br/2026/07/09/inteligencia-artificial/anthropic-vai-cobrar-a-mais-pelo-claude-fable-5/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/anthropic-2-1024x681.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-10T01:23:09+00:00"
-    },
-    {
-      "id": "5390181be54fda4b",
-      "title": "OpenAI diz que GPT 5.6 é o ‘modelo preferido’ para Microsoft Copilot 365 em meio a conversas sobre rompimento",
-      "summary": "A nova família de modelos da OpenAI continuará a impulsionar o conjunto de aplicativos de trabalho e produtividade da Microsoft.",
-      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-10T00:16:54+00:00"
-    },
-    {
-      "id": "5a913592dd449ea0",
-      "title": "As emissões de carbono da Microsoft aumentaram 25% no ano passado",
-      "summary": "A Microsoft pode mais uma vez estar a lutar para cumprir os seus próprios objetivos climáticos, de acordo com o seu relatório de sustentabilidade de 2026. Conforme relatado pela GeekWire, o relatório afirma que…",
-      "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-10T00:04:13+00:00"
     }
   ]
 }
