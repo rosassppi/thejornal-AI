@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-07-13T09:23:38.511118+00:00",
+  "generated_at": "2026-07-13T14:31:02.553128+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "767ce2a3551a9883",
+      "title": "Waze adiciona novos recursos alimentados por IA e atualizações de personalização",
+      "summary": "Alguns dos novos recursos são desenvolvidos pelo assistente Gemini AI do Google, que reflete o esforço mais amplo da gigante da tecnologia para integrar o Gemini em seus produtos e, ao mesmo tempo, melhorar…",
+      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-13T14:18:16+00:00"
+    },
+    {
+      "id": "c44cfc9ffbd986e0",
+      "title": "Apple trabalha em chip M7 com quantidade absurda de memória RAM para IA",
+      "summary": "A corrida pela inteligência artificial fez a Apple mudar drasticamente sua estratégia de hardware. Segundo o jornalista Mark Gurman, da Bloomberg, a empresa finalizou o design do…",
+      "link": "https://canaltech.com.br/hardware/apple-trabalha-em-chip-m7-com-quantidade-absurda-de-memoria-ram-para-ia/",
+      "image": "https://lisa.canalte.ch/assets/50534ed9-b8b5-4c4c-9ff5-96aa7f9defe6",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-13T13:15:00+00:00"
+    },
+    {
+      "id": "eac1fa8903a0553c",
+      "title": "Você poderá falar com o Waze: veja como funciona a nova IA",
+      "summary": "Waze ganha novos recursos com IA no Brasil, permitindo comandos por voz, rotas personalizadas e navegação adaptada para motos O post Você poderá falar com o Waze: veja como…",
+      "link": "https://olhardigital.com.br/2026/07/13/inteligencia-artificial/voce-podera-falar-com-o-waze-veja-como-funciona-a-nova-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/Instrues-por-voz-1024x576.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-13T13:06:31+00:00"
+    },
+    {
+      "id": "db718af4a50a57e5",
+      "title": "Quem controla os acessos dos agentes de IA?",
+      "summary": "A inteligência artificial deixou de ser apenas uma ferramenta de apoio e passou a assumir tarefas, tomar decisões e interagir com sistemas em nome de pessoas e empresas. Esse…",
+      "link": "https://canaltech.com.br/seguranca/quem-controla-os-acessos-dos-agentes-de-ia/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-13T13:00:00+00:00"
+    },
+    {
+      "id": "a928447ec9d70cfa",
+      "title": "Cantora fala para multidão não comprar óculos inteligentes: \"não é sexy\"",
+      "summary": "A cantora neozelandesa Lorde se apresentou, na última quinta-feira (9), no Mad Cool Festival 2026 , realizado em Madri. Mas, além do show, o que chamou atenção do público foi uma…",
+      "link": "https://canaltech.com.br/produtos/cantora-fala-para-multidao-nao-comprar-oculos-inteligentes-nao-e-sexy/",
+      "image": "https://lisa.canalte.ch/assets/de86c6f4-71c0-4500-acf6-7a5781be338a",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-13T12:19:01+00:00"
+    },
+    {
+      "id": "9722fd2e960cec23",
+      "title": "Consórcio alemão de IA lança Soofi S, um modelo aberto 30B que supera os benchmarks em inglês e alemão",
+      "summary": "Um consórcio de pesquisa alemão lançou o Soofi S 30B-A3B, um modelo de linguagem aberta treinado inteiramente na infraestrutura de nuvem da Deutsche Telekom em Munique. O modelo usa um…",
+      "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/soofi-s-german-llm-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-13T11:41:01+00:00"
+    },
     {
       "id": "cd7daa91dc470fc6",
       "title": "O SensorFM do Google transforma dados confusos de sensores vestíveis em uma camada de inteligência de saúde de uso geral",
@@ -47,6 +113,17 @@
       "published_at": "2026-07-13T09:00:00+00:00"
     },
     {
+      "id": "6edb7d5851558eb6",
+      "title": "Pesquisadores de Stanford apresentam TRACE: um sistema de treinamento de agente direcionado à capacidade que transforma falhas recorrentes de agente em ambiente RL sintético",
+      "summary": "Os LLMs Agentic continuam falhando da mesma forma porque carecem de recursos específicos e reutilizáveis. O TRACE de Stanford diagnostica essas lacunas a partir das próprias trajetórias de um agente, sintetiza uma…",
+      "link": "https://www.marktechpost.com/2026/07/13/stanford-researchers-introduce-trace/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f512.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-13T08:45:12+00:00"
+    },
+    {
       "id": "54a1510c507f57d8",
       "title": "Anthropic estende acesso gratuito ao Fable 5 para assinantes enquanto o GPT-5.6 Sol da OpenAI esquenta a guerra de preços",
       "summary": "A Anthropic mantém Claude Fable 5 em seus planos de assinatura até 19 de julho de 2026. O modelo deveria mudar para pagamento por uso hoje. Os assinantes podem usar até 50 por cento de…",
@@ -56,6 +133,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-13T07:54:34+00:00"
+    },
+    {
+      "id": "855417012e505f97",
+      "title": "Prime Intellect lança verificadores v1: conjuntos de tarefas, chicotes e tempos de execução combináveis ​​para treinamento e avaliações de Agentic RL",
+      "summary": "Prime Intellect lançou os verificadores 0.2.0, visualizando um núcleo \"v1\" reescrito no namespace verifiers.v1. Ele divide um ambiente em um conjunto de tarefas (o quê), um equipamento (como) e um…",
+      "link": "https://www.marktechpost.com/2026/07/13/prime-intellect-releases-verifiers-v1/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-13T07:40:18+00:00"
     },
     {
       "id": "e4ff10ba751d0ebd",
@@ -903,94 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-10T14:10:53+00:00"
-    },
-    {
-      "id": "9dcf2f1655207657",
-      "title": "Abraçando o CEO da Face sobre por que as empresas pararam de alugar sua IA",
-      "summary": "A IA de código aberto está crescendo, de acordo com Clem Delangue, CEO da Hugging Face. A empresa cresceu e se tornou algo como um GitHub para IA nos últimos anos, onde os construtores de IA podem compartilhar e…",
-      "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-10T14:00:00+00:00"
-    },
-    {
-      "id": "a2758dec3cff3643",
-      "title": "Google vai \"dedurar\" anúncios que usarem IA",
-      "summary": "O Google anunciou nesta quinta-feira (9) uma nova funcionalidade que vai indicar quando um anúncio foi criado ou editado com inteligência artificial (IA) . A informação fica…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/google-vai-dedurar-anuncios-que-usarem-ia/",
-      "image": "https://t.ctcdn.com.br/W0fYsTilS9jiNXJMFaeqTH-Z5o0=/700x394/smart/i1130231.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-10T14:00:00+00:00"
-    },
-    {
-      "id": "8de8dab2a459a18b",
-      "title": "Mi Band 11 da Xiaomi vaza pela primeira vez; veja tudo que já sabemos",
-      "summary": "A nova pulseira inteligente da Xiaomi , Mi Band 11 , apareceu em registros de certificação na China, revelando os primeiros detalhes sobre o dispositivo antes do anúncio oficial…",
-      "link": "https://canaltech.com.br/smartwatch/mi-band-11-da-xiaomi-vaza-pela-primeira-vez-veja-tudo-que-ja-sabemos/",
-      "image": "https://t.ctcdn.com.br/oOHsP3A1ts3B-cOgcQk3-dx4EgE=/700x394/smart/i1053235.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-10T13:50:51+00:00"
-    },
-    {
-      "id": "e52e7a22c645fc08",
-      "title": "Adam Mosseri do Instagram: Se você não gosta de IA, ‘então você não deveria tê-la em seu feed’",
-      "summary": "Embora o chefe do Instagram, Adam Mosseri, não queira filtrar o conteúdo de IA na plataforma, ele argumenta que você “não deveria tê-lo em seu feed” se não gostar. \"Eu não acho...",
-      "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-10T13:45:02+00:00"
-    },
-    {
-      "id": "0ea73ec74d98a954",
-      "title": "IA vai transformar a jornada de compra no varejo, diz CEO do Magalu",
-      "summary": "A IA vai abrir uma nova fase do varejo, na qual o consumidor poderá conversar com agentes capazes de entender seu contexto, recomendar produtos e concluir compras sem trocar de…",
-      "link": "https://canaltech.com.br/mercado/ia-vai-transformar-a-jornada-de-compra-no-varejo-diz-ceo-do-magalu/",
-      "image": "https://t.ctcdn.com.br/GrWBBKxIeGWxBIUjrVvEzQvp5BU=/700x394/smart/i1064529.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-10T13:34:38+00:00"
-    },
-    {
-      "id": "b9d1e982c843e2ba",
-      "title": "Você hospedaria parte de um data center de IA em sua casa?",
-      "summary": "Uma empresa de armazenamento de energia solar e doméstica está se expandindo para data centers de IA, mas não construindo um - em vez disso, está se oferecendo para pagar seus clientes para colocar suas unidades de computação em seus…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/sunrun-distributed-compute1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-10T13:20:25+00:00"
-    },
-    {
-      "id": "cfac4582c50ff0c3",
-      "title": "Mas já? OpenAI encerra aplicativo poucos meses após o lançamento",
-      "summary": "A OpenAI vai descontinuar o navegador ChatGPT Atlas , lançado em outubro do ano passado. A decisão foi anunciada nesta quinta-feira (9) ao revelar o ChatGPT Work , novo agente…",
-      "link": "https://canaltech.com.br/software/mas-ja-openai-encerra-aplicativo-em-poucos-meses-apos-o-lancamento/",
-      "image": "https://t.ctcdn.com.br/v9m8HoFRpctt9w03hbE5R_YokZw=/700x394/smart/i1133689.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-10T13:03:00+00:00"
-    },
-    {
-      "id": "1819b28429737c7f",
-      "title": "Estreia da SK Hynix na Bolsa testa o futuro da IA e dos chips",
-      "summary": "A gigante sul-coreana de chips estreia na Nasdaq nesta sexta-feira (10) – e isso vai medir a confiança dos investidores no boom da IA O post Estreia da SK Hynix na Bolsa testa o…",
-      "link": "https://olhardigital.com.br/2026/07/10/inteligencia-artificial/estreia-da-sk-hynix-na-bolsa-testa-o-futuro-da-ia-e-dos-chips/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/jensen_huang-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-10T13:01:54+00:00"
     }
   ]
 }
