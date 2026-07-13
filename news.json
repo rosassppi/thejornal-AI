@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-07-13T02:39:15.602538+00:00",
+  "generated_at": "2026-07-13T09:23:38.511118+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "cd7daa91dc470fc6",
+      "title": "O SensorFM do Google transforma dados confusos de sensores vestíveis em uma camada de inteligência de saúde de uso geral",
+      "summary": "O SensorFM do Google Research é um modelo básico treinado em mais de um trilhão de minutos de dados vestíveis de cinco milhões de usuários do Fitbit e Pixel Watch. É melhor do que existir…",
+      "link": "https://the-decoder.com/sensorfm/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/Sensor-FM.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-13T09:16:48+00:00"
+    },
+    {
+      "id": "49e268ec4efd02cb",
+      "title": "O Waze está recebendo vários novos recursos com tecnologia de IA",
+      "summary": "O Waze está passando por uma reformulação de IA. O Google está integrando seu principal assistente de IA, Gemini, ao aplicativo de direção com o objetivo de permitir que os usuários personalizem um pouco mais suas viagens…",
+      "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-13T09:00:00+00:00"
+    },
+    {
+      "id": "183f634263701dba",
+      "title": "Waze ganha navegação para motos e busca por voz com Gemini",
+      "summary": "Atualização integra recursos para motociclistas, comandos por voz com IA e rotas personalizadas. Brasil está entre os primeiros países a receber as novidades. Waze ganha navegação…",
+      "link": "https://tecnoblog.net/noticias/waze-ganha-navegacao-para-motos-e-busca-por-voz-com-gemini/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/modo-moto-waze-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-13T09:00:00+00:00"
+    },
+    {
+      "id": "156fc9c7c81f1211",
+      "title": "Waze vai falar menos nas viagens e enfim ganha modo para motos",
+      "summary": "O Waze anunciou uma série de novidades nesta segunda-feira (13), com destaque para um novo modo para motociclistas , integração com IA do Gemini e uma versão “menos falante” . A…",
+      "link": "https://canaltech.com.br/apps/waze-vai-falar-menos-nas-viagens-e-enfim-ganha-modo-para-motos/",
+      "image": "https://lisa.canalte.ch/assets/5bf60dac-793f-4147-bb86-da4d00ebdf08",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-13T09:00:00+00:00"
+    },
+    {
+      "id": "54a1510c507f57d8",
+      "title": "Anthropic estende acesso gratuito ao Fable 5 para assinantes enquanto o GPT-5.6 Sol da OpenAI esquenta a guerra de preços",
+      "summary": "A Anthropic mantém Claude Fable 5 em seus planos de assinatura até 19 de julho de 2026. O modelo deveria mudar para pagamento por uso hoje. Os assinantes podem usar até 50 por cento de…",
+      "link": "https://the-decoder.com/anthropic-extends-free-fable-5-access-for-subscribers-as-openais-gpt-5-6-sol-heats-up-the-pricing-war/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-13T07:54:34+00:00"
+    },
     {
       "id": "e4ff10ba751d0ebd",
       "title": "Conheça o NeuroVFM: um novo modelo de base de neuroimagem treinado com Vol-JEPA em volumes clínicos de ressonância magnética e tomografia computadorizada não curados",
@@ -12,17 +67,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-07-13T00:35:36+00:00"
-    },
-    {
-      "id": "bda1bc7d237db1bd",
-      "title": "8 prompts para conversar com voz no ChatGPT",
-      "summary": "O ChatGPT ganhou uma nova geração de recursos de voz com o GPT-Live , que deixa as conversas com a inteligência artificial mais naturais e próximas de um diálogo real. A…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/8-prompts-para-conversar-com-voz-no-chatgpt/",
-      "image": "https://t.ctcdn.com.br/dZNITw6rBxnUm_Quv0YIawc78O8=/700x394/smart/i1142147.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-12T23:00:00+00:00"
     },
     {
       "id": "5dc0bd782606a8e2",
@@ -69,15 +113,15 @@
       "published_at": "2026-07-12T20:07:02+00:00"
     },
     {
-      "id": "7b5bbf1e8d5a6e40",
-      "title": "Como criar apps com IA só conversando: 5 ideias para começar no Vibe Coding",
-      "summary": "Uma nova geração de ferramentas de inteligência artificial permite criar aplicativos, sites e calculadoras sem escrever código, apenas descrevendo em texto o que se quer…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-criar-apps-com-ia-so-conversando-5-ideias-para-comecar-no-vibe-coding/",
-      "image": "https://t.ctcdn.com.br/aHTdDHH-PuXftTvprxhaVfezbH0=/700x394/smart/i1142113.png",
+      "id": "bda1bc7d237db1bd",
+      "title": "8 prompts para conversar com voz no ChatGPT",
+      "summary": "O ChatGPT ganhou uma nova geração de recursos de voz com o GPT-Live , que deixa as conversas com a inteligência artificial mais naturais e próximas de um diálogo real. A…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/8-prompts-para-conversar-com-voz-no-chatgpt/",
+      "image": "https://t.ctcdn.com.br/Ar-IIlc_Z9v8o0iWESLQpYhG6ZM=/1024x0/smart/i1141797.png",
       "source": "Canaltech",
       "region": "brasil",
       "category": "Brasil",
-      "published_at": "2026-07-12T19:30:00+00:00"
+      "published_at": "2026-07-12T20:00:00+00:00"
     },
     {
       "id": "b19500db5e2d28dd",
@@ -89,28 +133,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-12T18:40:00+00:00"
-    },
-    {
-      "id": "1294b5354d5db600",
-      "title": "16 comandos para usar o Gemini no Google Maps",
-      "summary": "O Google Maps está deixando de ser apenas um aplicativo de rotas para se tornar um assistente de viagem com ajuda do Gemini. Com o recurso “Perguntar ao Maps” , os usuários podem…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/16-comandos-para-usar-o-gemini-no-google-maps/",
-      "image": "https://t.ctcdn.com.br/jIaUTM2GHqOx0JMmNHJ3YeQ2qfM=/700x394/smart/i1141273.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-12T18:30:00+00:00"
-    },
-    {
-      "id": "e1be9c45e270cf3a",
-      "title": "Como impedir que o Gemini use seus dados para treinar IA",
-      "summary": "O Gemini, assim como outras inteligências artificiais generativas, usa dados fornecidos pelos usuários para aprimorar seus modelos de IA . As conversas feitas no chatbot, arquivos…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-impedir-que-o-gemini-use-seus-dados-para-treinar-ia/",
-      "image": "https://t.ctcdn.com.br/c92TVkOI7wQC41OlpJQENH1HJ_k=/700x394/smart/i1127127.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-12T17:30:00+00:00"
     },
     {
       "id": "e92367a17b39cd32",
@@ -135,6 +157,17 @@
       "published_at": "2026-07-12T16:41:47+00:00"
     },
     {
+      "id": "7b5bbf1e8d5a6e40",
+      "title": "Como criar apps com IA só conversando: 5 ideias para começar no Vibe Coding",
+      "summary": "Uma nova geração de ferramentas de inteligência artificial permite criar aplicativos, sites e calculadoras sem escrever código, apenas descrevendo em texto o que se quer…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-criar-apps-com-ia-so-conversando-5-ideias-para-comecar-no-vibe-coding/",
+      "image": "https://t.ctcdn.com.br/C50959TynzmTwaeXqkfVp_8Hr9Y=/1024x0/smart/i687664.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-12T16:30:00+00:00"
+    },
+    {
       "id": "8b32daa86337d052",
       "title": "O fracassado programa de carros autônomos da Apple deixou um legado de poderosos chips de IA",
       "summary": "O programa de carros autônomos da Apple nunca saiu do papel, mas pode ter sido o que tornou os chips da empresa os poderosos executores de IA que são. No início do desenvolvimento…",
@@ -157,6 +190,17 @@
       "published_at": "2026-07-12T16:07:00+00:00"
     },
     {
+      "id": "1294b5354d5db600",
+      "title": "16 comandos para usar o Gemini no Google Maps",
+      "summary": "O Google Maps está deixando de ser apenas um aplicativo de rotas para se tornar um assistente de viagem com ajuda do Gemini. Com o recurso “Perguntar ao Maps” , os usuários podem…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/16-comandos-para-usar-o-gemini-no-google-maps/",
+      "image": "https://t.ctcdn.com.br/P4Fv1Ij5qfpjO7bysfCSOdRZE0s=/1024x0/smart/i1141283.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-12T15:30:00+00:00"
+    },
+    {
       "id": "57ce054f9c489413",
       "title": "Claude Code agora possui um navegador integrado que permite à IA ler, clicar e digitar em sites externos",
       "summary": "Claude Code agora possui um navegador integrado que permite que a IA abra, leia e interaja com páginas da web diretamente dentro do ambiente de desenvolvimento. Ações de gravação em sites externos são…",
@@ -166,6 +210,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-12T15:02:06+00:00"
+    },
+    {
+      "id": "e1be9c45e270cf3a",
+      "title": "Como impedir que o Gemini use seus dados para treinar IA",
+      "summary": "O Gemini, assim como outras inteligências artificiais generativas, usa dados fornecidos pelos usuários para aprimorar seus modelos de IA . As conversas feitas no chatbot, arquivos…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-impedir-que-o-gemini-use-seus-dados-para-treinar-ia/",
+      "image": "https://t.ctcdn.com.br/emEJ4dUKZa4PrREQ3_9E1Jgnsds=/1024x0/smart/i1135135.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-12T14:30:00+00:00"
     },
     {
       "id": "656256e20f4f281d",
@@ -936,61 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-10T13:01:54+00:00"
-    },
-    {
-      "id": "41f895220f311c3c",
-      "title": "Motorola em promoção: confira uma seleção de smartphones com câmera com IA e bateria potente",
-      "summary": "A Motorola segue firme entre as marcas mais buscadas no Brasil, e agora é um bom momento para quem quer trocar de celular sem gastar muito. Reunimos três opções da linha Moto g…",
-      "link": "https://olhardigital.com.br/2026/07/10/reviews/motorola-em-promocao-confira-uma-selecao-de-smartphones-com-camera-com-ia-e-bateria-potente/",
-      "image": "https://m.media-amazon.com/images/I/41VhTuPsmCL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-10T12:40:00+00:00"
-    },
-    {
-      "id": "72a7fc6d20b48a74",
-      "title": "OpenAI encerra seu navegador Atlas depois de apenas oito meses e inclui tudo no ChatGPT",
-      "summary": "A OpenAI está encerrando seu navegador de IA Atlas menos de oito meses após o lançamento. Seus recursos estão migrando para a extensão atualizada do Chrome do ChatGPT, que permitirá aos usuários executar o ChatGPT…",
-      "link": "https://the-decoder.com/openai-kills-its-atlas-browser-after-just-eight-months-and-folds-everything-into-chatgpt/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_atlas.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-10T12:19:21+00:00"
-    },
-    {
-      "id": "b3622413200461d8",
-      "title": "O Fed quer que o investidor em IA Marc Andreessen ajude a descobrir se a IA pode domar a inflação",
-      "summary": "O presidente do Fed, Kevin Warsh, nomeou o capitalista de risco Marc Andreessen para aconselhar o Federal Reserve sobre o impacto económico da IA. Warsh vê a IA como um “desinflacionário significativo…",
-      "link": "https://the-decoder.com/the-fed-wants-ai-investor-marc-andreessen-to-help-figure-out-if-ai-can-tame-inflation/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/02/Office-Work-AI-scaled.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-10T12:18:32+00:00"
-    },
-    {
-      "id": "202d49c94b29ec7a",
-      "title": "Bun troca Zig por Rust com a ajuda de Claude Fable 5, escreve mais de um milhão de linhas de código em 11 dias",
-      "summary": "A ferramenta JavaScript Bun foi totalmente reescrita de Zig para Rust, e Fable 5 da Anthropic fez a maior parte do trabalho. O artigo Bun troca Zig por Rust com a ajuda de Claude Fable…",
-      "link": "https://the-decoder.com/bun-ditches-zig-for-rust-with-help-from-claude-fable-5-writes-over-a-million-lines-of-code-in-11-days/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo_money.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-10T11:09:44+00:00"
-    },
-    {
-      "id": "79e4db2341aa4c2a",
-      "title": "Google Research apresenta SensorFM: um modelo wearable Health Foundation pré-treinado em um trilhão de minutos de dados de sensores",
-      "summary": "SensorFM, um modelo de base de saúde vestível do Google Research, Google DeepMind e colaboradores universitários. Percorremos seu backbone de autoencoder mascarado ViT-1D…",
-      "link": "https://www.marktechpost.com/2026/07/10/google-research-introduces-sensorfm-a-wearable-health-foundation-model-pretrained-on-one-trillion-minutes-of-sensor-data/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-10-at-1.44.28-AM-1-150x150.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-10T08:52:04+00:00"
     }
   ]
 }
