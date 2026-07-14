@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-14T02:23:06.927459+00:00",
+  "generated_at": "2026-07-14T08:01:30.879543+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "5ff9e4858ff1b61a",
+      "title": "Já rico, já bem-sucedido, por que a última onda de vencedores da tecnologia está novamente em alta",
+      "summary": "Eles estão arregaçando as mangas novamente, aparentemente por medo de perder o momento decisivo da IA ​​e, presumivelmente, pelo fascínio irresistível de ganhar ainda mais dinheiro – potencialmente um…",
+      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-14T02:46:42+00:00"
+    },
     {
       "id": "621e4803ded53a76",
       "title": "Google libera recurso para pesquisar histórico de conversas com IA no celular",
@@ -980,17 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-11T08:28:12+00:00"
-    },
-    {
-      "id": "0ba2a431db1d8146",
-      "title": "OpenAI admite que “não acertou tudo” com o lançamento do ChatGPT Work e se esforça para consertar UX e custos",
-      "summary": "Após o lançamento do ChatGPT Work e do GPT-5.6 Sol, a OpenAI reconheceu problemas significativos: uso excessivo de computação, uma transição confusa para a interface do desktop para…",
-      "link": "https://the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/chatgpt_at_work_gpt4_office.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-11T08:01:09+00:00"
     }
   ]
 }
