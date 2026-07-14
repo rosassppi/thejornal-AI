@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-07-13T19:21:47.533685+00:00",
+  "generated_at": "2026-07-14T02:23:06.927459+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "621e4803ded53a76",
+      "title": "Google libera recurso para pesquisar histórico de conversas com IA no celular",
+      "summary": "O Google começou a liberar a pesquisa no histórico de conversas do Modo IA para quem usa o aplicativo da empresa no Android e no iPhone. A função já existia na versão web e agora…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/google-libera-recurso-para-pesquisar-historico-de-conversas-com-ia-no-celular/",
+      "image": "https://lisa.canalte.ch/assets/f4321237-3994-4eda-b584-b24136d04755",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-14T00:11:00+00:00"
+    },
+    {
+      "id": "feea722de3600ace",
+      "title": "Bancos canadenses entram na mira de alerta sobre IA",
+      "summary": "Instituições aceleram projetos com IA enquanto reguladores cobram novas estratégias para lidar com ameaças digitais emergentes O post Bancos canadenses entram na mira de alerta…",
+      "link": "https://olhardigital.com.br/2026/07/13/inteligencia-artificial/bancos-canadenses-entram-na-mira-de-alerta-sobre-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/anthropic-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-13T22:45:39+00:00"
+    },
+    {
+      "id": "3bff17647cbba197",
+      "title": "41% dos artigos do LinkedIn são gerados por IA, aponta levantamento",
+      "summary": "Desenvolvedora de extensão anti-IA revela também que Reddit é a plataforma com maior proporção de conteúdo humano. 41% dos artigos do LinkedIn são gerados por IA, aponta…",
+      "link": "https://tecnoblog.net/noticias/41-dos-artigos-do-linkedin-sao-gerados-por-ia-aponta-levantamento/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/03/linkedin-capa-2-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-13T22:15:39+00:00"
+    },
+    {
+      "id": "8548a4d9015fa6b1",
+      "title": "Como a tecnologia e a IA tornam a educação mais inclusiva e individualizada?",
+      "summary": "*Por Renata Perrenoud e Lincoln Ferdinand A consolidação da educação inclusiva tem levado escolas e instituições de ensino a repensarem a forma como acompanham a trajetória de…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-a-tecnologia-e-a-ia-tornam-a-educacao-mais-inclusiva-e-individualizada/",
+      "image": "https://lisa.canalte.ch/assets/4c9a3327-a06c-41bf-9ec4-d5c52451a3c6",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-13T22:01:26+00:00"
+    },
+    {
+      "id": "56f0a08f68e19b83",
+      "title": "Elon Musk e criador do ChatGPT trocam farpas no X; veja motivo da briga",
+      "summary": "Elon Musk e Sam Altman voltaram a se atacar publicamente no X, antigo Twitter, neste último fim de semana. A nova rodada de farpas começou depois que a Apple processou a OpenAI na…",
+      "link": "https://canaltech.com.br/mercado/elon-musk-e-criador-do-chat-gpt-trocam-farpas-no-x-veja-motivo-da-briga/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-13T21:30:00+00:00"
+    },
+    {
+      "id": "6fc155c9f7612184",
+      "title": "Satya Nadella emitiu um aviso chocante para empresas que usam IA",
+      "summary": "De todos os debates sobre as potenciais desvantagens da IA, há uma preocupação que causa a maior preocupação entre os entusiastas da IA ​​no Vale do Silício – que os gigantescos laboratórios de IA…",
+      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-13T20:59:00+00:00"
+    },
+    {
+      "id": "fdf0a55e24475c84",
+      "title": "Siri AI já está mudando a forma como uso meu iPhone",
+      "summary": "O iOS 27 escapou hoje do mundo dos desenvolvedores com o lançamento do primeiro beta público. Estou testando o novo sistema operacional desde o início de junho, procurando peculiaridades e vendo se funciona…",
+      "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-13T20:43:20+00:00"
+    },
+    {
+      "id": "a201aa0f7b7b0fe3",
+      "title": "AMD prepara gerador de múltiplos quadros de até 8x para o FSR 4",
+      "summary": "A AMD parece estar trabalhando em outra melhoria ao FSR 4 para brigar contra a NVIDIA e o DLSS 4. Segundo registros encontrados no driver de vídeo Adrenalin mais recente, o Time…",
+      "link": "https://canaltech.com.br/hardware/amd-prepara-gerador-de-multiplos-quadros-de-ate-8x-para-o-fsr-4/",
+      "image": "https://lisa.canalte.ch/assets/e2a02a90-2734-4d56-84ac-87aacabf8d89",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-13T20:10:00+00:00"
+    },
+    {
+      "id": "43fb09040c35b79f",
+      "title": "OpenAI \"sacrifica\" GPT-5.6 para conter avanço do rival Claude; veja o que muda",
+      "summary": "A OpenAI anunciou mudanças na família GPT-5.6 para aumentar a capacidade de uso dos modelos e remover, temporariamente, a janela de espera de cinco horas para assinantes dos…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/open-ai-sacrifica-gpt-5-6-para-conter-avanco-do-rival-claude-veja-o-que-muda/",
+      "image": "https://lisa.canalte.ch/assets/8342f4ab-4e48-4190-8797-8ab3823ce499",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-13T20:04:00+00:00"
+    },
+    {
+      "id": "3fb8e4c80ab17268",
+      "title": "Apple diz que ex-funcionário explorou bug ‘raro’ para baixar arquivos confidenciais após partir para OpenAI",
+      "summary": "A Apple não quis comentar sobre a “brecha de segurança”, que supostamente permitiu que um ex-funcionário baixasse arquivos confidenciais da rede da Apple muito depois de ele ter deixado a empresa por…",
+      "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-13T20:00:17+00:00"
+    },
+    {
+      "id": "a58888fae4ef5ec5",
+      "title": "Samsung Galaxy Watch 8 bate menor preço histórico por R$ 1.259 no Pix",
+      "summary": "Se você estava esperando o momento ideal para garantir o mais recente relógio inteligente da Samsung sem estourar o orçamento, a hora é agora. O Mercado Livre derrubou o preço do…",
+      "link": "https://canaltech.com.br/smartwatch/samsung-galaxy-watch-8-bate-menor-preco-historico-por-r-1-259-no-pix/",
+      "image": "https://lisa.canalte.ch/assets/fdcda5d8-b15d-493e-8b5a-afcfe9164558",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-13T19:41:16+00:00"
+    },
+    {
+      "id": "067ddd9a514765a3",
+      "title": "Apple processa OpenAI depois que ex-engenheiro supostamente usou bug para roubar segredos comerciais",
+      "summary": "OpenAI acusada de conspirar com ex-funcionários da Apple para roubar segredos comerciais.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2255514431-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-13T19:17:51+00:00"
+    },
     {
       "id": "b465bc57cac970b3",
       "title": "Construindo um sistema multiagente estilo VideoAgent: análise de intenções, planejamento de gráficos e roteamento de ferramentas para tarefas de edição de vídeo",
@@ -859,138 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-11T08:01:09+00:00"
-    },
-    {
-      "id": "074ecb3dec60d209",
-      "title": "Robbyant do Ant Group revela LingBot-VA 2.0: um modelo causal de vídeo-ação construído nativamente para IA física",
-      "summary": "Robbyant do Ant Group lançou o relatório técnico LingBot-VA 2.0 - um modelo de base de vídeo-ação de IA física construído do zero para incorporação, em vez de ajustado a partir de um…",
-      "link": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-11-at-12.53.47-AM-1-150x150.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-11T07:56:11+00:00"
-    },
-    {
-      "id": "dcb9b52126836242",
-      "title": "A Apple processa a OpenAI por supostamente realizar uma “campanha coordenada” para roubar segredos comerciais por meio de funcionários caçados",
-      "summary": "A Apple está processando a OpenAI por caça furtiva sistemática de funcionários e suposto roubo de segredos comerciais vinculados a produtos não lançados. Segundo a denúncia, mais de 400 ex-Apple…",
-      "link": "https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/apple_logo_neon_green.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-11T06:56:20+00:00"
-    },
-    {
-      "id": "21ae8085dc290bcb",
-      "title": "Instagram: Meta remove recurso de IA após críticas",
-      "summary": "Recurso fazia parte do lançamento do Muse Image, novo gerador de imagens por IA da empresa, anunciado na última terça-feira (7) O post Instagram: Meta remove recurso de IA após…",
-      "link": "https://olhardigital.com.br/2026/07/10/internet-e-redes-sociais/instagram-meta-remove-recurso-de-ia-apos-criticas/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/meta-e1777458619772-1024x577.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-11T01:48:56+00:00"
-    },
-    {
-      "id": "5fdf7a2e04f494e8",
-      "title": "Meta remove recurso polêmico de IA no Instagram após reação negativa",
-      "summary": "“Nossa intenção era fornecer uma ferramenta criativa útil e dar às pessoas controle sobre se seu conteúdo público poderia ser referenciado dessa forma”, disse a empresa em uma postagem no blog…",
-      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-10T23:55:07+00:00"
-    },
-    {
-      "id": "6d85e2e3be1c0774",
-      "title": "Meta desativa o recurso do Instagram que permite aos usuários fazer deepfakes de IA em contas públicas",
-      "summary": "Após uma reação significativa, a Meta está desativando o recurso anunciado esta semana que permite aos usuários gerar imagens de IA com base no conteúdo de contas públicas do Instagram apenas por…",
-      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-10T23:49:50+00:00"
-    },
-    {
-      "id": "7231fadcded6e901",
-      "title": "Apple processa OpenAI por supostamente roubar segredos de hardware",
-      "summary": "A Apple processou a OpenAI, alegando que os engenheiros roubaram segredos da Apple para avançar nos planos de hardware da startup de IA. Em sua denúncia, a Apple afirma ter descoberto “um padrão de roubo de…",
-      "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-10T21:36:51+00:00"
-    },
-    {
-      "id": "f42ceac46d74e0d8",
-      "title": "Apple processa OpenAI por suposto roubo de segredos comerciais",
-      "summary": "Dona do iPhone também processou ex-funcionários que hoje atuam na empresa de Sam Altman O post Apple processa OpenAI por suposto roubo de segredos comerciais apareceu primeiro em…",
-      "link": "https://olhardigital.com.br/2026/07/10/pro/apple-processa-openai-por-suposto-roubo-de-segredos-comerciais/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/chatgpt-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-10T21:18:29+00:00"
-    },
-    {
-      "id": "9475fac4ce71b697",
-      "title": "O GPT-5.6 Sol da OpenAI pós-treinou autonomamente o modelo Luna menor com um \"prompt bastante subespecificado\"",
-      "summary": "De acordo com a OpenAI, o GPT-5.6 Sol ajustou de forma independente o modelo Luna menor, acionado por um único “prompt bastante subespecificado”. No benchmark RSI interno da OpenAI para…",
-      "link": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/gpt_56_sol.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-10T21:12:47+00:00"
-    },
-    {
-      "id": "3daaf068f42c7ccb",
-      "title": "Apple processa OpenAI por suposto roubo de segredo comercial",
-      "summary": "A Apple alega que a má conduta foi dirigida pela liderança sênior da OpenAI, incluindo um ex-funcionário de longa data.",
-      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-10T21:00:29+00:00"
-    },
-    {
-      "id": "22c59cee4cbe10b6",
-      "title": "Samsung Health vai usar seus dados para treinar IA",
-      "summary": "Usuários são notificados de autorização, mas desativar a opção impede a sincronização do app com sua conta. Samsung Health vai usar seus dados para treinar IA",
-      "link": "https://tecnoblog.net/noticias/samsung-health-vai-usar-seus-dados-para-treinamento-de-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/05/Galaxy-Watch-Esportes-01-destaque-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-10T20:51:47+00:00"
-    },
-    {
-      "id": "f95b7b87cc4aa2b9",
-      "title": "Anthropic revela o que acontece dentro da IA antes de ela responder",
-      "summary": "Pesquisadores da empresa criaram ferramenta chamada lente Jacobiana e a utilizaram para revelar área oculta, que batizaram de J-space, dentro do Claude Opus 4.6 O post Anthropic…",
-      "link": "https://olhardigital.com.br/2026/07/10/inteligencia-artificial/anthropic-revela-o-que-acontece-dentro-da-ia-antes-de-ela-responder/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/anthropic-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-10T20:27:09+00:00"
-    },
-    {
-      "id": "7cfca48cff57cf46",
-      "title": "Kyutai lança MuScriptor: um transformador somente decodificador de peso aberto para transcrição de música de vários instrumentos para MIDI",
-      "summary": "MuScriptor é um Transformer de peso aberto apenas para decodificador da Kyutai e Mirelo. Treinado em 170 mil gravações reais mais 1,45 milhões de MIDIs sintéticos, ele transcreve multi-instrumentos completos…",
-      "link": "https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-10T20:21:08+00:00"
     }
   ]
 }
