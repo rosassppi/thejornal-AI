@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-07-15T02:21:05.176358+00:00",
+  "generated_at": "2026-07-15T08:07:07.099448+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "851d75ffbb975f24",
+      "title": "Funcionários da Meta processam demissões que dizem ter sido motivadas por sistemas discriminatórios de seleção de IA",
+      "summary": "Antigos e atuais funcionários da Meta estão processando a empresa em um tribunal federal da Califórnia por demissões em massa causadas por IA. Meta supostamente usou sistemas internos de IA para gerar a demissão…",
+      "link": "https://the-decoder.com/meta-employees-sue-over-layoffs-they-say-were-driven-by-discriminatory-ai-selection-systems/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/03/meta_logo_bright_glitch.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-15T08:04:01+00:00"
+    },
+    {
+      "id": "e23962d62b5e3b27",
+      "title": "O primeiro produto de hardware da OpenAI é um alto-falante AI sem tela projetado para parecer vivo",
+      "summary": "A OpenAI planeja entrar no hardware com um alto-falante inteligente portátil e sem tela. Equipado com câmera, sensores e peças mecânicas móveis, o dispositivo foi projetado como um companheiro de IA…",
+      "link": "https://the-decoder.com/openais-first-hardware-product-is-a-screenless-ai-speaker-designed-to-feel-alive/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_hardware_mockup.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-15T06:48:56+00:00"
+    },
     {
       "id": "0fa0a44757695f8d",
       "title": "Fala AI: IA assume papel de recrutador e transforma mercado de trabalho",
@@ -969,28 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-07-13T18:30:30+00:00"
-    },
-    {
-      "id": "4ca9252d143d3fd4",
-      "title": "Xiaomi lança \"fio dental digital\" por R$ 300; veja tudo que ele faz",
-      "summary": "A Xiaomi ampliou seu portfólio de produtos para cuidados pessoais com o lançamento de um novo irrigador bucal inteligente – um \"fio dental digital\". Chamado de Mijia Oral…",
-      "link": "https://canaltech.com.br/produtos/xiaomi-lanca-fio-dental-digital-por-r-300-veja-tudo-que-ele-faz/",
-      "image": "https://lisa.canalte.ch/assets/7f2ae151-ef03-4037-bbfa-3b0e744d9e64",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-13T18:23:44+00:00"
-    },
-    {
-      "id": "0c4f5217216fc39e",
-      "title": "As alegações mais selvagens no processo de segredos comerciais da Apple contra a OpenAI",
-      "summary": "O processo de segredos comerciais da Apple contra a OpenAI contém alegações que vão desde funcionários brincando sobre o acesso não autorizado aos sistemas da Apple até alegações de que os candidatos a empregos eram…",
-      "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-13T18:22:10+00:00"
     }
   ]
 }
