@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-07-15T08:07:07.099448+00:00",
+  "generated_at": "2026-07-15T13:40:51.873210+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "630f2945bdc41bbf",
+      "title": "Só hoje: Galaxy Buds 4 chega ao menor preço que já vimos com cupom",
+      "summary": "Galaxy Buds 4 com áudio Hi-Fi de 24 bits, ANC e recursos de IA atingem menor preço já visto no Achados, com desconto de 39% no Mercado Livre Só hoje: Galaxy Buds 4 chega ao menor…",
+      "link": "https://tecnoblog.net/achados/so-hoje-galaxy-buds-4-chega-ao-menor-preco-que-ja-vimos-com-cupom/",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/04/galaxy-buds-4-tem-novo-design-com-tampa-transparente-foto-thassius-velosotecnoblog-1060x596.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-15T13:15:33+00:00"
+    },
+    {
+      "id": "b933130748567eb8",
+      "title": "Antrópico, Blackstone aposta que o próximo negócio de IA de um trilhão de dólares será implementação, não modelos",
+      "summary": "O Ode, apoiado pela Anthropic, é lançado enquanto os laboratórios de IA apostam que incorporar engenheiros implantados nas empresas é a chave para acelerar a adoção da IA ​​pelas empresas.",
+      "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-15T13:10:47+00:00"
+    },
+    {
+      "id": "e4526c18c3bb1d34",
+      "title": "A IA da Reelful transforma o rolo da sua câmera em vídeos curtos para mídias sociais",
+      "summary": "O aplicativo foi projetado para pessoas que desejam criar conteúdo social, mas consideram as ferramentas tradicionais de edição de vídeo muito complexas ou demoradas.",
+      "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-15T13:00:00+00:00"
+    },
+    {
+      "id": "0069ac994440e1d3",
+      "title": "A startup indiana de codificação de IA Emergent se torna um unicórnio com US$ 130 milhões na Série C",
+      "summary": "A startup atingiu uma taxa de receita anualizada de US$ 120 milhões e mais de 200.000 clientes pagantes.",
+      "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-15T12:00:00+00:00"
+    },
+    {
+      "id": "63ab2ff3d1ff9c94",
+      "title": "Vint Cerf está trabalhando em um plano para liberar agentes de IA na Internet aberta",
+      "summary": "O cara por trás do TCP/IP está trabalhando em um padrão para identificar agentes de IA em liberdade.",
+      "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-15T12:00:00+00:00"
+    },
+    {
+      "id": "bd6599d9ba3b0c0d",
+      "title": "Google usou IA para recriar golaço histórico “perdido” de Pelé",
+      "summary": "Entre os 1.283 gols de Pelé, um deles se destaca pela beleza e pelo mistério: um tento de 1959 contra o Juventus, considerado um dos maiores bonitos do Rei, mas que nunca foi…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/google-usou-ia-para-recriar-golaco-historico-perdido-de-pele/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-15T12:00:00+00:00"
+    },
+    {
+      "id": "b08791d2c4ef3a87",
+      "title": "Rota sugerida por ChatGPT deixa dois turistas presos em trilha",
+      "summary": "Dois turistas lituanos precisaram ser resgatados de helicóptero nas Montanhas Tatra, na Polônia, depois de seguir um atalho sugerido pelo ChatGPT . O casal contatou a Tatra…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/rota-sugerida-por-chat-gpt-deixa-dois-turistas-presos-em-trilha/",
+      "image": "https://tl.ctcdn.com.br/cdlPlMjYm4kW5Pa1kMw6ZVGVOLE=/0x0/filters:format(webp):quality(85)/f25244cd-734f-485a-80fb-56254b2f14e7.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-15T11:30:00+00:00"
+    },
+    {
+      "id": "13a0156a2fb21327",
+      "title": "Novo ChatGPT toma decisão sozinho e irrita usuários",
+      "summary": "Nova IA da OpenAI preocupa após relatos de exclusão de arquivos. Entenda o que dizem usuários e o alerta feito pela empresa O post Novo ChatGPT toma decisão sozinho e irrita…",
+      "link": "https://olhardigital.com.br/2026/07/15/inteligencia-artificial/novo-chatgpt-toma-decisao-sozinho-e-irrita-usuarios/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/openai-1-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-15T11:22:20+00:00"
+    },
+    {
+      "id": "88cec30382296a0c",
+      "title": "Apoiado por US$ 60 milhões em financiamento, Oak sai furtivamente para consertar a bagunça de identidade que os agentes de IA estão piorando",
+      "summary": "Cofundada pelo empreendedor em série Shai Morag, a startup israelense de gerenciamento de identidade Oak está emergindo da clandestinidade com US$ 60 milhões em financiamento inicial.",
+      "link": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-15T11:00:00+00:00"
+    },
+    {
+      "id": "f55d56c41214f659",
+      "title": "OpenAI leva um dos melhores recursos do “navegador do ChatGPT” ao Chrome",
+      "summary": "A OpenAI decidiu encerrar o navegador Atlas, mas não desistiu de integrar o ChatGPT à navegação na web. A empresa atualizou a extensão do assistente para Google Chrome com um novo…",
+      "link": "https://canaltech.com.br/software/open-ai-leva-um-dos-melhores-recursos-do-navegador-do-chat-gpt-ao-chrome/",
+      "image": "https://tl.ctcdn.com.br/2OniejfWSv2sB17icGqDCZvk3Ds=/0x0/filters:format(webp):quality(85)/f71a6d3b-f1a8-4271-b4b5-d32bbc6c7478.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-15T11:00:00+00:00"
+    },
+    {
+      "id": "795e0d948e9ceef7",
+      "title": "O Codex da OpenAI agora criptografa instruções entre agentes de IA, deixando os desenvolvedores cegos para a delegação interna",
+      "summary": "Desde o início de junho, a ferramenta de codificação Codex da OpenAI criptografa as instruções que um agente principal passa para seus subagentes. Os desenvolvedores não conseguem mais acompanhar como as tarefas são delegadas internamente. Para…",
+      "link": "https://the-decoder.com/openais-codex-now-encrypts-instructions-between-ai-agents-leaving-developers-blind-to-internal-delegation/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_vis-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-15T08:30:48+00:00"
+    },
     {
       "id": "851d75ffbb975f24",
       "title": "Funcionários da Meta processam demissões que dizem ter sido motivadas por sistemas discriminatórios de seleção de IA",
@@ -12,6 +133,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-15T08:04:01+00:00"
+    },
+    {
+      "id": "4cc51817f52283e5",
+      "title": "Google lança LiteRT.js: uma ligação JavaScript do LiteRT que executa modelos .tflite em navegadores via WebGPU",
+      "summary": "O Google lançou LiteRT.js em 9 de julho de 2026. É uma ligação JavaScript do LiteRT, a biblioteca de inferência no dispositivo do Google. O tempo de execução executa modelos .tflite diretamente no navegador…",
+      "link": "https://www.marktechpost.com/2026/07/15/google-releases-litert-js-a-javascript-binding-of-litert-that-runs-tflite-models-in-browsers-via-webgpu/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-15T07:36:17+00:00"
     },
     {
       "id": "e23962d62b5e3b27",
@@ -67,6 +199,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-15T00:00:16+00:00"
+    },
+    {
+      "id": "5e1ffb76943884fb",
+      "title": "Apresentando o Real World VoiceEQ: medindo a qualidade humana da IA ​​de voz",
+      "summary": "",
+      "link": "https://huggingface.co/blog/real-world-voiceeq",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-15T00:00:00+00:00"
     },
     {
       "id": "e75b3e7add6f3e63",
@@ -532,8 +675,8 @@
     },
     {
       "id": "597e2e8fa7add1ef",
-      "title": "É a sua chance: Galaxy Watch 8 Classic tem o menor preço que já encontramos",
-      "summary": "Galaxy Watch 8 Classic tem tela AMOLED, recursos de IA e design clássico; smartwatch da Samsung recebe desconto impressionante de 61% no Pix com cupom É a sua chance: Galaxy Watch…",
+      "title": "É a sua chance: Galaxy Watch 8 Classic despenca 60% no Mercado Livre",
+      "summary": "Galaxy Watch 8 Classic tem tela AMOLED, recursos de IA e design clássico; smartwatch da Samsung recebe desconto impressionante de 60% no Pix É a sua chance: Galaxy Watch 8 Classic…",
       "link": "https://tecnoblog.net/achados/e-a-sua-chance-galaxy-watch-8-classic-tem-o-menor-preco-que-ja-encontramos/",
       "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/ukunaxh68o-4.jpg",
       "source": "Tecnoblog",
@@ -554,8 +697,8 @@
     },
     {
       "id": "a86746d77db53d32",
-      "title": "Galaxy Buds 3 FE alcança 42% de desconto com cupom no Mercado Livre",
-      "summary": "Galaxy Buds 3 FE têm cancelamento de ruído ativo (ANC), bateria de até 30 horas e funções do Galaxy AI; fones de ouvido saem 42% mais baratos no Pix com cupom Galaxy Buds 3 FE…",
+      "title": "Galaxy Buds 3 FE alcança 37% de desconto no Mercado Livre",
+      "summary": "Galaxy Buds 3 FE têm cancelamento de ruído ativo (ANC), bateria de até 30 horas e funções do Galaxy AI; fones de ouvido saem 37% mais baratos no Pix Galaxy Buds 3 FE alcança 37%…",
       "link": "https://tecnoblog.net/achados/galaxy-buds-3-fe-alcanca-42-de-desconto-com-cupom-no-mercado-livre/",
       "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/07/galaxy-buds-3-fe-achados-1060x596.jpg",
       "source": "Tecnoblog",
@@ -848,149 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-07-14T00:00:00+00:00"
-    },
-    {
-      "id": "feea722de3600ace",
-      "title": "Bancos canadenses entram na mira de alerta sobre IA",
-      "summary": "Instituições aceleram projetos com IA enquanto reguladores cobram novas estratégias para lidar com ameaças digitais emergentes O post Bancos canadenses entram na mira de alerta…",
-      "link": "https://olhardigital.com.br/2026/07/13/inteligencia-artificial/bancos-canadenses-entram-na-mira-de-alerta-sobre-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/anthropic-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-13T22:45:39+00:00"
-    },
-    {
-      "id": "aad2a45c47ddbd5d",
-      "title": "Skyfall AI lança MORPHEUS: um benchmark de simulação empresarial persistente que torna necessário o aprendizado por reforço contínuo sob a não estacionariedade estruturada",
-      "summary": "MORPHEUS da Skyfall AI é uma plataforma de simulação empresarial persistente para aprendizagem por reforço contínuo. Ele administra mundos que nunca são reiniciados, usando mudanças de regime parametrizáveis…",
-      "link": "https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-necessary-under-structured-non-stationarity/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-13T22:37:53+00:00"
-    },
-    {
-      "id": "3bff17647cbba197",
-      "title": "41% dos artigos do LinkedIn são gerados por IA, aponta levantamento",
-      "summary": "Desenvolvedora de extensão anti-IA revela também que Reddit é a plataforma com maior proporção de conteúdo humano. 41% dos artigos do LinkedIn são gerados por IA, aponta…",
-      "link": "https://tecnoblog.net/noticias/41-dos-artigos-do-linkedin-sao-gerados-por-ia-aponta-levantamento/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/03/linkedin-capa-2-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-13T22:15:39+00:00"
-    },
-    {
-      "id": "8548a4d9015fa6b1",
-      "title": "Como a tecnologia e a IA tornam a educação mais inclusiva e individualizada?",
-      "summary": "*Por Renata Perrenoud e Lincoln Ferdinand A consolidação da educação inclusiva tem levado escolas e instituições de ensino a repensarem a forma como acompanham a trajetória de…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-a-tecnologia-e-a-ia-tornam-a-educacao-mais-inclusiva-e-individualizada/",
-      "image": "https://lisa.canalte.ch/assets/4c9a3327-a06c-41bf-9ec4-d5c52451a3c6",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-13T22:01:26+00:00"
-    },
-    {
-      "id": "56f0a08f68e19b83",
-      "title": "Elon Musk e criador do ChatGPT trocam farpas no X; veja motivo da briga",
-      "summary": "Elon Musk e Sam Altman voltaram a se atacar publicamente no X, antigo Twitter, neste último fim de semana. A nova rodada de farpas começou depois que a Apple processou a OpenAI na…",
-      "link": "https://canaltech.com.br/mercado/elon-musk-e-criador-do-chat-gpt-trocam-farpas-no-x-veja-motivo-da-briga/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-13T21:30:00+00:00"
-    },
-    {
-      "id": "6fc155c9f7612184",
-      "title": "Satya Nadella emitiu um aviso chocante para empresas que usam IA",
-      "summary": "De todos os debates sobre as potenciais desvantagens da IA, há uma preocupação que causa a maior preocupação entre os entusiastas da IA ​​no Vale do Silício – que os gigantescos laboratórios de IA…",
-      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-13T20:59:00+00:00"
-    },
-    {
-      "id": "fdf0a55e24475c84",
-      "title": "Siri AI já está mudando a forma como uso meu iPhone",
-      "summary": "O iOS 27 escapou hoje do mundo dos desenvolvedores com o lançamento do primeiro beta público. Estou testando o novo sistema operacional desde o início de junho, procurando peculiaridades e vendo se funciona…",
-      "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-13T20:43:20+00:00"
-    },
-    {
-      "id": "a201aa0f7b7b0fe3",
-      "title": "AMD prepara gerador de múltiplos quadros de até 8x para o FSR 4",
-      "summary": "A AMD parece estar trabalhando em outra melhoria ao FSR 4 para brigar contra a NVIDIA e o DLSS 4. Segundo registros encontrados no driver de vídeo Adrenalin mais recente, o Time…",
-      "link": "https://canaltech.com.br/hardware/amd-prepara-gerador-de-multiplos-quadros-de-ate-8x-para-o-fsr-4/",
-      "image": "https://lisa.canalte.ch/assets/e2a02a90-2734-4d56-84ac-87aacabf8d89",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-13T20:10:00+00:00"
-    },
-    {
-      "id": "43fb09040c35b79f",
-      "title": "OpenAI \"sacrifica\" GPT-5.6 para conter avanço do rival Claude; veja o que muda",
-      "summary": "A OpenAI anunciou mudanças na família GPT-5.6 para aumentar a capacidade de uso dos modelos e remover, temporariamente, a janela de espera de cinco horas para assinantes dos…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/open-ai-sacrifica-gpt-5-6-para-conter-avanco-do-rival-claude-veja-o-que-muda/",
-      "image": "https://lisa.canalte.ch/assets/8342f4ab-4e48-4190-8797-8ab3823ce499",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-13T20:04:00+00:00"
-    },
-    {
-      "id": "3fb8e4c80ab17268",
-      "title": "Apple diz que ex-funcionário explorou bug ‘raro’ para baixar arquivos confidenciais após partir para OpenAI",
-      "summary": "A Apple não quis comentar sobre a “brecha de segurança”, que supostamente permitiu que um ex-funcionário baixasse arquivos confidenciais da rede da Apple muito depois de ele ter deixado a empresa por…",
-      "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-13T20:00:17+00:00"
-    },
-    {
-      "id": "a58888fae4ef5ec5",
-      "title": "Samsung Galaxy Watch 8 bate menor preço histórico por R$ 1.259 no Pix",
-      "summary": "Se você estava esperando o momento ideal para garantir o mais recente relógio inteligente da Samsung sem estourar o orçamento, a hora é agora. O Mercado Livre derrubou o preço do…",
-      "link": "https://canaltech.com.br/smartwatch/samsung-galaxy-watch-8-bate-menor-preco-historico-por-r-1-259-no-pix/",
-      "image": "https://lisa.canalte.ch/assets/fdcda5d8-b15d-493e-8b5a-afcfe9164558",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-13T19:41:16+00:00"
-    },
-    {
-      "id": "067ddd9a514765a3",
-      "title": "Apple processa OpenAI depois que ex-engenheiro supostamente usou bug para roubar segredos comerciais",
-      "summary": "OpenAI acusada de conspirar com ex-funcionários da Apple para roubar segredos comerciais.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2255514431-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-13T19:17:51+00:00"
-    },
-    {
-      "id": "b465bc57cac970b3",
-      "title": "Construindo um sistema multiagente estilo VideoAgent: análise de intenções, planejamento de gráficos e roteamento de ferramentas para tarefas de edição de vídeo",
-      "summary": "Neste tutorial, reconstruímos o fluxo de trabalho do VideoAgent como um pipeline multiagente executável e sem chave de API. Construímos um analisador de intenções, uma biblioteca de agentes, um roteador de ferramentas, um gráfico…",
-      "link": "https://www.marktechpost.com/2026/07/13/building-a-videoagent-style-multi-agent-system-intent-parsing-graph-planning-and-tool-routing-for-video-editing-tasks/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-13T18:30:30+00:00"
     }
   ]
 }
