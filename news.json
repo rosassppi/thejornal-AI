@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-07-16T02:28:47.630437+00:00",
+  "generated_at": "2026-07-16T08:10:49.593516+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "309e4f171ab9cb84",
+      "title": "xAI abre código \"Grok-Build\" no GitHub após violação massiva de dados",
+      "summary": "A ferramenta de linha de comando \"Grok Build\" do xAI carregou silenciosamente diretórios inteiros para servidores do Google Cloud, incluindo chaves SSH e bancos de dados de senhas. Após a reação, Elon Musk…",
+      "link": "https://the-decoder.com/xai-open-sources-grok-build-on-github-after-massive-data-breach/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/xai_logo_wall-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-16T07:56:21+00:00"
+    },
+    {
+      "id": "faf51a22877b31f6",
+      "title": "A Computação Aplicada quer dar aos operadores de petróleo e gás um modelo de IA para toda a planta",
+      "summary": "A Applied Computing arrecadou US$ 20 milhões da Série A para construir um modelo básico de IA para a indústria de petróleo, gás e petroquímica.",
+      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-16T04:00:00+00:00"
+    },
+    {
+      "id": "6a63b1b988987035",
+      "title": "IA usada na Copa de 2026 deu a todas as seleções a mesma arma tática",
+      "summary": "Tecnologia da Lenovo reúne e analisa milhões de pontos de dados e mais de duas mil métricas para gerar relatórios, gráficos, animações e outros recursos O post IA usada na Copa de…",
+      "link": "https://olhardigital.com.br/2026/07/15/inteligencia-artificial/ia-usada-na-copa-de-2026-deu-a-todas-as-selecoes-a-mesma-arma-tatica/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/fifa_ai_pro.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-16T02:14:50+00:00"
+    },
     {
       "id": "5aebf22f53a9f983",
       "title": "Hora de renovar o home office: as melhores impressoras em promoção na Amazon",
@@ -958,39 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-14T19:25:00+00:00"
-    },
-    {
-      "id": "ff7f364d859fb15d",
-      "title": "Criador do Linux recua em previsão sobre uso de IA e produtividade",
-      "summary": "O criador do Linux, Linus Torvalds, voltou a falar sobre o impacto de IA no desenvolvimento do sistema operacional. Em tom mais brando, o desenvolvedor reconheceu o potencial da…",
-      "link": "https://canaltech.com.br/software/criador-do-linux-recua-em-previsao-sobre-uso-de-ia-e-produtividade/",
-      "image": "https://tl.ctcdn.com.br/eDruGrpB2hGAClXaPYukFyKYxY8=/0x0/filters:format(webp):quality(85)/407405d6-1017-4c7f-9d60-65e82e1dfba1.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-14T19:11:00+00:00"
-    },
-    {
-      "id": "e0c3a82b5e52c2a1",
-      "title": "Pesquisadores criam armadilha que faz IA de hackers desligar sozinha",
-      "summary": "Técnica usa prompt injection para interromper ataques. Testes reduziram invasões bem-sucedidas a quase zero em alguns casos. Pesquisadores criam armadilha que faz IA de hackers…",
-      "link": "https://tecnoblog.net/noticias/pesquisadores-criam-armadilha-que-faz-ia-de-hackers-desligar-sozinha/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/01/seguranca-capa-5-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-14T19:01:05+00:00"
-    },
-    {
-      "id": "0a5a4c59cde6fb42",
-      "title": "Spotify usa IA para revelar segredos das músicas que você ouve",
-      "summary": "Spotify testa nova IA que cria playlists, responde perguntas sobre músicas e ajuda usuários Premium a descobrir artistas e conteúdos O post Spotify usa IA para revelar segredos…",
-      "link": "https://olhardigital.com.br/2026/07/14/cinema-e-streaming/spotify-usa-ia-para-revelar-segredos-das-musicas-que-voce-ouve/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/spotify-youtube-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-14T18:53:15+00:00"
     }
   ]
 }
