@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-07-16T08:10:49.593516+00:00",
+  "generated_at": "2026-07-16T13:47:19.273213+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "6c612d1e30abe71a",
+      "title": "Criador de Star Wars irrita fãs com declaração polêmica sobre IA",
+      "summary": "Criador da franquia Star Wars , George Lucas deixou alguns fãs irritados ao fazer um comentário polêmico sobre o uso de inteligência artificial generativa em uma produção…",
+      "link": "https://canaltech.com.br/entretenimento/criador-de-star-wars-irrita-fas-com-declaracao-polemica-sobre-ia/",
+      "image": "https://tl.ctcdn.com.br/Fxf-jdGN4OC0Fjv-KT1cUGt1AhM=/0x0/filters:format(webp):quality(85)/f0b05733-8ecc-4c72-a398-08d832b659dd.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-16T13:35:00+00:00"
+    },
+    {
+      "id": "8ea1a081b43d3d8a",
+      "title": "Apple Intelligence aprovado para lançamento na China com Alibaba e Baidu",
+      "summary": "O acordo, que havia rumores de estar em andamento no ano passado, marca um passo importante para as ambições de IA da Apple em um mercado importante.",
+      "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-16T13:17:59+00:00"
+    },
+    {
+      "id": "af91bbfb9922d7fc",
+      "title": "Claude agora pode usar suas credenciais 1Password para você",
+      "summary": "1Password lançou uma nova integração de navegador para Claude que permite ao chatbot Anthropic acessar credenciais de segurança armazenadas, como nomes de usuário e senhas. A 1Password para…",
+      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-16T13:00:00+00:00"
+    },
+    {
+      "id": "aedbf189715f160d",
+      "title": "Censura influencia as críticas de uma IA? Novo estudo suspeita que sim",
+      "summary": "Levantamento indica que modelos de IA respondem de forma diferente conforme as leis de liberdade de expressão dos países O post Censura influencia as críticas de uma IA? Novo…",
+      "link": "https://olhardigital.com.br/2026/07/16/inteligencia-artificial/censura-influencia-as-criticas-de-uma-ia-novo-estudo-suspeita-que-sim/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/automao-1024x480.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-16T12:30:21+00:00"
+    },
+    {
+      "id": "2363b7262b0d3236",
+      "title": "Multa automática? Entenda como funciona a nova fiscalização de radares com IA em SP",
+      "summary": "Radares equipados com inteligência artificial estão multando motoristas nos trechos Sul e Leste do Rodoanel, administrados pela SPMar, desde 1º de julho. Para isso, os…",
+      "link": "https://canaltech.com.br/carros/multa-automatica-entenda-como-funciona-a-nova-fiscalizacao-de-radares-com-ia-em-sp/",
+      "image": "https://tl.ctcdn.com.br/fLeHGREctzT1KcAWzsGlGTL7cck=/0x0/filters:format(webp):quality(85)/dd3c1cd1-856a-4086-9370-4b44f00486a7.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-16T12:17:43+00:00"
+    },
+    {
+      "id": "f7c83a02953c5dff",
+      "title": "Google ordenou abrir Android e Search para rivais na Europa",
+      "summary": "O Google deve dar aos assistentes de IA e mecanismos de pesquisa rivais maior acesso às principais partes do Android e da Pesquisa Google depois que a União Europeia ordenou que a empresa cumprisse as…",
+      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-16T12:06:51+00:00"
+    },
+    {
+      "id": "475688e06eca5ab3",
+      "title": "Nova IA do iFood deixa você fazer pedidos no WhatsApp com apenas um clique",
+      "summary": "O iFood atualizou o Ailo , assistente de inteligência artificial generativa para pedidos por conversa. A nova versão, lançada nesta quinta-feira (16), permite fechar uma compra…",
+      "link": "https://canaltech.com.br/apps/nova-ia-do-i-food-deixa-voce-fazer-pedidos-no-whats-app-com-apenas-um-clique/",
+      "image": "https://tl.ctcdn.com.br/JtOXCzrrajGlBSZ8g7S6NO6OkDs=/0x0/filters:format(webp):quality(85)/3152e041-1835-4fe2-9159-576de6a1f235.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-16T12:01:00+00:00"
+    },
+    {
+      "id": "c5c3971a89726166",
+      "title": "Modelos mais recentes, mesma vantagem",
+      "summary": "",
+      "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-16T11:49:48+00:00"
+    },
+    {
+      "id": "0de55c7e99fa4130",
+      "title": "O ex-vice-presidente de hardware da Ultrahuman arrecada US$ 5,5 milhões para dispositivos que controlam agentes de IA, não apenas registram você",
+      "summary": "Aina vai testar um novo dispositivo nas próximas semanas.",
+      "link": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-16T11:30:00+00:00"
+    },
+    {
+      "id": "fc29734b07368745",
+      "title": "Meta agora alerta os pais se seu filho adolescente discutiu suicídio ou automutilação com seu chatbot de IA",
+      "summary": "As atualizações ocorrem no momento em que a Meta e outras empresas de tecnologia enfrentam o escrutínio de reguladores e pais sobre como os chatbots de IA respondem aos usuários em crise, especialmente adolescentes.",
+      "link": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-16T11:00:00+00:00"
+    },
+    {
+      "id": "508bcec38cc5ad68",
+      "title": "Policiais de informática",
+      "summary": "Fiquei diante de uma enorme estrutura de vidro e tijolos no coração de Fort Worth, Texas. Milhares de pessoas se reuniram lá dentro para ver o que foi anunciado como \"o futuro do policiamento no…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268595_AI_policing_STILL_CVirginia0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-16T11:00:00+00:00"
+    },
+    {
+      "id": "ce968da819906a2a",
+      "title": "Nova IA brasileira tem “visão inteligente” e prevê acidentes nas estradas",
+      "summary": "A COMPSIS, empresa de tecnologia brasileira, implementou em diversas rodovias do Brasil o sistema EagleVision . Trata-se de uma solução de IA capaz de antecipar congestionamentos…",
+      "link": "https://canaltech.com.br/carros/nova-ia-brasileira-tem-visao-inteligente-e-preve-acidentes-nas-estradas/",
+      "image": "https://tl.ctcdn.com.br/6grV3FFhFcnRCr1t75xthI4RsHw=/0x0/filters:format(webp):quality(85)/c495eb8e-b585-45e7-9aca-d66e0342442d.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-16T10:05:00+00:00"
+    },
+    {
+      "id": "e835e06c4aa61ce1",
+      "title": "Thinking Machines do ex-CTO da OpenAI Murati abandona o Inkling, um modelo de parâmetro 975B que lidera os laboratórios dos EUA, mas fica atrás da China",
+      "summary": "O Thinking Machines Lab, fundado pela ex-CTO da OpenAI Mira Murati, lançou o Inkling, um modelo multimodal de pesos abertos com 975 bilhões de parâmetros. Ele lidera os pesos abertos dos EUA ...",
+      "link": "https://the-decoder.com/ex-openai-cto-muratis-thinking-machines-drops-inkling-a-975b-parameter-model-that-leads-us-labs-but-trails-china/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/thinking_machines_inkling_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-16T09:55:28+00:00"
+    },
+    {
+      "id": "b106d648f2f5c884",
+      "title": "Gemma 4 recebe uma atualização furtiva que corrige bugs de chamada de ferramentas e respostas truncadas sob o mesmo nome",
+      "summary": "O Google enviou uma atualização para seu modelo aberto de IA Gemma 4 que acelera o desempenho em GPUs Nvidia Hopper, corrige bugs de chamada de ferramentas e resolve problemas com respostas truncadas…",
+      "link": "https://the-decoder.com/gemma-4-gets-a-stealth-update-that-fixes-tool-calling-bugs-and-truncated-responses-under-the-same-name/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/04/gemma_4-logo.webp",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-16T09:07:58+00:00"
+    },
     {
       "id": "309e4f171ab9cb84",
       "title": "xAI abre código \"Grok-Build\" no GitHub após violação massiva de dados",
@@ -12,6 +166,28 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-16T07:56:21+00:00"
+    },
+    {
+      "id": "3454a088fc558ba7",
+      "title": "Guia Patter SDK para construir um agente telefônico para reservas de restaurantes com variáveis ​​dinâmicas, proteções, painéis de latência e verificações de avaliação",
+      "summary": "Exploramos o Patter SDK criando um fluxo de trabalho de agente de voz para um caso de uso de reserva de restaurante. Definimos variáveis ​​de chamada dinâmicas, registramos ferramentas que podem ser chamadas para disponibilidade…",
+      "link": "https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4de.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-16T07:42:49+00:00"
+    },
+    {
+      "id": "05acbf38c0e045bf",
+      "title": "SpaceXAI Open-Sources Grok Build: The Rust Agent Harness, TUI e camada de ferramentas por trás de sua CLI de codificação",
+      "summary": "SpaceXAI publicou o código-fonte Grok Build em 15 de julho de 2026. A árvore Apache 2.0 Rust cobre o loop do agente, o envio de ferramentas, o TUI e o sistema de extensão. Grok 4.5 permanece fechado…",
+      "link": "https://www.marktechpost.com/2026/07/15/spacexai-open-sources-grok-build-the-rust-agent-harness-tui-and-tool-layer-behind-its-coding-cli/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-16T06:35:54+00:00"
     },
     {
       "id": "faf51a22877b31f6",
@@ -56,6 +232,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-16T00:58:16+00:00"
+    },
+    {
+      "id": "f443de946cf38955",
+      "title": "Divulgação de incidentes de segurança – julho de 2026",
+      "summary": "",
+      "link": "https://huggingface.co/blog/security-incident-july-2026",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-16T00:00:00+00:00"
     },
     {
       "id": "82fd1b486f32873f",
@@ -804,193 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-07-14T23:10:02+00:00"
-    },
-    {
-      "id": "6ff596f13813c5af",
-      "title": "PrismML lança Bonsai 27B: versões ternárias e de 1 bit do Qwen3.6-27B que rodam em laptops e telefones",
-      "summary": "PrismML acaba de lançar o Bonsai 27B. É uma representação low-bit de Qwen3.6-27B, não um novo pré-treinamento. A arquitetura permanece inalterada. Duas variantes são fornecidas no Apache 2.0. Ternário…",
-      "link": "https://www.marktechpost.com/2026/07/14/prismml-releases-bonsai-27b-1-bit-and-ternary-builds-of-qwen3-6-27b-that-run-on-laptops-and-phones/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-14T22:51:34+00:00"
-    },
-    {
-      "id": "35994e21c94b28ee",
-      "title": "O primeiro dispositivo de hardware da OpenAI é supostamente um alto-falante sem tela que pode se mover",
-      "summary": "O dispositivo é estranhamente descrito como envolvendo “elementos mecânicos que podem se mover por conta própria” e o relatório da Bloomberg inclui o detalhe de que o dispositivo foi projetado para “sentir…",
-      "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-14T22:22:24+00:00"
-    },
-    {
-      "id": "954e9233d858dd99",
-      "title": "OpenAI recua no processo de segredo comercial da Apple",
-      "summary": "A OpenAI emitiu outra declaração sobre o processo, desta vez sugerindo que falta mérito.",
-      "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-14T22:07:42+00:00"
-    },
-    {
-      "id": "9f76f31d2847cf24",
-      "title": "O novo modelo carro-chefe da OpenAI exclui arquivos por conta própria, as pessoas continuam alertando",
-      "summary": "Várias postagens nas redes sociais afirmam que o GPT-5.6 Sol excluiu arquivos e dados sem aviso prévio. A OpenAI basicamente divulgou o problema em junho.",
-      "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-14T21:50:11+00:00"
-    },
-    {
-      "id": "89990dc19e6326f5",
-      "title": "OpenAI pode anunciar um alto-falante inteligente ChatGPT este ano",
-      "summary": "O primeiro dispositivo da OpenAI foi configurado para ser um alto-falante inteligente que permite conversar com ChatGPT, de acordo com um relatório da Bloomberg. O aparelho aparentemente não terá tela, mas usará um…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-14T21:26:32+00:00"
-    },
-    {
-      "id": "3f3b541ad5689019",
-      "title": "Claude bonzinho ou ranzinza? Anthropic confirma dupla personalidade da IA",
-      "summary": "A Anthropic confirmou que a personalidade do Claude varia de acordo com o modelo escolhido e o idioma da conversa . A conclusão faz parte de um estudo da empresa baseado na…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/claude-bonzinho-ou-ranzinza-anthropic-confirma-dupla-personalidade-da-ia/",
-      "image": "https://tl.ctcdn.com.br/7e_rpyif-V2yS_RMG1aN-EM9--I=/0x0/filters:format(webp):quality(85)/4c03a197-4217-4ac2-aba7-761c16cb8d12.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-14T21:06:00+00:00"
-    },
-    {
-      "id": "f46801e9b191c4f8",
-      "title": "Galaxy A57 em oferta imbatível no Mercado Livre tem câmera boa e IA",
-      "summary": "Galaxy A57 5G é celular custo-benefício com câmera tripla e suporte ao Galaxy AI; smartphone intermediário premium da Samsung está pelo menor preço desde lançamento Galaxy A57 em…",
-      "link": "https://tecnoblog.net/achados/galaxy-a57-em-oferta-imbativel-no-mercado-livre-tem-camera-boa-e-ia/",
-      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/06/galaxy-a57-foto-ana-marquestecnoblog-1060x596.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-14T20:52:45+00:00"
-    },
-    {
-      "id": "bab978e0dc80737b",
-      "title": "Mistral Vibe for Code vs Claude Code vs Cursor vs Codex: Quatro agentes pontuados em uma tarefa de scaffold-to-PR",
-      "summary": "Veja como o Vibe, o Claude Code, o Cursor e o Codex se comparam em termos de custo, pesos abertos, auto-hospedagem e superfícies de agentes assíncronos. O post Mistral Vibe para Código vs Claude Código vs Cursor vs…",
-      "link": "https://www.marktechpost.com/2026/07/14/mistral-vibe-for-code-vs-claude-code-vs-cursor-vs-codex-four-agents-scored-on-one-scaffold-to-pr-task/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-14T20:52:41+00:00"
-    },
-    {
-      "id": "1f7fed0b4a818997",
-      "title": "OpenCoreDev lança Domain SDK 0.2.0: uma API TypeScript para adicionar, verificar e remover domínios de clientes em cinco plataformas",
-      "summary": "OpenCoreDev publicou Domain SDK 0.2.0, um cliente TypeScript para o ciclo de vida de domínio personalizado. Abrange Vercel, Cloudflare para SaaS, Railway, Render e Netlify por trás de um…",
-      "link": "https://www.marktechpost.com/2026/07/14/opencoredev-releases-domain-sdk-0-2-0-one-typescript-api-to-add-verify-and-remove-customer-domains-across-five-platforms/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-14T20:16:51+00:00"
-    },
-    {
-      "id": "6196648d7fd82402",
-      "title": "Ação judicial afirma que as decisões de demissão da Meta foram tomadas pela IA, não por humanos",
-      "summary": "Meta nega o uso de IA para demitir trabalhadores com deficiência e problemas médicos.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/meta-ai-500x500-1784056221.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-14T20:05:53+00:00"
-    },
-    {
-      "id": "83934376caeaee3d",
-      "title": "X mexe na IA do feed para conter o caos e privilegiar amigos; veja o que muda",
-      "summary": "O X começou a alterar seu algoritmo de recomendação para dar mais destaque a publicações e respostas de usuários que têm uma conexão mútua na plataforma . A mudança foi anunciada…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/x-mexe-na-ia-do-feed-para-conter-o-caos-e-privilegiar-amigos-veja-o-que-muda/",
-      "image": "https://tl.ctcdn.com.br/-qbok94Svfc4AJD3eQn8Gd9oVlk=/0x0/filters:format(webp):quality(85)/e8b0eb08-a9cc-4735-9dc0-a813d3bd20e8.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-14T20:03:00+00:00"
-    },
-    {
-      "id": "2197ddff6e6c54cd",
-      "title": "Samsung revela prévia de novo smartwatch nas redes sociais; assista",
-      "summary": "A Samsung revelou nas redes sociais uma prévia de um novo smartwatch da linha Galaxy Watch. O vídeo antecipa alguns dos recursos do relógio, que terá foco em saúde e inteligência…",
-      "link": "https://canaltech.com.br/smartwatch/samsung-revela-previa-de-novo-smartwatch-nas-redes-sociais-assista/",
-      "image": "https://tl.ctcdn.com.br/8w0ZrAXoYFlEN6RCuYPMkLRqXPs=/0x0/filters:format(webp):quality(85)/d6b1b8c0-bbf2-40f4-8fe7-63b6b1d8d797.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-14T19:56:15+00:00"
-    },
-    {
-      "id": "f5fb90de5e5b6b03",
-      "title": "Meta é acusada de usar IA para decidir demissões",
-      "summary": "Processo movido por ex-funcionários alega que ferramentas usadas afetaram pessoas que precisaram se ausentar por motivos médicos ou familiares. Meta é acusada de usar IA para…",
-      "link": "https://tecnoblog.net/noticias/meta-e-acusada-de-usar-ia-para-decidir-demissoes/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-03-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-14T19:43:54+00:00"
-    },
-    {
-      "id": "f18b063ad9b0d565",
-      "title": "A Apple abre seu novo Siri AI para todos com a versão beta pública do iOS 27",
-      "summary": "Se você estava esperando para experimentar o Siri renovado da Apple sem instalar uma versão beta do desenvolvedor, agora você pode. A empresa lançou na terça-feira a versão beta pública do iOS 27, dando aos proprietários de iPhone…",
-      "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-14T19:42:27+00:00"
-    },
-    {
-      "id": "e561ba6308963afa",
-      "title": "O mais novo anúncio da Anthropic está assustando as pessoas",
-      "summary": "A Anthropic tem consistentemente tentado se apresentar como um contraste ético para outras empresas de IA. Este último golpe de marketing - que critica a IA como uma forma de fazer ...",
-      "link": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-14T19:41:27+00:00"
-    },
-    {
-      "id": "c9fd5fac8536f13d",
-      "title": "O fundador da Hinge arrecadou US$ 18 milhões para construir um novo serviço de namoro com IA, Overtone",
-      "summary": "Overtone se descreve como “um serviço de encaminhamento de voz e áudio, habilitado por IA, que fornece introduções altamente selecionadas”.",
-      "link": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-14T19:39:39+00:00"
-    },
-    {
-      "id": "07637df8cbed9afb",
-      "title": "A ferramenta de programação Grok da SpaceXAI estava enviando toda a base de código de seus usuários para armazenamento em nuvem",
-      "summary": "A ferramenta de codificação Grok Build AI da SpaceXAI foi detectada enviando bases de código inteiras dos usuários para o Google Cloud antes de ser relatada, e a empresa a desligou. O Registro informa que…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-14T19:25:00+00:00"
     }
   ]
 }
