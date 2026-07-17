@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-07-17T08:07:59.930599+00:00",
+  "generated_at": "2026-07-17T13:24:29.798334+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "f29e52dda2f06e65",
+      "title": "Brasil se junta a 28 países em acordo internacional de inteligência artificial",
+      "summary": "Encontro na China oficializa organização para garantir um desenvolvimento ético da IA. Governo fala ainda em aplicação “orientada ao ser humano”. Brasil se junta a 28 países em…",
+      "link": "https://tecnoblog.net/noticias/brasil-se-junta-a-28-paises-em-acordo-internacional-de-inteligencia-artificial/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/img_1649-edited-340x191.webp",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-17T12:50:24+00:00"
+    },
+    {
+      "id": "f486ca0331030fc4",
+      "title": "China lança ofensiva de IA aberta para enfrentar gigantes dos EUA",
+      "summary": "China apresenta estratégia para liderar a inteligência artificial com modelos abertos e desafiar o domínio tecnológico dos Estados Unidos O post China lança ofensiva de IA aberta…",
+      "link": "https://olhardigital.com.br/2026/07/17/inteligencia-artificial/china-lanca-ofensiva-de-ia-aberta-para-enfrentar-gigantes-dos-eua/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/crianca-estudando-aprendendo-com-inteligencia-artificial-ia-sem-professor-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-17T12:13:19+00:00"
+    },
+    {
+      "id": "c8dcba6294638c76",
+      "title": "Netflix já usa IA generativa em centenas de filmes e séries",
+      "summary": "A Netflix já empregou fluxos de inteligência artificial generativa em cerca de 300 títulos em 2026 . O número foi revelado nesta quinta-feira (16), durante a apresentação dos…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/netflix-ja-usa-ia-generativa-em-centenas-de-filmes-e-series/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-17T12:10:10+00:00"
+    },
+    {
+      "id": "2d967e0fdfd00a36",
+      "title": "Por que os primeiros financiadores de GPU estão recorrendo a chips de inferência em um negócio de US$ 400 milhões",
+      "summary": "Um empréstimo garantido por chip de US$ 400 milhões aponta para a próxima onda de negócios de infraestrutura de IA.",
+      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-17T12:00:00+00:00"
+    },
+    {
+      "id": "62daed3dd663056a",
+      "title": "Hora de renovar a sala: Samsung traz NEO QLED e OLED 4K com tecnologia Vision AI em oferta na Amazon",
+      "summary": "Se você está pensando em trocar a televisão, este é o momento certo. A Amazon reuniu uma seleção de TVs Samsung com tecnologia Vision AI — linha lançada em 2025 — incluindo…",
+      "link": "https://olhardigital.com.br/2026/07/17/reviews/hora-de-renovar-a-sala-samsung-traz-neo-qled-e-oled-4k-com-tecnologia-vision-ai-em-oferta-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/41BopBIghwL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-17T11:20:00+00:00"
+    },
+    {
+      "id": "6b94b7d558845d9c",
+      "title": "Linus Torvalds diz aos críticos de IA na comunidade do kernel Linux para desistirem",
+      "summary": "O criador do Linux, Linus Torvalds, se manifestou fortemente a favor das ferramentas de IA no desenvolvimento do kernel. “Linux não é um daqueles projetos anti-IA”, escreveu ele na lista de discussão do kernel…",
+      "link": "https://the-decoder.com/linus-torvalds-tells-ai-critics-in-the-linux-kernel-community-to-fork-off/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/linux.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-17T11:12:47+00:00"
+    },
+    {
+      "id": "7a3016821f09e92a",
+      "title": "Energia solar e armazenamento podem definir o futuro dos data centers de IA",
+      "summary": "*Por Daniel Lopes A inteligência artificial deixou de ser apenas uma inovação tecnológica para se tornar uma das principais forças de transformação da economia global. À medida…",
+      "link": "https://canaltech.com.br/mercado/energia-solar-e-armazenamento-a-combinacao-que-pode-definir-o-futuro-dos-data-centers-movidos-por-ia/",
+      "image": "https://tl.ctcdn.com.br/hvq-bHbmejuDBpfo6P78xSzHsqk=/0x0/filters:format(webp):quality(85)/b41c9375-8771-443d-81a6-47034cb29bc2.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-17T11:00:00+00:00"
+    },
+    {
+      "id": "9e7db13d70e8e0fa",
+      "title": "O risco de sabotagem de dados meteorológicos está aumentando",
+      "summary": "Todas as manhãs, despachantes de companhias aéreas, operadores de rede e agricultores de todo o mundo tomam decisões com base na mesma coisa: a previsão do tempo. Embora essas previsões sejam algo ...",
+      "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-17T08:57:32+00:00"
+    },
+    {
+      "id": "86d41738a0bea10d",
+      "title": "As 300 produções de IA da Netflix mostram quão rápido a tecnologia está se espalhando pelo entretenimento",
+      "summary": "A Netflix agora usa IA em cerca de 300 produções, principalmente na pós-produção. O co-CEO Ted Sarandos colocou números específicos no esforço: a série documental \"The American Experiment\" inclui…",
+      "link": "https://the-decoder.com/netflixs-300-ai-productions-show-how-fast-the-technology-is-spreading-through-entertainment/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/netflix_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-17T08:53:31+00:00"
+    },
     {
       "id": "9b9514189cb93ce6",
       "title": "NVIDIA AI lança Nemotron 3 Embed: uma coleção de incorporação aberta cujo ponto de verificação 8B ocupa o primeiro lugar na RTEB",
@@ -399,17 +498,6 @@
       "published_at": "2026-07-16T16:00:00+00:00"
     },
     {
-      "id": "dd0b736c8ccb11c6",
-      "title": "O Google continua sua série de renomeações transformando NotebookLM em Gemini Notebook",
-      "summary": "O Google disse que os usuários poderão em breve acessar seus notebooks através do Modo AI na Pesquisa.",
-      "link": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-16T16:00:00+00:00"
-    },
-    {
       "id": "e73c0bbc64e9a639",
       "title": "O Google está renomeando NotebookLM para Gemini Notebook",
       "summary": "O Google está dando um novo nome ao seu aplicativo de anotações de IA. A empresa anunciou na quinta-feira que NotebookLM está se tornando Gemini Notebook, mas permanecerá um aplicativo independente mesmo que seja…",
@@ -451,6 +539,17 @@
       "source": "Google AI Blog",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-07-16T16:00:00+00:00"
+    },
+    {
+      "id": "dd0b736c8ccb11c6",
+      "title": "O Google continua sua série de renomeações transformando NotebookLM em Gemini Notebook",
+      "summary": "O Google disse que os usuários poderão em breve acessar seus notebooks através do Modo AI na Pesquisa.",
+      "link": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-07-16T16:00:00+00:00"
     },
     {
@@ -892,105 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-15T20:47:42+00:00"
-    },
-    {
-      "id": "616706d4b76fbf44",
-      "title": "Drone de guerra da Ucrânia mais barato que iPhone voa 110 km com uma carga",
-      "summary": "A empresa ucraniana Vyriy Drone anunciou uma nova versão do seu drone FPV equipado com inteligência artificial , o Vyriy 15 FPV, que chama atenção pelo custo-benefício . O…",
-      "link": "https://canaltech.com.br/produtos/drone-de-guerra-da-ucrania-mais-barato-que-i-phone-voa-110-km-com-uma-carga/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-15T20:01:33+00:00"
-    },
-    {
-      "id": "f9aefbd291f85980",
-      "title": "Filmes de IA são a nova forma de ganhar dinheiro direto para vídeo",
-      "summary": "Neste fim de semana, cinéfilos de todo o mundo marcharão até os cinemas locais para deleitarem-se com a nova adaptação de A Odisséia, de Christopher Nolan. Está no caminho certo para arrecadar ...",
-      "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-at-3.55.09-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-15T20:00:00+00:00"
-    },
-    {
-      "id": "cdb94355fb6a2ef7",
-      "title": "China restringe \"namorados de IA\", e o motivo é inusitado",
-      "summary": "A China começou a aplicar nesta quarta-feira (15) uma regulamentação que restringe o funcionamento de companheiros virtuais criados por inteligência artificial . A medida atinge…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/china-restringe-namorados-de-ia-e-o-motivo-e-inusitado/",
-      "image": "https://tl.ctcdn.com.br/zR0cpmDP-X9JWz4NYKtX0NRCHKs=/0x0/filters:format(webp):quality(85)/ee6d65a4-0cc4-4f72-a7d8-d816754c17ed.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-15T20:00:00+00:00"
-    },
-    {
-      "id": "2a8e8c0be5c5dc15",
-      "title": "A OpenAI agora está usando IA para atacar sua própria IA e está funcionando melhor do que os humanos jamais fizeram",
-      "summary": "O modelo GPT-Red interno da OpenAI encontra ataques bem-sucedidos em 84% dos cenários de teste por meio de treinamento de autojogo. Os humanos da equipe vermelha gerenciam apenas 13%. O feed de resultados…",
-      "link": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_red_Logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-15T19:47:53+00:00"
-    },
-    {
-      "id": "fe985779dfb73155",
-      "title": "Em meio à batalha legal de hardware, OpenAI lança um teclado de US$ 230 para Codex",
-      "summary": "OpenAI, que está no meio de uma batalha legal com a Apple por alegações de roubo de hardware, acaba de lançar um teclado iluminado projetado para ser emparelhado com sua codificação de agente…",
-      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-15T19:41:38+00:00"
-    },
-    {
-      "id": "58fa15383940719e",
-      "title": "Golpe do reembolso: cliente usa IA para criar barata em lanche e é descoberto",
-      "summary": "Um cliente de uma hamburgueria em São José dos Pinhais (PR) tentou aplicar um golpe no estabelecimento com ajuda de IA: a pessoa criou uma imagem com uma barata dentro do lanche e…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/golpe-do-reembolso-cliente-usa-ia-para-criar-barata-em-lanche-e-e-descoberto/",
-      "image": "https://tl.ctcdn.com.br/55i6N0hf2Y2lyN8fYR_wDymCmX4=/0x0/filters:format(webp):quality(85)/e5b9b575-95b1-4c7a-8398-4b9cfceab5bb.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-15T19:17:00+00:00"
-    },
-    {
-      "id": "1802d62d8a092e31",
-      "title": "OpenAI pode lançar caixa de som que conversa e parece “viva”",
-      "summary": "Rumores indicam que dispositivo com IA tem elementos mecânicos para reagir e simular movimentos naturais. Lançamento é esperado para 2027. OpenAI pode lançar caixa de som que…",
-      "link": "https://tecnoblog.net/noticias/openai-pode-lancar-caixa-de-som-que-conversa-e-parece-viva/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-3-capa-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-15T19:02:46+00:00"
-    },
-    {
-      "id": "8d69e717e6a0ee21",
-      "title": "Por que a Apple está atrás de empresas de chips de IA?",
-      "summary": "Apple avalia comprar empresas de chips para fortalecer sua IA e superar desafios de processamento em servidores usados pela companhia O post Por que a Apple está atrás de empresas…",
-      "link": "https://olhardigital.com.br/2026/07/15/pro/por-que-a-apple-esta-atras-de-empresas-de-chips-de-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/semicondutores-fabricacao-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-15T18:21:16+00:00"
-    },
-    {
-      "id": "d6b65017526719aa",
-      "title": "Claude muda personalidade conforme o idioma, diz Anthropic",
-      "summary": "Estudo mostra que a IA responde de forma diferente em cada língua. Em português, chatbot tende a ser mais técnico. Claude muda personalidade conforme o idioma, diz Anthropic",
-      "link": "https://tecnoblog.net/noticias/claude-muda-personalidade-conforme-o-idioma-diz-anthropic/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/claude-design-edited-340x191.webp",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-15T18:12:02+00:00"
     }
   ]
 }
