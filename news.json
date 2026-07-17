@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-17T02:31:10.932571+00:00",
+  "generated_at": "2026-07-17T08:07:59.930599+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "9b9514189cb93ce6",
+      "title": "NVIDIA AI lança Nemotron 3 Embed: uma coleção de incorporação aberta cujo ponto de verificação 8B ocupa o primeiro lugar na RTEB",
+      "summary": "A NVIDIA lançou o Nemotron 3 Embed em 15 e 16 de julho de 2026. A coleção tem três pontos de verificação abertos: Nemotron-3-Embed-8B-BF16, Nemotron-3-Embed-1B-BF16 e…",
+      "link": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-17T07:53:02+00:00"
+    },
     {
       "id": "fa86b7a64ff6bd71",
       "title": "Os deepfakes ficaram muito melhores; cientistas respondem com nova IA",
@@ -34,6 +45,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-17T00:54:16+00:00"
+    },
+    {
+      "id": "fa6a6bc34bb5485c",
+      "title": "Moonshot AI lança Kimi K3: um modelo MoE aberto de 2,8 trilhões de parâmetros com atenção Kimi Delta e contexto de 1 milhão",
+      "summary": "Moonshot AI lançou Kimi K3 em 16 de julho de 2026. É um modelo MoE aberto de 2,8 trilhões de parâmetros construído em Kimi Delta Attention e Attention Residuals, ativando 16 de 896 especialistas…",
+      "link": "https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-4.30.39-PM-1.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-16T23:47:05+00:00"
     },
     {
       "id": "febba92f12aec322",
@@ -969,28 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-15T18:12:02+00:00"
-    },
-    {
-      "id": "ec2b50b366205fd7",
-      "title": "Thinking Machines amplia sua aposta contra IA de tamanho único com seu primeiro modelo aberto, Inkling",
-      "summary": "É a primeira prova pública da empresa depois de um ano e meio gasto na construção de infraestrutura de IA em grande parte fora da vista do público.",
-      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-15T18:04:06+00:00"
-    },
-    {
-      "id": "9e448010f572ed8e",
-      "title": "Construindo um pipeline PyTorch controlado por Gin Config com variantes MLP configuráveis, programação de cosseno e substituições de parâmetros de tempo de execução",
-      "summary": "Construímos um pipeline PyTorch controlado pelo Gin Config onde o código de treinamento permanece fixo e as variáveis ​​​​do experimento são movidas para arquivos .gin. Construímos um binário espiral não linear…",
-      "link": "https://www.marktechpost.com/2026/07/15/building-a-gin-config-controlled-pytorch-pipeline-with-configurable-mlp-variants-cosine-scheduling-and-runtime-parameter-overrides/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-15T18:03:38+00:00"
     }
   ]
 }
