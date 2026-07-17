@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-07-17T13:24:29.798334+00:00",
+  "generated_at": "2026-07-17T19:05:24.609843+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "49ad30eb3ed2612d",
+      "title": "Rádio 3.0 já chegou a 7 cidades brasileiras; veja se a sua está na lista",
+      "summary": "O Rádio 3.0 começou a dar seus primeiros passos no Brasil. Emissoras de sete cidades já passaram a adotar a tecnologia, que combina a transmissão tradicional pelo espectro de…",
+      "link": "https://canaltech.com.br/telecom/radio-3-0-ja-chegou-a-7-cidades-brasileiras-veja-se-a-sua-esta-na-lista/",
+      "image": "https://tl.ctcdn.com.br/kS3ZOdkUOMMRTupW9sk65AruCLM=/0x0/filters:format(webp):quality(85)/b7cf7bf7-5d80-49b0-a2d0-212daa39a764.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-17T18:31:45+00:00"
+    },
+    {
+      "id": "d118997ec6e72b5b",
+      "title": "Meta pode fechar parceria bilionária com a Anthropic em corrida pela IA",
+      "summary": "Caso seja concretizada, a parceria poderá marcar a entrada da empresa de Mark Zuckerberg em um novo segmento de negócios ligado à IA O post Meta pode fechar parceria bilionária…",
+      "link": "https://olhardigital.com.br/2026/07/17/pro/meta-pode-fechar-parceria-bilionaria-com-a-anthropic-em-corrida-pela-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/meta-mark-zuckerberg-e1783598391147-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-17T18:06:29+00:00"
+    },
+    {
+      "id": "cdf496f4c5aa5a13",
+      "title": "OpenAI lança versão do ChatGPT especialista em hackear sistemas",
+      "summary": "A equipe de segurança da OpenAI apresentou o GPT-Red na última quarta-feira (15). O modelo de IA tem o objetivo de executar práticas de red-teaming , processo em que uma equipe…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/open-ai-lanca-versao-do-chat-gpt-especialista-em-hackear-sistemas/",
+      "image": "https://tl.ctcdn.com.br/u_rymEn3CMaz8usUaMOKb7FHm5w=/0x0/filters:format(webp):quality(85)/aacba550-1bf8-463c-bf79-fb9d2277a0d9.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-17T18:02:00+00:00"
+    },
+    {
+      "id": "9cf21b8cc9d27bef",
+      "title": "Como o grande processo da Apple poderia atrapalhar os planos de IPO da OpenAI",
+      "summary": "A Apple entrou com um processo de segredos comerciais contra a OpenAI na última sexta-feira, e não está brincando. A reclamação alega um padrão de má conduta que chega até a OpenAI…",
+      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-17T17:45:46+00:00"
+    },
+    {
+      "id": "c96da0c277b129d7",
+      "title": "O plano da Apple para esmagar o OpenAI",
+      "summary": "A Apple está processando a OpenAI. A reclamação é legível e intensa, como muitas vezes acontece com essas coisas, embora muitos especialistas pareçam pensar que muitas das alegações são apenas como as coisas são…",
+      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-17T17:41:32+00:00"
+    },
+    {
+      "id": "4870658347a38d76",
+      "title": "Jovem cria aplicativo com IA capaz de traduzir Libras em tempo real",
+      "summary": "Software permite aprender sinais, colaborar com novos dados e aproximar usuários de Libras em diferentes ambientes sociais O post Jovem cria aplicativo com IA capaz de traduzir…",
+      "link": "https://olhardigital.com.br/2026/07/17/internet-e-redes-sociais/jovem-cria-aplicativo-com-ia-capaz-de-traduzir-libras-em-tempo-real/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/app-Aprenda-Libras_Jovem-cria-aplicativo-com-IA-capaz-de-traduzir-Libras-em-tempo-real2-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-17T17:28:57+00:00"
+    },
+    {
+      "id": "b8274e0f629200d9",
+      "title": "Instagram vai alertar pais se filhos discutirem crises com a IA",
+      "summary": "A Meta anunciou que vai informar pais e mães se os filhos menores de idade conversarem sobre temas sensíveis com a Meta AI , incluindo suicídio e automutilação. A medida vale para…",
+      "link": "https://canaltech.com.br/apps/instagram-vai-alertar-pais-se-filhos-discutirem-crises-com-a-ia/",
+      "image": "https://tl.ctcdn.com.br/PJFs17sGbNhGHymdvp5ehE51ib8=/0x0/filters:format(webp):quality(85)/09877ae5-b363-4d39-9097-1a1cc715513a.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-17T17:03:00+00:00"
+    },
+    {
+      "id": "ea415e3f7b41f013",
+      "title": "Melhor smartwatch Xiaomi: qual relógio comprar em 2026?",
+      "summary": "Encontre o melhor relógio inteligente da Xiaomi para monitorar treinos, saúde e ver notificações; lista reúne smartwatches com NFC, bateria duradoura e resistência à água Melhor…",
+      "link": "https://tecnoblog.net/guias/melhor-smartwatch-xiaomi/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/redmi-watch-5-active-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-17T16:15:12+00:00"
+    },
+    {
+      "id": "160a77853eb76a75",
+      "title": "São Francisco ordena que Apple e Google removam aplicativos de nudificação das lojas de aplicativos",
+      "summary": "Estimativas oficiais que o Google e a Apple provavelmente ganharam milhões em taxas de aplicativos de nudificação.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2216100332-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-17T16:10:05+00:00"
+    },
+    {
+      "id": "3e7cb6b73af10705",
+      "title": "Google testa painel para você acabar de vez com voz robótica do Gemini",
+      "summary": "O Google está desenvolvendo um painel de personalização de voz para o Gemini , que deve permitir ajustar quatro parâmetros do assistente de IA: velocidade, energia, cordialidade e…",
+      "link": "https://canaltech.com.br/apps/google-testa-painel-para-voce-acabar-de-vez-com-voz-robotica-do-gemini/",
+      "image": "https://tl.ctcdn.com.br/2EyuqhmZaLK-QAejIMGN0_3cdSw=/0x0/filters:format(webp):quality(85)/895b88d2-a897-4e5e-9b32-b24dbcb48fb2.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-17T16:00:00+00:00"
+    },
+    {
+      "id": "d9b2b6a45e1f9f2c",
+      "title": "Ajuste modelos de vídeo e imagem em escala com NVIDIA NeMo Automodel e 🤗 Difusores",
+      "summary": "",
+      "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-17T15:57:54+00:00"
+    },
+    {
+      "id": "f4b489ce2fdadba0",
+      "title": "Patreon para de pedir aos bots de IA para não rasparem – e começa a bloqueá-los",
+      "summary": "O Patreon está fortalecendo suas defesas contra a raspagem de IA trabalhando com a Cloudflare para bloquear bots que treinam modelos de IA no conteúdo dos criadores sem permissão. A medida marca um…",
+      "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-17T15:21:17+00:00"
+    },
+    {
+      "id": "99addd30aa5f7bac",
+      "title": "Google mata o NotebookLM e dá novo nome à ferramenta; veja como ele se chamará",
+      "summary": "O Google anunciou que o NotebookLM agora se chama Gemini Notebook . Apresentado no Google I/O de 2023 com o nome de Project Tailwind, a empresa ressalta que o objetivo inicial e…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/google-mata-o-notebook-lm-e-da-novo-nome-a-ferramenta-veja-como-ele-se-chamara/",
+      "image": "https://tl.ctcdn.com.br/aNoxLK2HygLmbL_wQ6jn3yS5-14=/0x0/filters:format(webp):quality(85)/a2754d1c-f100-49c9-8370-372612b6b312.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-17T15:11:00+00:00"
+    },
+    {
+      "id": "410ed107601cb822",
+      "title": "Nenhum produto? Sem problemas. Esta sessão do Disrupt 2026 mostra como obter financiamento pré-semente com convicção e narrativa",
+      "summary": "Não é só você: as startups de IA estão recebendo uma enorme quantidade de financiamento inicial e, no processo, dificultando as coisas para quem procura financiamento, mesmo em um estágio de pré-lançamento. Nós temos…",
+      "link": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-17T14:30:00+00:00"
+    },
     {
       "id": "f29e52dda2f06e65",
       "title": "Brasil se junta a 28 países em acordo internacional de inteligência artificial",
@@ -78,6 +232,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-17T11:00:00+00:00"
+    },
+    {
+      "id": "c5c5248230951857",
+      "title": "Um scorecard para a era da IA",
+      "summary": "Sarah Friar, CFO da OpenaAI, apresenta um scorecard prático de IA para medir o ROI por meio de trabalho útil, custo por tarefa bem-sucedida, confiabilidade e retorno da computação.",
+      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-17T10:00:00+00:00"
     },
     {
       "id": "9e7db13d70e8e0fa",
@@ -169,8 +334,8 @@
     },
     {
       "id": "000a4addd3eb00ba",
-      "title": "Galaxy Watch Ultra chega a cair 65% em oferta com anúncio próximo do Ultra 2",
-      "summary": "Galaxy Watch Ultra, smartwatch topo de linha da Samsung, traz sensores avançados, suporte ao Galaxy AI e bateria de até 100 horas Galaxy Watch Ultra chega a cair 65% em oferta com…",
+      "title": "Galaxy Watch Ultra cai 65% em oferta antes do lançamento do Watch Ultra 2",
+      "summary": "Galaxy Watch Ultra, smartwatch topo de linha da Samsung, traz sensores avançados, suporte ao Galaxy AI e bateria de até 100 horas Galaxy Watch Ultra cai 65% em oferta antes do…",
       "link": "https://tecnoblog.net/achados/galaxy-watch-ultra-chega-a-cair-65-em-oferta-com-anuncio-proximo-do-ultra-2/",
       "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/07/galaxy-watch-ultra-super-desconto-1060x596.png",
       "source": "Tecnoblog",
@@ -487,17 +652,6 @@
       "published_at": "2026-07-16T16:01:21+00:00"
     },
     {
-      "id": "80f7b84f7442abd8",
-      "title": "O modo AI do Google agora permite vincular e interagir com aplicativos selecionados",
-      "summary": "Com esta nova atualização, o Google está expandindo o Modo IA além de responder perguntas e concluir tarefas nos aplicativos que usa regularmente.",
-      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-16T16:00:00+00:00"
-    },
-    {
       "id": "e73c0bbc64e9a639",
       "title": "O Google está renomeando NotebookLM para Gemini Notebook",
       "summary": "O Google está dando um novo nome ao seu aplicativo de anotações de IA. A empresa anunciou na quinta-feira que NotebookLM está se tornando Gemini Notebook, mas permanecerá um aplicativo independente mesmo que seja…",
@@ -539,6 +693,17 @@
       "source": "Google AI Blog",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-07-16T16:00:00+00:00"
+    },
+    {
+      "id": "80f7b84f7442abd8",
+      "title": "O modo AI do Google agora permite vincular e interagir com aplicativos selecionados",
+      "summary": "Com esta nova atualização, o Google está expandindo o Modo IA além de responder perguntas e concluir tarefas nos aplicativos que usa regularmente.",
+      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-07-16T16:00:00+00:00"
     },
     {
@@ -826,171 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-07-16T07:42:49+00:00"
-    },
-    {
-      "id": "05acbf38c0e045bf",
-      "title": "SpaceXAI Open-Sources Grok Build: The Rust Agent Harness, TUI e camada de ferramentas por trás de sua CLI de codificação",
-      "summary": "SpaceXAI publicou o código-fonte Grok Build em 15 de julho de 2026. A árvore Apache 2.0 Rust cobre o loop do agente, o envio de ferramentas, o TUI e o sistema de extensão. Grok 4.5 permanece fechado…",
-      "link": "https://www.marktechpost.com/2026/07/15/spacexai-open-sources-grok-build-the-rust-agent-harness-tui-and-tool-layer-behind-its-coding-cli/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-16T06:35:54+00:00"
-    },
-    {
-      "id": "faf51a22877b31f6",
-      "title": "A Computação Aplicada quer dar aos operadores de petróleo e gás um modelo de IA para toda a planta",
-      "summary": "A Applied Computing arrecadou US$ 20 milhões da Série A para construir um modelo básico de IA para a indústria de petróleo, gás e petroquímica.",
-      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-16T04:00:00+00:00"
-    },
-    {
-      "id": "6a63b1b988987035",
-      "title": "IA usada na Copa de 2026 deu a todas as seleções a mesma arma tática",
-      "summary": "Tecnologia da Lenovo reúne e analisa milhões de pontos de dados e mais de duas mil métricas para gerar relatórios, gráficos, animações e outros recursos O post IA usada na Copa de…",
-      "link": "https://olhardigital.com.br/2026/07/15/inteligencia-artificial/ia-usada-na-copa-de-2026-deu-a-todas-as-selecoes-a-mesma-arma-tatica/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/fifa_ai_pro.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-16T02:14:50+00:00"
-    },
-    {
-      "id": "5aebf22f53a9f983",
-      "title": "Hora de renovar o home office: as melhores impressoras em promoção na Amazon",
-      "summary": "Se você está pensando em investir em uma boa impressora — seja para trabalhar em casa, estudar ou usar no dia a dia — este é um bom momento para conferir algumas opções…",
-      "link": "https://olhardigital.com.br/2026/07/15/reviews/hora-de-renovar-o-home-office-as-melhores-impressoras-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-16T01:13:40+00:00"
-    },
-    {
-      "id": "30ca436425507f80",
-      "title": "Olhar do Amanhã: amores artificiais e despedidas reais? O futuro das relações com IA",
-      "summary": "China desliga “namorados de IA”. Esse caso revela como a tecnologia já ocupa espaços íntimos e afetivos na vida das pessoas? O post Olhar do Amanhã: amores artificiais e…",
-      "link": "https://olhardigital.com.br/2026/07/15/colunistas/olhar-do-amanha-amores-artificiais-e-despedidas-reais-o-futuro-das-relacoes-com-ia/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-16T00:58:16+00:00"
-    },
-    {
-      "id": "f47e8f0dcf67a37e",
-      "title": "Como Cars24 dimensiona conversas e constrói mais rapidamente com OpenAI",
-      "summary": "Cars24 usa agentes de voz e bate-papo com tecnologia OpenAI para lidar com mais de 1 milhão de minutos de conversa mensais, recuperar 12% dos leads perdidos e trazer fluxos de trabalho de agente para equipes de toda a empresa.",
-      "link": "https://openai.com/index/cars24",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-16T00:00:00+00:00"
-    },
-    {
-      "id": "f443de946cf38955",
-      "title": "Divulgação de incidentes de segurança – julho de 2026",
-      "summary": "",
-      "link": "https://huggingface.co/blog/security-incident-july-2026",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-16T00:00:00+00:00"
-    },
-    {
-      "id": "82fd1b486f32873f",
-      "title": "A Microsoft está supostamente treinando vendedores para reprimir OpenAI e Anthropic",
-      "summary": "A Microsoft pretende vender seus modelos internos de IA como mais eficientes e econômicos do que os modelos de seus concorrentes.",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-15T23:59:44+00:00"
-    },
-    {
-      "id": "3217ba8a2031eb8e",
-      "title": "Thinking Machines Lab lança Inkling: um MoE multimodal de pesos abertos com parâmetro 975B com parâmetros ativos 41B e esforço de pensamento controlável",
-      "summary": "O Thinking Machines Lab lançou o Inkling em 15 de julho de 2026, seu primeiro modelo treinado do zero. Os pesos completos são fornecidos no Apache 2.0. É uma mistura de especialistas com parâmetro 975B…",
-      "link": "https://www.marktechpost.com/2026/07/15/thinking-machines-lab-releases-inkling-a-975b-parameter-open-weights-multimodal-moe-with-41b-active-parameters-and-controllable-thinking-effort/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-15T23:48:58+00:00"
-    },
-    {
-      "id": "ab986aadc6e8625b",
-      "title": "Pânico de privacidade: ChatGPT no Mac exibe pastas do usuário sem permissão",
-      "summary": "Um relato publicado no Reddit levantou dúvidas sobre a privacidade do aplicativo do ChatGPT para macOS. O usuário “Secret_Consequence48” afirmou que, após uma atualização…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/panico-de-privacidade-chat-gpt-no-mac-exibe-pastas-do-usuario-sem-permissao/",
-      "image": "https://tl.ctcdn.com.br/JvbQr0d3V6ZRrj2BUaF-UZTTcr8=/0x0/filters:format(webp):quality(85)/4ddb3a75-36c6-4e43-a7df-e1d4374755d5.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-15T23:03:00+00:00"
-    },
-    {
-      "id": "017f1761bd90fb87",
-      "title": "Orquestração de agentes: as organizações empresariais de IA têm um problema de implantação, não um problema de plataforma – e a maioria está ligando para agentes de chatbots",
-      "summary": "Em 101 empresas, a orquestração de agentes está se consolidando em plataformas de provedores de modelos – Claude da Anthropic lidera por uma ampla margem – escolhidas pela gravidade do subjacente…",
-      "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
-      "source": "VentureBeat",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-15T22:24:17+00:00"
-    },
-    {
-      "id": "3d53ce8cd0557ee0",
-      "title": "xAI processa um homem por usar Grok para gerar ‘deepfakes’ CSAM",
-      "summary": "A xAI, de propriedade de Elon Musk, está processando um homem da Carolina do Sul que supostamente usou o chatbot Grok AI da empresa para gerar material de abuso sexual infantil (CSAM). Em uma ação judicial relatada…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362103/STK262_GROK_XAI__A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-15T21:33:20+00:00"
-    },
-    {
-      "id": "9a645f21c58c38e8",
-      "title": "RTX Spark suportará \"jogos lendários\" da SEGA, afirma NVIDIA",
-      "summary": "Há três décadas, o primeiro Virtua Fighter chegava aos PCs, três anos após o lançamento original para arcades, em máquinas equipadas com o chip NVIDIA NV1. Essa parceria com a…",
-      "link": "https://canaltech.com.br/hardware/rtx-spark-suportara-jogos-lendarios-da-sega-afirma-nvidia/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-15T21:10:00+00:00"
-    },
-    {
-      "id": "06a09cd2d200b000",
-      "title": "Soofi Consortium lança Soofi S 30B-A3B: um modelo de base MoE híbrido aberto Mamba-Transformer para alemão e inglês",
-      "summary": "Soofi S 30B-A3B é um modelo Mamba-Transformer MoE aberto ativando 3.2B de parâmetros 31.6B para alemão e inglês The post Soofi Consortium lança Soofi S 30B-A3B: An Open…",
-      "link": "https://www.marktechpost.com/2026/07/15/soofi-consortium-releases-soofi-s-30b-a3b-an-open-hybrid-mamba-transformer-moe-foundation-model-for-german-and-english/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-15T21:02:48+00:00"
-    },
-    {
-      "id": "3d6e735f3e79dad2",
-      "title": "Gemini ganha espaço nas compras com IA, revela levantamento",
-      "summary": "O uso do Gemini no mercado de AI shopping com inteligência artificial (IA) quase dobrou . É o que mostra um levantamento da Rakuten Advertising revelado em primeira mão ao…",
-      "link": "https://canaltech.com.br/mercado/gemini-ganha-espaco-nas-compras-com-ia-revela-levantamento/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-15T20:47:42+00:00"
     }
   ]
 }
