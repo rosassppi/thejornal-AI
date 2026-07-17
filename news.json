@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-07-16T19:07:56.797054+00:00",
+  "generated_at": "2026-07-17T02:31:10.932571+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "fa86b7a64ff6bd71",
+      "title": "Os deepfakes ficaram muito melhores; cientistas respondem com nova IA",
+      "summary": "A abordagem deixa de procurar imperfeições visuais e passa a analisar se expressões faciais correspondem naturalmente à fala da pessoa O post Os deepfakes ficaram muito melhores…",
+      "link": "https://olhardigital.com.br/2026/07/16/inteligencia-artificial/os-deepfakes-ficaram-muito-melhores-cientistas-respondem-com-nova-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/analise_movimentos_faciais-904x1024.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-17T01:53:51+00:00"
+    },
+    {
+      "id": "b8dd36cee1b81ac7",
+      "title": "Tombo da IBM: confira bastidores do pior dia da história da empresa",
+      "summary": "Ações da companhia despencaram 25%, refletindo preocupação dos investidores com impactos da rápida transformação provocada pela IA sobre os negócios da empresa centenária O post…",
+      "link": "https://olhardigital.com.br/2026/07/16/pro/tombo-da-ibm-confira-bastidores-do-pior-dia-da-historia-da-empresa/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-17T01:05:30+00:00"
+    },
+    {
+      "id": "460949ae93a7c3e7",
+      "title": "Seu Direito Digital: IA pode decidir quem será demitido?",
+      "summary": "Acusações contra a meta reacendem o debate sobre os limites jurídicos e morais da inteligência artificial em empresas O post Seu Direito Digital: IA pode decidir quem será…",
+      "link": "https://olhardigital.com.br/2026/07/16/pro/seu-direito-digital-ia-pode-decidir-quem-sera-demitido/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-17T00:54:16+00:00"
+    },
+    {
+      "id": "febba92f12aec322",
+      "title": "Pequenas e médias empresas veem PCs com IA como arma contra grandes rivais",
+      "summary": "A adoção de IA no meio corporativo tem crescido e se tornado algo estratégico para a expansão de negócios. Segundo levantamento da ASUS Business, 80% das pequenas e médias…",
+      "link": "https://canaltech.com.br/notebook/pequenas-empresas-veem-pcs-com-ia-como-arma-contra-grandes-rivais-revela-estudo/",
+      "image": "https://tl.ctcdn.com.br/2r-KvSs64k5AnhXJj0xRPR9_cQY=/0x0/filters:format(webp):quality(85)/2cd09da0-83d0-4112-9bab-087d778b1004.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-16T22:14:00+00:00"
+    },
+    {
+      "id": "000a4addd3eb00ba",
+      "title": "Galaxy Watch Ultra chega a cair 65% em oferta com anúncio próximo do Ultra 2",
+      "summary": "Galaxy Watch Ultra, smartwatch topo de linha da Samsung, traz sensores avançados, suporte ao Galaxy AI e bateria de até 100 horas Galaxy Watch Ultra chega a cair 65% em oferta com…",
+      "link": "https://tecnoblog.net/achados/galaxy-watch-ultra-chega-a-cair-65-em-oferta-com-anuncio-proximo-do-ultra-2/",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/07/galaxy-watch-ultra-super-desconto-1060x596.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-16T22:05:27+00:00"
+    },
+    {
+      "id": "714a3c524f203e9b",
+      "title": "É oficial: a UE forçará o Google a compartilhar dados de pesquisa e abrir a IA no Android",
+      "summary": "O Google afirma que essas mudanças podem colocar em risco a privacidade e a segurança do usuário.",
+      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/europe-flag-digital-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-16T20:41:45+00:00"
+    },
+    {
+      "id": "368a3dfa05d78a0d",
+      "title": "xAI não pode mais negar que Grok faz CSAM. Então, está processando os usuários.",
+      "summary": "A xAI de Elon Musk abre o primeiro processo contra o usuário Grok acusado de fazer imagens de sexo infantil.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2233914428-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-16T20:26:23+00:00"
+    },
+    {
+      "id": "7c4ec74e93c140ae",
+      "title": "O medo de robôs humanóides estimula trabalhadores humanos a fazer greve na fábrica de automóveis Hyundai",
+      "summary": "A Hyundai pretende implantar 25.000 robôs Atlas começando nas fábricas dos EUA em 2028.",
+      "link": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-3.12.16-PM-500x500.png",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-16T20:09:48+00:00"
+    },
+    {
+      "id": "49fce60a2ede44ab",
+      "title": "O Founders Fund contrata o ex-executivo da OpenAI Ryan Beiermeister (e não por causa de suas habilidades de ‘máfia’)",
+      "summary": "Ryan Beiermeister, que demonstrou análises interessantes na série \"Mafia\" do YouTube do Founders Fund, juntou-se à empresa como sócio.",
+      "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-16T20:07:14+00:00"
+    },
+    {
+      "id": "a09556a3f4fde31e",
+      "title": "Google testa assistente de IA integrado ao GPS para sugerir \"caminhos bonitos\"",
+      "summary": "O Google está testando uma nova funcionalidade do assistente de inteligência artificial “Pergunte ao Maps” que aparece diretamente na tela de rotas do Google Maps. Em vez de abrir…",
+      "link": "https://canaltech.com.br/apps/google-testa-assistente-de-ia-integrado-ao-gps-para-sugerir-caminhos-bonitos/",
+      "image": "https://tl.ctcdn.com.br/APVjBorwdTpRxGvIddu-Eveq5Mo=/0x0/filters:format(webp):quality(85)/87f174f5-7ec0-4b6d-93d4-70845cffc2b9.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-16T20:00:00+00:00"
+    },
+    {
+      "id": "f9280399c5f7aa9a",
+      "title": "Teclado da OpenAI para programadores esgota em 24 horas",
+      "summary": "Codex Micro é o primeiro produto de hardware da OpenAI. Dispositivo foi lançado nessa quarta-feira (15/07) em edição limitada, por cerca de R$ 1.200. Teclado da OpenAI para…",
+      "link": "https://tecnoblog.net/noticias/teclado-da-openai-para-programadores-esgota-em-24-horas/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/3-2oh6reipm.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-16T19:54:31+00:00"
+    },
+    {
+      "id": "9f28cdffff53c655",
+      "title": "O modelo aberto K3 de Kimi se aproxima de GPT-5.6 Sol e Fable 5 enquanto sinaliza o fim da IA ​​chinesa super barata",
+      "summary": "Kimi está lançando o K3, um modelo multimodal aberto com 2,8 trilhões de parâmetros e um milhão de tokens de contexto. Nos próprios benchmarks da empresa, chega perto de Claude…",
+      "link": "https://the-decoder.com/kimis-open-model-k3-nears-gpt-5-6-sol-and-fable-5-while-signaling-the-end-of-super-cheap-chinese-ai/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/kimi_k3_web.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-16T19:49:39+00:00"
+    },
+    {
+      "id": "215b084c997a9e75",
+      "title": "Linus Torvalds aos críticos da codificação de IA no Linux: \"Fork it. Ou simplesmente vá embora.\"",
+      "summary": "O criador diz que irá “ignorar ruidosamente” aqueles que defendem a proibição de ferramentas de IA.",
+      "link": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-532502452-500x500-1784227863.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-16T19:18:23+00:00"
+    },
+    {
+      "id": "c351645a41a7a154",
+      "title": "A lacuna computacional da IA: as empresas estão comprando infraestrutura mais rápido do que conseguem medir quanto custa",
+      "summary": "Em 107 empresas, os gastos com infraestruturas de IA estão a acelerar muito antes da capacidade de ver ou orientar a sua economia. A maioria das organizações executa sua IA em uma base familiar de…",
+      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+      "source": "VentureBeat",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-16T19:16:48+00:00"
+    },
     {
       "id": "f42a2fd21fae46d3",
       "title": "A lacuna de segurança dos agentes: 54% das empresas já tiveram um incidente com agentes de IA e a maioria ainda permite que os agentes compartilhem credenciais",
@@ -837,160 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-07-15T18:03:38+00:00"
-    },
-    {
-      "id": "70fec8a6c74a542a",
-      "title": "Suno roubou milhões de músicas do YouTube, Genius e Deezer",
-      "summary": "Os dados da Suno obtidos em um incidente de hacking expuseram que o gerador de música de IA foi treinado extraindo milhões de músicas e letras de plataformas de áudio online, incluindo…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25383554/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-15T17:48:01+00:00"
-    },
-    {
-      "id": "cdf88feeb6146b26",
-      "title": "O maior projeto de energia limpa do Google fica a 40 milhas ao norte da usina de gás não autorizada da xAI",
-      "summary": "O maior projeto solar e de bateria do Google contrasta fortemente com a usina de energia não autorizada próxima da xAI.",
-      "link": "https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-15T17:39:54+00:00"
-    },
-    {
-      "id": "857bec57f6b9af0c",
-      "title": "GPT-5.6 Sol supostamente refuta uma conjectura estatística de 30 anos em 90 minutos depois que os humanos não conseguiram decifrá-la",
-      "summary": "Um professor de estatística da Universidade da Pensilvânia usou o GPT-5.6 Sol Pro da OpenAI para refutar uma conjectura aberta central sobre o método Benjamini-Hochberg em aproximadamente 90 minutos…",
-      "link": "https://the-decoder.com/gpt-5-6-sol-reportedly-disproves-a-30-year-old-statistics-conjecture-in-90-minutes-after-humans-couldnt-crack-it/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/neural_network_math-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-15T17:35:12+00:00"
-    },
-    {
-      "id": "11253d0d7f138338",
-      "title": "O que a construção do Shippy nos ensinou sobre os agentes de construção",
-      "summary": "",
-      "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-15T17:29:41+00:00"
-    },
-    {
-      "id": "969cdff003616d87",
-      "title": "O roteamento do modelo é simples. Até que não seja.",
-      "summary": "",
-      "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-15T17:27:01+00:00"
-    },
-    {
-      "id": "dba38c1924d6fe74",
-      "title": "Conheça o GPT-Red: um super-hacker LLM OpenAI construído para tornar seus modelos mais seguros",
-      "summary": "A OpenAI construiu um superhacker LLM chamado GPT-Red, que usa como parceiro de treino para ajudar seus outros modelos a aumentar suas defesas contra ataques cibernéticos. Na semana passada a empresa…",
-      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-15T17:09:37+00:00"
-    },
-    {
-      "id": "29f4ab98d1ecdbdf",
-      "title": "Hack sugere que o gerador de música AI Suno raspou o YouTube em busca de dados de treinamento",
-      "summary": "O hacker usou as credenciais de um funcionário para acessar o código-fonte, que revelou como Suno extraiu décadas de áudio.",
-      "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-15T17:00:34+00:00"
-    },
-    {
-      "id": "734a71b8830555fa",
-      "title": "Whatnot adquire Shaped para fornecer recomendações de compras ao vivo em tempo real",
-      "summary": "A plataforma de compras Livestream Whatnot adquiriu a startup AI Shaped, uma empresa de aprendizado de máquina focada em recomendações e pesquisas em tempo real. O acordo irá reforçar o Whatnot's…",
-      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-15T17:00:00+00:00"
-    },
-    {
-      "id": "e167a75a01aeb844",
-      "title": "“Não previmos” o impacto da IA, admite CEO da IBM",
-      "summary": "Arvind Krishna afirma que clientes deixaram de comprar software para investir em infraestrutura de IA. Ações da IBM caíram 25%, maior queda em mais de 50 anos. “Não previmos” o…",
-      "link": "https://tecnoblog.net/noticias/nao-previmos-diz-ceo-da-ibm-sobre-impacto-da-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/arvind-open-letter_hero-_1920x720-edited-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-15T16:26:34+00:00"
-    },
-    {
-      "id": "9fe6b6cefcefa5fe",
-      "title": "A Microsoft corrige um número recorde de vulnerabilidades de segurança, citando o uso de IA",
-      "summary": "O lançamento mensal de correções de segurança da Microsoft, apelidado de Patch Tuesday, resolveu um recorde de 570 vulnerabilidades de segurança em toda a linha de produtos da empresa, graças a descobertas com…",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-15T16:20:18+00:00"
-    },
-    {
-      "id": "98c8a63c09092459",
-      "title": "China desliga “namorados de IA” e transforma códigos em despedidas reais",
-      "summary": "Novas regras chinesas tentam impedir dependência emocional de IAs e limitam recursos que simulam relações humanas O post China desliga “namorados de IA” e transforma códigos em…",
-      "link": "https://olhardigital.com.br/2026/07/15/inteligencia-artificial/china-desliga-namorados-de-ia-e-transforma-codigos-em-despedidas-reais/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/03/shutterstock_2578832629-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-15T16:04:56+00:00"
-    },
-    {
-      "id": "f38b15bee5279bef",
-      "title": "Canva lança ferramenta de IA para criar sites e apps sem saber programar",
-      "summary": "O Canva lançou o Canva Code 2. 0 nesta terça-feira (14), plataforma de vibe coding para criar sites interativos rapidamente. A novidade combina o uso de IA para criar uma página…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/canva-lanca-ferramenta-de-ia-para-criar-sites-e-apps-sem-saber-programar/",
-      "image": "https://tl.ctcdn.com.br/bvN4Y5V8y2AZQYtEuer1N3ZoQ68=/0x0/filters:format(webp):quality(85)/95ab2a1a-6671-4420-bf76-f13e65449954.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-15T16:01:00+00:00"
-    },
-    {
-      "id": "2484151c76341684",
-      "title": "O primeiro hardware da marca OpenAI é... um teclado iluminado?",
-      "summary": "O Codex Micro foi projetado para monitorar vários threads de agente rapidamente.",
-      "link": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/codexmicro-500x500.png",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-15T16:00:33+00:00"
-    },
-    {
-      "id": "c20f8533b5fe83ec",
-      "title": "OpenAI finalmente lança hardware… para Codex",
-      "summary": "OpenAI está finalmente lançando algum hardware. Não, não é o misterioso dispositivo alimentado por IA que a empresa está desenvolvendo com o ex-designer da Apple Jony Ive, um projeto já complicado…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Supply-Co-Page_Brand.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-15T16:00:00+00:00"
     }
   ]
 }
