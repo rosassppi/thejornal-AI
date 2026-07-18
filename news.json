@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-07-18T02:22:01.304898+00:00",
+  "generated_at": "2026-07-18T07:47:11.701302+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "2348cf68b2d9be97",
+      "title": "Anthropic reduz os limites de Claude Fable 5 no Max e Team Premium e empurra os usuários Pro em direção ao preço da API",
+      "summary": "A Anthropic incluirá Claude Fable 5 nos planos Max e Team Premium a partir de 20 de julho, mas com apenas 50% dos limites regulares, que caem um terço no mesmo dia. Pró…",
+      "link": "https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo_money.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-18T07:17:11+00:00"
+    },
+    {
+      "id": "84a5adf1076b904b",
+      "title": "Como construir uma bancada de engenharia de plasmídeos com mapeamento circular, análise de restrição, géis virtuais e design de primer",
+      "summary": "Neste tutorial, construímos um ambiente de trabalho de plasmídeo nativo do Google Colab que recria as ideias centrais do SpliceCraft dentro de um ambiente de notebook interativo. Em vez de depender de um…",
+      "link": "https://www.marktechpost.com/2026/07/17/how-to-build-plasmid-engineering-workbench-with-circular-mapping-restriction-analysis-virtual-gels-and-primer-design/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/26a0.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-18T06:51:05+00:00"
+    },
+    {
+      "id": "75dc4b0ddaadfaa9",
+      "title": "A difusão de erros da Sakana AI treina redes de fluxo duplo compatíveis com Dale, atingindo 96,7% MNIST e 61,7% CIFAR-10 sem retropropagação",
+      "summary": "A retropropagação depende do transporte de peso, que os circuitos biológicos provavelmente não conseguem implementar. O Error Diffusion da Sakana AI contorna essa restrição, treinando dual-stream…",
+      "link": "https://www.marktechpost.com/2026/07/17/sakana-ais-error-diffusion-trains-dale-compliant-dual-stream-networks-reaching-96-7-mnist-and-61-7-cifar-10-without-backpropagation/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-18T06:32:43+00:00"
+    },
+    {
+      "id": "676c823b6899d3ae",
+      "title": "Neil Rimer acha que o dinheiro da IA ​​​​está voltando",
+      "summary": "Neil Rimer, o capitalista de risco que cofundou a Index Ventures, prevê que a riqueza histórica que a IA está gerando no Vale do Silício terá de ser redistribuída, voluntariamente ou…",
+      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-18T04:47:25+00:00"
+    },
     {
       "id": "64547f35d0e20806",
       "title": "Casa Branca passa a controlar acesso a modelos de IA de ponta",
@@ -947,50 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-16T15:48:21+00:00"
-    },
-    {
-      "id": "f40f21a3f6d4232b",
-      "title": "Sim, agora você pode solicitar o DoorDash na linha de comando",
-      "summary": "DoorDash está abrindo uma versão beta limitada do dd-cli, uma ferramenta de linha de comando que permite que desenvolvedores e agentes de IA pesquisem lojas, construam carrinhos e façam pedidos no terminal, marcando…",
-      "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-16T15:38:55+00:00"
-    },
-    {
-      "id": "3ccb5bb9720bbb1f",
-      "title": "Linus Torvalds sai em defesa do uso de IA no kernel Linux",
-      "summary": "Linus Torvalds esclareceu que não é contra o uso de inteligência artificial no desenvolvimento do Linux, mas defende aplicação coerente da tecnologia. Linus Torvalds sai em defesa…",
-      "link": "https://tecnoblog.net/noticias/linus-torvalds-sai-em-defesa-do-uso-de-ia-no-kernel-linux/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/04/linux-linus-torvalds-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-16T15:09:46+00:00"
-    },
-    {
-      "id": "cd5557270cdb8127",
-      "title": "Fim da bagunça: ChatGPT ganha superbusca para encontrar arquivos e chats antigos",
-      "summary": "A OpenAI lançou uma pesquisa aprimorada no ChatGPT que facilita encontrar conversas antigas , projetos, documentos e imagens. A novidade começou a ser liberada globalmente e está…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/fim-da-bagunca-chat-gpt-ganha-superbusca-para-encontrar-arquivos-e-chats-antigos/",
-      "image": "https://tl.ctcdn.com.br/vfHYXeNOBRgQUmYKf3-erxzT0BE=/0x0/filters:format(webp):quality(85)/a2f5608b-828b-404b-9143-f74eedc59325.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-16T14:32:00+00:00"
-    },
-    {
-      "id": "a5d9f6dbfc068753",
-      "title": "OpenAI quer que os desenvolvedores parem de digitar comandos e comecem a usar um joystick para controlar seus agentes de IA",
-      "summary": "A OpenAI e o fabricante de teclados Work Louder revelaram o Codex Micro, um controlador de hardware compacto projetado para trabalhar com agentes de IA. O artigo OpenAI quer desenvolvedores…",
-      "link": "https://the-decoder.com/openai-wants-developers-to-stop-typing-commands-and-start-using-a-joystick-to-control-their-ai-agents/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai-worklouder-codex-micro-02-overview-rgb.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-16T14:31:34+00:00"
     }
   ]
 }
