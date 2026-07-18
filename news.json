@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-07-18T07:47:11.701302+00:00",
+  "generated_at": "2026-07-18T13:11:32.496920+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "45c797ceaee38d7d",
+      "title": "Os aplicativos, gadgets e ferramentas que todo leitor precisa",
+      "summary": "Olá, amigos! Bem-vindo ao instalador nº 136, seu guia com o que há de melhor e mais importante no mundo. (Se você é novo aqui, seja bem-vindo, espero que seu bairro não seja tão enfumaçado quanto o meu…",
+      "link": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-136.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-18T12:00:00+00:00"
+    },
+    {
+      "id": "c63f170a29952c22",
+      "title": "A IA corrigirá a autorização prévia ou piorará a situação?",
+      "summary": "O governo está a testar um programa que utiliza IA para decisões de cobertura de seguros.",
+      "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310821-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-18T11:18:25+00:00"
+    },
+    {
+      "id": "46d423cc897d90d9",
+      "title": "A nova Organização Mundial de Cooperação em Inteligência Artificial da China é a jogada mais clara do presidente Xi até agora para uma ordem paralela de IA",
+      "summary": "Na Conferência Mundial de IA em Xangai, Xi Jinping anunciou 5.000 vagas de treinamento em IA para os países do Sul Global e o lançamento da \"Cooperação Mundial de Inteligência Artificial...",
+      "link": "https://the-decoder.com/chinas-new-world-artificial-intelligence-cooperation-organization-is-president-xis-clearest-play-yet-for-a-parallel-ai-order/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/china_flag_visual-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-18T10:46:04+00:00"
+    },
+    {
+      "id": "dfe38a442877962a",
+      "title": "Os modelos de peso aberto agora correspondem ao desempenho cibernético de ponta de apenas quatro meses atrás por uma fração do custo",
+      "summary": "O British AI Security Institute alerta que modelos abertos como GLM-5.2 e DeepSeek V4-Pro agora estão atrás dos modelos de fronteira fechada em capacidades cibernéticas por quatro a sete meses. No…",
+      "link": "https://the-decoder.com/open-weight-models-now-match-frontier-cyber-performance-from-just-four-months-ago-at-a-fraction-of-the-cost/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/aisi_logo_pattern.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-18T10:16:02+00:00"
+    },
+    {
+      "id": "c72dfdc4a63af393",
+      "title": "O novo manual de IA do Pentágono trata a adoção lenta como um risco maior do que o alinhamento imperfeito",
+      "summary": "O Departamento da Marinha dos EUA assinou uma estratégia para “armar” dados e IA e construir uma frota “AI-first”. Grandes modelos de linguagem seriam executados diretamente em navios de guerra e uma guerra de IA…",
+      "link": "https://the-decoder.com/the-pentagons-new-ai-playbook-treats-slow-adoption-as-a-bigger-risk-than-imperfect-alignment/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/US-Navy-Weaponize-AI.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-18T08:10:40+00:00"
+    },
+    {
+      "id": "1a0d886034717282",
+      "title": "O agente de memória sempre ativa do Google Cloud substitui RAG e embeddings por consolidação LLM contínua no Gemini 3.1 Flash-Lite",
+      "summary": "O repositório generativo de IA do Google Cloud fornece o Always-On Memory Agent, uma implementação de referência que trata a memória como um processo em execução. Construído em Google ADK e Gemini 3.1…",
+      "link": "https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-embeddings-with-continuous-llm-consolidation-on-gemini-3-1-flash-lite/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4c4.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-18T07:57:51+00:00"
+    },
     {
       "id": "2348cf68b2d9be97",
       "title": "Anthropic reduz os limites de Claude Fable 5 no Max e Team Premium e empurra os usuários Pro em direção ao preço da API",
@@ -925,72 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-07-16T16:00:00+00:00"
-    },
-    {
-      "id": "cfc723fcba3f4c3f",
-      "title": "Conecte mais aplicativos à Pesquisa",
-      "summary": "Renderização de aplicativos conectados",
-      "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-16T16:00:00+00:00"
-    },
-    {
-      "id": "6a0f44aaf2f61b4c",
-      "title": "Crie, edite e estrele vídeos com duas atualizações do Google Vids",
-      "summary": "Texto \"Gemini Omni e avatares pessoais no Google Vids\" cercado por várias imagens",
-      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-16T16:00:00+00:00"
-    },
-    {
-      "id": "80f7b84f7442abd8",
-      "title": "O modo AI do Google agora permite vincular e interagir com aplicativos selecionados",
-      "summary": "Com esta nova atualização, o Google está expandindo o Modo IA além de responder perguntas e concluir tarefas nos aplicativos que usa regularmente.",
-      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-16T16:00:00+00:00"
-    },
-    {
-      "id": "dd0b736c8ccb11c6",
-      "title": "O Google continua sua série de renomeações transformando NotebookLM em Gemini Notebook",
-      "summary": "O Google disse que os usuários poderão em breve acessar seus notebooks através do Modo AI na Pesquisa.",
-      "link": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-16T16:00:00+00:00"
-    },
-    {
-      "id": "ea4ff276528ee26f",
-      "title": "IA do Google expõe crianças a riscos graves e preocupa pais; empresa rebate",
-      "summary": "As ferramentas de inteligência artificial da Busca do Google, AI Overviews e Modo IA, receberam classificação de \"risco inaceitável\" para crianças em um relatório do Youth AI…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-do-google-expoe-criancas-a-riscos-graves-e-preocupa-pais-empresa-rebate/",
-      "image": "https://tl.ctcdn.com.br/BBQorLPjtjO2BXNrF86RWK4euiw=/0x0/filters:format(webp):quality(85)/d3dae32a-bb13-432e-a6db-a33d7c76cc6c.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-16T16:00:00+00:00"
-    },
-    {
-      "id": "09cf494e150548a0",
-      "title": "Os IPOs de energia aumentam à medida que os investidores procuram maneiras de aproveitar o boom da IA",
-      "summary": "As empresas que chegam ao mercado estão a angariar dinheiro ao ritmo mais rápido deste século.",
-      "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ftcms_2c2b4618-eb73-4160-997a-8f8bb5485e20-500x500.jpeg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-16T15:48:21+00:00"
     }
   ]
 }
