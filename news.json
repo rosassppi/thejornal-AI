@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-07-18T13:11:32.496920+00:00",
+  "generated_at": "2026-07-18T19:01:38.900933+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "7fb9272d9d4cc818",
+      "title": "Kimi: Ameaça ou ameaça?",
+      "summary": "A empresa chinesa Moonshot AI lançou uma nova versão de seu modelo Kimi esta semana, gerando preocupação sobre o “comunismo total da IA”.",
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-18T18:51:07+00:00"
+    },
+    {
+      "id": "ec642246e3bbb598",
+      "title": "Imprima sem complicação: veja uma seleção de impressoras em promoção na Amazon",
+      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três modelos multifuncionais em oferta na Amazon — todos com…",
+      "link": "https://olhardigital.com.br/2026/07/18/reviews/imprima-sem-complicacao-veja-uma-selecao-de-impressoras-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-18T18:40:00+00:00"
+    },
+    {
+      "id": "64f9bd41fa169385",
+      "title": "IA muda forma do brasileiro comprar carro; entenda",
+      "summary": "A inteligência artificial está transformando a forma como as pessoas escolhem comprar carros no Brasil. Segundo dados apresentados pelo Google durante o seminário Anfavea Visions…",
+      "link": "https://canaltech.com.br/carros/ia-muda-forma-do-brasileiro-comprar-carro-entenda/",
+      "image": "https://tl.ctcdn.com.br/qF13pMxh2sLCYz2F3wlMUrpLVd8=/0x0/filters:format(webp):quality(85)/0487a56e-5196-4fd8-b856-037e44bc1982.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-18T16:05:00+00:00"
+    },
     {
       "id": "45c797ceaee38d7d",
       "title": "Os aplicativos, gadgets e ferramentas que todo leitor precisa",
@@ -958,39 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-07-16T16:08:40+00:00"
-    },
-    {
-      "id": "980d749ecfc6165f",
-      "title": "NVIDIA Nemotron 3 Embed ocupa o primeiro lugar geral na RTEB, avançando na recuperação de agentes",
-      "summary": "",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-16T16:01:21+00:00"
-    },
-    {
-      "id": "e73c0bbc64e9a639",
-      "title": "O Google está renomeando NotebookLM para Gemini Notebook",
-      "summary": "O Google está dando um novo nome ao seu aplicativo de anotações de IA. A empresa anunciou na quinta-feira que NotebookLM está se tornando Gemini Notebook, mas permanecerá um aplicativo independente mesmo que seja…",
-      "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-16T16:00:00+00:00"
-    },
-    {
-      "id": "a907415b440a72c9",
-      "title": "Por que os adolescentes merecem acesso a IA segura",
-      "summary": "Saiba como a OpenAI está tornando o ChatGPT mais seguro para adolescentes com proteções adequadas à idade, ferramentas de aprendizagem, controle parental e parcerias especializadas.",
-      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-16T16:00:00+00:00"
     }
   ]
 }
