@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-19T02:34:40.014983+00:00",
+  "generated_at": "2026-07-19T08:14:18.299955+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "7a82410524c4d284",
+      "title": "Os chatbots de IA que leem raios X podem ser perigosamente confiantes, mesmo quando estão errados",
+      "summary": "O benchmark RadLE 2.0 testa se os modelos de IA em radiologia podem dizer quando devem deixar um diagnóstico para um ser humano. Muitos modelos fornecem resultados errados com total confiança e…",
+      "link": "https://the-decoder.com/ai-chatbots-reading-x-rays-can-be-dangerously-confident-even-when-theyre-wrong/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/ai-radiology-model-generated-image-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-19T07:35:20+00:00"
+    },
     {
       "id": "6950319ec4b8e935",
       "title": "Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2: modelos MoE abertos em escala de trilhões comparados em benchmarks, licença e custo de serviço",
@@ -980,17 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-16T17:19:26+00:00"
-    },
-    {
-      "id": "e6d8931d930795aa",
-      "title": "A lacuna do contexto da IA: as organizações empresariais de IA têm um problema de confiança, não um problema de recuperação – e a maioria ainda está construindo a solução",
-      "summary": "Em 101 empresas, a infraestrutura que alimenta os agentes de IA em seu contexto de negócios está sendo construída mais rapidamente do que é confiável. A geração aumentada por recuperação já é a…",
-      "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
-      "source": "VentureBeat",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-16T17:06:08+00:00"
     }
   ]
 }
