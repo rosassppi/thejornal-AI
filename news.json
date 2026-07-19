@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-07-19T08:14:18.299955+00:00",
+  "generated_at": "2026-07-19T13:14:41.646152+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "c0276de3fcc032e3",
+      "title": "Como usar o Gemini para ajudar a cuidar das plantas de casa?",
+      "summary": "Ter plantas em casa deixa qualquer ambiente mais agradável, mas manter cada espécie saudável nem sempre é simples . Algumas precisam de bastante luz, outras preferem sombra. Há…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-gemini-para-cuidar-das-plantas-de-casa/",
+      "image": "https://tl.ctcdn.com.br/Xgq0RWR_QQKLoNHCUHPoz3Mi-EY=/0x0/filters:format(webp):quality(85)/f46bf83d-45a8-496b-b4e6-15e589797b5e.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-19T12:39:00+00:00"
+    },
+    {
+      "id": "743de045e6b17c4f",
+      "title": "Qwen do Alibaba enfrenta Kimi K3 com Qwen 3.8 de peso aberto, diz que o modelo “perde apenas para Fable 5”",
+      "summary": "Alibaba revelou o Qwen 3.8, um modelo de IA multimodal com 2,4 trilhões de parâmetros que a equipe Qwen diz rivalizar com os modelos líderes e seguir apenas o Fable 5. Uma prévia está disponível…",
+      "link": "https://the-decoder.com/alibabas-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/qwen_logo-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-19T12:07:06+00:00"
+    },
+    {
+      "id": "a8c67c08e035c4dd",
+      "title": "O Google Deepmind argumenta que os geradores de vídeo já contêm os modelos mundiais que faltam à visão computacional",
+      "summary": "O GenCeption do Google Deepmind reaproveita um gerador de vídeo para tarefas clássicas de visão, como estimativa e segmentação de profundidade, combinando sistemas de última geração com muito menos…",
+      "link": "https://the-decoder.com/google-deepmind-argues-video-generators-already-contain-the-world-models-computer-vision-has-been-missing/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/google-deepmind-genception-generated-image-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-19T10:17:49+00:00"
+    },
+    {
+      "id": "36c43ea6e9746dd0",
+      "title": "Kimi K3 da Moonshot supera Fable 5 em código frontend, mas fica muito atrás em matemática complexa",
+      "summary": "Kimi K3 da Moonshot é o primeiro modelo chinês a liderar o ranking Code Arena: Frontend, batendo Claude Fable 5 e GPT-5.6 Sol por uma ampla margem. Mas em matemática avançada, a lacuna é…",
+      "link": "https://the-decoder.com/moonshots-kimi-k3-outperforms-fable-5-in-frontend-code-but-lags-far-behind-in-complex-math/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/kimi_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-19T09:32:19+00:00"
+    },
+    {
+      "id": "682c69612bc3c8a1",
+      "title": "Os detectores de texto de IA enfrentam dificuldades quando os modelos de linguagem imitam o estilo de um autor",
+      "summary": "A Epoch AI testou três principais detectores de texto de IA (Pangram, GPTZero e Originality.ai) usando textos com estilo imitado. Até 18% das passagens geradas por IA não foram detectadas. Para…",
+      "link": "https://the-decoder.com/ai-text-detectors-struggle-when-language-models-mimic-an-authors-style/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/ai_tet_detector.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-19T08:35:26+00:00"
+    },
     {
       "id": "7a82410524c4d284",
       "title": "Os chatbots de IA que leem raios X podem ser perigosamente confiantes, mesmo quando estão errados",
@@ -12,6 +67,28 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-19T07:35:20+00:00"
+    },
+    {
+      "id": "8b0e60c64c7e7e96",
+      "title": "Perplexity AI lança WANDR: um benchmark aberto que avalia agentes de pesquisa que devem pesquisar ampla e profundamente",
+      "summary": "O WANDR da Perplexity é um benchmark aberto e um equipamento de avaliação com 500 tarefas com muitas evidências. Ele testa se os agentes de pesquisa podem descobrir muitas entidades qualificadas e apoiar cada uma…",
+      "link": "https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-19T07:19:14+00:00"
+    },
+    {
+      "id": "b30c6468ea3470c6",
+      "title": "10 plataformas de IA sem código de código aberto para construção de aplicativos LLM, sistemas RAG e agentes de IA",
+      "summary": "Recuperação, agentes e fluxos de trabalho agora são fornecidos como ferramentas visuais e em inglês simples. Este resumo cobre 10 plataformas de código aberto, sem código e com baixo código para a construção de aplicativos LLM, sistemas RAG…",
+      "link": "https://www.marktechpost.com/2026/07/18/10-open-source-no-code-ai-platforms-for-building-llm-apps-rag-systems-and-ai-agents/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-19T05:53:19+00:00"
     },
     {
       "id": "6950319ec4b8e935",
@@ -914,83 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-07-16T18:32:54+00:00"
-    },
-    {
-      "id": "3058fe0caef55946",
-      "title": "IA vira motor de negócios bilionários para bancos de Wall Street",
-      "summary": "Bancos de Wall Street entram na corrida da IA com bilhões em financiamentos, data centers e projeções de até US$ 10 trilhões em gastos O post IA vira motor de negócios bilionários…",
-      "link": "https://olhardigital.com.br/2026/07/16/pro/ia-vira-motor-de-negocios-bilionarios-para-bancos-de-wall-street/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/ia-dinheiro-2-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-16T18:30:53+00:00"
-    },
-    {
-      "id": "fdcdbc9b728ff22d",
-      "title": "Roblox lança um recurso de criação de jogos com tecnologia de IA em seu aplicativo móvel",
-      "summary": "O novo recurso “Build” do Roblox permite que os usuários gerem jogos básicos usando um único prompt de texto.",
-      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-16T18:22:06+00:00"
-    },
-    {
-      "id": "a3342ffef64bb662",
-      "title": "Google muda nome do NotebookLM para Gemini Notebook",
-      "summary": "Google NotebookLM, serviço de IA que ajuda em estudos, foi rebatizado para Gemini Notebook para se alinhar ao principal serviço de inteligência artificial da empresa. Google muda…",
-      "link": "https://tecnoblog.net/noticias/google-muda-nome-do-notebooklm-para-gemini-notebook/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/gemini-notebook-app-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-16T18:12:04+00:00"
-    },
-    {
-      "id": "53a482aac826ad93",
-      "title": "Echo Dot em destaque: confira uma seleção de smart speakers com Alexa em promoção",
-      "summary": "Se você está pensando em dar um upgrade na sua casa inteligente ou presentear alguém com tecnologia de qualidade, esta é a hora certa. Reunimos três opções do Echo Dot — o popular…",
-      "link": "https://olhardigital.com.br/2026/07/16/reviews/echo-dot-em-destaque-confira-uma-selecao-de-smart-speakers-com-alexa-em-promocao/",
-      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-16T17:59:07+00:00"
-    },
-    {
-      "id": "751f7197efdef7a6",
-      "title": "Governadora de Nova York diz que está usando IA para analisar “cada regra” no estado",
-      "summary": "A governadora de Nova York, Kathy Hochul, pode ter acabado de assinar uma moratória sobre novos data centers de IA no estado, mas ela mesma não é contra o uso da tecnologia. Durante uma entrevista…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283395662.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-16T17:58:37+00:00"
-    },
-    {
-      "id": "0536aff3fdd969ee",
-      "title": "O Google renomeia NotebookLM como Gemini Notebook e abre seu aplicativo de pesquisa para integração de terceiros",
-      "summary": "O Google está renomeando NotebookLM para Gemini Notebook e integrando a ferramenta mais profundamente em seu ecossistema. Um novo recurso dá a cada notebook seu próprio computador em nuvem que pode escrever…",
-      "link": "https://the-decoder.com/google-rebrands-notebooklm-as-gemini-notebook-and-opens-its-search-app-to-third-party-integration/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/gemini_notebooklm.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-16T17:22:18+00:00"
-    },
-    {
-      "id": "72e48be068281dae",
-      "title": "Seu cargo está na mira da IA? Saiba as profissões mais expostas",
-      "summary": "Dados de 2026 revelam que a IA afeta cargos de alta qualificação – e também trava a entrada de jovens no mercado; entenda O post Seu cargo está na mira da IA? Saiba as profissões…",
-      "link": "https://olhardigital.com.br/2026/07/16/pro/saiba-as-profissoes-mais-expostas-a-ia-e-se-seu-cargo-esta-na-mira/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/09/robo_ia_trabalho-e1760099395217-1024x577.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-16T17:19:26+00:00"
     }
   ]
 }
