@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-07-18T19:01:38.900933+00:00",
+  "generated_at": "2026-07-19T02:34:40.014983+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "6950319ec4b8e935",
+      "title": "Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2: modelos MoE abertos em escala de trilhões comparados em benchmarks, licença e custo de serviço",
+      "summary": "Três carros-chefe abertos do MoE se enfrentam em inteligência medida, pesos MIT versus MIT modificados e custo real de serviço The post Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2: Open…",
+      "link": "https://www.marktechpost.com/2026/07/18/kimi-k3-vs-deepseek-v4-pro-vs-glm-5-2-open-trillion-scale-moe-models-compared-on-benchmarks-license-and-serving-cost/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-19T01:41:33+00:00"
+    },
+    {
+      "id": "9e43bf02d5ff1f07",
+      "title": "Ajustando Qwen3 com LoRA usando NVIDIA NeMo AutoModel: um tutorial completo de fluxo de trabalho do Google Colab com GPU única",
+      "summary": "Construímos um fluxo de trabalho NVIDIA NeMo AutoModel completo no Google Colab usando uma única GPU. Verificamos o hardware CUDA e o suporte de precisão, instalamos o NeMo AutoModel da fonte e…",
+      "link": "https://www.marktechpost.com/2026/07/18/fine-tuning-qwen3-with-lora-using-nvidia-nemo-automodel-a-complete-single-gpu-google-colab-workflow-tutorial/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-19T01:08:52+00:00"
+    },
+    {
+      "id": "864e6e0039d427d3",
+      "title": "Dave Eggers disse à equipe da OpenAI que ChatGPT estava ‘silenciando uma geração inteira’",
+      "summary": "No ano passado, Sam Altman convidou o autor Dave Eggers para dar uma palestra para cerca de 200 funcionários da OpenAI. O homem escreveu inúmeros romances, roteiros, peças jornalísticas, começou…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2157758001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-18T20:54:42+00:00"
+    },
+    {
+      "id": "352b5b7ebf5a011c",
+      "title": "Da panela elétrica ao comedouro de pet: 7 eletros geniais da Xiaomi que custam menos de R$ 1.500",
+      "summary": "A Xiaomi vai muito além do celular, e também investe em eletrodomésticos e d ispositivos para casa inteligente que prometem facilitar a rotina sem exigir um grande investimento…",
+      "link": "https://canaltech.com.br/eletro/da-panela-eletrica-ao-comedouro-de-pet-8-eletros-geniais-da-xiaomi-que-custam-menos-de-r-500/",
+      "image": "https://tl.ctcdn.com.br/niS-5_RxU6KVo3LTOSGUKsD1DyQ=/0x0/filters:format(webp):quality(85)/33f28e05-72a7-4adc-8c7b-610ff981205a.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-18T19:30:00+00:00"
+    },
+    {
+      "id": "d0f865c4b70e053a",
+      "title": "NVIDIA lança DeepStream 9.1: Trazendo Agentic AI para Vision AI com 13 habilidades e rastreamento 3D multivisualização",
+      "summary": "NVIDIA DeepStream 9.1 apresenta 13 habilidades de agente que permitem que agentes de codificação como Claude Code e Codex construam pipelines de análise de vídeo multicâmera a partir de prompts em linguagem natural…",
+      "link": "https://www.marktechpost.com/2026/07/18/nvidia-released-deepstream-9-1-bringing-agentic-ai-to-vision-ai-with-13-skills-and-multi-view-3d-tracking/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-18T19:16:22+00:00"
+    },
+    {
+      "id": "7255d7aeb529f1d7",
+      "title": "Como usar IA para acabar com o doomscrolling e \"curar\" vício digital",
+      "summary": "Se você abre as redes sociais para dar uma olhada nas notícias e, quando percebe, já passou vários minutos ou até horas rolando o feed, provavelmente já caiu no doomscrolling …",
+      "link": "https://canaltech.com.br/inteligencia-artificial/curar-doomscrolling-vicio-digital-com-ajuda-da-ia/",
+      "image": "https://tl.ctcdn.com.br/ORdlVnaPPO9BppWpuZEzCEr-1BQ=/0x0/filters:format(webp):quality(85)/958249bc-7c3b-4505-b578-3e60832c7634.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-18T19:03:00+00:00"
+    },
     {
       "id": "7fb9272d9d4cc818",
       "title": "Kimi: Ameaça ou ameaça?",
@@ -205,7 +271,7 @@
       "title": "Crie um operador de local de evento agente com MongoDB Atlas, Voyage e LangGraph",
       "summary": "Introdução Este tutorial começa onde a maioria das demonstrações do agente para: fornecendo ao agente memória persistente, contexto operacional e um local para escrever de volta o que aconteceu. Um operador de evento…",
       "link": "https://www.marktechpost.com/2026/07/17/build-an-agentic-event-venue-operator-with-mongodb-atlas-voyage-and-langgraph/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/image.png",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/image-150x150.png",
       "source": "MarkTechPost",
       "region": "mundo",
       "category": "Pesquisa",
@@ -925,72 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-07-16T17:06:08+00:00"
-    },
-    {
-      "id": "a14cfad875d4c858",
-      "title": "Nova IA da OpenAI se rebela e causa \"estrago\" por conta própria",
-      "summary": "O modelo GPT-5.6 Sol deletou arquivos de computadores e bases de dados sem pedir permissão , segundo relatos dos usuários. A situação ocorreu durante o uso do LLM, lançado na…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/nova-ia-da-open-ai-se-rebela-e-causa-estrago-por-conta-propria/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-16T17:04:00+00:00"
-    },
-    {
-      "id": "b8a6982f8130e975",
-      "title": "A plataforma de boletins informativos Beehiiv agora permite que os assinantes conversem entre si, adiciona IA",
-      "summary": "Beehiiv está lançando um AI Copilot para ajudar os editores com crescimento e análise de usuários.",
-      "link": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-16T17:00:00+00:00"
-    },
-    {
-      "id": "feb006e62e81dd8c",
-      "title": "A lacuna na avaliação dos agentes: as organizações empresariais de IA têm um problema de alinhamento com a realidade, não um problema de cobertura — e a maioria já está sendo enviada para produção de qualquer maneira",
-      "summary": "Em 157 empresas, as organizações estão concedendo mais autonomia aos agentes de IA, ao mesmo tempo que confiam menos nas avaliações destinadas a garantir essa autonomia. Metade já enviou um agente que…",
-      "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
-      "source": "VentureBeat",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-16T16:40:48+00:00"
-    },
-    {
-      "id": "8254f9b8714ece1a",
-      "title": "X reprime criadores que roubam conteúdo",
-      "summary": "X usará Grok AI para detectar melhor conteúdo roubado, redirecionar pagamentos aos criadores originais e reprimir iscas de engajamento.",
-      "link": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-16T16:40:36+00:00"
-    },
-    {
-      "id": "e6d2c6e140715eb0",
-      "title": "A Alemanha coloca as visões gerais e a perplexidade da IA ​​do Google sob a lei de mídia em uma decisão inédita",
-      "summary": "Os reguladores de mídia alemães dizem que as visões gerais de IA do Google são conteúdo do próprio Google, não resultados de pesquisa neutros, e que excluem links regulares. Os reguladores emitiram seu…",
-      "link": "https://the-decoder.com/germany-puts-googles-ai-overviews-and-perplexity-under-media-law-in-first-of-its-kind-ruling/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/google_ai_overviews_germany.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-16T16:12:26+00:00"
-    },
-    {
-      "id": "bff69f545ead4ee9",
-      "title": "Agência de viagens Fora, alimentada por IA, atinge status de unicórnio e arrecada US$ 60 milhões",
-      "summary": "A agência de viagens Fora anunciou uma rodada Série D de US$ 60 milhões liderada pela Forerunner e Tactile Ventures, avaliando a empresa em US$ 1 bilhão.",
-      "link": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-16T16:08:40+00:00"
     }
   ]
 }
