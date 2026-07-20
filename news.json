@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-07-20T08:55:34.402605+00:00",
+  "generated_at": "2026-07-20T14:02:11.965364+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "2a411e860ef9ffe4",
+      "title": "Polêmico Claude Fable 5 ganha regras de uso a partir de hoje; veja o que muda",
+      "summary": "A Anthropic começou a aplicar, nesta segunda-feira (20), as novas regras de uso do Claude Fable 5. A partir de agora, o modelo vai ter uma política de acesso definida para cada…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/polemico-claude-fable-5-ganha-regras-de-uso-a-partir-de-hoje-veja-o-que-muda/",
+      "image": "https://tl.ctcdn.com.br/qufiNUtOzv94gCRjANt5gFVbbjA=/0x0/filters:format(webp):quality(85)/0b4f9bd8-c96d-4169-ba9e-74bda377d923.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-20T13:31:00+00:00"
+    },
+    {
+      "id": "dcabdedcd142684e",
+      "title": "Como a IA ajuda terroristas a criarem bombas?",
+      "summary": "Mais do que fabricar armas, a tecnologia passou a ser explorada na radicalização, comunicação e preparação de estratégias violentas O post Como a IA ajuda terroristas a criarem…",
+      "link": "https://olhardigital.com.br/2026/07/20/inteligencia-artificial/como-a-ia-ajuda-terroristas-a-criarem-bombas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/linhas-de-cdigo-fonte-dados-arquitetura-software-programa-app-hacker-1024x684.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-20T13:21:40+00:00"
+    },
+    {
+      "id": "b4aba415f9d3838d",
+      "title": "Google Vids agora permite criar clone digital com sua própria voz e rosto",
+      "summary": "O Google anunciou novas funções para o Google Vids, sua ferramenta de criação de vídeos com inteligência artificial. A principal novidade é a chegada dos avatares personalizados …",
+      "link": "https://canaltech.com.br/inteligencia-artificial/google-vids-agora-permite-criar-clone-digital-com-sua-propria-voz-e-rosto/",
+      "image": "https://tl.ctcdn.com.br/pOhhxLsNWFBQCIVsCcRhG0WAF60=/0x0/filters:format(webp):quality(85)/3ea93c54-0054-4de1-8439-45e8c67e73e5.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-20T13:07:00+00:00"
+    },
+    {
+      "id": "52c53a8b3f9f7125",
+      "title": "Conheça a IA chinesa que deixa os Estados Unidos ansiosos",
+      "summary": "Lançamento do Kimi K3 supera expectativas, pressiona a infraestrutura da Moonshot e reforça a disputa tecnológica entre China e EUA O post Conheça a IA chinesa que deixa os…",
+      "link": "https://olhardigital.com.br/2026/07/20/inteligencia-artificial/conheca-a-ia-chinesa-que-deixa-os-estados-unidos-ansiosos/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/kimi-moonshot-inteligencia-artificial-ia-ai-china-2-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-20T12:45:12+00:00"
+    },
+    {
+      "id": "2a98692f3baab001",
+      "title": "Hugging Face diz que um agente de IA invadiu sua infraestrutura e usou IA para revidar",
+      "summary": "Hugging Face relata um ataque a partes de sua infraestrutura de produção que supostamente foi realizado inteiramente por um sistema de agente autônomo de IA. O ataque abrangeu milhares de…",
+      "link": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/hugging_face_security.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-20T12:12:47+00:00"
+    },
+    {
+      "id": "f9b4e1cf325c2db4",
+      "title": "Além do grep: o caso de um equipamento de codificação de IA rico em contexto",
+      "summary": "Vinay Perneti, do Augment Code, fala sobre modelos, equipamentos e contexto.",
+      "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Vinay-Perneti-500x500-1784313873.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-20T11:20:10+00:00"
+    },
+    {
+      "id": "28429de772d3a99f",
+      "title": "China dá um golpe duplo no domínio da IA ​​​​dos EUA",
+      "summary": "As principais empresas de IA da China estão aumentando a pressão sobre o Vale do Silício, à medida que Moonshot e Alibaba revelam modelos que afirmam poder enfrentar o melhor do OpenAI e…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-20T10:16:33+00:00"
+    },
+    {
+      "id": "35a1b28301c09202",
+      "title": "A IA tem mais probabilidade do que os humanos de formar preconceitos ao contratar",
+      "summary": "Na próxima vez que você se candidatar a um emprego, a IA poderá examinar seu currículo antes que qualquer ser humano o veja. Mas há boas razões para questionar se a IA irá julgá-lo de forma justa. Os pesquisadores já…",
+      "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-20T08:39:01+00:00"
+    },
     {
       "id": "175a47a68873e7c7",
       "title": "Moonshot pausa novas assinaturas do Kimi K3 depois que a demanda da GPU atinge o máximo em 48 horas",
@@ -903,94 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-17T11:12:47+00:00"
-    },
-    {
-      "id": "7a3016821f09e92a",
-      "title": "Energia solar e armazenamento podem definir o futuro dos data centers de IA",
-      "summary": "*Por Daniel Lopes A inteligência artificial deixou de ser apenas uma inovação tecnológica para se tornar uma das principais forças de transformação da economia global. À medida…",
-      "link": "https://canaltech.com.br/mercado/energia-solar-e-armazenamento-a-combinacao-que-pode-definir-o-futuro-dos-data-centers-movidos-por-ia/",
-      "image": "https://tl.ctcdn.com.br/hvq-bHbmejuDBpfo6P78xSzHsqk=/0x0/filters:format(webp):quality(85)/b41c9375-8771-443d-81a6-47034cb29bc2.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T11:00:00+00:00"
-    },
-    {
-      "id": "c5c5248230951857",
-      "title": "Um scorecard para a era da IA",
-      "summary": "Sarah Friar, CFO da OpenaAI, apresenta um scorecard prático de IA para medir o ROI por meio de trabalho útil, custo por tarefa bem-sucedida, confiabilidade e retorno da computação.",
-      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-17T10:00:00+00:00"
-    },
-    {
-      "id": "9e7db13d70e8e0fa",
-      "title": "O risco de sabotagem de dados meteorológicos está aumentando",
-      "summary": "Todas as manhãs, despachantes de companhias aéreas, operadores de rede e agricultores de todo o mundo tomam decisões com base na mesma coisa: a previsão do tempo. Embora essas previsões sejam algo ...",
-      "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-17T08:57:32+00:00"
-    },
-    {
-      "id": "86d41738a0bea10d",
-      "title": "As 300 produções de IA da Netflix mostram quão rápido a tecnologia está se espalhando pelo entretenimento",
-      "summary": "A Netflix agora usa IA em cerca de 300 produções, principalmente na pós-produção. O co-CEO Ted Sarandos colocou números específicos no esforço: a série documental \"The American Experiment\" inclui…",
-      "link": "https://the-decoder.com/netflixs-300-ai-productions-show-how-fast-the-technology-is-spreading-through-entertainment/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/netflix_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-17T08:53:31+00:00"
-    },
-    {
-      "id": "9b9514189cb93ce6",
-      "title": "NVIDIA AI lança Nemotron 3 Embed: uma coleção de incorporação aberta cujo ponto de verificação 8B ocupa o primeiro lugar na RTEB",
-      "summary": "A NVIDIA lançou o Nemotron 3 Embed em 15 e 16 de julho de 2026. A coleção tem três pontos de verificação abertos: Nemotron-3-Embed-8B-BF16, Nemotron-3-Embed-1B-BF16 e…",
-      "link": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-17T07:53:02+00:00"
-    },
-    {
-      "id": "fa86b7a64ff6bd71",
-      "title": "Os deepfakes ficaram muito melhores; cientistas respondem com nova IA",
-      "summary": "A abordagem deixa de procurar imperfeições visuais e passa a analisar se expressões faciais correspondem naturalmente à fala da pessoa O post Os deepfakes ficaram muito melhores…",
-      "link": "https://olhardigital.com.br/2026/07/16/inteligencia-artificial/os-deepfakes-ficaram-muito-melhores-cientistas-respondem-com-nova-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/analise_movimentos_faciais-904x1024.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T01:53:51+00:00"
-    },
-    {
-      "id": "b8dd36cee1b81ac7",
-      "title": "Tombo da IBM: confira bastidores do pior dia da história da empresa",
-      "summary": "Ações da companhia despencaram 25%, refletindo preocupação dos investidores com impactos da rápida transformação provocada pela IA sobre os negócios da empresa centenária O post…",
-      "link": "https://olhardigital.com.br/2026/07/16/pro/tombo-da-ibm-confira-bastidores-do-pior-dia-da-historia-da-empresa/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T01:05:30+00:00"
-    },
-    {
-      "id": "460949ae93a7c3e7",
-      "title": "Seu Direito Digital: IA pode decidir quem será demitido?",
-      "summary": "Acusações contra a meta reacendem o debate sobre os limites jurídicos e morais da inteligência artificial em empresas O post Seu Direito Digital: IA pode decidir quem será…",
-      "link": "https://olhardigital.com.br/2026/07/16/pro/seu-direito-digital-ia-pode-decidir-quem-sera-demitido/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T00:54:16+00:00"
     }
   ]
 }
