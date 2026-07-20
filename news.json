@@ -1,7 +1,194 @@
 {
-  "generated_at": "2026-07-20T14:02:11.965364+00:00",
+  "generated_at": "2026-07-20T19:42:28.730795+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "f43c3eb424ffaf32",
+      "title": "OpenAI tem medo de modelos abertos. Os EUA deveriam estar?",
+      "summary": "Falar sobre a proibição de LLMs abertos fabricados na China revela o desafio de transformar a IA em um negócio.",
+      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-20T19:33:25+00:00"
+    },
+    {
+      "id": "cf3c8dfd6c45ed29",
+      "title": "Natural levanta US$ 30 milhões para reinventar pagamentos para agentes de IA – e enfrentar Stripe",
+      "summary": "A startup com um ano de existência pretende reinventar a arquitetura financeira para transações autônomas de IA.",
+      "link": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-20T19:11:25+00:00"
+    },
+    {
+      "id": "3a08deb921a6bf96",
+      "title": "Ghost Font: entenda por que as IAs não conseguem ler esta fonte",
+      "summary": "As IAs conseguem ler, analisar e extrair dados de praticamente toda a internet, mas o designer Eric Lu criou uma alternativa contra a tecnologia: a Ghost Font , uma fonte de…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/ghost-font-entenda-por-que-as-ias-nao-conseguem-ler-esta-fonte/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-20T19:11:00+00:00"
+    },
+    {
+      "id": "21d9a2394ca30e8d",
+      "title": "Imprima com economia: selecionamos as melhores impressoras em promoção na Amazon",
+      "summary": "Se você está pensando em renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções de impressoras multifuncionais em oferta na…",
+      "link": "https://olhardigital.com.br/2026/07/20/reviews/imprima-com-economia-selecionamos-as-melhores-impressoras-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-20T18:40:00+00:00"
+    },
+    {
+      "id": "a524e3f7a5a28518",
+      "title": "O chip “Frozen v2” do Google supostamente transforma a arquitetura do Gemini diretamente em silício para ganhos de eficiência",
+      "summary": "O Google está desenvolvendo o “Frozen v2”, um chip de servidor que incorpora a arquitetura Gemini diretamente no hardware. Segundo fontes internas, poderia ser 6 a 10 vezes mais eficiente…",
+      "link": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-20T18:08:33+00:00"
+    },
+    {
+      "id": "8be5752a7fada571",
+      "title": "Os modelos de IA da China colocam o mundo da IA ​​de Trump em guerra consigo mesmo",
+      "summary": "Esta história apareceu originalmente em The Algorithm, nosso boletim informativo semanal sobre IA. Para receber histórias como essa em sua caixa de entrada primeiro, inscreva-se aqui. No fim de semana, vários atuais e…",
+      "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-20T18:00:00+00:00"
+    },
+    {
+      "id": "6d874cda7d88aff7",
+      "title": "O diretor do Distrito 9, Neill Blomkamp, ​​lança o primeiro curta-metragem feito inteiramente com geração de vídeo de IA",
+      "summary": "O diretor de “Distrito 9”, Neill Blomkamp, ​​lançou “Nightborne”, um curta de terror de ficção científica de 13 minutos gerado inteiramente com o modelo de vídeo Seedance 2.0. Quadro dirigido por Blomkamp por…",
+      "link": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/NIGHTBORNE-—-A-Neill-Blomkamp-Sci-Fi-Film.-Fully-AI-4K-10-40-screenshot-scaled.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-20T17:32:41+00:00"
+    },
+    {
+      "id": "89738b425b19c157",
+      "title": "EUA consideram coibir uso de modelos de IA chineses, diz site",
+      "summary": "Fontes ouvidas por reportagem afirmam que tema ganhou força recentemente e pode levar a medidas contra empresas americanas. EUA consideram coibir uso de modelos de IA chineses…",
+      "link": "https://tecnoblog.net/noticias/eua-consideram-coibir-uso-de-modelos-de-ia-chineses-diz-site/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/ia-4-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-20T17:12:11+00:00"
+    },
+    {
+      "id": "afde641c52b3057b",
+      "title": "O controle da Nvidia sobre os chips de IA enfraquece à medida que a Microsoft se volta para a AMD e a Anthropic pode seguir",
+      "summary": "A Microsoft está expandindo a infraestrutura de IA do Azure com a nova plataforma Helios da AMD, que deverá desafiar os sistemas GPU da Nvidia no segundo semestre de 2026. Um perfil público do GitHub…",
+      "link": "https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/amd_logo_wall_blue.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-20T16:44:30+00:00"
+    },
+    {
+      "id": "a2a1ce72b9e01b59",
+      "title": "Espionagem? Apple começa a usar IA para gravar atendimento em lojas",
+      "summary": "A Apple iniciou um teste interno chamado “Live Notes” que usa inteligência artificial para transcrever e resumir conversas realizadas no Genius Bar , serviço de suporte técnico…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/espionagem-apple-comeca-a-usar-ia-para-gravar-atendimento-em-lojas/",
+      "image": "https://tl.ctcdn.com.br/bLnKqm4_60n9svq1XG2wmoJ1ewk=/0x0/filters:format(webp):quality(85)/d1039ad3-4c34-44c9-af15-913279ffed69.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-20T16:05:00+00:00"
+    },
+    {
+      "id": "d8893f7bb4db22db",
+      "title": "O aplicativo de câmera de ‘aparência natural’ da Adobe adota IA generativa",
+      "summary": "O aplicativo de câmera experimental da Adobe tomou um rumo inesperado. Depois que o Projeto Indigo foi lançado no ano passado para fornecer uma \"aparência mais natural (semelhante a uma SLR)\" para a fotografia do iPhone, o…",
+      "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-20T16:00:00+00:00"
+    },
+    {
+      "id": "46d88c24f24cd938",
+      "title": "Apresentando o Cosmos 3 Edge",
+      "summary": "",
+      "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-20T15:58:51+00:00"
+    },
+    {
+      "id": "9dadea69d5264d66",
+      "title": "O novo recurso do aplicativo de câmera da Adobe irá criticar suas fotos usando IA",
+      "summary": "O Project Indigo da Adobe agora pode remover todos os tipos de planos de fundo das fotos tiradas usando o aplicativo.",
+      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-20T15:45:00+00:00"
+    },
+    {
+      "id": "c67582879d323662",
+      "title": "O YouTube esclarece políticas sobre falhas de IA e vídeos perturbadores",
+      "summary": "O YouTube atualizou suas políticas de monetização para definir mais claramente os tipos de vídeos gerados por IA e de baixa qualidade que não podem gerar receita publicitária.",
+      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-20T15:23:06+00:00"
+    },
+    {
+      "id": "fe9df758c254a64e",
+      "title": "A startup de inferência Infinity levanta US$ 15 milhões da Touring Capital, OpenAI e pesquisadores da Anthropic",
+      "summary": "A empresa de infraestrutura de IA Infinity anunciou na segunda-feira um aumento de US$ 15 milhões com uma avaliação de US$ 100 milhões de investidores, incluindo Touring Capital, Principal VC e pesquisadores de…",
+      "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-20T15:15:00+00:00"
+    },
+    {
+      "id": "22ac81b3829f9757",
+      "title": "Galaxy Buds Core atinge menor preço que já divulgamos com 47% OFF",
+      "summary": "Galaxy Buds Core com ANC e recursos de IA atingem desconto de 47% no Pix com cupom em oferta interessante para o Dia dos Pais 2026 Galaxy Buds Core atinge menor preço que já…",
+      "link": "https://tecnoblog.net/achados/galaxy-buds-core-atinge-menor-preco-que-ja-divulgamos-com-47-off/",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/07/samsung-galaxy-buds-core-achados-dia-dos-pais-1060x596.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-20T14:08:31+00:00"
+    },
+    {
+      "id": "d39c6e515581a10b",
+      "title": "A administração Trump supostamente constrói uma proibição em câmera lenta dos modelos chineses de IA por meio de sanções e pressão suave",
+      "summary": "A administração Trump está supostamente avaliando medidas visando modelos chineses de IA, desde adicionar laboratórios chineses a listas de sanções até responsabilizar empresas dos EUA pela segurança…",
+      "link": "https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/05/china_vs_usa_race.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-20T14:03:53+00:00"
+    },
     {
       "id": "2a411e860ef9ffe4",
       "title": "Polêmico Claude Fable 5 ganha regras de uso a partir de hoje; veja o que muda",
@@ -78,6 +265,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-20T10:16:33+00:00"
+    },
+    {
+      "id": "a5ab872c216c2f94",
+      "title": "Segurança e alinhamento numa era de modelos de longo horizonte",
+      "summary": "A OpenAI compartilha lições da implantação de modelos de IA de longa duração, destacando novos riscos de segurança, falhas observadas e melhores proteções por meio de implantação iterativa.",
+      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-20T10:00:00+00:00"
     },
     {
       "id": "35a1b28301c09202",
@@ -793,204 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-17T18:06:29+00:00"
-    },
-    {
-      "id": "cdf496f4c5aa5a13",
-      "title": "OpenAI lança versão do ChatGPT especialista em hackear sistemas",
-      "summary": "A equipe de segurança da OpenAI apresentou o GPT-Red na última quarta-feira (15). O modelo de IA tem o objetivo de executar práticas de red-teaming , processo em que uma equipe…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/open-ai-lanca-versao-do-chat-gpt-especialista-em-hackear-sistemas/",
-      "image": "https://tl.ctcdn.com.br/u_rymEn3CMaz8usUaMOKb7FHm5w=/0x0/filters:format(webp):quality(85)/aacba550-1bf8-463c-bf79-fb9d2277a0d9.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T18:02:00+00:00"
-    },
-    {
-      "id": "9cf21b8cc9d27bef",
-      "title": "Como o grande processo da Apple poderia atrapalhar os planos de IPO da OpenAI",
-      "summary": "A Apple entrou com um processo de segredos comerciais contra a OpenAI na última sexta-feira, e não está brincando. A reclamação alega um padrão de má conduta que chega até a OpenAI…",
-      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-17T17:45:46+00:00"
-    },
-    {
-      "id": "c96da0c277b129d7",
-      "title": "O plano da Apple para esmagar o OpenAI",
-      "summary": "A Apple está processando a OpenAI. A reclamação é legível e intensa, como muitas vezes acontece com essas coisas, embora muitos especialistas pareçam pensar que muitas das alegações são apenas como as coisas são…",
-      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_071626_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-17T17:41:32+00:00"
-    },
-    {
-      "id": "4870658347a38d76",
-      "title": "Jovem cria aplicativo com IA capaz de traduzir Libras em tempo real",
-      "summary": "Software permite aprender sinais, colaborar com novos dados e aproximar usuários de Libras em diferentes ambientes sociais O post Jovem cria aplicativo com IA capaz de traduzir…",
-      "link": "https://olhardigital.com.br/2026/07/17/internet-e-redes-sociais/jovem-cria-aplicativo-com-ia-capaz-de-traduzir-libras-em-tempo-real/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/app-Aprenda-Libras_Jovem-cria-aplicativo-com-IA-capaz-de-traduzir-Libras-em-tempo-real2-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T17:28:57+00:00"
-    },
-    {
-      "id": "b8274e0f629200d9",
-      "title": "Instagram vai alertar pais se filhos discutirem crises com a IA",
-      "summary": "A Meta anunciou que vai informar pais e mães se os filhos menores de idade conversarem sobre temas sensíveis com a Meta AI , incluindo suicídio e automutilação. A medida vale para…",
-      "link": "https://canaltech.com.br/apps/instagram-vai-alertar-pais-se-filhos-discutirem-crises-com-a-ia/",
-      "image": "https://tl.ctcdn.com.br/PJFs17sGbNhGHymdvp5ehE51ib8=/0x0/filters:format(webp):quality(85)/09877ae5-b363-4d39-9097-1a1cc715513a.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T17:03:00+00:00"
-    },
-    {
-      "id": "ea415e3f7b41f013",
-      "title": "Melhor smartwatch Xiaomi: qual relógio comprar em 2026?",
-      "summary": "Encontre o melhor relógio inteligente da Xiaomi para monitorar treinos, saúde e ver notificações; lista reúne smartwatches com NFC, bateria duradoura e resistência à água Melhor…",
-      "link": "https://tecnoblog.net/guias/melhor-smartwatch-xiaomi/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/redmi-watch-5-active-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T16:15:12+00:00"
-    },
-    {
-      "id": "160a77853eb76a75",
-      "title": "São Francisco ordena que Apple e Google removam aplicativos de nudificação das lojas de aplicativos",
-      "summary": "Estimativas oficiais que o Google e a Apple provavelmente ganharam milhões em taxas de aplicativos de nudificação.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2216100332-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-17T16:10:05+00:00"
-    },
-    {
-      "id": "3e7cb6b73af10705",
-      "title": "Google testa painel para você acabar de vez com voz robótica do Gemini",
-      "summary": "O Google está desenvolvendo um painel de personalização de voz para o Gemini , que deve permitir ajustar quatro parâmetros do assistente de IA: velocidade, energia, cordialidade e…",
-      "link": "https://canaltech.com.br/apps/google-testa-painel-para-voce-acabar-de-vez-com-voz-robotica-do-gemini/",
-      "image": "https://tl.ctcdn.com.br/2EyuqhmZaLK-QAejIMGN0_3cdSw=/0x0/filters:format(webp):quality(85)/895b88d2-a897-4e5e-9b32-b24dbcb48fb2.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T16:00:00+00:00"
-    },
-    {
-      "id": "d9b2b6a45e1f9f2c",
-      "title": "Ajuste modelos de vídeo e imagem em escala com NVIDIA NeMo Automodel e 🤗 Difusores",
-      "summary": "",
-      "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-17T15:57:54+00:00"
-    },
-    {
-      "id": "f4b489ce2fdadba0",
-      "title": "Patreon para de pedir aos bots de IA para não rasparem – e começa a bloqueá-los",
-      "summary": "O Patreon está fortalecendo suas defesas contra a raspagem de IA trabalhando com a Cloudflare para bloquear bots que treinam modelos de IA no conteúdo dos criadores sem permissão. A medida marca um…",
-      "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-17T15:21:17+00:00"
-    },
-    {
-      "id": "99addd30aa5f7bac",
-      "title": "Google mata o NotebookLM e dá novo nome à ferramenta; veja como ele se chamará",
-      "summary": "O Google anunciou que o NotebookLM agora se chama Gemini Notebook . Apresentado no Google I/O de 2023 com o nome de Project Tailwind, a empresa ressalta que o objetivo inicial e…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/google-mata-o-notebook-lm-e-da-novo-nome-a-ferramenta-veja-como-ele-se-chamara/",
-      "image": "https://tl.ctcdn.com.br/aNoxLK2HygLmbL_wQ6jn3yS5-14=/0x0/filters:format(webp):quality(85)/a2754d1c-f100-49c9-8370-372612b6b312.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T15:11:00+00:00"
-    },
-    {
-      "id": "410ed107601cb822",
-      "title": "Nenhum produto? Sem problemas. Esta sessão do Disrupt 2026 mostra como obter financiamento pré-semente com convicção e narrativa",
-      "summary": "Não é só você: as startups de IA estão recebendo uma enorme quantidade de financiamento inicial e, no processo, dificultando as coisas para quem procura financiamento, mesmo em um estágio de pré-lançamento. Nós temos…",
-      "link": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-17T14:30:00+00:00"
-    },
-    {
-      "id": "f29e52dda2f06e65",
-      "title": "Brasil se junta a 28 países em acordo internacional de inteligência artificial",
-      "summary": "Encontro na China oficializa organização para garantir um desenvolvimento ético da IA. Governo fala ainda em aplicação “orientada ao ser humano”. Brasil se junta a 28 países em…",
-      "link": "https://tecnoblog.net/noticias/brasil-se-junta-a-28-paises-em-acordo-internacional-de-inteligencia-artificial/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/img_1649-edited-340x191.webp",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T12:50:24+00:00"
-    },
-    {
-      "id": "f486ca0331030fc4",
-      "title": "China lança ofensiva de IA aberta para enfrentar gigantes dos EUA",
-      "summary": "China apresenta estratégia para liderar a inteligência artificial com modelos abertos e desafiar o domínio tecnológico dos Estados Unidos O post China lança ofensiva de IA aberta…",
-      "link": "https://olhardigital.com.br/2026/07/17/inteligencia-artificial/china-lanca-ofensiva-de-ia-aberta-para-enfrentar-gigantes-dos-eua/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/crianca-estudando-aprendendo-com-inteligencia-artificial-ia-sem-professor-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T12:13:19+00:00"
-    },
-    {
-      "id": "c8dcba6294638c76",
-      "title": "Netflix já usa IA generativa em centenas de filmes e séries",
-      "summary": "A Netflix já empregou fluxos de inteligência artificial generativa em cerca de 300 títulos em 2026 . O número foi revelado nesta quinta-feira (16), durante a apresentação dos…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/netflix-ja-usa-ia-generativa-em-centenas-de-filmes-e-series/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T12:10:10+00:00"
-    },
-    {
-      "id": "2d967e0fdfd00a36",
-      "title": "Por que os primeiros financiadores de GPU estão recorrendo a chips de inferência em um negócio de US$ 400 milhões",
-      "summary": "Um empréstimo garantido por chip de US$ 400 milhões aponta para a próxima onda de negócios de infraestrutura de IA.",
-      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-17T12:00:00+00:00"
-    },
-    {
-      "id": "62daed3dd663056a",
-      "title": "Hora de renovar a sala: Samsung traz NEO QLED e OLED 4K com tecnologia Vision AI em oferta na Amazon",
-      "summary": "Se você está pensando em trocar a televisão, este é o momento certo. A Amazon reuniu uma seleção de TVs Samsung com tecnologia Vision AI — linha lançada em 2025 — incluindo…",
-      "link": "https://olhardigital.com.br/2026/07/17/reviews/hora-de-renovar-a-sala-samsung-traz-neo-qled-e-oled-4k-com-tecnologia-vision-ai-em-oferta-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/41BopBIghwL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T11:20:00+00:00"
-    },
-    {
-      "id": "6b94b7d558845d9c",
-      "title": "Linus Torvalds diz aos críticos de IA na comunidade do kernel Linux para desistirem",
-      "summary": "O criador do Linux, Linus Torvalds, se manifestou fortemente a favor das ferramentas de IA no desenvolvimento do kernel. “Linux não é um daqueles projetos anti-IA”, escreveu ele na lista de discussão do kernel…",
-      "link": "https://the-decoder.com/linus-torvalds-tells-ai-critics-in-the-linux-kernel-community-to-fork-off/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/linux.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-17T11:12:47+00:00"
     }
   ]
 }
