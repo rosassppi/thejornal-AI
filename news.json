@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-07-19T19:04:02.057991+00:00",
+  "generated_at": "2026-07-20T03:40:26.805524+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "e7d816959a5ff637",
+      "title": "Alguém ajustou o MiniCPM5-1B do OpenBMB em Claude Fable 5 Traces para enviar um modelo de pensamento local de 657 MB",
+      "summary": "Um desenvolvedor da comunidade ajustou o MiniCPM5-1B do OpenBMB em Claude Fable 5 rastreando um modelo 1B que roda totalmente local - uma compilação menor de 657 MB, contexto de 128K e visível…",
+      "link": "https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-20T01:56:50+00:00"
+    },
+    {
+      "id": "6774198e3cc6931e",
+      "title": "Os melhores LLMs locais que você pode executar em uma única GPU de 24 GB em 2026: Qwen, Gemma, Mistral, DeepSeek comparados",
+      "summary": "Uma única GPU de 24 GB é o piso prático para inferências locais sérias. Este guia compara seis modelos abertos que cabem em uma placa em Q4_K_M. Abrange Qwen3.6, Gemma 4, Mistral…",
+      "link": "https://www.marktechpost.com/2026/07/19/best-local-llms-you-can-run-on-a-single-24gb-gpu-in-2026-qwen-gemma-mistral-deepseek-compared/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-20T01:18:46+00:00"
+    },
+    {
+      "id": "01078e7ef87ab593",
+      "title": "Feyn AI lança SQRL, uma família de modelos de texto para SQL que inspeciona o banco de dados antes de escrever uma consulta",
+      "summary": "A Feyn Labs lançou o SQRL, uma família de modelos de texto para SQL que inspeciona um banco de dados com testes somente leitura antes de realizar uma consulta. O carro-chefe SQRL-35B-A3B relata 70,6%…",
+      "link": "https://www.marktechpost.com/2026/07/19/feyn-ai-releases-sqrl-a-text-to-sql-model-family-that-inspects-the-database-before-writing-a-query/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-19T22:20:23+00:00"
+    },
+    {
+      "id": "8f16a45e852fe438",
+      "title": "A Netflix pagou US$ 587 milhões pela startup de cinema de IA de Ben Affleck",
+      "summary": "A Netflix revelou que pagou US$ 587 milhões em dinheiro pela InterPositive, startup cofundada por Ben Affleck.",
+      "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-19T21:45:00+00:00"
+    },
+    {
+      "id": "44f8efcbcab4b68b",
+      "title": "Alibaba apresenta Qwen3.8-Max, um modelo multimodal de 2,4 trilhões de parâmetros, dias após o lançamento do Kimi K3 Open-Weight da Moonshot",
+      "summary": "A equipe Qwen do Alibaba apresentou uma prévia do Qwen3.8-Max-Preview, um modelo MoE multimodal de 2,4 trilhões de parâmetros que ele chama de “perdendo apenas para Fable 5”. A prévia está ao vivo no Token Plan, Qoder e…",
+      "link": "https://www.marktechpost.com/2026/07/19/alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multimodal-model-days-after-moonshots-kimi-k3-open-weight-launch/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-19T21:42:50+00:00"
+    },
+    {
+      "id": "0aba2be743cd52af",
+      "title": "Um processo da Apple pode atrapalhar os planos de hardware da OpenAI?",
+      "summary": "No último episódio de Equity, debatemos se o processo da Apple irá lançar sobre os planos muito discutidos da OpenAi de entrar no mercado de hardware e abrir o capital.",
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-19T19:24:45+00:00"
+    },
+    {
+      "id": "49a9d9864b25a46e",
+      "title": "5 prompts para planejar suas férias com o ChatGPT",
+      "summary": "Planejar as férias costuma ser a parte menos divertida da viagem . Pode dar trabalho definir um roteiro, escolher quais atrações visitar e organizar os dias, principalmente em…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/prompts-chatgpt-para-planejar-ferias/",
+      "image": "https://tl.ctcdn.com.br/cdlPlMjYm4kW5Pa1kMw6ZVGVOLE=/0x0/filters:format(webp):quality(85)/f25244cd-734f-485a-80fb-56254b2f14e7.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-19T19:15:00+00:00"
+    },
     {
       "id": "cd9096ec11d28cca",
       "title": "Hora de imprimir com economia: veja uma seleção de impressoras em promoção na Amazon",
@@ -914,83 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-07-16T23:47:05+00:00"
-    },
-    {
-      "id": "febba92f12aec322",
-      "title": "Pequenas e médias empresas veem PCs com IA como arma contra grandes rivais",
-      "summary": "A adoção de IA no meio corporativo tem crescido e se tornado algo estratégico para a expansão de negócios. Segundo levantamento da ASUS Business, 80% das pequenas e médias…",
-      "link": "https://canaltech.com.br/notebook/pequenas-empresas-veem-pcs-com-ia-como-arma-contra-grandes-rivais-revela-estudo/",
-      "image": "https://tl.ctcdn.com.br/2r-KvSs64k5AnhXJj0xRPR9_cQY=/0x0/filters:format(webp):quality(85)/2cd09da0-83d0-4112-9bab-087d778b1004.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-16T22:14:00+00:00"
-    },
-    {
-      "id": "000a4addd3eb00ba",
-      "title": "Galaxy Watch Ultra cai 65% em oferta antes do lançamento do Watch Ultra 2",
-      "summary": "Galaxy Watch Ultra, smartwatch topo de linha da Samsung, traz sensores avançados, suporte ao Galaxy AI e bateria de até 100 horas Galaxy Watch Ultra cai 65% em oferta antes do…",
-      "link": "https://tecnoblog.net/achados/galaxy-watch-ultra-chega-a-cair-65-em-oferta-com-anuncio-proximo-do-ultra-2/",
-      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/07/galaxy-watch-ultra-super-desconto-1060x596.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-16T22:05:27+00:00"
-    },
-    {
-      "id": "714a3c524f203e9b",
-      "title": "É oficial: a UE forçará o Google a compartilhar dados de pesquisa e abrir a IA no Android",
-      "summary": "O Google afirma que essas mudanças podem colocar em risco a privacidade e a segurança do usuário.",
-      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/europe-flag-digital-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-16T20:41:45+00:00"
-    },
-    {
-      "id": "368a3dfa05d78a0d",
-      "title": "xAI não pode mais negar que Grok faz CSAM. Então, está processando os usuários.",
-      "summary": "A xAI de Elon Musk abre o primeiro processo contra o usuário Grok acusado de fazer imagens de sexo infantil.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2233914428-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-16T20:26:23+00:00"
-    },
-    {
-      "id": "7c4ec74e93c140ae",
-      "title": "O medo de robôs humanóides estimula trabalhadores humanos a fazer greve na fábrica de automóveis Hyundai",
-      "summary": "A Hyundai pretende implantar 25.000 robôs Atlas começando nas fábricas dos EUA em 2028.",
-      "link": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-3.12.16-PM-500x500.png",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-16T20:09:48+00:00"
-    },
-    {
-      "id": "49fce60a2ede44ab",
-      "title": "O Founders Fund contrata o ex-executivo da OpenAI Ryan Beiermeister (e não por causa de suas habilidades de ‘máfia’)",
-      "summary": "Ryan Beiermeister, que demonstrou análises interessantes na série \"Mafia\" do YouTube do Founders Fund, juntou-se à empresa como sócio.",
-      "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-16T20:07:14+00:00"
-    },
-    {
-      "id": "a09556a3f4fde31e",
-      "title": "Google testa assistente de IA integrado ao GPS para sugerir \"caminhos bonitos\"",
-      "summary": "O Google está testando uma nova funcionalidade do assistente de inteligência artificial “Pergunte ao Maps” que aparece diretamente na tela de rotas do Google Maps. Em vez de abrir…",
-      "link": "https://canaltech.com.br/apps/google-testa-assistente-de-ia-integrado-ao-gps-para-sugerir-caminhos-bonitos/",
-      "image": "https://tl.ctcdn.com.br/APVjBorwdTpRxGvIddu-Eveq5Mo=/0x0/filters:format(webp):quality(85)/87f174f5-7ec0-4b6d-93d4-70845cffc2b9.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-16T20:00:00+00:00"
     }
   ]
 }
