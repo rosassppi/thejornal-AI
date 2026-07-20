@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-20T03:40:26.805524+00:00",
+  "generated_at": "2026-07-20T08:55:34.402605+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "175a47a68873e7c7",
+      "title": "Moonshot pausa novas assinaturas do Kimi K3 depois que a demanda da GPU atinge o máximo em 48 horas",
+      "summary": "Moonshot parou temporariamente de vender novas assinaturas para seu modelo Kimi K3, já que a demanda quase atingiu o limite de sua capacidade de GPU em 48 horas. A empresa planeja dividir seu…",
+      "link": "https://the-decoder.com/moonshot-pauses-new-kimi-k3-subscriptions-after-gpu-demand-maxes-out-in-48-hours/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/kimi_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-20T07:55:09+00:00"
+    },
     {
       "id": "e7d816959a5ff637",
       "title": "Alguém ajustou o MiniCPM5-1B do OpenBMB em Claude Fable 5 Traces para enviar um modelo de pensamento local de 657 MB",
@@ -980,17 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-17T00:54:16+00:00"
-    },
-    {
-      "id": "fa6a6bc34bb5485c",
-      "title": "Moonshot AI lança Kimi K3: um modelo MoE aberto de 2,8 trilhões de parâmetros com atenção Kimi Delta e contexto de 1 milhão",
-      "summary": "Moonshot AI lançou Kimi K3 em 16 de julho de 2026. É um modelo MoE aberto de 2,8 trilhões de parâmetros construído em Kimi Delta Attention e Attention Residuals, ativando 16 de 896 especialistas…",
-      "link": "https://www.marktechpost.com/2026/07/16/moonshot-ai-releases-kimi-k3-a-2-8-trillion-parameter-open-moe-model-with-kimi-delta-attention-and-1m-context/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-4.30.39-PM-1.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-16T23:47:05+00:00"
     }
   ]
 }
