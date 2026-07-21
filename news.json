@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-07-20T19:42:28.730795+00:00",
+  "generated_at": "2026-07-21T02:32:09.704872+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "f200c3551b6d8af8",
+      "title": "Confira o Olhar Digital News na íntegra (20/07/2026)",
+      "summary": "“Frozen v2”, o chip secreto do Google que busca aumentar a eficiência do Gemini. Saiba mais no Olhar Digital News! O post Confira o Olhar Digital News na íntegra (20/07/2026)…",
+      "link": "https://olhardigital.com.br/2026/07/20/videos/confira-o-olhar-digital-news-na-integra-20-07-2026/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-21T01:01:22+00:00"
+    },
+    {
+      "id": "6f587fe95d6b5fb3",
+      "title": "O acordo histórico de direitos autorais de US$ 1,5 bilhão da Anthropic é aprovado",
+      "summary": "A aprovação final resolve um caso, mas não resolve a questão mais ampla do uso de obras protegidas por direitos autorais para treinar modelos de IA.",
+      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-21T00:12:24+00:00"
+    },
+    {
+      "id": "1c97dcf5db74db1a",
+      "title": "Nova tecnologia te deixa comandar robôs com o pensamento",
+      "summary": "Tecnologia foi demonstrada durante a Conferência Mundial de Inteligência Artificial (WAIC, na sigla em inglês) de 2026, realizada em Xangai (China) O post Nova tecnologia te deixa…",
+      "link": "https://olhardigital.com.br/2026/07/20/robotica/nova-tecnologia-te-deixa-comandar-robos-com-o-pensamento/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/robo_pensamento_21-1024x518.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-21T00:00:43+00:00"
+    },
+    {
+      "id": "b326d4a178ed2f55",
+      "title": "Anthropic: Justiça dos EUA confirma acordo para fim de processo por direitos autorais",
+      "summary": "Decisão foi tomada nesta segunda-feira (20); juíza federal rejeitou as contestações de autores que alegavam que o valor da indenização era insuficiente O post Anthropic: Justiça…",
+      "link": "https://olhardigital.com.br/2026/07/20/pro/anthropic-justica-dos-eua-confirma-acordo-para-fim-de-processo-por-direitos-autorais/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/claude-anthropic-1-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-20T22:51:46+00:00"
+    },
+    {
+      "id": "cfebb9d36890835b",
+      "title": "O mais recente czar da IA ​​de Trump já renunciou",
+      "summary": "A função de diretor do Centro de Padrões e Inovação de IA (CAISI) tornou-se uma porta giratória desde que David Sacks deixou seu cargo de czar.",
+      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-20T22:21:04+00:00"
+    },
+    {
+      "id": "522573c781ea60fe",
+      "title": "Aqui estão as 30.000 músicas que a Sony está processando o gerador de música AI da Udio",
+      "summary": "A Sony Music Entertainment abriu outro processo contra a Udio, acusando o gerador de música de IA de infringir os direitos autorais de mais de 30.000 de suas músicas, desde Elvis…",
+      "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-20T22:19:12+00:00"
+    },
+    {
+      "id": "b76f61cc9232c350",
+      "title": "Drones de combate a incêndios em andamento enquanto incêndios florestais assolam os EUA quase o ano todo",
+      "summary": "A competição da Califórnia e da XPRIZE testa se os drones podem impedir incêndios florestais mais cedo.",
+      "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-5.24.12-PM-500x500.png",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-20T21:55:52+00:00"
+    },
+    {
+      "id": "88aa02fac6f50788",
+      "title": "O Google está trabalhando em um novo chip de IA projetado para tornar o Gemini mais eficiente",
+      "summary": "A Alphabet, controladora do Google, está supostamente trabalhando em um novo chip projetado para fazer com que seus modelos Gemini funcionem com muito mais eficiência.",
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-20T21:21:15+00:00"
+    },
+    {
+      "id": "e459bf8667f2420d",
+      "title": "Tongyi Lab do Alibaba lança Qwen-Audio-3.0-TTS, um modelo de conversão de texto em fala hospedado em Flash e níveis Plus em 16 idiomas",
+      "summary": "O Tongyi Lab do Alibaba lançou o Qwen-Audio-3.0-TTS, um sistema de conversão de texto em fala (TTS) orientado para a produção. O modelo vem em duas variantes da mesma linhagem. Alvos flash…",
+      "link": "https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-20T21:14:19+00:00"
+    },
+    {
+      "id": "06ba108fea27db55",
+      "title": "Nova IA do Chrome vai ler e organizar abas do navegador para você",
+      "summary": "O Google está testando uma nova integração entre o Chrome e o Gemini, segundo o portal Windows Report. Chamada “Ask Gemini about this group” (“Pergunte ao Gemini sobre este…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/nova-ia-do-chrome-vai-ler-e-organizar-abas-do-navegador-para-voce/",
+      "image": "https://tl.ctcdn.com.br/n2eQmPJD-yOqyNI6TSst7Nv0k7A=/0x0/filters:format(webp):quality(85)/a909272c-096c-4cda-a749-bc6616c9a20b.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-20T21:03:00+00:00"
+    },
+    {
+      "id": "6f78796607a21079",
+      "title": "SpaceX em seu fundo de índice, explicou",
+      "summary": "Os fundos de índice são considerados uma das formas mais seguras de investir. Em vez de escolher ações individuais, os fundos de índice permitem apostar no mercado como um todo. Então o que acontece…",
+      "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-20T21:00:00+00:00"
+    },
+    {
+      "id": "9fe76ef940d5426e",
+      "title": "O protocolo mais importante da IA ​​está ficando um pouco mais fácil de usar",
+      "summary": "Sob o novo sistema, o protocolo adotará uma abordagem mais flexível e “sem estado” para IDs de sessão no lado do servidor, semelhante à forma como a maioria dos sites comuns já funciona.",
+      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-20T20:50:40+00:00"
+    },
+    {
+      "id": "47a1a77d963c1f5b",
+      "title": "Trump perde peça-chave da estratégia de IA dos Estados Unidos",
+      "summary": "Órgão criado para avaliar sistemas de IA enfrenta mudança de liderança enquanto empresas aceleram lançamentos de novos modelos O post Trump perde peça-chave da estratégia de IA…",
+      "link": "https://olhardigital.com.br/2026/07/20/inteligencia-artificial/trump-perde-peca-chave-da-estrategia-de-ia-dos-estados-unidos/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/eua_ia-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-20T20:41:19+00:00"
+    },
+    {
+      "id": "d8e9ead93643e4b1",
+      "title": "RTX 50 SUPER existem, mas atrasaram por conta dos preços das memórias GDDR7",
+      "summary": "As GPUs GeForce RTX 50 foram lançadas há cerca de um ano e meio e nada novo veio da NVIDIA nesse tempo, exceto pela RTX 3060 . Rumores sobre as RTX 50 SUPER já existem desde o ano…",
+      "link": "https://canaltech.com.br/hardware/rtx-50-super-existem-mas-atrasaram-por-conta-dos-precos-das-memorias-gddr-7/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-20T20:06:00+00:00"
+    },
     {
       "id": "f43c3eb424ffaf32",
       "title": "OpenAI tem medo de modelos abertos. Os EUA deveriam estar?",
@@ -837,160 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-07-17T22:12:56+00:00"
-    },
-    {
-      "id": "35f0290883148378",
-      "title": "Zyphra lança ZUNA1.1: um modelo Apache 2.0 EEG Foundation com entradas de comprimento variável de 0,5 a 30 segundos",
-      "summary": "Zyphra lançou ZUNA1.1 em 16 de julho de 2026, sob a licença Apache 2.0. O autoencoder de difusão mascarada 380M reconstrói, elimina ruído e aumenta a amostragem do EEG do couro cabeludo em…",
-      "link": "https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-17T21:35:27+00:00"
-    },
-    {
-      "id": "b7968c58be6fc64f",
-      "title": "O plano de Zuckerberg de vender o excesso de computação de IA pode encontrar seu primeiro grande cliente na Anthropic",
-      "summary": "A Meta está supostamente em negociações com a Anthropic para alugar capacidade computacional de seus data centers. O artigo O plano de Zuckerberg de vender o excesso de computação de IA pode encontrar seu primeiro grande…",
-      "link": "https://the-decoder.com/zuckerbergs-plan-to-sell-excess-ai-compute-could-finds-its-first-big-customer-in-anthropic/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/03/meta_data_center.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-17T21:16:00+00:00"
-    },
-    {
-      "id": "89c4038cfc0f16e6",
-      "title": "Motorola Signature tem cupom de R$ 3.000 em oferta parcelável até 10x",
-      "summary": "Motorola Signature de 512 GB com câmera de 50 MP, Moto AI e tela AMOLED de 165 Hz tem o melhor preço parcelado já visto desde o lançamento Motorola Signature tem cupom de R$ 3.000…",
-      "link": "https://tecnoblog.net/achados/motorola-signature-tem-cupom-de-r-3-000-em-oferta-parcelavel-ate-10x/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/ttlq8vitmbo-1.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T21:10:40+00:00"
-    },
-    {
-      "id": "ae64749267cde662",
-      "title": "Custo-benefício: Galaxy Tab S10 FE tem 39% OFF em oferta até 12x sem juros",
-      "summary": "Aproveite a oferta do Galaxy Tab S10 FE na loja Magalu no AliExpress resgatando o cupom PDF08; tablet da Samsung tem tela de 90 Hz, 8 GB de RAM e suporte ao Galaxy AI…",
-      "link": "https://tecnoblog.net/achados/custo-beneficio-galaxy-tab-s10-fe-tem-39-off-em-oferta-ate-12x-sem-juros/",
-      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/01/galaxy-tab-s10-fe-edicao-de-imagem-1060x596.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T20:55:21+00:00"
-    },
-    {
-      "id": "c8a30babe065120e",
-      "title": "Evoto AI usa IA para agilizar edição profissional de imagens",
-      "summary": "Retoques de pele, correções de cor e escolha de fotos ficam mais rápidos com ferramentas do software de fotografia com inteligência artificial. Evoto AI usa IA para agilizar…",
-      "link": "https://tecnoblog.net/publieditoriais/evoto-ai-usa-ia-para-agilizar-edicao-profissional-de-imagens/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/interface-evoto-ai-edited-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T20:21:53+00:00"
-    },
-    {
-      "id": "a604e07edacff5d5",
-      "title": "A crise de memória impulsionada pela IA sacode o mercado de smartphones da Índia",
-      "summary": "A desaceleração dos smartphones na Índia destaca como o boom da IA ​​está a remodelar os produtos eletrónicos de consumo, desde os preços e a procura até à estratégia empresarial.",
-      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-17T20:09:27+00:00"
-    },
-    {
-      "id": "ffb8706fe77d03cd",
-      "title": "Satélites apoiados pelo Google para detecção de incêndios florestais são lançados enquanto a fumaça sufoca os EUA e Canadá",
-      "summary": "O programa FireSat pode detectar incêndios florestais que outros satélites não percebem.",
-      "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Operational-FireSat-satellites-500x500.png",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-17T19:50:18+00:00"
-    },
-    {
-      "id": "5dc193efd976a728",
-      "title": "GPT-5.6 está excluindo arquivos do usuário quando tem acesso total, e OpenAI diz que não deveria, mas fez",
-      "summary": "O GPT-5.6 da OpenAI apagou acidentalmente todos os diretórios pessoais dos usuários em vários casos, principalmente no \"modo de acesso total\" desprotegido. O modelo substitui um diretório temporário…",
-      "link": "https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_glitchy_blip.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-17T19:35:52+00:00"
-    },
-    {
-      "id": "dd62d442a6ebde80",
-      "title": "TikTok está testando uma ferramenta de detecção de semelhança de IA",
-      "summary": "A TikTok está começando a testar uma ferramenta opcional que verifica semelhanças de IA e permite que os criadores as relatem à empresa, conforme descoberto pelo consultor de mídia social Matt Navarra. A ferramenta…",
-      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-17T19:34:30+00:00"
-    },
-    {
-      "id": "166cadfd763f9f6f",
-      "title": "Assim como Deepseek, o Kimi K3 da China está forçando os laboratórios ocidentais de IA a questionar sua vantagem computacional",
-      "summary": "A Moonshot AI lançou o Kimi K3, um modelo que pelas primeiras avaliações corresponde ao Opus 4.8 da Anthropic, construído por uma equipe de apenas 300 pessoas. Até o estrategista da OpenAI, Dean W. Ball, chama isso de…",
-      "link": "https://the-decoder.com/just-like-deepseek-chinas-kimi-k3-is-forcing-western-ai-labs-to-question-their-compute-advantage/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/moonshot_ai_logos.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-17T19:16:07+00:00"
-    },
-    {
-      "id": "1e50e7bce6b1e59a",
-      "title": "Google é forçado a compartilhar dados com rivais de IA; entenda o motivo",
-      "summary": "A União Europeia determinou que o Google deve abrir serviços digitais do sistema Android e da busca para outros concorrentes do mercado de IA . A medida foi anunciada na última…",
-      "link": "https://canaltech.com.br/mercado/google-e-forcado-a-compartilhar-dados-com-rivais-de-ia-entenda-o-motivo/",
-      "image": "https://tl.ctcdn.com.br/SYPSdZhie0PfU4OklkP-Ih62xQw=/0x0/filters:format(webp):quality(85)/d780e010-fe88-46f1-99c5-268dd14db5aa.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T19:11:00+00:00"
-    },
-    {
-      "id": "034e1e16f93defae",
-      "title": "Apple e Google são acusadas de lucrar com apps que criam nudes falsos",
-      "summary": "Procuradoria de São Francisco cobra remoção de 13 aplicativos que usam IA para gerar imagens íntimas sem consentimento. Apple e Google são acusadas de lucrar com apps que criam…",
-      "link": "https://tecnoblog.net/noticias/apple-e-google-viram-alvo-por-apps-de-ia-que-criam-nudes-falsos/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/03/app-store-3-capa-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T19:09:39+00:00"
-    },
-    {
-      "id": "49ad30eb3ed2612d",
-      "title": "Rádio 3.0 já chegou a 7 cidades brasileiras; veja se a sua está na lista",
-      "summary": "O Rádio 3.0 começou a dar seus primeiros passos no Brasil. Emissoras de sete cidades já passaram a adotar a tecnologia, que combina a transmissão tradicional pelo espectro de…",
-      "link": "https://canaltech.com.br/telecom/radio-3-0-ja-chegou-a-7-cidades-brasileiras-veja-se-a-sua-esta-na-lista/",
-      "image": "https://tl.ctcdn.com.br/kS3ZOdkUOMMRTupW9sk65AruCLM=/0x0/filters:format(webp):quality(85)/b7cf7bf7-5d80-49b0-a2d0-212daa39a764.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T18:31:45+00:00"
-    },
-    {
-      "id": "d118997ec6e72b5b",
-      "title": "Meta pode fechar parceria bilionária com a Anthropic em corrida pela IA",
-      "summary": "Caso seja concretizada, a parceria poderá marcar a entrada da empresa de Mark Zuckerberg em um novo segmento de negócios ligado à IA O post Meta pode fechar parceria bilionária…",
-      "link": "https://olhardigital.com.br/2026/07/17/pro/meta-pode-fechar-parceria-bilionaria-com-a-anthropic-em-corrida-pela-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/meta-mark-zuckerberg-e1783598391147-1024x577.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T18:06:29+00:00"
     }
   ]
 }
