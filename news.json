@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-21T02:32:09.704872+00:00",
+  "generated_at": "2026-07-21T08:25:56.847881+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "81384a17ed99b370",
+      "title": "NVIDIA lança Cosmos 3 Edge: um modelo de mundo aberto com parâmetros 4B que raciocina e gera ações de robô no dispositivo",
+      "summary": "A NVIDIA lançou o Cosmos 3 Edge, um modelo de mundo aberto de 4 bilhões de parâmetros criado para rodar no dispositivo. Ajuda robôs e agentes de IA de visão a compreender o ambiente e a raciocinar em tempo real…",
+      "link": "https://www.marktechpost.com/2026/07/21/nvidia-releases-cosmos-3-edge-a-4b-parameter-open-world-model-that-reasons-and-generates-robot-actions-on-device/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-21T07:48:28+00:00"
+    },
     {
       "id": "f200c3551b6d8af8",
       "title": "Confira o Olhar Digital News na íntegra (20/07/2026)",
@@ -980,17 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-07-17T22:12:57+00:00"
-    },
-    {
-      "id": "96ae61dffd1c9aeb",
-      "title": "Databricks atinge avaliação de US$ 188 bilhões, ampliando sua atuação como segundo ato favorito da IA",
-      "summary": "A Databricks refez sua imagem de empresa de IA e publicou pesquisas sobre a economia de custos de modelos de IA de peso aberto para codificação.",
-      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-17T22:12:56+00:00"
     }
   ]
 }
