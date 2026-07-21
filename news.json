@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-07-21T08:25:56.847881+00:00",
+  "generated_at": "2026-07-21T13:45:50.986205+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "2276c4c32cc3d68b",
+      "title": "O streamer de música Deezer afirma que mais de 50% dos uploads diários são gerados por IA",
+      "summary": "Deezer disse que mais de 90.000 faixas geradas por IA foram carregadas diariamente na plataforma em junho",
+      "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-21T13:27:42+00:00"
+    },
+    {
+      "id": "49e436a18ac67e65",
+      "title": "YouTube aperta o cerco contra vídeos ruins feitos com IA",
+      "summary": "YouTube atualizou regras do seu programa de monetização para combater conteúdo de baixa qualidade. Medidas visam diminuir o \"AI slop\" no serviço. YouTube aperta o cerco contra…",
+      "link": "https://tecnoblog.net/noticias/youtube-aperta-o-cerco-contra-videos-ruins-feitos-com-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/14vm0ciyuve.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-21T13:09:42+00:00"
+    },
+    {
+      "id": "25154d11bc9867b2",
+      "title": "Bolha? App Store é inundada por 560 mil apps feitos por IA que ninguém baixa",
+      "summary": "A App Store recebeu cerca de 560 mil novos aplicativos no primeiro semestre de 2026 , praticamente o mesmo total lançado durante todo o ano de 2025. Segundo dados da Sensor Tower…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/bolha-app-store-e-inundada-por-560-mil-apps-feitos-por-ia-que-ninguem-baixa/",
+      "image": "https://tl.ctcdn.com.br/HIOwjJciNR4vUc-p8eBIrv5aT8s=/0x0/filters:format(webp):quality(85)/79ac7b66-1837-4ca2-972b-8f2025fce987.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-21T13:01:00+00:00"
+    },
+    {
+      "id": "1769da2e960fb79b",
+      "title": "Disputa pela IA leva EUA e China à mesa de negociação",
+      "summary": "Encontro previsto para setembro deve abordar segurança, regulação e o controle de modelos avançados desenvolvidos pelas duas potências O post Disputa pela IA leva EUA e China à…",
+      "link": "https://olhardigital.com.br/2026/07/21/inteligencia-artificial/disputa-pela-ia-leva-eua-e-china-a-mesa-de-negociacao/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/10/guerra-eua-china-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-21T12:43:06+00:00"
+    },
+    {
+      "id": "21b84ea03207bfc4",
+      "title": "Apple e Google banem apps que usam IA para criar nudes falsos após polêmica",
+      "summary": "Apple e Google removeram aplicativos de nudify (c riação de nudes falsos com uso de IA) da App Store e da Google Play Store, respectivamente. A medida ocorre após uma decisão…",
+      "link": "https://canaltech.com.br/seguranca/apple-e-google-banem-apps-que-usam-ia-para-criar-nudes-falsos-apos-polemica/",
+      "image": "https://tl.ctcdn.com.br/a1rbSjGNng-j7lT3LgnIGHDsFk8=/0x0/filters:format(webp):quality(85)/c7faf469-02ca-47c0-b586-2cf4f9f54895.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-21T12:34:21+00:00"
+    },
+    {
+      "id": "7d7a38658c4e29bd",
+      "title": "IA aberta vira disputa entre China, EUA e grandes empresas",
+      "summary": "Avanço da inteligência artificial na China muda o mercado global e provoca debate nos EUA sobre concorrência, controle e modelos abertos O post IA aberta vira disputa entre China…",
+      "link": "https://olhardigital.com.br/2026/07/21/inteligencia-artificial/ia-aberta-vira-disputa-entre-china-eua-e-grandes-empresas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/Destaque-Chip-china-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-21T12:19:43+00:00"
+    },
+    {
+      "id": "8c47f0c4adba610e",
+      "title": "Qwen Audio 3.0 TTS Plus do Alibaba lidera a competição no ranking de conversão de texto em fala",
+      "summary": "Qwen Audio 3.0 TTS Plus da Alibaba lidera a tabela de classificação da Artificial Analysis' Speech Arena. O modelo suporta 16 idiomas e permite aos usuários controlar o estilo de fala com linguagem natural…",
+      "link": "https://the-decoder.com/alibabas-qwen-audio-3-0-tts-plus-tops-the-competition-in-the-text-to-speech-rankings/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/qwen_logo-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-21T11:31:15+00:00"
+    },
+    {
+      "id": "6451d6ba8e22e91b",
+      "title": "Novos fones da JBL chegam ao Brasil com 48h de bateria; veja preços",
+      "summary": "A JBL lançou oficialmente no Brasil os novos JBL Live Beam 4 e JBL Live Flex 4 , que chegam com cancelamento de ruído , estojo inteligente com tela sensível ao toque e autonomia…",
+      "link": "https://canaltech.com.br/fone-de-ouvido/novos-fones-da-jbl-chegam-ao-brasil-com-48h-de-bateria-veja-precos/",
+      "image": "https://tl.ctcdn.com.br/jZzBX6atZAJTQVdCIpyL-bjLbJI=/0x0/filters:format(webp):quality(85)/fc971c29-5113-4b01-b27d-b0636946b4a2.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-21T11:02:24+00:00"
+    },
+    {
+      "id": "df45f6b149050e80",
+      "title": "Avançando a IA de próxima geração com inovação em ciência de materiais",
+      "summary": "A conversa sobre IA centra-se frequentemente em algoritmos, poder computacional ou enormes investimentos em novas fábricas de semicondutores e centros de dados em hiperescala. Mas abaixo de cada…",
+      "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Syensqo-shutterstock_2491787317.jpg?w=1200",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-21T10:37:34+00:00"
+    },
+    {
+      "id": "792f4c60bcd5e529",
+      "title": "Xiaomi-Robotics-1 mostra que mais dados superam modelos maiores ao treinar robôs para se moverem",
+      "summary": "A Xiaomi treinou a Xiaomi-Robotics-1 em mais de 100.000 horas de dados de movimento coletados por pessoas usando pinças portáteis equipadas com câmeras em vez de robôs. Adicionando dados melhorado…",
+      "link": "https://the-decoder.com/xiaomi-robotics-1-shows-that-more-data-beats-bigger-models-when-training-robots-to-move/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/xiaomi-robotics-1-01-hero.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-21T08:56:51+00:00"
+    },
+    {
+      "id": "1d5957452e8da550",
+      "title": "Meta Open-Sources Astryx: um sistema de design React pronto para agente com mais de 150 componentes acessíveis, sete temas e uma CLI",
+      "summary": "A Meta abriu o código-fonte do Astryx, o sistema de design React e StyleX que executou internamente por oito anos em mais de 13.000 aplicativos. Ele vem com mais de 150 componentes acessíveis, sete temas, escuro…",
+      "link": "https://www.marktechpost.com/2026/07/21/meta-open-sources-astryx-an-agent-ready-react-design-system-with-150-accessible-components-seven-themes-and-a-cli/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-21T08:49:55+00:00"
+    },
     {
       "id": "81384a17ed99b370",
       "title": "NVIDIA lança Cosmos 3 Edge: um modelo de mundo aberto com parâmetros 4B que raciocina e gera ações de robô no dispositivo",
@@ -45,6 +166,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-21T00:00:43+00:00"
+    },
+    {
+      "id": "8549f9ed22c455ab",
+      "title": "Grabette: um sistema aberto para registrar dados de manipulação de robôs",
+      "summary": "",
+      "link": "https://huggingface.co/blog/grabette",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-21T00:00:00+00:00"
     },
     {
       "id": "b326d4a178ed2f55",
@@ -859,138 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-18T10:16:02+00:00"
-    },
-    {
-      "id": "c72dfdc4a63af393",
-      "title": "O novo manual de IA do Pentágono trata a adoção lenta como um risco maior do que o alinhamento imperfeito",
-      "summary": "O Departamento da Marinha dos EUA assinou uma estratégia para “armar” dados e IA e construir uma frota “AI-first”. Grandes modelos de linguagem seriam executados diretamente em navios de guerra e uma guerra de IA…",
-      "link": "https://the-decoder.com/the-pentagons-new-ai-playbook-treats-slow-adoption-as-a-bigger-risk-than-imperfect-alignment/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/US-Navy-Weaponize-AI.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-18T08:10:40+00:00"
-    },
-    {
-      "id": "1a0d886034717282",
-      "title": "O agente de memória sempre ativa do Google Cloud substitui RAG e embeddings por consolidação LLM contínua no Gemini 3.1 Flash-Lite",
-      "summary": "O repositório generativo de IA do Google Cloud fornece o Always-On Memory Agent, uma implementação de referência que trata a memória como um processo em execução. Construído em Google ADK e Gemini 3.1…",
-      "link": "https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-embeddings-with-continuous-llm-consolidation-on-gemini-3-1-flash-lite/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4c4.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-18T07:57:51+00:00"
-    },
-    {
-      "id": "2348cf68b2d9be97",
-      "title": "Anthropic reduz os limites de Claude Fable 5 no Max e Team Premium e empurra os usuários Pro em direção ao preço da API",
-      "summary": "A Anthropic incluirá Claude Fable 5 nos planos Max e Team Premium a partir de 20 de julho, mas com apenas 50% dos limites regulares, que caem um terço no mesmo dia. Pró…",
-      "link": "https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo_money.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-18T07:17:11+00:00"
-    },
-    {
-      "id": "84a5adf1076b904b",
-      "title": "Como construir uma bancada de engenharia de plasmídeos com mapeamento circular, análise de restrição, géis virtuais e design de primer",
-      "summary": "Neste tutorial, construímos um ambiente de trabalho de plasmídeo nativo do Google Colab que recria as ideias centrais do SpliceCraft dentro de um ambiente de notebook interativo. Em vez de depender de um…",
-      "link": "https://www.marktechpost.com/2026/07/17/how-to-build-plasmid-engineering-workbench-with-circular-mapping-restriction-analysis-virtual-gels-and-primer-design/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/26a0.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-18T06:51:05+00:00"
-    },
-    {
-      "id": "75dc4b0ddaadfaa9",
-      "title": "A difusão de erros da Sakana AI treina redes de fluxo duplo compatíveis com Dale, atingindo 96,7% MNIST e 61,7% CIFAR-10 sem retropropagação",
-      "summary": "A retropropagação depende do transporte de peso, que os circuitos biológicos provavelmente não conseguem implementar. O Error Diffusion da Sakana AI contorna essa restrição, treinando dual-stream…",
-      "link": "https://www.marktechpost.com/2026/07/17/sakana-ais-error-diffusion-trains-dale-compliant-dual-stream-networks-reaching-96-7-mnist-and-61-7-cifar-10-without-backpropagation/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-18T06:32:43+00:00"
-    },
-    {
-      "id": "676c823b6899d3ae",
-      "title": "Neil Rimer acha que o dinheiro da IA ​​​​está voltando",
-      "summary": "Neil Rimer, o capitalista de risco que cofundou a Index Ventures, prevê que a riqueza histórica que a IA está gerando no Vale do Silício terá de ser redistribuída, voluntariamente ou…",
-      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-18T04:47:25+00:00"
-    },
-    {
-      "id": "64547f35d0e20806",
-      "title": "Casa Branca passa a controlar acesso a modelos de IA de ponta",
-      "summary": "O governo Trump deu novos passos para assumir o controle sobre o lançamento de modelos de inteligência artificial de fronteira, passando a ditar quais empr O post Casa Branca…",
-      "link": "https://olhardigital.com.br/2026/07/17/pro/casa-branca-passa-a-controlar-acesso-a-modelos-de-ia-de-ponta/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/Destaque-Anthropic-Claude-Mythos-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-18T01:34:58+00:00"
-    },
-    {
-      "id": "fe83db6933a3960e",
-      "title": "Confira o Olhar Digital News na íntegra (17/07/2026)",
-      "summary": "Como um aplicativo com inteligência artificial pode ajudar a traduzir a linguagem de sinais? Descubra no Olhar Digital News. O post Confira o Olhar Digital News na íntegra…",
-      "link": "https://olhardigital.com.br/2026/07/17/videos/confira-o-olhar-digital-news-na-integra-17-07-2026/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-18T00:51:45+00:00"
-    },
-    {
-      "id": "d0e05afa4df1ecfe",
-      "title": "Entrevista: China aposta pesado nos modelos abertos de IA",
-      "summary": "Arthur Igreja explica como o Kimi K3, novo modelo da Moonshot, promete elevar o nível da inteligência artificial. O post Entrevista: China aposta pesado nos modelos abertos de IA…",
-      "link": "https://olhardigital.com.br/2026/07/17/colunistas/entrevista-china-aposta-pesado-nos-modelos-abertos-de-ia/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-18T00:41:04+00:00"
-    },
-    {
-      "id": "851bbc9cf9edec40",
-      "title": "A IA está ficando comum — e isso pode ser má notícia para a OpenAI",
-      "summary": "Para usuários e empresas, esse movimento tende a ampliar acesso à tecnologia O post A IA está ficando comum — e isso pode ser má notícia para a OpenAI apareceu primeiro em Olhar…",
-      "link": "https://olhardigital.com.br/2026/07/17/pro/a-ia-esta-ficando-comum-e-isso-pode-ser-ma-noticia-para-a-openai/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/deepseek-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-17T23:35:52+00:00"
-    },
-    {
-      "id": "a3e7db222bbb2b9c",
-      "title": "A Vertu quer que os executivos paguem US$ 6.880 por um agente de IA – veja como ele realmente funciona",
-      "summary": "Dos fluxos de trabalho de IA à duração da bateria e segurança, veja como é realmente viver com o luxo dobrável da Vertu todos os dias.",
-      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-17T22:55:09+00:00"
-    },
-    {
-      "id": "0eb0831af989c545",
-      "title": "Crie um operador de local de evento agente com MongoDB Atlas, Voyage e LangGraph",
-      "summary": "Introdução Este tutorial começa onde a maioria das demonstrações do agente para: fornecendo ao agente memória persistente, contexto operacional e um local para escrever de volta o que aconteceu. Um operador de evento…",
-      "link": "https://www.marktechpost.com/2026/07/17/build-an-agentic-event-venue-operator-with-mongodb-atlas-voyage-and-langgraph/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/image-150x150.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-17T22:12:57+00:00"
     }
   ]
 }
