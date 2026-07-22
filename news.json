@@ -1,7 +1,216 @@
 {
-  "generated_at": "2026-07-21T19:19:46.377862+00:00",
+  "generated_at": "2026-07-22T02:31:17.367198+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "27e01045c9bb60ef",
+      "title": "Big techs acumulam R$ 8,4 trilhões em dívidas com IA fora de seus balanços",
+      "summary": "Segundo um estudo do Nikkei, esses compromissos financeiros vêm sendo utilizados para financiar a expansão dos data centers voltados à IA O post Big techs acumulam R$ 8,4 trilhões…",
+      "link": "https://olhardigital.com.br/2026/07/21/pro/big-techs-acumulam-r-8-4-trilhoes-em-dividas-com-ia-fora-de-seus-balancos/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/data_center-2-1024x574.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-22T01:07:35+00:00"
+    },
+    {
+      "id": "c6b2c615dfe30ba4",
+      "title": "Fala AI: novos modelos do Google mostram que empresa ficou para trás",
+      "summary": "Com foco em segurança, programação e menor custo, novos modelos do Google chegam para acirrar a disputa da inteligência artificial. O post Fala AI: novos modelos do Google mostram…",
+      "link": "https://olhardigital.com.br/2026/07/21/colunistas/fala-ai-novos-modelos-do-google-mostram-que-empresa-ficou-para-tras/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-22T00:43:12+00:00"
+    },
+    {
+      "id": "8ca06c279a570a7a",
+      "title": "Google Maps ganha super-IA que vai planejar e personalizar suas viagens",
+      "summary": "O Google Maps está preparando uma nova integração com a Inteligência Personalizada do Gemini para transformar o aplicativo em um assistente de viagens personalizado . Segundo o…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/google-maps-ganha-super-ia-que-vai-planejar-e-personalizar-suas-viagens/",
+      "image": "https://tl.ctcdn.com.br/z1zuxMeYK4cHrHEqgHOcgBzOaK0=/0x0/filters:format(webp):quality(85)/a1420573-3a46-4ee9-ba20-9297dce01005.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-22T00:11:00+00:00"
+    },
+    {
+      "id": "b2b512b95b7abab7",
+      "title": "Poolside lança Laguna S 2.1, um modelo de codificação Agentic de peso aberto que ultrapassa sua classe de peso no SWE-Bench Multilingual",
+      "summary": "A Poolside lançou o Laguna S 2.1, um modelo de codificação de mistura de especialistas de peso aberto de 118B com 8B de parâmetros ativos por token e um contexto de 1M de token. Combina ou supera modelos…",
+      "link": "https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-22T00:01:32+00:00"
+    },
+    {
+      "id": "a983abeb35773ed7",
+      "title": "Meta está testando um aplicativo de histórias para dormir com IA para pessoas sem imaginação",
+      "summary": "Finalmente, uma empresa de tecnologia encontrou uma maneira de terceirizar o passatempo mais antigo da humanidade: usar a nossa imaginação.",
+      "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-21T23:55:10+00:00"
+    },
+    {
+      "id": "357efdee2db40cb7",
+      "title": "OpenAI hackeia Hugging Face sem querer; entenda",
+      "summary": "Modelos de IA envolvidos são o GPT-5.6 Sol e o que a OpenAI descreve como \"um modelo pré-lançamento ainda mais capaz\" O post OpenAI hackeia Hugging Face sem querer; entenda…",
+      "link": "https://olhardigital.com.br/2026/07/21/seguranca/openai-hackeia-hugging-face-sem-querer-entenda/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/openai_-1024x637.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-21T23:20:08+00:00"
+    },
+    {
+      "id": "16d7a4ec6c5c4454",
+      "title": "Você confia? 1Password libera IA para acessar senhas e fazer login automático",
+      "summary": "A 1Password anunciou uma integração com o Claude, inteligência artificial da Anthropic, que permite ao agente de IA realizar logins automáticos em sites sem ter acesso às senhas…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/voce-confia-1-password-libera-ia-para-acessar-senhas-e-fazer-login-automatico/",
+      "image": "https://tl.ctcdn.com.br/yMb9f0IJPosQwPmYT_25wSOgxfM=/0x0/filters:format(webp):quality(85)/5e64c955-d2fc-4f3e-962a-d0a502b202b4.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-21T23:08:00+00:00"
+    },
+    {
+      "id": "6db1f9469bd89491",
+      "title": "Positivo lança solução para acelerar inteligência artificial local no Brasil",
+      "summary": "A divisão de servidores da Positivo está trazendo uma solução interessante ao mercado brasileiro. A Positivo IA Box é uma infraestrutura integrada no modelo Hardware as a Service…",
+      "link": "https://canaltech.com.br/hardware/positivo-lanca-solucao-para-acelerar-inteligencia-artificial-local-no-brasil/",
+      "image": "https://tl.ctcdn.com.br/acs0mOuK5Ufg6XNzQJhlpMMIVsQ=/0x0/filters:format(webp):quality(85)/a4e4aa8e-0720-4057-858c-fb0aef16e00a.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-21T22:19:00+00:00"
+    },
+    {
+      "id": "dd5bcdfa5d12d743",
+      "title": "O novo ‘filme’ de zumbi AI de Neill Blomkamp é apenas um lixo aquecido",
+      "summary": "Na segunda-feira, o diretor do Distrito 9 e Gran Turismo, Neill Blomkamp, ​​​​revelou seu mais recente projeto: um curta de ficção científica de 13 minutos intitulado Nightborne, vagamente baseado no filme de 2014 de Peter Watts…",
+      "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-21T22:06:43+00:00"
+    },
+    {
+      "id": "f4f1718676d02b1f",
+      "title": "OpenAI diz que acidentalmente hackeou Hugging Face com um novo sistema de IA",
+      "summary": "A OpenAI afirma que seus modelos de IA violaram por engano a plataforma de IA de código aberto Hugging Face durante testes internos. Em uma postagem no blog na terça-feira, OpenAI escreve que GPT-5.6 Sol e \"um par…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-21T21:48:54+00:00"
+    },
+    {
+      "id": "f2d6163434c07992",
+      "title": "Aposta no silício: Google quer integrar o Gemini diretamente no hardware",
+      "summary": "Um dos maiores nomes em inteligência artificial hoje, o Google está projetando um novo chip que promete transformar o processamento de IA. Batizado internamente de \"Frozen v2\" , o…",
+      "link": "https://canaltech.com.br/hardware/aposta-no-silicio-google-quer-integrar-ia-gemini-diretamente-no-hardware/",
+      "image": "https://tl.ctcdn.com.br/N3VKC6tSj0DW6TPhbp7cphhiM3U=/0x0/filters:format(webp):quality(85)/86a179b6-44e3-48df-92a2-c72c1fd8f579.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-21T21:13:00+00:00"
+    },
+    {
+      "id": "e07fbaf3733d38d4",
+      "title": "Quando a IA fecha a porta de entrada do mercado de trabalho",
+      "summary": "Por Daniel Pisano* A inteligência artificial já aumenta a produtividade de profissionais experientes. Mas a ruptura mais urgente no mercado de trabalho talvez não apareça nas…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/quando-a-ia-fecha-a-porta-de-entrada-do-mercado-de-trabalho/",
+      "image": "https://tl.ctcdn.com.br/uSfU9KPHsjcb2EQYBnHd544Wqbo=/0x0/filters:format(webp):quality(85)/43684501-504f-4224-990c-e3646b23f3c5.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-21T21:00:01+00:00"
+    },
+    {
+      "id": "b0276a15e2bddd01",
+      "title": "OpenAI diz que Hugging Face foi violado por seus modelos de pré-lançamento",
+      "summary": "A OpenAI se apresentou para reivindicar a responsabilidade pela violação do Hugging Face, dizendo que foi o resultado de testes internos que deram errado.",
+      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-21T20:56:55+00:00"
+    },
+    {
+      "id": "eb386ea3b326f9ab",
+      "title": "Meta prepara chegada de novos óculos inteligentes ao Brasil",
+      "summary": "Terceira geração dos smart glasses da Meta foi homologada pela Anatel e pode ser vendida no mercado nacional. Meta prepara chegada de novos óculos inteligentes ao Brasil",
+      "link": "https://tecnoblog.net/noticias/meta-prepara-chegada-de-novos-oculos-inteligentes-ao-brasil/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/m6ua1qq5290-1.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-21T20:43:27+00:00"
+    },
+    {
+      "id": "403bd3a7d51e8e99",
+      "title": "YouTube declara guerra contra conteúdo feito por IA e desmonetiza vídeos",
+      "summary": "O YouTube detalhou as regras do Programa de Parcerias (YPP) para deixar mais claros os critérios usados na monetização de vídeos considerados inautênticos, repetitivos ou…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/you-tube-declara-guerra-contra-conteudo-feito-por-ia-e-desmonetiza-videos/",
+      "image": "https://tl.ctcdn.com.br/4-nxxU2rVvyW0-3Dc04fFIN45Tc=/0x0/filters:format(webp):quality(85)/914186ad-efd6-4fb5-ab6f-354796d1b9af.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-21T20:06:00+00:00"
+    },
+    {
+      "id": "91a5b7c5572d9140",
+      "title": "O estado da simulação para IA física: uma visão geral",
+      "summary": "",
+      "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-21T20:00:27+00:00"
+    },
+    {
+      "id": "2d7014cf058970df",
+      "title": "Jack Dorsey está enfrentando o Slack with Buzz, uma plataforma de bate-papo em grupo para equipes e seus agentes de IA",
+      "summary": "Buzz é uma plataforma de chat em grupo para o local de trabalho que coloca humanos e seus agentes de IA na mesma conversa.",
+      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-21T19:43:41+00:00"
+    },
+    {
+      "id": "cf614daf2f02b31d",
+      "title": "IA e a ascensão do aplicativo de entretenimento universal",
+      "summary": "Na última década, as plataformas de streaming competiram dominando formatos individuais como música, vídeo, podcasts ou audiolivros. Agora, como a IA torna mais fácil criar, organizar e…",
+      "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-21T19:39:30+00:00"
+    },
+    {
+      "id": "6deae87e629a1695",
+      "title": "Substack adiciona um detector de IA para ajudar a detectar blogs escritos por ninguém",
+      "summary": "O Substack agora ajudará os usuários a determinar se o que estão lendo pode ter sido escrito pela IA. Uma nova ferramenta chegando à plataforma pode digitalizar postagens, notas, respostas e comentários para…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB391_SUBSTACK_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-21T19:22:28+00:00"
+    },
     {
       "id": "2bf373420ebb0231",
       "title": "Um sistema de IA ajudou os juízes paquistaneses a resolver enormes atrasos com um retorno de US$ 38,50 por dólar investido",
@@ -421,6 +630,17 @@
       "published_at": "2026-07-21T07:48:28+00:00"
     },
     {
+      "id": "d925d8c91f460a44",
+      "title": "OpenAI e Hugging Face fazem parceria para resolver incidentes de segurança durante avaliação de modelo",
+      "summary": "OpenAI e Hugging Face compartilham as primeiras descobertas de um incidente de segurança durante a avaliação do modelo de IA, destacando capacidades cibernéticas avançadas e lições para os defensores.",
+      "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-21T07:00:00+00:00"
+    },
+    {
       "id": "f200c3551b6d8af8",
       "title": "Confira o Olhar Digital News na íntegra (20/07/2026)",
       "summary": "“Frozen v2”, o chip secreto do Google que busca aumentar a eficiência do Gemini. Saiba mais no Olhar Digital News! O post Confira o Olhar Digital News na íntegra (20/07/2026)…",
@@ -452,6 +672,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-21T00:00:43+00:00"
+    },
+    {
+      "id": "69e481323262afa1",
+      "title": "David Vélez e Robin Vince juntam-se aos conselhos da OpenAI Foundation e do OpenAI Group PBC",
+      "summary": "David Vélez e Robin Vince juntam-se aos conselhos da OpenAI Foundation e do OpenAI Group PBC, trazendo liderança global em finanças, tecnologia e governança.",
+      "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-21T00:00:00+00:00"
     },
     {
       "id": "8549f9ed22c455ab",
@@ -760,237 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-20T14:08:31+00:00"
-    },
-    {
-      "id": "d39c6e515581a10b",
-      "title": "A administração Trump supostamente constrói uma proibição em câmera lenta dos modelos chineses de IA por meio de sanções e pressão suave",
-      "summary": "A administração Trump está supostamente avaliando medidas visando modelos chineses de IA, desde adicionar laboratórios chineses a listas de sanções até responsabilizar empresas dos EUA pela segurança…",
-      "link": "https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/05/china_vs_usa_race.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-20T14:03:53+00:00"
-    },
-    {
-      "id": "2a411e860ef9ffe4",
-      "title": "Polêmico Claude Fable 5 ganha regras de uso a partir de hoje; veja o que muda",
-      "summary": "A Anthropic começou a aplicar, nesta segunda-feira (20), as novas regras de uso do Claude Fable 5. A partir de agora, o modelo vai ter uma política de acesso definida para cada…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/polemico-claude-fable-5-ganha-regras-de-uso-a-partir-de-hoje-veja-o-que-muda/",
-      "image": "https://tl.ctcdn.com.br/qufiNUtOzv94gCRjANt5gFVbbjA=/0x0/filters:format(webp):quality(85)/0b4f9bd8-c96d-4169-ba9e-74bda377d923.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-20T13:31:00+00:00"
-    },
-    {
-      "id": "dcabdedcd142684e",
-      "title": "Como a IA ajuda terroristas a criarem bombas?",
-      "summary": "Mais do que fabricar armas, a tecnologia passou a ser explorada na radicalização, comunicação e preparação de estratégias violentas O post Como a IA ajuda terroristas a criarem…",
-      "link": "https://olhardigital.com.br/2026/07/20/inteligencia-artificial/como-a-ia-ajuda-terroristas-a-criarem-bombas/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/linhas-de-cdigo-fonte-dados-arquitetura-software-programa-app-hacker-1024x684.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-20T13:21:40+00:00"
-    },
-    {
-      "id": "b4aba415f9d3838d",
-      "title": "Google Vids agora permite criar clone digital com sua própria voz e rosto",
-      "summary": "O Google anunciou novas funções para o Google Vids, sua ferramenta de criação de vídeos com inteligência artificial. A principal novidade é a chegada dos avatares personalizados …",
-      "link": "https://canaltech.com.br/inteligencia-artificial/google-vids-agora-permite-criar-clone-digital-com-sua-propria-voz-e-rosto/",
-      "image": "https://tl.ctcdn.com.br/pOhhxLsNWFBQCIVsCcRhG0WAF60=/0x0/filters:format(webp):quality(85)/3ea93c54-0054-4de1-8439-45e8c67e73e5.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-20T13:07:00+00:00"
-    },
-    {
-      "id": "52c53a8b3f9f7125",
-      "title": "Conheça a IA chinesa que deixa os Estados Unidos ansiosos",
-      "summary": "Lançamento do Kimi K3 supera expectativas, pressiona a infraestrutura da Moonshot e reforça a disputa tecnológica entre China e EUA O post Conheça a IA chinesa que deixa os…",
-      "link": "https://olhardigital.com.br/2026/07/20/inteligencia-artificial/conheca-a-ia-chinesa-que-deixa-os-estados-unidos-ansiosos/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/kimi-moonshot-inteligencia-artificial-ia-ai-china-2-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-20T12:45:12+00:00"
-    },
-    {
-      "id": "2a98692f3baab001",
-      "title": "Hugging Face diz que um agente de IA invadiu sua infraestrutura e usou IA para revidar",
-      "summary": "Hugging Face relata um ataque a partes de sua infraestrutura de produção que supostamente foi realizado inteiramente por um sistema de agente autônomo de IA. O ataque abrangeu milhares de…",
-      "link": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/hugging_face_security.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-20T12:12:47+00:00"
-    },
-    {
-      "id": "f9b4e1cf325c2db4",
-      "title": "Além do grep: o caso de um equipamento de codificação de IA rico em contexto",
-      "summary": "Vinay Perneti, do Augment Code, fala sobre modelos, equipamentos e contexto.",
-      "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Vinay-Perneti-500x500-1784313873.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-20T11:20:10+00:00"
-    },
-    {
-      "id": "28429de772d3a99f",
-      "title": "China dá um golpe duplo no domínio da IA ​​​​dos EUA",
-      "summary": "As principais empresas de IA da China estão aumentando a pressão sobre o Vale do Silício, à medida que Moonshot e Alibaba revelam modelos que afirmam poder enfrentar o melhor do OpenAI e…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280034.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-20T10:16:33+00:00"
-    },
-    {
-      "id": "a5ab872c216c2f94",
-      "title": "Segurança e alinhamento numa era de modelos de longo horizonte",
-      "summary": "A OpenAI compartilha lições da implantação de modelos de IA de longa duração, destacando novos riscos de segurança, falhas observadas e melhores proteções por meio de implantação iterativa.",
-      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-20T10:00:00+00:00"
-    },
-    {
-      "id": "35a1b28301c09202",
-      "title": "A IA tem mais probabilidade do que os humanos de formar preconceitos ao contratar",
-      "summary": "Na próxima vez que você se candidatar a um emprego, a IA poderá examinar seu currículo antes que qualquer ser humano o veja. Mas há boas razões para questionar se a IA irá julgá-lo de forma justa. Os pesquisadores já…",
-      "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-20T08:39:01+00:00"
-    },
-    {
-      "id": "175a47a68873e7c7",
-      "title": "Moonshot pausa novas assinaturas do Kimi K3 depois que a demanda da GPU atinge o máximo em 48 horas",
-      "summary": "Moonshot parou temporariamente de vender novas assinaturas para seu modelo Kimi K3, já que a demanda quase atingiu o limite de sua capacidade de GPU em 48 horas. A empresa planeja dividir seu…",
-      "link": "https://the-decoder.com/moonshot-pauses-new-kimi-k3-subscriptions-after-gpu-demand-maxes-out-in-48-hours/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/kimi_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-20T07:55:09+00:00"
-    },
-    {
-      "id": "e7d816959a5ff637",
-      "title": "Alguém ajustou o MiniCPM5-1B do OpenBMB em Claude Fable 5 Traces para enviar um modelo de pensamento local de 657 MB",
-      "summary": "Um desenvolvedor da comunidade ajustou o MiniCPM5-1B do OpenBMB em Claude Fable 5 rastreando um modelo 1B que roda totalmente local - uma compilação menor de 657 MB, contexto de 128K e visível…",
-      "link": "https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-20T01:56:50+00:00"
-    },
-    {
-      "id": "6774198e3cc6931e",
-      "title": "Os melhores LLMs locais que você pode executar em uma única GPU de 24 GB em 2026: Qwen, Gemma, Mistral, DeepSeek comparados",
-      "summary": "Uma única GPU de 24 GB é o piso prático para inferências locais sérias. Este guia compara seis modelos abertos que cabem em uma placa em Q4_K_M. Abrange Qwen3.6, Gemma 4, Mistral…",
-      "link": "https://www.marktechpost.com/2026/07/19/best-local-llms-you-can-run-on-a-single-24gb-gpu-in-2026-qwen-gemma-mistral-deepseek-compared/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-20T01:18:46+00:00"
-    },
-    {
-      "id": "01078e7ef87ab593",
-      "title": "Feyn AI lança SQRL, uma família de modelos de texto para SQL que inspeciona o banco de dados antes de escrever uma consulta",
-      "summary": "A Feyn Labs lançou o SQRL, uma família de modelos de texto para SQL que inspeciona um banco de dados com testes somente leitura antes de realizar uma consulta. O carro-chefe SQRL-35B-A3B relata 70,6%…",
-      "link": "https://www.marktechpost.com/2026/07/19/feyn-ai-releases-sqrl-a-text-to-sql-model-family-that-inspects-the-database-before-writing-a-query/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-19T22:20:23+00:00"
-    },
-    {
-      "id": "8f16a45e852fe438",
-      "title": "A Netflix pagou US$ 587 milhões pela startup de cinema de IA de Ben Affleck",
-      "summary": "A Netflix revelou que pagou US$ 587 milhões em dinheiro pela InterPositive, startup cofundada por Ben Affleck.",
-      "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-19T21:45:00+00:00"
-    },
-    {
-      "id": "44f8efcbcab4b68b",
-      "title": "Alibaba apresenta Qwen3.8-Max, um modelo multimodal de 2,4 trilhões de parâmetros, dias após o lançamento do Kimi K3 Open-Weight da Moonshot",
-      "summary": "A equipe Qwen do Alibaba apresentou uma prévia do Qwen3.8-Max-Preview, um modelo MoE multimodal de 2,4 trilhões de parâmetros que ele chama de “perdendo apenas para Fable 5”. A prévia está ao vivo no Token Plan, Qoder e…",
-      "link": "https://www.marktechpost.com/2026/07/19/alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multimodal-model-days-after-moonshots-kimi-k3-open-weight-launch/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-19T21:42:50+00:00"
-    },
-    {
-      "id": "0aba2be743cd52af",
-      "title": "Um processo da Apple pode atrapalhar os planos de hardware da OpenAI?",
-      "summary": "No último episódio de Equity, debatemos se o processo da Apple irá lançar sobre os planos muito discutidos da OpenAi de entrar no mercado de hardware e abrir o capital.",
-      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-19T19:24:45+00:00"
-    },
-    {
-      "id": "49a9d9864b25a46e",
-      "title": "5 prompts para planejar suas férias com o ChatGPT",
-      "summary": "Planejar as férias costuma ser a parte menos divertida da viagem . Pode dar trabalho definir um roteiro, escolher quais atrações visitar e organizar os dias, principalmente em…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/prompts-chatgpt-para-planejar-ferias/",
-      "image": "https://tl.ctcdn.com.br/cdlPlMjYm4kW5Pa1kMw6ZVGVOLE=/0x0/filters:format(webp):quality(85)/f25244cd-734f-485a-80fb-56254b2f14e7.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-19T19:15:00+00:00"
-    },
-    {
-      "id": "cd9096ec11d28cca",
-      "title": "Hora de imprimir com economia: veja uma seleção de impressoras em promoção na Amazon",
-      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções multifuncionais em oferta na Amazon, com modelos…",
-      "link": "https://olhardigital.com.br/2026/07/19/reviews/hora-de-imprimir-com-economia-veja-uma-selecao-de-impressoras-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-19T18:40:00+00:00"
-    },
-    {
-      "id": "71db3dc130c09cb4",
-      "title": "Celulares com IA fazem tarefas sem abrir aplicativos",
-      "summary": "Fabricantes apresentam celulares com agentes de IA capazes de executar tarefas por voz e reduzir a dependência dos aplicativos O post Celulares com IA fazem tarefas sem abrir…",
-      "link": "https://olhardigital.com.br/2026/07/19/inteligencia-artificial/celulares-com-ia-fazem-tarefas-sem-abrir-aplicativos/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/geolocalizacao-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-19T18:31:59+00:00"
-    },
-    {
-      "id": "c8c3ec20e26996aa",
-      "title": "Eu odeio não odiar essa música feita com Suno",
-      "summary": "Eu nunca chegaria ao ponto de dizer que não há lugar para IA na música (afinal, sou fã de Holly Herndon). Mas geralmente considero a música feita com IA generativa ofensivamente…",
-      "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-19-at-1.30.30-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-19T17:35:54+00:00"
     }
   ]
 }
