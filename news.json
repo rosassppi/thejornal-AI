@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-07-22T08:26:21.393928+00:00",
+  "generated_at": "2026-07-22T13:49:10.912325+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "eddaac7629dad6fb",
+      "title": "Samsung revela óculos inteligente com câmera para roubar mercado da Meta",
+      "summary": "A Samsung anunciou, nesta quarta-feira (22), seus novos óculos inteligentes. Os dispositivos vestíveis contam com câmera integrada e recursos avançados de inteligência artificial…",
+      "link": "https://canaltech.com.br/produtos/samsung-revela-oculos-inteligente-com-camera-para-roubar-mercado-da-meta/",
+      "image": "https://tl.ctcdn.com.br/EwvR7L_vc0cL7Pz6ZkY7_Yi7j9U=/0x0/filters:format(webp):quality(85)/9044acc5-0c28-4e13-8df6-7d4a0758a4ad.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-22T13:45:06+00:00"
+    },
+    {
+      "id": "eb49133882424dbb",
+      "title": "Galaxy Watch 9 x Watch 8: veja como o smartwatch da Samsung mudou em 1 ano",
+      "summary": "A Samsung apresentou o Galaxy Watch 9 como seu novo relógio inteligente para o uso cotidiano. O modelo preserva a identidade visual do Galaxy Watch 8, mas troca o processador…",
+      "link": "https://canaltech.com.br/smartwatch/galaxy-watch-9-x-watch-8-veja-como-o-smartwatch-da-samsung-mudou-em-1-ano/",
+      "image": "https://tl.ctcdn.com.br/0O0RA6lKIrGWdMzIEeHWro8OyN8=/0x0/filters:format(webp):quality(85)/f690dfbe-3bb1-4398-92df-c919ef2d48af.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-22T13:42:17+00:00"
+    },
+    {
+      "id": "97296ea73a905a88",
+      "title": "Philips lança monitor gamer 4K QD-OLED com resposta surreal e iluminação por IA",
+      "summary": "A Philips está trazendo novo monitor gamer Evnia ao mercado, prometendo elevar a experiência visual ao combinar um painel QD-OLED de 32 polegada s com a altíssima definição da…",
+      "link": "https://canaltech.com.br/hardware/philips-lanca-monitor-gamer-4-k-qd-oled-com-resposta-surreal-e-iluminacao-por-ia/",
+      "image": "https://tl.ctcdn.com.br/3iBfMEUhfcijSEckQ9PvvWyX1Yc=/0x0/filters:format(webp):quality(85)/f5b695c1-31cb-49c8-b86c-6a9838aa3323.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-22T13:41:00+00:00"
+    },
+    {
+      "id": "1265532dbd8d0f76",
+      "title": "Exército dos EUA enfrenta limites de uso de IA após esgotar o suprimento anual de tokens de IA",
+      "summary": "As tropas receberam um e-mail informando que estavam esgotando rapidamente seus tokens de IA.",
+      "link": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/armymen-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-22T13:35:17+00:00"
+    },
+    {
+      "id": "0f5fd6671ba3af66",
+      "title": "Google Fotos vai resolver um problema que ele mesmo criou",
+      "summary": "O Google Fotos começou a liberar um novo seletor para a lternar rapidamente entre a pesquisa tradicional e o Ask Photos , ferramenta de Inteligência Artificial baseada no Gemini…",
+      "link": "https://canaltech.com.br/apps/google-fotos-vai-resolver-um-problema-que-ele-mesmo-criou/",
+      "image": "https://tl.ctcdn.com.br/XdxxYhJTloZIASRc1HSI8kC0TnQ=/0x0/filters:format(webp):quality(85)/7045b484-b40e-476b-9f0a-99a6abd58e9c.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-22T13:32:00+00:00"
+    },
+    {
+      "id": "9fa3fd958239f20e",
+      "title": "Galaxy Watch 9 e Watch Ultra 2 são apresentados pela Samsung",
+      "summary": "Relógios inteligentes estão mais leves e com maior autonomia de bateria. Galaxy Watch 9 e Watch Ultra 2 são apresentados pela Samsung",
+      "link": "https://tecnoblog.net/noticias/galaxy-watch-9-e-watch-ultra-2-sao-apresentados-pela-samsung/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/3qwragf89pw.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-22T13:06:54+00:00"
+    },
+    {
+      "id": "bf3bff1a17704a31",
+      "title": "Galaxy Watch 9 e Ultra 2 chegam ao Brasil com baterias muito maiores",
+      "summary": "A Samsung anunciou nesta quarta-feira (22) o Galaxy Watch Ultra 2 e o Galaxy Watch 9 , sua nova geração de relógios inteligentes. Os modelos chegam com processador Snapdragon Wear…",
+      "link": "https://canaltech.com.br/smartwatch/galaxy-watch-9-e-ultra-2-chegam-ao-brasil-com-baterias-muito-maiores/",
+      "image": "https://tl.ctcdn.com.br/o81a99M4xULfyxGoGXfgIVh8U3Y=/0x0/filters:format(webp):quality(85)/1177c9a3-dbb9-48d6-89b2-ce9d4461c462.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-22T13:00:01+00:00"
+    },
+    {
+      "id": "082c4173c70b0451",
+      "title": "Construindo infraestrutura de IA com a comunidade do condado de Effingham",
+      "summary": "OpenAI anuncia o Projeto Camellia no condado de Effingham, Geórgia, com compromissos com energia responsável, investimento comunitário, empregos e acesso ao Codex.",
+      "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-22T13:00:00+00:00"
+    },
+    {
+      "id": "a9dfe60b87c54070",
+      "title": "3 atualizações do Google do Galaxy Unpacked 2026",
+      "summary": "Óculos Gentle Monster, óculos Warby Parker, um aviso pedindo a história por trás de um edifício na foto e um aviso pedindo para reservar uma mesa em um restaurante na foto",
+      "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-22T13:00:00+00:00"
+    },
+    {
+      "id": "dc0301e4eb50f3ba",
+      "title": "CPUs e placas de vídeo mais caras: TSMC confirma aumento de preços para 2027",
+      "summary": "Não existe situação ruim que não possa piorar, não é mesmo? A indústria de IA tem abocanhado grande parte do silício hoje, restando pouco para a produção de chips para o…",
+      "link": "https://canaltech.com.br/hardware/cpus-e-placas-de-video-mais-caras-tsmc-confirma-aumento-de-precos-para-2027/",
+      "image": "https://tl.ctcdn.com.br/0idEXqSDPDsAnuMXzdAO3IEcqrE=/0x0/filters:format(webp):quality(85)/1fe134ff-ba06-4b38-b5cd-c110294135aa.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-22T12:07:00+00:00"
+    },
+    {
+      "id": "39d4220f62b8b165",
+      "title": "Chega de gráficos confusos: Nova IA da Samsung decifra seus dados de saúde",
+      "summary": "A Samsung anunciou o Samsung Health Assistant , uma IA integrada ao aplicativo Samsung Health que ajuda a analisar dados de saúde e bem-estar. A novidade está em fase beta para…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chega-de-graficos-confusos-nova-ia-da-samsung-decifra-seus-dados-de-saude/",
+      "image": "https://tl.ctcdn.com.br/HFZF2zAi6aHlI_p5rs4BjngyI88=/0x0/filters:format(webp):quality(85)/c76c869e-22a3-4ec6-a7fa-2d9aa7d0b24c.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-22T12:00:00+00:00"
+    },
+    {
+      "id": "e7d2a0caf27b3b52",
+      "title": "Samsung aprofunda seu império de IA com uma participação potencial de bilhões de euros na startup de IA mais importante da Europa",
+      "summary": "A Samsung está em negociações para investir até mil milhões de euros na startup francesa de IA Mistral, o que elevaria a avaliação da empresa para cerca de 20 mil milhões de euros. O artigo Samsung…",
+      "link": "https://the-decoder.com/samsung-deepens-its-ai-empire-with-a-potential-billion-euro-stake-in-europes-hottest-ai-startup/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/mistral-logo-wall-nano-banana-pro-scaled.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-22T11:24:08+00:00"
+    },
+    {
+      "id": "f457b0f39eb8dc2f",
+      "title": "Meta criou seu próprio sistema de detecção de IA. Deveria ter usado apenas o Google",
+      "summary": "Em março, o Conselho de Supervisão da Meta apelou à empresa para \"cumprir os seus compromissos públicos e empregar as suas próprias ferramentas\" para ajudar a reprimir a propagação de conteúdo enganoso de IA generativo...",
+      "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Meta-Content-Seal-AI-detector.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-22T11:00:00+00:00"
+    },
+    {
+      "id": "7fd75b5ef026d830",
+      "title": "As empresas de serviços públicos prometem nos poupar da conta de energia da IA",
+      "summary": "Diante da reação às preocupações de que o boom da IA ​​aumentará as contas de eletricidade dos consumidores, as maiores empresas de serviços públicos e desenvolvedores de data centers nos EUA estão agora prometendo…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-22T10:12:13+00:00"
+    },
+    {
+      "id": "5ed91eb7c32ba1ba",
+      "title": "Glow emerge do sigilo com avaliação de US$ 1,2 bilhão para desafiar a segurança de endpoint na era da IA",
+      "summary": "A Glow tem como alvo uma nova classe de riscos de endpoint criados pela rápida adoção de agentes de IA e ferramentas de desenvolvedor dentro das empresas.",
+      "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-22T10:00:00+00:00"
+    },
+    {
+      "id": "3aef29400153e495",
+      "title": "OpenAI assume responsabilidade pelo hack Hugging Face depois que seus próprios modelos escaparam de uma sandbox de teste",
+      "summary": "Durante uma avaliação de segurança interna, os modelos OpenAI, incluindo GPT-5.6 Sol, escaparam de sua sandbox, descobriram de forma independente uma vulnerabilidade de dia zero e violaram o Hugging Face…",
+      "link": "https://the-decoder.com/openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_kraken_cyber.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-22T08:41:30+00:00"
+    },
     {
       "id": "36a01ef92e39475b",
       "title": "A plataforma de treinamento de IA da Synthesia está indo além dos vídeos para o coaching ao vivo",
@@ -23,6 +199,17 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-07-22T06:27:02+00:00"
+    },
+    {
+      "id": "839f7a51d7b587ae",
+      "title": "Apresentando a presença OpenAI",
+      "summary": "Apresentando o OpenAI Presence, uma plataforma comprovada de agente de IA empresarial que ajuda as organizações a implantar agentes confiáveis ​​de voz e chat para fluxos de trabalho internos e de clientes.",
+      "link": "https://openai.com/index/introducing-openai-presence",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-22T05:30:00+00:00"
     },
     {
       "id": "c98d7581ea7de0e6",
@@ -804,193 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-20T21:03:00+00:00"
-    },
-    {
-      "id": "6f78796607a21079",
-      "title": "SpaceX em seu fundo de índice, explicou",
-      "summary": "Os fundos de índice são considerados uma das formas mais seguras de investir. Em vez de escolher ações individuais, os fundos de índice permitem apostar no mercado como um todo. Então o que acontece…",
-      "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-20T21:00:00+00:00"
-    },
-    {
-      "id": "9fe76ef940d5426e",
-      "title": "O protocolo mais importante da IA ​​está ficando um pouco mais fácil de usar",
-      "summary": "Sob o novo sistema, o protocolo adotará uma abordagem mais flexível e “sem estado” para IDs de sessão no lado do servidor, semelhante à forma como a maioria dos sites comuns já funciona.",
-      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-20T20:50:40+00:00"
-    },
-    {
-      "id": "47a1a77d963c1f5b",
-      "title": "Trump perde peça-chave da estratégia de IA dos Estados Unidos",
-      "summary": "Órgão criado para avaliar sistemas de IA enfrenta mudança de liderança enquanto empresas aceleram lançamentos de novos modelos O post Trump perde peça-chave da estratégia de IA…",
-      "link": "https://olhardigital.com.br/2026/07/20/inteligencia-artificial/trump-perde-peca-chave-da-estrategia-de-ia-dos-estados-unidos/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/eua_ia-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-20T20:41:19+00:00"
-    },
-    {
-      "id": "d8e9ead93643e4b1",
-      "title": "RTX 50 SUPER existem, mas atrasaram por conta dos preços das memórias GDDR7",
-      "summary": "As GPUs GeForce RTX 50 foram lançadas há cerca de um ano e meio e nada novo veio da NVIDIA nesse tempo, exceto pela RTX 3060 . Rumores sobre as RTX 50 SUPER já existem desde o ano…",
-      "link": "https://canaltech.com.br/hardware/rtx-50-super-existem-mas-atrasaram-por-conta-dos-precos-das-memorias-gddr-7/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-20T20:06:00+00:00"
-    },
-    {
-      "id": "f43c3eb424ffaf32",
-      "title": "OpenAI tem medo de modelos abertos. Os EUA deveriam estar?",
-      "summary": "Falar sobre a proibição de LLMs abertos fabricados na China revela o desafio de transformar a IA em um negócio.",
-      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-20T19:33:25+00:00"
-    },
-    {
-      "id": "cf3c8dfd6c45ed29",
-      "title": "Natural levanta US$ 30 milhões para reinventar pagamentos para agentes de IA – e enfrentar Stripe",
-      "summary": "A startup com um ano de existência pretende reinventar a arquitetura financeira para transações autônomas de IA.",
-      "link": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-20T19:11:25+00:00"
-    },
-    {
-      "id": "3a08deb921a6bf96",
-      "title": "Ghost Font: entenda por que as IAs não conseguem ler esta fonte",
-      "summary": "As IAs conseguem ler, analisar e extrair dados de praticamente toda a internet, mas o designer Eric Lu criou uma alternativa contra a tecnologia: a Ghost Font , uma fonte de…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ghost-font-entenda-por-que-as-ias-nao-conseguem-ler-esta-fonte/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-20T19:11:00+00:00"
-    },
-    {
-      "id": "21d9a2394ca30e8d",
-      "title": "Imprima com economia: selecionamos as melhores impressoras em promoção na Amazon",
-      "summary": "Se você está pensando em renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções de impressoras multifuncionais em oferta na…",
-      "link": "https://olhardigital.com.br/2026/07/20/reviews/imprima-com-economia-selecionamos-as-melhores-impressoras-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-20T18:40:00+00:00"
-    },
-    {
-      "id": "a524e3f7a5a28518",
-      "title": "O chip “Frozen v2” do Google supostamente transforma a arquitetura do Gemini diretamente em silício para ganhos de eficiência",
-      "summary": "O Google está desenvolvendo o “Frozen v2”, um chip de servidor que incorpora a arquitetura Gemini diretamente no hardware. Segundo fontes internas, poderia ser 6 a 10 vezes mais eficiente…",
-      "link": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-20T18:08:33+00:00"
-    },
-    {
-      "id": "8be5752a7fada571",
-      "title": "Os modelos de IA da China colocam o mundo da IA ​​de Trump em guerra consigo mesmo",
-      "summary": "Esta história apareceu originalmente em The Algorithm, nosso boletim informativo semanal sobre IA. Para receber histórias como essa em sua caixa de entrada primeiro, inscreva-se aqui. No fim de semana, vários atuais e…",
-      "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-20T18:00:00+00:00"
-    },
-    {
-      "id": "6d874cda7d88aff7",
-      "title": "O diretor do Distrito 9, Neill Blomkamp, ​​lança o primeiro curta-metragem feito inteiramente com geração de vídeo de IA",
-      "summary": "O diretor de “Distrito 9”, Neill Blomkamp, ​​lançou “Nightborne”, um curta de terror de ficção científica de 13 minutos gerado inteiramente com o modelo de vídeo Seedance 2.0. Quadro dirigido por Blomkamp por…",
-      "link": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/NIGHTBORNE-—-A-Neill-Blomkamp-Sci-Fi-Film.-Fully-AI-4K-10-40-screenshot-scaled.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-20T17:32:41+00:00"
-    },
-    {
-      "id": "89738b425b19c157",
-      "title": "EUA consideram coibir uso de modelos de IA chineses, diz site",
-      "summary": "Fontes ouvidas por reportagem afirmam que tema ganhou força recentemente e pode levar a medidas contra empresas americanas. EUA consideram coibir uso de modelos de IA chineses…",
-      "link": "https://tecnoblog.net/noticias/eua-consideram-coibir-uso-de-modelos-de-ia-chineses-diz-site/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/ia-4-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-20T17:12:11+00:00"
-    },
-    {
-      "id": "afde641c52b3057b",
-      "title": "O controle da Nvidia sobre os chips de IA enfraquece à medida que a Microsoft se volta para a AMD e a Anthropic pode seguir",
-      "summary": "A Microsoft está expandindo a infraestrutura de IA do Azure com a nova plataforma Helios da AMD, que deverá desafiar os sistemas GPU da Nvidia no segundo semestre de 2026. Um perfil público do GitHub…",
-      "link": "https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/amd_logo_wall_blue.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-20T16:44:30+00:00"
-    },
-    {
-      "id": "a2a1ce72b9e01b59",
-      "title": "Espionagem? Apple começa a usar IA para gravar atendimento em lojas",
-      "summary": "A Apple iniciou um teste interno chamado “Live Notes” que usa inteligência artificial para transcrever e resumir conversas realizadas no Genius Bar , serviço de suporte técnico…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/espionagem-apple-comeca-a-usar-ia-para-gravar-atendimento-em-lojas/",
-      "image": "https://tl.ctcdn.com.br/bLnKqm4_60n9svq1XG2wmoJ1ewk=/0x0/filters:format(webp):quality(85)/d1039ad3-4c34-44c9-af15-913279ffed69.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-20T16:05:00+00:00"
-    },
-    {
-      "id": "d8893f7bb4db22db",
-      "title": "O aplicativo de câmera de ‘aparência natural’ da Adobe adota IA generativa",
-      "summary": "O aplicativo de câmera experimental da Adobe tomou um rumo inesperado. Depois que o Projeto Indigo foi lançado no ano passado para fornecer uma \"aparência mais natural (semelhante a uma SLR)\" para a fotografia do iPhone, o…",
-      "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-20T16:00:00+00:00"
-    },
-    {
-      "id": "46d88c24f24cd938",
-      "title": "Apresentando o Cosmos 3 Edge",
-      "summary": "",
-      "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-20T15:58:51+00:00"
-    },
-    {
-      "id": "9dadea69d5264d66",
-      "title": "O novo recurso do aplicativo de câmera da Adobe irá criticar suas fotos usando IA",
-      "summary": "O Project Indigo da Adobe agora pode remover todos os tipos de planos de fundo das fotos tiradas usando o aplicativo.",
-      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-20T15:45:00+00:00"
     }
   ]
 }
