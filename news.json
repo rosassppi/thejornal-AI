@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-07-22T02:31:17.367198+00:00",
+  "generated_at": "2026-07-22T08:26:21.393928+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "36a01ef92e39475b",
+      "title": "A plataforma de treinamento de IA da Synthesia está indo além dos vídeos para o coaching ao vivo",
+      "summary": "A Synthesia lançou AI Roleplay Sessions, uma plataforma interativa de treinamento empresarial onde os funcionários praticam conversas no local de trabalho com avatares de IA que fornecem feedback…",
+      "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-22T08:00:00+00:00"
+    },
+    {
+      "id": "e15a2205cf984a00",
+      "title": "Cisco Foundation AI lança Antares: modelos de peso aberto 350M e 1B que localizam vulnerabilidades conhecidas em bases de código reais",
+      "summary": "A Cisco Foundation AI lançou o Antares, uma família de pequenos modelos de linguagem treinados para identificar onde as vulnerabilidades conhecidas residem dentro de uma base de código. Antares-1B atinge arquivo 0.209…",
+      "link": "https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-22T06:27:02+00:00"
+    },
+    {
+      "id": "c98d7581ea7de0e6",
+      "title": "O boato sobre Inteligência Antrópico-Física agitando o AI Twitter",
+      "summary": "As agressivas ondas de aquisições da Anthropic e da OpenAI em 2026 prepararam o terreno para um boato de fim de semana.",
+      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-22T03:20:57+00:00"
+    },
     {
       "id": "27e01045c9bb60ef",
       "title": "Big techs acumulam R$ 8,4 trilhões em dívidas com IA fora de seus balanços",
@@ -958,39 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-07-20T15:45:00+00:00"
-    },
-    {
-      "id": "c67582879d323662",
-      "title": "O YouTube esclarece políticas sobre falhas de IA e vídeos perturbadores",
-      "summary": "O YouTube atualizou suas políticas de monetização para definir mais claramente os tipos de vídeos gerados por IA e de baixa qualidade que não podem gerar receita publicitária.",
-      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-20T15:23:06+00:00"
-    },
-    {
-      "id": "fe9df758c254a64e",
-      "title": "A startup de inferência Infinity levanta US$ 15 milhões da Touring Capital, OpenAI e pesquisadores da Anthropic",
-      "summary": "A empresa de infraestrutura de IA Infinity anunciou na segunda-feira um aumento de US$ 15 milhões com uma avaliação de US$ 100 milhões de investidores, incluindo Touring Capital, Principal VC e pesquisadores de…",
-      "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-20T15:15:00+00:00"
-    },
-    {
-      "id": "22ac81b3829f9757",
-      "title": "Galaxy Buds Core atinge menor preço que já divulgamos com 47% OFF",
-      "summary": "Galaxy Buds Core com ANC e recursos de IA atingem desconto de 47% no Pix com cupom em oferta interessante para o Dia dos Pais 2026 Galaxy Buds Core atinge menor preço que já…",
-      "link": "https://tecnoblog.net/achados/galaxy-buds-core-atinge-menor-preco-que-ja-divulgamos-com-47-off/",
-      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/07/samsung-galaxy-buds-core-achados-dia-dos-pais-1060x596.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-20T14:08:31+00:00"
     }
   ]
 }
