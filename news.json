@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-07-23T08:27:23.958661+00:00",
+  "generated_at": "2026-07-23T13:54:04.963843+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "7d14189e46e1fe77",
+      "title": "Nova Mi Band da Xiaomi vazou: bateria para 14 dias por menos de R$ 250",
+      "summary": "O lançamento da 11ª geração de pulseiras inteligentes da Xiaomi deve acontecer em breve, e alguns detalhes dos acessórios já circulam na internet. A Smart Band 11 Active deve…",
+      "link": "https://canaltech.com.br/smartwatch/nova-mi-band-da-xiaomi-vazou-bateria-para-14-dias-por-menos-de-r-250/",
+      "image": "https://tl.ctcdn.com.br/TyVFd6C54QwCEaqiE6xkTCH527s=/0x0/filters:format(webp):quality(85)/aa53a3ef-cc3d-4814-a339-7a7fb291308a.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-23T13:37:05+00:00"
+    },
+    {
+      "id": "abcb1c7691271e14",
+      "title": "Skynet, é você? Ataque à Hugging Face foi 100% feito por IA \"irmã\" do ChatGPT",
+      "summary": "A OpenAI admitiu que sua inteligência artificial conseguiu executar um ataque cibernético autônomo contra a Hugging Face durante um teste de segurança. O episódio envolveu modelos…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/skynet-e-voce-ataque-a-hugging-face-foi-100-feito-por-ia-irma-do-chat-gpt/",
+      "image": "https://tl.ctcdn.com.br/PFasPw4OE6fNEvU9TANEkkHk8bI=/0x0/filters:format(webp):quality(85)/43573d7e-5b1b-4d82-be80-77c9c21b0816.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-23T13:04:00+00:00"
+    },
+    {
+      "id": "c25de832fe24a596",
+      "title": "Google aponta que IA amplia trabalho humano e não substitui empregos",
+      "summary": "Levantamento analisou milhões de interações com ferramentas de IA e identificou uso crescente em profissões variadas O post Google aponta que IA amplia trabalho humano e não…",
+      "link": "https://olhardigital.com.br/2026/07/23/inteligencia-artificial/google-aponta-que-ia-amplia-trabalho-humano-e-nao-substitui-empregos/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2024/04/ia-escritora-1-1024x1024.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-23T13:02:59+00:00"
+    },
+    {
+      "id": "c5237dfb9be9f94a",
+      "title": "Motorola em promoção: veja uma seleção de smartphones com câmera com IA e bateria potente",
+      "summary": "A Motorola segue firme como uma das marcas mais populares no mercado brasileiro de smartphones, e agora é um ótimo momento para garantir um aparelho da linha Moto g. Reunimos três…",
+      "link": "https://olhardigital.com.br/2026/07/23/reviews/motorola-em-promocao-veja-uma-selecao-de-smartphones-com-camera-com-ia-e-bateria-potente/",
+      "image": "https://m.media-amazon.com/images/I/41VhTuPsmCL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-23T12:40:00+00:00"
+    },
+    {
+      "id": "03672a2e37c2b420",
+      "title": "AMD lança nova ofensiva para disputar mercado de IA com a Nvidia",
+      "summary": "Empresa deve apresentar servidores, processador para data centers e reforçar estratégia voltada ao avanço das aplicações de IA O post AMD lança nova ofensiva para disputar mercado…",
+      "link": "https://olhardigital.com.br/2026/07/23/inteligencia-artificial/amd-lanca-nova-ofensiva-para-disputar-mercado-de-ia-com-a-nvidia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/Destaque-Data-center-de-IA-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-23T12:35:39+00:00"
+    },
+    {
+      "id": "90fea29a9559398f",
+      "title": "O Laguna S 2.1 da Poolside é um pequeno modelo de codificação de peso aberto que ultrapassa bem seu tamanho",
+      "summary": "A Poolside lançou o Laguna S 2.1, seu terceiro modelo de codificação em três meses. Em vez de confiar na escala bruta, a empresa treinou-a para continuar a verificar o seu trabalho, caso a revisão falhasse…",
+      "link": "https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/Poolside-Logo-Wall-generated-image-nano-banana-pro.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-23T12:24:53+00:00"
+    },
+    {
+      "id": "9d4c464f96c952b8",
+      "title": "Os boomers de direita que protestam contra os data centers têm muito em comum com a esquerda",
+      "summary": "Em uma manhã cinzenta e úmida de sábado no centro da Flórida, pouco menos de uma dúzia de pessoas se reuniram em frente à Biblioteca Spring Hill Branch para protestar contra a construção de uma hiperescala…",
+      "link": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286058283.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-23T12:00:00+00:00"
+    },
+    {
+      "id": "feaf9ab57c84ebb2",
+      "title": "Como a IA ajuda os cientistas a projetar a próxima geração de medicamentos",
+      "summary": "Projetar e desenvolver um novo medicamento é um desafio científico caro e propenso ao fracasso. Um novo medicamento pode levar muitos anos para ser desenvolvido, ao custo de um investimento significativo…",
+      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/AI_in_Biologics_Draft_4_no_Captions-1.jpg",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-23T12:00:00+00:00"
+    },
+    {
+      "id": "3fb3fe4b9444dcc7",
+      "title": "O CEO do Google, Pichai, diz que o próximo salto da Gemini depende da construção de “modelos básicos muito maiores”",
+      "summary": "A Alphabet elevou sua previsão de investimento para 2026 para até US$ 205 bilhões, dizendo que a demanda continua a superar os gastos. O Google Cloud cresceu 82% no segundo trimestre. CEO…",
+      "link": "https://the-decoder.com/google-ceo-pichai-says-geminis-next-leap-depends-on-building-much-larger-base-models/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_optical_trick.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-23T11:19:57+00:00"
+    },
+    {
+      "id": "b2487f279f3fca74",
+      "title": "Especialistas dizem que explorar a Fábula da Anthropic não foi o que fez o Kimi K3 ficar tão bom",
+      "summary": "“Não acho que você consiga um modelo tão forte e tão rápido na esteira do Fable fazendo destilação estrita”, disse um especialista ao TechCrunch.",
+      "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-23T11:00:00+00:00"
+    },
+    {
+      "id": "679561f597c44e1b",
+      "title": "Governança corporativa e proteção de informações industriais na era da IA",
+      "summary": "* Por Walter Sanches De acordo com um estudo global da Boston Consulting Group (BCG), 74% dos profissionais essenciais para o dia a dia das operações já utilizam Inteligência…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/governanca-corporativa-e-protecao-de-informacoes-industriais-na-era-da-inteligencia-artificial/",
+      "image": "https://tl.ctcdn.com.br/GZ9ZDN1uOqUMk81eXMhLwRAUYD0=/0x0/filters:format(webp):quality(85)/8c34abe7-862f-45fe-ae86-fed2736311ab.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-23T11:00:00+00:00"
+    },
+    {
+      "id": "0183ca4f84431004",
+      "title": "Melhores modelos de reconhecimento de fala aberto (ASR) em 2026: WER, idiomas, latência e licença comparados",
+      "summary": "O reconhecimento de fala aberta deixou de ser uma monocultura Whisper em 2026. Cohere Transcribe, IBM Granite Speech 4.1, ARK-ASR e MOSS-Transcribe agora estão separados por menos de um WER…",
+      "link": "https://www.marktechpost.com/2026/07/23/best-open-speech-recognition-asr-models-in-2026-wer-languages-latency-and-license-compared/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-23T09:26:40+00:00"
+    },
+    {
+      "id": "dfe6791ac900327f",
+      "title": "Conheça o Gigatoken: um tokenizador Rust BPE que codifica texto a 24,53 GB/s, até 989x mais rápido que os tokenizadores HuggingFace",
+      "summary": "Gigatoken é um tokenizer Rust BPE licenciado pelo MIT que codifica texto em gigabytes por segundo. Em um AMD EPYC 9565 de 144 núcleos, ele executa tokenização GPT-2 a 24,53 GB/s. Isso é 989x…",
+      "link": "https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-23T08:01:22+00:00"
+    },
+    {
+      "id": "9b5dea6d609237e7",
+      "title": "Anthropic lança plug-in de segurança Claude para código Claude em versão beta: um scanner de vulnerabilidade multiagente executado em seu terminal",
+      "summary": "A Anthropic lançou o plugin Claude Security para Claude Code em beta. O plugin executa uma verificação de vulnerabilidade multiagente de um repositório de dentro de um Claude Code existente…",
+      "link": "https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-23T06:12:05+00:00"
+    },
     {
       "id": "982001cc2d7c58f0",
       "title": "ServiceNow aposta US$ 40 milhões em especialista indiano em software bancário para expandir seu impulso em serviços financeiros",
@@ -837,160 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-21T23:20:08+00:00"
-    },
-    {
-      "id": "16d7a4ec6c5c4454",
-      "title": "Você confia? 1Password libera IA para acessar senhas e fazer login automático",
-      "summary": "A 1Password anunciou uma integração com o Claude, inteligência artificial da Anthropic, que permite ao agente de IA realizar logins automáticos em sites sem ter acesso às senhas…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/voce-confia-1-password-libera-ia-para-acessar-senhas-e-fazer-login-automatico/",
-      "image": "https://tl.ctcdn.com.br/yMb9f0IJPosQwPmYT_25wSOgxfM=/0x0/filters:format(webp):quality(85)/5e64c955-d2fc-4f3e-962a-d0a502b202b4.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-21T23:08:00+00:00"
-    },
-    {
-      "id": "6db1f9469bd89491",
-      "title": "Positivo lança solução para acelerar inteligência artificial local no Brasil",
-      "summary": "A divisão de servidores da Positivo está trazendo uma solução interessante ao mercado brasileiro. A Positivo IA Box é uma infraestrutura integrada no modelo Hardware as a Service…",
-      "link": "https://canaltech.com.br/hardware/positivo-lanca-solucao-para-acelerar-inteligencia-artificial-local-no-brasil/",
-      "image": "https://tl.ctcdn.com.br/acs0mOuK5Ufg6XNzQJhlpMMIVsQ=/0x0/filters:format(webp):quality(85)/a4e4aa8e-0720-4057-858c-fb0aef16e00a.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-21T22:19:00+00:00"
-    },
-    {
-      "id": "dd5bcdfa5d12d743",
-      "title": "O novo ‘filme’ de zumbi AI de Neill Blomkamp é apenas um lixo aquecido",
-      "summary": "Na segunda-feira, o diretor do Distrito 9 e Gran Turismo, Neill Blomkamp, ​​​​revelou seu mais recente projeto: um curta de ficção científica de 13 minutos intitulado Nightborne, vagamente baseado no filme de 2014 de Peter Watts…",
-      "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-21T22:06:43+00:00"
-    },
-    {
-      "id": "f4f1718676d02b1f",
-      "title": "OpenAI diz que acidentalmente hackeou Hugging Face com um novo sistema de IA",
-      "summary": "A OpenAI afirma que seus modelos de IA violaram por engano a plataforma de IA de código aberto Hugging Face durante testes internos. Em uma postagem no blog na terça-feira, OpenAI escreve que GPT-5.6 Sol e \"um par…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-21T21:48:54+00:00"
-    },
-    {
-      "id": "f2d6163434c07992",
-      "title": "Aposta no silício: Google quer integrar o Gemini diretamente no hardware",
-      "summary": "Um dos maiores nomes em inteligência artificial hoje, o Google está projetando um novo chip que promete transformar o processamento de IA. Batizado internamente de \"Frozen v2\" , o…",
-      "link": "https://canaltech.com.br/hardware/aposta-no-silicio-google-quer-integrar-ia-gemini-diretamente-no-hardware/",
-      "image": "https://tl.ctcdn.com.br/N3VKC6tSj0DW6TPhbp7cphhiM3U=/0x0/filters:format(webp):quality(85)/86a179b6-44e3-48df-92a2-c72c1fd8f579.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-21T21:13:00+00:00"
-    },
-    {
-      "id": "e07fbaf3733d38d4",
-      "title": "Quando a IA fecha a porta de entrada do mercado de trabalho",
-      "summary": "Por Daniel Pisano* A inteligência artificial já aumenta a produtividade de profissionais experientes. Mas a ruptura mais urgente no mercado de trabalho talvez não apareça nas…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/quando-a-ia-fecha-a-porta-de-entrada-do-mercado-de-trabalho/",
-      "image": "https://tl.ctcdn.com.br/uSfU9KPHsjcb2EQYBnHd544Wqbo=/0x0/filters:format(webp):quality(85)/43684501-504f-4224-990c-e3646b23f3c5.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-21T21:00:01+00:00"
-    },
-    {
-      "id": "b0276a15e2bddd01",
-      "title": "OpenAI diz que Hugging Face foi violado por seus modelos de pré-lançamento",
-      "summary": "A OpenAI se apresentou para reivindicar a responsabilidade pela violação do Hugging Face, dizendo que foi o resultado de testes internos que deram errado.",
-      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-21T20:56:55+00:00"
-    },
-    {
-      "id": "eb386ea3b326f9ab",
-      "title": "Meta prepara chegada de novos óculos inteligentes ao Brasil",
-      "summary": "Terceira geração dos smart glasses da Meta foi homologada pela Anatel e pode ser vendida no mercado nacional. Meta prepara chegada de novos óculos inteligentes ao Brasil",
-      "link": "https://tecnoblog.net/noticias/meta-prepara-chegada-de-novos-oculos-inteligentes-ao-brasil/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/m6ua1qq5290-1.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-21T20:43:27+00:00"
-    },
-    {
-      "id": "403bd3a7d51e8e99",
-      "title": "YouTube declara guerra contra conteúdo feito por IA e desmonetiza vídeos",
-      "summary": "O YouTube detalhou as regras do Programa de Parcerias (YPP) para deixar mais claros os critérios usados na monetização de vídeos considerados inautênticos, repetitivos ou…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/you-tube-declara-guerra-contra-conteudo-feito-por-ia-e-desmonetiza-videos/",
-      "image": "https://tl.ctcdn.com.br/4-nxxU2rVvyW0-3Dc04fFIN45Tc=/0x0/filters:format(webp):quality(85)/914186ad-efd6-4fb5-ab6f-354796d1b9af.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-21T20:06:00+00:00"
-    },
-    {
-      "id": "91a5b7c5572d9140",
-      "title": "O estado da simulação para IA física: uma visão geral",
-      "summary": "",
-      "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-21T20:00:27+00:00"
-    },
-    {
-      "id": "2d7014cf058970df",
-      "title": "Jack Dorsey está enfrentando o Slack with Buzz, uma plataforma de bate-papo em grupo para equipes e seus agentes de IA",
-      "summary": "Buzz é uma plataforma de chat em grupo para o local de trabalho que coloca humanos e seus agentes de IA na mesma conversa.",
-      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-21T19:43:41+00:00"
-    },
-    {
-      "id": "cf614daf2f02b31d",
-      "title": "IA e a ascensão do aplicativo de entretenimento universal",
-      "summary": "Na última década, as plataformas de streaming competiram dominando formatos individuais como música, vídeo, podcasts ou audiolivros. Agora, como a IA torna mais fácil criar, organizar e…",
-      "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-21T19:39:30+00:00"
-    },
-    {
-      "id": "6deae87e629a1695",
-      "title": "Substack adiciona um detector de IA para ajudar a detectar blogs escritos por ninguém",
-      "summary": "O Substack agora ajudará os usuários a determinar se o que estão lendo pode ter sido escrito pela IA. Uma nova ferramenta chegando à plataforma pode digitalizar postagens, notas, respostas e comentários para…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB391_SUBSTACK_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-21T19:22:28+00:00"
-    },
-    {
-      "id": "2bf373420ebb0231",
-      "title": "Um sistema de IA ajudou os juízes paquistaneses a resolver enormes atrasos com um retorno de US$ 38,50 por dólar investido",
-      "summary": "Uma experiência de campo com 1.559 juízes paquistaneses descobriu que o assistente de IA, JudgeGPT, aumentou a resolução de casos em 6,3%. O problema: apenas os juízes que receberam treinamento prático viram…",
-      "link": "https://the-decoder.com/an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/judge_pakistan_study.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-21T19:12:20+00:00"
     }
   ]
 }
