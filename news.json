@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-07-22T19:15:38.069418+00:00",
+  "generated_at": "2026-07-23T02:36:00.820805+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "86ac207c56d3793f",
+      "title": "IBM diz que IA não está matando mainframe após queda de 42% nas vendas",
+      "summary": "Resultados do segundo trimestre divulgados nesta quarta-feira (22) confirmaram o que o mercado já sabia: foi um trimestre ruim (mas nem tanto) O post IBM diz que IA não está…",
+      "link": "https://olhardigital.com.br/2026/07/22/pro/ibm-diz-que-ia-nao-esta-matando-mainframe-apos-queda-de-42-nas-vendas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/11/ibm-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-23T01:32:59+00:00"
+    },
+    {
+      "id": "00a5675a063b7bbf",
+      "title": "Confira o Olhar Digital News na íntegra (22/07/2026)",
+      "summary": "Samsung anuncia nova linha de celulares dobráveis, relógios e óculos inteligentes. Confira as principais novidades no Olhar Digital News! O post Confira o Olhar Digital News na…",
+      "link": "https://olhardigital.com.br/2026/07/22/videos/confira-o-olhar-digital-news-na-integra-22-07-2026/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-23T01:10:21+00:00"
+    },
+    {
+      "id": "8c0a54e89e3a6506",
+      "title": "Olhar do Amanhã: IA aberta vs fechada: a nova batalha tecnológica",
+      "summary": "De fuga em teste controlado a recurso a uma IA chinesa aberta: entenda a invasão do agente de IA da OpenAI. O post Olhar do Amanhã: IA aberta vs fechada: a nova batalha…",
+      "link": "https://olhardigital.com.br/2026/07/22/colunistas/olhar-do-amanha-ia-aberta-vs-fechada-a-nova-batalha-tecnologica/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-23T00:37:13+00:00"
+    },
+    {
+      "id": "c4e7873e643bcf2a",
+      "title": "Após um trimestre chocante, a IBM insiste que a IA não está matando o mainframe",
+      "summary": "Depois que as ações da IBM despencaram na semana passada devido a avisos de vendas fracas de mainframe, o CEO explicou que a IA destruiu temporariamente o orçamento de hardware corporativo.",
+      "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-22T23:47:54+00:00"
+    },
+    {
+      "id": "5d93e59471e3494a",
+      "title": "Amazon faz cortes em setor responsável por desenvolvimento da IA",
+      "summary": "Funcionários da divisão de AGI deixaram seus cargos. Áreas como customização de modelos e pós-treinamento estão entre as afetadas. Amazon faz cortes em setor responsável por…",
+      "link": "https://tecnoblog.net/noticias/amazon-faz-cortes-em-setor-responsavel-por-desenvolvimento-da-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-amazon-1_thumb_tb-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-22T23:38:17+00:00"
+    },
+    {
+      "id": "eda225bbd33f5c13",
+      "title": "Cursor lança Cursor Router: um classificador em nível de solicitação que oferece qualidade de codificação de fronteira com custo 30–50% menor",
+      "summary": "O Cursor disponibilizou o Cursor Router para planos Teams e Enterprise. O sistema classifica cada solicitação por consulta, contexto, complexidade da tarefa e domínio e, em seguida, encaminha-a…",
+      "link": "https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-22T22:37:44+00:00"
+    },
+    {
+      "id": "dd01a6ee872612a3",
+      "title": "O Google justifica seus enormes gastos com IA com um negócio em nuvem em expansão",
+      "summary": "O negócio de nuvem do Google está prosperando, à medida que as empresas que adotam seus serviços de IA e de infraestrutura de IA ajudam a gigante da tecnologia a reportar lucros recordes.",
+      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-22T22:01:52+00:00"
+    },
+    {
+      "id": "e1b5d94ee7bab257",
+      "title": "Análise EdgeBench de nível de pesquisa: benchmarking de agente de IA, análise de placar, leis de escala e métricas de avaliação",
+      "summary": "Neste tutorial, exploramos o EdgeBench como uma referência prática para avaliar agentes avançados de IA em diversas categorias de tarefas, ambientes de tempo de execução e tempo de interação…",
+      "link": "https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-22T21:53:58+00:00"
+    },
+    {
+      "id": "d3bd61a0529acff8",
+      "title": "Alphabet tem receita superior no 2º trimestre e acumula bilhões em ganhos",
+      "summary": "Resultados representam primeiro grande teste da temporada de balanços para as big techs, que vêm ampliando fortemente seus investimentos em infraestrutura de IA O post Alphabet…",
+      "link": "https://olhardigital.com.br/2026/07/22/pro/alphabet-tem-receita-superior-no-2-trimestre-e-acumula-bilhoes-em-ganhos/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-22T21:01:14+00:00"
+    },
+    {
+      "id": "2cf6a7ead62301c9",
+      "title": "Tesouro ameaça sanções depois que a Casa Branca afirma que Moonshot destilou a Fábula da Anthropic",
+      "summary": "O episódio também intensificou um debate mais amplo em Washington sobre o influxo de modelos abertos chineses.",
+      "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-22T20:49:03+00:00"
+    },
+    {
+      "id": "3a8ad3686b1efaa5",
+      "title": "Crise no Xbox? VP de engenharia deixa cargo apenas 3 meses após assumir",
+      "summary": "O vice-presidente de engenharia do XBOX, Jared Palmer , divulgou nas redes sociais que não trabalha mais para a Microsoft. Agora ele está na Cognition, uma empresa de inteligência…",
+      "link": "https://canaltech.com.br/games/danca-das-cadeiras-no-xbox-executivo-deixa-empresa/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-22T19:45:00+00:00"
+    },
+    {
+      "id": "30d7838a90e0cd34",
+      "title": "O acordo de pirataria de US$ 1,5 bilhão da Anthropic com autores de livros é uma perda recorde que dá aos laboratórios de IA sua maior vitória legal",
+      "summary": "A Anthropic terá que pagar US$ 1,5 bilhão aos autores de livros, o maior acordo de direitos autorais na história das ações coletivas. Mas o pagamento é para baixar cerca de 482.460 obras piratas…",
+      "link": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_books_lawsuit-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-22T19:33:48+00:00"
+    },
     {
       "id": "a342f849430873cb",
       "title": "Como um erro humano da OpenAI levou ao hack baseado em IA no Hugging Face",
@@ -432,6 +564,17 @@
       "published_at": "2026-07-22T13:00:00+00:00"
     },
     {
+      "id": "932591afba7f1cf5",
+      "title": "Como as organizações de notícias estão usando a IA para avançar em suas missões vitais",
+      "summary": "As organizações noticiosas estão a utilizar a IA para reforçar as reportagens, aumentar as audiências e melhorar as operações comerciais, com ferramentas OpenAI que apoiam jornalistas e editores em todo o mundo.",
+      "link": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-22T13:00:00+00:00"
+    },
+    {
       "id": "a9dfe60b87c54070",
       "title": "3 atualizações do Google do Galaxy Unpacked 2026",
       "summary": "Óculos Gentle Monster, óculos Warby Parker, um aviso pedindo a história por trás de um edifício na foto e um aviso pedindo para reservar uma mesa em um restaurante na foto",
@@ -518,6 +661,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-07-22T10:00:00+00:00"
+    },
+    {
+      "id": "44fd089e6e4437ff",
+      "title": "Unsloth vs Axolotl vs TRL vs LLaMA-Factory: uma comparação de estrutura de ajuste fino em velocidade, VRAM e multi-GPU",
+      "summary": "Quatro projetos de código aberto dominam o ajuste fino do LLM atualmente. Unsloth, Axolotl, TRL e LLaMA-Factory envolvem a mesma pilha subjacente de PyTorch e Hugging Face. Eles divergem em…",
+      "link": "https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-22T09:16:40+00:00"
     },
     {
       "id": "3aef29400153e495",
@@ -617,6 +771,17 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-07-22T00:01:32+00:00"
+    },
+    {
+      "id": "389ebd02d2834f48",
+      "title": "NTT DATA Group reduz análise de incidentes para 30 minutos com Codex",
+      "summary": "O NTT DATA Group usa ChatGPT Enterprise e Codex para ajudar 9.000 funcionários a automatizar o trabalho, reduzir a análise de incidentes para 30 minutos e dimensionar a adoção segura de IA.",
+      "link": "https://openai.com/index/ntt-data",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-22T00:00:00+00:00"
     },
     {
       "id": "a983abeb35773ed7",
@@ -826,171 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-21T18:43:54+00:00"
-    },
-    {
-      "id": "4dfd94045cb4be11",
-      "title": "Hora de renovar a impressora: selecionamos ótimas opções em promoção na Amazon",
-      "summary": "Se você está precisando trocar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três modelos multifuncionais em oferta na Amazon — todos com…",
-      "link": "https://olhardigital.com.br/2026/07/21/reviews/hora-de-renovar-a-impressora-selecionamos-otimas-opcoes-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-21T18:40:00+00:00"
-    },
-    {
-      "id": "e83e378d57e33689",
-      "title": "Google lança Gemini 3.6 Flash, 3.5 Flash-Lite e 3.5 Flash Cyber: um nível de Flash mais barato e com maior eficiência de token criado para cargas de trabalho de agentes",
-      "summary": "O Google lançou Gemini 3.6 Flash, 3.5 Flash-Lite e 3.5 Flash Cyber ​​em 21 de julho de 2026. O nível Flash fica mais barato e mais eficiente em termos de tokens, com 3.6 Flash cortando tokens de saída…",
-      "link": "https://www.marktechpost.com/2026/07/21/google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-a-cheaper-more-token-efficient-flash-tier-built-for-agentic-workloads/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/HNwo7c1a8AA5h9d-1-150x150.jpeg",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-21T17:45:08+00:00"
-    },
-    {
-      "id": "878389a947a3cd24",
-      "title": "Acordo de direitos autorais de US$ 1,5 bilhão da Antrópico aprovado; apenas 350 autores optaram por não participar",
-      "summary": "A Anthropic impede que os autores optem por não aceitar o acordo de US$ 1,5 bilhão no último minuto.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-592014704-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-21T17:33:14+00:00"
-    },
-    {
-      "id": "bc8fdb9e41796c88",
-      "title": "Google lança três novos modelos Gemini – mas nenhum 3.5 Pro",
-      "summary": "O Google lançou o Gemini 3.6 Flash, 3.5 Flash-Lite e Flash Cyber, mas a contínua ausência do Gemini 3.5 Pro levanta novas questões sobre sua estratégia de IA.",
-      "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-21T17:11:50+00:00"
-    },
-    {
-      "id": "50fab87f769905f2",
-      "title": "Claude Cowork aprende novas habilidades por meio de gravações de tela e explicações em narração",
-      "summary": "O aplicativo de desktop Claude Cowork da Anthropic agora permite que os usuários gravem sua tela enquanto completam uma tarefa, adicionem comentários de voz e façam com que Claude transforme tudo em uma habilidade reutilizável…",
-      "link": "https://the-decoder.com/claude-cowork-learns-new-skills-through-screen-recordings-and-voice-over-explanations/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_medicine.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-21T17:07:21+00:00"
-    },
-    {
-      "id": "adf0a51f2ce5a9b5",
-      "title": "Por que a IA exige mudança de cultura, não apenas de código",
-      "summary": "*Por Eduardo Ibrahim Se você navega pela internet, gosta de gadgets ou trabalha com tecnologia hoje, com certeza já deve ter testado uma porção de ferramentas de inteligência…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/por-que-a-ia-exige-mudanca-de-cultura-nao-apenas-de-codigo/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-21T17:02:17+00:00"
-    },
-    {
-      "id": "3064e426d18ccd85",
-      "title": "Apresentando o programa ChatGPT para pequenas empresas",
-      "summary": "OpenAI lança o programa ChatGPT para pequenas empresas, ajudando empreendedores a desenvolver habilidades de IA, automatizar o trabalho e crescer com o ChatGPT Work.",
-      "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-21T17:00:00+00:00"
-    },
-    {
-      "id": "c58a4176e54e764e",
-      "title": "Google anuncia Gemini 3.6 Flash e IA de segurança cibernética, provoca 3.5 Pro e Gemini 4",
-      "summary": "Existem novos modelos 3.6 e 3.5 hoje, mas o Google já está treinando o Gemini 4.",
-      "link": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-7-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-21T16:58:25+00:00"
-    },
-    {
-      "id": "3c227f58a021e184",
-      "title": "Acordo de pirataria de livros de US$ 1,5 bilhão da Anthropic é aprovado pelo juiz",
-      "summary": "Um juiz federal assinou o acordo de ação coletiva de US$ 1,5 bilhão da Anthropic com autores que acusaram a empresa de treinar seus modelos de IA em livros protegidos por direitos autorais, conforme relatado…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-21T16:53:37+00:00"
-    },
-    {
-      "id": "c19fa7675634b89e",
-      "title": "O Google envia três novos modelos Gemini Flash, mas sua fronteira 3.5 Pro permanece perdida no treinamento",
-      "summary": "O Google está lançando três novos modelos de Flash da série Gemini, incluindo o Flash 3.6 mais eficiente, que usa até 65% menos tokens, e um modelo de segurança cibernética…",
-      "link": "https://the-decoder.com/google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-21T16:52:51+00:00"
-    },
-    {
-      "id": "e3a234f6c0288f96",
-      "title": "Validando benchmarks de serviço LLM distribuído com NVIDIA srt-slurm, receitas SLURM, varreduras de parâmetros e análise de Pareto",
-      "summary": "Neste tutorial, exploramos a estrutura srt-slurm da NVIDIA e aprendemos como usamos srtctl para converter configurações YAML declarativas em fluxos de trabalho de benchmark SLURM reproduzíveis para…",
-      "link": "https://www.marktechpost.com/2026/07/21/validating-distributed-llm-serving-benchmarks-with-nvidia-srt-slurm-slurm-recipes-parameter-sweeps-and-pareto-analysis/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-21T16:29:36+00:00"
-    },
-    {
-      "id": "d6b53378305896e8",
-      "title": "ADATA prevê 10 anos de escassez de DRAM e descarta bolha de IA",
-      "summary": "A escassez global de DRAM está longe de terminar e pode se estender por mais uma década . O alerta foi feito por Chen Li-bai, presidente da ADATA , que já deu seu palpite para o…",
-      "link": "https://canaltech.com.br/hardware/adata-preve-10-anos-de-escassez-de-dram-e-descarta-bolha-de-ia/",
-      "image": "https://tl.ctcdn.com.br/OojVfJO4Wa_LexD6quzQ3HPvJc8=/0x0/filters:format(webp):quality(85)/c2c1fdd7-254e-4793-9252-12c5d2dbba06.JPEG",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-21T16:12:00+00:00"
-    },
-    {
-      "id": "32d8c00cf1211e6f",
-      "title": "Anthropic fecha acordo de US$ 1,5 bilhão por usar livros para treinar IA",
-      "summary": "Acordo encerra ação coletiva movida por escritores contra a desenvolvedora do Claude. Valor é o maior já registrado em um caso do tipo no país. Anthropic fecha acordo de US$ 1,5…",
-      "link": "https://tecnoblog.net/noticias/anthropic-pagara-us-15-bilhao-por-livros-usados-para-treinar-o-claude/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/12/pirataria-direitos-autorais-capa-7-nov-2022-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-21T16:08:54+00:00"
-    },
-    {
-      "id": "fd206c0bb9a800f9",
-      "title": "O Qwen-Image-3.0 do Alibaba renderiza grades completas de infográficos e texto legível de dez pixels em uma única passagem",
-      "summary": "A equipe Qwen do Alibaba lançou o Qwen-Image-3.0, um gerador de imagens que aceita solicitações de até 4.500 tokens, renderiza texto legível de até dez pixels e suporta doze…",
-      "link": "https://the-decoder.com/alibabas-qwen-image-3-0-renders-full-infographic-grids-and-readable-ten-pixel-text-in-a-single-pass/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/qwen-image-3-banner.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-21T15:55:09+00:00"
-    },
-    {
-      "id": "11f8b56414a2b9fb",
-      "title": "EUA ameaçam sanções contra modelos chineses de IA por roubo de propriedade intelectual",
-      "summary": "O secretário do Tesouro, Scott Bessent, disse que os EUA poderiam sancionar os modelos abertos de IA chineses por suposto roubo de propriedade intelectual, expandindo a campanha da administração Trump para desacelerar a IA da China…",
-      "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-21T15:37:05+00:00"
     }
   ]
 }
