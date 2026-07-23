@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-07-23T02:36:00.820805+00:00",
+  "generated_at": "2026-07-23T08:27:23.958661+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "982001cc2d7c58f0",
+      "title": "ServiceNow aposta US$ 40 milhões em especialista indiano em software bancário para expandir seu impulso em serviços financeiros",
+      "summary": "O investimento da ServiceNow dá à BusinessNext um parceiro estratégico para expandir globalmente seu software bancário baseado em IA.",
+      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-23T06:09:13+00:00"
+    },
+    {
+      "id": "94836ff3b237d602",
+      "title": "Pastor processa OpenAI após conselho do ChatGPT quase custar sua vida",
+      "summary": "Ação afirma que chatbot respondeu que os sinais descritos por ele \"não eram algo perigoso\", o que teria contribuído para o adiamento da busca por atendimento médico O post Pastor…",
+      "link": "https://olhardigital.com.br/2026/07/22/pro/pastor-processa-openai-apos-conselho-do-chatgpt-quase-custar-sua-vida/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/chatgpt_2-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-23T01:55:23+00:00"
+    },
     {
       "id": "86ac207c56d3793f",
       "title": "IBM diz que IA não está matando mainframe após queda de 42% nas vendas",
@@ -34,6 +56,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-23T00:37:13+00:00"
+    },
+    {
+      "id": "96f5dc656a14a806",
+      "title": "Trazendo inferência de difusão Nunchaku de 4 bits para difusores",
+      "summary": "",
+      "link": "https://huggingface.co/blog/nunchaku-diffusers",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-23T00:00:00+00:00"
     },
     {
       "id": "c4e7873e643bcf2a",
@@ -958,39 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-21T19:12:20+00:00"
-    },
-    {
-      "id": "970df3dbd55cbefe",
-      "title": "Terceirizou o flerte? Como o ChatGPT está estragando apps de namoro",
-      "summary": "Solteiros nos Estados Unidos têm recorrido ao ChatGPT e ao Claude para escrever mensagens em aplicativos de namoro , analisar “erros” em conversas e criar frases de abertura. A…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/terceirizou-o-flerte-como-o-chat-gpt-esta-estragando-apps-de-namoro/",
-      "image": "https://tl.ctcdn.com.br/RtlXAqxg3N_tuYOZQGbpVLNpvvA=/0x0/filters:format(webp):quality(85)/6e4824d9-f3e4-44c8-b2f2-d46f9606c287.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-21T19:00:00+00:00"
-    },
-    {
-      "id": "07d586a8e78e4862",
-      "title": "Google lança IA para cibersegurança e quer rivalizar com Claude Mythos",
-      "summary": "Gemini 3.5 Flash Cyber tem resultados parecidos com modelos maiores e mais caros da Anthropic e da OpenAI, mas promete ser mais barato. Google lança IA para cibersegurança e quer…",
-      "link": "https://tecnoblog.net/noticias/google-lanca-ia-para-ciberseguranca-e-quer-rivalizar-com-claude-mythos/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-3-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-21T18:49:19+00:00"
-    },
-    {
-      "id": "aaabc9c0e680764a",
-      "title": "Deezer afirma que músicas de IA já são maioria entre novos uploads",
-      "summary": "Plataforma chegou a receber 90 mil faixas sintéticas por dia. Streaming reforçará combate a fraudes e removerá faixas usadas para manipular royalties de artistas. Deezer afirma…",
-      "link": "https://tecnoblog.net/noticias/deezer-afirma-que-musicas-de-ia-ja-sao-maioria-entre-novos-uploads/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/05/deezer_capa-2_tb-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-21T18:43:54+00:00"
     }
   ]
 }
