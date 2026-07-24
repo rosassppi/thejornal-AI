@@ -1,7 +1,260 @@
 {
-  "generated_at": "2026-07-24T13:41:44.057805+00:00",
+  "generated_at": "2026-07-24T19:23:16.544937+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "e5b07115a5eb2677",
+      "title": "Anthropic afirma que seu novo Claude Opus 5 oferece desempenho próximo ao Fable 5 pela metade do preço simbólico",
+      "summary": "O novo modelo carro-chefe da Anthropic, Claude Opus 5, obtém as melhores pontuações em codificação e trabalho de conhecimento pela metade das taxas de token do Fable 5. No ARC-AGI-3, uma referência para a resolução de novos problemas…",
+      "link": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_opus_5_logo-scaled.webp",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-24T18:36:42+00:00"
+    },
+    {
+      "id": "d77541f6a22aea91",
+      "title": "Deputados dos EUA querem mecanismo para desligar IAs de alto risco",
+      "summary": "Projeto exige que grandes empresas criem sistemas de interrupção para modelos perigosos. Proposta ganhou força após IA da OpenAI invadir o Hugging Face. Deputados dos EUA querem…",
+      "link": "https://tecnoblog.net/noticias/deputados-dos-eua-querem-mecanismo-para-desligar-ias-de-alto-risco/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/12/tipos-de-inteligencia-artificial-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-24T18:16:13+00:00"
+    },
+    {
+      "id": "9cec34381fb0e9ea",
+      "title": "Por que a Cognition comprou o Poke: a personalidade da IA ​​está se tornando uma vantagem competitiva",
+      "summary": "A startup de codificação de IA Cognition adquiriu o Poke, o assistente de IA para o qual você envia mensagens de texto como um amigo, em um acordo que avalia a startup em nove dígitos. A aquisição traz Poke's…",
+      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-24T18:07:32+00:00"
+    },
+    {
+      "id": "5ae1804405623900",
+      "title": "Anthropic lança Claude Opus 5, IA com foco em custo-benefício e tarefas do dia a dia",
+      "summary": "Segundo a startup, a novidade oferece desempenho próximo ao de seu modelo mais avançado, o Fable 5, mas por cerca de metade do preço O post Anthropic lança Claude Opus 5, IA com…",
+      "link": "https://olhardigital.com.br/2026/07/24/inteligencia-artificial/anthropic-lanca-claude-opus-5-ia-com-foco-em-custo-beneficio-e-tarefas-do-dia-a-dia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/anthropic-1-1024x585.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-24T18:06:57+00:00"
+    },
+    {
+      "id": "cfb2d330d2414b5f",
+      "title": "A equipe usa AlphaFold AI para redesenhar proteínas de edição de genes para torná-las mais seguras",
+      "summary": "O AlphaFold do Google pode ajudar a identificar quais partes de uma proteína de edição genética permitem erros.",
+      "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2239702658-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-24T17:31:26+00:00"
+    },
+    {
+      "id": "ed22f67239e1b988",
+      "title": "Você não pode mais ignorar o Google Zero",
+      "summary": "A web e o Google já tiveram um acordo: o Google coleta dados e indexa páginas da web e, em troca, envia oceanos de tráfego para sites. O negócio não foi perfeito e certamente foi feito…",
+      "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-24T17:29:48+00:00"
+    },
+    {
+      "id": "0a95631b3c26be86",
+      "title": "Transforme sua TV com os melhores Fire TV Sticks em promoção na Amazon",
+      "summary": "Se você ainda não deu o salto para um streaming mais completo e inteligente, este é o momento certo. Reunimos três opções de Fire TV Stick disponíveis na Amazon para diferentes…",
+      "link": "https://olhardigital.com.br/2026/07/24/reviews/transforme-sua-tv-com-os-melhores-fire-tv-sticks-em-promocao-na-amazon-4/",
+      "image": "https://m.media-amazon.com/images/I/31KfGeE0GJL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-24T17:07:38+00:00"
+    },
+    {
+      "id": "b7d7ca4a5d472f5d",
+      "title": "Construir em público, falhar em público: como é ser um fundador com menos de 20 anos agora",
+      "summary": "As ferramentas de IA democratizaram a oportunidade de construção, encurtando os prazos de sucesso e permitindo que mais jovens iniciassem empresas de sucesso sem pisar nelas...",
+      "link": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-24T17:00:00+00:00"
+    },
+    {
+      "id": "310f57a4b47f8cf6",
+      "title": "Antrópico lança Opus 5",
+      "summary": "O Opus 5 será mais barato e menos restritivo que o Fable, provavelmente tornando-o preferível na maioria dos casos de uso.",
+      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-24T17:00:00+00:00"
+    },
+    {
+      "id": "24e986a8ed3daf1f",
+      "title": "Anthropic lança Opus 5 com capacidades ‘próximas’ das do Fable 5",
+      "summary": "Semanas após o último confronto direto da Anthropic com o governo dos EUA, e dias após um incidente de segurança OpenAI que dominou as discussões da indústria de tecnologia, a Anthropic na quinta-feira…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-24T17:00:00+00:00"
+    },
+    {
+      "id": "31e62424f11d6bde",
+      "title": "Meta está tornando seu chatbot de IA mais parecido com um assistente",
+      "summary": "A Meta está atualizando seu chatbot de IA com novos recursos de produtividade em uma tentativa de competir com rivais como Gemini, ChatGPT e Claude. A atualização permitirá que Meta AI acesse seu…",
+      "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,70.070631469476",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-24T17:00:00+00:00"
+    },
+    {
+      "id": "bd8159396db1b1f8",
+      "title": "Instagram vai banir quem usar óculos da Meta para gravar pessoas sem autorização",
+      "summary": "O Instagram passará a banir contas que usam os óculos inteligentes da Meta para gravar pessoas sem autorização e publicar o conteúdo na rede social. O anúncio partiu do chefe da…",
+      "link": "https://canaltech.com.br/apps/instagram-vai-banir-quem-usar-oculos-da-meta-para-gravar-pessoas-sem-autorizacao/",
+      "image": "https://tl.ctcdn.com.br/MKSDNOJBzTTMRxNB3ITSNOAsrAU=/0x0/filters:format(webp):quality(85)/d56b46f1-8b8c-4ec1-94b4-881a904586b7.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-24T17:00:00+00:00"
+    },
+    {
+      "id": "e5c4f68624041446",
+      "title": "O oceano guardava esses dados há 20 anos — até a IA analisá-los",
+      "summary": "Após 20 anos de medições no mar, inteligência artificial encontra pistas sobre correntes oceânicas e amplia o monitoramento dos oceanos O post O oceano guardava esses dados há 20…",
+      "link": "https://olhardigital.com.br/2026/07/24/ciencia-e-espaco/o-oceano-guardava-esses-dados-ha-20-anos-ate-a-ia-analisa-los/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/iStock-2063906290-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-24T16:53:29+00:00"
+    },
+    {
+      "id": "9c3b17d9c8756f11",
+      "title": "O próprio modelo da OpenAI se tornou desonesto antes de Kimi deixar Wall Street suando",
+      "summary": "O modelo aberto do laboratório chinês de IA Moonshot, Kimi, se tornou viral esta semana por razões que tinham menos a ver com o modelo em si e mais a ver com a forma como a indústria de IA dos EUA reagiu a ele…",
+      "link": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-24T16:50:08+00:00"
+    },
+    {
+      "id": "8f7ad88328945153",
+      "title": "O impulso de IA de peso aberto da Microsoft é tão obviamente uma jogada do Azure que dói",
+      "summary": "A Microsoft, juntamente com Meta, Nvidia e mais de 20 outras empresas, está pressionando por modelos de IA de peso aberto em uma carta aberta. A lógica estratégica é simples: quanto mais modelos…",
+      "link": "https://the-decoder.com/microsofts-open-weight-ai-push-is-so-obviously-an-azure-play-it-hurts/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/microsoft_glitch_robot.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-24T16:06:02+00:00"
+    },
+    {
+      "id": "ffafa4496b0ec748",
+      "title": "Enquanto os EUA avaliam a resposta à IA chinesa, a indústria urge contra amplas restrições de peso aberto",
+      "summary": "As empresas de IA, incluindo Nvidia e Mistral, exortam os legisladores a evitar amplas restrições aos modelos de IA de peso aberto enquanto Washington debate respostas à IA chinesa e ao alegado modelo…",
+      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-24T15:51:49+00:00"
+    },
+    {
+      "id": "a0788dccce86b7f1",
+      "title": "O assistente de IA da Bluesky, Attie, se expande para uma ferramenta aberta de pesquisa social",
+      "summary": "Os usuários agora podem fazer perguntas a Attie sobre notícias, tendências e conversas no Bluesky e outros aplicativos no protocolo AT.",
+      "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-24T15:13:57+00:00"
+    },
+    {
+      "id": "1facf45ae59e1393",
+      "title": "Midjourney adquiriu o aplicativo de astrologia Co-Star",
+      "summary": "O laboratório de IA Midjourney continua a expandir seu alcance além da geração de imagens e vídeos.",
+      "link": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-24T15:09:55+00:00"
+    },
+    {
+      "id": "1cd53c40ebbafb62",
+      "title": "A broificação tecnológica da ciência americana começou oficialmente",
+      "summary": "A administração Trump revelou os primeiros subsídios da \"Missão Gênesis\" na quinta-feira, direcionando US$ 5 bilhões para centenas de projetos científicos orientados por IA, em um esforço que a Casa Branca…",
+      "link": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Petridish_illo.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-24T14:43:55+00:00"
+    },
+    {
+      "id": "9051278c655a47dd",
+      "title": "Galaxy Watch 8 Classic tem 60% OFF em promoção imbatível de Dia dos Pais",
+      "summary": "Galaxy Watch 8 Classic com tela AMOLED, design clássico e recursos de IA atinge o menor preço que já vimos, com desconto de 60% no Pix em oferta do Dia dos Pais 2026 Galaxy Watch…",
+      "link": "https://tecnoblog.net/achados/galaxy-watch-8-classic-tem-60-off-em-promocao-imbativel-de-dia-dos-pais/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/ukunaxh68o-8.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-24T14:41:27+00:00"
+    },
+    {
+      "id": "4434de9b7c83c59a",
+      "title": "Como aprender e resolver 9 problemas do dia a dia com ajuda da IA",
+      "summary": "A inteligência artificial já se tornou uma assistente pessoal para muitas pessoas. Ferramentas, como ChatGPT, Gemini e Claude, ajudam a organizar a rotina, resolver problemas com…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-aprender-resolver-problemas-dia-a-dia-ajuda-ia/",
+      "image": "https://tl.ctcdn.com.br/1X764xPDI_Wv1XBAouqSibiohoE=/0x0/filters:format(webp):quality(85)/3b5477d1-a3ad-4864-ae4a-9fe2c4e4f72d.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-24T14:39:00+00:00"
+    },
+    {
+      "id": "f97cb1164887542d",
+      "title": "Sakana afirma que seu roteador modelo AI Fugu Ultra v1.1 agora supera o Fable 5, mesmo sem incluí-lo no pool",
+      "summary": "Sakana AI atualizou seu roteador Fugu Ultra AI para a versão 1.1, reivindicando ganhos de até 7,9 pontos em relação à v1.0. A verificação independente ainda não existe. A atualização adiciona um Claude…",
+      "link": "https://the-decoder.com/sakana-claims-its-ai-model-router-fugu-ultra-v1-1-now-beats-fable-5-without-even-including-it-in-the-pool/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/sakana_fugu_ai.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-24T14:37:57+00:00"
+    },
+    {
+      "id": "42ea4d5192715afc",
+      "title": "As empresas de IA querem mais data centers; A EPA de Trump pode dar menos voz aos vizinhos",
+      "summary": "A regra permitiria que os estados decidissem quanta contribuição pública pode haver – se houver.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-2113285214-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-24T13:49:38+00:00"
+    },
     {
       "id": "397330e7a328810a",
       "title": "O novo modo de voz do OpenAI chega ao aplicativo de desktop ChatGPT",
@@ -300,17 +553,6 @@
       "published_at": "2026-07-23T19:00:51+00:00"
     },
     {
-      "id": "18c71ec7bf4bce71",
-      "title": "Anthropic atualiza modo de voz de Claude com modelos mais capazes",
-      "summary": "O novo modelo de voz de Claude permitirá que você reagende sua reunião ou redija um e-mail",
-      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-23T19:00:00+00:00"
-    },
-    {
       "id": "046009295c648fc7",
       "title": "O modo de voz de Claude agora está disponível para Opus e Sonnet",
       "summary": "Até agora, o modo de voz estava disponível apenas no Claude Haiku, o modelo mais rápido, mas menos poderoso, da Anthropic. Agora a empresa está disponibilizando seus modelos Opus e Sonnet em voz…",
@@ -319,6 +561,17 @@
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
+      "published_at": "2026-07-23T19:00:00+00:00"
+    },
+    {
+      "id": "18c71ec7bf4bce71",
+      "title": "Anthropic atualiza modo de voz de Claude com modelos mais capazes",
+      "summary": "O novo modelo de voz de Claude permitirá que você reagende sua reunião ou redija um e-mail",
+      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-07-23T19:00:00+00:00"
     },
     {
@@ -476,17 +729,6 @@
       "published_at": "2026-07-23T17:01:30+00:00"
     },
     {
-      "id": "a501624b44a87a88",
-      "title": "OpenAI disponibiliza ChatGPT Health para todos os usuários dos EUA",
-      "summary": "Os usuários também podem integrar seus dados pessoais de serviços como Apple Health, Function e MyFitnessPal.",
-      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-23T17:00:00+00:00"
-    },
-    {
       "id": "fdd00e498f264e2c",
       "title": "A OpenAI está fazendo grandes reivindicações ao lançar o ChatGPT Health para todos",
       "summary": "A OpenAI está lançando o ChatGPT Health para todos nos EUA na quinta-feira, permitindo que mais pessoas conectem seus registros médicos e informações de rastreamento de saúde ao chatbot…",
@@ -495,6 +737,17 @@
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
+      "published_at": "2026-07-23T17:00:00+00:00"
+    },
+    {
+      "id": "a501624b44a87a88",
+      "title": "OpenAI disponibiliza ChatGPT Health para todos os usuários dos EUA",
+      "summary": "Os usuários também podem integrar seus dados pessoais de serviços como Apple Health, Function e MyFitnessPal.",
+      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-07-23T17:00:00+00:00"
     },
     {
@@ -663,17 +916,6 @@
       "published_at": "2026-07-23T12:24:53+00:00"
     },
     {
-      "id": "9d4c464f96c952b8",
-      "title": "Os boomers de direita que protestam contra os data centers têm muito em comum com a esquerda",
-      "summary": "Em uma manhã cinzenta e úmida de sábado no centro da Flórida, pouco menos de uma dúzia de pessoas se reuniram em frente à Biblioteca Spring Hill Branch para protestar contra a construção de uma hiperescala…",
-      "link": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286058283.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-23T12:00:00+00:00"
-    },
-    {
       "id": "feaf9ab57c84ebb2",
       "title": "Como a IA ajuda os cientistas a projetar a próxima geração de medicamentos",
       "summary": "Projetar e desenvolver um novo medicamento é um desafio científico caro e propenso ao fracasso. Um novo medicamento pode levar muitos anos para ser desenvolvido, ao custo de um investimento significativo…",
@@ -682,6 +924,17 @@
       "source": "MIT Tech Review",
       "region": "mundo",
       "category": "Pesquisa",
+      "published_at": "2026-07-23T12:00:00+00:00"
+    },
+    {
+      "id": "9d4c464f96c952b8",
+      "title": "Os boomers de direita que protestam contra os data centers têm muito em comum com a esquerda",
+      "summary": "Em uma manhã cinzenta e úmida de sábado no centro da Flórida, pouco menos de uma dúzia de pessoas se reuniram em frente à Biblioteca Spring Hill Branch para protestar contra a construção de uma hiperescala…",
+      "link": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286058283.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
       "published_at": "2026-07-23T12:00:00+00:00"
     },
     {
@@ -738,259 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-07-23T08:01:22+00:00"
-    },
-    {
-      "id": "9b5dea6d609237e7",
-      "title": "Anthropic lança plug-in de segurança Claude para código Claude em versão beta: um scanner de vulnerabilidade multiagente executado em seu terminal",
-      "summary": "A Anthropic lançou o plugin Claude Security para Claude Code em beta. O plugin executa uma verificação de vulnerabilidade multiagente de um repositório de dentro de um Claude Code existente…",
-      "link": "https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-23T06:12:05+00:00"
-    },
-    {
-      "id": "982001cc2d7c58f0",
-      "title": "ServiceNow aposta US$ 40 milhões em especialista indiano em software bancário para expandir seu impulso em serviços financeiros",
-      "summary": "O investimento da ServiceNow dá à BusinessNext um parceiro estratégico para expandir globalmente seu software bancário baseado em IA.",
-      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-23T06:09:13+00:00"
-    },
-    {
-      "id": "94836ff3b237d602",
-      "title": "Pastor processa OpenAI após conselho do ChatGPT quase custar sua vida",
-      "summary": "Ação afirma que chatbot respondeu que os sinais descritos por ele \"não eram algo perigoso\", o que teria contribuído para o adiamento da busca por atendimento médico O post Pastor…",
-      "link": "https://olhardigital.com.br/2026/07/22/pro/pastor-processa-openai-apos-conselho-do-chatgpt-quase-custar-sua-vida/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/chatgpt_2-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T01:55:23+00:00"
-    },
-    {
-      "id": "86ac207c56d3793f",
-      "title": "IBM diz que IA não está matando mainframe após queda de 42% nas vendas",
-      "summary": "Resultados do segundo trimestre divulgados nesta quarta-feira (22) confirmaram o que o mercado já sabia: foi um trimestre ruim (mas nem tanto) O post IBM diz que IA não está…",
-      "link": "https://olhardigital.com.br/2026/07/22/pro/ibm-diz-que-ia-nao-esta-matando-mainframe-apos-queda-de-42-nas-vendas/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/11/ibm-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T01:32:59+00:00"
-    },
-    {
-      "id": "00a5675a063b7bbf",
-      "title": "Confira o Olhar Digital News na íntegra (22/07/2026)",
-      "summary": "Samsung anuncia nova linha de celulares dobráveis, relógios e óculos inteligentes. Confira as principais novidades no Olhar Digital News! O post Confira o Olhar Digital News na…",
-      "link": "https://olhardigital.com.br/2026/07/22/videos/confira-o-olhar-digital-news-na-integra-22-07-2026/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T01:10:21+00:00"
-    },
-    {
-      "id": "8c0a54e89e3a6506",
-      "title": "Olhar do Amanhã: IA aberta vs fechada: a nova batalha tecnológica",
-      "summary": "De fuga em teste controlado a recurso a uma IA chinesa aberta: entenda a invasão do agente de IA da OpenAI. O post Olhar do Amanhã: IA aberta vs fechada: a nova batalha…",
-      "link": "https://olhardigital.com.br/2026/07/22/colunistas/olhar-do-amanha-ia-aberta-vs-fechada-a-nova-batalha-tecnologica/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T00:37:13+00:00"
-    },
-    {
-      "id": "bf70d809f9542eee",
-      "title": "Lançando Saúde no ChatGPT",
-      "summary": "O Health in ChatGPT agora permite que usuários qualificados dos EUA conectem com segurança registros médicos e Apple Health para obter insights mais personalizados e entender melhor sua saúde.",
-      "link": "https://openai.com/index/health-in-chatgpt",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-23T00:00:00+00:00"
-    },
-    {
-      "id": "96f5dc656a14a806",
-      "title": "Trazendo inferência de difusão Nunchaku de 4 bits para difusores",
-      "summary": "",
-      "link": "https://huggingface.co/blog/nunchaku-diffusers",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-23T00:00:00+00:00"
-    },
-    {
-      "id": "c4e7873e643bcf2a",
-      "title": "Após um trimestre chocante, a IBM insiste que a IA não está matando o mainframe",
-      "summary": "Depois que as ações da IBM despencaram na semana passada devido a avisos de vendas fracas de mainframe, o CEO explicou que a IA destruiu temporariamente o orçamento de hardware corporativo.",
-      "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-22T23:47:54+00:00"
-    },
-    {
-      "id": "5d93e59471e3494a",
-      "title": "Amazon faz cortes em setor responsável por desenvolvimento da IA",
-      "summary": "Funcionários da divisão de AGI deixaram seus cargos. Áreas como customização de modelos e pós-treinamento estão entre as afetadas. Amazon faz cortes em setor responsável por…",
-      "link": "https://tecnoblog.net/noticias/amazon-faz-cortes-em-setor-responsavel-por-desenvolvimento-da-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-amazon-1_thumb_tb-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-22T23:38:17+00:00"
-    },
-    {
-      "id": "eda225bbd33f5c13",
-      "title": "Cursor lança Cursor Router: um classificador em nível de solicitação que oferece qualidade de codificação de fronteira com custo 30–50% menor",
-      "summary": "O Cursor disponibilizou o Cursor Router para planos Teams e Enterprise. O sistema classifica cada solicitação por consulta, contexto, complexidade da tarefa e domínio e, em seguida, encaminha-a…",
-      "link": "https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-22T22:37:44+00:00"
-    },
-    {
-      "id": "dd01a6ee872612a3",
-      "title": "O Google justifica seus enormes gastos com IA com um negócio em nuvem em expansão",
-      "summary": "O negócio de nuvem do Google está prosperando, à medida que as empresas que adotam seus serviços de IA e de infraestrutura de IA ajudam a gigante da tecnologia a reportar lucros recordes.",
-      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-22T22:01:52+00:00"
-    },
-    {
-      "id": "e1b5d94ee7bab257",
-      "title": "Análise EdgeBench de nível de pesquisa: benchmarking de agente de IA, análise de placar, leis de escala e métricas de avaliação",
-      "summary": "Neste tutorial, exploramos o EdgeBench como uma referência prática para avaliar agentes avançados de IA em diversas categorias de tarefas, ambientes de tempo de execução e tempo de interação…",
-      "link": "https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-22T21:53:58+00:00"
-    },
-    {
-      "id": "d3bd61a0529acff8",
-      "title": "Alphabet tem receita superior no 2º trimestre e acumula bilhões em ganhos",
-      "summary": "Resultados representam primeiro grande teste da temporada de balanços para as big techs, que vêm ampliando fortemente seus investimentos em infraestrutura de IA O post Alphabet…",
-      "link": "https://olhardigital.com.br/2026/07/22/pro/alphabet-tem-receita-superior-no-2-trimestre-e-acumula-bilhoes-em-ganhos/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-22T21:01:14+00:00"
-    },
-    {
-      "id": "2cf6a7ead62301c9",
-      "title": "Tesouro ameaça sanções depois que a Casa Branca afirma que Moonshot destilou a Fábula da Anthropic",
-      "summary": "O episódio também intensificou um debate mais amplo em Washington sobre o influxo de modelos abertos chineses.",
-      "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-22T20:49:03+00:00"
-    },
-    {
-      "id": "3a8ad3686b1efaa5",
-      "title": "Crise no Xbox? VP de engenharia deixa cargo apenas 3 meses após assumir",
-      "summary": "O vice-presidente de engenharia do XBOX, Jared Palmer , divulgou nas redes sociais que não trabalha mais para a Microsoft. Agora ele está na Cognition, uma empresa de inteligência…",
-      "link": "https://canaltech.com.br/games/danca-das-cadeiras-no-xbox-executivo-deixa-empresa/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-22T19:45:00+00:00"
-    },
-    {
-      "id": "30d7838a90e0cd34",
-      "title": "O acordo de pirataria de US$ 1,5 bilhão da Anthropic com autores de livros é uma perda recorde que dá aos laboratórios de IA sua maior vitória legal",
-      "summary": "A Anthropic terá que pagar US$ 1,5 bilhão aos autores de livros, o maior acordo de direitos autorais na história das ações coletivas. Mas o pagamento é para baixar cerca de 482.460 obras piratas…",
-      "link": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_books_lawsuit-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-22T19:33:48+00:00"
-    },
-    {
-      "id": "a342f849430873cb",
-      "title": "Como um erro humano da OpenAI levou ao hack baseado em IA no Hugging Face",
-      "summary": "A OpenAI cometeu um erro ao configurar o que chamou de ambiente de teste e sandbox “altamente isolado”. De acordo com especialistas em segurança cibernética, foi esse erro humano que fez com que…",
-      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-22T19:11:46+00:00"
-    },
-    {
-      "id": "7f933006e834cca1",
-      "title": "Sem Parar e ChatGPT se unem para ajudar motoristas de carros elétricos no Brasil",
-      "summary": "A Sem Parar lançou uma nova ferramenta que ajuda os donos de carros elétricos a localizar eletropostos e planejar viagens com paradas de recarga por meio de inteligência…",
-      "link": "https://canaltech.com.br/carros/sem-parar-e-chat-gpt-se-unem-para-ajudar-motoristas-de-carros-eletricos-no-brasil/",
-      "image": "https://tl.ctcdn.com.br/YLPr3nZZs-Kp4G1aikzyVppI2qU=/0x0/filters:format(webp):quality(85)/75948fc6-95d3-48ea-8e09-0bd35dd53304.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-22T19:05:00+00:00"
-    },
-    {
-      "id": "097975efa412511a",
-      "title": "CEO da Nubank é nomeado para conselho da OpenAI, criadora do ChatGPT",
-      "summary": "A OpenAI anunciou nesta terça-feira (21) a entrada de David Vélez, fundador e CEO global do Nubank , e de Robin Vince, presidente e CEO do BNY , nos conselhos da OpenAI Foundation…",
-      "link": "https://canaltech.com.br/mercado/ceo-da-nubank-e-nomeado-para-conselho-da-open-ai-criadora-do-chat-gpt/",
-      "image": "https://tl.ctcdn.com.br/u8D_rFLsVn0P6Bx4Q3KGLHDp9Y0=/0x0/filters:format(webp):quality(85)/c24845d1-9e82-4353-b341-61188d9c7a8a.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-22T19:00:00+00:00"
-    },
-    {
-      "id": "7ff4f84009e23c22",
-      "title": "A empresa de robótica de Travis Kalanick levanta US$ 1,7 bilhão, liderada por a16z",
-      "summary": "A Uber também está investindo na empresa Atoms, de Travis Kalanick, que fez afirmações vagas sobre o uso de IA industrial para modernizar o mundo.",
-      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-22T18:50:44+00:00"
-    },
-    {
-      "id": "a7313903419a40b7",
-      "title": "Imprima mais gastando menos: selecionamos ótimas impressoras em promoção na Amazon",
-      "summary": "Se a sua impressora antiga já deu o que tinha para dar — ou se você simplesmente ainda não tem uma em casa — este é um bom momento para dar uma olhada nas ofertas disponíveis na…",
-      "link": "https://olhardigital.com.br/2026/07/22/reviews/imprima-mais-gastando-menos-selecionamos-otimas-impressoras-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-22T18:40:00+00:00"
-    },
-    {
-      "id": "ec2f262f2d11d0da",
-      "title": "Risco ou marketing? Entenda o ataque hacker do novo ChatGPT",
-      "summary": "Especialistas consultados pelo Olhar Digital explicam se invasão do GPT-5.6 revela falhas em agentes ou é estratégia de marketing da OpenAI O post Risco ou marketing? Entenda o…",
-      "link": "https://olhardigital.com.br/2026/07/22/seguranca/entenda-se-ataque-hacker-do-novo-chatgpt-eh-risco-ou-jogada-de-marketing/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/gpt-hack-1024x576.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-22T18:34:22+00:00"
     }
   ]
 }
