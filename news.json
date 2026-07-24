@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-24T02:33:00.248791+00:00",
+  "generated_at": "2026-07-24T08:25:27.132091+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "9ed6231741f279cc",
+      "title": "Como construir um pipeline de OCR ponta a ponta com o OCR ilimitado do Baidu para imagens de alta resolução e análise de PDF de várias páginas",
+      "summary": "Neste tutorial, construímos um fluxo de trabalho completo para executar o modelo Unlimited-OCR do Baidu em imagens de documentos e PDFs de várias páginas. Desde a configuração do ambiente GPU até a comparação…",
+      "link": "https://www.marktechpost.com/2026/07/23/how-to-build-an-end-to-end-ocr-pipeline-with-baidus-unlimited-ocr-for-high-resolution-images-and-multi-page-pdf-parsing/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-24T05:16:28+00:00"
+    },
     {
       "id": "ae1989716bfce81b",
       "title": "Seu Direito Digital: IA realizou ataque hacker; quem é o culpado?",
@@ -980,17 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-22T16:41:49+00:00"
-    },
-    {
-      "id": "9866c3cc1f7d5b72",
-      "title": "Band 11 aparece com preço no chão na Amazon: 14 dias de bateria por R$ 254",
-      "summary": "Quem procura uma pulseira inteligente para acompanhar atividades físicas e monitorar a saúde pode aproveitar uma boa oferta na Amazon. A HUAWEI Band 11 está saindo por apenas R$…",
-      "link": "https://canaltech.com.br/smartwatch/band-11-aparece-com-preco-no-chao-na-amazon-14-dias-de-bateria-por-r-254/",
-      "image": "https://tl.ctcdn.com.br/b8VwMRfLCXhYr5LZuwfYl5h4zVI=/0x0/filters:format(webp):quality(85)/7b943b9f-94e0-45bd-8e3f-76b68537f16b.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-22T16:40:43+00:00"
     }
   ]
 }
