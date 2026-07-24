@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-07-24T08:25:27.132091+00:00",
+  "generated_at": "2026-07-24T13:41:44.057805+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "397330e7a328810a",
+      "title": "O novo modo de voz do OpenAI chega ao aplicativo de desktop ChatGPT",
+      "summary": "ChatGPT Voice no desktop pode funcionar com ChatGPT Work e Codex para concluir tarefas e controlar agentes.",
+      "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-24T13:36:42+00:00"
+    },
+    {
+      "id": "9722fd2e960cec23",
+      "title": "Consórcio alemão de IA lança Soofi S, um modelo aberto 30B que supera os benchmarks em inglês e alemão",
+      "summary": "O consórcio alemão por trás do modelo de IA Soofi S reconheceu na versão 3.0 de seu relatório técnico que as questões de teste do benchmark científico GPQA acidentalmente acabaram em…",
+      "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/soofi-s-german-llm-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-24T12:56:01+00:00"
+    },
+    {
+      "id": "35a5c367fdcc38d1",
+      "title": "Aspirador vertical da Xiaomi limpa com muita força e ainda passa pano por R$ 675",
+      "summary": "A Xiaomi apresentou um novo aspirador de pó vertical que promete facilitar a limpeza da casa com mais potência e recursos inteligentes. O Mijia Wireless Floor Cleaner 5C chega ao…",
+      "link": "https://canaltech.com.br/eletro/aspirador-vertical-da-xiaomi-limpa-com-muita-forca-e-ainda-passa-pano-por-r-675/",
+      "image": "https://tl.ctcdn.com.br/KswZ6B5Cb0swuszmckScicWqXOQ=/0x0/filters:format(webp):quality(85)/494f1f56-0aa1-4ffa-9e9f-b13d9e77670b.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-24T12:49:45+00:00"
+    },
+    {
+      "id": "6afa9629490437cd",
+      "title": "NVIDIA RTX Spark chega no próximo trimestre com notebooks da ASUS e MSI",
+      "summary": "O mercado de notebooks hoje é dominado por modelos equipados com processadores Intel e GPUs NVIDIA, com a AMD aumentando sua presença aos poucos ( diferente dos desktops, onde…",
+      "link": "https://canaltech.com.br/hardware/nvidia-rtx-spark-chega-no-proximo-trimestre-com-notebooks-da-asus-e-msi/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-24T12:41:00+00:00"
+    },
+    {
+      "id": "29b21f0ee81dc7b4",
+      "title": "Vende pelo Facebook? Novo app da Meta promete facilitar tudo",
+      "summary": "Novo aplicativo da Meta separa o Marketplace do Facebook e traz recursos de inteligência artificial para transformar a rotina de vendedores O post Vende pelo Facebook? Novo app da…",
+      "link": "https://olhardigital.com.br/2026/07/24/internet-e-redes-sociais/vende-pelo-facebook-novo-app-da-meta-promete-facilitar-tudo/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/meta_logo-1024x725.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-24T12:38:53+00:00"
+    },
+    {
+      "id": "906a3d04056a0543",
+      "title": "10 celulares tão inovadores que pareciam ficção científica e não fizeram sucesso",
+      "summary": "Muito antes das telas dobráveis, da inteligência artificial embarcada e das câmeras com zoom avançado, as fabricantes de celulares já apostavam em ideias que pareciam saídas de…",
+      "link": "https://canaltech.com.br/smartphone/10-celulares-tao-inovadores-que-pareciam-ficcao-cientifica-e-nao-fizeram-sucesso/",
+      "image": "https://tl.ctcdn.com.br/Y6IilNKtfJ-RbvY_uEodRUMXHpI=/0x0/filters:format(webp):quality(85)/04d75358-9b68-49cc-8872-4b767bb71e6f.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-24T12:25:19+00:00"
+    },
+    {
+      "id": "fdd0b99459815011",
+      "title": "ChatGPT ganha modo de voz avançado no PC para automatizar trabalhos",
+      "summary": "A OpenAI lançou nesta quarta-feira (23) uma atualização para o aplicativo de desktop do ChatGPT que leva a tecnologia GPT-Live para Windows e macOS . O recurso torna as conversas…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chat-gpt-ganha-modo-de-voz-avancado-no-pc-para-automatizar-trabalhos/",
+      "image": "https://tl.ctcdn.com.br/YcTZHHYFhPr5QzRqY7vwryPXa7w=/0x0/filters:format(webp):quality(85)/3ec59fd7-f707-443c-88c5-245a11e1554d.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-24T12:16:00+00:00"
+    },
+    {
+      "id": "e2aaa2f750d6d099",
+      "title": "Prime Video passará por reformulação total focada em IA a mando de Jeff Bezos",
+      "summary": "O Prime Video está prestes a passar por uma reestruturação completa com foco em inteligência artificial (IA) . A medida foi impulsionada por Jeff Bezos, fundador da Amazon. De…",
+      "link": "https://canaltech.com.br/apps/prime-video-passara-por-reformulacao-total-focada-em-ia-a-mando-de-jeff-bezos/",
+      "image": "https://tl.ctcdn.com.br/tqfE8kQ5IcMJzzuCNn019Uk0_cY=/0x0/filters:format(webp):quality(85)/f3ea163d-7bca-4ca6-9a17-db02360bb812.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-24T12:04:00+00:00"
+    },
+    {
+      "id": "a24cb1d6440d033c",
+      "title": "O modo de voz de Claude agora funciona nos modelos mais capazes da Anthropic em todas as plataformas",
+      "summary": "As conversas por voz agora são executadas nos modelos Opus e Sonnet mais poderosos, com acesso ao Gmail, Google Calendar e Slack. Claude é atualmente o único assistente de IA que pode…",
+      "link": "https://the-decoder.com/claudes-voice-mode-now-runs-on-anthropics-most-capable-models-across-all-platforms/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-24T11:31:49+00:00"
+    },
+    {
+      "id": "c55e653d7ce2975a",
+      "title": "China ganha força nos chips e já dita preços para gigantes",
+      "summary": "CXMT e YMTC ampliam influência no mercado de chips, fecham acordos bilionários e desafiam rivais globais em meio ao avanço da IA O post China ganha força nos chips e já dita…",
+      "link": "https://olhardigital.com.br/2026/07/24/pro/china-ganha-forca-nos-chips-e-ja-dita-precos-para-gigantes/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/01/chips-memoria-1024x684.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-24T10:31:25+00:00"
+    },
+    {
+      "id": "970abc7b627d27ae",
+      "title": "QCY MeloBuds N65: os fones que trazem ANC e Áudio Espacial sem cobrar caro",
+      "summary": "Fones true wireless QCY MeloBuds N65 contam com cancelamento de ruído adaptativo via IA. Novidade também traz Áudio Espacial e Bluetooth 6.0. QCY MeloBuds N65: os fones que trazem…",
+      "link": "https://tecnoblog.net/publieditoriais/qcy-melobuds-n65-os-fones-que-trazem-anc-e-audio-espacial-sem-cobrar-caro/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/qcy-melobuds-n65-1-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-24T10:30:00+00:00"
+    },
+    {
+      "id": "2b5d080406d7f174",
+      "title": "Kimi K3 está atrás dos modelos de fronteira dos EUA por uma ampla margem em explorações cibernéticas, e a destilação pode explicar o porquê",
+      "summary": "O Instituto Britânico de Segurança de IA e o Centro de Padrões e Inovação de IA dos EUA testaram o Kimi K3 da Moonshot AI em tarefas cibernéticas ofensivas. Kimi K3 marcou 32 por cento em…",
+      "link": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/aisi_logo_pattern.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-24T09:48:32+00:00"
+    },
+    {
+      "id": "5b64de9bbfdc1c01",
+      "title": "IAs chinesas superam rivais humanos em olimpíada de matemática",
+      "summary": "Modelos criados pela Huawei e pela Xiaohongshu acertaram 100% das questões. IAs chinesas superam rivais humanos em olimpíada de matemática",
+      "link": "https://tecnoblog.net/noticias/ias-chinesas-superam-rivais-humanos-em-olimpiada-de-matematica/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2018/10/capa-tbr-ia-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-24T09:07:22+00:00"
+    },
     {
       "id": "9ed6231741f279cc",
       "title": "Como construir um pipeline de OCR ponta a ponta com o OCR ilimitado do Baidu para imagens de alta resolução e análise de PDF de várias páginas",
@@ -848,149 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-22T18:34:22+00:00"
-    },
-    {
-      "id": "56b12346d5201605",
-      "title": "AMD fecha acordo bilionário com a Anthropic para fornecer GPUs de IA",
-      "summary": "Parceria prevê até 2 gigawatts de capacidade computacional e investimento de US$ 5 bilhões para otimizar o Claude. AMD fecha acordo bilionário com a Anthropic para fornecer GPUs…",
-      "link": "https://tecnoblog.net/noticias/amd-fecha-acordo-bilionario-com-a-anthropic-para-fornecer-gpus-de-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/05/capa_tbr-amd-1920x1080-1-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-22T18:32:48+00:00"
-    },
-    {
-      "id": "f47324c41d6027a3",
-      "title": "Hyundai afirma que plano de robô humanóide não faz parte de negociações com trabalhadores em greve",
-      "summary": "A Union alertou anteriormente a montadora que qualquer implantação de robô deve ser negociada.",
-      "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Boston-Dynamics-robot-standing-stance-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-22T18:18:12+00:00"
-    },
-    {
-      "id": "ac01a67c8783cbc3",
-      "title": "Do dobrável Ultra aos óculos com IA: o que a Samsung revelou no Unpacked 2026",
-      "summary": "Evento em Londres apresentou três dobráveis, dois smartwatches e óculos inteligentes com IA do Google. Preços no Brasil serão revelados em 6 de agosto O post Do dobrável Ultra aos…",
-      "link": "https://olhardigital.com.br/2026/07/22/reviews/do-dobravel-ultra-aos-oculos-com-ia-o-que-a-samsung-revelou-no-unpacked-2026/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/samsung-galaxy-z-fold-8-ultra-tela-1024x569.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-22T18:17:18+00:00"
-    },
-    {
-      "id": "d91ccf88facfb873",
-      "title": "Matt Murphy da Menlo Ventures explica por que a Anthropic está ganhando (e não é o modelo)",
-      "summary": "A Anthropic saltou para uma taxa de receita de US$ 47 bilhões em maio, em comparação com US$ 9 bilhões em 2025. É o tipo de crescimento que Matt Murphy da Menlo Ventures diz nunca ter visto em 25…",
-      "link": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-22T18:02:57+00:00"
-    },
-    {
-      "id": "a7e72d258e3d81e5",
-      "title": "Amazon corta postos de trabalho em sua divisão de IA",
-      "summary": "Movimento amplia uma sequência de reduções menores promovidas pela empresa desde a grande reestruturação anunciada em janeiro O post Amazon corta postos de trabalho em sua divisão…",
-      "link": "https://olhardigital.com.br/2026/07/22/pro/amazon-corta-postos-de-trabalho-em-sua-divisao-de-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/amazon_2-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-22T18:01:27+00:00"
-    },
-    {
-      "id": "f8dcadd2a517af85",
-      "title": "Escassez global de memória impulsionada por IA pode elevar preço de consoles até 2030",
-      "summary": "Relatório aponta que a crescente demanda por chips de memória para inteligência artificial já impacta os preços de consoles e PCs gamers, e a situação pode levar anos para se…",
-      "link": "https://olhardigital.com.br/2026/07/22/games-e-consoles/escassez-de-memoria-para-ia-pode-encarecer-playstation/",
-      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/07/Chip-tech-insider-1024x585.webp",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-22T18:00:00+00:00"
-    },
-    {
-      "id": "ddb2e5b46810e6aa",
-      "title": "EUA ameaçam sancionar empresas chinesas por causa de modelos de IA",
-      "summary": "Secretário do Tesouro diz que governo vai investigar se tecnologias chinesas foram treinadas usando IA de companhias americanas. EUA ameaçam sancionar empresas chinesas por causa…",
-      "link": "https://tecnoblog.net/noticias/eua-ameacam-sancionar-empresas-chinesas-por-causa-de-modelos-de-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/capas-iasartboard-2-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-22T17:54:50+00:00"
-    },
-    {
-      "id": "c7dd43a3f8944fcd",
-      "title": "Monday.com demite centenas para se concentrar em IA",
-      "summary": "A empresa disse que está reduzindo seu quadro de funcionários em 20%, ou cerca de 630 funcionários, para “apoiar um modelo operacional mais enxuto e focado”, à medida que se concentra em sua plataforma de trabalho de IA.",
-      "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-22T17:54:14+00:00"
-    },
-    {
-      "id": "89e73ff99408663c",
-      "title": "OpenAI lança o Presence, plataforma para aprimorar o uso de agentes de IA nas empresas",
-      "summary": "Nova solução permite integrar agentes de IA a sistemas internos com permissões, testes e supervisão antes da operação O post OpenAI lança o Presence, plataforma para aprimorar o…",
-      "link": "https://olhardigital.com.br/2026/07/22/inteligencia-artificial/openai-lanca-o-presence-plataforma-para-aprimorar-o-uso-de-agentes-de-ia-nas-empresas/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/mensagens-no-presence-da-openai-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-22T17:50:41+00:00"
-    },
-    {
-      "id": "1abc70b9cc21f9cb",
-      "title": "Novos Realme GT e Neo foram cancelados devido à crise da IA; entenda",
-      "summary": "A Realme não lançará novos smartphones das linhas GT e Neo neste ano. A confirmação foi feita pelo vice-presidente e CMO da marca, Chase Xu, como parte de uma ampla reestruturação…",
-      "link": "https://canaltech.com.br/smartphone/novos-realme-gt-e-neo-foram-cancelados-devido-a-crise-da-ia-entenda/",
-      "image": "https://tl.ctcdn.com.br/MxTymUZ5BtCNubiWj8Mtho8LxVc=/0x0/filters:format(webp):quality(85)/a1fc8afe-cc58-4bd2-b3f0-c0ea1fc1bebb.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-22T17:39:18+00:00"
-    },
-    {
-      "id": "32ac5e2f6d5ccb8e",
-      "title": "A Anthropic implantará 2 gigawatts de GPUs AMD para Claude em um acordo de até US$ 5 bilhões",
-      "summary": "A AMD está investindo até US$ 5 bilhões na Antrópica. Em troca, a Anthropic implantará até 2 gigawatts de GPUs MI450 para treinamento e execução de seus modelos Claude. Para AMD, isso é…",
-      "link": "https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/amd_logowall.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-22T16:54:26+00:00"
-    },
-    {
-      "id": "0adc30b466c392e2",
-      "title": "OpenAI diz que seu agente de IA saiu do sandbox de teste para hackear o Hugging Face",
-      "summary": "“Este é o primeiro dia para a segurança cibernética na era dos agentes”, disse o CEO da Hugging Face.",
-      "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2274109678-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-22T16:47:49+00:00"
-    },
-    {
-      "id": "0bca753818f39d6b",
-      "title": "Todos os modelos de IA de fronteira testados pelo instituto de segurança britânico tentaram trapacear nas avaliações de segurança cibernética",
-      "summary": "O AI Safety Institute do Reino Unido testou cinco modelos de fronteira da OpenAI e da Anthropic em avaliações de segurança cibernética. Todos os cinco tentaram trapacear. Um deles até executou código em um serviço externo…",
-      "link": "https://the-decoder.com/every-frontier-ai-model-tested-by-britains-safety-institute-tried-to-cheat-on-cybersecurity-evaluations/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/aisi_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-22T16:41:49+00:00"
     }
   ]
 }
