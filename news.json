@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-07-23T19:14:48.530864+00:00",
+  "generated_at": "2026-07-24T02:33:00.248791+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "ae1989716bfce81b",
+      "title": "Seu Direito Digital: IA realizou ataque hacker; quem é o culpado?",
+      "summary": "Quinta-feira é dia da coluna Seu Direito Digital no Olhar Digital News. O consultor de privacidade e segurança Leandro Alvarenga repercute os principais assuntos jurídicos no…",
+      "link": "https://olhardigital.com.br/2026/07/23/colunistas/seu-direito-digital-ia-realizou-ataque-hacker-quem-e-o-culpado/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-24T01:01:19+00:00"
+    },
+    {
+      "id": "ed1f2994131ea003",
+      "title": "Como as proteções de IA estão impedindo o trabalho de pesquisadores ofensivos de segurança cibernética",
+      "summary": "Conversamos com vários pesquisadores de segurança cibernética, que procuram vulnerabilidades desconhecidas e desenvolvem ferramentas para explorá-las, sobre como as proteções da OpenAI e da Anthropic afetam seus…",
+      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-24T01:00:00+00:00"
+    },
+    {
+      "id": "7105b0bf0c91194f",
+      "title": "Alexa+ recebe atualização de IA para executar comandos mais complexos",
+      "summary": "A Amazon lançou uma atualização para o assistente Alexa Plus que amplia a capacidade do serviço de se conectar a dispositivos domésticos inteligentes. A no O post Alexa+ recebe…",
+      "link": "https://olhardigital.com.br/2026/07/23/inteligencia-artificial/alexa-recebe-atualizacao-de-ia-para-executar-comandos-mais-complexos/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/amazon_2-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-23T23:57:25+00:00"
+    },
+    {
+      "id": "e2d04cbc8bd48ccf",
+      "title": "AMD e Anthropic anunciam megaprojeto de IA em escala de gigawatt",
+      "summary": "A AMD e a Anthropic anunciaram uma parceria estratégica para a implantação de a té 2 gigawatts de GPUs AMD Instinct MI450 Series em racks AMD Helios . O projeto tem como objetivo…",
+      "link": "https://canaltech.com.br/hardware/amd-e-anthropic-anunciam-megaprojeto-de-ia-em-escala-de-gigawatt/",
+      "image": "https://tl.ctcdn.com.br/fv58Rv7wM6B4RTkdoIzJJFPN1SE=/0x0/filters:format(webp):quality(85)/8a90bdf7-5dfe-40c5-b596-e52697f3dcef.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-23T21:16:00+00:00"
+    },
+    {
+      "id": "a6e6ed7cc55ba5af",
+      "title": "Alexa Plus está recebendo uma atualização de IA para lidar com instruções mais complicadas",
+      "summary": "A Amazon está lançando uma atualização para seu assistente Alexa Plus que permitirá conectar-se a dispositivos domésticos inteligentes de novas maneiras. Com a atualização, que está atualmente em versão prévia, Alexa…",
+      "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-23T21:15:06+00:00"
+    },
+    {
+      "id": "78152408aa7a67ee",
+      "title": "AMD enfrenta Nvidia com seu sistema Helios AI em escala de rack",
+      "summary": "A AMD está desafiando seu rival fabricante de chips com um novo sistema em escala de rack que começará a ser enviado aos clientes ainda este ano.",
+      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-23T20:33:02+00:00"
+    },
+    {
+      "id": "472bf601ee469d9e",
+      "title": "A startup de seguros Corgi supostamente levantou mais dinheiro em US$ 4 bilhões – sua terceira rodada em 8 semanas",
+      "summary": "No frenesi do financiamento de IA, muitas startups estão levantando rodadas consecutivas com avaliações cada vez maiores – mas mesmo por esses padrões, a Corgi se destaca.",
+      "link": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-23T20:13:24+00:00"
+    },
+    {
+      "id": "efdf94be7d78f003",
+      "title": "Andrew Ng acaba de lançar o OpenWorker: um colega de trabalho de IA de desktop local e de código aberto que retorna resultados finalizados em vez de bate-papo",
+      "summary": "Andrew Ng lançou o OpenWorker, um agente de IA de desktop licenciado pelo MIT que retorna resultados finalizados em vez de respostas de bate-papo. Ele executa um servidor de agente Python local sob um Tauri…",
+      "link": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2194.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-23T19:31:59+00:00"
+    },
+    {
+      "id": "f4b56f6cdc5b95f4",
+      "title": "ChatGPT lhe dará conselhos de saúde piores se você não pagar",
+      "summary": "OpenAI está lançando “Health in ChatGPT” para usuários dos EUA, conectando Apple Health, registros médicos e aplicativos de bem-estar. Mais de 300 milhões de pessoas já perguntam sobre saúde do ChatGPT…",
+      "link": "https://the-decoder.com/chatgpt-will-give-you-worse-health-advice-if-you-dont-pay/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_health.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-23T19:30:51+00:00"
+    },
+    {
+      "id": "2f39aa1a12ba934d",
+      "title": "ChatGPT caiu? IA tem problemas nesta quinta (23)",
+      "summary": "Chatbot da OpenAI apresentou lentidão nas respostas. API e Codex também foram afetados. ChatGPT caiu? IA tem problemas nesta quinta (23)",
+      "link": "https://tecnoblog.net/noticias/chatgpt-caiu-ia-tem-problemas-nesta-quinta-23/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-23T19:16:43+00:00"
+    },
+    {
+      "id": "32c5e66ca8c09f30",
+      "title": "Bezos pode transformar Prime Video em vitrine de IA da Amazon",
+      "summary": "Bilionário teria cobrado uma reformulação no streaming após rejeitar atualizações modestas, diz a agência Reuters. Bezos pode transformar Prime Video em vitrine de IA da Amazon",
+      "link": "https://tecnoblog.net/noticias/bezos-pode-transformar-prime-video-em-vitrine-de-ia-da-amazon/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/capa_tbr-jeff-bezos-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-23T19:09:28+00:00"
+    },
+    {
+      "id": "598c44d0ce69dffb",
+      "title": "AI Kill Switch Act permitiria que o administrador Trump ordenasse o desligamento de sistemas de IA desonestos",
+      "summary": "Bill deixaria o chefe da Segurança Interna decidir quando uma IA deveria ser desligada.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-500x500-1784833195.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-23T19:08:01+00:00"
+    },
     {
       "id": "d868443dad20b4ee",
       "title": "ChatGPT tem instabilidade e lentidão nesta quinta-feira (23)",
@@ -22,6 +154,17 @@
       "source": "TechCrunch",
       "region": "mundo",
       "category": "Produtos",
+      "published_at": "2026-07-23T19:00:00+00:00"
+    },
+    {
+      "id": "046009295c648fc7",
+      "title": "O modo de voz de Claude agora está disponível para Opus e Sonnet",
+      "summary": "Até agora, o modo de voz estava disponível apenas no Claude Haiku, o modelo mais rápido, mas menos poderoso, da Anthropic. Agora a empresa está disponibilizando seus modelos Opus e Sonnet em voz…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
       "published_at": "2026-07-23T19:00:00+00:00"
     },
     {
@@ -848,149 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-22T16:40:43+00:00"
-    },
-    {
-      "id": "f808208f56268438",
-      "title": "Esta é a aparência real dos óculos inteligentes da Samsung",
-      "summary": "A Samsung nos deu a primeira chance de conferir pessoalmente seus próximos óculos inteligentes, revelando dois novos designs e as primeiras especificações do processo, incluindo um impressionante…",
-      "link": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/samsung-google-gentle-monster-warby-parker-ai-glasses-08.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-22T16:35:34+00:00"
-    },
-    {
-      "id": "eeaf6eeb5fc2b100",
-      "title": "Cisco aposta que seus pequenos modelos abertos de segurança cibernética podem superar o GPT-5.5 na detecção de vulnerabilidades por uma fração do custo",
-      "summary": "A Cisco lançou dois pequenos modelos de IA de código aberto para segurança cibernética que detectam cerca de 150 vezes mais vulnerabilidades por dólar do que grandes agentes de IA, de acordo com o relatório da empresa…",
-      "link": "https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/cisco_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-22T16:28:08+00:00"
-    },
-    {
-      "id": "7c115503ed7d78ac",
-      "title": "Arcee, um laboratório de IA de código aberto dos EUA, afirma que os modelos chineses não são inerentemente perigosos",
-      "summary": "À medida que os modelos chineses de IA crescem em capacidade e popularidade entre as empresas norte-americanas, a discussão sobre o que deveria ser feito em relação a eles atingiu um nível febril.",
-      "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-22T16:24:08+00:00"
-    },
-    {
-      "id": "f731f91b5c1c05db",
-      "title": "A nova ferramenta da Substack informa quem está escrevendo seus boletins informativos com IA",
-      "summary": "A Substack está oferecendo aos leitores uma maneira de estimar quanto de um boletim informativo foi escrito pela IA, sinalizando uma mudança mais ampla em direção à transparência em torno do conteúdo assistido por IA.",
-      "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-22T16:23:09+00:00"
-    },
-    {
-      "id": "67fedb9d776f3b31",
-      "title": "A onda de gastos com IA da OpenAI disparou para US$ 750 bilhões",
-      "summary": "A OpenAI gastará o equivalente ao PIB da Suécia em infraestrutura até 2030.",
-      "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-22T16:13:30+00:00"
-    },
-    {
-      "id": "a94f33c288d10198",
-      "title": "Fim dos prompts: Claude aprende a trabalhar vendo o que você faz",
-      "summary": "O Claude ganhou um novo recurso que permite ensinar tarefas à Inteligência Artificial sem precisar escrever prompts. Anunciada no perfil oficial do Claude no X, a novidade se…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/fim-dos-prompts-claude-aprende-a-trabalhar-vendo-o-que-voce-faz/",
-      "image": "https://tl.ctcdn.com.br/Kx4JFkRYPcycaHfUhA2ZGFRVwXk=/0x0/filters:format(webp):quality(85)/65b9bfce-e50e-4c7d-b7cf-922072520148.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-22T16:04:00+00:00"
-    },
-    {
-      "id": "42797d35cc8a2fb0",
-      "title": "O \"Projeto Camellia\" da OpenAI na Geórgia garante um enorme acordo de energia de 3,2 gigawatts até 2032",
-      "summary": "A OpenAI está planejando um data center na Geórgia chamado “Project Camellia” com um acordo de energia de 3,2 gigawatts da Georgia Power. A empresa prometeu US$ 80 milhões para a comunidade local…",
-      "link": "https://the-decoder.com/openais-project-camellia-in-georgia-secures-a-massive-3-2-gigawatt-power-deal-through-2032/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_red_Logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-22T15:45:51+00:00"
-    },
-    {
-      "id": "5051c3eabd102730",
-      "title": "Melhor smartband em 2026: 7 pulseiras para monitorar exercícios e saúde",
-      "summary": "Guia reúne as melhores smartbands da Xiaomi, Samsung e Huawei; pulseiras inteligentes têm recursos para registrar atividades físicas e bateria de longa duração Melhor smartband em…",
-      "link": "https://tecnoblog.net/guias/melhor-smartband/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/xiaomi-smart-band-10-1-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-22T15:29:19+00:00"
-    },
-    {
-      "id": "f34bf557d91a10e9",
-      "title": "AMD compromete até US$ 5 bilhões com a Anthropic",
-      "summary": "A AMD afirma que vai investir até US$ 5 bilhões na Anthropic, ao mesmo tempo que ajuda a expandir o poder de computação da empresa de IA, de acordo com um anúncio na quarta-feira. Como parte do…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-22T14:44:27+00:00"
-    },
-    {
-      "id": "2f2bb8f53c1c3e4f",
-      "title": "IA da OpenAI escapa de teste e ataca Hugging Face",
-      "summary": "Modelo GPT-5.6 Sol e IA inédita burlaram restrições e invadiram servidores da Hugging Face sem intervenção humana. IA da OpenAI escapa de teste e ataca Hugging Face",
-      "link": "https://tecnoblog.net/noticias/ia-da-openai-escapa-de-teste-e-ataca-outra-plataforma-sozinha/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/08/openai-4_capa-edited-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-22T14:41:42+00:00"
-    },
-    {
-      "id": "474cbd3ee9e5f76f",
-      "title": "Erro de IA cria pássaro “fantasma” no Brasil e acende alerta na ciência",
-      "summary": "Uma imagem de um pássaro norte-americano registrado no Brasil chamou atenção na plataforma iNaturalist, mas o caso acabou revelando um problema crescente para a ciência: imagens…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/erro-de-ia-cria-passaro-fantasma-no-brasil-e-acende-alerta-na-ciencia/",
-      "image": "https://tl.ctcdn.com.br/7tvYrTS81qTlSCevKgggdIQhj5s=/0x0/filters:format(webp):quality(85)/a1b6a203-10d7-433d-9c49-a0008f642371.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-22T14:34:00+00:00"
-    },
-    {
-      "id": "eddaac7629dad6fb",
-      "title": "Samsung revela óculos inteligente com câmera para roubar mercado da Meta",
-      "summary": "A Samsung anunciou, nesta quarta-feira (22), seus novos óculos inteligentes. Os dispositivos vestíveis contam com câmera integrada e recursos avançados de inteligência artificial…",
-      "link": "https://canaltech.com.br/produtos/samsung-revela-oculos-inteligente-com-camera-para-roubar-mercado-da-meta/",
-      "image": "https://tl.ctcdn.com.br/EwvR7L_vc0cL7Pz6ZkY7_Yi7j9U=/0x0/filters:format(webp):quality(85)/9044acc5-0c28-4e13-8df6-7d4a0758a4ad.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-22T13:45:06+00:00"
-    },
-    {
-      "id": "eb49133882424dbb",
-      "title": "Galaxy Watch 9 x Watch 8: veja como o smartwatch da Samsung mudou em 1 ano",
-      "summary": "A Samsung apresentou o Galaxy Watch 9 como seu novo relógio inteligente para o uso cotidiano. O modelo preserva a identidade visual do Galaxy Watch 8, mas troca o processador…",
-      "link": "https://canaltech.com.br/smartwatch/galaxy-watch-9-x-watch-8-veja-como-o-smartwatch-da-samsung-mudou-em-1-ano/",
-      "image": "https://tl.ctcdn.com.br/0O0RA6lKIrGWdMzIEeHWro8OyN8=/0x0/filters:format(webp):quality(85)/f690dfbe-3bb1-4398-92df-c919ef2d48af.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-22T13:42:17+00:00"
     }
   ]
 }
