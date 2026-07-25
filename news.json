@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-07-25T02:31:21.460539+00:00",
+  "generated_at": "2026-07-25T08:04:06.732462+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "f123e87e197cca73",
+      "title": "Construindo agentes de IA autoevolutivos com OpenSpace usando habilidades, MCP, linhagem e reutilização de baixo custo",
+      "summary": "Descubra como criar agentes de IA autoevolutivos usando a estrutura OpenSpace. Este tutorial orienta você por todo o fluxo de trabalho, desde a configuração do ambiente e a criação de habilidades personalizadas…",
+      "link": "https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-25T07:54:21+00:00"
+    },
+    {
+      "id": "78243a76c23ad7d1",
+      "title": "Datalab Marker v2 vs MinerU, Docling e Liteparse: análise de benchmark",
+      "summary": "O Datalab reescreveu o Marker como um pipeline de três modos. A versão 2 atinge 76,0 no olmOCR-bench e sustenta 2,9 páginas por segundo em um B200 - mais de 5× backend de pipeline do MinerU, enquanto…",
+      "link": "https://www.marktechpost.com/2026/07/24/datalab-marker-v2-vs-mineru-docling-and-liteparse-benchmark-breakdown/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/image-4-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-25T04:42:47+00:00"
+    },
     {
       "id": "486f5f013e2419a6",
       "title": "Marker 2 do Datalab vs MinerU, Docling e LiteParse: 76,0 no olmOCR-bench com 5× rendimento do MinerU",
@@ -969,28 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-23T14:45:05+00:00"
-    },
-    {
-      "id": "169c612890cf3ece",
-      "title": "Legisladores preparam projeto de lei exigindo ‘interruptor de interrupção’ da IA",
-      "summary": "Os legisladores estão se preparando para introduzir uma \"Lei Kill Switch de IA\" que exigiria que as empresas de IA desligassem ou limitassem seus sistemas por ordem do Departamento de Homeland...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-23T14:13:35+00:00"
-    },
-    {
-      "id": "5816557505f1506a",
-      "title": "O processo OpenAI da Apple é sobre quem definirá a era pós-smartphone",
-      "summary": "Hoje no Decoder, estou conversando com Hayden Field, repórter sênior de IA do The Verge, sobre o principal processo de segredos comerciais entre a Apple e a OpenAI e o que isso nos diz…",
-      "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_0724_OpenAI_suit.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-23T14:00:00+00:00"
     }
   ]
 }
