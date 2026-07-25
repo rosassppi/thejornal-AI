@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-07-25T13:22:21.229161+00:00",
+  "generated_at": "2026-07-25T19:05:13.122465+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "5ec00b7934d81530",
+      "title": "Conheça o Open Dreamer: uma reprodução JAX/Flax do Dreamer 4 World Model Pipeline, com a receita de treinamento completa publicada",
+      "summary": "Um pequeno grupo de pesquisadores de IA (Reactor) lançou o Open Dreamer, uma implementação aberta do pipeline do modelo mundial Dreamer 4 escrito em JAX e Flax NNX. O que na verdade…",
+      "link": "https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-25T18:59:54+00:00"
+    },
+    {
+      "id": "88ce23444b2dc57d",
+      "title": "Projetando kernels de GPU de alto desempenho com TileLang: Tensor-Core GEMM, Fused Softmax, FlashAttention e Autotuning",
+      "summary": "Explore o TileLang, uma linguagem Python específica de domínio de alto nível que simplifica o design de kernels de GPU de alto desempenho. Este tutorial fornece uma abordagem passo a passo para…",
+      "link": "https://www.marktechpost.com/2026/07/25/designing-high-performance-gpu-kernels-with-tilelang-tensor-core-gemm-fused-softmax-flashattention-and-autotuning/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-25T18:08:12+00:00"
+    },
+    {
+      "id": "9e41de97b1347bf8",
+      "title": "Bibliotecários estão organizando workshops virais ‘Evitando IA’ para pessoas que estão fartas da Big Tech",
+      "summary": "Em bibliotecas de todo o país, os workshops “Evitando a IA” suscitaram uma procura sem precedentes.",
+      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-25T16:00:00+00:00"
+    },
+    {
+      "id": "1f123810bbc8660d",
+      "title": "GPT-5.6 e Claude Fable 5: todas as melhores IAs precisarão de aprovação dos EUA?",
+      "summary": "O GPT-5.6 Sol , da OpenAI, e o Claude Fable 5 , da Anthropic, chegaram ao público depois de uma fiscalização que nenhum modelo de IA havia enfrentado até agora. Os dois foram…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/todas-as-melhores-ias-precisarao-de-aprovacao-dos-eua/",
+      "image": "https://tl.ctcdn.com.br/v1nXvNq1E8zQbSkEl4fZYDaLXho=/0x0/filters:format(webp):quality(85)/09e331f5-4e77-4505-880c-d981d18e3466.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-25T14:38:00+00:00"
+    },
+    {
+      "id": "ccbf34842a367931",
+      "title": "Novos relatórios revelam a extensão da perda de controle da OpenAI durante o hack autônomo no Hugging Face",
+      "summary": "Em um teste de segurança cibernética, os modelos mais avançados da OpenAI violaram os limites de seu ambiente de teste isolado, alcançaram a Internet aberta e invadiram a plataforma de IA Hugging…",
+      "link": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_hugging_face_hack.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-25T13:45:50+00:00"
+    },
     {
       "id": "54a8803ad5837385",
       "title": "Uma linha de energia caída expôs um problema crescente no data center de IA. Veja como consertar isso.",
@@ -936,61 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-23T17:30:00+00:00"
-    },
-    {
-      "id": "dff6b7945479c2a0",
-      "title": "NVIDIA renova estoque das RTX 5060 no Brasil com preços que cabem no bolso",
-      "summary": "As placas de vídeo mainstream sempre são as mais procuradas pelos PC gamers por entregarem o melhor desempenho por custo dentro da resolução FullHD . Com isso em mente, a NVIDIA…",
-      "link": "https://canaltech.com.br/hardware/nvidia-renova-estoque-das-rtx-5060-no-brasil-com-precos-que-cabem-no-bolso/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T17:14:00+00:00"
-    },
-    {
-      "id": "68e99a0f12e18210",
-      "title": "Runway lança modelo de roteador AI conforme a mídia generativa fica lotada",
-      "summary": "O Media Router é uma ferramenta que seleciona automaticamente o melhor modelo de geração de imagem, vídeo ou áudio para uma solicitação com base no fato de o desenvolvedor priorizar qualidade, velocidade ou…",
-      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-23T17:07:35+00:00"
-    },
-    {
-      "id": "8de2bef75dc3a17b",
-      "title": "Um link ChatGPT adulterado poderia gerar um agente de IA desonesto que recebia ordens de um invasor a cada cinco minutos",
-      "summary": "Zenity Labs descobriu “AgentForger”, uma vulnerabilidade no Agent Builder da OpenAI que permite que um único link ChatGPT manipulado crie um agente autônomo em nome de um funcionário. O…",
-      "link": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/10/agent_builder_openai.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-23T17:01:30+00:00"
-    },
-    {
-      "id": "fdd00e498f264e2c",
-      "title": "A OpenAI está fazendo grandes reivindicações ao lançar o ChatGPT Health para todos",
-      "summary": "A OpenAI está lançando o ChatGPT Health para todos nos EUA na quinta-feira, permitindo que mais pessoas conectem seus registros médicos e informações de rastreamento de saúde ao chatbot…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-23T17:00:00+00:00"
-    },
-    {
-      "id": "a501624b44a87a88",
-      "title": "OpenAI disponibiliza ChatGPT Health para todos os usuários dos EUA",
-      "summary": "Os usuários também podem integrar seus dados pessoais de serviços como Apple Health, Function e MyFitnessPal.",
-      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-23T17:00:00+00:00"
     }
   ]
 }
