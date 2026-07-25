@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-07-24T19:23:16.544937+00:00",
+  "generated_at": "2026-07-25T02:31:21.460539+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "486f5f013e2419a6",
+      "title": "Marker 2 do Datalab vs MinerU, Docling e LiteParse: 76,0 no olmOCR-bench com 5× rendimento do MinerU",
+      "summary": "O Datalab reescreveu o Marker como um pipeline de três modos. A versão 2 atinge 76,0 no olmOCR-bench e sustenta 2,9 páginas por segundo em um B200 - mais de 5× backend de pipeline do MinerU, enquanto…",
+      "link": "https://www.marktechpost.com/2026/07/24/datalabs-marker-2-vs-mineru-docling-and-liteparse-76-0-on-olmocr-bench-at-5x-minerus-throughput/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/image-4-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-25T02:14:53+00:00"
+    },
+    {
+      "id": "316ffe6b7e92fbe6",
+      "title": "OpenAI percebeu que o ChatGPT invadiu sistema do Hugging Face dias depois",
+      "summary": "Um agente autônomo de inteligência artificial desenvolvido pela OpenAI escapou do ambiente de testes da empresa, invadiu sistemas do Hugging Face e só foi O post OpenAI percebeu…",
+      "link": "https://olhardigital.com.br/2026/07/24/seguranca/openai-percebeu-que-o-chatgpt-invadiu-sistema-do-hugging-face-dias-depois/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/hugging_face-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-25T00:28:14+00:00"
+    },
+    {
+      "id": "535a182fb10536ae",
+      "title": "Experimentei o novo teclado de IA da OpenAI – que será divertido para alguns programadores e um pouco confuso para todos os outros",
+      "summary": "O novo e sofisticado teclado de IA da OpenAI será muito divertido para alguns, enquanto muitos outros provavelmente não irão tocá-lo.",
+      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-25T00:23:11+00:00"
+    },
+    {
+      "id": "14b52eadb416df44",
+      "title": "Imprima mais, gaste menos: selecionamos as melhores impressoras em promoção na Amazon",
+      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é o momento certo para agir. Reunimos três opções multifuncionais em oferta na Amazon — modelos com…",
+      "link": "https://olhardigital.com.br/2026/07/24/reviews/imprima-mais-gaste-menos-selecionamos-as-melhores-impressoras-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-25T00:07:38+00:00"
+    },
+    {
+      "id": "9174730f3f9241a9",
+      "title": "Prentis, novo laboratório de IA cofundado por Reid Hoffman e Mark Pincus em negociações para arrecadar US$ 100 milhões",
+      "summary": "O neolab aposta que a automação de tarefas rotineiras de computador em breve ultrapassará a codificação como o maior caso de uso da IA.",
+      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-24T22:25:58+00:00"
+    },
+    {
+      "id": "05dc607834f2b6ef",
+      "title": "O novo Smart Money Stage do TechCrunch Disrupt 2026 explora fintech, pagamentos, IA e tudo mais",
+      "summary": "O dinheiro evoluiu para muito mais do que o dinheiro na sua carteira ou na sua conta bancária. E no TechCrunch Disrupt 2026, dedicaremos uma etapa inteira a essa progressão.",
+      "link": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-24T22:10:00+00:00"
+    },
+    {
+      "id": "f6e3e24c37349f50",
+      "title": "Conheça o novo Claude Opus 5: codificação agente de classe de fronteira e uso de computador com preço Opus inalterado",
+      "summary": "Hoje, a Anthropic lançou o Claude Opus 5. Ele substitui o Claude Opus 4.8 como carro-chefe da camada Opus. O preço permanece inalterado em US$ 5 por milhão de tokens de entrada e US$ 25 por milhão de saída…",
+      "link": "https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-24T21:50:46+00:00"
+    },
+    {
+      "id": "0ca81fc91f6c0b2a",
+      "title": "Qualcomm pode aumentar preços de chips para celulares e PCs, diz site",
+      "summary": "Em carta obtida por reportagem, marca de processadores diz não ter mais como absorver alta dos custos. Data centers para IA têm causado escassez de componentes. Qualcomm pode…",
+      "link": "https://tecnoblog.net/noticias/qualcomm-pode-aumentar-precos-de-chips-para-celulares-e-pcs-diz-site/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/09/snapdragon-8-elite-gen-5-1-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-24T21:40:53+00:00"
+    },
+    {
+      "id": "b5746bc6b14ea642",
+      "title": "O legislador canadense lê a aparente resposta do LLM em discurso no plenário",
+      "summary": "\"Aqui está uma versão mais natural e fluida dessa seção...\"",
+      "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-500x500-1784927028.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-24T21:25:15+00:00"
+    },
+    {
+      "id": "667d95d4dde16d7c",
+      "title": "O Opus 5 da Anthropic trata da eficiência simbólica, não de um salto de capacidade",
+      "summary": "Os modelos estão melhorando rapidamente, mas as opções mais baratas costumam ser boas o suficiente.",
+      "link": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/opus-5-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-24T21:05:51+00:00"
+    },
+    {
+      "id": "18716e9c231a7930",
+      "title": "Facebook ganha novo selo de verificação gratuito; saiba como funciona",
+      "summary": "A Meta lançou um novo selo de verificação gratuito para contas do Facebook . O objetivo é garantir que o perfil é real e evitar a presença de contas falsas com IA. A verificação…",
+      "link": "https://canaltech.com.br/apps/facebook-ganha-novo-selo-de-verificacao-gratuito-saiba-como-funciona/",
+      "image": "https://tl.ctcdn.com.br/sRNtGmKIY2J3DjCQNH6SWF3cwC0=/0x0/filters:format(webp):quality(85)/c5cc6c5b-f65b-4dd8-a79e-2bcd47e28efa.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-24T20:03:00+00:00"
+    },
+    {
+      "id": "e9667922eaffa093",
+      "title": "Claude Opus 5 é lançado com foco no desempenho e controle de custos",
+      "summary": "Anthropic anunciou Claude Opus 5 com foco em uso corporativo. Lançamento ocorre após polêmicas com o modelo Fable 5 nos Estados Unidos. Claude Opus 5 é lançado com foco no…",
+      "link": "https://tecnoblog.net/noticias/claude-opus-5-e-lancado-com-foco-no-desempenho-e-controle-de-custos/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/4wqd-8d5j4k.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-24T19:39:47+00:00"
+    },
+    {
+      "id": "3bb8adb55bc1de7e",
+      "title": "Midjourney comprou o aplicativo de astrologia Co-Star",
+      "summary": "Midjourney, que passou da geração de imagens de gatos com IA até ultrassonografias de corpo inteiro, está entrando em um novo campo: a astrologia. A startup de IA anunciou na quinta-feira que…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CHATBOT_E-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-24T19:06:58+00:00"
+    },
     {
       "id": "e5b07115a5eb2677",
       "title": "Anthropic afirma que seu novo Claude Opus 5 oferece desempenho próximo ao Fable 5 pela metade do preço simbólico",
@@ -848,149 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-23T14:00:00+00:00"
-    },
-    {
-      "id": "7d14189e46e1fe77",
-      "title": "Nova Mi Band da Xiaomi vazou: bateria para 14 dias por menos de R$ 250",
-      "summary": "O lançamento da 11ª geração de pulseiras inteligentes da Xiaomi deve acontecer em breve, e alguns detalhes dos acessórios já circulam na internet. A Smart Band 11 Active deve…",
-      "link": "https://canaltech.com.br/smartwatch/nova-mi-band-da-xiaomi-vazou-bateria-para-14-dias-por-menos-de-r-250/",
-      "image": "https://tl.ctcdn.com.br/TyVFd6C54QwCEaqiE6xkTCH527s=/0x0/filters:format(webp):quality(85)/aa53a3ef-cc3d-4814-a339-7a7fb291308a.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T13:37:05+00:00"
-    },
-    {
-      "id": "abcb1c7691271e14",
-      "title": "Skynet, é você? Ataque à Hugging Face foi 100% feito por IA \"irmã\" do ChatGPT",
-      "summary": "A OpenAI admitiu que sua inteligência artificial conseguiu executar um ataque cibernético autônomo contra a Hugging Face durante um teste de segurança. O episódio envolveu modelos…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/skynet-e-voce-ataque-a-hugging-face-foi-100-feito-por-ia-irma-do-chat-gpt/",
-      "image": "https://tl.ctcdn.com.br/PFasPw4OE6fNEvU9TANEkkHk8bI=/0x0/filters:format(webp):quality(85)/43573d7e-5b1b-4d82-be80-77c9c21b0816.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T13:04:00+00:00"
-    },
-    {
-      "id": "c25de832fe24a596",
-      "title": "Google aponta que IA amplia trabalho humano e não substitui empregos",
-      "summary": "Levantamento analisou milhões de interações com ferramentas de IA e identificou uso crescente em profissões variadas O post Google aponta que IA amplia trabalho humano e não…",
-      "link": "https://olhardigital.com.br/2026/07/23/inteligencia-artificial/google-aponta-que-ia-amplia-trabalho-humano-e-nao-substitui-empregos/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2024/04/ia-escritora-1-1024x1024.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T13:02:59+00:00"
-    },
-    {
-      "id": "c5237dfb9be9f94a",
-      "title": "Motorola em promoção: veja uma seleção de smartphones com câmera com IA e bateria potente",
-      "summary": "A Motorola segue firme como uma das marcas mais populares no mercado brasileiro de smartphones, e agora é um ótimo momento para garantir um aparelho da linha Moto g. Reunimos três…",
-      "link": "https://olhardigital.com.br/2026/07/23/reviews/motorola-em-promocao-veja-uma-selecao-de-smartphones-com-camera-com-ia-e-bateria-potente/",
-      "image": "https://m.media-amazon.com/images/I/41VhTuPsmCL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T12:40:00+00:00"
-    },
-    {
-      "id": "03672a2e37c2b420",
-      "title": "AMD lança nova ofensiva para disputar mercado de IA com a Nvidia",
-      "summary": "Empresa deve apresentar servidores, processador para data centers e reforçar estratégia voltada ao avanço das aplicações de IA O post AMD lança nova ofensiva para disputar mercado…",
-      "link": "https://olhardigital.com.br/2026/07/23/inteligencia-artificial/amd-lanca-nova-ofensiva-para-disputar-mercado-de-ia-com-a-nvidia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/Destaque-Data-center-de-IA-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T12:35:39+00:00"
-    },
-    {
-      "id": "90fea29a9559398f",
-      "title": "O Laguna S 2.1 da Poolside é um pequeno modelo de codificação de peso aberto que ultrapassa bem seu tamanho",
-      "summary": "A Poolside lançou o Laguna S 2.1, seu terceiro modelo de codificação em três meses. Em vez de confiar na escala bruta, a empresa treinou-a para continuar a verificar o seu trabalho, caso a revisão falhasse…",
-      "link": "https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/Poolside-Logo-Wall-generated-image-nano-banana-pro.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-23T12:24:53+00:00"
-    },
-    {
-      "id": "feaf9ab57c84ebb2",
-      "title": "Como a IA ajuda os cientistas a projetar a próxima geração de medicamentos",
-      "summary": "Projetar e desenvolver um novo medicamento é um desafio científico caro e propenso ao fracasso. Um novo medicamento pode levar muitos anos para ser desenvolvido, ao custo de um investimento significativo…",
-      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/AI_in_Biologics_Draft_4_no_Captions-1.jpg",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-23T12:00:00+00:00"
-    },
-    {
-      "id": "9d4c464f96c952b8",
-      "title": "Os boomers de direita que protestam contra os data centers têm muito em comum com a esquerda",
-      "summary": "Em uma manhã cinzenta e úmida de sábado no centro da Flórida, pouco menos de uma dúzia de pessoas se reuniram em frente à Biblioteca Spring Hill Branch para protestar contra a construção de uma hiperescala…",
-      "link": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286058283.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-23T12:00:00+00:00"
-    },
-    {
-      "id": "3fb3fe4b9444dcc7",
-      "title": "O CEO do Google, Pichai, diz que o próximo salto da Gemini depende da construção de “modelos básicos muito maiores”",
-      "summary": "A Alphabet elevou sua previsão de investimento para 2026 para até US$ 205 bilhões, dizendo que a demanda continua a superar os gastos. O Google Cloud cresceu 82% no segundo trimestre. CEO…",
-      "link": "https://the-decoder.com/google-ceo-pichai-says-geminis-next-leap-depends-on-building-much-larger-base-models/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_optical_trick.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-23T11:19:57+00:00"
-    },
-    {
-      "id": "b2487f279f3fca74",
-      "title": "Especialistas dizem que explorar a Fábula da Anthropic não foi o que fez o Kimi K3 ficar tão bom",
-      "summary": "“Não acho que você consiga um modelo tão forte e tão rápido na esteira do Fable fazendo destilação estrita”, disse um especialista ao TechCrunch.",
-      "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-23T11:00:00+00:00"
-    },
-    {
-      "id": "679561f597c44e1b",
-      "title": "Governança corporativa e proteção de informações industriais na era da IA",
-      "summary": "* Por Walter Sanches De acordo com um estudo global da Boston Consulting Group (BCG), 74% dos profissionais essenciais para o dia a dia das operações já utilizam Inteligência…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/governanca-corporativa-e-protecao-de-informacoes-industriais-na-era-da-inteligencia-artificial/",
-      "image": "https://tl.ctcdn.com.br/GZ9ZDN1uOqUMk81eXMhLwRAUYD0=/0x0/filters:format(webp):quality(85)/8c34abe7-862f-45fe-ae86-fed2736311ab.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T11:00:00+00:00"
-    },
-    {
-      "id": "0183ca4f84431004",
-      "title": "Melhores modelos de reconhecimento de fala aberto (ASR) em 2026: WER, idiomas, latência e licença comparados",
-      "summary": "O reconhecimento de fala aberta deixou de ser uma monocultura Whisper em 2026. Cohere Transcribe, IBM Granite Speech 4.1, ARK-ASR e MOSS-Transcribe agora estão separados por menos de um WER…",
-      "link": "https://www.marktechpost.com/2026/07/23/best-open-speech-recognition-asr-models-in-2026-wer-languages-latency-and-license-compared/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-23T09:26:40+00:00"
-    },
-    {
-      "id": "dfe6791ac900327f",
-      "title": "Conheça o Gigatoken: um tokenizador Rust BPE que codifica texto a 24,53 GB/s, até 989x mais rápido que os tokenizadores HuggingFace",
-      "summary": "Gigatoken é um tokenizer Rust BPE licenciado pelo MIT que codifica texto em gigabytes por segundo. Em um AMD EPYC 9565 de 144 núcleos, ele executa tokenização GPT-2 a 24,53 GB/s. Isso é 989x…",
-      "link": "https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-23T08:01:22+00:00"
     }
   ]
 }
