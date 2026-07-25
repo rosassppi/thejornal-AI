@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-07-25T08:04:06.732462+00:00",
+  "generated_at": "2026-07-25T13:22:21.229161+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "54a8803ad5837385",
+      "title": "Uma linha de energia caída expôs um problema crescente no data center de IA. Veja como consertar isso.",
+      "summary": "Uma situação difícil na Virgínia do Norte revelou como os data centers respondem mal às interrupções da rede. Veja como resolver o problema.",
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-25T13:05:00+00:00"
+    },
+    {
+      "id": "73f30416facce20d",
+      "title": "Do edital ao simulado: 20 prompts do ChatGPT para estudar para concursos",
+      "summary": "Quem estuda para concurso sabe que o mais difícil nem sempre é aprender o conteúdo. Também é preciso organizar um edital que pode ter dezenas de páginas, encontrar tempo para…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/prompts-chatgpt-para-estudar-para-concursos-publicos/",
+      "image": "https://tl.ctcdn.com.br/YcTZHHYFhPr5QzRqY7vwryPXa7w=/0x0/filters:format(webp):quality(85)/3ec59fd7-f707-443c-88c5-245a11e1554d.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-25T11:39:00+00:00"
+    },
+    {
+      "id": "b909c7d0f3ddd613",
+      "title": "Hora de renovar a sala: Samsung NEO QLED e QLED em promoção na Amazon",
+      "summary": "Se você está pensando em trocar a TV da sala por um modelo mais moderno, com imagem de alta qualidade e recursos inteligentes, este é o momento certo. Reunimos três opções da…",
+      "link": "https://olhardigital.com.br/2026/07/25/reviews/hora-de-renovar-a-sala-samsung-neo-qled-e-qled-em-promocao-na-amazon-3/",
+      "image": "https://m.media-amazon.com/images/I/41BopBIghwL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-25T11:20:00+00:00"
+    },
+    {
+      "id": "25f9f42c9eb5bc29",
+      "title": "Opus 5 pode ter resolvido a injeção imediata baseada em navegador, a maior falha de segurança que assombra os agentes de IA",
+      "summary": "O Opus 5 combinado com o Modo Automático atinge uma taxa de sucesso de injeção imediata de zero por cento para agentes de navegador em 129 cenários de teste. Sem essas camadas extras de proteção, a taxa é…",
+      "link": "https://the-decoder.com/opus-5-may-have-solved-browser-based-prompt-injection-the-biggest-security-flaw-haunting-ai-agents/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/11/prompt_injections_claude.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-25T10:43:36+00:00"
+    },
+    {
+      "id": "ffb81ece59db84a5",
+      "title": "O que é Necromancia Digital e por que prática divide tanto opiniões",
+      "summary": "Necromancia digital é o termo usado para descrever a recriação da aparência ou da voz de pessoas mortas usando inteligência artificial. A prática ganha espaço com o fácil acesso…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-e-necromancia-digital-e-porque-pratica-divide-tanto-opinioes/",
+      "image": "https://tl.ctcdn.com.br/DVvwrNcbugHOISpVlQnalnfwA5c=/0x0/filters:format(webp):quality(85)/abaf0e55-ed44-4716-b1e6-4a48abe08241.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-25T10:32:00+00:00"
+    },
+    {
+      "id": "e5b07115a5eb2677",
+      "title": "Anthropic afirma que seu novo Claude Opus 5 oferece desempenho próximo ao Fable 5 pela metade do preço simbólico",
+      "summary": "O novo modelo carro-chefe da Anthropic, Claude Opus 5, obtém as melhores pontuações em codificação e trabalho de conhecimento pela metade das taxas de token do Fable 5. No ARC-AGI-3, uma referência para a resolução de novos problemas…",
+      "link": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_opus_5_logo-scaled.webp",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-25T10:04:42+00:00"
+    },
+    {
+      "id": "4370a1327ae3f3e5",
+      "title": "Claude Opus 5 da Anthropic custa bem abaixo do Fable 5, ao mesmo tempo que o iguala ou supera na maioria dos benchmarks",
+      "summary": "Claude Opus 5 da Anthropic lidera o Índice de Inteligência de Análise Artificial com 61 pontos, superando Claude Fable 5 e GPT-5.6 Sol. O modelo tem pontuação mais alta em análise…",
+      "link": "https://the-decoder.com/anthropics-claude-opus-5-costs-well-below-fable-5-while-matching-or-beating-it-across-most-benchmarks/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_5_series.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-25T09:31:00+00:00"
+    },
+    {
+      "id": "3657c86a8bf73d41",
+      "title": "Por que o agente OpenAI entrou na cara do abraço: hacking de recompensa, não malícia, explicado para engenheiros",
+      "summary": "A OpenAI divulgou que seus próprios modelos violaram a infraestrutura de produção do Hugging Face ao mesmo tempo em que adotavam um benchmark de segurança pública. Os modelos não estavam atacando um alvo – eles estavam…",
+      "link": "https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-25-at-1.49.49-AM-1-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-25T09:03:27+00:00"
+    },
     {
       "id": "f123e87e197cca73",
       "title": "Construindo agentes de IA autoevolutivos com OpenSpace usando habilidades, MCP, linhagem e reutilização de baixo custo",
@@ -166,17 +254,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-24T19:06:58+00:00"
-    },
-    {
-      "id": "e5b07115a5eb2677",
-      "title": "Anthropic afirma que seu novo Claude Opus 5 oferece desempenho próximo ao Fable 5 pela metade do preço simbólico",
-      "summary": "O novo modelo carro-chefe da Anthropic, Claude Opus 5, obtém as melhores pontuações em codificação e trabalho de conhecimento pela metade das taxas de token do Fable 5. No ARC-AGI-3, uma referência para a resolução de novos problemas…",
-      "link": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_opus_5_logo-scaled.webp",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-24T18:36:42+00:00"
     },
     {
       "id": "d77541f6a22aea91",
@@ -914,83 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-07-23T17:00:00+00:00"
-    },
-    {
-      "id": "d832c0dd93372966",
-      "title": "Meta lançou um novo anúncio de otimismo de IA com uma música sobre a extinção humana",
-      "summary": "A canção \"Five Years\" de David Bowie, que Meta usou em um anúncio supostamente inspirador, é sobre humanos aprendendo que ainda têm cinco anos de vida antes do apocalipse.",
-      "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-23T16:28:50+00:00"
-    },
-    {
-      "id": "f4ea30065ca85e20",
-      "title": "O Google acaba de ter seu primeiro trimestre de fluxo de caixa negativo devido a enormes gastos com IA",
-      "summary": "O Google continua a reportar grandes receitas trimestrais, mas os seus gastos com IA dispararam.",
-      "link": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-23T16:04:19+00:00"
-    },
-    {
-      "id": "2b073f5d2caeb82a",
-      "title": "A startup de chips de IA Etched desafia os céticos e atinge avaliação de US$ 10,3 bilhões de grandes investidores",
-      "summary": "A Etched, fundada por três que abandonaram Harvard, criou novos chips e componentes de memória que aceleram a inferência em qualquer modelo de IA – sem necessidade de GPUs, diz.",
-      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-23T15:00:00+00:00"
-    },
-    {
-      "id": "8ceda757be38a9b1",
-      "title": "Nvidia está enviando GPUs para a lua",
-      "summary": "Se existe um lugar no universo sem GPUs, a Nvidia as está enviando para lá.",
-      "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-23T15:00:00+00:00"
-    },
-    {
-      "id": "278e309bf285f413",
-      "title": "Google queima dinheiro e aumenta previsão de investimentos em IA",
-      "summary": "Fluxo de caixa livre fica no vermelho pela primeira vez em mais de uma década. Previsão de despesas de capital no ano sobe para US$ 205 bilhões. Google queima dinheiro e aumenta…",
-      "link": "https://tecnoblog.net/noticias/google-queima-dinheiro-e-aumenta-previsao-de-investimentos-em-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-novos-icones-google-2026-13-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T14:53:19+00:00"
-    },
-    {
-      "id": "7c1b6e51aacaa33f",
-      "title": "Gemini do Google se aproxima da marca de um bilhão de usuários",
-      "summary": "Gemini tinha mais de 750 milhões de usuários mensais em fevereiro.",
-      "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-23T14:52:44+00:00"
-    },
-    {
-      "id": "f8cc3c035136f255",
-      "title": "Corrida armamentista de IA na fila para um acerto de contas após incidente de hacking OpenAI",
-      "summary": "Técnicas de treinamento agressivas aumentam a ameaça de mau comportamento por parte dos modelos líderes.",
-      "link": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/AI-chatbot-icons-on-smartphone-1-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-23T14:45:05+00:00"
     }
   ]
 }
