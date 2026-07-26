@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-07-26T02:38:07.009091+00:00",
+  "generated_at": "2026-07-26T08:24:08.391225+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "393ef0bfe960a00c",
+      "title": "Os EUA supostamente favorecem proibições seletivas em vez de restrições gerais aos modelos abertos chineses, citando preocupações de segurança",
+      "summary": "A administração Trump está a planear proibições específicas aos modelos chineses de IA, em vez de uma proibição geral. Após pressão pública, OpenAI e Google DeepMind assinaram uma carta aberta se opondo…",
+      "link": "https://the-decoder.com/us-reportedly-favors-selective-bans-over-blanket-restrictions-on-chinese-open-weight-models-citing-security-concerns/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/us_vs_china_open_models.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-26T07:56:24+00:00"
+    },
+    {
+      "id": "7b9f5d0c2658fc2b",
+      "title": "O paradoxo do tutor de codificação de IA cresce à medida que os educadores se esforçam para repensar como testam habilidades reais",
+      "summary": "Uma pesquisa da ACM com 763 educadores de ciências da computação de 49 países mostra que 68% já mudaram seus exames por causa da IA, mudando para exames orais, supervisionados…",
+      "link": "https://the-decoder.com/the-ai-coding-tutor-paradox-grows-as-educators-scramble-to-rethink-how-they-test-real-skills/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/ACM-Studie.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-26T06:59:56+00:00"
+    },
     {
       "id": "e9e3f92c9d89fe03",
       "title": "Monday.com é a mais recente empresa de tecnologia a culpar a IA por demissões – aqui estão outras 20",
@@ -969,28 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-07-23T18:38:34+00:00"
-    },
-    {
-      "id": "1b995cc514d65adf",
-      "title": "Xiaomi quer desbancar Canon com impressora especializada em fotografias",
-      "summary": "A Xiaomi anunciou uma nova aposta para o mercado de impressão fotográfica e mira um segmento tradicionalmente dominado pela Canon. A empresa abriu a pré-venda da Mijia Desktop…",
-      "link": "https://canaltech.com.br/produtos/xiaomi-quer-desbancar-canon-com-impressora-especializada-em-fotografias/",
-      "image": "https://tl.ctcdn.com.br/zXvIjKYhFRXO_CbaPsJWtooyrV0=/0x0/filters:format(webp):quality(85)/2b8e1873-73b2-4c46-a125-b663b0f90eb7.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T18:32:17+00:00"
-    },
-    {
-      "id": "5fb5ac6d452e112c",
-      "title": "AMD MI400, Helios, EPYC e mais: veja os destaques do Advancing AI 2026",
-      "summary": "A AMD revelou, nesta semana, novos chips e plataformas com foco em inteligência artificial (IA) durante o Advancing AI 2026 . Entre os destaques, estão as GPUs Instinct MI400 , o…",
-      "link": "https://canaltech.com.br/hardware/amd-mi-400-helios-epyc-e-mais-veja-os-destaques-do-advancing-ai-2026/",
-      "image": "https://tl.ctcdn.com.br/VAi3dra6B7KAUuvhe5Jzb80Vi7Y=/0x0/filters:format(webp):quality(85)/4da6487c-0935-4855-be32-8a42c4e6325e.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T18:30:03+00:00"
     }
   ]
 }
