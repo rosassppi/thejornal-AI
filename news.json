@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-07-26T13:18:02.682106+00:00",
+  "generated_at": "2026-07-26T19:07:51.711727+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "182df831367fd3ad",
+      "title": "Black Forest Labs lança FLUX 3: um modelo de fluxo multimodal para previsão de imagem, vídeo, áudio e ação de robôs",
+      "summary": "Black Forest Labs (BFL) lançou o FLUX 3, um modelo básico multimodal que aprende a partir de imagens, vídeos e áudio dentro de uma única arquitetura. É também o primeiro modelo FLUX…",
+      "link": "https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-26T17:50:23+00:00"
+    },
+    {
+      "id": "a6b9eeed1e8cd453",
+      "title": "Echo Dot em diferentes cores: escolha o seu smart speaker com Alexa",
+      "summary": "Se você quer transformar qualquer cômodo da casa em um ambiente inteligente, os smart speakers com Alexa são uma ótima pedida. Reunimos três opções do Echo Dot — cada uma em uma…",
+      "link": "https://olhardigital.com.br/2026/07/26/reviews/echo-dot-em-diferentes-cores-escolha-o-seu-smart-speaker-com-alexa/",
+      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-26T17:00:00+00:00"
+    },
+    {
+      "id": "446a8454722be8bb",
+      "title": "O CEO da Hugging Face pede “transparência radical” após hack “sem precedentes” da OpenAI",
+      "summary": "“O primeiro ataque cibernético com agente autônomo é um evento sem precedentes. Merece uma resposta sem precedentes!”",
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-26T16:33:13+00:00"
+    },
+    {
+      "id": "dc528bea1b0c5a72",
+      "title": "TechCrunch Mobility: Uber aposta em seu ex-CEO",
+      "summary": "Bem-vindo de volta ao TechCrunch Mobility, seu centro para o futuro do transporte e agora, mais do que nunca, o papel que a IA desempenha nele.",
+      "link": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-26T16:03:00+00:00"
+    },
+    {
+      "id": "ce1fdcdabce46f63",
+      "title": "O enxame de agentes do Cursor sugere que modelos mais baratos podem lidar com a maior parte da codificação quando os modelos de fronteira planejam o trabalho",
+      "summary": "O Cursor pediu ao seu enxame de agentes atualizado e ao seu antecessor para reconstruir o SQLite em Rust usando apenas a documentação, sem código-fonte ou acesso à Internet. Cada configuração de…",
+      "link": "https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/ai-coding-swarms-generated-image-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-26T15:09:11+00:00"
+    },
+    {
+      "id": "45953bc535614857",
+      "title": "Apenas 3% dos usos do Gemini envolvem automação massiva de tarefas",
+      "summary": "Levantamento feito pelo Google analisa uso de inteligência artificial no trabalho, apontado como muito superficial. Apenas 3% dos usos do Gemini envolvem automação massiva de…",
+      "link": "https://tecnoblog.net/noticias/apenas-3-dos-usos-do-gemini-envolvem-automacao-massiva-de-tarefas/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/capa-freelas-perde-emprego-pra-ia-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-26T15:00:10+00:00"
+    },
     {
       "id": "00600a06d128261f",
       "title": "5 coisas que o ChatGPT faz melhor que o Gemini",
@@ -553,17 +619,6 @@
       "published_at": "2026-07-24T17:07:38+00:00"
     },
     {
-      "id": "b7d7ca4a5d472f5d",
-      "title": "Construir em público, falhar em público: como é ser um fundador com menos de 20 anos agora",
-      "summary": "As ferramentas de IA democratizaram a oportunidade de construção, encurtando os prazos de sucesso e permitindo que mais jovens iniciassem empresas de sucesso sem pisar nelas...",
-      "link": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-24T17:00:00+00:00"
-    },
-    {
       "id": "24e986a8ed3daf1f",
       "title": "Anthropic lança Opus 5 com capacidades ‘próximas’ das do Fable 5",
       "summary": "Semanas após o último confronto direto da Anthropic com o governo dos EUA, e dias após um incidente de segurança OpenAI que dominou as discussões da indústria de tecnologia, a Anthropic na quinta-feira…",
@@ -583,6 +638,17 @@
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
+      "published_at": "2026-07-24T17:00:00+00:00"
+    },
+    {
+      "id": "b7d7ca4a5d472f5d",
+      "title": "Construir em público, falhar em público: como é ser um fundador com menos de 20 anos agora",
+      "summary": "As ferramentas de IA democratizaram a oportunidade de construção, encurtando os prazos de sucesso e permitindo que mais jovens iniciassem empresas de sucesso sem pisar nelas...",
+      "link": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-07-24T17:00:00+00:00"
     },
     {
@@ -925,72 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-23T21:16:00+00:00"
-    },
-    {
-      "id": "a6e6ed7cc55ba5af",
-      "title": "Alexa Plus está recebendo uma atualização de IA para lidar com instruções mais complicadas",
-      "summary": "A Amazon está lançando uma atualização para seu assistente Alexa Plus que permitirá conectar-se a dispositivos domésticos inteligentes de novas maneiras. Com a atualização, que está atualmente em versão prévia, Alexa…",
-      "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-23T21:15:06+00:00"
-    },
-    {
-      "id": "78152408aa7a67ee",
-      "title": "AMD enfrenta Nvidia com seu sistema Helios AI em escala de rack",
-      "summary": "A AMD está desafiando seu rival fabricante de chips com um novo sistema em escala de rack que começará a ser enviado aos clientes ainda este ano.",
-      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-23T20:33:02+00:00"
-    },
-    {
-      "id": "472bf601ee469d9e",
-      "title": "A startup de seguros Corgi supostamente levantou mais dinheiro em US$ 4 bilhões – sua terceira rodada em 8 semanas",
-      "summary": "No frenesi do financiamento de IA, muitas startups estão levantando rodadas consecutivas com avaliações cada vez maiores – mas mesmo por esses padrões, a Corgi se destaca.",
-      "link": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-23T20:13:24+00:00"
-    },
-    {
-      "id": "efdf94be7d78f003",
-      "title": "Andrew Ng acaba de lançar o OpenWorker: um colega de trabalho de IA de desktop local e de código aberto que retorna resultados finalizados em vez de bate-papo",
-      "summary": "Andrew Ng lançou o OpenWorker, um agente de IA de desktop licenciado pelo MIT que retorna resultados finalizados em vez de respostas de bate-papo. Ele executa um servidor de agente Python local sob um Tauri…",
-      "link": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2194.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-23T19:31:59+00:00"
-    },
-    {
-      "id": "f4b56f6cdc5b95f4",
-      "title": "ChatGPT lhe dará conselhos de saúde piores se você não pagar",
-      "summary": "OpenAI está lançando “Health in ChatGPT” para usuários dos EUA, conectando Apple Health, registros médicos e aplicativos de bem-estar. Mais de 300 milhões de pessoas já perguntam sobre saúde do ChatGPT…",
-      "link": "https://the-decoder.com/chatgpt-will-give-you-worse-health-advice-if-you-dont-pay/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_health.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-23T19:30:51+00:00"
-    },
-    {
-      "id": "2f39aa1a12ba934d",
-      "title": "ChatGPT caiu? IA tem problemas nesta quinta (23)",
-      "summary": "Chatbot da OpenAI apresentou lentidão nas respostas. API e Codex também foram afetados. ChatGPT caiu? IA tem problemas nesta quinta (23)",
-      "link": "https://tecnoblog.net/noticias/chatgpt-caiu-ia-tem-problemas-nesta-quinta-23/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T19:16:43+00:00"
     }
   ]
 }
