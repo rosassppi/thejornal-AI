@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-07-25T19:05:13.122465+00:00",
+  "generated_at": "2026-07-26T02:38:07.009091+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "e9e3f92c9d89fe03",
+      "title": "Monday.com é a mais recente empresa de tecnologia a culpar a IA por demissões – aqui estão outras 20",
+      "summary": "Uma rápida olhada – em ordem cronológica inversa – nas maiores empresas de tecnologia que anunciaram demissões significativas este ano, tendo a IA como fator declarado.",
+      "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-26T01:30:00+00:00"
+    },
+    {
+      "id": "48ac63b2e556b9e0",
+      "title": "Sakana AI lança Fugu-Cyber: um modelo de orquestração reportando 86,9% no CyberGym e 72,1% no CTI-REALM",
+      "summary": "Sakana AI lançou o Fugu-Cyber, um endpoint ajustado para segurança em seu modelo de orquestração Fugu. Ele reporta 86,9% no CyberGym e 72,1% no CTI-REALM, ultrapassando o GPT-5.5-Cyber ​​e…",
+      "link": "https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-26T00:12:57+00:00"
+    },
+    {
+      "id": "561acc76e3b37624",
+      "title": "Seu próximo seguro pode depender de uma IA",
+      "summary": "Atualmente, sinistros já passam por regulação automatizada com inteligência artificial, reduzindo o tempo de análise O post Seu próximo seguro pode depender de uma IA apareceu…",
+      "link": "https://olhardigital.com.br/2026/07/25/inteligencia-artificial/seu-proximo-seguro-pode-depender-de-uma-ia/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-25T21:02:00+00:00"
+    },
+    {
+      "id": "57681a92b58bfc5a",
+      "title": "5 celulares mais baratos que podem ser melhores que o iPhone 17",
+      "summary": "O iPhone 17 chegou ao mercado trazendo melhorias pontuais em desempenho, câmeras e inteligência artificial , mas manteve algumas limitações que já eram alvo de críticas. Enquanto…",
+      "link": "https://canaltech.com.br/smartphone/5-celulares-mais-baratos-que-podem-ser-melhores-que-o-i-phone-17/",
+      "image": "https://tl.ctcdn.com.br/j2z1kBP9iTWaNimW7cnfHYPsUwg=/0x0/filters:format(webp):quality(85)/1f8bf4f9-be92-4381-a628-d6c414975b33.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-25T21:00:00+00:00"
+    },
+    {
+      "id": "9a1ec372fdf7dae7",
+      "title": "8 melhores novidades do iOS 27 para quem tem iPhone antigo",
+      "summary": "O iOS 27 marca a chegada da nova Siri e mais recursos do Apple Intelligence, mas nem todos os iPhones são compatíveis com o pacote de IA. De qualquer forma, a atualização também…",
+      "link": "https://canaltech.com.br/apps/melhores-novidades-ios-27-para-iphone-antigo/",
+      "image": "https://tl.ctcdn.com.br/89YLzTTur53leBCQMdiCEN5GajY=/0x0/filters:format(webp):quality(85)/94c3ca33-4a27-4521-9aa1-4271b6e25981.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-25T19:33:00+00:00"
+    },
     {
       "id": "5ec00b7934d81530",
       "title": "Conheça o Open Dreamer: uma reprodução JAX/Flax do Dreamer 4 World Model Pipeline, com a receita de treinamento completa publicada",
@@ -12,6 +67,39 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-07-25T18:59:54+00:00"
+    },
+    {
+      "id": "cb93f05379fc4d63",
+      "title": "Imprima com mais economia: veja uma seleção de impressoras em promoção na Amazon",
+      "summary": "Se a sua impressora está deixando a desejar — ou você simplesmente precisa de uma nova para casa ou o escritório —, este é um bom momento para pesquisar. Reunimos três opções de…",
+      "link": "https://olhardigital.com.br/2026/07/25/reviews/imprima-com-mais-economia-veja-uma-selecao-de-impressoras-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-25T18:40:00+00:00"
+    },
+    {
+      "id": "c4ea52cd258c7b2e",
+      "title": "Convenção de Flávio tem vídeo de Jair Bolsonaro gerado por IA",
+      "summary": "Jair Bolsonaro está preso desde novembro de 2025 por tentativa de golpe de Estado. O político está em prisão domiciliar por motivos de saúde O post Convenção de Flávio tem vídeo…",
+      "link": "https://olhardigital.com.br/2026/07/25/inteligencia-artificial/convencao-de-flavio-tem-video-de-jair-bolsonaro-gerado-por-ia/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-25T18:36:16+00:00"
+    },
+    {
+      "id": "0d40f63b28364aa9",
+      "title": "O novo papel da liderança em tempos de IA",
+      "summary": "É preciso transformar a IA em cointeligência. O líder que terceiriza o juízo à máquina troca autoridade por conveniência O post O novo papel da liderança em tempos de IA apareceu…",
+      "link": "https://olhardigital.com.br/2026/07/25/colunistas/o-novo-papel-da-lideranca-em-tempos-de-ia/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-25T18:30:00+00:00"
     },
     {
       "id": "88ce23444b2dc57d",
@@ -388,17 +476,6 @@
       "published_at": "2026-07-24T17:00:00+00:00"
     },
     {
-      "id": "310f57a4b47f8cf6",
-      "title": "Antrópico lança Opus 5",
-      "summary": "O Opus 5 será mais barato e menos restritivo que o Fable, provavelmente tornando-o preferível na maioria dos casos de uso.",
-      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-24T17:00:00+00:00"
-    },
-    {
       "id": "24e986a8ed3daf1f",
       "title": "Anthropic lança Opus 5 com capacidades ‘próximas’ das do Fable 5",
       "summary": "Semanas após o último confronto direto da Anthropic com o governo dos EUA, e dias após um incidente de segurança OpenAI que dominou as discussões da indústria de tecnologia, a Anthropic na quinta-feira…",
@@ -418,6 +495,17 @@
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
+      "published_at": "2026-07-24T17:00:00+00:00"
+    },
+    {
+      "id": "310f57a4b47f8cf6",
+      "title": "Antrópico lança Opus 5",
+      "summary": "O Opus 5 será mais barato e menos restritivo que o Fable, provavelmente tornando-o preferível na maioria dos casos de uso.",
+      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-07-24T17:00:00+00:00"
     },
     {
@@ -903,94 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-23T18:30:03+00:00"
-    },
-    {
-      "id": "79e6bc8017d2de05",
-      "title": "IA física: AMD aposta em novo chip e plataforma para facilitar a criação de robôs",
-      "summary": "Do protótipo à linha de produção, a AMD quer encurtar o caminho para o desenvolvimento da IA física . Nesta quinta-feira (23), a empresa apresentou o Ryzen AI Embedded X100 e a…",
-      "link": "https://canaltech.com.br/hardware/ia-fisica-amd-aposta-em-novo-chip-e-plataforma-para-facilitar-a-criacao-de-robos/",
-      "image": "https://tl.ctcdn.com.br/JOGMXahN7__mpptx7OqmD70EUxI=/0x0/filters:format(webp):quality(85)/1d18740c-b8cf-45d5-820c-db771b7408f4.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T18:30:03+00:00"
-    },
-    {
-      "id": "579fdc6aa3cd2b71",
-      "title": "Novo AMD EPYC tem até 256 núcleos para data centers com agentes de IA",
-      "summary": "A AMD apresentou a sua nova família de processadores para servidores, o EPYC 9006 . A sexta geração contará com modelos destinados a serviços de nuvem, aplicações empresariais…",
-      "link": "https://canaltech.com.br/hardware/novo-amd-epyc-tem-ate-256-nucleos-para-data-centers-com-agentes-de-ia/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T18:30:02+00:00"
-    },
-    {
-      "id": "090217c06cd7f021",
-      "title": "AMD revela nova geração de GPUs para fábricas de IA e supercomputadores",
-      "summary": "A AMD revelou a família de GPUs Instinct MI400 nesta quinta-feira (23), durante o AMD Advancing AI 2026 . A nova geração é voltada a aplicações de inteligência artificial e…",
-      "link": "https://canaltech.com.br/hardware/amd-revela-nova-geracao-de-gpus-para-fabricas-de-ia-e-supercomputadores/",
-      "image": "https://tl.ctcdn.com.br/fv58Rv7wM6B4RTkdoIzJJFPN1SE=/0x0/filters:format(webp):quality(85)/8a90bdf7-5dfe-40c5-b596-e52697f3dcef.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T18:30:01+00:00"
-    },
-    {
-      "id": "fcbc884681709e51",
-      "title": "Patreon está demitindo 20% dos trabalhadores",
-      "summary": "Patreon está demitindo 20% de seus trabalhadores, ou cerca de 93 funcionários, conforme relatado anteriormente pela 404 Media. Em um memorando aos funcionários, o CEO do Patreon, Jack Conte, escreve que a empresa…",
-      "link": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK326_PATREON_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-23T18:20:30+00:00"
-    },
-    {
-      "id": "4f32475d5e3ae9c3",
-      "title": "Você não obteve o modelo de IA pelo qual pagou",
-      "summary": "A linha no objeto de resposta Você chama a API. Você passa o modelo: “claude-fable-5”. Você recebe de volta uma conclusão, uma contagem de tokens e um campo que diz “modelo”: “claude-opus-4-8”…",
-      "link": "https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-23T18:07:55+00:00"
-    },
-    {
-      "id": "99b03b846672e124",
-      "title": "Flux 3 gera vídeos com áudio nativo de até 20 segundos de duração, uma inovação no Black Forest Labs",
-      "summary": "O Black Forest Labs lançou o Flux 3, um modelo básico multimodal que aprende com imagens, vídeo e áudio e pode gerar vídeo com som nativo pela primeira vez. BFLs…",
-      "link": "https://the-decoder.com/flux-3-generates-videos-with-native-audio-up-to-20-seconds-long-a-first-for-black-forest-labs/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/bfl_flux3_video.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-23T18:03:01+00:00"
-    },
-    {
-      "id": "264fce9f98083ed1",
-      "title": "As demissões na Xbox e o início da era pós-AAA?",
-      "summary": "As demissões na Xbox expõem os limites do modelo AAA. Chips analisa por que jogos bilionários ficaram arriscados demais e como indies, globalização e IA podem inaugurar a era…",
-      "link": "https://olhardigital.com.br/2026/07/23/games-e-consoles/demissoes-xbox-era-pos-aaa/",
-      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/07/Coluna-Chips-ChatGPT-6-1024x683.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T18:00:00+00:00"
-    },
-    {
-      "id": "5668559e5e7e13bc",
-      "title": "O verdadeiro motivo pelo qual agentes de IA falham não é a inteligência — é a memória",
-      "summary": "*Por Elemar Jr. Ao longo dos últimos anos, percebi que a maioria dos sistemas de inteligência artificial não falha de maneira evidente. Eles não travam. Não exibem mensagens de…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/o-verdadeiro-motivo-pelo-qual-agentes-de-ia-falham-nao-e-a-inteligencia-e-a-memoria/",
-      "image": "https://tl.ctcdn.com.br/JbPujGZ4gfBq7KbOg_DnnxHXPts=/0x0/filters:format(webp):quality(85)/470cd668-9119-4172-8ca3-777349ead53b.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T17:30:00+00:00"
     }
   ]
 }
