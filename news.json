@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-07-26T08:24:08.391225+00:00",
+  "generated_at": "2026-07-26T13:18:02.682106+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "00600a06d128261f",
+      "title": "5 coisas que o ChatGPT faz melhor que o Gemini",
+      "summary": "O Gemini cresceu bastante nos últimos anos e hoje é uma das principais alternativas ao ChatGPT . Se você usa Android, Gmail, Google Drive, Docs e outros serviços da empresa, a IA…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-chatgpt-faz-melhor-que-gemini/",
+      "image": "https://tl.ctcdn.com.br/0aS0lV953b1zEDuab43OYHHoKQk=/0x0/filters:format(webp):quality(85)/c26f73ec-66d4-4b8c-8806-fb7e0a8b4cf6.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-26T11:30:00+00:00"
+    },
+    {
+      "id": "6118864fdd0dcd94",
+      "title": "Equipe KwaiKAT lança KAT-Coder-V2.5: um modelo de codificação Agentic treinado em mais de 100.000 ambientes de repositório verificáveis",
+      "summary": "A equipe KwaiKAT em Kuaishou publicou o relatório técnico KAT-Coder-V2.5, argumentando que a capacidade de codificação de agentes é limitada pela infraestrutura de treinamento e não pelo modelo…",
+      "link": "https://www.marktechpost.com/2026/07/26/kwaikat-team-releases-kat-coder-v2-5-an-agentic-coding-model-trained-on-100000-verifiable-repository-environments/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-26T10:46:19+00:00"
+    },
+    {
+      "id": "ce5538e3ee42288c",
+      "title": "O Opus 5 da Anthropic ultrapassa Fable 5 e GPT-5.6 Sol no benchmark projetado para medir inteligência real",
+      "summary": "Claude Opus 5 da Anthropic obteve 30,2 por cento no ARC-AGI-3, quase quadruplicando o recorde anterior do GPT-5.6 Sol de 7,8 por cento. Os desenvolvedores do benchmark afirmam que o modelo é independente…",
+      "link": "https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/arc_agi_3_opus_5.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-26T09:43:02+00:00"
+    },
+    {
+      "id": "55a8ae5017866efb",
+      "title": "Induction Labs Photon-1 simula desktops, joga damas e modela a física do bilhar em uma corrida de pré-treinamento",
+      "summary": "A maioria dos agentes que aprendem com o vídeo precisa saber qual ação produziu cada quadro. A Induction Labs argumenta que esse requisito é o gargalo. Na semana passada eles lançaram…",
+      "link": "https://www.marktechpost.com/2026/07/26/induction-labs-photon-1-simulates-desktops-plays-checkers-and-models-billiard-physics-from-one-pretraining-run/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-26T09:14:22+00:00"
+    },
+    {
+      "id": "4f78e5e9e365c239",
+      "title": "FAIRChem v2 UMA para simulação atomística multidomínio em moléculas, catalisadores, materiais, vibrações e dinâmica molecular",
+      "summary": "Neste tutorial, exploramos o FAIRChem v2 e o potencial interatômico universal de aprendizado de máquina UMA como uma estrutura unificada para simulação atomística em química molecular…",
+      "link": "https://www.marktechpost.com/2026/07/26/fairchem-v2-uma-for-multidomain-atomistic-simulation-across-molecules-catalysts-materials-vibrations-and-molecular-dynamics/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-26T08:38:09+00:00"
+    },
+    {
+      "id": "449a0cbc9bf77674",
+      "title": "Centenas pediram ao ChatGPT receitas de veneno e armas biológicas e alguns receberam guias passo a passo para o ensino médio",
+      "summary": "No verão de 2025, a OpenAI sinalizou internamente o GPT-5 como de alto risco porque ajudava os usuários a criar riscos biológicos, mas rebaixou a classificação de risco do modelo naquele outono. De acordo com o…",
+      "link": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/chatgpt_bioweapon.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-26T08:35:49+00:00"
+    },
     {
       "id": "393ef0bfe960a00c",
       "title": "Os EUA supostamente favorecem proibições seletivas em vez de restrições gerais aos modelos abertos chineses, citando preocupações de segurança",
@@ -925,72 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-23T19:16:43+00:00"
-    },
-    {
-      "id": "32c5e66ca8c09f30",
-      "title": "Bezos pode transformar Prime Video em vitrine de IA da Amazon",
-      "summary": "Bilionário teria cobrado uma reformulação no streaming após rejeitar atualizações modestas, diz a agência Reuters. Bezos pode transformar Prime Video em vitrine de IA da Amazon",
-      "link": "https://tecnoblog.net/noticias/bezos-pode-transformar-prime-video-em-vitrine-de-ia-da-amazon/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/capa_tbr-jeff-bezos-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T19:09:28+00:00"
-    },
-    {
-      "id": "598c44d0ce69dffb",
-      "title": "AI Kill Switch Act permitiria que o administrador Trump ordenasse o desligamento de sistemas de IA desonestos",
-      "summary": "Bill deixaria o chefe da Segurança Interna decidir quando uma IA deveria ser desligada.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-500x500-1784833195.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-23T19:08:01+00:00"
-    },
-    {
-      "id": "d868443dad20b4ee",
-      "title": "ChatGPT tem instabilidade e lentidão nesta quinta-feira (23)",
-      "summary": "O C hatGPT passa por instabilidades durante a tarde desta quinta-feira (23). Usuários reclamam de lentidão nas respostas e até mensagens de erro ao usar o assistente da OpenAI. A…",
-      "link": "https://canaltech.com.br/apps/chat-gpt-tem-instabilidade-e-lentidao-nesta-quinta-feira-23/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T19:00:51+00:00"
-    },
-    {
-      "id": "046009295c648fc7",
-      "title": "O modo de voz de Claude agora está disponível para Opus e Sonnet",
-      "summary": "Até agora, o modo de voz estava disponível apenas no Claude Haiku, o modelo mais rápido, mas menos poderoso, da Anthropic. Agora a empresa está disponibilizando seus modelos Opus e Sonnet em voz…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-23T19:00:00+00:00"
-    },
-    {
-      "id": "18c71ec7bf4bce71",
-      "title": "Anthropic atualiza modo de voz de Claude com modelos mais capazes",
-      "summary": "O novo modelo de voz de Claude permitirá que você reagende sua reunião ou redija um e-mail",
-      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-23T19:00:00+00:00"
-    },
-    {
-      "id": "7a2e33bd2177a4c7",
-      "title": "AegisAI, fundada por ex-executivos de segurança do Google, arrecada US$ 36 milhões para impedir o spear phishing baseado em IA",
-      "summary": "A Série A foi liderada pela Battery Ventures, elevando o financiamento total da AegisAI para US$ 49 milhões.",
-      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-23T18:38:34+00:00"
     }
   ]
 }
