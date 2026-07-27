@@ -1,11 +1,132 @@
 {
-  "generated_at": "2026-07-27T09:49:18.254971+00:00",
+  "generated_at": "2026-07-27T14:30:17.801297+00:00",
   "total": 90,
   "items": [
     {
+      "id": "89ec7c0a9c2d77d4",
+      "title": "Nvidia pode bancar US$ 250 bi em 1º data center próprio da OpenAI",
+      "summary": "A Nvidia está em negociações para oferecer cerca de US$ 250 bilhões (cerca de R$ 1,3 trilhão) em garantias financeiras a um projeto de data center da OpenAI, segundo reportagem do…",
+      "link": "https://canaltech.com.br/mercado/nvidia-pode-bancar-us-250-bi-em-1-data-center-proprio-da-open-ai/",
+      "image": "https://tl.ctcdn.com.br/TVXBrCyUzsTnPhraYvythMwQas8=/0x0/filters:format(webp):quality(85)/c7387078-bf33-4b2c-b2f5-50afb98657ef.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-27T14:30:00+00:00"
+    },
+    {
+      "id": "fc49b74da481075a",
+      "title": "Grok, IA de Musk, teria levado homem a acreditar em perseguição",
+      "summary": "Grok, IA de Elon Musk, teria levado homem a acreditar em perseguição e ameaça. Caso reacende debate sobre segurança dos chatbots O post Grok, IA de Musk, teria levado homem a…",
+      "link": "https://olhardigital.com.br/2026/07/27/inteligencia-artificial/grok-ia-de-musk-teria-levado-homem-a-acreditar-em-perseguicao/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/musk_grok-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-27T13:57:11+00:00"
+    },
+    {
+      "id": "ec5b858d88d1d53e",
+      "title": "IA fora de controle faz EUA debaterem \"botão de pânico\" para desativá-la",
+      "summary": "Os parlamentares dos Estados Unidos apresentaram o AI Kill Switch Act , um projeto de lei bipartidário que autoriza o Departamento de Segurança Interna dos EUA a determinar a…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/ia-fora-de-controle-faz-eua-debaterem-botao-de-panico-para-desativa-la/",
+      "image": "https://tl.ctcdn.com.br/28DMqV8TGvohJkaqdqNGus4tvko=/0x0/filters:format(webp):quality(85)/c0894921-89f1-4bcc-a078-5f7449ea56f6.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-27T13:05:00+00:00"
+    },
+    {
+      "id": "99c89aa85adfb6f6",
+      "title": "Nvidia reúne Microsoft e outras gigantes para blindar sistemas de IA",
+      "summary": "Nvidia reúne gigantes da tecnologia em aliança para criar ferramentas de segurança com IA e combater novas ameaças digitais O post Nvidia reúne Microsoft e outras gigantes para…",
+      "link": "https://olhardigital.com.br/2026/07/27/inteligencia-artificial/nvidia-reune-microsoft-e-outras-gigantes-para-blindar-sistemas-de-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/Open-Secure-AI-Alliance-1024x576.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-27T12:51:42+00:00"
+    },
+    {
+      "id": "f6d9c5ca48b5a04f",
+      "title": "Corrida da IA transforma fabricante de memória na empresa mais valiosa da China",
+      "summary": "Após captar US$ 8,6 bilhões em IPO, CXMT amplia planos de expansão e ganha força na disputa global por chips de memória O post Corrida da IA transforma fabricante de memória na…",
+      "link": "https://olhardigital.com.br/2026/07/27/pro/corrida-da-ia-transforma-fabricante-de-memoria-na-empresa-mais-valiosa-da-china/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/12/Memria-DRAM-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-27T12:44:39+00:00"
+    },
+    {
+      "id": "f9af4986eb7ad6fc",
+      "title": "METR introduz uma nova métrica para calcular exatamente quando os agentes de IA se tornam mais caros que os humanos",
+      "summary": "A nova métrica do METR, o “horizonte de despesas”, avalia a relação custo-benefício dos agentes de IA na resolução de problemas. Os primeiros resultados do speedrun NanoGPT são…",
+      "link": "https://the-decoder.com/metr-introduces-a-new-metric-to-calculate-exactly-when-ai-agents-become-more-expensive-than-humans/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/METR-Expenditure-Horizon-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-27T12:28:06+00:00"
+    },
+    {
+      "id": "61c016514a9f8cec",
+      "title": "Nvidia e Microsoft lançam aliança aberta de segurança de IA – sem OpenAI, Google ou Anthropic",
+      "summary": "A Nvidia disse na segunda-feira que está unindo forças com Microsoft, SpaceX, IBM e outras empresas de tecnologia para construir e compartilhar ferramentas de segurança de IA de código aberto. A nova Aliança Open Secure AI…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-27T12:06:22+00:00"
+    },
+    {
+      "id": "019f99f4d633a5c0",
+      "title": "O caminho para a superinteligência artificial",
+      "summary": "Imagine um sistema de saúde composto por vários agentes de IA: um que gere a avaliação de sintomas, outro agendamento, um terceiro seguro e uma quarta farmácia. Cada um é especialista em…",
+      "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/CREA-1571-MIT-tech-review-Misc-1200x675-option-2.png",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-27T12:00:00+00:00"
+    },
+    {
+      "id": "0a9b60fb4c575c08",
+      "title": "Fechando o ciclo de dados na descoberta de medicamentos baseada em IA",
+      "summary": "A descoberta de medicamentos é um empreendimento de alto custo e alto risco que está sob pressão crescente de um mercado cada vez mais definido pela vantagem do pioneirismo. Desde a década de 1950, o custo de…",
+      "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2247435323_f6bf40.jpg",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-27T11:40:16+00:00"
+    },
+    {
+      "id": "cc4e3f6d6e64b2d4",
+      "title": "Construindo o ambiente empresarial para IA agente",
+      "summary": "Para as empresas, a promessa da IA ​​agente é muito mais do que apenas um chatbot melhor. São agentes de software que executam tarefas de negócios de ponta a ponta entre pessoas, empresas…",
+      "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Intel-image-contributed-article.png",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-27T11:32:58+00:00"
+    },
+    {
+      "id": "d2e6e38142606e5c",
+      "title": "Artista processa gerador de memes de IA por vender quadrinhos profundamente pessoais como modelo de anúncio",
+      "summary": "O gerador de meme pode ter estragado tudo ao usar modelos nas saídas, diz o especialista.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/comictest-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-27T10:50:37+00:00"
+    },
+    {
       "id": "9b781f02130917b5",
       "title": "Apple quer deixar Meta e Samsung para trás e adia óculos inteligentes",
-      "summary": "A Apple adiou novamente o lançamento de seus primeiros óculos inteligentes , mas a decisão pode fazer parte de uma estratégia muito maior. Segundo informações da Bloomberg, a…",
+      "summary": "A Apple adiou novamente o lançamento de seus primeiros óculos inteligentes , mas a decisão pode fazer parte de uma estratégia muito maior. Segundo informações da Bloomberg , a…",
       "link": "https://canaltech.com.br/produtos/apple-quer-deixar-meta-e-samsung-para-tras-e-adia-oculos-inteligentes/",
       "image": "https://tl.ctcdn.com.br/oZKMaUcNnD6Oo5uu0lDsQjBJ-VI=/0x0/filters:format(webp):quality(85)/db7575e2-5e41-4224-a9ff-1928edf3ae5e.png",
       "source": "Canaltech",
@@ -34,6 +155,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-27T07:51:16+00:00"
+    },
+    {
+      "id": "db9d0913513df69e",
+      "title": "Como a IA está expandindo o que as pessoas fazem no trabalho",
+      "summary": "Uma nova pesquisa da OpenAI mostra como a IA está expandindo o que os trabalhadores fazem, com os usuários do ChatGPT assumindo tarefas entre funções e remodelando os limites do trabalho.",
+      "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-27T03:30:00+00:00"
     },
     {
       "id": "0966e0a1e42fb31c",
@@ -859,138 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-24T14:41:27+00:00"
-    },
-    {
-      "id": "4434de9b7c83c59a",
-      "title": "Como aprender e resolver 9 problemas do dia a dia com ajuda da IA",
-      "summary": "A inteligência artificial já se tornou uma assistente pessoal para muitas pessoas. Ferramentas, como ChatGPT, Gemini e Claude, ajudam a organizar a rotina, resolver problemas com…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-aprender-resolver-problemas-dia-a-dia-ajuda-ia/",
-      "image": "https://tl.ctcdn.com.br/1X764xPDI_Wv1XBAouqSibiohoE=/0x0/filters:format(webp):quality(85)/3b5477d1-a3ad-4864-ae4a-9fe2c4e4f72d.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-24T14:39:00+00:00"
-    },
-    {
-      "id": "f97cb1164887542d",
-      "title": "Sakana afirma que seu roteador modelo AI Fugu Ultra v1.1 agora supera o Fable 5, mesmo sem incluí-lo no pool",
-      "summary": "Sakana AI atualizou seu roteador Fugu Ultra AI para a versão 1.1, reivindicando ganhos de até 7,9 pontos em relação à v1.0. A verificação independente ainda não existe. A atualização adiciona um Claude…",
-      "link": "https://the-decoder.com/sakana-claims-its-ai-model-router-fugu-ultra-v1-1-now-beats-fable-5-without-even-including-it-in-the-pool/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/sakana_fugu_ai.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-24T14:37:57+00:00"
-    },
-    {
-      "id": "42ea4d5192715afc",
-      "title": "As empresas de IA querem mais data centers; A EPA de Trump pode dar menos voz aos vizinhos",
-      "summary": "A regra permitiria que os estados decidissem quanta contribuição pública pode haver – se houver.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-2113285214-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-24T13:49:38+00:00"
-    },
-    {
-      "id": "397330e7a328810a",
-      "title": "O novo modo de voz do OpenAI chega ao aplicativo de desktop ChatGPT",
-      "summary": "ChatGPT Voice no desktop pode funcionar com ChatGPT Work e Codex para concluir tarefas e controlar agentes.",
-      "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-24T13:36:42+00:00"
-    },
-    {
-      "id": "9722fd2e960cec23",
-      "title": "Consórcio alemão de IA lança Soofi S, um modelo aberto 30B que supera os benchmarks em inglês e alemão",
-      "summary": "O consórcio alemão por trás do modelo de IA Soofi S reconheceu na versão 3.0 de seu relatório técnico que as questões de teste do benchmark científico GPQA acidentalmente acabaram em…",
-      "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/soofi-s-german-llm-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-24T12:56:01+00:00"
-    },
-    {
-      "id": "35a5c367fdcc38d1",
-      "title": "Aspirador vertical da Xiaomi limpa com muita força e ainda passa pano por R$ 675",
-      "summary": "A Xiaomi apresentou um novo aspirador de pó vertical que promete facilitar a limpeza da casa com mais potência e recursos inteligentes. O Mijia Wireless Floor Cleaner 5C chega ao…",
-      "link": "https://canaltech.com.br/eletro/aspirador-vertical-da-xiaomi-limpa-com-muita-forca-e-ainda-passa-pano-por-r-675/",
-      "image": "https://tl.ctcdn.com.br/KswZ6B5Cb0swuszmckScicWqXOQ=/0x0/filters:format(webp):quality(85)/494f1f56-0aa1-4ffa-9e9f-b13d9e77670b.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-24T12:49:45+00:00"
-    },
-    {
-      "id": "6afa9629490437cd",
-      "title": "NVIDIA RTX Spark chega no próximo trimestre com notebooks da ASUS e MSI",
-      "summary": "O mercado de notebooks hoje é dominado por modelos equipados com processadores Intel e GPUs NVIDIA, com a AMD aumentando sua presença aos poucos ( diferente dos desktops, onde…",
-      "link": "https://canaltech.com.br/hardware/nvidia-rtx-spark-chega-no-proximo-trimestre-com-notebooks-da-asus-e-msi/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-24T12:41:00+00:00"
-    },
-    {
-      "id": "29b21f0ee81dc7b4",
-      "title": "Vende pelo Facebook? Novo app da Meta promete facilitar tudo",
-      "summary": "Novo aplicativo da Meta separa o Marketplace do Facebook e traz recursos de inteligência artificial para transformar a rotina de vendedores O post Vende pelo Facebook? Novo app da…",
-      "link": "https://olhardigital.com.br/2026/07/24/internet-e-redes-sociais/vende-pelo-facebook-novo-app-da-meta-promete-facilitar-tudo/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/meta_logo-1024x725.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-24T12:38:53+00:00"
-    },
-    {
-      "id": "906a3d04056a0543",
-      "title": "10 celulares tão inovadores que pareciam ficção científica e não fizeram sucesso",
-      "summary": "Muito antes das telas dobráveis, da inteligência artificial embarcada e das câmeras com zoom avançado, as fabricantes de celulares já apostavam em ideias que pareciam saídas de…",
-      "link": "https://canaltech.com.br/smartphone/10-celulares-tao-inovadores-que-pareciam-ficcao-cientifica-e-nao-fizeram-sucesso/",
-      "image": "https://tl.ctcdn.com.br/Y6IilNKtfJ-RbvY_uEodRUMXHpI=/0x0/filters:format(webp):quality(85)/04d75358-9b68-49cc-8872-4b767bb71e6f.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-24T12:25:19+00:00"
-    },
-    {
-      "id": "fdd0b99459815011",
-      "title": "ChatGPT ganha modo de voz avançado no PC para automatizar trabalhos",
-      "summary": "A OpenAI lançou nesta quarta-feira (23) uma atualização para o aplicativo de desktop do ChatGPT que leva a tecnologia GPT-Live para Windows e macOS . O recurso torna as conversas…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/chat-gpt-ganha-modo-de-voz-avancado-no-pc-para-automatizar-trabalhos/",
-      "image": "https://tl.ctcdn.com.br/YcTZHHYFhPr5QzRqY7vwryPXa7w=/0x0/filters:format(webp):quality(85)/3ec59fd7-f707-443c-88c5-245a11e1554d.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-24T12:16:00+00:00"
-    },
-    {
-      "id": "e2aaa2f750d6d099",
-      "title": "Prime Video passará por reformulação total focada em IA a mando de Jeff Bezos",
-      "summary": "O Prime Video está prestes a passar por uma reestruturação completa com foco em inteligência artificial (IA) . A medida foi impulsionada por Jeff Bezos, fundador da Amazon. De…",
-      "link": "https://canaltech.com.br/apps/prime-video-passara-por-reformulacao-total-focada-em-ia-a-mando-de-jeff-bezos/",
-      "image": "https://tl.ctcdn.com.br/tqfE8kQ5IcMJzzuCNn019Uk0_cY=/0x0/filters:format(webp):quality(85)/f3ea163d-7bca-4ca6-9a17-db02360bb812.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-24T12:04:00+00:00"
-    },
-    {
-      "id": "a24cb1d6440d033c",
-      "title": "O modo de voz de Claude agora funciona nos modelos mais capazes da Anthropic em todas as plataformas",
-      "summary": "As conversas por voz agora são executadas nos modelos Opus e Sonnet mais poderosos, com acesso ao Gmail, Google Calendar e Slack. Claude é atualmente o único assistente de IA que pode…",
-      "link": "https://the-decoder.com/claudes-voice-mode-now-runs-on-anthropics-most-capable-models-across-all-platforms/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-24T11:31:49+00:00"
     }
   ]
 }
