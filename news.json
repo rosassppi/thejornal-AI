@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-07-26T19:07:51.711727+00:00",
+  "generated_at": "2026-07-27T02:46:52.098045+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "0966e0a1e42fb31c",
+      "title": "Nvidia e OpenAI podem fechar acordo bilionário por maior data center do mundo",
+      "summary": "Iniciativa representa uma das transações financeiras mais ambiciosas da atual corrida pela IA nos EUA O post Nvidia e OpenAI podem fechar acordo bilionário por maior data center…",
+      "link": "https://olhardigital.com.br/2026/07/26/pro/nvidia-e-openai-podem-fechar-acordo-bilionario-por-maior-data-center-do-mundo/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/Destaque-Data-center-de-IA-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-27T00:58:14+00:00"
+    },
+    {
+      "id": "27666e7fb9fc4358",
+      "title": "As ondas cerebrais são o próximo desbloqueio para a IA física?",
+      "summary": "Esqueça os vídeos do YouTube: os modelos físicos de IA de ponta precisam de vários ângulos de câmera, anotações densas e, em breve, leituras de ondas cerebrais.",
+      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-27T00:19:14+00:00"
+    },
+    {
+      "id": "024cf27539118296",
+      "title": "Apple adia lançamento de óculos inteligentes por preocupações com privacidade",
+      "summary": "Segundo a Bloomberg, equipes que trabalham nos óculos tratam a privacidade como \"prioridade número 1\" O post Apple adia lançamento de óculos inteligentes por preocupações com…",
+      "link": "https://olhardigital.com.br/2026/07/26/reviews/apple-adia-lancamento-de-oculos-inteligentes-por-preocupacoes-com-privacidade/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/apple-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-26T22:14:27+00:00"
+    },
+    {
+      "id": "bfdeec6d6e6c4a30",
+      "title": "Vale do Silício entra em “guerra” por causa da IA chinesa",
+      "summary": "OpenAI e Anthropic defendem restrições aos modelos chineses; Microsoft, Nvidia, Meta e IBM querem maior flexibilização O post Vale do Silício entra em “guerra” por causa da IA…",
+      "link": "https://olhardigital.com.br/2026/07/26/pro/vale-do-silicio-entra-em-guerra-por-causa-da-ia-chinesa/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/01/Destaque-Satya-Nadella-CEO-da-Microsoft-Forum-Economico-Mundial-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-26T20:42:19+00:00"
+    },
+    {
+      "id": "922a0f977e61a75f",
+      "title": "Entendendo o pânico em relação à IA chinesa",
+      "summary": "No último episódio de Equity, discutimos por que Kimi, da Moonshot AI, parecia entrar em pânico no Vale do Silício e em Wall Street.",
+      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-26T19:40:57+00:00"
+    },
+    {
+      "id": "410905914e7af2aa",
+      "title": "Hora de renovar sua impressora: veja uma seleção com ótimas opções em promoção na Amazon",
+      "summary": "Se você está pensando em comprar uma impressora nova — seja para o home office, para a faculdade ou para uso doméstico — este é um bom momento para ficar de olho nas ofertas…",
+      "link": "https://olhardigital.com.br/2026/07/26/reviews/hora-de-renovar-sua-impressora-veja-uma-selecao-com-otimas-opcoes-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-26T18:40:00+00:00"
+    },
     {
       "id": "182df831367fd3ad",
       "title": "Black Forest Labs lança FLUX 3: um modelo de fluxo multimodal para previsão de imagem, vídeo, áudio e ação de robôs",
@@ -925,72 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-24T09:48:32+00:00"
-    },
-    {
-      "id": "5b64de9bbfdc1c01",
-      "title": "IAs chinesas superam rivais humanos em olimpíada de matemática",
-      "summary": "Modelos criados pela Huawei e pela Xiaohongshu acertaram 100% das questões. IAs chinesas superam rivais humanos em olimpíada de matemática",
-      "link": "https://tecnoblog.net/noticias/ias-chinesas-superam-rivais-humanos-em-olimpiada-de-matematica/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2018/10/capa-tbr-ia-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-24T09:07:22+00:00"
-    },
-    {
-      "id": "9ed6231741f279cc",
-      "title": "Como construir um pipeline de OCR ponta a ponta com o OCR ilimitado do Baidu para imagens de alta resolução e análise de PDF de várias páginas",
-      "summary": "Neste tutorial, construímos um fluxo de trabalho completo para executar o modelo Unlimited-OCR do Baidu em imagens de documentos e PDFs de várias páginas. Desde a configuração do ambiente GPU até a comparação…",
-      "link": "https://www.marktechpost.com/2026/07/23/how-to-build-an-end-to-end-ocr-pipeline-with-baidus-unlimited-ocr-for-high-resolution-images-and-multi-page-pdf-parsing/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-24T05:16:28+00:00"
-    },
-    {
-      "id": "ae1989716bfce81b",
-      "title": "Seu Direito Digital: IA realizou ataque hacker; quem é o culpado?",
-      "summary": "Quinta-feira é dia da coluna Seu Direito Digital no Olhar Digital News. O consultor de privacidade e segurança Leandro Alvarenga repercute os principais assuntos jurídicos no…",
-      "link": "https://olhardigital.com.br/2026/07/23/colunistas/seu-direito-digital-ia-realizou-ataque-hacker-quem-e-o-culpado/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-24T01:01:19+00:00"
-    },
-    {
-      "id": "ed1f2994131ea003",
-      "title": "Como as proteções de IA estão impedindo o trabalho de pesquisadores ofensivos de segurança cibernética",
-      "summary": "Conversamos com vários pesquisadores de segurança cibernética, que procuram vulnerabilidades desconhecidas e desenvolvem ferramentas para explorá-las, sobre como as proteções da OpenAI e da Anthropic afetam seus…",
-      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-24T01:00:00+00:00"
-    },
-    {
-      "id": "7105b0bf0c91194f",
-      "title": "Alexa+ recebe atualização de IA para executar comandos mais complexos",
-      "summary": "A Amazon lançou uma atualização para o assistente Alexa Plus que amplia a capacidade do serviço de se conectar a dispositivos domésticos inteligentes. A no O post Alexa+ recebe…",
-      "link": "https://olhardigital.com.br/2026/07/23/inteligencia-artificial/alexa-recebe-atualizacao-de-ia-para-executar-comandos-mais-complexos/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/amazon_2-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T23:57:25+00:00"
-    },
-    {
-      "id": "e2d04cbc8bd48ccf",
-      "title": "AMD e Anthropic anunciam megaprojeto de IA em escala de gigawatt",
-      "summary": "A AMD e a Anthropic anunciaram uma parceria estratégica para a implantação de a té 2 gigawatts de GPUs AMD Instinct MI450 Series em racks AMD Helios . O projeto tem como objetivo…",
-      "link": "https://canaltech.com.br/hardware/amd-e-anthropic-anunciam-megaprojeto-de-ia-em-escala-de-gigawatt/",
-      "image": "https://tl.ctcdn.com.br/fv58Rv7wM6B4RTkdoIzJJFPN1SE=/0x0/filters:format(webp):quality(85)/8a90bdf7-5dfe-40c5-b596-e52697f3dcef.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-23T21:16:00+00:00"
     }
   ]
 }
