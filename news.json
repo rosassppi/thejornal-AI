@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-28T02:25:43.256907+00:00",
+  "generated_at": "2026-07-28T08:31:26.934875+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "61dd64b989cabba2",
+      "title": "Implantando um modelo Bonsai-27B de 1 bit com PrismML llama.cpp e fluxos de trabalho de inferência local compatíveis com OpenAI",
+      "summary": "Neste tutorial, implantamos o modelo de linguagem Bonsai-27B de 1 bit usando o fork PrismML de llama.cpp, que fornece os kernels CUDA especializados necessários para decodificar o modelo…",
+      "link": "https://www.marktechpost.com/2026/07/28/deploying-a-1-bit-bonsai-27b-model-with-prismml-llama-cpp-and-openai-compatible-local-inference-workflows/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-28T07:53:48+00:00"
+    },
     {
       "id": "35300b077843286c",
       "title": "Confira o Olhar Digital News na íntegra (27/07/2026)",
@@ -980,17 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-25T10:43:36+00:00"
-    },
-    {
-      "id": "ffb81ece59db84a5",
-      "title": "O que é Necromancia Digital e por que prática divide tanto opiniões",
-      "summary": "Necromancia digital é o termo usado para descrever a recriação da aparência ou da voz de pessoas mortas usando inteligência artificial. A prática ganha espaço com o fácil acesso…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-e-necromancia-digital-e-porque-pratica-divide-tanto-opinioes/",
-      "image": "https://tl.ctcdn.com.br/DVvwrNcbugHOISpVlQnalnfwA5c=/0x0/filters:format(webp):quality(85)/abaf0e55-ed44-4716-b1e6-4a48abe08241.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-25T10:32:00+00:00"
     }
   ]
 }
