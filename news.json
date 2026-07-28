@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-07-27T19:25:22.159252+00:00",
+  "generated_at": "2026-07-28T02:25:43.256907+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "35300b077843286c",
+      "title": "Confira o Olhar Digital News na íntegra (27/07/2026)",
+      "summary": "Após ataque promovido por agente de IA, Nvidia e outras gigantes da tecnologia criam aliança para blindar sistemas e reforçar a segurança O post Confira o Olhar Digital News na…",
+      "link": "https://olhardigital.com.br/2026/07/27/videos/confira-o-olhar-digital-news-na-integra-27-07-2026/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T00:29:30+00:00"
+    },
+    {
+      "id": "c25a72080997bc85",
+      "title": "Dario Amodei, da Anthropic, responde: não se opõe aos modelos de peso aberto, mas teme a IA chinesa",
+      "summary": "O fundador e CEO da Anthropic, Dario Amodei, deixou claras suas opiniões sobre os modelos de peso aberto e as crescentes capacidades de IA da China.",
+      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-28T00:13:33+00:00"
+    },
+    {
+      "id": "bb6d8a857787223c",
+      "title": "IA torna edição genética mais precisa e reduz erros em até 83%, diz estudo",
+      "summary": "Edição genética é técnica que permite aos cientistas inserir, remover, modificar ou substituir bases do DNA em organismos vivos O post IA torna edição genética mais precisa e…",
+      "link": "https://olhardigital.com.br/2026/07/27/ciencia-e-espaco/ia-torna-edicao-genetica-mais-precisa-e-reduz-erros-em-ate-83-diz-estudo/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/Edicao-de-DNA-humano-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-27T23:41:23+00:00"
+    },
+    {
+      "id": "dc31865149a02b3d",
+      "title": "Microsoft lança ferramentas de IA para reforçar cibersegurança",
+      "summary": "Project Perception, principal novidade, é plataforma que utiliza equipes de agentes de IA para identificar, analisar e corrigir vulnerabilidades em velocidade de máquina O post…",
+      "link": "https://olhardigital.com.br/2026/07/27/seguranca/microsoft-lanca-ferramentas-de-ia-para-reforcar-ciberseguranca/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/times_microsoft_perception.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-27T23:11:07+00:00"
+    },
+    {
+      "id": "c3c5938e1d43f3e0",
+      "title": "Apple supera Nvidia e fecha segunda-feira (27) como empresa mais valiosa do mundo",
+      "summary": "Feito marca inversão de posições entre a fabricante do iPhone e a líder em chips de IA O post Apple supera Nvidia e fecha segunda-feira (27) como empresa mais valiosa do mundo…",
+      "link": "https://olhardigital.com.br/2026/07/27/pro/apple-supera-nvidia-e-fecha-segunda-feira-27-como-empresa-mais-valiosa-do-mundo/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/iStock-2187854869-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-27T22:25:30+00:00"
+    },
+    {
+      "id": "e22923011e3eed03",
+      "title": "Microsoft revela ferramentas de segurança de IA que afirma superar plataformas concorrentes",
+      "summary": "A Microsoft diz que as ferramentas custam menos que as concorrentes e também as superam.",
+      "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-27T21:56:14+00:00"
+    },
+    {
+      "id": "9a5f660e760ee4a4",
+      "title": "Satya Nadella diz que empresas que confiam em uma IA para tudo podem não sobreviver",
+      "summary": "As empresas sem os seus próprios modelos – ou sem uma camada de infraestrutura de IA conhecida como gateways de IA para separar os seus prompts do próprio modelo – estarão em apuros, Nadella…",
+      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-27T21:17:11+00:00"
+    },
+    {
+      "id": "2b57ba73d995da33",
+      "title": "Kimi AI e kvcache-ai Open Sources ‘AgentENV’: um sistema distribuído que potencializa o treinamento de aprendizagem por reforço de agente (RL) para Kimi K3",
+      "summary": "A equipe Kimi da Moonshot AI e o AgentENV (AENV) de código aberto kvcache-ai do MIT, como parte do Kimi K3 Open Day. Ele executa sandboxes de agentes como microVMs Firecracker com milissegundos…",
+      "link": "https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-27T20:48:53+00:00"
+    },
+    {
+      "id": "05dcf9720b169348",
+      "title": "IA vai abrir mais espaço para atendimento humano, diz diretor do Itaú",
+      "summary": "A IA pode preparar conversas, formalizar propostas, registrar atendimentos e ajudar funcionários de bancos a encontrar respostas em tempo real. Com isso, a tecnologia tende a…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/ia-vai-abrir-mais-espaco-para-atendimento-humano-diz-diretor-do-itau/",
+      "image": "https://tl.ctcdn.com.br/o6fu1gI6BuWFAw2VKmeqjShbDSA=/0x0/filters:format(webp):quality(85)/5efcc2a2-59cc-4dba-99f4-bd100c4c1986.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-27T20:34:40+00:00"
+    },
+    {
+      "id": "c8c8a192a8b1b584",
+      "title": "Dia dos Pais: Galaxy Tab S10 FE Plus com 10.090 mAh surge mais barato",
+      "summary": "Galaxy Tab S10 FE Plus de 128 GB com tela LCD e nova S Pen com IA recebe um desconto atrativo com pagamento via Pix no Mercado Livre Dia dos Pais: Galaxy Tab S10 FE Plus com…",
+      "link": "https://tecnoblog.net/achados/dia-dos-pais-galaxy-tab-s10-fe-plus-com-10-090-mah-surge-mais-barato/",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/07/galaxy-tab-s10-fe-plus-foto-giovanni-santa-rosatecnoblog-1060x596.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-27T20:26:32+00:00"
+    },
+    {
+      "id": "bb239ee05f73e5d0",
+      "title": "PSA: seus bate-papos e artefatos compartilhados por Claude podem ter ido parar no Google",
+      "summary": "O problema parece ter origem no recurso “compartilhar bate-papo” de Claude, que permite aos usuários criar links que permitem que qualquer pessoa com o URL atribuído visualize uma conversa ou projeto.",
+      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-27T20:19:42+00:00"
+    },
+    {
+      "id": "e1d8b23818d2de0d",
+      "title": "“Google e Reddit não são donos da Internet”, diz web scraper após vitória no tribunal",
+      "summary": "O uso do DMCA pelo Google e pelo Reddit para combater o web scraper é bizarro, diz o especialista.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310791-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-27T20:12:42+00:00"
+    },
+    {
+      "id": "333121431d9bff92",
+      "title": "Por que gigantes da tecnologia estão trocando IAs dos EUA por modelos da China",
+      "summary": "Um ano após a “onda DeepSeek”, a China novamente se destaca no mercado global de inteligência artificial (IA), mas com nomes diferentes. Soluções criadas no país asiático ganham…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/por-que-gigantes-da-tecnologia-estao-trocando-ias-dos-eua-por-modelos-da-china/",
+      "image": "https://tl.ctcdn.com.br/nZ7AYQkCmOe2BeUYLnSfhzsZVu4=/0x0/filters:format(webp):quality(85)/d8fe2cf1-7fb3-4e60-959f-b8fbd2008a2c.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-27T20:06:00+00:00"
+    },
+    {
+      "id": "bd9bd4c5b962b398",
+      "title": "Moonshot AI lança pesos abertos e infraestrutura do Kimi K3 depois de agitar a corrida de modelos de fronteira",
+      "summary": "Moonshot AI lançou os pesos do modelo Kimi K3 e tornou partes de sua infraestrutura de código aberto. O modelo chinês quase se equipara aos modelos da fronteira ocidental, como Fable 5 e…",
+      "link": "https://the-decoder.com/moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/moonshot_ai_logos.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-27T19:35:08+00:00"
+    },
     {
       "id": "bea4e92a98e106c4",
       "title": "OpenAI diz que mais trabalhadores estão usando ChatGPT para fazer o trabalho de outras pessoas",
@@ -837,160 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-25T10:32:00+00:00"
-    },
-    {
-      "id": "e5b07115a5eb2677",
-      "title": "Anthropic afirma que seu novo Claude Opus 5 oferece desempenho próximo ao Fable 5 pela metade do preço simbólico",
-      "summary": "O novo modelo carro-chefe da Anthropic, Claude Opus 5, obtém as melhores pontuações em codificação e trabalho de conhecimento pela metade das taxas de token do Fable 5. No ARC-AGI-3, uma referência para a resolução de novos problemas…",
-      "link": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_opus_5_logo-scaled.webp",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-25T10:04:42+00:00"
-    },
-    {
-      "id": "4370a1327ae3f3e5",
-      "title": "Claude Opus 5 da Anthropic custa bem abaixo do Fable 5, ao mesmo tempo que o iguala ou supera na maioria dos benchmarks",
-      "summary": "Claude Opus 5 da Anthropic lidera o Índice de Inteligência de Análise Artificial com 61 pontos, superando Claude Fable 5 e GPT-5.6 Sol. O modelo tem pontuação mais alta em análise…",
-      "link": "https://the-decoder.com/anthropics-claude-opus-5-costs-well-below-fable-5-while-matching-or-beating-it-across-most-benchmarks/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_5_series.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-25T09:31:00+00:00"
-    },
-    {
-      "id": "3657c86a8bf73d41",
-      "title": "Por que o agente OpenAI entrou na cara do abraço: hacking de recompensa, não malícia, explicado para engenheiros",
-      "summary": "A OpenAI divulgou que seus próprios modelos violaram a infraestrutura de produção do Hugging Face ao mesmo tempo em que adotavam um benchmark de segurança pública. Os modelos não estavam atacando um alvo – eles estavam…",
-      "link": "https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-25-at-1.49.49-AM-1-150x150.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-25T09:03:27+00:00"
-    },
-    {
-      "id": "f123e87e197cca73",
-      "title": "Construindo agentes de IA autoevolutivos com OpenSpace usando habilidades, MCP, linhagem e reutilização de baixo custo",
-      "summary": "Descubra como criar agentes de IA autoevolutivos usando a estrutura OpenSpace. Este tutorial orienta você por todo o fluxo de trabalho, desde a configuração do ambiente e a criação de habilidades personalizadas…",
-      "link": "https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-25T07:54:21+00:00"
-    },
-    {
-      "id": "78243a76c23ad7d1",
-      "title": "Datalab Marker v2 vs MinerU, Docling e Liteparse: análise de benchmark",
-      "summary": "O Datalab reescreveu o Marker como um pipeline de três modos. A versão 2 atinge 76,0 no olmOCR-bench e sustenta 2,9 páginas por segundo em um B200 - mais de 5× backend de pipeline do MinerU, enquanto…",
-      "link": "https://www.marktechpost.com/2026/07/24/datalab-marker-v2-vs-mineru-docling-and-liteparse-benchmark-breakdown/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/image-4-150x150.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-25T04:42:47+00:00"
-    },
-    {
-      "id": "486f5f013e2419a6",
-      "title": "Marker 2 do Datalab vs MinerU, Docling e LiteParse: 76,0 no olmOCR-bench com 5× rendimento do MinerU",
-      "summary": "O Datalab reescreveu o Marker como um pipeline de três modos. A versão 2 atinge 76,0 no olmOCR-bench e sustenta 2,9 páginas por segundo em um B200 - mais de 5× backend de pipeline do MinerU, enquanto…",
-      "link": "https://www.marktechpost.com/2026/07/24/datalabs-marker-2-vs-mineru-docling-and-liteparse-76-0-on-olmocr-bench-at-5x-minerus-throughput/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/image-4-150x150.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-25T02:14:53+00:00"
-    },
-    {
-      "id": "316ffe6b7e92fbe6",
-      "title": "OpenAI percebeu que o ChatGPT invadiu sistema do Hugging Face dias depois",
-      "summary": "Um agente autônomo de inteligência artificial desenvolvido pela OpenAI escapou do ambiente de testes da empresa, invadiu sistemas do Hugging Face e só foi O post OpenAI percebeu…",
-      "link": "https://olhardigital.com.br/2026/07/24/seguranca/openai-percebeu-que-o-chatgpt-invadiu-sistema-do-hugging-face-dias-depois/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/hugging_face-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-25T00:28:14+00:00"
-    },
-    {
-      "id": "535a182fb10536ae",
-      "title": "Experimentei o novo teclado de IA da OpenAI – que será divertido para alguns programadores e um pouco confuso para todos os outros",
-      "summary": "O novo e sofisticado teclado de IA da OpenAI será muito divertido para alguns, enquanto muitos outros provavelmente não irão tocá-lo.",
-      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-25T00:23:11+00:00"
-    },
-    {
-      "id": "14b52eadb416df44",
-      "title": "Imprima mais, gaste menos: selecionamos as melhores impressoras em promoção na Amazon",
-      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é o momento certo para agir. Reunimos três opções multifuncionais em oferta na Amazon — modelos com…",
-      "link": "https://olhardigital.com.br/2026/07/24/reviews/imprima-mais-gaste-menos-selecionamos-as-melhores-impressoras-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-25T00:07:38+00:00"
-    },
-    {
-      "id": "9174730f3f9241a9",
-      "title": "Prentis, novo laboratório de IA cofundado por Reid Hoffman e Mark Pincus em negociações para arrecadar US$ 100 milhões",
-      "summary": "O neolab aposta que a automação de tarefas rotineiras de computador em breve ultrapassará a codificação como o maior caso de uso da IA.",
-      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-24T22:25:58+00:00"
-    },
-    {
-      "id": "05dc607834f2b6ef",
-      "title": "O novo Smart Money Stage do TechCrunch Disrupt 2026 explora fintech, pagamentos, IA e tudo mais",
-      "summary": "O dinheiro evoluiu para muito mais do que o dinheiro na sua carteira ou na sua conta bancária. E no TechCrunch Disrupt 2026, dedicaremos uma etapa inteira a essa progressão.",
-      "link": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-24T22:10:00+00:00"
-    },
-    {
-      "id": "f6e3e24c37349f50",
-      "title": "Conheça o novo Claude Opus 5: codificação agente de classe de fronteira e uso de computador com preço Opus inalterado",
-      "summary": "Hoje, a Anthropic lançou o Claude Opus 5. Ele substitui o Claude Opus 4.8 como carro-chefe da camada Opus. O preço permanece inalterado em US$ 5 por milhão de tokens de entrada e US$ 25 por milhão de saída…",
-      "link": "https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-24T21:50:46+00:00"
-    },
-    {
-      "id": "0ca81fc91f6c0b2a",
-      "title": "Qualcomm pode aumentar preços de chips para celulares e PCs, diz site",
-      "summary": "Em carta obtida por reportagem, marca de processadores diz não ter mais como absorver alta dos custos. Data centers para IA têm causado escassez de componentes. Qualcomm pode…",
-      "link": "https://tecnoblog.net/noticias/qualcomm-pode-aumentar-precos-de-chips-para-celulares-e-pcs-diz-site/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/09/snapdragon-8-elite-gen-5-1-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-24T21:40:53+00:00"
-    },
-    {
-      "id": "b5746bc6b14ea642",
-      "title": "O legislador canadense lê a aparente resposta do LLM em discurso no plenário",
-      "summary": "\"Aqui está uma versão mais natural e fluida dessa seção...\"",
-      "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-500x500-1784927028.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-24T21:25:15+00:00"
     }
   ]
 }
