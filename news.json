@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-07-28T14:03:08.321339+00:00",
+  "generated_at": "2026-07-28T19:20:23.486363+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "4ef11a8b7de53f53",
+      "title": "Anthropic diz que seu modelo Mythos encontrou vulnerabilidades em algoritmos criptográficos que protegem a Internet",
+      "summary": "O Claude Mythos Preview da Anthropic encontrou pontos fracos nos principais algoritmos criptográficos, incluindo um ataque melhor ao HAWK, um esquema de assinatura pós-quântica que especialistas humanos tinham…",
+      "link": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_cybersecurity.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-28T19:12:27+00:00"
+    },
+    {
+      "id": "109f96899711899a",
+      "title": "App do Gemini ganha novo visual e simplifica opções de raciocínio",
+      "summary": "O Google começou a liberar uma série de mudanças no aplicativo do Gemini para Android e na versão web. As novidades incluem uma interface mais organizada , ajustes no controle de…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/app-do-gemini-ganha-novo-visual-e-simplifica-opcoes-de-raciocinio/",
+      "image": "https://tl.ctcdn.com.br/2EyuqhmZaLK-QAejIMGN0_3cdSw=/0x0/filters:format(webp):quality(85)/895b88d2-a897-4e5e-9b32-b24dbcb48fb2.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T19:10:00+00:00"
+    },
+    {
+      "id": "510623453e84a784",
+      "title": "TIM lucra R$ 1 bi no 2º trimestre e aposta em IA e parcerias para atrair clientes",
+      "summary": "A TIM Brasil divulgou seus resultados financeiros referentes ao segundo trimestre de 2026. A empresa registrou um lucro líquido de R$ 1,036 bilhão no período e vai apostar na…",
+      "link": "https://canaltech.com.br/telecom/tim-lucra-r-1-bi-no-2-trimestre-e-aposta-em-ia-e-parcerias-para-atrair-clientes/",
+      "image": "https://tl.ctcdn.com.br/O6ce9fDi6i5PsiFG57oHGB7BxMQ=/0x0/filters:format(webp):quality(85)/62ea3580-35b6-44f0-8eb1-dc36114aa3e9.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T19:02:52+00:00"
+    },
+    {
+      "id": "40e10a4361ff615c",
+      "title": "A União Europeia quer que você saiba quando um conteúdo foi criado por IA",
+      "summary": "Novas regras de transparência entram em vigor inicialmente para empresas que desenvolvem ou oferecem ferramentas de IA O post A União Europeia quer que você saiba quando um…",
+      "link": "https://olhardigital.com.br/2026/07/28/pro/a-uniao-europeia-quer-que-voce-saiba-quando-um-conteudo-foi-criado-por-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/11/Destaque-Uniao-Europeia-AI-Act-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T18:51:49+00:00"
+    },
+    {
+      "id": "2169252e9212bd5c",
+      "title": "Crise causada pela IA vai deixar câmeras mais caras, diz Canon",
+      "summary": "A Canon alertou que a atual crise global de memória , impulsionada pela crescente demanda da inteligência artificial, pode acabar chegando ao bolso dos consumidores. Apesar de…",
+      "link": "https://canaltech.com.br/produtos/crise-causada-pela-ia-vai-deixar-cameras-mais-caras-diz-canon/",
+      "image": "https://tl.ctcdn.com.br/OuO4FPsoqnSdH-_P-GBVzT-8TGk=/0x0/filters:format(webp):quality(85)/c3b43042-b9de-4b65-883a-38ec47ce82dc.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T18:46:16+00:00"
+    },
+    {
+      "id": "813fc311e9203a94",
+      "title": "Hora de imprimir com economia: veja uma seleção de impressoras em promoção na Amazon",
+      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções de impressoras multifuncionais em oferta na…",
+      "link": "https://olhardigital.com.br/2026/07/28/reviews/hora-de-imprimir-com-economia-veja-uma-selecao-de-impressoras-em-promocao-na-amazon-2/",
+      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T18:40:00+00:00"
+    },
+    {
+      "id": "1bb6a4223311f2be",
+      "title": "Essas joias escondidas da App Store provam que ainda há espaço para ótimos softwares na era da IA",
+      "summary": "Apesar das previsões de que os agentes de IA poderiam tornar obsoletos os aplicativos tradicionais, os desenvolvedores estão lançando novos softwares mais rápido do que nunca. Desde ferramentas de bookmarking mais inteligentes e vizinhança…",
+      "link": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-28T18:16:39+00:00"
+    },
+    {
+      "id": "64fe5dfd375e9577",
+      "title": "Com escalada da IA, buscas no Google viram destino final dos usuários",
+      "summary": "Um estudo da empresa Similarweb mensurou o impacto dos resumos de IA nas pesquisas do Google : 43% de todas as buscas nos Estados Unidos com a ferramenta nos Estados Unidos já…",
+      "link": "https://canaltech.com.br/internet-e-redes-sociais/com-escalada-da-ia-buscas-no-google-viram-destino-final-dos-usuarios/",
+      "image": "https://tl.ctcdn.com.br/jZHvWAEGrw4qOmRlrR4J6hT61zo=/0x0/filters:format(webp):quality(85)/fbca819e-7baf-483a-ab99-a62e2b0ac637.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T18:05:00+00:00"
+    },
+    {
+      "id": "2731b38574afb329",
+      "title": "Caso do Claude alerta: sua conversa com IA pode estar no Google",
+      "summary": "Botão de compartilhamento expõe conversas de usuários com chatbots em buscadores; entenda a estratégia por trás da falha e como se proteger O post Caso do Claude alerta: sua…",
+      "link": "https://olhardigital.com.br/2026/07/28/seguranca/caso-do-claude-alerta-sua-conversa-com-ia-pode-estar-no-google/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/openai-claude-gemini-e1785259355564-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T17:26:29+00:00"
+    },
+    {
+      "id": "40b6e674a716efac",
+      "title": "Não dá mais para pedir ao ChatGPT para \"escrever como Stephen King\"",
+      "summary": "O ChatGPT, da OpenAI, começou a recusar pedidos para escrever exatamente no estilo de autores famosos , como Stephen King, J.K. Rowling e Ernest Hemingway. Em vez de reproduzir a…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/nao-da-mais-para-pedir-ao-chat-gpt-para-escrever-como-stephen-king/",
+      "image": "https://tl.ctcdn.com.br/M97dFogcb8WuR352m8LixgtgapI=/0x0/filters:format(webp):quality(85)/483c949e-c9ea-41be-b2a9-e0fcfe03b894.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T17:03:00+00:00"
+    },
+    {
+      "id": "824b5ba22f1e74f5",
+      "title": "Computação científica na era da IA ​​agente",
+      "summary": "Um novo relatório de campo mostra como os cientistas usam agentes de codificação de IA para modernizar a computação científica, acelerando o desenvolvimento de software e a descoberta em genômica e muito mais.",
+      "link": "https://openai.com/index/scientific-computing-agentic-ai",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-28T17:00:00+00:00"
+    },
+    {
+      "id": "91a2d1bf0dad4fc0",
+      "title": "ChatGPT passa a dizer que não pode imitar autores famosos",
+      "summary": "IA avisa que não pode reproduzir de maneira próxima a linguagem de um escritor, mas escreve textos com traços característicos das obras. ChatGPT passa a dizer que não pode imitar…",
+      "link": "https://tecnoblog.net/noticias/chatgpt-passa-a-dizer-que-nao-pode-imitar-autores-famosos/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/maquina-de-escrever-camille-orgel-skctkynrvhy-unsplash-1-edited-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T16:28:16+00:00"
+    },
+    {
+      "id": "9c980868c23ca002",
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "summary": "",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-28T16:27:42+00:00"
+    },
+    {
+      "id": "b88f378c2a5bcf4d",
+      "title": "A Amazon supostamente reduz seus modelos Nova AI e aposta em uma nova equipe de pesquisa Frontier",
+      "summary": "A Amazon está reduzindo a maioria de seus modelos internos de Nova AI, incluindo Nova Premier, Omni, Reel e Canvas. Os modelos permanecem online para os clientes existentes em \"manter as luzes acesas\"…",
+      "link": "https://the-decoder.com/amazon-reportedly-scales-back-its-nova-ai-models-and-bets-on-a-new-frontier-research-team/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/amazon_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-28T16:03:39+00:00"
+    },
+    {
+      "id": "55560096859ebe20",
+      "title": "Agentes gerenciados pela API Gemini: 3.6 Flash, ganchos e muito mais",
+      "summary": "Agentes gerenciados Gemini 3.6 Flash, ganchos e gatilhos",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-28T16:00:00+00:00"
+    },
+    {
+      "id": "28ee80d4bd86b82e",
+      "title": "PayPal deixa a porta aberta para uma oferta de aquisição maior após a queda dos lucros",
+      "summary": "Depois de reportar resultados melhores do que o esperado no segundo trimestre, o PayPal disse que continua focado em sua recuperação impulsionada pela IA, mas consideraria um acordo que criasse mais valor para os acionistas.",
+      "link": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-28T15:10:10+00:00"
+    },
+    {
+      "id": "efff03e67f2bce6b",
+      "title": "Com prompt invisível, professor desmascara 32 alunos usando IA em prova",
+      "summary": "Um professor de história da Alcorn State University, nos Estados Unidos, encontrou uma forma incomum de identificar alunos que usaram inteligência artificial sem revisar o…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/com-prompt-invisivel-professor-desmascara-32-alunos-usando-ia-em-prova/",
+      "image": "https://tl.ctcdn.com.br/_7N6xTfyZabKg6vYBrnT1mLfvXo=/0x0/filters:format(webp):quality(85)/2747ff52-927b-40a8-8279-f7a062bbbd3e.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T15:02:00+00:00"
+    },
+    {
+      "id": "a5bc54280bf29efc",
+      "title": "Codificadores LFM2.5 para inferência rápida de contexto longo na CPU",
+      "summary": "",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-28T15:01:45+00:00"
+    },
     {
       "id": "6efb260e86c12e1a",
       "title": "WhatsApp enfim leva ligações para versão Web e melhora qualidade de áudio",
@@ -23,6 +221,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-07-28T14:00:00+00:00"
+    },
+    {
+      "id": "e458eb461571301b",
+      "title": "Superinteligência recursiva assina acordo de computação de US$ 410 milhões com a Amazon",
+      "summary": "A ênfase da Recursive em sistemas de IA de autoaperfeiçoamento significa que grande parte do orçamento que tradicionalmente seria destinado ao número de funcionários e às operações é colocado diretamente na computação, à medida que a empresa…",
+      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-28T13:19:17+00:00"
     },
     {
       "id": "515207d501cb2ed4",
@@ -166,6 +375,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-28T09:07:14+00:00"
+    },
+    {
+      "id": "10ebf29ade5ae9c4",
+      "title": "Microsoft AI lança MAI-Cyber-1-Flash: um modelo cibernético com parâmetros ativos de 5B que leva o MDASH para 95,95% no CyberGym",
+      "summary": "A Microsoft AI lançou o MAI-Cyber-1-Flash, seu primeiro modelo construído especificamente para defesa cibernética. É um ajuste fino de MoE esparso ativo de 137B no total e 5B de MAI-Code-1-Flash com um…",
+      "link": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-28T08:33:30+00:00"
     },
     {
       "id": "61dd64b989cabba2",
@@ -771,226 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-07-27T00:19:14+00:00"
-    },
-    {
-      "id": "024cf27539118296",
-      "title": "Apple adia lançamento de óculos inteligentes por preocupações com privacidade",
-      "summary": "Segundo a Bloomberg, equipes que trabalham nos óculos tratam a privacidade como \"prioridade número 1\" O post Apple adia lançamento de óculos inteligentes por preocupações com…",
-      "link": "https://olhardigital.com.br/2026/07/26/reviews/apple-adia-lancamento-de-oculos-inteligentes-por-preocupacoes-com-privacidade/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/apple-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-26T22:14:27+00:00"
-    },
-    {
-      "id": "bfdeec6d6e6c4a30",
-      "title": "Vale do Silício entra em “guerra” por causa da IA chinesa",
-      "summary": "OpenAI e Anthropic defendem restrições aos modelos chineses; Microsoft, Nvidia, Meta e IBM querem maior flexibilização O post Vale do Silício entra em “guerra” por causa da IA…",
-      "link": "https://olhardigital.com.br/2026/07/26/pro/vale-do-silicio-entra-em-guerra-por-causa-da-ia-chinesa/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/01/Destaque-Satya-Nadella-CEO-da-Microsoft-Forum-Economico-Mundial-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-26T20:42:19+00:00"
-    },
-    {
-      "id": "922a0f977e61a75f",
-      "title": "Entendendo o pânico em relação à IA chinesa",
-      "summary": "No último episódio de Equity, discutimos por que Kimi, da Moonshot AI, parecia entrar em pânico no Vale do Silício e em Wall Street.",
-      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-26T19:40:57+00:00"
-    },
-    {
-      "id": "410905914e7af2aa",
-      "title": "Hora de renovar sua impressora: veja uma seleção com ótimas opções em promoção na Amazon",
-      "summary": "Se você está pensando em comprar uma impressora nova — seja para o home office, para a faculdade ou para uso doméstico — este é um bom momento para ficar de olho nas ofertas…",
-      "link": "https://olhardigital.com.br/2026/07/26/reviews/hora-de-renovar-sua-impressora-veja-uma-selecao-com-otimas-opcoes-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-26T18:40:00+00:00"
-    },
-    {
-      "id": "182df831367fd3ad",
-      "title": "Black Forest Labs lança FLUX 3: um modelo de fluxo multimodal para previsão de imagem, vídeo, áudio e ação de robôs",
-      "summary": "Black Forest Labs (BFL) lançou o FLUX 3, um modelo básico multimodal que aprende a partir de imagens, vídeos e áudio dentro de uma única arquitetura. É também o primeiro modelo FLUX…",
-      "link": "https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-26T17:50:23+00:00"
-    },
-    {
-      "id": "a6b9eeed1e8cd453",
-      "title": "Echo Dot em diferentes cores: escolha o seu smart speaker com Alexa",
-      "summary": "Se você quer transformar qualquer cômodo da casa em um ambiente inteligente, os smart speakers com Alexa são uma ótima pedida. Reunimos três opções do Echo Dot — cada uma em uma…",
-      "link": "https://olhardigital.com.br/2026/07/26/reviews/echo-dot-em-diferentes-cores-escolha-o-seu-smart-speaker-com-alexa/",
-      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-26T17:00:00+00:00"
-    },
-    {
-      "id": "446a8454722be8bb",
-      "title": "O CEO da Hugging Face pede “transparência radical” após hack “sem precedentes” da OpenAI",
-      "summary": "“O primeiro ataque cibernético com agente autônomo é um evento sem precedentes. Merece uma resposta sem precedentes!”",
-      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-26T16:33:13+00:00"
-    },
-    {
-      "id": "dc528bea1b0c5a72",
-      "title": "TechCrunch Mobility: Uber aposta em seu ex-CEO",
-      "summary": "Bem-vindo de volta ao TechCrunch Mobility, seu centro para o futuro do transporte e agora, mais do que nunca, o papel que a IA desempenha nele.",
-      "link": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-26T16:03:00+00:00"
-    },
-    {
-      "id": "ce1fdcdabce46f63",
-      "title": "O enxame de agentes do Cursor sugere que modelos mais baratos podem lidar com a maior parte da codificação quando os modelos de fronteira planejam o trabalho",
-      "summary": "O Cursor pediu ao seu enxame de agentes atualizado e ao seu antecessor para reconstruir o SQLite em Rust usando apenas a documentação, sem código-fonte ou acesso à Internet. Cada configuração de…",
-      "link": "https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/ai-coding-swarms-generated-image-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-26T15:09:11+00:00"
-    },
-    {
-      "id": "45953bc535614857",
-      "title": "Apenas 3% dos usos do Gemini envolvem automação massiva de tarefas",
-      "summary": "Levantamento feito pelo Google analisa uso de inteligência artificial no trabalho, apontado como muito superficial. Apenas 3% dos usos do Gemini envolvem automação massiva de…",
-      "link": "https://tecnoblog.net/noticias/apenas-3-dos-usos-do-gemini-envolvem-automacao-massiva-de-tarefas/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/capa-freelas-perde-emprego-pra-ia-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-26T15:00:10+00:00"
-    },
-    {
-      "id": "00600a06d128261f",
-      "title": "5 coisas que o ChatGPT faz melhor que o Gemini",
-      "summary": "O Gemini cresceu bastante nos últimos anos e hoje é uma das principais alternativas ao ChatGPT . Se você usa Android, Gmail, Google Drive, Docs e outros serviços da empresa, a IA…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-chatgpt-faz-melhor-que-gemini/",
-      "image": "https://tl.ctcdn.com.br/0aS0lV953b1zEDuab43OYHHoKQk=/0x0/filters:format(webp):quality(85)/c26f73ec-66d4-4b8c-8806-fb7e0a8b4cf6.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-26T11:30:00+00:00"
-    },
-    {
-      "id": "6118864fdd0dcd94",
-      "title": "Equipe KwaiKAT lança KAT-Coder-V2.5: um modelo de codificação Agentic treinado em mais de 100.000 ambientes de repositório verificáveis",
-      "summary": "A equipe KwaiKAT em Kuaishou publicou o relatório técnico KAT-Coder-V2.5, argumentando que a capacidade de codificação de agentes é limitada pela infraestrutura de treinamento e não pelo modelo…",
-      "link": "https://www.marktechpost.com/2026/07/26/kwaikat-team-releases-kat-coder-v2-5-an-agentic-coding-model-trained-on-100000-verifiable-repository-environments/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-26T10:46:19+00:00"
-    },
-    {
-      "id": "ce5538e3ee42288c",
-      "title": "O Opus 5 da Anthropic ultrapassa Fable 5 e GPT-5.6 Sol no benchmark projetado para medir inteligência real",
-      "summary": "Claude Opus 5 da Anthropic obteve 30,2 por cento no ARC-AGI-3, quase quadruplicando o recorde anterior do GPT-5.6 Sol de 7,8 por cento. Os desenvolvedores do benchmark afirmam que o modelo é independente…",
-      "link": "https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/arc_agi_3_opus_5.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-26T09:43:02+00:00"
-    },
-    {
-      "id": "55a8ae5017866efb",
-      "title": "Induction Labs Photon-1 simula desktops, joga damas e modela a física do bilhar em uma corrida de pré-treinamento",
-      "summary": "A maioria dos agentes que aprendem com o vídeo precisa saber qual ação produziu cada quadro. A Induction Labs argumenta que esse requisito é o gargalo. Na semana passada eles lançaram…",
-      "link": "https://www.marktechpost.com/2026/07/26/induction-labs-photon-1-simulates-desktops-plays-checkers-and-models-billiard-physics-from-one-pretraining-run/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-26T09:14:22+00:00"
-    },
-    {
-      "id": "4f78e5e9e365c239",
-      "title": "FAIRChem v2 UMA para simulação atomística multidomínio em moléculas, catalisadores, materiais, vibrações e dinâmica molecular",
-      "summary": "Neste tutorial, exploramos o FAIRChem v2 e o potencial interatômico universal de aprendizado de máquina UMA como uma estrutura unificada para simulação atomística em química molecular…",
-      "link": "https://www.marktechpost.com/2026/07/26/fairchem-v2-uma-for-multidomain-atomistic-simulation-across-molecules-catalysts-materials-vibrations-and-molecular-dynamics/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-26T08:38:09+00:00"
-    },
-    {
-      "id": "449a0cbc9bf77674",
-      "title": "Centenas pediram ao ChatGPT receitas de veneno e armas biológicas e alguns receberam guias passo a passo para o ensino médio",
-      "summary": "No verão de 2025, a OpenAI sinalizou internamente o GPT-5 como de alto risco porque ajudava os usuários a criar riscos biológicos, mas rebaixou a classificação de risco do modelo naquele outono. De acordo com o…",
-      "link": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/chatgpt_bioweapon.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-26T08:35:49+00:00"
-    },
-    {
-      "id": "393ef0bfe960a00c",
-      "title": "Os EUA supostamente favorecem proibições seletivas em vez de restrições gerais aos modelos abertos chineses, citando preocupações de segurança",
-      "summary": "A administração Trump está a planear proibições específicas aos modelos chineses de IA, em vez de uma proibição geral. Após pressão pública, OpenAI e Google DeepMind assinaram uma carta aberta se opondo…",
-      "link": "https://the-decoder.com/us-reportedly-favors-selective-bans-over-blanket-restrictions-on-chinese-open-weight-models-citing-security-concerns/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/us_vs_china_open_models.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-26T07:56:24+00:00"
-    },
-    {
-      "id": "7b9f5d0c2658fc2b",
-      "title": "O paradoxo do tutor de codificação de IA cresce à medida que os educadores se esforçam para repensar como testam habilidades reais",
-      "summary": "Uma pesquisa da ACM com 763 educadores de ciências da computação de 49 países mostra que 68% já mudaram seus exames por causa da IA, mudando para exames orais, supervisionados…",
-      "link": "https://the-decoder.com/the-ai-coding-tutor-paradox-grows-as-educators-scramble-to-rethink-how-they-test-real-skills/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/ACM-Studie.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-26T06:59:56+00:00"
-    },
-    {
-      "id": "e9e3f92c9d89fe03",
-      "title": "Monday.com é a mais recente empresa de tecnologia a culpar a IA por demissões – aqui estão outras 20",
-      "summary": "Uma rápida olhada – em ordem cronológica inversa – nas maiores empresas de tecnologia que anunciaram demissões significativas este ano, tendo a IA como fator declarado.",
-      "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-26T01:30:00+00:00"
-    },
-    {
-      "id": "48ac63b2e556b9e0",
-      "title": "Sakana AI lança Fugu-Cyber: um modelo de orquestração reportando 86,9% no CyberGym e 72,1% no CTI-REALM",
-      "summary": "Sakana AI lançou o Fugu-Cyber, um endpoint ajustado para segurança em seu modelo de orquestração Fugu. Ele reporta 86,9% no CyberGym e 72,1% no CTI-REALM, ultrapassando o GPT-5.5-Cyber ​​e…",
-      "link": "https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-26T00:12:57+00:00"
     }
   ]
 }
