@@ -1,7 +1,172 @@
 {
-  "generated_at": "2026-07-28T08:31:26.934875+00:00",
+  "generated_at": "2026-07-28T14:03:08.321339+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "6efb260e86c12e1a",
+      "title": "WhatsApp enfim leva ligações para versão Web e melhora qualidade de áudio",
+      "summary": "O WhatsApp Web ganhou suporte para chamadas de áudio e vídeo sem a necessidade de baixar um app adicional. A Meta ainda anunciou uma série de melhorias para ligações nesta…",
+      "link": "https://canaltech.com.br/apps/whats-app-enfim-leva-ligacoes-para-versao-web-e-melhora-qualidade-de-audio/",
+      "image": "https://tl.ctcdn.com.br/3EnY0unCtmPxGZvtiduGViyBpWc=/0x0/filters:format(webp):quality(85)/c9ee1d5e-0e98-4d0a-9fe4-218a2b5f0d07.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T14:00:01+00:00"
+    },
+    {
+      "id": "b3e7eb847fa27879",
+      "title": "Fish Audio levanta US$ 50 milhões para construir modelos de voz de IA para criadores e empresas",
+      "summary": "Desde o seu lançamento no ano passado, a startup tem hoje mais de 8 milhões de pessoas usando a versão open-source ou hospedada de seus modelos, e agora gera receita recorrente anual de…",
+      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-28T14:00:00+00:00"
+    },
+    {
+      "id": "515207d501cb2ed4",
+      "title": "Taiwan detém funcionário da Nvidia em ampliação da investigação de contrabando de chips na China",
+      "summary": "Os promotores de Taiwan detiveram um funcionário da Nvidia em conexão com a suposta exportação ilegal de servidores Super Micro AI para a China, de acordo com a Bloomberg e a Reuters. O…",
+      "link": "https://the-decoder.com/taiwan-detains-nvidia-employee-in-widening-china-chip-smuggling-probe/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-28T13:15:43+00:00"
+    },
+    {
+      "id": "b61f0fe750628ab5",
+      "title": "iPhones e IA: saiba como funciona o impedimento semiautomático do Brasileirão",
+      "summary": "O Campeonato Brasileiro passou a contar com o impedimento semiautomático a partir da 20ª rodada . A tecnologia estreou no Brasileirão com a promessa de aumentar a precisão das…",
+      "link": "https://canaltech.com.br/produtos/i-phones-e-ia-saiba-como-funciona-o-impedimento-semiautomatico-do-brasileirao/",
+      "image": "https://tl.ctcdn.com.br/4hFvhMAWuWSda8vx7uVcUxxO-HA=/0x0/filters:format(webp):quality(85)/5c9ef117-1a08-4845-a66f-959101d8957e.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T13:10:04+00:00"
+    },
+    {
+      "id": "5b90cce4ca915a6c",
+      "title": "Nvidia investe no laboratório de IA de Ilya Sutskever, afastando o SSI dos chips do Google",
+      "summary": "A Nvidia está investindo o que chama de uma quantia “substancial” no Safe Superintelligence (SSI), o laboratório de IA dirigido por Ilya Sutskever, ex-cientista-chefe da OpenAI. O artigo Nvidia…",
+      "link": "https://the-decoder.com/nvidia-invests-in-ilya-sutskevers-ai-lab-shifting-ssi-away-from-google-chips/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/ssi-nvidia.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-28T13:06:35+00:00"
+    },
+    {
+      "id": "82f761602bb488f5",
+      "title": "Usa o Claude? Suas conversas íntimas podem estar no Google; veja o que fazer",
+      "summary": "Centenas de conversas compartilhadas no Claude, chatbot de IA da Anthropic, apareceram nos resultados de busca do Google nos últimos dias , expondo desde fanfics e discussões…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/usa-o-claude-suas-conversas-intimas-podem-estar-no-google-veja-o-que-fazer/",
+      "image": "https://tl.ctcdn.com.br/V_m3L7PCGu1dxxWPI7PkOEJWOA8=/0x0/filters:format(webp):quality(85)/4ef463f1-605c-4ee7-be94-35fafeebbf38.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T13:05:00+00:00"
+    },
+    {
+      "id": "dc323d8334b79ae7",
+      "title": "5 maneiras pelas quais o Modo AI na Pesquisa ajuda você a aproveitar o mundo real",
+      "summary": "Ilustração de uma lupa preta em um círculo branco na grama verde cercada por itens relacionados a atividades divertidas como tênis e jogos",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-28T13:00:00+00:00"
+    },
+    {
+      "id": "41e0168f6a5bfe73",
+      "title": "5 maneiras de organizar o melhor jantar com a Pesquisa Google",
+      "summary": "Uma lupa preta ilustrada com um brilho em um círculo branco cercado por uma mesa de jantar",
+      "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-28T13:00:00+00:00"
+    },
+    {
+      "id": "eef73354a1d4cb86",
+      "title": "Sua conversa com uma IA pode aparecer no Google? Entenda o caso",
+      "summary": "Conversas do Claude aparecem no Google após indexação de links compartilhados e levantam alerta sobre privacidade de usuários de IA O post Sua conversa com uma IA pode aparecer no…",
+      "link": "https://olhardigital.com.br/2026/07/28/inteligencia-artificial/sua-conversa-com-uma-ia-pode-aparecer-no-google-entenda-o-caso/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/12/busca_google-e1769510988782-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T12:47:55+00:00"
+    },
+    {
+      "id": "e9c474af2da2d9c4",
+      "title": "O computador pessoal da Perplexity transforma PCs com Windows em agentes de IA",
+      "summary": "A Perplexity expandiu sua ferramenta de computador pessoal agente para Windows, permitindo que computadores que executam o sistema operacional mais popular do mundo sejam usados ​​como um sistema de IA executado localmente. Como o Mac…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-28T12:30:00+00:00"
+    },
+    {
+      "id": "3650b0663b25f9b5",
+      "title": "O CEO da Anthropic, Amodei, dobra a posição de risco de peso aberto, insistindo que nunca pediu uma proibição",
+      "summary": "O CEO da Anthropic, Dario Amodei, está mais uma vez alertando sobre os riscos dos modelos abertos de IA, ao mesmo tempo que insiste que nunca pediu uma proibição. Ele argumenta que estados autoritários como a China…",
+      "link": "https://the-decoder.com/anthropic-ceo-amodei-doubles-down-on-open-weight-risk-stance-while-insisting-he-never-called-for-a-ban/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/05/anthropic_logo_wall-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-28T12:06:42+00:00"
+    },
+    {
+      "id": "21326661e9cc36f6",
+      "title": "Os anéis inteligentes parecem meu tipo de gadget de IA",
+      "summary": "Nos últimos meses, passei muito tempo conversando com meu computador. Uma característica subestimada da revolução LLM foi um salto notável em todos os tipos de ditado…",
+      "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RING.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-28T12:00:00+00:00"
+    },
+    {
+      "id": "df2a2f51a695f9d2",
+      "title": "Meta aposta no Threads para não perder usuários para o ChatGPT",
+      "summary": "A Meta começou a liberar, nesta segunda-feira (27), o Meta AI dentro das mensagens diretas do Threads. A partir de agora, qualquer usuário da rede social pode conversar em…",
+      "link": "https://canaltech.com.br/apps/meta-aposta-no-threads-para-nao-perder-usuarios-para-o-chat-gpt/",
+      "image": "https://tl.ctcdn.com.br/ndeq_Ez5gaDjN_9qAhG8T_tUQz8=/0x0/filters:format(webp):quality(85)/944cf21d-7dac-44bd-afe5-150a6f0f792d.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T10:30:00+00:00"
+    },
+    {
+      "id": "8980e8ef2e88a0cd",
+      "title": "Os trabalhadores de chips da Samsung estão abandonando o navio para rivalizar com a SK Hynix",
+      "summary": "Lee, engenheiro da divisão de semicondutores da Samsung, bate o ponto quando seu turno termina. Ele costumava trabalhar mais horas, esforçando-se para se destacar em seus projetos. Mas ultimamente ele está...",
+      "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-28T09:18:57+00:00"
+    },
+    {
+      "id": "0e94d08da0b70e87",
+      "title": "Hugging Face está sendo usado para despir facilmente mulheres e crianças",
+      "summary": "Hugging Face está sendo usado para fazer deepfakes não consensuais, e o popular repositório de modelos de IA de código aberto está fazendo muito pouco para evitá-lo. Isso está de acordo com um novo relatório…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-28T09:07:14+00:00"
+    },
     {
       "id": "61dd64b989cabba2",
       "title": "Implantando um modelo Bonsai-27B de 1 bit com PrismML llama.cpp e fluxos de trabalho de inferência local compatíveis com OpenAI",
@@ -826,171 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-07-26T00:12:57+00:00"
-    },
-    {
-      "id": "561acc76e3b37624",
-      "title": "Seu próximo seguro pode depender de uma IA",
-      "summary": "Atualmente, sinistros já passam por regulação automatizada com inteligência artificial, reduzindo o tempo de análise O post Seu próximo seguro pode depender de uma IA apareceu…",
-      "link": "https://olhardigital.com.br/2026/07/25/inteligencia-artificial/seu-proximo-seguro-pode-depender-de-uma-ia/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-25T21:02:00+00:00"
-    },
-    {
-      "id": "57681a92b58bfc5a",
-      "title": "5 celulares mais baratos que podem ser melhores que o iPhone 17",
-      "summary": "O iPhone 17 chegou ao mercado trazendo melhorias pontuais em desempenho, câmeras e inteligência artificial , mas manteve algumas limitações que já eram alvo de críticas. Enquanto…",
-      "link": "https://canaltech.com.br/smartphone/5-celulares-mais-baratos-que-podem-ser-melhores-que-o-i-phone-17/",
-      "image": "https://tl.ctcdn.com.br/j2z1kBP9iTWaNimW7cnfHYPsUwg=/0x0/filters:format(webp):quality(85)/1f8bf4f9-be92-4381-a628-d6c414975b33.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-25T21:00:00+00:00"
-    },
-    {
-      "id": "9a1ec372fdf7dae7",
-      "title": "8 melhores novidades do iOS 27 para quem tem iPhone antigo",
-      "summary": "O iOS 27 marca a chegada da nova Siri e mais recursos do Apple Intelligence, mas nem todos os iPhones são compatíveis com o pacote de IA. De qualquer forma, a atualização também…",
-      "link": "https://canaltech.com.br/apps/melhores-novidades-ios-27-para-iphone-antigo/",
-      "image": "https://tl.ctcdn.com.br/89YLzTTur53leBCQMdiCEN5GajY=/0x0/filters:format(webp):quality(85)/94c3ca33-4a27-4521-9aa1-4271b6e25981.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-25T19:33:00+00:00"
-    },
-    {
-      "id": "5ec00b7934d81530",
-      "title": "Conheça o Open Dreamer: uma reprodução JAX/Flax do Dreamer 4 World Model Pipeline, com a receita de treinamento completa publicada",
-      "summary": "Um pequeno grupo de pesquisadores de IA (Reactor) lançou o Open Dreamer, uma implementação aberta do pipeline do modelo mundial Dreamer 4 escrito em JAX e Flax NNX. O que na verdade…",
-      "link": "https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-25T18:59:54+00:00"
-    },
-    {
-      "id": "cb93f05379fc4d63",
-      "title": "Imprima com mais economia: veja uma seleção de impressoras em promoção na Amazon",
-      "summary": "Se a sua impressora está deixando a desejar — ou você simplesmente precisa de uma nova para casa ou o escritório —, este é um bom momento para pesquisar. Reunimos três opções de…",
-      "link": "https://olhardigital.com.br/2026/07/25/reviews/imprima-com-mais-economia-veja-uma-selecao-de-impressoras-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-25T18:40:00+00:00"
-    },
-    {
-      "id": "c4ea52cd258c7b2e",
-      "title": "Convenção de Flávio tem vídeo de Jair Bolsonaro gerado por IA",
-      "summary": "Jair Bolsonaro está preso desde novembro de 2025 por tentativa de golpe de Estado. O político está em prisão domiciliar por motivos de saúde O post Convenção de Flávio tem vídeo…",
-      "link": "https://olhardigital.com.br/2026/07/25/inteligencia-artificial/convencao-de-flavio-tem-video-de-jair-bolsonaro-gerado-por-ia/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-25T18:36:16+00:00"
-    },
-    {
-      "id": "0d40f63b28364aa9",
-      "title": "O novo papel da liderança em tempos de IA",
-      "summary": "É preciso transformar a IA em cointeligência. O líder que terceiriza o juízo à máquina troca autoridade por conveniência O post O novo papel da liderança em tempos de IA apareceu…",
-      "link": "https://olhardigital.com.br/2026/07/25/colunistas/o-novo-papel-da-lideranca-em-tempos-de-ia/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-25T18:30:00+00:00"
-    },
-    {
-      "id": "88ce23444b2dc57d",
-      "title": "Projetando kernels de GPU de alto desempenho com TileLang: Tensor-Core GEMM, Fused Softmax, FlashAttention e Autotuning",
-      "summary": "Explore o TileLang, uma linguagem Python específica de domínio de alto nível que simplifica o design de kernels de GPU de alto desempenho. Este tutorial fornece uma abordagem passo a passo para…",
-      "link": "https://www.marktechpost.com/2026/07/25/designing-high-performance-gpu-kernels-with-tilelang-tensor-core-gemm-fused-softmax-flashattention-and-autotuning/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-25T18:08:12+00:00"
-    },
-    {
-      "id": "9e41de97b1347bf8",
-      "title": "Bibliotecários estão organizando workshops virais ‘Evitando IA’ para pessoas que estão fartas da Big Tech",
-      "summary": "Em bibliotecas de todo o país, os workshops “Evitando a IA” suscitaram uma procura sem precedentes.",
-      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-25T16:00:00+00:00"
-    },
-    {
-      "id": "1f123810bbc8660d",
-      "title": "GPT-5.6 e Claude Fable 5: todas as melhores IAs precisarão de aprovação dos EUA?",
-      "summary": "O GPT-5.6 Sol , da OpenAI, e o Claude Fable 5 , da Anthropic, chegaram ao público depois de uma fiscalização que nenhum modelo de IA havia enfrentado até agora. Os dois foram…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/todas-as-melhores-ias-precisarao-de-aprovacao-dos-eua/",
-      "image": "https://tl.ctcdn.com.br/v1nXvNq1E8zQbSkEl4fZYDaLXho=/0x0/filters:format(webp):quality(85)/09e331f5-4e77-4505-880c-d981d18e3466.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-25T14:38:00+00:00"
-    },
-    {
-      "id": "ccbf34842a367931",
-      "title": "Novos relatórios revelam a extensão da perda de controle da OpenAI durante o hack autônomo no Hugging Face",
-      "summary": "Em um teste de segurança cibernética, os modelos mais avançados da OpenAI violaram os limites de seu ambiente de teste isolado, alcançaram a Internet aberta e invadiram a plataforma de IA Hugging…",
-      "link": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_hugging_face_hack.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-25T13:45:50+00:00"
-    },
-    {
-      "id": "54a8803ad5837385",
-      "title": "Uma linha de energia caída expôs um problema crescente no data center de IA. Veja como consertar isso.",
-      "summary": "Uma situação difícil na Virgínia do Norte revelou como os data centers respondem mal às interrupções da rede. Veja como resolver o problema.",
-      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-25T13:05:00+00:00"
-    },
-    {
-      "id": "73f30416facce20d",
-      "title": "Do edital ao simulado: 20 prompts do ChatGPT para estudar para concursos",
-      "summary": "Quem estuda para concurso sabe que o mais difícil nem sempre é aprender o conteúdo. Também é preciso organizar um edital que pode ter dezenas de páginas, encontrar tempo para…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/prompts-chatgpt-para-estudar-para-concursos-publicos/",
-      "image": "https://tl.ctcdn.com.br/YcTZHHYFhPr5QzRqY7vwryPXa7w=/0x0/filters:format(webp):quality(85)/3ec59fd7-f707-443c-88c5-245a11e1554d.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-25T11:39:00+00:00"
-    },
-    {
-      "id": "b909c7d0f3ddd613",
-      "title": "Hora de renovar a sala: Samsung NEO QLED e QLED em promoção na Amazon",
-      "summary": "Se você está pensando em trocar a TV da sala por um modelo mais moderno, com imagem de alta qualidade e recursos inteligentes, este é o momento certo. Reunimos três opções da…",
-      "link": "https://olhardigital.com.br/2026/07/25/reviews/hora-de-renovar-a-sala-samsung-neo-qled-e-qled-em-promocao-na-amazon-3/",
-      "image": "https://m.media-amazon.com/images/I/41BopBIghwL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-25T11:20:00+00:00"
-    },
-    {
-      "id": "25f9f42c9eb5bc29",
-      "title": "Opus 5 pode ter resolvido a injeção imediata baseada em navegador, a maior falha de segurança que assombra os agentes de IA",
-      "summary": "O Opus 5 combinado com o Modo Automático atinge uma taxa de sucesso de injeção imediata de zero por cento para agentes de navegador em 129 cenários de teste. Sem essas camadas extras de proteção, a taxa é…",
-      "link": "https://the-decoder.com/opus-5-may-have-solved-browser-based-prompt-injection-the-biggest-security-flaw-haunting-ai-agents/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/11/prompt_injections_claude.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-25T10:43:36+00:00"
     }
   ]
 }
