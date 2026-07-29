@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-07-28T19:20:23.486363+00:00",
+  "generated_at": "2026-07-29T02:29:36.321142+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "f11944b0d5498adc",
+      "title": "Fala AI: técnica para treinar modelos de IA está no centro de disputa global",
+      "summary": "O que é destilação de modelos de inteligência artificial? Essa técnica é ilegal? Saiba mais na coluna Fala AI de hoje! O post Fala AI: técnica para treinar modelos de IA está no…",
+      "link": "https://olhardigital.com.br/2026/07/28/colunistas/fala-ai-tecnica-para-treinar-modelos-de-ia-esta-no-centro-de-disputa-global/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-29T00:48:58+00:00"
+    },
+    {
+      "id": "5051ed860834634b",
+      "title": "Cyera concorda em adquirir a Oasis Security por US$ 1 bilhão para proteger a proliferação de agentes de IA",
+      "summary": "O negócio é a terceira aquisição da Cyera neste ano.",
+      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-29T00:09:05+00:00"
+    },
+    {
+      "id": "3b97201cc3170a62",
+      "title": "Trump proíbe robôs humanoides chineses nos EUA",
+      "summary": "Medida tem como objetivo proteger a cadeia de suprimentos da IA estadunidense contra possíveis riscos à segurança nacional e estimular produção doméstica de tecnologias…",
+      "link": "https://olhardigital.com.br/2026/07/28/pro/trump-proibe-robos-humanoides-chineses-nos-eua/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/Robo-humanoide-G1-da-Unitree-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T23:47:56+00:00"
+    },
+    {
+      "id": "738184024ab5060d",
+      "title": "OpenAI: IA invadiu outra empresa antes de realizar ataque inédito",
+      "summary": "Segundo informações da Reuters, IAs da empresa invadiram primeiro a infraestrutura de cliente da Modal Labs antes de conseguirem comprometer ambiente da Hugging Face O post…",
+      "link": "https://olhardigital.com.br/2026/07/28/pro/openai-ia-invadiu-outra-empresa-antes-de-realizar-ataque-inedito/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/modal_labs-1024x512.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T23:13:51+00:00"
+    },
+    {
+      "id": "ad717b62668495b6",
+      "title": "Por que a China está dando de graça suas IAs mais avançadas?",
+      "summary": "A chegada do Kimi K3 , modelo de IA desenvolvido pela startup chinesa Moonshot AI, colocou o Vale do Silício em alerta. Além de prometer desempenho comparável ao de alguns dos…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/por-que-a-china-esta-dando-de-graca-suas-ias-mais-avancadas/",
+      "image": "https://tl.ctcdn.com.br/DGW8mV5txrWEmgIkiJp1fiaPcWA=/0x0/filters:format(webp):quality(85)/96629d23-2f39-47c1-b57b-cce524f55a91.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T22:04:00+00:00"
+    },
+    {
+      "id": "4a4d812ef5a7157d",
+      "title": "Agora entendemos melhor como a OpenAI invadiu o Hugging Face",
+      "summary": "10 dias se passaram desde os modelos OpenAI explorando o JFrog Artifactory 0-day até o lançamento de um patch.",
+      "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-28T21:36:39+00:00"
+    },
+    {
+      "id": "becb1a52c59ce66c",
+      "title": "Placas de vídeo da NVIDIA sobem de preço pela terceira vez no ano e geram crise",
+      "summary": "Com a atual crise no mercado de hardware, o melhor momento para comprar uma peça é agora, já que nunca sabemos como e quando será o novo aumento nos preços. Um novo rumor aponta…",
+      "link": "https://canaltech.com.br/hardware/placas-de-video-da-nvidia-sobem-de-preco-pela-terceira-vez-no-ano-e-geram-crise/",
+      "image": "https://tl.ctcdn.com.br/udfLcVdXCWbQpz3YWuLQVvZwK2k=/0x0/filters:format(webp):quality(85)/e6d99343-0211-4ab9-b7eb-b329a1800e61.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T21:17:00+00:00"
+    },
+    {
+      "id": "e685c78862e78e68",
+      "title": "Repositório de IA é usado para criar nudes de mulheres e crianças",
+      "summary": "O repositório de modelos de IA Hugging Face está sendo usado para criar imagens íntimas sem consentimento , de acordo com relatório publicado pelo instituição AI Forensics. Os…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/repositorio-de-ia-e-usado-para-criar-nudes-de-mulheres-e-criancas/",
+      "image": "https://tl.ctcdn.com.br/F35mnniv8MLM0vuxLP5ejL2U3zQ=/0x0/filters:format(webp):quality(85)/c3828c5b-646e-49df-8383-3a7e7c943a51.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T21:00:00+00:00"
+    },
+    {
+      "id": "bd637cbb228b2717",
+      "title": "Apesar do hype da IA, os dados do Google mostram que os trabalhadores não estão se automatizando",
+      "summary": "A análise de 15 milhões de interações reais de IA revela que a maioria das tarefas, na maioria dos empregos, não é afetada.",
+      "link": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1711353151-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-28T20:20:20+00:00"
+    },
+    {
+      "id": "1b4c177bb486d890",
+      "title": "TIM não quer “repetir com a IA o erro do WhatsApp ilimitado”, diz executivo",
+      "summary": "Savério Demaria afirma que a operadora precisa evitar erros do passado, como o modelo de WhatsApp sem desconto na franquia de dados. TIM não quer “repetir com a IA o erro do…",
+      "link": "https://tecnoblog.net/noticias/tim-nao-quer-repetir-com-a-ia-o-erro-do-whatsapp-ilimitado-diz-executivo/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capa_tim-2026-2-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T20:19:14+00:00"
+    },
+    {
+      "id": "474ee87c2975a3fd",
+      "title": "Claude expôs conversas de usuários na busca do Google",
+      "summary": "Chats compartilhados por link foram indexados pelo buscador e ficaram acessíveis publicamente. Anthropic e Google removeram os resultados. Claude expôs conversas de usuários na…",
+      "link": "https://tecnoblog.net/noticias/claude-expos-conversas-de-usuarios-na-busca-do-google/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/06/O-que-e-claude-ai-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-28T19:57:41+00:00"
+    },
     {
       "id": "4ef11a8b7de53f53",
       "title": "Anthropic diz que seu modelo Mythos encontrou vulnerabilidades em algoritmos criptográficos que protegem a Internet",
@@ -49,7 +170,7 @@
     {
       "id": "2169252e9212bd5c",
       "title": "Crise causada pela IA vai deixar câmeras mais caras, diz Canon",
-      "summary": "A Canon alertou que a atual crise global de memória , impulsionada pela crescente demanda da inteligência artificial, pode acabar chegando ao bolso dos consumidores. Apesar de…",
+      "summary": "A Canon alertou que a atual crise global de memória, causada pela crescente demanda das empresas de inteligência artificial , pode acabar chegando ao bolso dos consumidores…",
       "link": "https://canaltech.com.br/produtos/crise-causada-pela-ia-vai-deixar-cameras-mais-caras-diz-canon/",
       "image": "https://tl.ctcdn.com.br/OuO4FPsoqnSdH-_P-GBVzT-8TGk=/0x0/filters:format(webp):quality(85)/c3b43042-b9de-4b65-883a-38ec47ce82dc.png",
       "source": "Canaltech",
@@ -276,6 +397,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-28T13:05:00+00:00"
+    },
+    {
+      "id": "efe3975328373b9f",
+      "title": "Granola lança um aplicativo Apple Watch",
+      "summary": "O aplicativo de anotações de IA Granola está lançando um aplicativo para o Apple Watch na esperança de que seus usuários queiram gravar reuniões e fazer anotações sem usar seus smartphones.",
+      "link": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-28T13:00:00+00:00"
     },
     {
       "id": "dc323d8334b79ae7",
@@ -859,138 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-27T12:44:39+00:00"
-    },
-    {
-      "id": "f9af4986eb7ad6fc",
-      "title": "METR introduz uma nova métrica para calcular exatamente quando os agentes de IA se tornam mais caros que os humanos",
-      "summary": "A nova métrica do METR, o “horizonte de despesas”, avalia a relação custo-benefício dos agentes de IA na resolução de problemas. Os primeiros resultados do speedrun NanoGPT são…",
-      "link": "https://the-decoder.com/metr-introduces-a-new-metric-to-calculate-exactly-when-ai-agents-become-more-expensive-than-humans/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/METR-Expenditure-Horizon-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-27T12:28:06+00:00"
-    },
-    {
-      "id": "61c016514a9f8cec",
-      "title": "Nvidia e Microsoft lançam aliança aberta de segurança de IA – sem OpenAI, Google ou Anthropic",
-      "summary": "A Nvidia disse na segunda-feira que está unindo forças com Microsoft, SpaceX, IBM e outras empresas de tecnologia para construir e compartilhar ferramentas de segurança de IA de código aberto. A nova Aliança Open Secure AI…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-27T12:06:22+00:00"
-    },
-    {
-      "id": "019f99f4d633a5c0",
-      "title": "O caminho para a superinteligência artificial",
-      "summary": "Imagine um sistema de saúde composto por vários agentes de IA: um que gere a avaliação de sintomas, outro agendamento, um terceiro seguro e uma quarta farmácia. Cada um é especialista em…",
-      "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/CREA-1571-MIT-tech-review-Misc-1200x675-option-2.png",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-27T12:00:00+00:00"
-    },
-    {
-      "id": "0a9b60fb4c575c08",
-      "title": "Fechando o ciclo de dados na descoberta de medicamentos baseada em IA",
-      "summary": "A descoberta de medicamentos é um empreendimento de alto custo e alto risco que está sob pressão crescente de um mercado cada vez mais definido pela vantagem do pioneirismo. Desde a década de 1950, o custo de…",
-      "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2247435323_f6bf40.jpg",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-27T11:40:16+00:00"
-    },
-    {
-      "id": "cc4e3f6d6e64b2d4",
-      "title": "Construindo o ambiente empresarial para IA agente",
-      "summary": "Para as empresas, a promessa da IA ​​agente é muito mais do que apenas um chatbot melhor. São agentes de software que executam tarefas de negócios de ponta a ponta entre pessoas, empresas…",
-      "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Intel-image-contributed-article.png",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-27T11:32:58+00:00"
-    },
-    {
-      "id": "d2e6e38142606e5c",
-      "title": "Artista processa gerador de memes de IA por vender quadrinhos profundamente pessoais como modelo de anúncio",
-      "summary": "O gerador de meme pode ter estragado tudo ao usar modelos nas saídas, diz o especialista.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/comictest-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-27T10:50:37+00:00"
-    },
-    {
-      "id": "9b781f02130917b5",
-      "title": "Apple quer deixar Meta e Samsung para trás e adia óculos inteligentes",
-      "summary": "A Apple adiou novamente o lançamento de seus primeiros óculos inteligentes , mas a decisão pode fazer parte de uma estratégia muito maior. Segundo informações da Bloomberg , a…",
-      "link": "https://canaltech.com.br/produtos/apple-quer-deixar-meta-e-samsung-para-tras-e-adia-oculos-inteligentes/",
-      "image": "https://tl.ctcdn.com.br/oZKMaUcNnD6Oo5uu0lDsQjBJ-VI=/0x0/filters:format(webp):quality(85)/db7575e2-5e41-4224-a9ff-1928edf3ae5e.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-27T09:35:18+00:00"
-    },
-    {
-      "id": "96537f9acc12bc3d",
-      "title": "NVIDIA Cosmos-H-Dreams: trazendo simulação generativa em tempo real para robótica cirúrgica",
-      "summary": "",
-      "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-27T09:32:20+00:00"
-    },
-    {
-      "id": "17cdc1166c57f72c",
-      "title": "Os bate-papos compartilhados de Claude estavam supostamente aparecendo nos mecanismos de pesquisa",
-      "summary": "Conversas compartilhadas com o chatbot Claude da Anthropic apareceram brevemente nos resultados de pesquisa do Google porque as páginas não tinham uma tag noindex. Os usuários disseram que alguns bate-papos continham chaves criptográficas…",
-      "link": "https://the-decoder.com/shared-claude-chats-were-reportedly-showing-up-in-search-engines/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-27T07:51:16+00:00"
-    },
-    {
-      "id": "db9d0913513df69e",
-      "title": "Como a IA está expandindo o que as pessoas fazem no trabalho",
-      "summary": "Uma nova pesquisa da OpenAI mostra como a IA está expandindo o que os trabalhadores fazem, com os usuários do ChatGPT assumindo tarefas entre funções e remodelando os limites do trabalho.",
-      "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-27T03:30:00+00:00"
-    },
-    {
-      "id": "0966e0a1e42fb31c",
-      "title": "Nvidia e OpenAI podem fechar acordo bilionário por maior data center do mundo",
-      "summary": "Iniciativa representa uma das transações financeiras mais ambiciosas da atual corrida pela IA nos EUA O post Nvidia e OpenAI podem fechar acordo bilionário por maior data center…",
-      "link": "https://olhardigital.com.br/2026/07/26/pro/nvidia-e-openai-podem-fechar-acordo-bilionario-por-maior-data-center-do-mundo/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/Destaque-Data-center-de-IA-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-27T00:58:14+00:00"
-    },
-    {
-      "id": "27666e7fb9fc4358",
-      "title": "As ondas cerebrais são o próximo desbloqueio para a IA física?",
-      "summary": "Esqueça os vídeos do YouTube: os modelos físicos de IA de ponta precisam de vários ângulos de câmera, anotações densas e, em breve, leituras de ondas cerebrais.",
-      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-27T00:19:14+00:00"
     }
   ]
 }
