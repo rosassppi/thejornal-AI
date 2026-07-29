@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-29T02:29:36.321142+00:00",
+  "generated_at": "2026-07-29T08:38:36.980175+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "89d6f9be09492855",
+      "title": "Mark Zuckerberg critica rivais e diz que concentração da IA ameaça inovação",
+      "summary": "Em entrevista concedida ao The New York Times, executivo afirmou que concentrar o desenvolvimento de modelos avançados em poucas empresas pode limitar o acesso da sociedade à…",
+      "link": "https://olhardigital.com.br/2026/07/28/pro/mark-zuckerberg-critica-rivais-e-diz-que-concentracao-da-ia-ameaca-inovacao/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/meta-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-29T01:47:09+00:00"
+    },
     {
       "id": "f11944b0d5498adc",
       "title": "Fala AI: técnica para treinar modelos de IA está no centro de disputa global",
@@ -45,6 +56,28 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-28T23:13:51+00:00"
+    },
+    {
+      "id": "324e791dc937dac3",
+      "title": "Construindo fluxos de trabalho de codificação agente não interativos com Kimi CLI da Moonshot AI, streaming JSONL, testes e memória de sessão",
+      "summary": "Neste tutorial, configuramos e operamos o Kimi CLI como um agente de codificação de IA totalmente não interativo. Instalamos a CLI através de uv com um ambiente Python 3.13 isolado, configuramos…",
+      "link": "https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2714.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-28T23:04:44+00:00"
+    },
+    {
+      "id": "3652c54cd13c5868",
+      "title": "Fireworks AI lança Fireworks Nexus: uma camada integrada de roteamento e controle de custos que transfere o trabalho de codificação de rotina para modelos abertos",
+      "summary": "A Fireworks AI lançou o Fireworks Nexus, uma plataforma de gerenciamento e roteamento de IA voltada para organizações de engenharia. Ele conecta as ferramentas de codificação que os desenvolvedores já usam a um…",
+      "link": "https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-28T22:45:56+00:00"
     },
     {
       "id": "ad717b62668495b6",
@@ -122,6 +155,28 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-28T19:57:41+00:00"
+    },
+    {
+      "id": "b738e7d0ebe1bd86",
+      "title": "Líderes de IA assinam uma declaração pedindo ao governo que faça algo em relação à IA automatizada",
+      "summary": "Funcionários da OpenAI e Anthropic, bem como Google, Meta, Thinking Machines, Microsoft, Mistral e outros laboratórios líderes de IA, escreveram uma declaração ao governo dos EUA…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-28T19:46:43+00:00"
+    },
+    {
+      "id": "fb802860b45af6bc",
+      "title": "A IA finalmente é cara o suficiente para deixar Wall Street nervosa",
+      "summary": "É época de lucros e os investidores tiveram uma surpresa desagradável do Google: um aumento na sua estimativa de gastos, para até US$ 205 bilhões – em relação à projeção do último trimestre…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKS501_STOCKS_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-28T19:33:03+00:00"
     },
     {
       "id": "4ef11a8b7de53f53",
@@ -936,61 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-27T15:01:00+00:00"
-    },
-    {
-      "id": "89ec7c0a9c2d77d4",
-      "title": "Nvidia pode bancar US$ 250 bi em 1º data center próprio da OpenAI",
-      "summary": "A Nvidia está em negociações para oferecer cerca de US$ 250 bilhões (cerca de R$ 1,3 trilhão) em garantias financeiras a um projeto de data center da OpenAI, segundo reportagem do…",
-      "link": "https://canaltech.com.br/mercado/nvidia-pode-bancar-us-250-bi-em-1-data-center-proprio-da-open-ai/",
-      "image": "https://tl.ctcdn.com.br/TVXBrCyUzsTnPhraYvythMwQas8=/0x0/filters:format(webp):quality(85)/c7387078-bf33-4b2c-b2f5-50afb98657ef.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-27T14:30:00+00:00"
-    },
-    {
-      "id": "fc49b74da481075a",
-      "title": "Grok, IA de Musk, teria levado homem a acreditar em perseguição",
-      "summary": "Grok, IA de Elon Musk, teria levado homem a acreditar em perseguição e ameaça. Caso reacende debate sobre segurança dos chatbots O post Grok, IA de Musk, teria levado homem a…",
-      "link": "https://olhardigital.com.br/2026/07/27/inteligencia-artificial/grok-ia-de-musk-teria-levado-homem-a-acreditar-em-perseguicao/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/musk_grok-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-27T13:57:11+00:00"
-    },
-    {
-      "id": "ec5b858d88d1d53e",
-      "title": "IA fora de controle faz EUA debaterem \"botão de pânico\" para desativá-la",
-      "summary": "Os parlamentares dos Estados Unidos apresentaram o AI Kill Switch Act , um projeto de lei bipartidário que autoriza o Departamento de Segurança Interna dos EUA a determinar a…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-fora-de-controle-faz-eua-debaterem-botao-de-panico-para-desativa-la/",
-      "image": "https://tl.ctcdn.com.br/28DMqV8TGvohJkaqdqNGus4tvko=/0x0/filters:format(webp):quality(85)/c0894921-89f1-4bcc-a078-5f7449ea56f6.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-27T13:05:00+00:00"
-    },
-    {
-      "id": "99c89aa85adfb6f6",
-      "title": "Nvidia reúne Microsoft e outras gigantes para blindar sistemas de IA",
-      "summary": "Nvidia reúne gigantes da tecnologia em aliança para criar ferramentas de segurança com IA e combater novas ameaças digitais O post Nvidia reúne Microsoft e outras gigantes para…",
-      "link": "https://olhardigital.com.br/2026/07/27/inteligencia-artificial/nvidia-reune-microsoft-e-outras-gigantes-para-blindar-sistemas-de-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/Open-Secure-AI-Alliance-1024x576.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-27T12:51:42+00:00"
-    },
-    {
-      "id": "f6d9c5ca48b5a04f",
-      "title": "Corrida da IA transforma fabricante de memória na empresa mais valiosa da China",
-      "summary": "Após captar US$ 8,6 bilhões em IPO, CXMT amplia planos de expansão e ganha força na disputa global por chips de memória O post Corrida da IA transforma fabricante de memória na…",
-      "link": "https://olhardigital.com.br/2026/07/27/pro/corrida-da-ia-transforma-fabricante-de-memoria-na-empresa-mais-valiosa-da-china/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/12/Memria-DRAM-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-27T12:44:39+00:00"
     }
   ]
 }
