@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-07-29T08:38:36.980175+00:00",
+  "generated_at": "2026-07-29T14:06:42.556530+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "fbb627211dd633ab",
+      "title": "Chega de digitar: IA lê e altera documentos do Google Docs para você",
+      "summary": "O Google anunciou uma nova integração do Gemini ao Google Docs que permite à inteligência artificial ler comentários, resumir discussões, sugerir respostas e propor alterações no…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chega-de-digitar-ia-le-e-altera-documentos-do-google-docs-para-voce/",
+      "image": "https://tl.ctcdn.com.br/udpro83KRPTsgXZwGwddIBSJVUU=/0x0/filters:format(webp):quality(85)/d412f7e1-04fe-41e4-a156-616c4fb38987.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-29T14:02:00+00:00"
+    },
+    {
+      "id": "0a31c0ca584b0c53",
+      "title": "Deepmind desmonta sua equipe AlphaFold enquanto autores importantes partem para a Anthropic",
+      "summary": "A maioria dos pesquisadores por trás do AlphaFold está agora trabalhando em outros projetos, e quase um quarto deixou o Google Deepmind. A reestruturação marca uma mudança brusca…",
+      "link": "https://the-decoder.com/deepmind-dismantles-its-alphafold-team-as-key-authors-leave-for-anthropic/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/AlphaFold-CASP-Title.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-29T13:47:11+00:00"
+    },
+    {
+      "id": "5fbc333c9360f8a0",
+      "title": "Amazon faz queima de Galaxy A57 da Samsung com 128 GB de espaço; veja como aproveitar",
+      "summary": "Quem procura um celular intermediário com recursos de inteligência artificial e longa vida útil pode aproveitar uma promoção na Amazon. O Samsung Galaxy A57 5G , com 128 GB de…",
+      "link": "https://canaltech.com.br/smartphone/amazon-faz-queima-de-galaxy-a57-da-samsung-com-128-gb-de-espaco-veja-como-aproveitar/",
+      "image": "https://tl.ctcdn.com.br/kSfxafW7GyWgd4SoLu1z5AzkYQ4=/0x0/filters:format(webp):quality(85)/77bb8fc2-e14c-41d1-98a4-dd52d1a3fa03.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-29T13:44:06+00:00"
+    },
+    {
+      "id": "f0df0f0c4cb53b4c",
+      "title": "O que acontece quando você coloca a IA para trabalhar na decifração de idiomas perdidos?",
+      "summary": "A IA é fantástica na detecção de padrões, mas a visão humana é a chave.",
+      "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/etruscan-500x500-1785331397.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-29T13:23:31+00:00"
+    },
+    {
+      "id": "a94a44f757ee114a",
+      "title": "IA Explicável: por que entender as decisões dos algoritmos é uma vantagem competitiva?",
+      "summary": "*Por Claudio Lucio Durante os últimos anos, as empresas investiram bilhões em Inteligência Artificial para prever demandas, otimizar operações, reduzir custos e apoiar decisões…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/ia-explicavel-por-que-entender-as-decisoes-dos-algoritmos-e-uma-vantagem-competitiva/",
+      "image": "https://tl.ctcdn.com.br/4GOQ9yaO9gslKyweN-k5Lf-ezhM=/0x0/filters:format(webp):quality(85)/07890ad0-b60b-46be-90e5-9cf4594569a6.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-29T12:49:37+00:00"
+    },
+    {
+      "id": "48d634efd37c693f",
+      "title": "GPT Transcribe melhora seu antecessor, mas não consegue alcançar ElevenLabs, Google ou Mistral nas taxas de erro",
+      "summary": "A OpenAI lançou o GPT Transcribe e o GPT Live Transcribe, dois novos modelos de reconhecimento de fala disponíveis por meio de sua API. O artigo GPT Transcribe melhora seu antecessor, mas…",
+      "link": "https://the-decoder.com/gpt-transcribe-improves-on-its-predecessor-but-cant-catch-elevenlabs-google-or-mistral-on-error-rates/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/05/openai_audio-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-29T12:45:33+00:00"
+    },
+    {
+      "id": "b0105eb9cb365d8a",
+      "title": "Desenvolvedores de Frontier AI pedem coordenação internacional para acelerar a pesquisa automatizada antes que as capacidades ultrapassem o controle",
+      "summary": "Numa declaração conjunta, os funcionários dos principais laboratórios de IA apelam ao governo dos EUA para que prossiga a coordenação internacional. O argumento deles é simples: nenhuma empresa ou…",
+      "link": "https://the-decoder.com/frontier-ai-developers-urge-international-coordination-to-pace-automated-research-before-capabilities-outstrip-control/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/Frontier-Pacing-title.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-29T12:13:16+00:00"
+    },
+    {
+      "id": "177112b0003cde68",
+      "title": "Artistas estão defendendo o desleixo da IA, e alguns estão até ganhando",
+      "summary": "Quando o The Atlantic publicou um conjunto de dados pesquisáveis ​​de trabalhos usados ​​para treinar IA, Kirk Wallace Johnson, como muitos artistas, procurou seu nome por curiosidade. E, como muitos…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268669_The_artists_suing_AI_companies_AParkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-29T12:00:00+00:00"
+    },
+    {
+      "id": "e5a4e948c683a498",
+      "title": "O agente desonesto de IA da OpenAI não parou de hackear o Hugging Face",
+      "summary": "O agente de IA que escapou da OpenAI e da plataforma de desenvolvedor hackeada Hugging Face também atacou outras empresas, revelou a OpenAI na terça-feira. A atualização amplia substancialmente o…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/akrales_220309_4977_0232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-29T11:54:29+00:00"
+    },
+    {
+      "id": "f5f71ac447dbb94c",
+      "title": "OpenAI abre código Codex Security CLI para ajudar os desenvolvedores a encontrar e corrigir vulnerabilidades na linha de comando",
+      "summary": "OpenAI lançou Codex Security CLI, uma ferramenta de código aberto que detecta e corrige automaticamente vulnerabilidades em repositórios de código. Anteriormente conhecido internamente como \"Aardvark\",…",
+      "link": "https://the-decoder.com/openai-open-sources-codex-security-cli-to-help-developers-find-and-fix-vulnerabilities-from-the-command-line/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_red_Logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-29T11:50:56+00:00"
+    },
+    {
+      "id": "714e36f709a1d95a",
+      "title": "Fim dos deepfakes? Ferramenta identifica qual IA criou vídeo falso na internet",
+      "summary": "Os pesquisadores da Universidade da Califórnia, Riverside (UCR), em parceria com especialistas do YouTube e da Google DeepMind, desenvolveram uma ferramenta que consegue…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/fim-dos-deepfakes-ferramenta-identifica-qual-ia-criou-video-falso-na-internet/",
+      "image": "https://tl.ctcdn.com.br/9fV0xgDW2fGF6UaAMHEkKmlrE3M=/0x0/filters:format(webp):quality(85)/9152b942-0cab-49fe-9e95-19483123bebd.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-29T11:07:00+00:00"
+    },
+    {
+      "id": "0b5793adff62bd0b",
+      "title": "A marca d'água SynthID do Google é difícil de quebrar, mas não resolve a desinformação da IA",
+      "summary": "Decidir o que é real na Internet não será fácil no futuro.",
+      "link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/synthid-fingerprint-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-29T11:00:39+00:00"
+    },
+    {
+      "id": "94a3fe9f005972ab",
+      "title": "À medida que o conteúdo de IA inunda a Internet, Pangram arrecada US$ 9 milhões para detectá-lo",
+      "summary": "A Pangram arrecadou US$ 9 milhões para dimensionar seu software de detecção de IA. A startup também lançou um novo modelo de detecção de texto AI, Pangram 4, e um modelo de detecção de imagem AI em…",
+      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-29T11:00:00+00:00"
+    },
+    {
+      "id": "d6e300c4503eb421",
+      "title": "Estamos ficando sem motivos para ignorar a segurança da IA",
+      "summary": "No início deste mês, a OpenAI deu uma tarefa a vários de seus modelos de IA: completar um teste projetado para medir suas capacidades de segurança cibernética. Ele colocou os sistemas em uma área restrita ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK485_STK414_AI_SAFETY_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-29T11:00:00+00:00"
+    },
+    {
+      "id": "5f0bdcd97cd681fc",
+      "title": "Perplexity decreta o fim do trabalho braçal com agente de IA no Windows",
+      "summary": "Computadores com Windows terão acesso a partir desta terça-feira (28) a um assistente de inteligência artificial capaz de agir diretamente sobre arquivos locais, aplicativos e a…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/perplexity-decreta-o-fim-do-trabalho-bracal-com-agente-de-ia-no-windows/",
+      "image": "https://tl.ctcdn.com.br/D8U_E17R-U9HPmDrWUAf7a57C8k=/0x0/filters:format(webp):quality(85)/f7ac51cd-8f31-4426-a95f-852390036b6e.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-29T10:30:00+00:00"
+    },
+    {
+      "id": "e012bc9b22d358bb",
+      "title": "O índice AI Hype: IA nada sexy",
+      "summary": "Já é bastante ruim quando uma carta aberta assinada por importantes economistas alerta que a IA pode roubar seu emprego. O fato de que em breve poderá ser melhor do que você na preparação do jantar? Insulto a…",
+      "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-29T08:42:57+00:00"
+    },
     {
       "id": "89d6f9be09492855",
       "title": "Mark Zuckerberg critica rivais e diz que concentração da IA ameaça inovação",
@@ -454,17 +630,6 @@
       "published_at": "2026-07-28T13:05:00+00:00"
     },
     {
-      "id": "efe3975328373b9f",
-      "title": "Granola lança um aplicativo Apple Watch",
-      "summary": "O aplicativo de anotações de IA Granola está lançando um aplicativo para o Apple Watch na esperança de que seus usuários queiram gravar reuniões e fazer anotações sem usar seus smartphones.",
-      "link": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-28T13:00:00+00:00"
-    },
-    {
       "id": "dc323d8334b79ae7",
       "title": "5 maneiras pelas quais o Modo AI na Pesquisa ajuda você a aproveitar o mundo real",
       "summary": "Ilustração de uma lupa preta em um círculo branco na grama verde cercada por itens relacionados a atividades divertidas como tênis e jogos",
@@ -484,6 +649,17 @@
       "source": "Google AI Blog",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-07-28T13:00:00+00:00"
+    },
+    {
+      "id": "efe3975328373b9f",
+      "title": "Granola lança um aplicativo Apple Watch",
+      "summary": "O aplicativo de anotações de IA Granola está lançando um aplicativo para o Apple Watch na esperança de que seus usuários queiram gravar reuniões e fazer anotações sem usar seus smartphones.",
+      "link": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-07-28T13:00:00+00:00"
     },
     {
@@ -815,182 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-27T18:20:48+00:00"
-    },
-    {
-      "id": "d99c8057fd6800eb",
-      "title": "Projetando agentes de análise financeira orientados por habilidades com Claude, Python, conectores MCP e resultados automatizados",
-      "summary": "Neste tutorial, construímos um fluxo de trabalho avançado em torno do repositório de serviços financeiros da Anthropic e reproduzimos sua arquitetura baseada em habilidades em Python puro. Começamos instalando…",
-      "link": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-27T18:08:24+00:00"
-    },
-    {
-      "id": "b5dcbf67115e6d07",
-      "title": "Professor coloca prompt escondido em tarefa e pega 90% da turma usando IA",
-      "summary": "Texto em branco presente no documento com questões mandava ferramenta colocar a palavra “Madagascar” aleatoriamente na resposta. Professor coloca prompt escondido em tarefa e pega…",
-      "link": "https://tecnoblog.net/noticias/professor-coloca-prompt-escondido-em-tarefa-e-pega-90-da-turma-usando-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/ia-3-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-27T18:00:09+00:00"
-    },
-    {
-      "id": "79cfa96755675de3",
-      "title": "A OpenAI classificou o ataque Hugging Face como sem precedentes. Mas já estivemos aqui antes.",
-      "summary": "Esta história apareceu originalmente em The Algorithm, nosso boletim informativo semanal sobre IA. Para receber histórias como essa em sua caixa de entrada primeiro, inscreva-se aqui. Lendo o relato da OpenAI na semana passada sobre como…",
-      "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-27T18:00:00+00:00"
-    },
-    {
-      "id": "e7d17f12a91466a8",
-      "title": "A Suprema Corte de Delhi dá uma vitória à OpenAI ao rejeitar a liminar de direitos autorais da grande agência de notícias indiana",
-      "summary": "O Tribunal Superior de Delhi concedeu à OpenAI uma grande vitória em sua luta por direitos autorais com a agência de notícias ANI. Pela primeira vez, um tribunal classificou o treinamento em IA como uso privado. ANI…",
-      "link": "https://the-decoder.com/delhi-high-court-hands-openai-a-win-by-rejecting-major-indian-news-agencys-copyright-injunction/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_large_right.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-27T17:55:24+00:00"
-    },
-    {
-      "id": "d4d33bbd3b0742dd",
-      "title": "Nova IA do Itaú mostra para onde vai o seu dinheiro e te ajuda a controlar gastos",
-      "summary": "O Itaú lançou, nesta segunda-feira (27), o seu novo assistente de IA: o ia.i . Com a novidade, o banco oferece aos clientes uma nova interface para acessar a conta corrente como…",
-      "link": "https://canaltech.com.br/apps/nova-ia-do-itau-mostra-para-onde-vai-o-seu-dinheiro-e-te-ajuda-a-controlar-gastos/",
-      "image": "https://tl.ctcdn.com.br/riWXjhiBpQJznR7ujab74Ms0-6c=/0x0/filters:format(webp):quality(85)/0bbbc911-ffc0-4340-8c56-6317a14fa999.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-27T17:29:34+00:00"
-    },
-    {
-      "id": "a0ef9ae849bd185a",
-      "title": "A violação Hugging Face da OpenAI reacendeu o debate sobre alinhamento e controle",
-      "summary": "A violação Hugging Face da OpenAI reacendeu o debate sobre o alinhamento e controle da IA, expondo visões concorrentes sobre se a IA cada vez mais capaz deveria ser melhor alinhada, melhor…",
-      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-27T17:28:42+00:00"
-    },
-    {
-      "id": "5b3756480b5f3042",
-      "title": "ChatGPT começa a bloquear solicitações diretas de cópia do estilo de um autor",
-      "summary": "Um novo comportamento que capte as “qualidades amplas” de um escritor pode ter implicações legais.",
-      "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264560291-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-27T16:58:46+00:00"
-    },
-    {
-      "id": "cc37f5faf8826c50",
-      "title": "Itaú libera nova IA nativa para 300 mil clientes",
-      "summary": "Ferramenta ia.i responde dúvidas e fica na tela inicial do app. Diretor promete “abordagem consciente e responsável”. Itaú libera nova IA nativa para 300 mil clientes",
-      "link": "https://tecnoblog.net/noticias/itau-coloca-ia-para-cuidar-do-relacionamento-com-o-cliente/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/exemplos-de-novas-telas-no-app-do-itau-340x191.jpeg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-27T16:58:03+00:00"
-    },
-    {
-      "id": "511cf38ddcf3e54e",
-      "title": "Por que a China está distribuindo seus melhores modelos de IA",
-      "summary": "O Vale do Silício passou grande parte da semana passada em alerta vermelho, digerindo a chegada do Kimi K3 da Moonshot AI, um modelo chinês de IA que supostamente pode vencer alguns dos melhores sistemas…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-27T16:51:50+00:00"
-    },
-    {
-      "id": "67f9ec1723933d06",
-      "title": "Os usuários do Threads agora podem conversar com Meta AI em seus DMs",
-      "summary": "A Meta disse na segunda-feira que está lançando seu chatbot Meta AI nos DMs do Threads, oferecendo aos usuários uma maneira de conversar com o assistente de IA.",
-      "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-27T16:45:24+00:00"
-    },
-    {
-      "id": "a96056acfcc26704",
-      "title": "Perplexity lança pplx, uma CLI binária única que coloca sua API de pesquisa no terminal para agentes de codificação",
-      "summary": "A Perplexity lançou o pplx, um cliente oficial de linha de comando para sua API de pesquisa. A ferramenta expõe dois comandos – pplx search web e pplx content fetch – e retorna exatamente um…",
-      "link": "https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-27T16:32:47+00:00"
-    },
-    {
-      "id": "4036114980935c66",
-      "title": "Até a URL era real: golpe usou site do Claude para infectar PCs",
-      "summary": "Um golpe online fez com que as vítimas baixassem uma versão falsa do aplicativo do Claude para PC contendo malware. Para isso, os hackers usaram um a página enganosa sob o mesmo…",
-      "link": "https://canaltech.com.br/seguranca/ate-a-url-era-real-golpe-usou-site-do-claude-para-infectar-pcs/",
-      "image": "https://tl.ctcdn.com.br/6ZytxXFHxx98yQo46s7VvCxQ1Dw=/0x0/filters:format(webp):quality(85)/07fdd259-37c2-45ee-a11e-226e04c6a4ec.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-27T16:16:00+00:00"
-    },
-    {
-      "id": "285637682dc88cb8",
-      "title": "A pesquisa de IA do Google está rapidamente se tornando o padrão, mostram novos dados",
-      "summary": "As visões gerais de IA do Google agora aparecem em 43% das pesquisas, ressaltando a rapidez com que as respostas geradas por IA estão se tornando a forma padrão pela qual as pessoas descobrem informações online.",
-      "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-27T15:57:12+00:00"
-    },
-    {
-      "id": "3dd770bab6d81783",
-      "title": "Potencialize sua infraestrutura de IA! Uma primeira olhada na agenda do Smart Systems Stage no TechCrunch Disrupt 2026",
-      "summary": "No TechCrunch Disrupt 2026, o Smart Systems Stage será onde energia, infraestrutura e tecnologia colidem, cobrindo tudo, desde avanços de fusão até a tensão da rede…",
-      "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-27T15:30:00+00:00"
-    },
-    {
-      "id": "f98543da0b639b26",
-      "title": "A Superinteligência Segura de Ilya Sutskever faz parceria com a Nvidia para dimensionar sua pesquisa de IA",
-      "summary": "Depois de dois anos em sigilo, a Safe Superinteligência anunciou uma parceria de longo prazo com a Nvidia enquanto se prepara para escalar para sua próxima fase.",
-      "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-27T15:01:50+00:00"
-    },
-    {
-      "id": "1a2f03bd7a36e172",
-      "title": "Anthropic libera modo de voz avançado do Claude até para contas grátis",
-      "summary": "A Anthropic anunciou uma grande atualização para o modo de voz do Claude e começou a liberar o recurso para usuários de todos os planos , incluindo contas gratuitas. A novidade…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/anthropic-libera-modo-de-voz-avancado-do-claude-ate-para-contas-gratis/",
-      "image": "https://tl.ctcdn.com.br/GeVucxq2cxWTFjBgDumBlE70oYY=/0x0/filters:format(webp):quality(85)/60c53e74-9ff4-4239-b082-6c5431dd3005.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-27T15:01:00+00:00"
     }
   ]
 }
