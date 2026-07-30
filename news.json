@@ -1,7 +1,194 @@
 {
-  "generated_at": "2026-07-29T19:13:32.729920+00:00",
+  "generated_at": "2026-07-30T02:12:01.814133+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "c9cb373edcc7b8c6",
+      "title": "Samsung supera estimativas de lucro com demanda por chips de IA à toda",
+      "summary": "Divisão de memória bate recordes de vendas de DRAM e NAND, impulsionada por servidores de inteligência artificial; empresa espera continuidade do crescimento no segundo semestre O…",
+      "link": "https://olhardigital.com.br/2026/07/29/pro/samsung-supera-estimativas-de-lucro-com-demanda-por-chips-de-ia-a-toda/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/samsung-1-1024x624.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-30T00:53:40+00:00"
+    },
+    {
+      "id": "1c538562910bce6b",
+      "title": "A Microsoft está competindo abertamente com OpenAI, Anthropic mais do que nunca",
+      "summary": "A Microsoft lançou seus próprios modelos de IA, equipamentos e até mesmo um concorrente da Mythos na quarta-feira, dizendo a Wall Street que planeja um crescimento contínuo.",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-30T00:21:06+00:00"
+    },
+    {
+      "id": "52c406b7f270d72c",
+      "title": "O que é o Pacing the Frontier, iniciativa que quer controlar o avanço da IA",
+      "summary": "Movimento reúne mais de 1.200 funcionários de empresas como OpenAI, Google, Meta e Anthropic para defender mecanismos internacionais de governança para a inteligência artificial O…",
+      "link": "https://olhardigital.com.br/2026/07/29/internet-e-redes-sociais/o-que-e-o-pacing-the-frontier-iniciativa-que-quer-controlar-o-avanco-da-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/facing-the-frontier-1024x580.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-29T23:28:00+00:00"
+    },
+    {
+      "id": "09099903d22208d7",
+      "title": "Mark Zuckerberg prevê que bilhões de pessoas terão agentes pessoais de IA em cinco anos",
+      "summary": "Enquanto a Meta investe bilhões em infraestrutura e agentes de IA, Zuckerberg está trabalhando para convencer os investidores de que o retorno valerá o preço.",
+      "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-29T23:00:11+00:00"
+    },
+    {
+      "id": "766b425e2839764e",
+      "title": "Microsoft registra US$ 3,2 bilhões em investimentos da Anthropic, mas OpenAI era uma mistura",
+      "summary": "Quando a Microsoft relatou lucros matadores no quarto trimestre para o ano fiscal de 2026 (que terminou em 30 de junho), ela trouxe um pequeno detalhe interessante sobre como seus investimentos no…",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-29T22:46:03+00:00"
+    },
+    {
+      "id": "6485eb1f28c4e8ed",
+      "title": "Zuckerberg diz que a oportunidade de IA empresarial da Meta vai além dos agentes",
+      "summary": "Na teleconferência de resultados do segundo trimestre da empresa na quarta-feira, o CEO Mark Zuckerberg disse que a Meta vê uma “grande oportunidade empresarial” abrangendo agentes de IA, APIs, computação e recursos internos…",
+      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-29T22:23:12+00:00"
+    },
+    {
+      "id": "95d6f987332250f4",
+      "title": "Microsoft confirma ‘super app’ do Copilot chegando este ano",
+      "summary": "A Microsoft está trabalhando em um “superaplicativo” de IA que combina bate-papo, codificação e recursos de agência do Copilot. Durante uma teleconferência de resultados na quarta-feira, o CEO da Microsoft, Satya Nadella, disse…",
+      "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-29T22:17:38+00:00"
+    },
+    {
+      "id": "7fa27db8b3a9a50c",
+      "title": "O ataque do Mythos ao candidato ao algoritmo PQC da terceira rodada o coloca fora de serviço",
+      "summary": "HAWK resistiu a anos de testes que ainda não haviam descoberto uma fraqueza fatal encontrada no Mythos.",
+      "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-29T22:07:06+00:00"
+    },
+    {
+      "id": "468470fbb93dcfc0",
+      "title": "5G x 6G: entenda o que realmente muda na próxima geração de internet móvel",
+      "summary": "O 6G promete ir além do aumento de velocidade ao integrar inteligência artificial, sensoriamento e novas formas de comunicação O post 5G x 6G: entenda o que realmente muda na…",
+      "link": "https://olhardigital.com.br/2026/07/29/internet-e-redes-sociais/5g-x-6g-entenda-o-que-realmente-muda-na-proxima-geracao-de-internet-movel/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/redes-moveis-1024x599.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-29T22:06:28+00:00"
+    },
+    {
+      "id": "4efbbdb7c9d72d55",
+      "title": "Mark Zuckerberg está planejando um grande impulso em agentes pessoais de IA",
+      "summary": "A Meta aposta totalmente na IA e, em breve, a empresa fará um grande avanço em agentes pessoais de IA que podem fazer coisas em seu nome. Na teleconferência de resultados do segundo trimestre de 2026 na quarta-feira ...",
+      "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-29T21:48:07+00:00"
+    },
+    {
+      "id": "9e9cd811ce7f7609",
+      "title": "Descubra o que vem por aí para a IA, desde o cálculo do SaaS até a lacuna de segurança do agente, no TechCrunch Disrupt 2026",
+      "summary": "No TechCrunch Disrupt 2026, o AI Stage está de volta para se aprofundar no tópico mais quente da comunidade nos últimos anos, apresentado pelo Google for Startups.",
+      "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-29T21:16:39+00:00"
+    },
+    {
+      "id": "cd3a9a73777f2803",
+      "title": "A cofundadora da Thinking Machines, Lilian Weng, deixou a empresa alegando motivos de saúde e depois ingressou na OpenAI",
+      "summary": "Weng atuou anteriormente como vice-presidente de pesquisa de segurança de IA na OpenAI.",
+      "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-29T21:07:48+00:00"
+    },
+    {
+      "id": "1d01fdd20f83e945",
+      "title": "A luta de última hora da xAI para impedir a lei anti-nudificação de aplicativos em Minnesota",
+      "summary": "A xAI está processando o procurador-geral de Minnesota, Keith Ellison, por causa de uma lei aprovada em maio que visa amplamente aplicativos de \"nudificação\", alegando que as disposições punitivas do estatuto deixam...",
+      "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-29T21:06:52+00:00"
+    },
+    {
+      "id": "b7cb1a9daf29fe64",
+      "title": "Óculos Ray-Ban da Meta ganham IA que pode ser controlada em silêncio",
+      "summary": "A Meta começou a liberar a versão 127 do software dos óculos inteligentes Ray-Ban Display com um novo recurso que permite controlar a inteligência artificial sem usar comandos de…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/oculos-ray-ban-da-meta-ganham-ia-que-pode-ser-controlada-em-silencio/",
+      "image": "https://tl.ctcdn.com.br/BQFX92m-eH_G63M5SgMl-5IXCro=/0x0/filters:format(webp):quality(85)/eec11305-7612-42c9-9bf1-11056fff2f71.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-29T21:02:00+00:00"
+    },
+    {
+      "id": "40a9f933c8df8060",
+      "title": "Quem ganha e quem perde depois que os EUA proíbem robôs estrangeiros?",
+      "summary": "A proibição governamental de robôs fabricados no exterior pode prejudicar, em vez de ajudar, a robótica dos EUA.",
+      "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Unitree-robots-boxing-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-29T20:03:42+00:00"
+    },
+    {
+      "id": "115cc8d504fdd2ea",
+      "title": "App do Gemini agora lê a tela do seu computador; veja como funciona",
+      "summary": "O Google anunciou uma atualização para o aplicativo Gemini no macOS que adiciona um modo de voz que consegue entender o que está sendo exibido na tela do computador. Com a…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/app-do-gemini-agora-le-a-tela-do-seu-computador-veja-como-funciona/",
+      "image": "https://tl.ctcdn.com.br/tjBQA4ujhm3uDttR-ohSYWwlneM=/0x0/filters:format(webp):quality(85)/6cfe8927-3376-4dd0-9a30-dc5cb4aa67f6.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-29T20:03:00+00:00"
+    },
+    {
+      "id": "6321a130900eab98",
+      "title": "A invasão do Hugging Face AI, contada por meio de uma metáfora de urso cada vez mais comprometida",
+      "summary": "Outra maneira de pensar sobre tudo isso é imaginar um urso em um acampamento. (Realmente, estamos indo para lá.)",
+      "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-29T19:44:49+00:00"
+    },
     {
       "id": "b8afb744722d594b",
       "title": "ChatGPT abre caminho para exibir anúncios no Brasil; veja o que muda",
@@ -212,6 +399,17 @@
       "published_at": "2026-07-29T15:24:15+00:00"
     },
     {
+      "id": "265c6a0134aba9b6",
+      "title": "Como a ativação de duas configurações triplicou nossas pontuações no benchmark ARC-AGI-3",
+      "summary": "Como duas configurações de API melhoraram o desempenho do GPT-5.6 no ARC-AGI-3, aumentando as pontuações e a eficiência ao reter o raciocínio e permitir a compactação.",
+      "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-29T15:00:00+00:00"
+    },
+    {
       "id": "890b0fa9dd36a38c",
       "title": "Funcionário da Perplexity que trabalhou no Comet lança um navegador de IA voltado para o trabalho do conhecimento",
       "summary": "A Polar lançou um navegador com IA voltado para trabalhadores do conhecimento e agora levantou uma rodada inicial de US$ 5,7 milhões liderada por Madrona.",
@@ -377,17 +575,6 @@
       "published_at": "2026-07-29T11:00:39+00:00"
     },
     {
-      "id": "94a3fe9f005972ab",
-      "title": "À medida que o conteúdo de IA inunda a Internet, Pangram arrecada US$ 9 milhões para detectá-lo",
-      "summary": "A Pangram arrecadou US$ 9 milhões para dimensionar seu software de detecção de IA. A startup também lançou um novo modelo de detecção de texto AI, Pangram 4, e um modelo de detecção de imagem AI em…",
-      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-29T11:00:00+00:00"
-    },
-    {
       "id": "d6e300c4503eb421",
       "title": "Estamos ficando sem motivos para ignorar a segurança da IA",
       "summary": "No início deste mês, a OpenAI deu uma tarefa a vários de seus modelos de IA: completar um teste projetado para medir suas capacidades de segurança cibernética. Ele colocou os sistemas em uma área restrita ...",
@@ -396,6 +583,17 @@
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
+      "published_at": "2026-07-29T11:00:00+00:00"
+    },
+    {
+      "id": "94a3fe9f005972ab",
+      "title": "À medida que o conteúdo de IA inunda a Internet, Pangram arrecada US$ 9 milhões para detectá-lo",
+      "summary": "A Pangram arrecadou US$ 9 milhões para dimensionar seu software de detecção de IA. A startup também lançou um novo modelo de detecção de texto AI, Pangram 4, e um modelo de detecção de imagem AI em…",
+      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-07-29T11:00:00+00:00"
     },
     {
@@ -474,6 +672,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-07-29T00:09:05+00:00"
+    },
+    {
+      "id": "eb71f165025c2507",
+      "title": "Como o GPT-5.6 combina inteligência de fronteira com eficiência de fronteira",
+      "summary": "O GPT-5.6 melhora a eficiência da IA ​​em modelos, inferências e fluxos de trabalho de agentes, ajudando a fornecer inteligência mais útil por dólar.",
+      "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-29T00:00:00+00:00"
     },
     {
       "id": "3b97201cc3170a62",
@@ -782,215 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-07-28T16:00:00+00:00"
-    },
-    {
-      "id": "28ee80d4bd86b82e",
-      "title": "PayPal deixa a porta aberta para uma oferta de aquisição maior após a queda dos lucros",
-      "summary": "Depois de reportar resultados melhores do que o esperado no segundo trimestre, o PayPal disse que continua focado em sua recuperação impulsionada pela IA, mas consideraria um acordo que criasse mais valor para os acionistas.",
-      "link": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-28T15:10:10+00:00"
-    },
-    {
-      "id": "efff03e67f2bce6b",
-      "title": "Com prompt invisível, professor desmascara 32 alunos usando IA em prova",
-      "summary": "Um professor de história da Alcorn State University, nos Estados Unidos, encontrou uma forma incomum de identificar alunos que usaram inteligência artificial sem revisar o…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/com-prompt-invisivel-professor-desmascara-32-alunos-usando-ia-em-prova/",
-      "image": "https://tl.ctcdn.com.br/_7N6xTfyZabKg6vYBrnT1mLfvXo=/0x0/filters:format(webp):quality(85)/2747ff52-927b-40a8-8279-f7a062bbbd3e.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-28T15:02:00+00:00"
-    },
-    {
-      "id": "a5bc54280bf29efc",
-      "title": "Codificadores LFM2.5 para inferência rápida de contexto longo na CPU",
-      "summary": "",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-28T15:01:45+00:00"
-    },
-    {
-      "id": "6efb260e86c12e1a",
-      "title": "WhatsApp enfim leva ligações para versão Web e melhora qualidade de áudio",
-      "summary": "O WhatsApp Web ganhou suporte para chamadas de áudio e vídeo sem a necessidade de baixar um app adicional. A Meta ainda anunciou uma série de melhorias para ligações nesta…",
-      "link": "https://canaltech.com.br/apps/whats-app-enfim-leva-ligacoes-para-versao-web-e-melhora-qualidade-de-audio/",
-      "image": "https://tl.ctcdn.com.br/3EnY0unCtmPxGZvtiduGViyBpWc=/0x0/filters:format(webp):quality(85)/c9ee1d5e-0e98-4d0a-9fe4-218a2b5f0d07.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-28T14:00:01+00:00"
-    },
-    {
-      "id": "b3e7eb847fa27879",
-      "title": "Fish Audio levanta US$ 50 milhões para construir modelos de voz de IA para criadores e empresas",
-      "summary": "Desde o seu lançamento no ano passado, a startup tem hoje mais de 8 milhões de pessoas usando a versão open-source ou hospedada de seus modelos, e agora gera receita recorrente anual de…",
-      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-28T14:00:00+00:00"
-    },
-    {
-      "id": "e458eb461571301b",
-      "title": "Superinteligência recursiva assina acordo de computação de US$ 410 milhões com a Amazon",
-      "summary": "A ênfase da Recursive em sistemas de IA de autoaperfeiçoamento significa que grande parte do orçamento que tradicionalmente seria destinado ao número de funcionários e às operações é colocado diretamente na computação, à medida que a empresa…",
-      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-28T13:19:17+00:00"
-    },
-    {
-      "id": "515207d501cb2ed4",
-      "title": "Taiwan detém funcionário da Nvidia em ampliação da investigação de contrabando de chips na China",
-      "summary": "Os promotores de Taiwan detiveram um funcionário da Nvidia em conexão com a suposta exportação ilegal de servidores Super Micro AI para a China, de acordo com a Bloomberg e a Reuters. O…",
-      "link": "https://the-decoder.com/taiwan-detains-nvidia-employee-in-widening-china-chip-smuggling-probe/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-28T13:15:43+00:00"
-    },
-    {
-      "id": "b61f0fe750628ab5",
-      "title": "iPhones e IA: saiba como funciona o impedimento semiautomático do Brasileirão",
-      "summary": "O Campeonato Brasileiro passou a contar com o impedimento semiautomático a partir da 20ª rodada . A tecnologia estreou no Brasileirão com a promessa de aumentar a precisão das…",
-      "link": "https://canaltech.com.br/produtos/i-phones-e-ia-saiba-como-funciona-o-impedimento-semiautomatico-do-brasileirao/",
-      "image": "https://tl.ctcdn.com.br/4hFvhMAWuWSda8vx7uVcUxxO-HA=/0x0/filters:format(webp):quality(85)/5c9ef117-1a08-4845-a66f-959101d8957e.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-28T13:10:04+00:00"
-    },
-    {
-      "id": "5b90cce4ca915a6c",
-      "title": "Nvidia investe no laboratório de IA de Ilya Sutskever, afastando o SSI dos chips do Google",
-      "summary": "A Nvidia está investindo o que chama de uma quantia “substancial” no Safe Superintelligence (SSI), o laboratório de IA dirigido por Ilya Sutskever, ex-cientista-chefe da OpenAI. O artigo Nvidia…",
-      "link": "https://the-decoder.com/nvidia-invests-in-ilya-sutskevers-ai-lab-shifting-ssi-away-from-google-chips/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/ssi-nvidia.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-28T13:06:35+00:00"
-    },
-    {
-      "id": "82f761602bb488f5",
-      "title": "Usa o Claude? Suas conversas íntimas podem estar no Google; veja o que fazer",
-      "summary": "Centenas de conversas compartilhadas no Claude, chatbot de IA da Anthropic, apareceram nos resultados de busca do Google nos últimos dias , expondo desde fanfics e discussões…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/usa-o-claude-suas-conversas-intimas-podem-estar-no-google-veja-o-que-fazer/",
-      "image": "https://tl.ctcdn.com.br/V_m3L7PCGu1dxxWPI7PkOEJWOA8=/0x0/filters:format(webp):quality(85)/4ef463f1-605c-4ee7-be94-35fafeebbf38.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-28T13:05:00+00:00"
-    },
-    {
-      "id": "dc323d8334b79ae7",
-      "title": "5 maneiras pelas quais o Modo AI na Pesquisa ajuda você a aproveitar o mundo real",
-      "summary": "Ilustração de uma lupa preta em um círculo branco na grama verde cercada por itens relacionados a atividades divertidas como tênis e jogos",
-      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-28T13:00:00+00:00"
-    },
-    {
-      "id": "41e0168f6a5bfe73",
-      "title": "5 maneiras de organizar o melhor jantar com a Pesquisa Google",
-      "summary": "Uma lupa preta ilustrada com um brilho em um círculo branco cercado por uma mesa de jantar",
-      "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-28T13:00:00+00:00"
-    },
-    {
-      "id": "efe3975328373b9f",
-      "title": "Granola lança um aplicativo Apple Watch",
-      "summary": "O aplicativo de anotações de IA Granola está lançando um aplicativo para o Apple Watch na esperança de que seus usuários queiram gravar reuniões e fazer anotações sem usar seus smartphones.",
-      "link": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-28T13:00:00+00:00"
-    },
-    {
-      "id": "eef73354a1d4cb86",
-      "title": "Sua conversa com uma IA pode aparecer no Google? Entenda o caso",
-      "summary": "Conversas do Claude aparecem no Google após indexação de links compartilhados e levantam alerta sobre privacidade de usuários de IA O post Sua conversa com uma IA pode aparecer no…",
-      "link": "https://olhardigital.com.br/2026/07/28/inteligencia-artificial/sua-conversa-com-uma-ia-pode-aparecer-no-google-entenda-o-caso/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/12/busca_google-e1769510988782-1024x577.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-28T12:47:55+00:00"
-    },
-    {
-      "id": "e9c474af2da2d9c4",
-      "title": "O computador pessoal da Perplexity transforma PCs com Windows em agentes de IA",
-      "summary": "A Perplexity expandiu sua ferramenta de computador pessoal agente para Windows, permitindo que computadores que executam o sistema operacional mais popular do mundo sejam usados ​​como um sistema de IA executado localmente. Como o Mac…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-28T12:30:00+00:00"
-    },
-    {
-      "id": "3650b0663b25f9b5",
-      "title": "O CEO da Anthropic, Amodei, dobra a posição de risco de peso aberto, insistindo que nunca pediu uma proibição",
-      "summary": "O CEO da Anthropic, Dario Amodei, está mais uma vez alertando sobre os riscos dos modelos abertos de IA, ao mesmo tempo que insiste que nunca pediu uma proibição. Ele argumenta que estados autoritários como a China…",
-      "link": "https://the-decoder.com/anthropic-ceo-amodei-doubles-down-on-open-weight-risk-stance-while-insisting-he-never-called-for-a-ban/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/05/anthropic_logo_wall-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-28T12:06:42+00:00"
-    },
-    {
-      "id": "21326661e9cc36f6",
-      "title": "Os anéis inteligentes parecem meu tipo de gadget de IA",
-      "summary": "Nos últimos meses, passei muito tempo conversando com meu computador. Uma característica subestimada da revolução LLM foi um salto notável em todos os tipos de ditado…",
-      "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RING.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-28T12:00:00+00:00"
-    },
-    {
-      "id": "df2a2f51a695f9d2",
-      "title": "Meta aposta no Threads para não perder usuários para o ChatGPT",
-      "summary": "A Meta começou a liberar, nesta segunda-feira (27), o Meta AI dentro das mensagens diretas do Threads. A partir de agora, qualquer usuário da rede social pode conversar em…",
-      "link": "https://canaltech.com.br/apps/meta-aposta-no-threads-para-nao-perder-usuarios-para-o-chat-gpt/",
-      "image": "https://tl.ctcdn.com.br/ndeq_Ez5gaDjN_9qAhG8T_tUQz8=/0x0/filters:format(webp):quality(85)/944cf21d-7dac-44bd-afe5-150a6f0f792d.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-28T10:30:00+00:00"
-    },
-    {
-      "id": "8980e8ef2e88a0cd",
-      "title": "Os trabalhadores de chips da Samsung estão abandonando o navio para rivalizar com a SK Hynix",
-      "summary": "Lee, engenheiro da divisão de semicondutores da Samsung, bate o ponto quando seu turno termina. Ele costumava trabalhar mais horas, esforçando-se para se destacar em seus projetos. Mas ultimamente ele está...",
-      "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-28T09:18:57+00:00"
     }
   ]
 }
