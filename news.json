@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-07-30T02:12:01.814133+00:00",
+  "generated_at": "2026-07-30T08:23:43.596410+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "1b2a1aeeb1ecec87",
+      "title": "Conheça o Token Saver: uma extensão MCP de código aberto usando RAG híbrido local para reduzir os custos do token PDF Claude em 90-99%",
+      "summary": "Marktechpost AI lançou Token Saver, uma extensão MCP de código aberto para Claude Desktop que usa RAG híbrido local para reduzir o consumo de tokens PDF em até 99%, garantindo…",
+      "link": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/image-9.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-30T07:43:29+00:00"
+    },
+    {
+      "id": "be2ef58ea70509f1",
+      "title": "OpenAI afirma que GPT-5.6 Sol vence Opus 5 no ARC-AGI-3, mas apenas com seu próprio equipamento de teste personalizado",
+      "summary": "OpenAI contraria o recorde ARC-AGI-3 da Anthropic: GPT-5.6 Sol pontua 38,3 por cento, mas apenas por meio de sua própria API com raciocínio retido e compactação de contexto. No teste oficial…",
+      "link": "https://the-decoder.com/openai-claims-gpt-5-6-sol-beats-opus-5-on-arc-agi-3-but-only-with-its-own-custom-test-harness/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_gpt56_sol.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-30T07:40:11+00:00"
+    },
+    {
+      "id": "3620c9526c3c4f2f",
+      "title": "Engenharia de prompt versus engenharia de loop versus engenharia gráfica: o que muda em cada camada",
+      "summary": "Três termos agora competem pela mesma linha nas descrições de cargos de engenharia de IA. A engenharia imediata é a estabelecida. A engenharia de loop entrou no vocabulário da IA ​​no final de 2025…",
+      "link": "https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engineering/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-30T05:45:53+00:00"
+    },
+    {
+      "id": "640b0fd2efc9e2bd",
+      "title": "Moonshot AI Open-Sources MoonEP: uma biblioteca especializada em paralelismo perfeitamente balanceada para treinamento MoE",
+      "summary": "Moonshot AI tem MoonEP de código aberto, uma biblioteca de comunicação Expert Parallelism (EP) para cargas de trabalho distribuídas de Mixture-of-Experts (MoE). A equipe anunciou o lançamento como um…",
+      "link": "https://www.marktechpost.com/2026/07/29/moonshot-ai-open-sources-moonep-a-perfectly-balanced-expert-parallelism-library-for-moe-training/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-30T05:28:39+00:00"
+    },
+    {
+      "id": "f660049a0024cb8a",
+      "title": "Após invasão de agente da OpenAI, Sam Altman encontra senadores",
+      "summary": "Enquanto isso, Trump estuda como \"controlar\" a IA após invasão O post Após invasão de agente da OpenAI, Sam Altman encontra senadores apareceu primeiro em Olhar Digital .",
+      "link": "https://olhardigital.com.br/2026/07/29/inteligencia-artificial/apos-invasao-de-agenda-da-openai-sam-altman-encontra-senadores/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/donald_trump-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-30T01:45:54+00:00"
+    },
     {
       "id": "c9cb373edcc7b8c6",
       "title": "Samsung supera estimativas de lucro com demanda por chips de IA à toda",
@@ -936,61 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-28T17:03:00+00:00"
-    },
-    {
-      "id": "824b5ba22f1e74f5",
-      "title": "Computação científica na era da IA ​​agente",
-      "summary": "Um novo relatório de campo mostra como os cientistas usam agentes de codificação de IA para modernizar a computação científica, acelerando o desenvolvimento de software e a descoberta em genômica e muito mais.",
-      "link": "https://openai.com/index/scientific-computing-agentic-ai",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-28T17:00:00+00:00"
-    },
-    {
-      "id": "91a2d1bf0dad4fc0",
-      "title": "ChatGPT passa a dizer que não pode imitar autores famosos",
-      "summary": "IA avisa que não pode reproduzir de maneira próxima a linguagem de um escritor, mas escreve textos com traços característicos das obras. ChatGPT passa a dizer que não pode imitar…",
-      "link": "https://tecnoblog.net/noticias/chatgpt-passa-a-dizer-que-nao-pode-imitar-autores-famosos/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/maquina-de-escrever-camille-orgel-skctkynrvhy-unsplash-1-edited-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-28T16:28:16+00:00"
-    },
-    {
-      "id": "9c980868c23ca002",
-      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "summary": "",
-      "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-28T16:27:42+00:00"
-    },
-    {
-      "id": "b88f378c2a5bcf4d",
-      "title": "A Amazon supostamente reduz seus modelos Nova AI e aposta em uma nova equipe de pesquisa Frontier",
-      "summary": "A Amazon está reduzindo a maioria de seus modelos internos de Nova AI, incluindo Nova Premier, Omni, Reel e Canvas. Os modelos permanecem online para os clientes existentes em \"manter as luzes acesas\"…",
-      "link": "https://the-decoder.com/amazon-reportedly-scales-back-its-nova-ai-models-and-bets-on-a-new-frontier-research-team/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/amazon_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-28T16:03:39+00:00"
-    },
-    {
-      "id": "55560096859ebe20",
-      "title": "Agentes gerenciados pela API Gemini: 3.6 Flash, ganchos e muito mais",
-      "summary": "Agentes gerenciados Gemini 3.6 Flash, ganchos e gatilhos",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-28T16:00:00+00:00"
     }
   ]
 }
