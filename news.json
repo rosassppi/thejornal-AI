@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-07-31T02:40:47.978752+00:00",
+  "generated_at": "2026-07-31T08:47:10.000843+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "f8ec64126bdac17b",
+      "title": "Promover a IA responsável em toda a Europa",
+      "summary": "A OpenAI partilha como as suas práticas de segurança, proteção, transparência e proveniência apoiam a governação responsável da IA ​​na Europa. O trabalho continuará à medida que a Lei da IA ​​da UE avança.",
+      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-31T15:00:00+00:00"
+    },
+    {
+      "id": "c9bcd4f73b0af001",
+      "title": "Resumo do dia: IA, eleições, sucesso do iPhone e Anthropic vs OpenAI",
+      "summary": "Apple tem no iPhone seu ator principal - mais uma vez. Enquanto isso, a Amazon tem como destaque o serviço de nuvem O post Resumo do dia: IA, eleições, sucesso do iPhone e…",
+      "link": "https://olhardigital.com.br/2026/07/31/pro/resumo-do-dia-ia-eleicoes-sucesso-do-iphone-e-anthropic-vs-openai/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-31T07:33:27+00:00"
+    },
     {
       "id": "8278d015a076a44c",
       "title": "Juíza diz que governo Trump não tem provas para classificar Anthropic como risco",
@@ -969,28 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-29T18:25:19+00:00"
-    },
-    {
-      "id": "c0b0bd6bcc7e72d3",
-      "title": "O presidente da OpenAI diz que está ‘construindo uma família de dispositivos’ para seus chatbots de IA",
-      "summary": "Em entrevista à nossa amiga Joanna Stern em seu canal no YouTube, o presidente da OpenAI, Greg Brockman, disse que a empresa está trabalhando em uma “família de dispositivos” para interagir com seus…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2182154299.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-29T18:15:02+00:00"
-    },
-    {
-      "id": "f574fec13ba4a99c",
-      "title": "O xAI de Elon Musk está tentando abrir caminho para escapar do acerto de contas Grok",
-      "summary": "Musk defende Grok, diz que a proibição de aplicativos nudificantes em Minnesota é inconstitucional.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2255893185-2-500x500-1785343612.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-29T17:58:24+00:00"
     }
   ]
 }
