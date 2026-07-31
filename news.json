@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T08:47:10.000843+00:00",
+  "generated_at": "2026-07-31T14:02:50.818629+00:00",
   "total": 90,
   "items": [
     {
@@ -14,6 +14,127 @@
       "published_at": "2026-07-31T15:00:00+00:00"
     },
     {
+      "id": "3f8b6e255cb31507",
+      "title": "Os golpistas de IA superam os humanos quando se trata de construir confiança",
+      "summary": "O chatbot de IA foi mais eficaz na criação de “confiança explorável” do que os humanos.",
+      "link": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/scammer-1-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-31T14:01:40+00:00"
+    },
+    {
+      "id": "958fb2c086fd4db5",
+      "title": "Anthropic diz que Claude acidentalmente hackeou empresas reais também",
+      "summary": "A Anthropic acaba de perceber que vários de seus modelos Claude AI foram hackeados nos sistemas de três organizações diferentes durante os testes, agindo por conta própria e sem a empresa…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-31T13:41:17+00:00"
+    },
+    {
+      "id": "92cee5669bd1b920",
+      "title": "Nova IA da OpenAI promete funcionar como uma equipe digital",
+      "summary": "Novo sistema da OpenAI promete assistentes de IA trabalhando em conjunto e amplia discussões sobre empregos, segurança e inovação digital O post Nova IA da OpenAI promete…",
+      "link": "https://olhardigital.com.br/2026/07/31/inteligencia-artificial/nova-ia-da-openai-promete-funcionar-como-uma-equipe-digital/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2024/06/openai-chatgpt-2-e1729857831834-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-31T13:08:00+00:00"
+    },
+    {
+      "id": "0090b3ec079bbed8",
+      "title": "China revela cachorro-robô armado com bazuca; veja",
+      "summary": "Achou que os robôs iam parar depois que um deles chutou uma criança no estômago ? Nada disso. Em um vídeo divulgado pela emissora estatal CCTV, um \"cachorro-robô\" aparece…",
+      "link": "https://canaltech.com.br/produtos/china-revela-cachorro-robo-armado-com-bazuca-veja-video/",
+      "image": "https://tl.ctcdn.com.br/iYDEk5GSTeqLne4YiXQMKOGpRT4=/0x0/filters:format(webp):quality(85)/db1b2f9f-b6b3-4e4f-b240-19ffacfd7de3.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-31T12:58:40+00:00"
+    },
+    {
+      "id": "ad0a26187eaa08ed",
+      "title": "Hierarquia das placas de vídeo NVIDIA: lista te ajuda a decidir qual comprar",
+      "summary": "O mercado de hardware sempre conta com diversas placas de vídeo , de diferentes níveis e gerações . Caso você não seja um entusiasta acompanhando as novidades ferrenhamente, pode…",
+      "link": "https://canaltech.com.br/hardware/hierarquia-placas-de-video-nvidia/",
+      "image": "https://tl.ctcdn.com.br/QqT2dwP7NhLCcG0boHwi9lzKxI4=/0x0/filters:format(webp):quality(85)/e7b2c681-cba3-43e1-a3fc-5a1de1e9a961.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-31T12:33:00+00:00"
+    },
+    {
+      "id": "a8e6dd6c34cd416a",
+      "title": "O fundador da Repeat, Ryan Williams, levanta US$ 10 milhões para uma startup de IA para gerentes de crédito privados",
+      "summary": "Ellis AI anunciou quinta-feira sua saída do sigilo com US$ 10 milhões em financiamento inicial.",
+      "link": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-31T12:00:00+00:00"
+    },
+    {
+      "id": "d93660a479b38472",
+      "title": "Como uma disputa de trapaça de IA em Yale se tornou um processo federal de 13 acusações",
+      "summary": "Um exame contestado, um detector não confiável e um arquivo Apple Pages muito atrasado.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-610869530-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-31T11:00:52+00:00"
+    },
+    {
+      "id": "8debfbb0370d136f",
+      "title": "A Anthropic segue a OpenAI ao admitir que seus modelos Claude saíram de ambientes de teste e atacaram sistemas do mundo real",
+      "summary": "Três modelos de Claude atacaram empresas reais durante testes de segurança cibernética depois que uma configuração incorreta lhes deu acesso à Internet. Um malware publicado no PyPI que infectou 15 sistemas…",
+      "link": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo_cybersecurity_kraken_arms.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-31T10:57:37+00:00"
+    },
+    {
+      "id": "124379a5d468f3e1",
+      "title": "A tese de IA de Aschenbrenner poderia estar correta, seu timing e influência não estavam",
+      "summary": "O fundo de hedge de IA de Leopold Aschenbrenner, Situational Awareness, teve que descarregar quase todo o seu portfólio de capital aberto para a Citadel de Ken Griffin depois de acumular pesadas perdas em ...",
+      "link": "https://the-decoder.com/aschenbrenners-ai-thesis-could-be-correct-his-timing-and-leverage-were-not/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/ai_bear_stock_crash-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-31T10:49:05+00:00"
+    },
+    {
+      "id": "6cbdffa80a320f5d",
+      "title": "JetBrains Open-Sources KotlinLLM: macros inteligentes que geram código-fonte Kotlin em tempo de execução e recarregam-no a quente por meio de JDI",
+      "summary": "A JetBrains Research abriu o código-fonte do KotlinLLM sob a licença Apache 2.0. O protótipo do plugin IntelliJ IDEA adiciona macros inteligentes, asLlm e mockLlm, cujos corpos são gerados…",
+      "link": "https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-31T10:32:53+00:00"
+    },
+    {
+      "id": "2167ef235c28abbf",
+      "title": "Nous Research envia três caminhos de integração para Hermes Agent e Buzz, espaço de trabalho Nostr de código aberto da Block para humanos e agentes",
+      "summary": "A Nous Research lançou o suporte do Hermes Agent para o Buzz, o espaço de trabalho Nostr auto-hospedado e de código aberto do Block, onde humanos e agentes de IA compartilham os mesmos canais. Três integração…",
+      "link": "https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-31T09:08:13+00:00"
+    },
+    {
       "id": "c9bcd4f73b0af001",
       "title": "Resumo do dia: IA, eleições, sucesso do iPhone e Anthropic vs OpenAI",
       "summary": "Apple tem no iPhone seu ator principal - mais uma vez. Enquanto isso, a Amazon tem como destaque o serviço de nuvem O post Resumo do dia: IA, eleições, sucesso do iPhone e…",
@@ -23,6 +144,39 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-31T07:33:27+00:00"
+    },
+    {
+      "id": "cd88270c00622daf",
+      "title": "Univé cria uma força de trabalho preparada para IA",
+      "summary": "Veja como a Univé construiu uma força de trabalho pronta para IA com ChatGPT Enterprise, combinando liderança, governança responsável e inovação liderada pelos funcionários para transformar o trabalho em grande escala.",
+      "link": "https://openai.com/index/unive",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-31T07:00:00+00:00"
+    },
+    {
+      "id": "d64554a0739c8050",
+      "title": "PolyAI lança Dialog-RSN-1: um modelo de diálogo nativo de áudio que combina turnos, reconhecimento de fala, chamada de função e resposta",
+      "summary": "A PolyAI introduziu o Dialog-RSN-1, um modelo de diálogo que percebe o áudio do chamador diretamente, em vez de ler uma transcrição ASR. Ele combina turnos, reconhecimento de fala, função…",
+      "link": "https://www.marktechpost.com/2026/07/30/polyai-releases-dialog-rsn-1-an-audio-native-dialog-model-that-fuses-turn-taking-speech-recognition-function-calling-and-response/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-31T05:06:43+00:00"
+    },
+    {
+      "id": "7e134ec8c0fac6f7",
+      "title": "Construindo um fluxo de trabalho de pesquisa financeira multiagente governado por políticas com Omnigent",
+      "summary": "Neste tutorial, demonstramos como construir e executar um fluxo de trabalho multiagente com Omnigent em um ambiente Python seguro e isolado. Aprenda a integrar a taxa de câmbio ao vivo…",
+      "link": "https://www.marktechpost.com/2026/07/30/building-a-policy-governed-multi-agent-financial-research-workflow-with-omnigent/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-31T04:44:12+00:00"
     },
     {
       "id": "8278d015a076a44c",
@@ -837,160 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-29T22:17:38+00:00"
-    },
-    {
-      "id": "7fa27db8b3a9a50c",
-      "title": "O ataque do Mythos ao candidato ao algoritmo PQC da terceira rodada o coloca fora de serviço",
-      "summary": "HAWK resistiu a anos de testes que ainda não haviam descoberto uma fraqueza fatal encontrada no Mythos.",
-      "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-29T22:07:06+00:00"
-    },
-    {
-      "id": "468470fbb93dcfc0",
-      "title": "5G x 6G: entenda o que realmente muda na próxima geração de internet móvel",
-      "summary": "O 6G promete ir além do aumento de velocidade ao integrar inteligência artificial, sensoriamento e novas formas de comunicação O post 5G x 6G: entenda o que realmente muda na…",
-      "link": "https://olhardigital.com.br/2026/07/29/internet-e-redes-sociais/5g-x-6g-entenda-o-que-realmente-muda-na-proxima-geracao-de-internet-movel/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/redes-moveis-1024x599.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-29T22:06:28+00:00"
-    },
-    {
-      "id": "4efbbdb7c9d72d55",
-      "title": "Mark Zuckerberg está planejando um grande impulso em agentes pessoais de IA",
-      "summary": "A Meta aposta totalmente na IA e, em breve, a empresa fará um grande avanço em agentes pessoais de IA que podem fazer coisas em seu nome. Na teleconferência de resultados do segundo trimestre de 2026 na quarta-feira ...",
-      "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-29T21:48:07+00:00"
-    },
-    {
-      "id": "9e9cd811ce7f7609",
-      "title": "Descubra o que vem por aí para a IA, desde o cálculo do SaaS até a lacuna de segurança do agente, no TechCrunch Disrupt 2026",
-      "summary": "No TechCrunch Disrupt 2026, o AI Stage está de volta para se aprofundar no tópico mais quente da comunidade nos últimos anos, apresentado pelo Google for Startups.",
-      "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-29T21:16:39+00:00"
-    },
-    {
-      "id": "cd3a9a73777f2803",
-      "title": "A cofundadora da Thinking Machines, Lilian Weng, deixou a empresa alegando motivos de saúde e depois ingressou na OpenAI",
-      "summary": "Weng atuou anteriormente como vice-presidente de pesquisa de segurança de IA na OpenAI.",
-      "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-29T21:07:48+00:00"
-    },
-    {
-      "id": "1d01fdd20f83e945",
-      "title": "A luta de última hora da xAI para impedir a lei anti-nudificação de aplicativos em Minnesota",
-      "summary": "A xAI está processando o procurador-geral de Minnesota, Keith Ellison, por causa de uma lei aprovada em maio que visa amplamente aplicativos de \"nudificação\", alegando que as disposições punitivas do estatuto deixam...",
-      "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-29T21:06:52+00:00"
-    },
-    {
-      "id": "b7cb1a9daf29fe64",
-      "title": "Óculos Ray-Ban da Meta ganham IA que pode ser controlada em silêncio",
-      "summary": "A Meta começou a liberar a versão 127 do software dos óculos inteligentes Ray-Ban Display com um novo recurso que permite controlar a inteligência artificial sem usar comandos de…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/oculos-ray-ban-da-meta-ganham-ia-que-pode-ser-controlada-em-silencio/",
-      "image": "https://tl.ctcdn.com.br/BQFX92m-eH_G63M5SgMl-5IXCro=/0x0/filters:format(webp):quality(85)/eec11305-7612-42c9-9bf1-11056fff2f71.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-29T21:02:00+00:00"
-    },
-    {
-      "id": "40a9f933c8df8060",
-      "title": "Quem ganha e quem perde depois que os EUA proíbem robôs estrangeiros?",
-      "summary": "A proibição governamental de robôs fabricados no exterior pode prejudicar, em vez de ajudar, a robótica dos EUA.",
-      "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Unitree-robots-boxing-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-29T20:03:42+00:00"
-    },
-    {
-      "id": "115cc8d504fdd2ea",
-      "title": "App do Gemini agora lê a tela do seu computador; veja como funciona",
-      "summary": "O Google anunciou uma atualização para o aplicativo Gemini no macOS que adiciona um modo de voz que consegue entender o que está sendo exibido na tela do computador. Com a…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/app-do-gemini-agora-le-a-tela-do-seu-computador-veja-como-funciona/",
-      "image": "https://tl.ctcdn.com.br/tjBQA4ujhm3uDttR-ohSYWwlneM=/0x0/filters:format(webp):quality(85)/6cfe8927-3376-4dd0-9a30-dc5cb4aa67f6.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-29T20:03:00+00:00"
-    },
-    {
-      "id": "6321a130900eab98",
-      "title": "A invasão do Hugging Face AI, contada por meio de uma metáfora de urso cada vez mais comprometida",
-      "summary": "Outra maneira de pensar sobre tudo isso é imaginar um urso em um acampamento. (Realmente, estamos indo para lá.)",
-      "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-29T19:44:49+00:00"
-    },
-    {
-      "id": "b8afb744722d594b",
-      "title": "ChatGPT abre caminho para exibir anúncios no Brasil; veja o que muda",
-      "summary": "O ChatGPT está cada vez mais próximo de mostrar anúncios no Brasil para contas gratuitas e assinantes do plano Go da plataforma. A OpenAI já começou a avisar usuários brasileiros…",
-      "link": "https://canaltech.com.br/apps/chat-gpt-abre-caminho-para-exibir-anuncios-no-brasil-veja-o-que-muda/",
-      "image": "https://tl.ctcdn.com.br/tZa4J4d7habSWtvz3yrs5mVaR5M=/0x0/filters:format(webp):quality(85)/129b37e9-7f67-4382-80a2-727dfc3d4fed.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-29T19:04:00+00:00"
-    },
-    {
-      "id": "8afcd5a2fb3a6d03",
-      "title": "Claude Opus 5 tornou-se totalmente implacável quando encarregado de operar uma máquina de venda automática",
-      "summary": "A mais recente simulação de máquina de venda automática do Andon Labs mostra que o Opus 5 mentiu e conspirou para se tornar o melhor capitalista de IA de todos os tempos.",
-      "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-29T18:45:27+00:00"
-    },
-    {
-      "id": "36991450940f4d98",
-      "title": "O modelo musical Lyria 3.5 do Google agora permite que os usuários editem seções individuais de faixas sem começar de novo",
-      "summary": "O Google lançou o Lyria 3.5, seu novo modelo de geração de música, e o incorporou ao Google Flow Music. O modelo gera trilhas entre 30 segundos e 3 minutos de duração. Um novo recurso…",
-      "link": "https://the-decoder.com/googles-lyria-3-5-music-model-now-lets-users-edit-individual-track-sections-without-starting-over/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/google_lyria_35.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-29T18:37:49+00:00"
-    },
-    {
-      "id": "fdbe2be606484447",
-      "title": "Apple pode atualizar linha HomePod após anos sem grandes mudanças",
-      "summary": "Dispositivos de casa inteligente devem receber chips mais potentes para suportar a nova Siri e recursos da Apple Intelligence. Apple pode atualizar linha HomePod após anos sem…",
-      "link": "https://tecnoblog.net/noticias/apple-pode-atualizar-linha-homepod-apos-anos-sem-grandes-mudancas/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/01/apple-homepod-3-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-29T18:25:19+00:00"
     }
   ]
 }
