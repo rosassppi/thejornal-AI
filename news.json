@@ -1,7 +1,172 @@
 {
-  "generated_at": "2026-07-30T19:23:44.666710+00:00",
+  "generated_at": "2026-07-31T02:40:47.978752+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "8278d015a076a44c",
+      "title": "Juíza diz que governo Trump não tem provas para classificar Anthropic como risco",
+      "summary": "Audiência integra um dos dois processos que a Anthropic abriu contra o Departamento de Defesa em março O post Juíza diz que governo Trump não tem provas para classificar Anthropic…",
+      "link": "https://olhardigital.com.br/2026/07/30/pro/juiza-diz-que-governo-trump-nao-tem-provas-para-classificar-anthropic-como-risco/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/anthropic-1-1024x585.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-31T01:24:48+00:00"
+    },
+    {
+      "id": "cd732c0d36e341c2",
+      "title": "Anthropic afirma que seus próprios modelos de IA violaram três empresas durante testes de segurança",
+      "summary": "Depois que os modelos da OpenAI invadiram o Hugging Face, a Anthropic verificou seu próprio histórico e encontrou três incidentes semelhantes",
+      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-31T01:06:54+00:00"
+    },
+    {
+      "id": "036587f9e002822b",
+      "title": "LinkedIn cria botão oficial para denunciar \"lixo de IA\" no feed",
+      "summary": "O LinkedIn começou a mostrar um botão para que usuários denunciem publicações que pareçam ser “AI slop” , termo usado para descrever conteúdos de baixa qualidade produzidos por…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/linked-in-cria-botao-oficial-para-denunciar-lixo-de-ia-no-feed/",
+      "image": "https://tl.ctcdn.com.br/bWKGptVJE3Y9Cygb7Il-w069elg=/0x0/filters:format(webp):quality(85)/90998953-9e15-4aea-890f-06a2b17e526d.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-31T00:03:00+00:00"
+    },
+    {
+      "id": "dc33b969781ee680",
+      "title": "Efeito OpenAI: Anthropic diz que IA invadiu sistemas de três empresas",
+      "summary": "Segundo a companhia, os incidentes ocorreram sem que a empresa percebesse e começaram em abril O post Efeito OpenAI: Anthropic diz que IA invadiu sistemas de três empresas…",
+      "link": "https://olhardigital.com.br/2026/07/30/seguranca/efeito-openai-anthropic-diz-que-ia-invadiu-sistemas-de-tres-empresas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/anthropic-1-1024x585.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-30T23:55:16+00:00"
+    },
+    {
+      "id": "99a421bd1fdc9cc6",
+      "title": "O fundo de hedge de IA Situational Awareness pode ter vendido sua carteira pública, mas ainda tem suas ações da Antrópica",
+      "summary": "O fundo do ex-pesquisador da OpenAI foi forçado a desfazer as ações públicas depois que as apostas públicas alavancadas despencaram. Mas ele ainda tem cartas para jogar.",
+      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-30T23:25:58+00:00"
+    },
+    {
+      "id": "cbf630d728ea658a",
+      "title": "Reddit relata um trimestre sólido, mas mostra sinais do impacto da IA",
+      "summary": "A situação financeira do Reddit parece boa, mas a incerteza sobre seu relacionamento com o Google e a nova web AI-ified está despertando preocupações no mercado.",
+      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-30T23:08:58+00:00"
+    },
+    {
+      "id": "8184269ba1efd95a",
+      "title": "OpenAI corta preço de IA recém-lançada para rivalizar com modelos chineses",
+      "summary": "GPT-5.6 Terra e Luna têm reduções de preços de até 80%. Gastos com tokens causam preocupação no mercado corporativo. OpenAI corta preço de IA recém-lançada para rivalizar com…",
+      "link": "https://tecnoblog.net/noticias/openai-corta-preco-de-ia-recem-lancada-para-rivalizar-com-modelos-chineses/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-1_capa-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-30T23:02:40+00:00"
+    },
+    {
+      "id": "b51a58672076c66a",
+      "title": "Os investidores adoram IA, desde que você seja um host na nuvem",
+      "summary": "A Amazon não está diminuindo os gastos com data centers – mas os investidores não parecem se importar.",
+      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-30T22:41:41+00:00"
+    },
+    {
+      "id": "7e27e30e057a78c3",
+      "title": "Tim Cook sugere o nível iCloud Plus para usuários avançados de IA",
+      "summary": "A Apple pode permitir que os usuários paguem para aumentar seus limites de uso de IA. Durante uma teleconferência de resultados na quinta-feira, o CEO da Apple, Tim Cook, disse acreditar que as pessoas vão querer usar a Apple…",
+      "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2280563832.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-30T22:29:45+00:00"
+    },
+    {
+      "id": "857f8f1a8220914c",
+      "title": "Copilot vai virar 'super app' integrado diretamente ao Windows 11",
+      "summary": "A Microsoft confirmou que está desenvolvendo um “super app” para o Copilot , plataforma que reunirá em um aplicativo as principais experiências de inteligência artificial da…",
+      "link": "https://canaltech.com.br/apps/copilot-vai-virar-super-app-integrado-diretamente-ao-windows-11/",
+      "image": "https://tl.ctcdn.com.br/oRbiidGhYE_9i39Qf_C1yOvnRuU=/0x0/filters:format(webp):quality(85)/0b953104-9295-49c6-97d4-b6fb66c45ee6.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-30T21:05:00+00:00"
+    },
+    {
+      "id": "cc7448ef4b1d255a",
+      "title": "A perda da consciência situacional",
+      "summary": "Não sou de forma alguma um especialista em finanças, mas acho que agora tenho alguns conselhos para as pessoas que o são: não dê ao seu fundo de hedge um nome que possa ser hilário se ele explodir…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKS522_AGI_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-30T20:46:25+00:00"
+    },
+    {
+      "id": "c5b1dff496d9a18c",
+      "title": "O juiz diz que o administrador de Trump ainda não tem evidências para o rótulo de ‘risco da cadeia de suprimentos’ da Antrópico",
+      "summary": "Um juiz federal disse que a administração Trump não apresentou provas suficientes para justificar rotular o Antrópico como um risco para a cadeia de abastecimento, lançando dúvidas sobre a proibição do governo à sua IA…",
+      "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-30T20:26:38+00:00"
+    },
+    {
+      "id": "44b85c22a40d6d9a",
+      "title": "IA da Anthropic expõe centenas de bugs críticos na Microsoft",
+      "summary": "A inteligência artificial Claude Mythos Preview, desenvolvida pela Anthropic, está encontrando falhas de segurança em softwares da Microsoft num ritmo mais rápido do que a empresa…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/ia-da-anthropic-expoe-centenas-de-bugs-criticos-na-microsoft/",
+      "image": "https://tl.ctcdn.com.br/4NJfbjM-aG5a8wu74ug2PT73Q7U=/0x0/filters:format(webp):quality(85)/1b35b984-2944-4b06-a04f-41c767024bd9.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-30T20:00:00+00:00"
+    },
+    {
+      "id": "ccd32bf68aa72743",
+      "title": "Amigo, o solitário wearable de IA, retorna com uma nova voz e um preço muito maior",
+      "summary": "Friend, o wearable de IA, agora pode conversar com seus usuários – por um preço melhor.",
+      "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-30T19:44:16+00:00"
+    },
+    {
+      "id": "056c6ee764af32b9",
+      "title": "O Chrome pode obter atualizações mais rápidas sem necessidade de reinicialização",
+      "summary": "As duas últimas versões do Chrome incluíram mais patches do que as 23 anteriores juntas.",
+      "link": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Chrome-shield-500x500.png",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-30T19:26:56+00:00"
+    },
     {
       "id": "a8eb2f72faeb146e",
       "title": "IA de Elon Musk processa estado dos EUA para continuar gerando nudes",
@@ -144,6 +309,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-07-30T17:50:11+00:00"
+    },
+    {
+      "id": "006617fdef4bea37",
+      "title": "Google DeepMind envia três modelos físicos de IA para controle de corpo inteiro, destreza e colaboração com vários robôs",
+      "summary": "O Google DeepMind lançou o Gemini Robotics 2, a camada de inteligência para sua próxima geração de robôs. O lançamento traz três modelos: um modelo de visão-linguagem-ação para todo…",
+      "link": "https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-30T17:20:50+00:00"
     },
     {
       "id": "59d1112174bf62f0",
@@ -575,6 +751,17 @@
       "published_at": "2026-07-30T00:21:06+00:00"
     },
     {
+      "id": "da425c76a8c018d0",
+      "title": "Como a avatarin construiu um agente de varejo 24 horas por dia, 7 dias por semana com GPT-Realtime",
+      "summary": "avatarin usa GPT-Realtime da OpenAI para oferecer aos compradores da Yamada Denki suporte multilíngue 24 horas por dia, 7 dias por semana. Em duas semanas, 30 mil pessoas usaram o agente e 92% das respostas da pesquisa foram positivas.",
+      "link": "https://openai.com/index/avatarin",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-30T00:00:00+00:00"
+    },
+    {
       "id": "52c406b7f270d72c",
       "title": "O que é o Pacing the Frontier, iniciativa que quer controlar o avanço da IA",
       "summary": "Movimento reúne mais de 1.200 funcionários de empresas como OpenAI, Google, Meta e Anthropic para defender mecanismos internacionais de governança para a inteligência artificial O…",
@@ -804,193 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-29T17:58:24+00:00"
-    },
-    {
-      "id": "16381081057e108f",
-      "title": "Depois da euforia, mercado cobra resultados da revolução da IA",
-      "summary": "Empresas de chips perdem trilhões em valor de mercado após investidores revisarem expectativas sobre gastos e crescimento da inteligência artificial O post Depois da euforia…",
-      "link": "https://olhardigital.com.br/2026/07/29/inteligencia-artificial/depois-da-euforia-mercado-cobra-resultados-da-revolucao-da-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/chips-2-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-29T17:47:09+00:00"
-    },
-    {
-      "id": "55b7e773dee88ee2",
-      "title": "A PwC supostamente publicou relatórios gerados por IA contendo fontes falsas ou fabricadas",
-      "summary": "Seguindo a KPMG, a Deloitte e a Ernst & Young, a GPTZero encontrou agora fontes fabricadas e alegações falsas em quatro relatórios da PwC no Médio Oriente. Um relatório de governança obteve 84 por cento…",
-      "link": "https://the-decoder.com/pwc-has-allegedly-published-ai-generated-reports-containing-false-or-fabricated-sources/",
-      "image": "https://the-decoder.com/wp-content/uploads/2023/08/chatgpt_office-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-29T17:44:18+00:00"
-    },
-    {
-      "id": "2b666ccd6fadc621",
-      "title": "Você pode estar sendo espionado por óculos inteligentes; entenda o risco",
-      "summary": "Óculos inteligentes estão ficando mais comuns, especialmente entre criadores de conteúdo que usam os aparelhos para gravar conteúdo para redes sociais, mas usuários…",
-      "link": "https://canaltech.com.br/produtos/voce-pode-estar-sendo-espionado-por-oculos-inteligentes-entenda-o-risco/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-29T17:25:47+00:00"
-    },
-    {
-      "id": "f5ede5dc074f57d1",
-      "title": "Pangram diz que seu novo detector de texto AI comete apenas um erro a cada 24.000 documentos",
-      "summary": "O Pangram 4 detecta 99,66% do texto gerado por IA com apenas um falso positivo a cada 24.000 documentos, afirma a empresa. O modelo também resiste a ferramentas “humanizadoras” que disfarçam…",
-      "link": "https://the-decoder.com/pangram-says-its-new-ai-text-detector-makes-only-one-mistake-per-24000-documents/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/pangram_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-29T17:16:53+00:00"
-    },
-    {
-      "id": "ab9618b282154d61",
-      "title": "Sem caixa para contratar, MEIs usam IA como ‘primeiro funcionário’",
-      "summary": "De padarias a startups de tecnologia, ferramentas de automação cobrem diversas funções – mas ainda precisam de supervisão humana O post Sem caixa para contratar, MEIs usam IA como…",
-      "link": "https://olhardigital.com.br/2026/07/29/pro/sem-caixa-para-contratar-meis-usam-ia-como-primeiro-funcionario/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/IA-no-trabalho-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-29T17:14:35+00:00"
-    },
-    {
-      "id": "3b76e4dd5c2871c8",
-      "title": "Echo Dot em destaque: veja uma seleção de smart speakers com Alexa em promoção",
-      "summary": "Se você está pensando em montar ou expandir sua casa inteligente, este é um bom momento para dar uma olhada nas opções de smart speakers com Alexa disponíveis na Amazon. Reunimos…",
-      "link": "https://olhardigital.com.br/2026/07/29/reviews/echo-dot-em-destaque-veja-uma-selecao-de-smart-speakers-com-alexa-em-promocao/",
-      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-29T17:00:00+00:00"
-    },
-    {
-      "id": "bf153bda43e6b9d3",
-      "title": "Google desmonta projeto vencedor do Nobel para focar no Gemini, diz jornal",
-      "summary": "Pesquisadores responsáveis por trabalho científico envolvendo IA e proteínas foram realocados para outros projetos ou saíram da empresa. Google desmonta projeto vencedor do Nobel…",
-      "link": "https://tecnoblog.net/noticias/google-desmonta-projeto-vencedor-do-nobel-para-focar-no-gemini-diz-jornal/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/ac-tqqzasug.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-29T16:51:13+00:00"
-    },
-    {
-      "id": "a1cd3778d6eb40eb",
-      "title": "OpenAI admite que seus modelos autônomos de IA também comprometeram credenciais em outras plataformas durante avaliação de segurança",
-      "summary": "Durante uma avaliação de segurança, os modelos de hackers autônomos da OpenAI invadiram o Hugging Face e usaram credenciais expostas em outros quatro serviços. Abraçando o rosto reconstruído sobre…",
-      "link": "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_glitchy_blip.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-29T16:26:56+00:00"
-    },
-    {
-      "id": "8d64f2976b053b80",
-      "title": "Vivo quer colocar agentes de IA no atendimento telefônico",
-      "summary": "Operadora iniciará projeto piloto em setembro com agentes virtuais por voz. Vivo quer colocar agentes de IA no atendimento telefônico",
-      "link": "https://tecnoblog.net/noticias/vivo-quer-colocar-agentes-de-ia-no-atendimento-telefonico/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/04/vivo-celular-capa-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-29T16:14:20+00:00"
-    },
-    {
-      "id": "3cab23c5cde4a014",
-      "title": "Protótipo vazado do RTX Spark revela desempenho abaixo do esperado em games",
-      "summary": "A NVIDIA promete revolucionar o mercado de AI PCs (leia-se notebooks para IA) com a RTX Spark , SoC equipado com núcleos Arm e gráficos Blackwell. Um usuário do fórum do…",
-      "link": "https://canaltech.com.br/hardware/prototipo-vazado-do-rtx-spark-revela-desempenho-abaixo-do-esperado-em-games/",
-      "image": "https://tl.ctcdn.com.br/c7kA7f21EpecGq8NoTr58Ri2e7g=/0x0/filters:format(webp):quality(85)/a3fea603-5388-4cef-816e-343dd1e7ba89.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-29T16:09:00+00:00"
-    },
-    {
-      "id": "a129e424a2286e7c",
-      "title": "A Anthropic está encontrando bugs mais rápido do que a Microsoft consegue corrigi-los",
-      "summary": "A Microsoft está em uma corrida louca nos bastidores para corrigir explorações antes que os hackers as encontrem.",
-      "link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-29T15:52:48+00:00"
-    },
-    {
-      "id": "0acedc11fc37dffa",
-      "title": "Hint, uma nova startup de IA cofundada por Martha Stewart, oferece um assistente de IA para proprietários de casas",
-      "summary": "A startup de gerenciamento residencial de IA Hint, cofundada por Martha Stewart, quer se tornar uma “IA para sua casa”, combinando registros de propriedade, cronogramas de manutenção, documentos domésticos e uma IA…",
-      "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-29T15:35:09+00:00"
-    },
-    {
-      "id": "bcf4caeb9ed4a4ca",
-      "title": "IA da OpenAI invadiu servidor de outra empresa após fugir de teste",
-      "summary": "Sistema explorou credenciais expostas e um servidor vulnerável para ampliar o ataque, alcançando serviços além da Hugging Face. IA da OpenAI invadiu servidor de outra empresa após…",
-      "link": "https://tecnoblog.net/noticias/ia-da-openai-invadiu-servidor-de-outra-empresa-apos-fugir-de-teste/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-4_capa-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-29T15:24:15+00:00"
-    },
-    {
-      "id": "265c6a0134aba9b6",
-      "title": "Como a ativação de duas configurações triplicou nossas pontuações no benchmark ARC-AGI-3",
-      "summary": "Como duas configurações de API melhoraram o desempenho do GPT-5.6 no ARC-AGI-3, aumentando as pontuações e a eficiência ao reter o raciocínio e permitir a compactação.",
-      "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-29T15:00:00+00:00"
-    },
-    {
-      "id": "890b0fa9dd36a38c",
-      "title": "Funcionário da Perplexity que trabalhou no Comet lança um navegador de IA voltado para o trabalho do conhecimento",
-      "summary": "A Polar lançou um navegador com IA voltado para trabalhadores do conhecimento e agora levantou uma rodada inicial de US$ 5,7 milhões liderada por Madrona.",
-      "link": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-29T15:00:00+00:00"
-    },
-    {
-      "id": "39747691192bec33",
-      "title": "Encore AI arrecada US$ 30 milhões para construir agentes de IA que aprendam com as ligações dos clientes",
-      "summary": "A startup analisa chamadas, mensagens e dados de CRM para identificar técnicas de vendas eficazes e transformá-las em manuais para agentes de IA.",
-      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-29T14:41:06+00:00"
-    },
-    {
-      "id": "0b27120be6db3f63",
-      "title": "IA descontrolada da OpenAI invadiu outros serviços além do Hugging Face",
-      "summary": "Um agente de inteligência artificial da OpenAI que escapou de um ambiente de testes não comprometeu apenas a Hugging Face. A empresa revelou que o sistema invadiu quatro contas em…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-descontrolada-da-open-ai-invadiu-outros-servicos-alem-do-hugging-face/",
-      "image": "https://tl.ctcdn.com.br/PFasPw4OE6fNEvU9TANEkkHk8bI=/0x0/filters:format(webp):quality(85)/43573d7e-5b1b-4d82-be80-77c9c21b0816.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-29T14:31:00+00:00"
     }
   ]
 }
