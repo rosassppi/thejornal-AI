@@ -1,17 +1,138 @@
 {
-  "generated_at": "2026-07-31T19:22:44.880050+00:00",
+  "generated_at": "2026-08-01T02:38:48.602008+00:00",
   "total": 90,
   "items": [
     {
-      "id": "ff7c1653ce2eb767",
-      "title": "Interrompendo uma operação criminosa fraudulenta",
-      "summary": "A OpenAI interrompeu uma operação fraudulenta baseada no Camboja usando ChatGPT para apoiar esquemas de investimento, romance, jogos de azar e falsificação de identidade.",
-      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "id": "5428b12008897066",
+      "title": "Como os buracos negros supermassivos crescem? IA encontra novas pistas",
+      "summary": "Equipe de pesquisadores acredita ter encontrado novas pistas para responder a essa pergunta com a ajuda da IA O post Como os buracos negros supermassivos crescem? IA encontra…",
+      "link": "https://olhardigital.com.br/2026/07/31/ciencia-e-espaco/como-os-buracos-negros-supermassivos-crescem-ia-encontra-novas-pistas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/quasar-1024x576.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-01T01:55:34+00:00"
+    },
+    {
+      "id": "bf7d3b1cd0664b53",
+      "title": "USP e 99 anunciam parceria para pesquisas em IA no Brasil",
+      "summary": "Iniciativa prevê estudos voltados à melhoria da experiência do usuário e aos impactos da IA na organização do trabalho O post USP e 99 anunciam parceria para pesquisas em IA no…",
+      "link": "https://olhardigital.com.br/2026/07/31/pro/usp-e-99-anunciam-parceria-para-pesquisas-em-ia-no-brasil/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/usp_bandeira-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-01T01:32:41+00:00"
+    },
+    {
+      "id": "5be9675d2a970747",
+      "title": "Samsung alerta que IA pode deixar celulares e PCs mais caros até 2028",
+      "summary": "Escassez global de chips de memória RAM deve se intensificar em 2027 e continuar pelo menos até 2028 O post Samsung alerta que IA pode deixar celulares e PCs mais caros até 2028…",
+      "link": "https://olhardigital.com.br/2026/07/31/pro/samsung-alerta-que-ia-pode-deixar-celulares-e-pcs-mais-caros-ate-2028/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/01/chips-memoria-1024x684.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-01T00:43:47+00:00"
+    },
+    {
+      "id": "2183d9644fb5d67f",
+      "title": "Confira o Olhar Digital News na íntegra (31/07/2026)",
+      "summary": "Veja os destaques do Olhar Digital News desta sexta-feira (31/07). OpenAI e Anthropic explicam falhas antes da nova Lei de IA Sistemas de inteligência artificial da OpenAI e da…",
+      "link": "https://olhardigital.com.br/2026/07/31/videos/confira-o-olhar-digital-news-na-integra-31-07-2026/",
       "image": null,
-      "source": "OpenAI",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-01T00:22:25+00:00"
+    },
+    {
+      "id": "317cdc3de19552d0",
+      "title": "A OpenAI supostamente encontra evidências de que mais de seus agentes ficaram descontrolados",
+      "summary": "A OpenAI supostamente encontrou evidências de mau comportamento adicional do agente ao analisar o incidente que ocorreu com Hugging Face.",
+      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "image": null,
+      "source": "TechCrunch",
       "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-04T00:00:00+00:00"
+      "category": "Produtos",
+      "published_at": "2026-07-31T22:47:26+00:00"
+    },
+    {
+      "id": "8ada30c1204645f5",
+      "title": "O Vale do Silício adora jovens fundadores. Até que isso não aconteça.",
+      "summary": "As ferramentas de IA democratizaram a oportunidade de construção, encurtando os prazos de sucesso e permitindo que mais jovens iniciassem empresas de sucesso sem pisar nelas…",
+      "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-31T22:00:00+00:00"
+    },
+    {
+      "id": "b95b57544860edce",
+      "title": "Reddit mantém viva sua estranha luta DMCA pelos resultados de pesquisa do Google",
+      "summary": "Reddit avança com processo acusando Perplexity AI de conspirar com web scraper.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2218358312-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-31T21:19:39+00:00"
+    },
+    {
+      "id": "6c03d00c607159cd",
+      "title": "Claude publicou código malicioso na Internet e atacou 3 empresas reais",
+      "summary": "Se os hackers tivessem usado métodos convencionais, alguém provavelmente iria para a prisão.",
+      "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/robot-in-handcuffs-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-31T20:39:14+00:00"
+    },
+    {
+      "id": "37f8a41951eadd69",
+      "title": "O Google Earth arriscou a ruína com a ferramenta de IA retraída para fazer fotos falsas de satélite",
+      "summary": "“O que diabos o Google está fazendo?” O medo da desinformação estimula o retrocesso da ferramenta de IA.",
+      "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Google-Earth-AI-generated-image-of-Googleplex-on-fire-500x500.png",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-07-31T20:21:05+00:00"
+    },
+    {
+      "id": "24e7124fb2c26ac1",
+      "title": "Google remove IA para criar imagens no Earth um dia após lançamento",
+      "summary": "Ferramenta usava Nano Banana 2 e imagens de satélite nas criações. Recurso foi criticado por facilitar disseminação de informações falsas. Google remove IA para criar imagens no…",
+      "link": "https://tecnoblog.net/noticias/google-remove-ia-para-criar-imagens-no-earth-um-dia-apos-lancamento/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/image-44-edited-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-31T20:18:19+00:00"
+    },
+    {
+      "id": "2949f791f4aeb2b4",
+      "title": "ChatGPT agora assiste e responde sobre vídeos do YouTube no seu navegador",
+      "summary": "A OpenAI lançou uma atualização que integra ainda mais o ChatGPT ao navegador . Agora, a inteligência artificial consegue analisar vídeos do YouTube e responder perguntas sobre…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chat-gpt-agora-assiste-e-responde-sobre-videos-do-you-tube-no-seu-navegador/",
+      "image": "https://tl.ctcdn.com.br/3AeaemFrcbkemnCDiHtgWvJQyBE=/0x0/filters:format(webp):quality(85)/8f651e34-1484-42dc-95a0-018035689f63.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-07-31T20:13:00+00:00"
+    },
+    {
+      "id": "025855eb9f0e7a95",
+      "title": "O Google cancela seu recurso Earth AI um dia após o lançamento, em meio a críticas de que espalharia informações erradas",
+      "summary": "Uma ferramenta que permitiu a qualquer pessoa gerar imagens falsas geradas por IA e sobrepô-las a mapas reais do Google Earth rapidamente gerou reações adversas.",
+      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-07-31T19:47:28+00:00"
     },
     {
       "id": "a503f2e2beff190f",
@@ -553,6 +674,17 @@
       "published_at": "2026-07-31T00:03:00+00:00"
     },
     {
+      "id": "ff7c1653ce2eb767",
+      "title": "Interrompendo uma operação criminosa fraudulenta",
+      "summary": "A OpenAI interrompeu uma operação fraudulenta baseada no Camboja usando ChatGPT para apoiar esquemas de investimento, romance, jogos de azar e falsificação de identidade.",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-07-31T00:00:00+00:00"
+    },
+    {
       "id": "dc33b969781ee680",
       "title": "Efeito OpenAI: Anthropic diz que IA invadiu sistemas de três empresas",
       "summary": "Segundo a companhia, os incidentes ocorreram sem que a empresa percebesse e começaram em abril O post Efeito OpenAI: Anthropic diz que IA invadiu sistemas de três empresas…",
@@ -859,138 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-30T17:04:54+00:00"
-    },
-    {
-      "id": "8b68aa327093910c",
-      "title": "Big Techs pedem ajuda para frear IAs antes que seja tarde demais",
-      "summary": "Mais de mil funcionários das principais empresas de inteligência artificial do mundo assinaram uma petição pedindo que o governo dos Estados Unidos ajude a desacelerar…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/big-techs-pedem-ajuda-para-frear-ias-antes-que-seja-tarde-demais/",
-      "image": "https://tl.ctcdn.com.br/28DMqV8TGvohJkaqdqNGus4tvko=/0x0/filters:format(webp):quality(85)/c0894921-89f1-4bcc-a078-5f7449ea56f6.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-30T17:00:00+00:00"
-    },
-    {
-      "id": "ae4bd0d754f45cce",
-      "title": "Friend relança seu pingente de IA com um alto-falante que fala com você, pelo dobro do preço",
-      "summary": "Você se lembra do amigo? O Amigo que lançou um pingente de IA, gastou US$ 1,8 milhão de seus US$ 2,5 milhões em financiamento para adquirir o friend.com e encheu o metrô de Nova York com anúncios…",
-      "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25777487/millennial_explorer_a_comp_v004.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-30T16:33:32+00:00"
-    },
-    {
-      "id": "87a3a79f1a260cb8",
-      "title": "Spotify lança Modo Corrida com IA para personalizar treinos",
-      "summary": "Exclusivo para assinantes Premium, recurso adapta playlists de acordo com o tipo de exercício. Novidade não está disponível no Brasil. Spotify lança Modo Corrida com IA para…",
-      "link": "https://tecnoblog.net/noticias/spotify-lanca-modo-corrida-com-ia-para-personalizar-treinos/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/05/spotify_capa-2_tb-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-30T16:13:04+00:00"
-    },
-    {
-      "id": "e14fee60f0066965",
-      "title": "Okta compra startup de segurança de IA Permiso; fonte diz por cerca de US $ 200 milhões",
-      "summary": "O acordo oferece à Okta recursos de detecção de ameaças de identidade à medida que as empresas buscam proteger agentes de IA e outras identidades não humanas em ambientes de nuvem.",
-      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-30T16:09:42+00:00"
-    },
-    {
-      "id": "594dcff815cb9025",
-      "title": "Galaxy Watch 8 Classic tem menor preço histórico na Amazon para Dia dos Pais",
-      "summary": "Galaxy Watch 8 Classic com design clássico, tela AMOLED e recursos de IA atinge o menor preço histórico, com desconto de 60% no Pix em oferta do Dia dos Pais 2026 Galaxy Watch 8…",
-      "link": "https://tecnoblog.net/achados/galaxy-watch-8-classic-tem-menor-preco-historico-na-amazon-para-dia-dos-pais/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/ukunaxh68o-10.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-30T16:06:52+00:00"
-    },
-    {
-      "id": "1d6d08d673949944",
-      "title": "Microsoft vai lançar super app para unificar recursos do Copilot",
-      "summary": "Agentes de IA, plataforma colaborativa de trabalho e gerador de códigos de programação serão integrados ao chatbot em um só aplicativo. Microsoft vai lançar super app para…",
-      "link": "https://tecnoblog.net/noticias/microsoft-vai-lancar-super-app-para-unificar-recursos-do-copilot/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/11/capa-copilot-1-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-30T15:52:45+00:00"
-    },
-    {
-      "id": "dd41e159b14dfec4",
-      "title": "Meta diz que a IA está facilitando a criação de novos aplicativos – e mais estão por vir",
-      "summary": "Meta diz que a IA está tornando muito mais fácil construir e lançar novos aplicativos de consumo, com o CEO Mark Zuckerberg dizendo aos investidores que a empresa tem mais novos produtos de consumo no…",
-      "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-30T15:41:16+00:00"
-    },
-    {
-      "id": "c523c5089a3dc568",
-      "title": "Nscale compra Anyscale enquanto busca possuir mais pilha de computação de IA",
-      "summary": "A britânica AI neocloud Nscale está comprando a startup de software Anyscale, que ajuda as empresas a dimensionar suas cargas de trabalho de IA em data centers e servidores.",
-      "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-30T15:19:15+00:00"
-    },
-    {
-      "id": "859cdcef3df01ae8",
-      "title": "Gerenciamento de GPU: Por que as GPUs ociosas são a nova aeronave aterrada",
-      "summary": "",
-      "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-30T15:09:09+00:00"
-    },
-    {
-      "id": "6b7816abacebb9e1",
-      "title": "Novo anel mede glicemia sem furar seu dedo; veja como funciona",
-      "summary": "Engenheiros da Universidade da Califórnia em San Diego (UC San Diego) desenvolveram um anel inteligente capaz de monitorar marcadores químicos do suor humano. O grande diferencial…",
-      "link": "https://canaltech.com.br/produtos/novo-anel-mede-glicemia-sem-furar-seu-dedo-veja-como-funciona/",
-      "image": "https://tl.ctcdn.com.br/HJTIq-pU5SdIcnRNwv5uSbAthDs=/0x0/filters:format(webp):quality(85)/6978c473-867a-4ac4-82f8-822e88f9c8ef.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-30T15:06:51+00:00"
-    },
-    {
-      "id": "a31ea2c91e4f9de0",
-      "title": "Engenheiros destacados são a mais recente obsessão por talentos da indústria de IA",
-      "summary": "Um novo estudo estima que apenas 2.000 engenheiros dos EUA têm o conhecimento necessário para fornecer um ROI significativo de IA, à medida que as empresas correm para contratar engenheiros destacados para implementar IA em escala.",
-      "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-30T15:00:00+00:00"
-    },
-    {
-      "id": "ab01e16e4b3d883c",
-      "title": "A nova especificação MCP aborda a principal barreira à adoção empresarial",
-      "summary": "Além disso, uma nova política para o protocolo AI garante que os recursos não sejam removidos repentinamente.",
-      "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/MCP-logo-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-30T14:53:07+00:00"
     }
   ]
 }
