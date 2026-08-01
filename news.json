@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T02:38:48.602008+00:00",
+  "generated_at": "2026-08-01T08:17:46.142741+00:00",
   "total": 90,
   "items": [
     {
@@ -47,6 +47,17 @@
       "published_at": "2026-08-01T00:22:25+00:00"
     },
     {
+      "id": "e299630b866e2d7e",
+      "title": "Dez avanços em matemática e ciência da computação teórica",
+      "summary": "OpenAI compartilha novos resultados sobre problemas abertos de longa data em matemática e ciência da computação teórica, incluindo avanços em geometria, criptografia e complexidade.",
+      "link": "https://openai.com/index/ten-advances-in-mathematics",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-01T00:00:00+00:00"
+    },
+    {
       "id": "317cdc3de19552d0",
       "title": "A OpenAI supostamente encontra evidências de que mais de seus agentes ficaram descontrolados",
       "summary": "A OpenAI supostamente encontrou evidências de mau comportamento adicional do agente ao analisar o incidente que ocorreu com Hugging Face.",
@@ -56,6 +67,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-07-31T22:47:26+00:00"
+    },
+    {
+      "id": "04f4038641da26dc",
+      "title": "DeepSeek atualiza DeepSeek-V4-Flash-0731 com grandes ganhos de agente e codificação",
+      "summary": "DeepSeek publicou DeepSeek-V4-Flash-0731 no Hugging Face e moveu a API V4-Flash oficial para beta público em 31 de julho de 2026. O cartão de modelo é explícito que este é o…",
+      "link": "https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-31T22:03:39+00:00"
     },
     {
       "id": "8ada30c1204645f5",
@@ -89,6 +111,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-31T20:39:14+00:00"
+    },
+    {
+      "id": "e71c9cf7710f9e86",
+      "title": "Tutorial LingBot-Map: Inferência com reconhecimento de GPU e exportação de nuvem de pontos",
+      "summary": "Descubra como implementar um pipeline de reconstrução 3D de streaming usando LingBot-Map. Desde configuração e pré-processamento com reconhecimento de GPU até inferência de modelo GCTStream e nuvem de pontos…",
+      "link": "https://www.marktechpost.com/2026/07/31/lingbot-map-tutorial-gpu-aware-inference-and-point-cloud-export/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-07-31T20:27:13+00:00"
     },
     {
       "id": "37f8a41951eadd69",
@@ -958,39 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-07-30T17:50:11+00:00"
-    },
-    {
-      "id": "006617fdef4bea37",
-      "title": "Google DeepMind envia três modelos físicos de IA para controle de corpo inteiro, destreza e colaboração com vários robôs",
-      "summary": "O Google DeepMind lançou o Gemini Robotics 2, a camada de inteligência para sua próxima geração de robôs. O lançamento traz três modelos: um modelo de visão-linguagem-ação para todo…",
-      "link": "https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-30T17:20:50+00:00"
-    },
-    {
-      "id": "59d1112174bf62f0",
-      "title": "O novo modelo de IA do Google DeepMind pode controlar todo o corpo de um robô",
-      "summary": "O Google DeepMind afirma que a versão mais recente de seu modelo Gemini Robotics AI pode “controlar robôs humanóides inteiros”. Enquanto o modelo anterior se concentrava no controle de um robô humanóide…",
-      "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-30T17:18:45+00:00"
-    },
-    {
-      "id": "50eb3b810532d684",
-      "title": "Samsung registra 1º prejuízo em sua história devido à crise causada pela IA",
-      "summary": "A Samsung registrou pela primeira vez um prejuízo em sua divisão de dispositivos móveis, reflexo direto da alta nos preços dos componentes de memória provocada pela explosão da…",
-      "link": "https://canaltech.com.br/smartphone/samsung-registra-1-prejuizo-em-sua-historia-devido-a-crise-causada-pela-ia/",
-      "image": "https://tl.ctcdn.com.br/sMwtPypVyKSiS5VIuIT_blHQ_ZY=/0x0/filters:format(webp):quality(85)/c7a91c8d-82fc-4f4c-8dd9-c254e9941cc8.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-30T17:04:54+00:00"
     }
   ]
 }
