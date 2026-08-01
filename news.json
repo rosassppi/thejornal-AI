@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-08-01T08:17:46.142741+00:00",
+  "generated_at": "2026-08-01T13:17:00.294073+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "b778f0f608451ef4",
+      "title": "Como o Gemini pode deixar seu celular Galaxy ainda mais inteligente",
+      "summary": "Se você usa um celular Samsung Galaxy, vale a pena integrar o Google Gemini aos aplicativos nativos do aparelho . Com a conexão ativada, o Gemini consegue interagir com alguns dos…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-gemini-pode-deixar-celular-galaxy-mais-inteligente/",
+      "image": "https://tl.ctcdn.com.br/GuBi7rrocr7-cGS04kggd2p1WbE=/0x0/filters:format(webp):quality(85)/c006ca1d-9cf8-493d-ab7e-94e8acda68aa.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-01T12:32:00+00:00"
+    },
+    {
+      "id": "95479df8c51f5ad8",
+      "title": "À medida que as ações do Reddit caem, o CEO questiona o valor das visões gerais de IA do Google",
+      "summary": "O Reddit ainda pode estar considerando encerrar seu acordo de licenciamento com o Google.",
+      "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/04/GettyImages-893877316-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-01T12:30:36+00:00"
+    },
+    {
+      "id": "8b47a6271278bc26",
+      "title": "Lei da IA entra em vigor amanhã na União Europeia; o que muda?",
+      "summary": "Nova etapa do AI Act começa a valer em 2 de agosto com regras para modelos de IA e exigências de transparência O post Lei da IA entra em vigor amanhã na União Europeia; o que…",
+      "link": "https://olhardigital.com.br/2026/08/01/inteligencia-artificial/ai-act-entra-em-vigor-amanha-na-uniao-europeia-veja-o-que-muda/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/ia-ue-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-01T12:29:37+00:00"
+    },
+    {
+      "id": "387117207c7598f4",
+      "title": "Tribunal alemão determina que o gerador de música AI Suno violou direitos autorais e rejeita defesa de uso justo",
+      "summary": "Um tribunal de Munique decidiu que o gerador de música AI Suno violou os direitos autorais tanto no treinamento quanto na produção. O tribunal encontrou seis músicas armazenadas de forma reproduzível nos modelos de Suno e rejeitou…",
+      "link": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/ai_music_generator_law.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-01T10:40:50+00:00"
+    },
+    {
+      "id": "10b42b2a90ace424",
+      "title": "Supabase lança Evals: um benchmark de código aberto que avalia Claude Code, Codex e OpenCode em tarefas reais da Supabase",
+      "summary": "Supabase possui supabase/evals de código aberto, um benchmark e estrutura Apache-2.0 que executa agentes de codificação, incluindo Claude Code, Codex e OpenCode em tarefas reais de Supabase -…",
+      "link": "https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-01T09:52:49+00:00"
+    },
+    {
+      "id": "bb0d6e602ff9a7f1",
+      "title": "OpenAI anuncia seu “próximo grande modelo” Astra, descartando dez soluções matemáticas anteriormente não resolvidas",
+      "summary": "A OpenAI está construindo uma nova família de modelos chamada “Astra”, que permitiria que vários agentes resolvessem problemas complexos juntos por horas ou até dias. O CEO Sam Altman já demonstrou…",
+      "link": "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_sol.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-01T09:29:49+00:00"
+    },
+    {
+      "id": "fc9c4df184537507",
+      "title": "O Google entregou aos usuários a ferramenta mais fácil possível para imagens falsas de satélite e a retirou depois de dois dias",
+      "summary": "O Google retirou seu modelo de imagem Nano Banana 2 do Google Earth apenas dois dias após o lançamento. Os usuários mostraram como era fácil gerar imagens de satélite falsas e convincentes. Um simples…",
+      "link": "https://the-decoder.com/google-handed-users-the-easiest-possible-tool-for-fake-satellite-imagery-then-pulled-it-after-two-days/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/05/google_logo_wall.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-01T09:00:04+00:00"
+    },
+    {
+      "id": "a721ef897a30c630",
+      "title": "MiniMax lança MiniMax H3: um modelo de vídeo omnimodal que gera clipes 2K de 15 segundos com áudio estéreo nativo",
+      "summary": "MiniMax lança MiniMax H3, um modelo de geração multimodal de uso geral. MiniMax H3 não é um modelo de texto para vídeo com complementos. MiniMax o descreve como um uso geral…",
+      "link": "https://www.marktechpost.com/2026/08/01/minimax-releases-minimax-h3-an-omni-modal-video-model-that-generates-15-second-2k-clips-with-native-stereo-audio/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-01T08:28:07+00:00"
+    },
     {
       "id": "5428b12008897066",
       "title": "Como os buracos negros supermassivos crescem? IA encontra novas pistas",
@@ -903,94 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-30T18:43:57+00:00"
-    },
-    {
-      "id": "5df6cbdbbfce999b",
-      "title": "O LinkedIn realmente adiciona um botão ‘parece desperdício de IA’",
-      "summary": "Muito conteúdo no LinkedIn pode parecer lixo de IA e agora você poderá denunciar essas postagens. Como parte de uma série de atualizações para reduzir o volume de resíduos de IA no…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-30T18:43:26+00:00"
-    },
-    {
-      "id": "75b9830b2eeb7c07",
-      "title": "Hora de renovar o home office: impressoras em promoção na Amazon",
-      "summary": "Se você está pensando em comprar uma impressora nova ou finalmente trocar aquela que vive dando problema, este é um bom momento para pesquisar. Reunimos três opções de impressoras…",
-      "link": "https://olhardigital.com.br/2026/07/30/reviews/hora-de-renovar-o-home-office-impressoras-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-30T18:40:00+00:00"
-    },
-    {
-      "id": "f841e2c0a3efffa6",
-      "title": "Eleições 2026: o que um candidato pode fazer com IA? E o que não pode?",
-      "summary": "Resolução do TSE permite o uso de inteligência artificial nas campanhas, mas impõe regras de transparência e proíbe deepfakes eleitorais. Entenda os limites da tecnologia nas…",
-      "link": "https://olhardigital.com.br/2026/07/30/inteligencia-artificial/eleicoes-2026-o-que-um-candidato-pode-fazer-com-ia-e-o-que-nao-pode/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/tse-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-30T18:17:00+00:00"
-    },
-    {
-      "id": "cd43bed578b5e389",
-      "title": "LinkedIn cria botão para denunciar posts feitos por inteligência artificial",
-      "summary": "Recurso permite marcar publicações que parecem “lixo de IA”, termo usado para conteúdos genéricos ou de baixa qualidade. LinkedIn cria botão para denunciar posts feitos por…",
-      "link": "https://tecnoblog.net/noticias/linkedin-cria-botao-para-denunciar-posts-feitos-por-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2020/02/linkedin-tecnoblog-1-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-30T18:13:05+00:00"
-    },
-    {
-      "id": "08bbc6a5312763e9",
-      "title": "Ex-pesquisador da OpenAI aposta que US$ 100 bilhões fluirão para dados de treinamento porque o dimensionamento por si só não será suficiente",
-      "summary": "O ex-funcionário da OpenAI, Andrew Ho, e o pesquisador de Cambridge, Adam Hunt, veem um problema crescente com grandes modelos de linguagem. Em vez de se tornarem mais versáteis, os modelos estão se tornando…",
-      "link": "https://the-decoder.com/ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-wont-cut-it/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/08/synthetic_data_illustration-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-30T18:07:17+00:00"
-    },
-    {
-      "id": "b4015f123268ca15",
-      "title": "LinkedIn adiciona um botão para relatar ‘desmanchas’ geradas por IA",
-      "summary": "O LinkedIn está introduzindo novas maneiras de reduzir postagens geradas por IA de baixa qualidade, incluindo uma opção de relatório “parece desperdício de IA”. Ele também está substituindo seu próprio recurso de escrita de IA por um…",
-      "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-30T18:05:21+00:00"
-    },
-    {
-      "id": "50b1fea22376e156",
-      "title": "Google revela Gemini Robotics 2.0, prometendo maior destreza e segurança",
-      "summary": "Gemini Robotics 2 inclui três modelos, mas apenas um está disponível publicamente no momento.",
-      "link": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/gemini-robotics-2-500x500.png",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-30T17:58:02+00:00"
-    },
-    {
-      "id": "6f13ec3b080f2fb3",
-      "title": "A startup de usuário sintético Simile levanta US$ 200 milhões com avaliação de US$ 2 bilhões 5 meses após US$ 100 milhões da Série A",
-      "summary": "Adicione outro membro ao clube de unicórnios de IA velozes e furiosos: Simile",
-      "link": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-30T17:50:11+00:00"
     }
   ]
 }
