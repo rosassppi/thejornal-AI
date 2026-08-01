@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-08-01T13:17:00.294073+00:00",
+  "generated_at": "2026-08-01T19:05:36.720721+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "f97db6b359e73d0a",
+      "title": "AMD lança Instella-MoE-16B-A3B: um LLM de mistura de especialistas totalmente aberto com parâmetros ativos de 2,8B treinados em GPUs Instinct",
+      "summary": "A AMD lançou o Instella-MoE-16B-A3B, um modelo de linguagem Mixture-of-Experts totalmente aberto, treinado do zero nas GPUs Instinct MI300X e MI325X. Ele contém 16B de parâmetros totais, mas…",
+      "link": "https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/Screenshot-2026-08-01-at-11.57.14-AM-1.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-01T19:01:42+00:00"
+    },
+    {
+      "id": "94399379332c2f90",
+      "title": "Acelerando o treinamento do Transformer com NVIDIA Transformer Engine, Fused Kernels, BF16, FP8 e benchmarking de GPU",
+      "summary": "Descubra como otimizar cargas de trabalho de transformadores usando o NVIDIA Transformer Engine. Este tutorial orienta você na configuração de kernels de GPU fundidos, implementação de FP8 atrasado…",
+      "link": "https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-bf16-fp8-and-gpu-benchmarking/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-01T18:31:15+00:00"
+    },
+    {
+      "id": "16657117b75dcddd",
+      "title": "Isso é um sucesso de IA da Billboard Hot 100?",
+      "summary": "Fenix ​​Flexin é mais conhecido como membro da Shoreline Mafia, uma dupla de rap de Los Angeles. Mas ele recentemente obteve sucesso solo com a faixa “Rubberz”, que alcançou o número…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-01T18:20:00+00:00"
+    },
+    {
+      "id": "0fd7d700f38c978a",
+      "title": "Sam Altman ainda defende a paternidade via ChatGPT",
+      "summary": "O CEO da OpenAI parecia animado em compartilhar um “caso de uso interessante” para os pais.",
+      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-01T17:07:34+00:00"
+    },
+    {
+      "id": "1680a761b59132ee",
+      "title": "A IA continua resolvendo problemas matemáticos não resolvidos, e os matemáticos têm sentimentos confusos",
+      "summary": "A refutação da Conjectura da Unidade de Distância pela OpenAI desencadeou uma onda de avanços na matemática assistidos por IA. O vencedor da Medalha Fields, Timothy Gowers, diz que o GPT 5.6 Pro resolveu dois…",
+      "link": "https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/chatgpt_math_classroom.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-01T16:01:31+00:00"
+    },
+    {
+      "id": "7fb55f1dec058fb2",
+      "title": "Como usar IA para montar uma lista de compras e economizar no mercado",
+      "summary": "Quem nunca chegou ao mercado e percebeu que não lembrava exatamente o que tinha em casa ? Aí vem aquele pacote de arroz comprado duas vezes, o produto que acabou e só foi lembrado…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-ia-para-montar-lista-de-compras-economizar-mercado/",
+      "image": "https://tl.ctcdn.com.br/-B05l5KWUNa3b4XG3TzYGCOxL9I=/0x0/filters:format(webp):quality(85)/e5d1d707-19ab-40d1-ae6f-e8b8ec232b19.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-01T15:12:00+00:00"
+    },
+    {
+      "id": "c89ef60289d1af65",
+      "title": "Os agentes de codificação de IA podem modernizar o software de pesquisa, mas não podem julgar se a ciência está certa",
+      "summary": "Um relatório de campo da OpenAI e de parceiros acadêmicos mostra que os agentes de codificação podem modernizar softwares de pesquisa negligenciados, com velocidades de até 60x. Mas os sistemas são “eloquentes…",
+      "link": "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/openai-scientific-software-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-01T14:26:28+00:00"
+    },
+    {
+      "id": "7b10b82ffdd4e1c7",
+      "title": "Um pesquisador de segurança criou um worm autopropagador que se esconde dentro de documentos do Word e sequestra o Microsoft Copilot",
+      "summary": "Um pesquisador de segurança demonstrou um ataque semelhante a um worm no Microsoft Copilot for Word: injeções de prompt invisíveis escondidas em documentos se espalham automaticamente em novos arquivos a cada…",
+      "link": "https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/microsoft_copilot_logo-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-01T13:51:57+00:00"
+    },
+    {
+      "id": "9d6479c39007749e",
+      "title": "O Seedance 2.5 da ByteDance gera videoclipes de 30 segundos com áudio integrado",
+      "summary": "A ByteDance acaba de lançar o Seedance 2.5, um modelo de vídeo AI que produz vídeo e áudio juntos de uma só vez. Cada clipe dura até 30 segundos, três vezes o Gemini Omni do Google…",
+      "link": "https://the-decoder.com/bytedances-seedance-2-5-generates-30-second-video-clips-with-built-in-audio/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/bytedance_seedance.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-01T13:33:41+00:00"
+    },
+    {
+      "id": "0bd525cbb55be5fd",
+      "title": "Por que as empresas de IAs estão “devorando” livros impressos?",
+      "summary": "Livros lançados antes do boom dos LLMs são os mais procurados por fornecerem conteúdo “mais limpo”. Por que as empresas de IAs estão “devorando” livros impressos?",
+      "link": "https://tecnoblog.net/noticias/por-que-as-ias-estariam-devorando-os-livros-impressos/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/12/tipos-de-inteligencia-artificial-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-01T13:12:57+00:00"
+    },
     {
       "id": "b778f0f608451ef4",
       "title": "Como o Gemini pode deixar seu celular Galaxy ainda mais inteligente",
@@ -881,116 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-30T21:05:00+00:00"
-    },
-    {
-      "id": "cc7448ef4b1d255a",
-      "title": "A perda da consciência situacional",
-      "summary": "Não sou de forma alguma um especialista em finanças, mas acho que agora tenho alguns conselhos para as pessoas que o são: não dê ao seu fundo de hedge um nome que possa ser hilário se ele explodir…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKS522_AGI_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-30T20:46:25+00:00"
-    },
-    {
-      "id": "c5b1dff496d9a18c",
-      "title": "O juiz diz que o administrador de Trump ainda não tem evidências para o rótulo de ‘risco da cadeia de suprimentos’ da Antrópico",
-      "summary": "Um juiz federal disse que a administração Trump não apresentou provas suficientes para justificar rotular o Antrópico como um risco para a cadeia de abastecimento, lançando dúvidas sobre a proibição do governo à sua IA…",
-      "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-30T20:26:38+00:00"
-    },
-    {
-      "id": "44b85c22a40d6d9a",
-      "title": "IA da Anthropic expõe centenas de bugs críticos na Microsoft",
-      "summary": "A inteligência artificial Claude Mythos Preview, desenvolvida pela Anthropic, está encontrando falhas de segurança em softwares da Microsoft num ritmo mais rápido do que a empresa…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-da-anthropic-expoe-centenas-de-bugs-criticos-na-microsoft/",
-      "image": "https://tl.ctcdn.com.br/4NJfbjM-aG5a8wu74ug2PT73Q7U=/0x0/filters:format(webp):quality(85)/1b35b984-2944-4b06-a04f-41c767024bd9.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-30T20:00:00+00:00"
-    },
-    {
-      "id": "ccd32bf68aa72743",
-      "title": "Amigo, o solitário wearable de IA, retorna com uma nova voz e um preço muito maior",
-      "summary": "Friend, o wearable de IA, agora pode conversar com seus usuários – por um preço melhor.",
-      "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-30T19:44:16+00:00"
-    },
-    {
-      "id": "056c6ee764af32b9",
-      "title": "O Chrome pode obter atualizações mais rápidas sem necessidade de reinicialização",
-      "summary": "As duas últimas versões do Chrome incluíram mais patches do que as 23 anteriores juntas.",
-      "link": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Chrome-shield-500x500.png",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-30T19:26:56+00:00"
-    },
-    {
-      "id": "a8eb2f72faeb146e",
-      "title": "IA de Elon Musk processa estado dos EUA para continuar gerando nudes",
-      "summary": "Criadora do Grok, a xAI dobrou a aposta e processou o estado de Minnesota , nos EUA. A ação judicial é uma resposta da empresa a uma lei estadual que exige o fim da criação de…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-de-elon-musk-processa-estado-dos-eua-para-continuar-gerando-nudes/",
-      "image": "https://tl.ctcdn.com.br/FLKPZTSimkbI2wLQlNEMOG1jGWI=/0x0/filters:format(webp):quality(85)/91d6b411-02cd-4a5d-8e66-2a4222d55624.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-30T19:10:00+00:00"
-    },
-    {
-      "id": "5911ea1a730a3821",
-      "title": "O Google afirma que corrigiu mais bugs do Chrome em junho do que nos últimos dois anos, graças à IA",
-      "summary": "Como alertaram especialistas nos últimos dois anos, algumas empresas – como a Microsoft e agora o Google – estão encontrando e corrigindo um número exponencial de bugs em seus produtos, graças a…",
-      "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-30T18:57:58+00:00"
-    },
-    {
-      "id": "8156bd805166f586",
-      "title": "OpenAI entra no modo de preços completo da China com um corte de 80% em seu modelo GPT-5.6 mais acessível",
-      "summary": "A partir de 30 de julho, a OpenAI reduzirá os preços do GPT-5.6 Luna em 80% e do Terra em 20%. OpenAI afirma que seu modelo Sol de primeira linha ajudou a tornar a infraestrutura da própria empresa mais…",
-      "link": "https://the-decoder.com/openai-goes-full-china-pricing-mode-with-an-80-percent-cut-to-its-most-affordable-gpt-5-6-model/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-30T18:46:24+00:00"
-    },
-    {
-      "id": "d04648e82aaed819",
-      "title": "Google Earth agora cria versões em IA de lugares reais",
-      "summary": "Ferramenta foi integrada ao Nano Banana 2 para gerar renderizações e infográficos a partir de imagens de satélite. Google Earth agora cria versões em IA de lugares reais",
-      "link": "https://tecnoblog.net/noticias/google-earth-ganha-ia-para-modificar-lugares-reais/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/google-earth-pro-windows-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-30T18:46:20+00:00"
-    },
-    {
-      "id": "fbe252c8e6e396ee",
-      "title": "IA acaba com “caça” às passagens aéreas baratas; entenda motivo",
-      "summary": "Assim como benefícios que foram sendo eliminados ao longo dos anos, as grandes promoções de passagens estão se tornando menos frequentes O post IA acaba com “caça” às passagens…",
-      "link": "https://olhardigital.com.br/2026/07/30/inteligencia-artificial/ia-acaba-com-caca-as-passagens-aereas-baratas-entenda-motivo/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2023/09/comprar-passagem-aerea-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-30T18:43:57+00:00"
     }
   ]
 }
