@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-02T02:37:55.082735+00:00",
+  "generated_at": "2026-08-02T08:22:01.822782+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "4571b8a591c1f4e4",
+      "title": "Após o incidente do Hugging Face, o METR pede investigações independentes da causa raiz do mau comportamento do agente de IA",
+      "summary": "A organização de investigação METR apela a investigações sistemáticas e conduzidas de forma independente sempre que os agentes de IA agem de forma autónoma contra as intenções dos seus criadores. O empurrão vem…",
+      "link": "https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/metr-ki-agenten-untersuchung-illustration.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-02T07:33:17+00:00"
+    },
+    {
+      "id": "0e55f1bbc974132b",
+      "title": "Snap e LinkedIn estão lutando contra uma enxurrada de conteúdo de IA de baixa qualidade",
+      "summary": "Snap está banindo vídeos gerados por IA do Spotlight para manter o feed focado na criatividade humana. O conteúdo editado com as ferramentas de IA do próprio Snapchat ainda é permitido. Enquanto isso, LinkedIn…",
+      "link": "https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/snap_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-02T06:49:28+00:00"
+    },
+    {
+      "id": "e7b3a18b268a1137",
+      "title": "Lei da IA entra em vigor na União Europeia; veja o que muda",
+      "summary": "Nova etapa da legislação europeia sobre inteligência artificial começa a valer neste domingo (2) com novas regras de transparência, fiscalização e multas para empresas O post Lei…",
+      "link": "https://olhardigital.com.br/2026/08/02/inteligencia-artificial/lei-da-ia-entra-em-vigor-na-uniao-europeia-veja-o-que-muda/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/ia-ue-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-02T03:00:00+00:00"
+    },
     {
       "id": "ae4e2aba061a2c2c",
       "title": "O juiz nega o pedido da xAI para bloquear a proibição de aplicativos ‘nudificar’ em Minnesota",
@@ -958,39 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-31T00:03:00+00:00"
-    },
-    {
-      "id": "ff7c1653ce2eb767",
-      "title": "Interrompendo uma operação criminosa fraudulenta",
-      "summary": "A OpenAI interrompeu uma operação fraudulenta baseada no Camboja usando ChatGPT para apoiar esquemas de investimento, romance, jogos de azar e falsificação de identidade.",
-      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-31T00:00:00+00:00"
-    },
-    {
-      "id": "dc33b969781ee680",
-      "title": "Efeito OpenAI: Anthropic diz que IA invadiu sistemas de três empresas",
-      "summary": "Segundo a companhia, os incidentes ocorreram sem que a empresa percebesse e começaram em abril O post Efeito OpenAI: Anthropic diz que IA invadiu sistemas de três empresas…",
-      "link": "https://olhardigital.com.br/2026/07/30/seguranca/efeito-openai-anthropic-diz-que-ia-invadiu-sistemas-de-tres-empresas/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/anthropic-1-1024x585.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-30T23:55:16+00:00"
-    },
-    {
-      "id": "99a421bd1fdc9cc6",
-      "title": "O fundo de hedge de IA Situational Awareness pode ter vendido sua carteira pública, mas ainda tem suas ações da Antrópica",
-      "summary": "O fundo do ex-pesquisador da OpenAI foi forçado a desfazer as ações públicas depois que as apostas públicas alavancadas despencaram. Mas ele ainda tem cartas para jogar.",
-      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-30T23:25:58+00:00"
     }
   ]
 }
