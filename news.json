@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-08-02T13:17:21.323008+00:00",
+  "generated_at": "2026-08-02T19:07:24.680461+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "eb5bbf9c347c8b3a",
+      "title": "5 placas de vídeo NVIDIA que envelheceram melhor que o esperado",
+      "summary": "Por muito tempo houve discussões sobre como a NVIDIA \"capava\" as placas de vídeo mais antigas via driver. Independentemente da veracidade dessa discussão, vários anos se passaram…",
+      "link": "https://canaltech.com.br/hardware/placas-video-nvidia-que-envelheceram-bem/",
+      "image": "https://tl.ctcdn.com.br/Sgj3sF6kiUtyaXuqaTJQ9jazx-U=/0x0/filters:format(webp):quality(85)/5ee72e36-d6c3-4012-ad13-d2a4527c51fa.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-02T17:31:00+00:00"
+    },
+    {
+      "id": "53b0e532f53f8468",
+      "title": "Echo Dot em destaque: as melhores opções de Smart Speaker com Alexa para você",
+      "summary": "Se você quer transformar qualquer ambiente em um espaço inteligente com controle por voz, os Smart Speakers com Alexa são a escolha certa. Reunimos três opções do Echo Dot — cada…",
+      "link": "https://olhardigital.com.br/2026/08/02/reviews/echo-dot-em-destaque-as-melhores-opcoes-de-smart-speaker-com-alexa-para-voce/",
+      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-02T17:00:00+00:00"
+    },
+    {
+      "id": "aafcd7dd4bad5e60",
+      "title": "Mobilidade TechCrunch: Duas estradas divergiram – para robotáxis",
+      "summary": "Bem-vindo de volta ao TechCrunch Mobility, seu centro para o futuro do transporte e agora, mais do que nunca, o papel que a IA desempenha nele.",
+      "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-02T16:05:00+00:00"
+    },
+    {
+      "id": "2d592410472723a7",
+      "title": "Essas joias escondidas da App Store provam que ainda há espaço para ótimos softwares na era da IA",
+      "summary": "Apesar das previsões de que os agentes de IA poderiam tornar obsoletos os aplicativos tradicionais, os desenvolvedores estão lançando novos softwares mais rápido do que nunca. Desde ferramentas de bookmarking mais inteligentes e vizinhança…",
+      "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-02T15:23:19+00:00"
+    },
+    {
+      "id": "86fbca53105d4957",
+      "title": "Testamos a Alexa Plus em português: veja o que muda na prática",
+      "summary": "A nova Alexa Plus vai muito além de ganhar uma voz diferente. Testei a assistente em português e, logo nas primeiras conversas, ficou claro que a inteligência artificial…",
+      "link": "https://canaltech.com.br/casa-conectada/testamos-a-alexa-plus-em-portugues-veja-o-que-muda-na-pratica/",
+      "image": "https://tl.ctcdn.com.br/YHFjHkP0DOLrkAvBQ7vTsaR2RSw=/0x0/filters:format(webp):quality(85)/ed641971-2c30-4e65-b8ab-bfc4a69de9ec.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-02T14:00:00+00:00"
+    },
     {
       "id": "df040c59292edeb0",
       "title": "OpenAI Presence quer tornar os agentes de IA prontos para produção para empresas",
@@ -936,61 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-31T13:08:00+00:00"
-    },
-    {
-      "id": "0090b3ec079bbed8",
-      "title": "China revela cachorro-robô armado com bazuca; veja",
-      "summary": "Achou que os robôs iam parar depois que um deles chutou uma criança no estômago ? Nada disso. Em um vídeo divulgado pela emissora estatal CCTV, um \"cachorro-robô\" aparece…",
-      "link": "https://canaltech.com.br/produtos/china-revela-cachorro-robo-armado-com-bazuca-veja-video/",
-      "image": "https://tl.ctcdn.com.br/iYDEk5GSTeqLne4YiXQMKOGpRT4=/0x0/filters:format(webp):quality(85)/db1b2f9f-b6b3-4e4f-b240-19ffacfd7de3.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-31T12:58:40+00:00"
-    },
-    {
-      "id": "ad0a26187eaa08ed",
-      "title": "Hierarquia das placas de vídeo NVIDIA: lista te ajuda a decidir qual comprar",
-      "summary": "O mercado de hardware sempre conta com diversas placas de vídeo , de diferentes níveis e gerações . Caso você não seja um entusiasta acompanhando as novidades ferrenhamente, pode…",
-      "link": "https://canaltech.com.br/hardware/hierarquia-placas-de-video-nvidia/",
-      "image": "https://tl.ctcdn.com.br/QqT2dwP7NhLCcG0boHwi9lzKxI4=/0x0/filters:format(webp):quality(85)/e7b2c681-cba3-43e1-a3fc-5a1de1e9a961.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-31T12:33:00+00:00"
-    },
-    {
-      "id": "a8e6dd6c34cd416a",
-      "title": "O fundador da Repeat, Ryan Williams, levanta US$ 10 milhões para uma startup de IA para gerentes de crédito privados",
-      "summary": "Ellis AI anunciou quinta-feira sua saída do sigilo com US$ 10 milhões em financiamento inicial.",
-      "link": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-31T12:00:00+00:00"
-    },
-    {
-      "id": "d93660a479b38472",
-      "title": "Como uma disputa de trapaça de IA em Yale se tornou um processo federal de 13 acusações",
-      "summary": "Um exame contestado, um detector não confiável e um arquivo Apple Pages muito atrasado.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-610869530-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-31T11:00:52+00:00"
-    },
-    {
-      "id": "8debfbb0370d136f",
-      "title": "A Anthropic segue a OpenAI ao admitir que seus modelos Claude saíram de ambientes de teste e atacaram sistemas do mundo real",
-      "summary": "Três modelos de Claude atacaram empresas reais durante testes de segurança cibernética depois que uma configuração incorreta lhes deu acesso à Internet. Um malware publicado no PyPI que infectou 15 sistemas…",
-      "link": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo_cybersecurity_kraken_arms.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-31T10:57:37+00:00"
     }
   ]
 }
