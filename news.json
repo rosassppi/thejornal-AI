@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-08-02T08:22:01.822782+00:00",
+  "generated_at": "2026-08-02T13:17:21.323008+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "df040c59292edeb0",
+      "title": "OpenAI Presence quer tornar os agentes de IA prontos para produção para empresas",
+      "summary": "A nova oferta empresarial da OpenAI, Presence, foi projetada para colocar agentes de IA em produção para atendimento ao cliente e fluxos de trabalho internos. Ao contrário dos agentes de espaço de trabalho existentes…",
+      "link": "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/openai-scientific-software-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-02T13:10:21+00:00"
+    },
+    {
+      "id": "b70a57a46cbacfd3",
+      "title": "Pagar aos artistas é suficiente para convencê-los a adotar a IA?",
+      "summary": "Ilustradores passaram anos soando o alarme sobre startups generativas de inteligência artificial treinando seus modelos no trabalho de artistas sem permissão. Eles apontaram…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-31-at-4.11.25-PM.png?quality=90&#038;strip=all&#038;crop=2.6881256103516,0,97.311874389648,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-02T13:00:00+00:00"
+    },
+    {
+      "id": "510e7b274eed8c04",
+      "title": "Meta AI usa um segundo agente de IA como treinador de memória para manter tarefas longas no caminho certo",
+      "summary": "A Meta AI quer impedir que os agentes de IA esqueçam erros que já diagnosticaram e repitam etapas com falha durante tarefas complexas. Um agente de memória separado mantém uma estrutura…",
+      "link": "https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/memory-agent-meta-generated-image-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-02T12:57:38+00:00"
+    },
+    {
+      "id": "7038aa11917c26b6",
+      "title": "Uma falha real do macOS no valor de US$ 200 mil não foi relatada porque a caixa de entrada de recompensas de bugs da Apple estava cheia de resíduos de IA",
+      "summary": "O programa de recompensas de bugs da Apple está se afogando em relatórios de bugs gerados por IA. A empresa limitou as submissões por pesquisador porque relatórios fabricados estão obstruindo o pipeline de revisão…",
+      "link": "https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/apple_logo_neon_green.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-02T12:42:49+00:00"
+    },
+    {
+      "id": "84a48ae9d6d306c3",
+      "title": "7 atalhos escondidos no Android que agilizam o dia a dia",
+      "summary": "O Android reúne diversos recursos que passam despercebidos por boa parte dos usuários. Enquanto as novidades de inteligência artificial costumam chamar mais atenção, há funções…",
+      "link": "https://canaltech.com.br/apps/atalhos-escondidos-android-agilizam-dia-a-dia/",
+      "image": "https://tl.ctcdn.com.br/U__usPyPwl4rWRnWVMYkExywVmc=/0x0/filters:format(webp):quality(85)/91c1c3e4-5755-476c-b5e3-19214a5d92ee.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-02T12:33:00+00:00"
+    },
+    {
+      "id": "bd6a084f056253dd",
+      "title": "Fire TV Stick em oferta: escolha o modelo certo para transformar sua TV",
+      "summary": "Se você ainda não atualizou sua experiência de streaming ou quer presentear alguém com uma tela mais inteligente, a Amazon tem uma seleção de Fire TV Sticks disponíveis agora…",
+      "link": "https://olhardigital.com.br/2026/08/02/reviews/fire-tv-stick-em-oferta-escolha-o-modelo-certo-para-transformar-sua-tv-2/",
+      "image": "https://m.media-amazon.com/images/I/31KfGeE0GJL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-02T11:40:00+00:00"
+    },
+    {
+      "id": "cb3da467a51014e4",
+      "title": "A IA encontra muitas falhas de segurança, mas quase nenhuma delas é explorada",
+      "summary": "O VulnCheck contou com que frequência as falhas de segurança encontradas pela IA são realmente exploradas. Das 1.061 vulnerabilidades descobertas pela IA no primeiro semestre de 2026, apenas 14 tiveram ataques confirmados…",
+      "link": "https://the-decoder.com/ai-finds-plenty-of-security-flaws-but-almost-none-of-them-get-exploited/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/cybersecurity_AI_pattern-scaled.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-02T10:09:34+00:00"
+    },
+    {
+      "id": "a2be0ec1ca4ba20a",
+      "title": "Claude Opus 5 leva a IA imediata ao jogo, desde blocos de cores grosseiros até protótipos 3D completos com física e música",
+      "summary": "Claude Opus 5 da Anthropic gera jogos 3D completos a partir de prompts únicos, incluindo um jogo de tiro em primeira pessoa, um piloto de kart e um clone do Minecraft, tudo sem um único dispositivo externo…",
+      "link": "https://the-decoder.com/claude-opus-5-pushes-prompt-to-game-ai-from-rough-color-blocks-to-full-3d-prototypes-with-physics-and-music/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/spielwelten-3d.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-02T08:51:07+00:00"
+    },
     {
       "id": "4571b8a591c1f4e4",
       "title": "Após o incidente do Hugging Face, o METR pede investigações independentes da causa raiz do mau comportamento do agente de IA",
@@ -23,6 +111,28 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-02T06:49:28+00:00"
+    },
+    {
+      "id": "3a993049bf145360",
+      "title": "NVIDIA AI lança Molt: uma estrutura de aprendizado de reforço agente nativo do PyTorch",
+      "summary": "A pesquisa Agentic RL envolve a modificação constante do algoritmo e, nas estruturas convencionais, cada mudança de thread é feita por meio de treinador, back-end distribuído e cola de implementação. Molt da NVIDIA…",
+      "link": "https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-02T06:21:26+00:00"
+    },
+    {
+      "id": "3406186174afed72",
+      "title": "Previsão ponta a ponta com TimesFM 2.5: backtesting, covariáveis, detecção de anomalias e implantação escalonável de Colab",
+      "summary": "Neste tutorial, construímos um fluxo de trabalho avançado de previsão de série temporal de ponta a ponta com TimesFM 2.5. Começamos configurando o tempo de execução, instalando as dependências necessárias…",
+      "link": "https://www.marktechpost.com/2026/08/01/end-to-end-forecasting-with-timesfm-2-5-backtesting-covariates-anomaly-detection-and-scalable-colab-deployment/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-02T05:44:14+00:00"
     },
     {
       "id": "e7b3a18b268a1137",
@@ -881,116 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-31T10:57:37+00:00"
-    },
-    {
-      "id": "124379a5d468f3e1",
-      "title": "A tese de IA de Aschenbrenner poderia estar correta, seu timing e influência não estavam",
-      "summary": "O fundo de hedge de IA de Leopold Aschenbrenner, Situational Awareness, teve que descarregar quase todo o seu portfólio de capital aberto para a Citadel de Ken Griffin depois de acumular pesadas perdas em ...",
-      "link": "https://the-decoder.com/aschenbrenners-ai-thesis-could-be-correct-his-timing-and-leverage-were-not/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/ai_bear_stock_crash-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-31T10:49:05+00:00"
-    },
-    {
-      "id": "6cbdffa80a320f5d",
-      "title": "JetBrains Open-Sources KotlinLLM: macros inteligentes que geram código-fonte Kotlin em tempo de execução e recarregam-no a quente por meio de JDI",
-      "summary": "A JetBrains Research abriu o código-fonte do KotlinLLM sob a licença Apache 2.0. O protótipo do plugin IntelliJ IDEA adiciona macros inteligentes, asLlm e mockLlm, cujos corpos são gerados…",
-      "link": "https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-31T10:32:53+00:00"
-    },
-    {
-      "id": "2167ef235c28abbf",
-      "title": "Nous Research envia três caminhos de integração para Hermes Agent e Buzz, espaço de trabalho Nostr de código aberto da Block para humanos e agentes",
-      "summary": "A Nous Research lançou o suporte do Hermes Agent para o Buzz, o espaço de trabalho Nostr auto-hospedado e de código aberto do Block, onde humanos e agentes de IA compartilham os mesmos canais. Três integração…",
-      "link": "https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-31T09:08:13+00:00"
-    },
-    {
-      "id": "c9bcd4f73b0af001",
-      "title": "Resumo do dia: IA, eleições, sucesso do iPhone e Anthropic vs OpenAI",
-      "summary": "Apple tem no iPhone seu ator principal - mais uma vez. Enquanto isso, a Amazon tem como destaque o serviço de nuvem O post Resumo do dia: IA, eleições, sucesso do iPhone e…",
-      "link": "https://olhardigital.com.br/2026/07/31/pro/resumo-do-dia-ia-eleicoes-sucesso-do-iphone-e-anthropic-vs-openai/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-31T07:33:27+00:00"
-    },
-    {
-      "id": "cd88270c00622daf",
-      "title": "Univé cria uma força de trabalho preparada para IA",
-      "summary": "Veja como a Univé construiu uma força de trabalho pronta para IA com ChatGPT Enterprise, combinando liderança, governança responsável e inovação liderada pelos funcionários para transformar o trabalho em grande escala.",
-      "link": "https://openai.com/index/unive",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-31T07:00:00+00:00"
-    },
-    {
-      "id": "d64554a0739c8050",
-      "title": "PolyAI lança Dialog-RSN-1: um modelo de diálogo nativo de áudio que combina turnos, reconhecimento de fala, chamada de função e resposta",
-      "summary": "A PolyAI introduziu o Dialog-RSN-1, um modelo de diálogo que percebe o áudio do chamador diretamente, em vez de ler uma transcrição ASR. Ele combina turnos, reconhecimento de fala, função…",
-      "link": "https://www.marktechpost.com/2026/07/30/polyai-releases-dialog-rsn-1-an-audio-native-dialog-model-that-fuses-turn-taking-speech-recognition-function-calling-and-response/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-31T05:06:43+00:00"
-    },
-    {
-      "id": "7e134ec8c0fac6f7",
-      "title": "Construindo um fluxo de trabalho de pesquisa financeira multiagente governado por políticas com Omnigent",
-      "summary": "Neste tutorial, demonstramos como construir e executar um fluxo de trabalho multiagente com Omnigent em um ambiente Python seguro e isolado. Aprenda a integrar a taxa de câmbio ao vivo…",
-      "link": "https://www.marktechpost.com/2026/07/30/building-a-policy-governed-multi-agent-financial-research-workflow-with-omnigent/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-31T04:44:12+00:00"
-    },
-    {
-      "id": "8278d015a076a44c",
-      "title": "Juíza diz que governo Trump não tem provas para classificar Anthropic como risco",
-      "summary": "Audiência integra um dos dois processos que a Anthropic abriu contra o Departamento de Defesa em março O post Juíza diz que governo Trump não tem provas para classificar Anthropic…",
-      "link": "https://olhardigital.com.br/2026/07/30/pro/juiza-diz-que-governo-trump-nao-tem-provas-para-classificar-anthropic-como-risco/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/anthropic-1-1024x585.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-31T01:24:48+00:00"
-    },
-    {
-      "id": "cd732c0d36e341c2",
-      "title": "Anthropic afirma que seus próprios modelos de IA violaram três empresas durante testes de segurança",
-      "summary": "Depois que os modelos da OpenAI invadiram o Hugging Face, a Anthropic verificou seu próprio histórico e encontrou três incidentes semelhantes",
-      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-31T01:06:54+00:00"
-    },
-    {
-      "id": "036587f9e002822b",
-      "title": "LinkedIn cria botão oficial para denunciar \"lixo de IA\" no feed",
-      "summary": "O LinkedIn começou a mostrar um botão para que usuários denunciem publicações que pareçam ser “AI slop” , termo usado para descrever conteúdos de baixa qualidade produzidos por…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/linked-in-cria-botao-oficial-para-denunciar-lixo-de-ia-no-feed/",
-      "image": "https://tl.ctcdn.com.br/bWKGptVJE3Y9Cygb7Il-w069elg=/0x0/filters:format(webp):quality(85)/90998953-9e15-4aea-890f-06a2b17e526d.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-31T00:03:00+00:00"
     }
   ]
 }
