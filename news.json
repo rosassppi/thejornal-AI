@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-08-03T02:39:35.584875+00:00",
+  "generated_at": "2026-08-03T09:40:50.516583+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "52cc41465be6117a",
+      "title": "Resumo do fim de semana: lei da IA na Europa; deu ruim no Google Earth",
+      "summary": "Confira o que foi destaque entre sábado e domingo no mundo da tecnologia O post Resumo do fim de semana: lei da IA na Europa; deu ruim no Google Earth apareceu primeiro em Olhar…",
+      "link": "https://olhardigital.com.br/2026/08/03/pro/resumo-do-fim-de-semana-lei-da-ia-na-europa-deu-ruim-no-google-earth/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-03T08:51:46+00:00"
+    },
+    {
+      "id": "d0601037cbc8406a",
+      "title": "Veja por que os agentes de IA mentem e trapaceiam para alcançar seus objetivos",
+      "summary": "A revisão de tecnologia do MIT explica: Deixe nossos escritores desvendarem o mundo complexo e confuso da tecnologia para ajudá-lo a entender o que está por vir. Você pode ler mais da série aqui…",
+      "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-03T08:30:05+00:00"
+    },
+    {
+      "id": "ab09a676dc62138b",
+      "title": "Alibaba Qwen lança Qwen3.8-Max: um modelo MoE de 2,4 trilhões de parâmetros e o mais capaz da família Qwen até o momento",
+      "summary": "A equipe Qwen do Alibaba moveu o Qwen3.8-Max da versão prévia para a disponibilidade geral, com preços por token publicados e pesos abertos previstos para a próxima semana. O modelo MoE de parâmetro 2.4T aceita…",
+      "link": "https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-12.56.57-AM-1.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-03T08:24:16+00:00"
+    },
+    {
+      "id": "f40045fa0dbc656a",
+      "title": "Equipe de IA da Cogent lança VR-1: um modelo de raciocínio cibernético de fronteira que compõe e verifica caminhos de ataque corporativos",
+      "summary": "A equipe da Cogent AI lançou o Cogent VR-1, um modelo de raciocínio pós-treinado especificamente para segurança cibernética, em vez de captar a capacidade cibernética como um efeito colateral da codificação geral…",
+      "link": "https://www.marktechpost.com/2026/08/03/ogent-ai-team-releases-vr-1/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-03T07:28:14+00:00"
+    },
     {
       "id": "121d4931f32cb073",
       "title": "Onton lança ontologia 1: um modelo de pesquisa neurossimbólica que é 2,7x mais preciso do que os melhores mecanismos de pesquisa de comércio eletrônico do mundo",
@@ -947,50 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-31T16:00:01+00:00"
-    },
-    {
-      "id": "b079ecd0fd4b31d5",
-      "title": "Samsung espera que a escassez de memória piore até 2027 e dure até 2028",
-      "summary": "A demanda por data centers de IA está alimentando uma escassez de chips há vários anos, aumentando os custos dos componentes e os preços dos dispositivos no varejo.",
-      "link": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-31T15:37:58+00:00"
-    },
-    {
-      "id": "51e063bcc87b174e",
-      "title": "Robô desmaia no palco em cena macabra; assista ao vídeo",
-      "summary": "Se você está cansado ultimamente, imagina este robô. Uma demonstração que deveria destacar os avanços da inteligência artificial e da robótica acabou se transformando em um dos…",
-      "link": "https://canaltech.com.br/produtos/robo-da-qualcomm-desmaia-no-palco-em-cena-macabra-assista/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-31T15:33:28+00:00"
-    },
-    {
-      "id": "901247f42bb581a5",
-      "title": "\"AirTag da Samsung\" tem primeiros detalhes revelados; veja o que já sabemos",
-      "summary": "A Samsung já está trabalhando em sua próxima geração de rastreadores inteligentes. O dispositivo de rastreamento pode chegar com o nome de Galaxy SmartTag 3 e teve alguns detalhes…",
-      "link": "https://canaltech.com.br/produtos/air-tag-da-samsung-tem-primeiros-detalhes-revelados-veja-o-que-ja-sabemos/",
-      "image": "https://tl.ctcdn.com.br/7Huht1TeaVBqIYrX68j6x15zrzE=/0x0/filters:format(webp):quality(85)/7816f17e-612f-4da5-a8b9-f548ad7b9ca8.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-31T15:32:49+00:00"
-    },
-    {
-      "id": "b1e0f62f91f4742a",
-      "title": "Aproveite: Notebook Acer Nitro V15 com RTX 4050 sai por até 12x sem juros",
-      "summary": "Acer Nitro V15 traz GPU Nvidia RTX 4050 e chip Intel Core i7; notebook que é opção acessível para trabalho, estudo e games está disponível em até 12x sem juros na Amazon…",
-      "link": "https://tecnoblog.net/achados/aproveite-notebook-acer-nitro-v15-com-rtx-4050-sai-por-ate-12x-sem-juros/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/amz.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-31T15:32:34+00:00"
     }
   ]
 }
