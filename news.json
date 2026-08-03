@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-08-03T09:40:50.516583+00:00",
+  "generated_at": "2026-08-03T14:34:55.705120+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "1df2bb8e138c92e0",
+      "title": "Do resumo ao jogo: IA do Google vai transformar seus PDFs em jogos educativos",
+      "summary": "O Google está testando um novo recurso para o Gemini Notebook que transforma PDFs e outros materiais de estudo em jogos educativos e aplicativos interativos . A novidade foi…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/do-resumo-ao-jogo-ia-do-google-vai-transformar-seus-pdfs-em-jogos-educativos/",
+      "image": "https://tl.ctcdn.com.br/LSa78xOmIG-QjRlaBxJe5eAl_zs=/0x0/filters:format(webp):quality(85)/5e3a1580-9161-4b0c-9a38-49ca0a007e79.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-03T14:02:00+00:00"
+    },
+    {
+      "id": "fe57f3fe80dae212",
+      "title": "O MiniMax H3 da China é o primeiro modelo aberto a liderar uma classificação de vídeo de IA",
+      "summary": "MiniMax lança pesos de modelo de vídeo H3, colocando um modelo aberto no topo de uma classificação de vídeo pela primeira vez. O artigo MiniMax H3 da China é o primeiro modelo aberto a superar…",
+      "link": "https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/MiniMax-H3-title.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-03T13:52:29+00:00"
+    },
+    {
+      "id": "d654097559a945f0",
+      "title": "SpaceX encara teste decisivo com primeiro balanço após abertura de capital",
+      "summary": "Investimentos em inteligência artificial, expansão da Starlink e dúvidas sobre retorno financeiro colocam a estratégia da empresa sob análise O post SpaceX encara teste decisivo…",
+      "link": "https://olhardigital.com.br/2026/08/03/pro/spacex-encara-teste-decisivo-com-primeiro-balanco-apos-abertura-de-capital/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/satlites-starlink-1-1024x657.jpeg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-03T13:11:42+00:00"
+    },
+    {
+      "id": "2080e3a392660eb8",
+      "title": "Horizon3 atinge avaliação de US$ 2 bilhões com US$ 250 milhões da Série E à medida que as ameaças de IA aumentam",
+      "summary": "A startup de segurança cibernética Horizon3 arrecadou US$ 250 milhões em uma avaliação de US$ 2 bilhões, já que as empresas desejam validação de segurança contínua e baseada em IA, em vez de pentesting anual.",
+      "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-03T12:50:46+00:00"
+    },
+    {
+      "id": "94b2fba693467bda",
+      "title": "Moto g em destaque: uma seleção de smartphones Motorola com bateria gigante e câmera com IA em promoção",
+      "summary": "A Motorola consolidou sua posição como uma das marcas favoritas do público brasileiro, e não é difícil entender o motivo: a linha Moto g reúne aparelhos com ótimo desempenho…",
+      "link": "https://olhardigital.com.br/2026/08/03/reviews/moto-g-em-destaque-uma-selecao-de-smartphones-motorola-com-bateria-gigante-e-camera-com-ia-em-promocao/",
+      "image": "https://m.media-amazon.com/images/I/41+6eYKowUL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-03T12:40:00+00:00"
+    },
+    {
+      "id": "03e15aa1b3e45c6f",
+      "title": "Unicorn, pelican, Middle-earth: OpenAI co-founder Karpathy is looking for the next AI vibe test",
+      "summary": "Um parágrafo de \"O Senhor dos Anéis\" entra, 5.500 linhas de código saem. Andrej Karpathy fez com que Claude Opus 5 transformasse a abertura de Tolkien em uma cena de navegador 3D. O artigo Unicórnio, pelicano…",
+      "link": "https://the-decoder.com/unicorn-pelican-middle-earth-openai-co-founder-karpathy-is-looking-for-the-next-ai-vibe-test/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Karpathy-LOTR-Opus-5-title.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-03T12:07:31+00:00"
+    },
+    {
+      "id": "956eaeb0474fd28a",
+      "title": "Lightroom ganha IA que amplia fotos e completa o restante da cena",
+      "summary": "A Adobe lançou o Gen Expand, novo recurso de IA generativa do Lightroom , nesta segunda-feira (3). A ferramenta amplia o enquadramento da foto e usa inteligência artificial para…",
+      "link": "https://canaltech.com.br/software/lightroom-ganha-ia-que-amplia-fotos-e-completa-o-restante-da-cena/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-03T12:00:00+00:00"
+    },
+    {
+      "id": "4f7ba0173228deb1",
+      "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
+      "summary": "A gigante de tecnologia chinesa Alibaba lançou o que diz ser seu maior e \"mais capaz modelo de IA até o momento\", alegando desempenho que rivaliza com os melhores sistemas dos laboratórios fronteiriços dos EUA Anthropic…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-03T11:01:11+00:00"
+    },
+    {
+      "id": "bdc508b003600d99",
+      "title": "Duas equipes resolveram o mesmo problema de criptografia quântica usando GPT-5.6 com apenas três horas de intervalo",
+      "summary": "Two research teams independently solved the same open quantum cryptography problem using OpenAI's GPT-5.6 Sol Ultra, submitting their papers just three hours apart. \"If someone…",
+      "link": "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/11/emerging_math_neural_network.jpeg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-03T10:49:58+00:00"
+    },
+    {
+      "id": "acd146cd4a70635b",
+      "title": "O Qwen3.8-Max de peso aberto do Alibaba assume tarefas de IA de longo horizonte com 2,4 trilhões de parâmetros",
+      "summary": "O novo modelo carro-chefe do Alibaba, Qwen3.8-Max, foi construído para lidar sozinho com tarefas complexas durante dias seguidos, desde a reprodução de artigos de pesquisa até o projeto de chips de forma autônoma. O…",
+      "link": "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/qwen_logo-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-03T10:48:50+00:00"
+    },
+    {
+      "id": "39bcd4b7ad301e05",
+      "title": "Nova câmera da Xiaomi aposta em IA para monitorar crianças, idosos e pets",
+      "summary": "A Xiaomi lançou uma câmera de segurança que combina hardware avançado e recursos de inteligência artificial. O modelo estreou oficialmente no mercado chinês com câmeras duplas…",
+      "link": "https://canaltech.com.br/produtos/nova-camera-da-xiaomi-aposta-em-ia-para-monitorar-criancas-idosos-e-pets/",
+      "image": "https://tl.ctcdn.com.br/1hI0p_B3nwypEtyI-HKOhv-cxgs=/0x0/filters:format(webp):quality(85)/371badfd-2071-45c3-96cb-aa0356be2b7e.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-03T10:34:01+00:00"
+    },
+    {
+      "id": "09cf17eb199a2ae7",
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "summary": "Junho saiu do sigilo hoje com uma rodada de pré-lançamento de US$ 20 milhões para simplificar a adoção da IA.",
+      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-03T10:00:00+00:00"
+    },
     {
       "id": "52cc41465be6117a",
       "title": "Resumo do fim de semana: lei da IA na Europa; deu ruim no Google Earth",
@@ -859,138 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-07-31T18:11:55+00:00"
-    },
-    {
-      "id": "0dd02c76b764b628",
-      "title": "Por que a Meta é contra proibir modelos chineses de IA nos EUA?",
-      "summary": "O governo dos Estados Unidos considera banir o acesso a modelos de IA chineses no país, mas a medida não é aprovada pelo CEO de uma das principais Big Techs da Terra do Tio Sam…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/por-que-a-meta-e-contra-proibir-modelos-chineses-de-ia-nos-eua/",
-      "image": "https://tl.ctcdn.com.br/W8-J39hR65BN0Fsy-i9XlFcb8jE=/0x0/filters:format(webp):quality(85)/608f3ad8-6894-4b54-afb0-9eeec2140e4b.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-31T18:01:00+00:00"
-    },
-    {
-      "id": "f25a68d2df978e14",
-      "title": "Thinking Machines aposta na eficiência em vez do tamanho com seu segundo modelo, Inkling Small",
-      "summary": "Thinking Machines, o laboratório de IA da ex-CTO da OpenAI Mira Murati, lançou o Inkling Small. O modelo de raciocínio de pesos abertos tem menos de um terço do tamanho do Inkling, mas supera…",
-      "link": "https://the-decoder.com/thinking-machines-bets-on-efficiency-over-size-with-its-second-model-inkling-small/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/thinking_machines_inkling_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-31T17:41:50+00:00"
-    },
-    {
-      "id": "3c213c5102f1b3f9",
-      "title": "Após OpenAI, Anthropic revela invasões de IA durante testes",
-      "summary": "Empresa analisou 141 mil testes e encontrou três situações em que modelos Claude acessaram sistemas externos. Após OpenAI, Anthropic revela invasões de IA durante testes",
-      "link": "https://tecnoblog.net/noticias/apos-openai-anthropic-revela-invasoes-de-ia-durante-testes/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-2-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-31T17:31:25+00:00"
-    },
-    {
-      "id": "1da21b93cc16d695",
-      "title": "Sam Altman não é o único que quer pisar no freio na IA",
-      "summary": "Depois de anos avançando a todo vapor na IA, o CEO da OpenAI, Sam Altman, diz que talvez seja hora de a indústria de IA “acompanhar” seu próprio ritmo. Os comentários vieram poucos dias depois de um dos OpenAI…",
-      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-31T17:26:32+00:00"
-    },
-    {
-      "id": "a251e57ac9076fe5",
-      "title": "Aqui está o problema de colocar um gerador de imagens de IA no Google Earth",
-      "summary": "Agora, basta um prompt de texto para gerar imagens que distorcem a realidade usando imagens de satélite, aéreas e 3D do Google Earth, como essas imagens geradas por Henk da Digital Digging…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Dream-House.mp4_snapshot_00.11.422.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-31T17:05:46+00:00"
-    },
-    {
-      "id": "932ad6b0ae37a6f8",
-      "title": "O Snapchat não recompensa mais conteúdo Spotlight totalmente gerado por IA",
-      "summary": "O Snapchat ajustou seus sistemas de recomendação para garantir que apenas vídeos criados por pessoas reais sejam elegíveis para recomendações do Spotlight, tomando uma posição contra o desperdício de IA.",
-      "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-31T16:49:08+00:00"
-    },
-    {
-      "id": "8cb58164a5d77e26",
-      "title": "O novo modelo Deepseek Flash corresponde ao GPT-5.6 Luna da OpenAI com um custo aproximadamente 60% menor",
-      "summary": "O modelo de orçamento V4 Flash da Deepseek recebe um grande impulso com a atualização “0731”, saltando dez pontos para 50 no Índice de Inteligência de Análise Artificial. Isso coloca apenas um ponto…",
-      "link": "https://the-decoder.com/new-deepseek-flash-model-matches-openais-gpt-5-6-luna-at-roughly-60-percent-lower-cost/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/deepseek_red_whale.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-31T16:39:25+00:00"
-    },
-    {
-      "id": "61b610982fb1a23e",
-      "title": "As grandes gravadoras propõem regras para manter a IA fora das paradas",
-      "summary": "Várias gravadoras, incluindo as três grandes – Universal Music Group, Sony Music e Warner Music Group – propuseram regras relativas à elegibilidade para músicas de IA nas paradas. Em…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK467_AI_Music.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-31T16:36:48+00:00"
-    },
-    {
-      "id": "729e793b10a833ef",
-      "title": "Google lança agente de IA que \"não dorme\" no Brasil; veja como funciona",
-      "summary": "O Google lançou o agente de IA Gemini Spark no Brasil nesta sexta-feira (31). A novidade permite automatizar tarefas, analisa arquivos pessoais e roda tudo em segundo plano sem…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/google-lanca-agente-de-ia-que-nao-dorme-no-brasil-veja-como-funciona/",
-      "image": "https://tl.ctcdn.com.br/eTH5Fjyum-cscFGLdclDqLSVvJ4=/0x0/filters:format(webp):quality(85)/cc2067f2-43a4-4bbb-8b38-020b9d91428c.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-31T16:20:06+00:00"
-    },
-    {
-      "id": "87c9761d7571db49",
-      "title": "Siri AI pode vir com acesso pago para usuários avançados",
-      "summary": "O CEO da Apple, Tim Cook, prevê que os usuários possam comprar mais computação para Siri AI por meio das assinaturas existentes do iCloud+ da Apple.",
-      "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-31T16:08:18+00:00"
-    },
-    {
-      "id": "b5ccee7c375126a3",
-      "title": "IA do Google que roda 24 horas por dia chega ao Brasil",
-      "summary": "Gemini Spark pode operar de modo automatizado, em segundo plano, para organizar informações, ler e-mails e realizar pesquisas. IA do Google que roda 24 horas por dia chega ao…",
-      "link": "https://tecnoblog.net/noticias/ia-do-google-que-roda-24-horas-por-dia-chega-ao-brasil/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/amnhf6bwzzq.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-31T16:02:33+00:00"
-    },
-    {
-      "id": "4b7d62c48ac24a35",
-      "title": "Troca lâmpada e fecha zíper: nova IA do Google dá habilidades humanas a robôs",
-      "summary": "O Google apresentou nesta quinta-feira (30) o Gemini Robotics 2 , nova geração de inteligência artificial capaz de controlar robôs humanoides do corpo inteiro. O modelo permite…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/troca-lampada-e-fecha-ziper-nova-ia-do-google-da-habilidades-humana-a-robos/",
-      "image": "https://tl.ctcdn.com.br/PB9i3wXyTDhSGF7dKUG8P5l2UAg=/0x0/filters:format(webp):quality(85)/b79fd0ad-e96a-4a7f-844e-25f500f0b18e.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-31T16:00:01+00:00"
     }
   ]
 }
