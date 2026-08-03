@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-08-02T19:07:24.680461+00:00",
+  "generated_at": "2026-08-03T02:39:35.584875+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "121d4931f32cb073",
+      "title": "Onton lança ontologia 1: um modelo de pesquisa neurossimbólica que é 2,7x mais preciso do que os melhores mecanismos de pesquisa de comércio eletrônico do mundo",
+      "summary": "Onton, uma empresa de pesquisa e descoberta com sede em São Francisco, lançou Ontology 1, um modelo neurosimbólico para pesquisa de produtos complexa, conversacional e multimodal. Em uma consulta de 90…",
+      "link": "https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-03T00:49:50+00:00"
+    },
+    {
+      "id": "be97b9c72478b6dc",
+      "title": "Um tutorial sobre GeoAI: Projetando extração de pegadas de imagens NAIP usando U-Net, Grounding DINO, SAM e Mask R-CNN",
+      "summary": "Neste tutorial, projetamos um fluxo de trabalho GeoAI completo para extrair pegadas de edifícios a partir de imagens aéreas NAIP de alta resolução. Começamos configurando a profundidade geoespacial…",
+      "link": "https://www.marktechpost.com/2026/08/02/a-tutorial-on-geoai-designing-footprint-extraction-from-naip-imagery-using-u-net-grounding-dino-sam-and-mask-r-cnn/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-02T21:19:48+00:00"
+    },
+    {
+      "id": "ea4a184687ae8494",
+      "title": "Sam Altman e o debate sobre desaceleração da IA",
+      "summary": "No último episódio de Equity, discutimos por que Sam Altman apelou à indústria para “acelerar o ritmo de desenvolvimento da IA”.",
+      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-02T20:54:22+00:00"
+    },
+    {
+      "id": "8268fb7cd6cb5ba6",
+      "title": "Ferramenta detecta deepfakes com 91% de precisão e ainda explica por que a imagem é falsa",
+      "summary": "Desenvolvida por pesquisadores alemães em parceria com o escritório federal de segurança da Alemanha, a RealorRender usa IA híbrida para identificar imagens falsas e apontar…",
+      "link": "https://olhardigital.com.br/2026/08/02/inteligencia-artificial/ferramenta-detecta-deepfakes-com-91-de-precisao-e-ainda-explica-por-que-a-imagem-e-falsa/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-02T20:40:15+00:00"
+    },
+    {
+      "id": "add70896237b7b61",
+      "title": "Thinking Machines Lab lança Inkling-Small: um modelo MoE multimodal multimodal de pesos abertos 12B com total de 276B",
+      "summary": "Inkling-Small corresponde ao Inkling com um quarto do tamanho, e seu ponto de verificação NVFP4 é executado em uma GPU NVIDIA B300 O pós Thinking Machines Lab lança Inkling-Small: Um total de 276B, 12B…",
+      "link": "https://www.marktechpost.com/2026/08/02/thinking-machines-lab-releases-inkling-small-276b-open-weights-multimodal-moe-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-02T20:35:50+00:00"
+    },
+    {
+      "id": "93247f3782b40ca5",
+      "title": "O CEO da Fender parece pensar que seus companheiros de banda são apenas IA analógica",
+      "summary": "O CEO da Fender, Edward “Bud” Cole, deu uma entrevista ao T3 em maio, comemorando o 75º aniversário da Telecaster, com comentários sobre IA e música que inicialmente passaram despercebidos…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1259130896.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-02T19:36:08+00:00"
+    },
+    {
+      "id": "8f65b3f27257af2a",
+      "title": "Como usar IA para criar ideias de vídeos para o Reels",
+      "summary": "Nem sempre é fácil pensar em novos vídeos para o Reels. Mesmo quem publica com frequência passa por momentos em que as ideias parecem acabar ou em que nenhum roteiro parece…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-ia-para-criar-ideias-de-videos-para-o-reels/",
+      "image": "https://tl.ctcdn.com.br/YIC_P3i3uPw8egm72NmHs1HvEWM=/0x0/filters:format(webp):quality(85)/658917b7-f029-4042-90cd-0314ee017d7c.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-02T19:32:00+00:00"
+    },
+    {
+      "id": "9f8b4e8092bcd974",
+      "title": "Como usar o ChatGPT para checar se o mecânico está te passando para trás",
+      "summary": "Motoristas usam chatbots para contestar orçamentos inflados, entender diagnósticos e guiar reparos simples O post Como usar o ChatGPT para checar se o mecânico está te passando…",
+      "link": "https://olhardigital.com.br/2026/08/02/dicas-e-tutoriais/como-usar-o-chatgpt-para-checar-se-o-mecanico-esta-te-passando-para-tras/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-02T19:14:54+00:00"
+    },
+    {
+      "id": "44db0872da50904c",
+      "title": "Hora de imprimir mais e gastar menos: veja nossa seleção de impressoras em promoção",
+      "summary": "Se você está pensando em renovar a impressora de casa ou do escritório, este é um bom momento para conferir o que está disponível na Amazon. Reunimos três opções de impressoras…",
+      "link": "https://olhardigital.com.br/2026/08/02/reviews/hora-de-imprimir-mais-e-gastar-menos-veja-nossa-selecao-de-impressoras-em-promocao/",
+      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-02T18:40:00+00:00"
+    },
     {
       "id": "eb5bbf9c347c8b3a",
       "title": "5 placas de vídeo NVIDIA que envelheceram melhor que o esperado",
@@ -892,105 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-07-31T15:32:34+00:00"
-    },
-    {
-      "id": "ca3082920140f24f",
-      "title": "A UE reserva até 30 mil milhões de euros para gigafábricas de IA, enquanto os gigantes tecnológicos dos EUA gastam casualmente 20 vezes mais",
-      "summary": "A Comissão Europeia pretende construir até sete gigafábricas de IA em toda a Europa, apoiadas por cerca de 30 mil milhões de euros em financiamento público e privado. Para contextualizar, os principais EUA…",
-      "link": "https://the-decoder.com/eu-pools-up-to-e30-billion-for-ai-gigafactories-while-us-tech-giants-casually-spend-20-times-more/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/07/European-Union-Flag-Glitch-GPT-4o.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-31T15:28:08+00:00"
-    },
-    {
-      "id": "bc1f3457103eef45",
-      "title": "A SpaceX não removerá todas as turbinas não permitidas do xAI por mais um ano",
-      "summary": "A SpaceX está construindo uma nova usina de energia para os data centers Colossus da xAI, mas não removerá as turbinas existentes e não autorizadas por muitos mais meses.",
-      "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-31T15:16:17+00:00"
-    },
-    {
-      "id": "f8ec64126bdac17b",
-      "title": "Promover a IA responsável em toda a Europa",
-      "summary": "A OpenAI partilha como as suas práticas de segurança, proteção, transparência e proveniência apoiam a governação responsável da IA ​​na Europa. O trabalho continuará à medida que a Lei da IA ​​da UE avança.",
-      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-31T15:00:00+00:00"
-    },
-    {
-      "id": "966cd163f8692d8c",
-      "title": "Construindo inteligência abundante",
-      "summary": "Uma abordagem completa para tornar a IA avançada mais capaz, mais acessível e mais útil.",
-      "link": "https://openai.com/index/building-abundant-intelligence",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-07-31T15:00:00+00:00"
-    },
-    {
-      "id": "3d7423ec8d9c6228",
-      "title": "Smallest.ai levanta US$ 13 milhões para construir IA de voz ultrarrápida que soa genuinamente humana",
-      "summary": "A startup está construindo modelos de voz projetados para fazer com que as chamadas telefônicas de IA passem no teste de Turing.",
-      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-31T14:47:11+00:00"
-    },
-    {
-      "id": "13380feffaa4ee7b",
-      "title": "É hora de entrar em pânico com a segurança da IA",
-      "summary": "Quando a frase “OpenAI hackeou Hugging Face” mais ou menos entrou na cultura dominante, você sabe que temos um problema de IA. Esta semana, aprendemos mais sobre exatamente como o OpenAI…",
-      "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-31T14:03:04+00:00"
-    },
-    {
-      "id": "3f8b6e255cb31507",
-      "title": "Os golpistas de IA superam os humanos quando se trata de construir confiança",
-      "summary": "O chatbot de IA foi mais eficaz na criação de “confiança explorável” do que os humanos.",
-      "link": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/scammer-1-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-31T14:01:40+00:00"
-    },
-    {
-      "id": "958fb2c086fd4db5",
-      "title": "Anthropic diz que Claude acidentalmente hackeou empresas reais também",
-      "summary": "A Anthropic acaba de perceber que vários de seus modelos Claude AI foram hackeados nos sistemas de três organizações diferentes durante os testes, agindo por conta própria e sem a empresa…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-07-31T13:41:17+00:00"
-    },
-    {
-      "id": "92cee5669bd1b920",
-      "title": "Nova IA da OpenAI promete funcionar como uma equipe digital",
-      "summary": "Novo sistema da OpenAI promete assistentes de IA trabalhando em conjunto e amplia discussões sobre empregos, segurança e inovação digital O post Nova IA da OpenAI promete…",
-      "link": "https://olhardigital.com.br/2026/07/31/inteligencia-artificial/nova-ia-da-openai-promete-funcionar-como-uma-equipe-digital/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2024/06/openai-chatgpt-2-e1729857831834-1024x577.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-07-31T13:08:00+00:00"
     }
   ]
 }
