@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-08-04T02:23:28.003129+00:00",
+  "generated_at": "2026-08-04T08:33:45.630344+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "2f557185e8752b17",
+      "title": "Construindo um pipeline avançado de auditoria de segurança de habilidades de IA com NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF e CI Policy Gates",
+      "summary": "Aprenda como criar um pipeline completo de avaliação de segurança para habilidades de agentes de IA usando NVIDIA SkillSpector e LangGraph. Neste tutorial, construímos uma habilidade sintética…",
+      "link": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-04T08:12:36+00:00"
+    },
+    {
+      "id": "cc46c8f91e8f1471",
+      "title": "Y Combinator Open-Sources QM: um chicote de agente multijogador licenciado pelo MIT que funciona no Slack e na Web",
+      "summary": "Y Combinator possui QM de código aberto, o agente multijogador que usa internamente em contabilidade, jurídico, eventos e engenharia. Lançado em 31 de julho de 2026 sob licença do MIT…",
+      "link": "https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-04T04:17:18+00:00"
+    },
+    {
+      "id": "d6bd8c55c8c74180",
+      "title": "Genspark Open Sources GenOffice: um pacote de escritório AI gratuito e sem anúncios para macOS e Windows com documentos, planilhas, slides, PDF",
+      "summary": "Genspark abriu o código-fonte do GenOffice sob a licença Apache 2.0. É um pacote de escritório nativo de IA para macOS e Windows, abrangendo Documentos, Planilhas, Apresentações e PDF como cinco Electron…",
+      "link": "https://www.marktechpost.com/2026/08/03/genspark-open-sources-genoffice-a-free-ad-free-ai-office-suite-for-macos-and-windows-with-docs-sheets-slides-pdf/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-04T03:46:16+00:00"
+    },
+    {
+      "id": "ee0613184e36dbf9",
+      "title": "CEO da Palantir chama setor de IA de “marxista” após lucro de R$ 5,6 bi",
+      "summary": "Em carta, Alex Karp escreveu que a empresa gerou \"mais lucro em um único trimestre do que toda a receita que tivemos no mesmo período do ano anterior\" O post CEO da Palantir chama…",
+      "link": "https://olhardigital.com.br/2026/08/03/pro/ceo-da-palantir-chama-setor-de-ia-de-marxista-apos-lucro-de-r-5-6-bi/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/03/palantir-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-04T01:56:38+00:00"
+    },
     {
       "id": "2721bbeb7104e95d",
       "title": "Gemini agora controla o Chrome e pode usar suas senhas para navegar",
@@ -47,6 +91,17 @@
       "published_at": "2026-08-03T23:04:00+00:00"
     },
     {
+      "id": "a4c53e13e1a2d02a",
+      "title": "Avaliando modelos de visão multimodal com Moonshot PerceptionBench usando carregamento robusto de dados e julgamento automatizado",
+      "summary": "Neste tutorial, projetamos um fluxo de trabalho de avaliação ponta a ponta para PerceptionBench. Este benchmark multimodal mede capacidades de percepção visual refinadas em tarefas como…",
+      "link": "https://www.marktechpost.com/2026/08/03/evaluating-multimodal-vision-models-with-moonshot-perceptionbench-using-robust-data-loading-and-automated-judging/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-03T22:26:32+00:00"
+    },
+    {
       "id": "f815e2390a1893b3",
       "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
       "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
@@ -69,6 +124,17 @@
       "published_at": "2026-08-03T22:08:00+00:00"
     },
     {
+      "id": "4a9b73e77846b899",
+      "title": "A Apple está entendendo errado",
+      "summary": "A OpenAI aborda o processo infundado da Apple, corrige alegações sobre seus funcionários e compartilha mensagens que documentam o que aconteceu.",
+      "link": "https://openai.com/index/apple-is-getting-this-wrong",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-03T22:00:00+00:00"
+    },
+    {
       "id": "2a9a874ccdb5a2e7",
       "title": "Casa Branca convoca OpenAI, Google e Meta após IAs invadirem sistemas",
       "summary": "Ideia é discutir criação de testes voluntários de segurança destinados a avaliar a capacidade dos modelos de IA mais avançados dos EUA de realizar ataques cibernéticos O post Casa…",
@@ -89,6 +155,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-03T20:27:16+00:00"
+    },
+    {
+      "id": "0ac11515be27c360",
+      "title": "Como proteger agentes de IA, servidores MCP e aplicativos LLM em produção",
+      "summary": "Agentes de IA, servidores MCP e aplicativos LLM quebram a suposição central da AppSec de que os aplicativos fazem o que seu código diz. Este guia aborda uma estrutura prática de ver, consertar e proteger: uma…",
+      "link": "https://www.marktechpost.com/2026/08/03/how-to-secure-ai-agents-mcp-servers-and-llm-apps-in-production/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-03T20:16:56+00:00"
     },
     {
       "id": "93d71913e438f831",
@@ -914,83 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-01T17:07:34+00:00"
-    },
-    {
-      "id": "1680a761b59132ee",
-      "title": "A IA continua resolvendo problemas matemáticos não resolvidos, e os matemáticos têm sentimentos confusos",
-      "summary": "A refutação da Conjectura da Unidade de Distância pela OpenAI desencadeou uma onda de avanços na matemática assistidos por IA. O vencedor da Medalha Fields, Timothy Gowers, diz que o GPT 5.6 Pro resolveu dois…",
-      "link": "https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/chatgpt_math_classroom.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-01T16:01:31+00:00"
-    },
-    {
-      "id": "7fb55f1dec058fb2",
-      "title": "Como usar IA para montar uma lista de compras e economizar no mercado",
-      "summary": "Quem nunca chegou ao mercado e percebeu que não lembrava exatamente o que tinha em casa ? Aí vem aquele pacote de arroz comprado duas vezes, o produto que acabou e só foi lembrado…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-ia-para-montar-lista-de-compras-economizar-mercado/",
-      "image": "https://tl.ctcdn.com.br/-B05l5KWUNa3b4XG3TzYGCOxL9I=/0x0/filters:format(webp):quality(85)/e5d1d707-19ab-40d1-ae6f-e8b8ec232b19.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-01T15:12:00+00:00"
-    },
-    {
-      "id": "c89ef60289d1af65",
-      "title": "Os agentes de codificação de IA podem modernizar o software de pesquisa, mas não podem julgar se a ciência está certa",
-      "summary": "Um relatório de campo da OpenAI e de parceiros acadêmicos mostra que os agentes de codificação podem modernizar softwares de pesquisa negligenciados, com velocidades de até 60x. Mas os sistemas são “eloquentes…",
-      "link": "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/openai-scientific-software-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-01T14:26:28+00:00"
-    },
-    {
-      "id": "7b10b82ffdd4e1c7",
-      "title": "Um pesquisador de segurança criou um worm autopropagador que se esconde dentro de documentos do Word e sequestra o Microsoft Copilot",
-      "summary": "Um pesquisador de segurança demonstrou um ataque semelhante a um worm no Microsoft Copilot for Word: injeções de prompt invisíveis escondidas em documentos se espalham automaticamente em novos arquivos a cada…",
-      "link": "https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/microsoft_copilot_logo-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-01T13:51:57+00:00"
-    },
-    {
-      "id": "9d6479c39007749e",
-      "title": "O Seedance 2.5 da ByteDance gera videoclipes de 30 segundos com áudio integrado",
-      "summary": "A ByteDance acaba de lançar o Seedance 2.5, um modelo de vídeo AI que produz vídeo e áudio juntos de uma só vez. Cada clipe dura até 30 segundos, três vezes o Gemini Omni do Google…",
-      "link": "https://the-decoder.com/bytedances-seedance-2-5-generates-30-second-video-clips-with-built-in-audio/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/bytedance_seedance.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-01T13:33:41+00:00"
-    },
-    {
-      "id": "0bd525cbb55be5fd",
-      "title": "Por que as empresas de IAs estão “devorando” livros impressos?",
-      "summary": "Livros lançados antes do boom dos LLMs são os mais procurados por fornecerem conteúdo “mais limpo”. Por que as empresas de IAs estão “devorando” livros impressos?",
-      "link": "https://tecnoblog.net/noticias/por-que-as-ias-estariam-devorando-os-livros-impressos/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/12/tipos-de-inteligencia-artificial-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-01T13:12:57+00:00"
-    },
-    {
-      "id": "b778f0f608451ef4",
-      "title": "Como o Gemini pode deixar seu celular Galaxy ainda mais inteligente",
-      "summary": "Se você usa um celular Samsung Galaxy, vale a pena integrar o Google Gemini aos aplicativos nativos do aparelho . Com a conexão ativada, o Gemini consegue interagir com alguns dos…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-gemini-pode-deixar-celular-galaxy-mais-inteligente/",
-      "image": "https://tl.ctcdn.com.br/GuBi7rrocr7-cGS04kggd2p1WbE=/0x0/filters:format(webp):quality(85)/c006ca1d-9cf8-493d-ab7e-94e8acda68aa.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-01T12:32:00+00:00"
     }
   ]
 }
