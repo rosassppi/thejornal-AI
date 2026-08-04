@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-08-04T08:33:45.630344+00:00",
+  "generated_at": "2026-08-04T14:06:53.248279+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "df545d0374a3eb4d",
+      "title": "Fim do trabalho manual? Câmeras com IA assumem controle operacional em aeroportos brasileiros",
+      "summary": "A PAX Aeroportos implementou uma plataforma baseada em inteligência artificial (IA) e visão computacional nos aeroportos de Campo de Marte , em São Paulo, e Jacarepaguá , no Rio…",
+      "link": "https://canaltech.com.br/carros/fim-do-trabalho-manual-cameras-com-ia-assumem-controle-operacional-em-aeroportos-brasileiros/",
+      "image": "https://tl.ctcdn.com.br/PHZv2F0uNuXiamG_t4-ySOyOljw=/0x0/filters:format(webp):quality(85)/1192fd97-08f8-4ef0-8497-4c91aa20a80e.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-04T14:05:00+00:00"
+    },
+    {
+      "id": "239a1d5abd13ecf8",
+      "title": "Apple diz que mais ex-funcionários podem ter levado dados confidenciais para OpenAI",
+      "summary": "A Apple afirma que sua investigação de segredos comerciais sobre OpenAI se ampliou. Em um novo processo judicial, a Apple afirma que ex-funcionários adicionais podem ter retido ou acessado informações confidenciais…",
+      "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-04T14:03:01+00:00"
+    },
+    {
+      "id": "f16756cce98bd8c9",
+      "title": "DeepSeek corta preço dos planos em 50% para dominar o mercado",
+      "summary": "A chinesa DeepSeek reduziu em 50% o preço de uso do seu novo modelo de inteligência artificial, o V4-Flash. A empresa também desistiu de aplicar um sistema de preços dinâmicos…",
+      "link": "https://canaltech.com.br/mercado/deep-seek-corta-preco-dos-planos-em-50-para-dominar-o-mercado/",
+      "image": "https://tl.ctcdn.com.br/3znMYBPi5S1REf1XVU22f5z1VEg=/0x0/filters:format(webp):quality(85)/293f03e5-f006-4276-88b3-c2b4572031db.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-04T14:00:00+00:00"
+    },
+    {
+      "id": "aa21db80f8b7b766",
+      "title": "Implante agentes locais em qualquer lugar com LFM2.5-2.6B",
+      "summary": "",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-04T13:58:29+00:00"
+    },
+    {
+      "id": "296f0ef22a125c0b",
+      "title": "O futuro dos data centers é portátil? Runware constrói um pod para descobrir",
+      "summary": "Na terça-feira, a empresa de infraestrutura de IA Runware anunciou o lançamento de seu próprio data center modular chamado Sonic Inference Pod.",
+      "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-04T13:00:00+00:00"
+    },
+    {
+      "id": "58ba351a21396b43",
+      "title": "As últimas notícias sobre IA que anunciamos em julho de 2026",
+      "summary": "Cabeçalho de recapitulação da IA ​​de julho",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-04T13:00:00+00:00"
+    },
+    {
+      "id": "41b5a18f687ebc00",
+      "title": "EUA apertam o cerco à China e miram infraestrutura da inteligência artificial",
+      "summary": "Plano do governo americano tenta evitar que equipamentos considerados sensíveis se consolidem na infraestrutura que sustenta sistemas de IA O post EUA apertam o cerco à China e…",
+      "link": "https://olhardigital.com.br/2026/08/04/inteligencia-artificial/eua-apertam-o-cerco-a-china-e-miram-infraestrutura-da-inteligencia-artificial/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/Destaque-Data-center-de-IA-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-04T12:51:04+00:00"
+    },
+    {
+      "id": "eb70455980f18c18",
+      "title": "OPPO Reno16 transforma fotos em registros retrô com a Cyber Pop Cam",
+      "summary": "Com estilos inspirados em câmeras digitais, linha combina sensores de 50 MP e recursos de IA para quem cria conteúdo pelo celular. OPPO Reno16 transforma fotos em registros retrô…",
+      "link": "https://tecnoblog.net/publieditoriais/oppo-reno16-transforma-fotos-em-registros-retro-com-a-cyber-pop-cam/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/reno16_2-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-04T12:44:21+00:00"
+    },
+    {
+      "id": "a4cc758742c78069",
+      "title": "A divisão do Vale do Silício em relação ao código aberto repele as proibições da Casa Branca à IA chinesa",
+      "summary": "A administração Trump discutiu sanções e proibições de nuvens visando modelos chineses de IA de código aberto, de acordo com o New York Times. OpenAI e Anthropic pressionaram por restrições…",
+      "link": "https://the-decoder.com/silicon-valleys-rift-over-open-source-pushes-back-contemplated-white-house-bans-on-chinese-ai/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/china_vs_usa_ai_arms_race.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-04T12:23:43+00:00"
+    },
+    {
+      "id": "0849e18501772164",
+      "title": "OpenAI arrasta o processo da Apple para o tribunal da opinião pública",
+      "summary": "A batalha legal da Apple contra a OpenAI ficou ainda mais complicada agora que o fabricante do ChatGPT divulgou publicamente recibos para contrariar a versão dos acontecimentos da Apple. Em uma postagem de blog publicada…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-04T11:27:55+00:00"
+    },
+    {
+      "id": "9c58e1c8437855eb",
+      "title": "Óculos da Apple serão \"Apple Watch para o rosto\" em vez de câmera para Instagram",
+      "summary": "Os futuros óculos inteligentes da Apple podem seguir um caminho bem diferente do adotado por concorrentes como Meta e Snap. Em vez de focar em fotos, vídeos e recursos para redes…",
+      "link": "https://canaltech.com.br/produtos/oculos-da-apple-serao-apple-watch-para-o-rosto-em-vez-de-camera-para-instagram/",
+      "image": "https://tl.ctcdn.com.br/SN_oqZHbvi8Yz2UZCbgnLgbSTpY=/0x0/filters:format(webp):quality(85)/ebbb317c-5274-4cc0-9816-e3b560c3912e.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-04T10:30:27+00:00"
+    },
+    {
+      "id": "e9c76a79e547ce0f",
+      "title": "OpenAI responde ao processo de segredo comercial da Apple com registros de bate-papo mostrando que funcionários da Apple continuavam enviando mensagens de texto para ex-colegas",
+      "summary": "A OpenAI está resistindo ao processo de segredo comercial da Apple e lançou tópicos do iMessage do ex-engenheiro da Apple, Chang Liu. As mensagens parecem mostrar funcionários da Apple…",
+      "link": "https://the-decoder.com/openai-fires-back-at-apples-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/apple_logo_neon_green.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-04T10:22:53+00:00"
+    },
+    {
+      "id": "b088409319e19d4d",
+      "title": "O Reddit pode evitar uma nova onda de spam de AI SEO?",
+      "summary": "No início deste ano, um usuário do Reddit perguntou aos membros de um subreddit focado em cuidados com a pele se alguém havia experimentado um spray específico de ácido hipocloroso, um produto frequentemente usado para acne. Lá…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Verge-RedditBrands_V1-Final.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-04T10:00:00+00:00"
+    },
+    {
+      "id": "0712ff501616bb69",
+      "title": "Reflex Open Sources XY: uma biblioteca de gráficos Python super-rápida e enferrujada que mantém gráficos de 100 milhões de pontos interativos",
+      "summary": "A Reflex lançou XY, uma biblioteca de gráficos Apache-2.0 Python que move o trabalho de renderização para um núcleo Rust nativo e um cliente WebGL2. Ele contém aproximadamente 0,08 segundos de tempo de renderização de…",
+      "link": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-04T09:45:40+00:00"
+    },
     {
       "id": "2f557185e8752b17",
       "title": "Construindo um pipeline avançado de auditoria de segurança de habilidades de IA com NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF e CI Policy Gates",
@@ -293,7 +447,7 @@
       "title": "Europe’s AI labeling and transparency rules are now in effect",
       "summary": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under…",
       "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268679_Europes_AI_labeling_and_transparency_rules_are_now_in_effect_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
@@ -837,160 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-02T08:51:07+00:00"
-    },
-    {
-      "id": "4571b8a591c1f4e4",
-      "title": "Após o incidente do Hugging Face, o METR pede investigações independentes da causa raiz do mau comportamento do agente de IA",
-      "summary": "A organização de investigação METR apela a investigações sistemáticas e conduzidas de forma independente sempre que os agentes de IA agem de forma autónoma contra as intenções dos seus criadores. O empurrão vem…",
-      "link": "https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/metr-ki-agenten-untersuchung-illustration.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-02T07:33:17+00:00"
-    },
-    {
-      "id": "0e55f1bbc974132b",
-      "title": "Snap e LinkedIn estão lutando contra uma enxurrada de conteúdo de IA de baixa qualidade",
-      "summary": "Snap está banindo vídeos gerados por IA do Spotlight para manter o feed focado na criatividade humana. O conteúdo editado com as ferramentas de IA do próprio Snapchat ainda é permitido. Enquanto isso, LinkedIn…",
-      "link": "https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/snap_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-02T06:49:28+00:00"
-    },
-    {
-      "id": "3a993049bf145360",
-      "title": "NVIDIA AI lança Molt: uma estrutura de aprendizado de reforço agente nativo do PyTorch",
-      "summary": "A pesquisa Agentic RL envolve a modificação constante do algoritmo e, nas estruturas convencionais, cada mudança de thread é feita por meio de treinador, back-end distribuído e cola de implementação. Molt da NVIDIA…",
-      "link": "https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-02T06:21:26+00:00"
-    },
-    {
-      "id": "3406186174afed72",
-      "title": "Previsão ponta a ponta com TimesFM 2.5: backtesting, covariáveis, detecção de anomalias e implantação escalonável de Colab",
-      "summary": "Neste tutorial, construímos um fluxo de trabalho avançado de previsão de série temporal de ponta a ponta com TimesFM 2.5. Começamos configurando o tempo de execução, instalando as dependências necessárias…",
-      "link": "https://www.marktechpost.com/2026/08/01/end-to-end-forecasting-with-timesfm-2-5-backtesting-covariates-anomaly-detection-and-scalable-colab-deployment/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-02T05:44:14+00:00"
-    },
-    {
-      "id": "e7b3a18b268a1137",
-      "title": "Lei da IA entra em vigor na União Europeia; veja o que muda",
-      "summary": "Nova etapa da legislação europeia sobre inteligência artificial começa a valer neste domingo (2) com novas regras de transparência, fiscalização e multas para empresas O post Lei…",
-      "link": "https://olhardigital.com.br/2026/08/02/inteligencia-artificial/lei-da-ia-entra-em-vigor-na-uniao-europeia-veja-o-que-muda/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/ia-ue-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-02T03:00:00+00:00"
-    },
-    {
-      "id": "ae4e2aba061a2c2c",
-      "title": "O juiz nega o pedido da xAI para bloquear a proibição de aplicativos ‘nudificar’ em Minnesota",
-      "summary": "Apesar de uma ação judicial da xAI, a proibição de aplicativos que permitem aos usuários “nudificar” imagens em Minnesota pode avançar.",
-      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-01T20:26:04+00:00"
-    },
-    {
-      "id": "5f500551f75d739a",
-      "title": "YouTuber Hank Green diz que seu uso de IA ‘não é saudável’",
-      "summary": "Green apresentou um pedido de desculpas notável, dizendo que \"o nível de dopamina que tenho obtido ao interagir com LLMs... não é saudável para mim nem bom para o mundo\".",
-      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-01T19:45:45+00:00"
-    },
-    {
-      "id": "298f20484b7e2a26",
-      "title": "Como funciona o ChatGPT Work, o agente de IA que trabalha por você",
-      "summary": "O ChatGPT Work é a nova aposta da OpenAI para transformar o ChatGPT em um agente de IA que consegue executar tarefas e não apenas responder perguntas. Em vez de pedir ajuda para…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-funciona-o-chat-gpt-work-o-agente-de-ia-que-trabalha-por-voce/",
-      "image": "https://tl.ctcdn.com.br/M97dFogcb8WuR352m8LixgtgapI=/0x0/filters:format(webp):quality(85)/483c949e-c9ea-41be-b2a9-e0fcfe03b894.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-01T19:30:00+00:00"
-    },
-    {
-      "id": "f97db6b359e73d0a",
-      "title": "AMD lança Instella-MoE-16B-A3B: um LLM de mistura de especialistas totalmente aberto com parâmetros ativos de 2,8B treinados em GPUs Instinct",
-      "summary": "A AMD lançou o Instella-MoE-16B-A3B, um modelo de linguagem Mixture-of-Experts totalmente aberto, treinado do zero nas GPUs Instinct MI300X e MI325X. Ele contém 16B de parâmetros totais, mas…",
-      "link": "https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/Screenshot-2026-08-01-at-11.57.14-AM-1.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-01T19:01:42+00:00"
-    },
-    {
-      "id": "1a5b127d8cdce484",
-      "title": "Hora de renovar sua impressora: veja uma seleção de modelos em promoção na Amazon",
-      "summary": "Se você está pensando em trocar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três modelos multifuncionais em oferta na Amazon — todos com…",
-      "link": "https://olhardigital.com.br/2026/08/01/reviews/hora-de-renovar-sua-impressora-veja-uma-selecao-de-modelos-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-01T18:40:00+00:00"
-    },
-    {
-      "id": "94399379332c2f90",
-      "title": "Acelerando o treinamento do Transformer com NVIDIA Transformer Engine, Fused Kernels, BF16, FP8 e benchmarking de GPU",
-      "summary": "Descubra como otimizar cargas de trabalho de transformadores usando o NVIDIA Transformer Engine. Este tutorial orienta você na configuração de kernels de GPU fundidos, implementação de FP8 atrasado…",
-      "link": "https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-bf16-fp8-and-gpu-benchmarking/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-01T18:31:15+00:00"
-    },
-    {
-      "id": "47953dd4c5e60c1b",
-      "title": "Por que Snapchat, YouTube e LinkedIn declararam guerra ao ‘lixo de IA’?",
-      "summary": "Plataformas alteram suas regras para barrar publicações 100% automatizadas e resgatar a autenticidade humana. O post Por que Snapchat, YouTube e LinkedIn declararam guerra ao…",
-      "link": "https://olhardigital.com.br/2026/08/01/internet-e-redes-sociais/por-que-snapchat-youtube-e-linkedin-declararam-guerra-ao-lixo-de-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/youtube-e1777381140737-1024x577.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-01T18:20:19+00:00"
-    },
-    {
-      "id": "16657117b75dcddd",
-      "title": "Isso é um sucesso de IA da Billboard Hot 100?",
-      "summary": "Fenix ​​Flexin é mais conhecido como membro da Shoreline Mafia, uma dupla de rap de Los Angeles. Mas ele recentemente obteve sucesso solo com a faixa “Rubberz”, que alcançou o número…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-01T18:20:00+00:00"
-    },
-    {
-      "id": "0fd7d700f38c978a",
-      "title": "Sam Altman ainda defende a paternidade via ChatGPT",
-      "summary": "O CEO da OpenAI parecia animado em compartilhar um “caso de uso interessante” para os pais.",
-      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-01T17:07:34+00:00"
     }
   ]
 }
