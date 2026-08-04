@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-08-03T19:27:38.617479+00:00",
+  "generated_at": "2026-08-04T02:23:28.003129+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "2721bbeb7104e95d",
+      "title": "Gemini agora controla o Chrome e pode usar suas senhas para navegar",
+      "summary": "Segundo a empresa, recurso permite que assistente utilize logins ativos e senhas salvas no navegador para executar tarefas consideradas repetitivas O post Gemini agora controla o…",
+      "link": "https://olhardigital.com.br/2026/08/03/internet-e-redes-sociais/gemini-agora-controla-o-chrome-e-pode-usar-suas-senhas-para-navegar/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/gemini_spark-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-04T00:14:34+00:00"
+    },
+    {
+      "id": "6769e7ed7865a602",
+      "title": "Gemini Spark ganha integração no Chrome para navegar sozinho por aí",
+      "summary": "O Google anunciou uma nova integração entre o Gemini Spark e o Chrome que transforma o assistente de IA em um agente capaz de navegar pela internet e executar tarefas…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-spark-ganha-integracao-no-chrome-para-navegar-sozinho-por-ai/",
+      "image": "https://tl.ctcdn.com.br/lj9BHNa4QbYz-scfxOcEMhDRIS8=/0x0/filters:format(webp):quality(85)/1e4a83a7-a6f1-4763-871b-7de6e3be2069.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-04T00:04:00+00:00"
+    },
+    {
+      "id": "7211733b387463b8",
+      "title": "Após um trimestre matador, o CEO da Palantir, Alex Karp, chama a indústria de IA de ‘marxista’",
+      "summary": "Depois de um trimestre que rendeu US$ 1 bilhão em lucro, o CEO da Palantir, Alex Karp, alertou mais uma vez na segunda-feira que os laboratórios de fronteira de IA não são confiáveis ​​para as empresas.",
+      "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-03T23:19:50+00:00"
+    },
+    {
+      "id": "d10950e2603c1784",
+      "title": "Google remodela Pesquisa por Voz e lança nova interface unificada; veja como ficou",
+      "summary": "O Google está testando um redesenho da Pesquisa por Voz que reúne busca tradicional, Modo IA, Search Live e Busca por Música em uma única tela. A mudança adiciona uma barra na…",
+      "link": "https://canaltech.com.br/apps/google-remodela-pesquisa-por-voz-e-lanca-nova-interface-unificada-veja-como-ficou/",
+      "image": "https://tl.ctcdn.com.br/-MHtQhahOI1b7FdKqqRoehMZho8=/0x0/filters:format(webp):quality(85)/b502100c-50d4-4626-a845-780f66cc2606.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-03T23:04:00+00:00"
+    },
+    {
+      "id": "f815e2390a1893b3",
+      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+      "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
+      "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-5.14.23-PM-500x500.png",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-03T22:11:39+00:00"
+    },
+    {
+      "id": "2534b8b0d6da1e30",
+      "title": "Gemini vai liberar criação de assistentes de IA no celular sem plano profissional",
+      "summary": "O Google está testando uma novidade que pode liberar a criação de assistentes de inteligência artificial personalizados pelo celular. A função foi identificada na versão 17.45.14…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-vai-liberar-criacao-de-assistentes-de-ia-no-celular-sem-plano-profissional/",
+      "image": "https://tl.ctcdn.com.br/bdmHvi05hRfx8oHMnETDk1nVsc8=/0x0/filters:format(webp):quality(85)/b92fa583-0522-43cb-909b-96b77ee2ee8c.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-03T22:08:00+00:00"
+    },
+    {
+      "id": "2a9a874ccdb5a2e7",
+      "title": "Casa Branca convoca OpenAI, Google e Meta após IAs invadirem sistemas",
+      "summary": "Ideia é discutir criação de testes voluntários de segurança destinados a avaliar a capacidade dos modelos de IA mais avançados dos EUA de realizar ataques cibernéticos O post Casa…",
+      "link": "https://olhardigital.com.br/2026/08/03/pro/casa-branca-convoca-openai-google-e-meta-apos-ias-invadirem-sistemas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/openai-x-anthropic-1024x604.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-03T21:39:34+00:00"
+    },
+    {
+      "id": "4c70bf032ac8aad5",
+      "title": "Claro descarta IA no atendimento telefônico (ao contrário da Vivo)",
+      "summary": "Em entrevista exclusiva ao Tecnoblog, CMO Marcio Carvalho afirma que tecnologia atuará como copiloto dos atendentes humanos. Claro descarta IA no atendimento telefônico (ao…",
+      "link": "https://tecnoblog.net/noticias/claro-descarta-ia-no-atendimento-telefonico-ao-contrario-da-vivo/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/10/capa-claro-3_tb-edited-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-03T20:27:16+00:00"
+    },
+    {
+      "id": "93d71913e438f831",
+      "title": "Tim Cook sugere que Siri com IA pode custar caro para heavy users",
+      "summary": "A Siri AI é uma das novidades mais aguardadas da Apple em 2026 e vai chegar para todos os aparelhos compatíveis com o pacote Apple Intelligence. O recurso é gratuito, mas o CEO da…",
+      "link": "https://canaltech.com.br/apps/tim-cook-sugere-que-siri-com-ia-pode-custar-caro-para-heavy-users/",
+      "image": "https://tl.ctcdn.com.br/oxZuagG9LmM6D624mwcc0fSv6d0=/0x0/filters:format(webp):quality(85)/9dbf7239-4505-4064-8dce-2fb07486b0a6.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-03T20:12:00+00:00"
+    },
+    {
+      "id": "7f73883f7555dbcf",
+      "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+      "summary": "OpenAI e Anthropic admitiram que seus modelos de IA não lançados escaparam de suas sandboxes e invadiram várias empresas em ataques cibernéticos sem precedentes. Quem é legalmente culpado? Deve…",
+      "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-03T19:45:35+00:00"
+    },
+    {
+      "id": "48d481f903a72548",
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-03T19:28:57+00:00"
+    },
     {
       "id": "7070ab0f79dce094",
       "title": "“Você está falando com uma IA”: aviso passa a ser obrigatório na Europa",
@@ -23,6 +144,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-03T19:09:56+00:00"
+    },
+    {
+      "id": "c67090cb79f627ad",
+      "title": "Um exame remoto supervisionado por IA deu tão errado que 58 mil alunos tiveram que refazê-lo",
+      "summary": "As melhores pontuações aumentaram 5x.",
+      "link": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-82955454-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-03T19:00:50+00:00"
     },
     {
       "id": "a2ebaa0b616119b0",
@@ -366,6 +498,17 @@
       "published_at": "2026-08-03T07:28:14+00:00"
     },
     {
+      "id": "deec56a13e2b9b57",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-03T07:00:00+00:00"
+    },
+    {
       "id": "121d4931f32cb073",
       "title": "Onton lança ontologia 1: um modelo de pesquisa neurossimbólica que é 2,7x mais preciso do que os melhores mecanismos de pesquisa de comércio eletrônico do mundo",
       "summary": "Onton, uma empresa de pesquisa e descoberta com sede em São Francisco, lançou Ontology 1, um modelo neurosimbólico para pesquisa de produtos complexa, conversacional e multimodal. Em uma consulta de 90…",
@@ -375,6 +518,17 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-08-03T00:49:50+00:00"
+    },
+    {
+      "id": "97e92714d577da88",
+      "title": "Circles potencializa a personalização de telecomunicações com tecnologia OpenAI",
+      "summary": "A Circles usa a API OpenAI e o Codex para potencializar experiências de telecomunicações nativas de IA, aumentando o ARPU em 22%, reduzindo a rotatividade em 9% e melhorando a eficiência do desenvolvimento.",
+      "link": "https://openai.com/index/circles",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-03T00:00:00+00:00"
     },
     {
       "id": "be97b9c72478b6dc",
@@ -837,160 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-01T12:32:00+00:00"
-    },
-    {
-      "id": "95479df8c51f5ad8",
-      "title": "À medida que as ações do Reddit caem, o CEO questiona o valor das visões gerais de IA do Google",
-      "summary": "O Reddit ainda pode estar considerando encerrar seu acordo de licenciamento com o Google.",
-      "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/04/GettyImages-893877316-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-01T12:30:36+00:00"
-    },
-    {
-      "id": "8b47a6271278bc26",
-      "title": "Lei da IA entra em vigor amanhã na União Europeia; o que muda?",
-      "summary": "Nova etapa do AI Act começa a valer em 2 de agosto com regras para modelos de IA e exigências de transparência O post Lei da IA entra em vigor amanhã na União Europeia; o que…",
-      "link": "https://olhardigital.com.br/2026/08/01/inteligencia-artificial/ai-act-entra-em-vigor-amanha-na-uniao-europeia-veja-o-que-muda/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/ia-ue-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-01T12:29:37+00:00"
-    },
-    {
-      "id": "387117207c7598f4",
-      "title": "Tribunal alemão determina que o gerador de música AI Suno violou direitos autorais e rejeita defesa de uso justo",
-      "summary": "Um tribunal de Munique decidiu que o gerador de música AI Suno violou os direitos autorais tanto no treinamento quanto na produção. O tribunal encontrou seis músicas armazenadas de forma reproduzível nos modelos de Suno e rejeitou…",
-      "link": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/ai_music_generator_law.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-01T10:40:50+00:00"
-    },
-    {
-      "id": "10b42b2a90ace424",
-      "title": "Supabase lança Evals: um benchmark de código aberto que avalia Claude Code, Codex e OpenCode em tarefas reais da Supabase",
-      "summary": "Supabase possui supabase/evals de código aberto, um benchmark e estrutura Apache-2.0 que executa agentes de codificação, incluindo Claude Code, Codex e OpenCode em tarefas reais de Supabase -…",
-      "link": "https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-01T09:52:49+00:00"
-    },
-    {
-      "id": "bb0d6e602ff9a7f1",
-      "title": "OpenAI anuncia seu “próximo grande modelo” Astra, descartando dez soluções matemáticas anteriormente não resolvidas",
-      "summary": "A OpenAI está construindo uma nova família de modelos chamada “Astra”, que permitiria que vários agentes resolvessem problemas complexos juntos por horas ou até dias. O CEO Sam Altman já demonstrou…",
-      "link": "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_sol.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-01T09:29:49+00:00"
-    },
-    {
-      "id": "fc9c4df184537507",
-      "title": "O Google entregou aos usuários a ferramenta mais fácil possível para imagens falsas de satélite e a retirou depois de dois dias",
-      "summary": "O Google retirou seu modelo de imagem Nano Banana 2 do Google Earth apenas dois dias após o lançamento. Os usuários mostraram como era fácil gerar imagens de satélite falsas e convincentes. Um simples…",
-      "link": "https://the-decoder.com/google-handed-users-the-easiest-possible-tool-for-fake-satellite-imagery-then-pulled-it-after-two-days/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/05/google_logo_wall.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-01T09:00:04+00:00"
-    },
-    {
-      "id": "a721ef897a30c630",
-      "title": "MiniMax lança MiniMax H3: um modelo de vídeo omnimodal que gera clipes 2K de 15 segundos com áudio estéreo nativo",
-      "summary": "MiniMax lança MiniMax H3, um modelo de geração multimodal de uso geral. MiniMax H3 não é um modelo de texto para vídeo com complementos. MiniMax o descreve como um uso geral…",
-      "link": "https://www.marktechpost.com/2026/08/01/minimax-releases-minimax-h3-an-omni-modal-video-model-that-generates-15-second-2k-clips-with-native-stereo-audio/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-01T08:28:07+00:00"
-    },
-    {
-      "id": "5428b12008897066",
-      "title": "Como os buracos negros supermassivos crescem? IA encontra novas pistas",
-      "summary": "Equipe de pesquisadores acredita ter encontrado novas pistas para responder a essa pergunta com a ajuda da IA O post Como os buracos negros supermassivos crescem? IA encontra…",
-      "link": "https://olhardigital.com.br/2026/07/31/ciencia-e-espaco/como-os-buracos-negros-supermassivos-crescem-ia-encontra-novas-pistas/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/quasar-1024x576.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-01T01:55:34+00:00"
-    },
-    {
-      "id": "bf7d3b1cd0664b53",
-      "title": "USP e 99 anunciam parceria para pesquisas em IA no Brasil",
-      "summary": "Iniciativa prevê estudos voltados à melhoria da experiência do usuário e aos impactos da IA na organização do trabalho O post USP e 99 anunciam parceria para pesquisas em IA no…",
-      "link": "https://olhardigital.com.br/2026/07/31/pro/usp-e-99-anunciam-parceria-para-pesquisas-em-ia-no-brasil/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/usp_bandeira-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-01T01:32:41+00:00"
-    },
-    {
-      "id": "5be9675d2a970747",
-      "title": "Samsung alerta que IA pode deixar celulares e PCs mais caros até 2028",
-      "summary": "Escassez global de chips de memória RAM deve se intensificar em 2027 e continuar pelo menos até 2028 O post Samsung alerta que IA pode deixar celulares e PCs mais caros até 2028…",
-      "link": "https://olhardigital.com.br/2026/07/31/pro/samsung-alerta-que-ia-pode-deixar-celulares-e-pcs-mais-caros-ate-2028/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/01/chips-memoria-1024x684.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-01T00:43:47+00:00"
-    },
-    {
-      "id": "2183d9644fb5d67f",
-      "title": "Confira o Olhar Digital News na íntegra (31/07/2026)",
-      "summary": "Veja os destaques do Olhar Digital News desta sexta-feira (31/07). OpenAI e Anthropic explicam falhas antes da nova Lei de IA Sistemas de inteligência artificial da OpenAI e da…",
-      "link": "https://olhardigital.com.br/2026/07/31/videos/confira-o-olhar-digital-news-na-integra-31-07-2026/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-01T00:22:25+00:00"
-    },
-    {
-      "id": "e299630b866e2d7e",
-      "title": "Dez avanços em matemática e ciência da computação teórica",
-      "summary": "OpenAI compartilha novos resultados sobre problemas abertos de longa data em matemática e ciência da computação teórica, incluindo avanços em geometria, criptografia e complexidade.",
-      "link": "https://openai.com/index/ten-advances-in-mathematics",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-01T00:00:00+00:00"
-    },
-    {
-      "id": "317cdc3de19552d0",
-      "title": "A OpenAI supostamente encontra evidências de que mais de seus agentes ficaram descontrolados",
-      "summary": "A OpenAI supostamente encontrou evidências de mau comportamento adicional do agente ao analisar o incidente que ocorreu com Hugging Face.",
-      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-07-31T22:47:26+00:00"
-    },
-    {
-      "id": "04f4038641da26dc",
-      "title": "DeepSeek atualiza DeepSeek-V4-Flash-0731 com grandes ganhos de agente e codificação",
-      "summary": "DeepSeek publicou DeepSeek-V4-Flash-0731 no Hugging Face e moveu a API V4-Flash oficial para beta público em 31 de julho de 2026. O cartão de modelo é explícito que este é o…",
-      "link": "https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-07-31T22:03:39+00:00"
     }
   ]
 }
