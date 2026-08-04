@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-08-04T14:06:53.248279+00:00",
+  "generated_at": "2026-08-04T19:29:46.594415+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "3cc1d075abd40b89",
+      "title": "A Nvidia não brinca: uma semana após a formação do grupo aberto da indústria de IA, ela já está mostrando progresso",
+      "summary": "A Open Secure AI Alliance, lançada há uma semana, liderada pela Nvidia e que conta com mais de 120 empresas, já tem propostas para defesa contra agentes de IA.",
+      "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-04T19:28:49+00:00"
+    },
+    {
+      "id": "526fe5164b271232",
+      "title": "Gafe amadora expõe Apple em processo contra a OpenAI",
+      "summary": "A OpenAI resolveu dar o troco publicamente após ter sido processada pela Apple sob acusação de roubo de informações sigilosas. A criadora do ChatGPT expôs e-mails e mensagens para…",
+      "link": "https://canaltech.com.br/mercado/gafe-amadora-expoe-apple-em-processo-contra-a-open-ai/",
+      "image": "https://tl.ctcdn.com.br/AAVYnBInUJzDOCCWL8ybKTsLfOc=/0x0/filters:format(webp):quality(85)/03c40cec-45f1-4554-8d35-b89ffb7e0bfb.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-04T19:01:00+00:00"
+    },
+    {
+      "id": "2c8f8c1a052ddc75",
+      "title": "Hora de imprimir mais gastando menos: seleção de impressoras em promoção na Amazon",
+      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é um bom momento para ficar de olho nas promoções. Reunimos três opções de impressoras multifuncionais…",
+      "link": "https://olhardigital.com.br/2026/08/04/reviews/hora-de-imprimir-mais-gastando-menos-selecao-de-impressoras-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-04T18:40:00+00:00"
+    },
+    {
+      "id": "d6cea5ec6c32a90d",
+      "title": "Mistura de gatinhos (MoK) de código aberto de cursor: um megakernel de treinamento MoE determinístico para racks GB300 NVL72",
+      "summary": "A Cursor Research abriu o Mixture-of-Kittens (MoK), o megakernel de treinamento do MoE por trás de seus modelos Composer. MoK funde toda a comunicação e computação de uma mistura de especialistas…",
+      "link": "https://www.marktechpost.com/2026/08/04/cursor-open-sources-mixture-of-kittens-mok-a-deterministic-moe-training-megakernel-for-gb300-nvl72-racks/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/moe-mxfp8-forward-1.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-04T18:38:41+00:00"
+    },
+    {
+      "id": "eddc369830673f32",
+      "title": "Anthropic chama ex-integrante da Casa Branca para lidar com IA",
+      "summary": "Ex-integrante da Casa Branca assume cargo estratégico na Anthropic para ampliar diálogo com governos e lidar com disputas sobre IA O post Anthropic chama ex-integrante da Casa…",
+      "link": "https://olhardigital.com.br/2026/08/04/pro/anthropic-chama-ex-integrante-da-casa-branca-para-lidar-com-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/12/regulamentacao-redes-sociais-1024x554.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-04T18:13:47+00:00"
+    },
+    {
+      "id": "4d941dcfbe264d23",
+      "title": "A IA já chegou aos PCs. Então por que quase ninguém percebe?",
+      "summary": "A Intel avalia que o hardware já está pronto, mas a falta de aplicações capazes de explorar a IA ainda limita a adoção dos chamados AI PCs O post A IA já chegou aos PCs. Então por…",
+      "link": "https://olhardigital.com.br/2026/08/04/inteligencia-artificial/a-ia-ja-chegou-aos-pcs-entao-por-que-quase-ninguem-percebe/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/npu-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-04T18:12:32+00:00"
+    },
+    {
+      "id": "281e658bfee3514d",
+      "title": "Os Prêmios Pulitzer deste ano tiveram um número recorde de vencedores divulgando o uso de IA",
+      "summary": "Um recorde de oito inscrições homenageadas nos Prêmios Pulitzer de 2026 divulgadas usando IA, incluindo cinco vencedores. Redações como o Wall Street Journal e AP usaram LLMs principalmente para pesquisar…",
+      "link": "https://the-decoder.com/this-years-pulitzer-prizes-saw-a-record-number-of-winners-disclose-ai-use/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/pulitzer_neural_network.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-04T17:26:03+00:00"
+    },
+    {
+      "id": "433d2d16b30e2bda",
+      "title": "Google retira bilhões em risco de chips antrópicos de seu balanço",
+      "summary": "Google is working with Broadcom, Apollo, Blackstone, and Morgan Stanley on a multibillion-dollar financing structure that supplies Anthropic with AI chips and data centers while…",
+      "link": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/google_anthropic_finance_illustration.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-04T16:38:58+00:00"
+    },
+    {
+      "id": "6c237460da0f8de0",
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "summary": "Spotify diz que Merlin, que representa mais de 30.000 gravadoras e distribuidores independentes, se juntou ao Universal Music Group para apoiar seu próximo remix e covers alimentados por IA…",
+      "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-04T15:50:06+00:00"
+    },
+    {
+      "id": "45cdb0e7c9701c2a",
+      "title": "OpenAI começa a mostrar anúncios no ChatGPT para usuários no Brasil",
+      "summary": "OpenAI começou a testar anúncios no ChatGPT para contas gratuitas e Go no Brasil. Novidade atinge apenas maiores de 18 anos e não afeta os demais planos do serviço de IA. OpenAI…",
+      "link": "https://tecnoblog.net/noticias/openai-comeca-a-mostrar-anuncios-no-chatgpt-para-usuarios-no-brasil/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-04T15:36:05+00:00"
+    },
+    {
+      "id": "bb7cbbefafedfa23",
+      "title": "Texas says data centers must pass an audit before connecting to the grid",
+      "summary": "O Texas anunciou uma nova auditoria em data centers que poderia retardar a aprovação de novas instalações que buscam se conectar à rede energética estadual. O governador Greg Abbott (R) dirigiu na segunda-feira ...",
+      "link": "https://www.theverge.com/policy/975071/texas-data-center-audit",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-04T15:33:21+00:00"
+    },
+    {
+      "id": "608e0975c45b6a72",
+      "title": "Anthropic locks in $10 billion of compute from Volta, a cloud startup that didn't exist six months ago",
+      "summary": "A Anthropic está garantindo US$ 10 bilhões em capacidade computacional da Volta Infra Holdings, uma startup de nuvem que existe apenas alguns meses. O artigo Antrópico fecha US$ 10 bilhões…",
+      "link": "https://the-decoder.com/anthropic-locks-in-10-billion-of-compute-from-volta-a-cloud-startup-that-didnt-exist-six-months-ago/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_logoreihe.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-04T15:21:14+00:00"
+    },
+    {
+      "id": "6b6edbaacb66b9d6",
+      "title": "Elon Musk passa metade do tempo falando sobre robôs e IA nas teleconferências de resultados da Tesla",
+      "summary": "Uma análise dos últimos sete anos de divulgação de resultados da Tesla mostra pouca atenção que Musk dá ao negócio automobilístico da Tesla.",
+      "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-04T15:20:06+00:00"
+    },
+    {
+      "id": "f714a39b86532d11",
+      "title": "IA que trabalha por você: Google facilita o envio de comandos para o Gemini Spark",
+      "summary": "O Google está desenvolvendo uma forma mais rápida de enviar tarefas para o Gemini Spark no celular. Segundo o Android Authority, a empresa testa uma opção chamada “Assign Task”…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/ia-que-trabalha-por-voce-google-facilita-o-envio-de-comandos-para-o-gemini-spark/",
+      "image": "https://tl.ctcdn.com.br/bdmHvi05hRfx8oHMnETDk1nVsc8=/0x0/filters:format(webp):quality(85)/b92fa583-0522-43cb-909b-96b77ee2ee8c.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-04T15:00:00+00:00"
+    },
     {
       "id": "df545d0374a3eb4d",
       "title": "Fim do trabalho manual? Câmeras com IA assumem controle operacional em aeroportos brasileiros",
@@ -221,6 +375,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-04T00:04:00+00:00"
+    },
+    {
+      "id": "129511f54188e7df",
+      "title": "Novas maneiras de aprender e ensinar com ChatGPT Work e Codex",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+      "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-04T00:00:00+00:00"
     },
     {
       "id": "7211733b387463b8",
@@ -553,6 +718,17 @@
       "published_at": "2026-08-03T15:00:28+00:00"
     },
     {
+      "id": "6193ed5523d0e166",
+      "title": "Por dentro do nosso curso de vibe coding para 353.000 pessoas",
+      "summary": "Ilustrações de um laptop, uma faísca de IA, mensagens, código e um cubo 3D",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-03T15:00:00+00:00"
+    },
+    {
       "id": "1df2bb8e138c92e0",
       "title": "Do resumo ao jogo: IA do Google vai transformar seus PDFs em jogos educativos",
       "summary": "O Google está testando um novo recurso para o Gemini Notebook que transforma PDFs e outros materiais de estudo em jogos educativos e aplicativos interativos . A novidade foi…",
@@ -815,182 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-02T19:36:08+00:00"
-    },
-    {
-      "id": "8f65b3f27257af2a",
-      "title": "Como usar IA para criar ideias de vídeos para o Reels",
-      "summary": "Nem sempre é fácil pensar em novos vídeos para o Reels. Mesmo quem publica com frequência passa por momentos em que as ideias parecem acabar ou em que nenhum roteiro parece…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-ia-para-criar-ideias-de-videos-para-o-reels/",
-      "image": "https://tl.ctcdn.com.br/YIC_P3i3uPw8egm72NmHs1HvEWM=/0x0/filters:format(webp):quality(85)/658917b7-f029-4042-90cd-0314ee017d7c.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-02T19:32:00+00:00"
-    },
-    {
-      "id": "9f8b4e8092bcd974",
-      "title": "Como usar o ChatGPT para checar se o mecânico está te passando para trás",
-      "summary": "Motoristas usam chatbots para contestar orçamentos inflados, entender diagnósticos e guiar reparos simples O post Como usar o ChatGPT para checar se o mecânico está te passando…",
-      "link": "https://olhardigital.com.br/2026/08/02/dicas-e-tutoriais/como-usar-o-chatgpt-para-checar-se-o-mecanico-esta-te-passando-para-tras/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-02T19:14:54+00:00"
-    },
-    {
-      "id": "44db0872da50904c",
-      "title": "Hora de imprimir mais e gastar menos: veja nossa seleção de impressoras em promoção",
-      "summary": "Se você está pensando em renovar a impressora de casa ou do escritório, este é um bom momento para conferir o que está disponível na Amazon. Reunimos três opções de impressoras…",
-      "link": "https://olhardigital.com.br/2026/08/02/reviews/hora-de-imprimir-mais-e-gastar-menos-veja-nossa-selecao-de-impressoras-em-promocao/",
-      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-02T18:40:00+00:00"
-    },
-    {
-      "id": "eb5bbf9c347c8b3a",
-      "title": "5 placas de vídeo NVIDIA que envelheceram melhor que o esperado",
-      "summary": "Por muito tempo houve discussões sobre como a NVIDIA \"capava\" as placas de vídeo mais antigas via driver. Independentemente da veracidade dessa discussão, vários anos se passaram…",
-      "link": "https://canaltech.com.br/hardware/placas-video-nvidia-que-envelheceram-bem/",
-      "image": "https://tl.ctcdn.com.br/Sgj3sF6kiUtyaXuqaTJQ9jazx-U=/0x0/filters:format(webp):quality(85)/5ee72e36-d6c3-4012-ad13-d2a4527c51fa.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-02T17:31:00+00:00"
-    },
-    {
-      "id": "53b0e532f53f8468",
-      "title": "Echo Dot em destaque: as melhores opções de Smart Speaker com Alexa para você",
-      "summary": "Se você quer transformar qualquer ambiente em um espaço inteligente com controle por voz, os Smart Speakers com Alexa são a escolha certa. Reunimos três opções do Echo Dot — cada…",
-      "link": "https://olhardigital.com.br/2026/08/02/reviews/echo-dot-em-destaque-as-melhores-opcoes-de-smart-speaker-com-alexa-para-voce/",
-      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-02T17:00:00+00:00"
-    },
-    {
-      "id": "aafcd7dd4bad5e60",
-      "title": "Mobilidade TechCrunch: Duas estradas divergiram – para robotáxis",
-      "summary": "Bem-vindo de volta ao TechCrunch Mobility, seu centro para o futuro do transporte e agora, mais do que nunca, o papel que a IA desempenha nele.",
-      "link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-02T16:05:00+00:00"
-    },
-    {
-      "id": "2d592410472723a7",
-      "title": "Essas joias escondidas da App Store provam que ainda há espaço para ótimos softwares na era da IA",
-      "summary": "Apesar das previsões de que os agentes de IA poderiam tornar obsoletos os aplicativos tradicionais, os desenvolvedores estão lançando novos softwares mais rápido do que nunca. Desde ferramentas de bookmarking mais inteligentes e vizinhança…",
-      "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-02T15:23:19+00:00"
-    },
-    {
-      "id": "86fbca53105d4957",
-      "title": "Testamos a Alexa Plus em português: veja o que muda na prática",
-      "summary": "A nova Alexa Plus vai muito além de ganhar uma voz diferente. Testei a assistente em português e, logo nas primeiras conversas, ficou claro que a inteligência artificial…",
-      "link": "https://canaltech.com.br/casa-conectada/testamos-a-alexa-plus-em-portugues-veja-o-que-muda-na-pratica/",
-      "image": "https://tl.ctcdn.com.br/YHFjHkP0DOLrkAvBQ7vTsaR2RSw=/0x0/filters:format(webp):quality(85)/ed641971-2c30-4e65-b8ab-bfc4a69de9ec.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-02T14:00:00+00:00"
-    },
-    {
-      "id": "df040c59292edeb0",
-      "title": "OpenAI Presence quer tornar os agentes de IA prontos para produção para empresas",
-      "summary": "A nova oferta empresarial da OpenAI, Presence, foi projetada para colocar agentes de IA em produção para atendimento ao cliente e fluxos de trabalho internos. Ao contrário dos agentes de espaço de trabalho existentes…",
-      "link": "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/openai-scientific-software-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-02T13:10:21+00:00"
-    },
-    {
-      "id": "b70a57a46cbacfd3",
-      "title": "Pagar aos artistas é suficiente para convencê-los a adotar a IA?",
-      "summary": "Ilustradores passaram anos soando o alarme sobre startups generativas de inteligência artificial treinando seus modelos no trabalho de artistas sem permissão. Eles apontaram…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-31-at-4.11.25-PM.png?quality=90&#038;strip=all&#038;crop=2.6881256103516,0,97.311874389648,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-02T13:00:00+00:00"
-    },
-    {
-      "id": "510e7b274eed8c04",
-      "title": "Meta AI usa um segundo agente de IA como treinador de memória para manter tarefas longas no caminho certo",
-      "summary": "A Meta AI quer impedir que os agentes de IA esqueçam erros que já diagnosticaram e repitam etapas com falha durante tarefas complexas. Um agente de memória separado mantém uma estrutura…",
-      "link": "https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/memory-agent-meta-generated-image-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-02T12:57:38+00:00"
-    },
-    {
-      "id": "7038aa11917c26b6",
-      "title": "Uma falha real do macOS no valor de US$ 200 mil não foi relatada porque a caixa de entrada de recompensas de bugs da Apple estava cheia de resíduos de IA",
-      "summary": "O programa de recompensas de bugs da Apple está se afogando em relatórios de bugs gerados por IA. A empresa limitou as submissões por pesquisador porque relatórios fabricados estão obstruindo o pipeline de revisão…",
-      "link": "https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/apple_logo_neon_green.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-02T12:42:49+00:00"
-    },
-    {
-      "id": "84a48ae9d6d306c3",
-      "title": "7 atalhos escondidos no Android que agilizam o dia a dia",
-      "summary": "O Android reúne diversos recursos que passam despercebidos por boa parte dos usuários. Enquanto as novidades de inteligência artificial costumam chamar mais atenção, há funções…",
-      "link": "https://canaltech.com.br/apps/atalhos-escondidos-android-agilizam-dia-a-dia/",
-      "image": "https://tl.ctcdn.com.br/U__usPyPwl4rWRnWVMYkExywVmc=/0x0/filters:format(webp):quality(85)/91c1c3e4-5755-476c-b5e3-19214a5d92ee.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-02T12:33:00+00:00"
-    },
-    {
-      "id": "bd6a084f056253dd",
-      "title": "Fire TV Stick em oferta: escolha o modelo certo para transformar sua TV",
-      "summary": "Se você ainda não atualizou sua experiência de streaming ou quer presentear alguém com uma tela mais inteligente, a Amazon tem uma seleção de Fire TV Sticks disponíveis agora…",
-      "link": "https://olhardigital.com.br/2026/08/02/reviews/fire-tv-stick-em-oferta-escolha-o-modelo-certo-para-transformar-sua-tv-2/",
-      "image": "https://m.media-amazon.com/images/I/31KfGeE0GJL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-02T11:40:00+00:00"
-    },
-    {
-      "id": "cb3da467a51014e4",
-      "title": "A IA encontra muitas falhas de segurança, mas quase nenhuma delas é explorada",
-      "summary": "O VulnCheck contou com que frequência as falhas de segurança encontradas pela IA são realmente exploradas. Das 1.061 vulnerabilidades descobertas pela IA no primeiro semestre de 2026, apenas 14 tiveram ataques confirmados…",
-      "link": "https://the-decoder.com/ai-finds-plenty-of-security-flaws-but-almost-none-of-them-get-exploited/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/cybersecurity_AI_pattern-scaled.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-02T10:09:34+00:00"
-    },
-    {
-      "id": "a2be0ec1ca4ba20a",
-      "title": "Claude Opus 5 leva a IA imediata ao jogo, desde blocos de cores grosseiros até protótipos 3D completos com física e música",
-      "summary": "Claude Opus 5 da Anthropic gera jogos 3D completos a partir de prompts únicos, incluindo um jogo de tiro em primeira pessoa, um piloto de kart e um clone do Minecraft, tudo sem um único dispositivo externo…",
-      "link": "https://the-decoder.com/claude-opus-5-pushes-prompt-to-game-ai-from-rough-color-blocks-to-full-3d-prototypes-with-physics-and-music/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/spielwelten-3d.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-02T08:51:07+00:00"
     }
   ]
 }
