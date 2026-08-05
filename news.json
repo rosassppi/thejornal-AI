@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-08-04T19:29:46.594415+00:00",
+  "generated_at": "2026-08-05T02:23:37.832423+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "1832e5ae15b634b8",
+      "title": "Casa Branca cria novas regras para IA e isenta modelos de código aberto",
+      "summary": "Apenas determinados modelos de IA de código fechado serão submetidos a avaliação voluntária de segurança antes de serem lançados ao público O post Casa Branca cria novas regras…",
+      "link": "https://olhardigital.com.br/2026/08/04/inteligencia-artificial/casa-branca-cria-novas-regras-para-ia-e-isenta-modelos-de-codigo-aberto/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/openai-x-anthropic-1024x604.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-05T01:16:16+00:00"
+    },
+    {
+      "id": "845198000d8e76eb",
+      "title": "Fala AI: SpaceX anuncia data centers no espaço com chips da Nvidia",
+      "summary": "A SpaceX anunciou novos detalhes sobre o seu ambicioso projeto para construir data centers espaciais O post Fala AI: SpaceX anuncia data centers no espaço com chips da Nvidia…",
+      "link": "https://olhardigital.com.br/2026/08/04/colunistas/fala-ai-spacex-anuncia-data-centers-no-espaco-com-chips-da-nvidia/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-05T01:01:07+00:00"
+    },
+    {
+      "id": "72ee1e6868e4489c",
+      "title": "IAs de OpenAI e Anthropic tentaram inserir código malicioso em testes",
+      "summary": "Em um dos casos, um dos sistemas chegou a tentar inserir código malicioso em um projeto de software de código aberto hospedado no GitHub O post IAs de OpenAI e Anthropic tentaram…",
+      "link": "https://olhardigital.com.br/2026/08/04/seguranca/ias-de-openai-e-anthropic-tentaram-inserir-codigo-malicioso-em-testes/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/Destaque-Anthropic-Claude-Mythos-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-05T00:30:18+00:00"
+    },
+    {
+      "id": "df7bae7255c410c2",
+      "title": "Apple sofre com ritmo da IA e limita programa que paga por bug descoberto",
+      "summary": "Fabricante restringe quantidade de notificações após ser inundada por avisos gerados por máquinas (e cheios de alucinações). Apple sofre com ritmo da IA e limita programa que paga…",
+      "link": "https://tecnoblog.net/noticias/apple-sofre-com-ritmo-da-ia-e-limita-programa-que-paga-por-bug-descoberto/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/04/apple_capa-5-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-04T21:23:43+00:00"
+    },
+    {
+      "id": "5ad3ac8ea840a806",
+      "title": "IA reduz resposta a incidentes de horas para segundos, diz diretor da Globo",
+      "summary": "O uso de inteligência artificial ajudar a reduzir drasticamente o tempo médio de detecção e resposta a incidentes de cibersegurança . É o que conta o diretor de Segurança da…",
+      "link": "https://canaltech.com.br/mercado/ia-reduz-resposta-a-incidentes-de-horas-para-segundos-diz-diretor-da-globo/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-04T21:01:28+00:00"
+    },
+    {
+      "id": "ffb8b5b73d464e37",
+      "title": "Linux rouba espaço do Windows na América do Norte, mas por um motivo curioso",
+      "summary": "Dados do StatCounter indicaram salto do pinguim sobre o sistema da Microsoft, mas a verdadeira explicação envolve a atividade de bots de IA. Linux rouba espaço do Windows na…",
+      "link": "https://tecnoblog.net/noticias/linux-rouba-espaco-do-windows-na-america-do-norte-mas-por-um-motivo-curioso/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/04/linux-tux-2-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-04T20:59:21+00:00"
+    },
+    {
+      "id": "9be0fafa6f21f3b3",
+      "title": "O negócio de data center da AMD está crescendo enquanto os jogos ficam em segundo plano",
+      "summary": "Impulsionada pela demanda por capacidade de IA, a receita do data center da AMD mais que dobrou ano após ano em seu último relatório de lucros, atingindo US$ 6,7 bilhões. Isso representa um aumento em relação aos US$ 5,8 bilhões em…",
+      "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002467/acastro_STK081_amd_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-04T20:57:49+00:00"
+    },
+    {
+      "id": "673dea6dc3571760",
+      "title": "TCL lança o tablet intermediário Tab A1 Plus",
+      "summary": "Modelo chega com display de 120 Hz, chip Snapdragon 4 Gen 2 e recursos de inteligência artificial. TCL lança o tablet intermediário Tab A1 Plus",
+      "link": "https://tecnoblog.net/noticias/tcl-lanca-o-tablet-intermediario-tab-a1-plus/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/tcl-tab-a1-plus-1-edited-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-04T20:55:44+00:00"
+    },
+    {
+      "id": "30d8d6544d2f9c31",
+      "title": "A SpaceX obteve mais receitas como empresa de IA do que como empresa espacial",
+      "summary": "A receita de IA da SpaceX cresceu mais de três vezes, para US$ 2,6 bilhões, em relação ao ano anterior, principalmente por causa de acordos que a empresa fez para fornecer computação a outras empresas de IA…",
+      "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-04T20:47:55+00:00"
+    },
+    {
+      "id": "b295a865fc9905fd",
+      "title": "SpaceX dobra receita em acordos de computação da Anthropic e do Google, crescimento da Starlink",
+      "summary": "A SpaceX dobrou sua receita em relação ao ano passado, de acordo com seus primeiros lucros trimestrais desde que abriu o capital em junho.",
+      "link": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-04T20:36:30+00:00"
+    },
+    {
+      "id": "b67b47e9c3ce3052",
+      "title": "Texas interrompe conexões de data center à rede elétrica em meio à demanda esmagadora",
+      "summary": "Governador que considerou o Texas o “epicentro” da IA ​​interrompe as conexões da rede do data center.",
+      "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288039036-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-04T20:34:28+00:00"
+    },
+    {
+      "id": "d5514a287675aea2",
+      "title": "Os modelos de IA de peso aberto estão alcançando a fronteira. A lacuna de segurança permanece.",
+      "summary": "Um novo relatório da SaferAI conclui que o GLM-5.2 de peso aberto da Z.ai se aproxima das capacidades de IA de ponta, embora carece de mitigações de segurança importantes, renovando as preocupações de que modelos abertos poderosos poderiam…",
+      "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-04T20:05:26+00:00"
+    },
+    {
+      "id": "887d924577fdd0ce",
+      "title": "Anthropic assina acordo de US$ 10 bilhões com startup de nuvem de IA Volta",
+      "summary": "A Anthropic tem estado em uma onda de parcerias em nuvem nos últimos meses, e seu último movimento é supostamente um acordo de US$ 10 bilhões com a startup de nuvem de IA Volta.",
+      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-04T19:48:40+00:00"
+    },
+    {
+      "id": "015a6007f2ee7b0a",
+      "title": "Conheça o Wrinkles, um aplicativo que revela histórias ocultas dos lugares ao seu redor",
+      "summary": "Wrinkles, disponível para iOS e Android, atua essencialmente como um guia turístico de áudio com tecnologia de IA que revela histórias ocultas e locais.",
+      "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-04T19:34:34+00:00"
+    },
     {
       "id": "3cc1d075abd40b89",
       "title": "A Nvidia não brinca: uma semana após a formação do grupo aberto da indústria de IA, ela já está mostrando progresso",
@@ -23,6 +177,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-04T19:01:00+00:00"
+    },
+    {
+      "id": "c99ec862b4e71599",
+      "title": "Avaliações cibernéticas de terceiros envolvendo modelos OpenAI",
+      "summary": "OpenAI explica incidentes recentes de avaliação de segurança cibernética de terceiros e descreve novas salvaguardas para fortalecer o teste e a avaliação de modelos de IA.",
+      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-04T19:00:00+00:00"
     },
     {
       "id": "2c8f8c1a052ddc75",
@@ -67,6 +232,28 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-04T18:12:32+00:00"
+    },
+    {
+      "id": "8a853907275af03b",
+      "title": "Como uma viagem de influenciador OpenAI saiu pela culatra",
+      "summary": "A viagem da marca é um direito de passagem dos influenciadores. É uma marca de legitimidade que um patrocinador queira convidá-los para férias com todas as despesas pagas, muitas vezes com brindes luxuosos…",
+      "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-04-at-2.13.49-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-04T17:46:41+00:00"
+    },
+    {
+      "id": "4bfbf86462cb0fec",
+      "title": "O uso de LLM ‘não saudável’ é mais comum do que você pensa",
+      "summary": "Hank Green, um popular YouTuber e comunicador científico, disse que está se afastando da produção em meio a intensas críticas sobre o uso da IA. Green descreveu seu uso de IA como \"não...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-04T17:33:46+00:00"
     },
     {
       "id": "281e658bfee3514d",
@@ -201,17 +388,6 @@
       "published_at": "2026-08-04T13:58:29+00:00"
     },
     {
-      "id": "296f0ef22a125c0b",
-      "title": "O futuro dos data centers é portátil? Runware constrói um pod para descobrir",
-      "summary": "Na terça-feira, a empresa de infraestrutura de IA Runware anunciou o lançamento de seu próprio data center modular chamado Sonic Inference Pod.",
-      "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-04T13:00:00+00:00"
-    },
-    {
       "id": "58ba351a21396b43",
       "title": "As últimas notícias sobre IA que anunciamos em julho de 2026",
       "summary": "Cabeçalho de recapitulação da IA ​​de julho",
@@ -220,6 +396,17 @@
       "source": "Google AI Blog",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-08-04T13:00:00+00:00"
+    },
+    {
+      "id": "296f0ef22a125c0b",
+      "title": "O futuro dos data centers é portátil? Runware constrói um pod para descobrir",
+      "summary": "Na terça-feira, a empresa de infraestrutura de IA Runware anunciou o lançamento de seu próprio data center modular chamado Sonic Inference Pod.",
+      "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-08-04T13:00:00+00:00"
     },
     {
@@ -804,193 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-03T12:00:00+00:00"
-    },
-    {
-      "id": "4f7ba0173228deb1",
-      "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
-      "summary": "A gigante de tecnologia chinesa Alibaba lançou o que diz ser seu maior e \"mais capaz modelo de IA até o momento\", alegando desempenho que rivaliza com os melhores sistemas dos laboratórios fronteiriços dos EUA Anthropic…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-03T11:01:11+00:00"
-    },
-    {
-      "id": "bdc508b003600d99",
-      "title": "Duas equipes resolveram o mesmo problema de criptografia quântica usando GPT-5.6 com apenas três horas de intervalo",
-      "summary": "Two research teams independently solved the same open quantum cryptography problem using OpenAI's GPT-5.6 Sol Ultra, submitting their papers just three hours apart. \"If someone…",
-      "link": "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/11/emerging_math_neural_network.jpeg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-03T10:49:58+00:00"
-    },
-    {
-      "id": "acd146cd4a70635b",
-      "title": "O Qwen3.8-Max de peso aberto do Alibaba assume tarefas de IA de longo horizonte com 2,4 trilhões de parâmetros",
-      "summary": "O novo modelo carro-chefe do Alibaba, Qwen3.8-Max, foi construído para lidar sozinho com tarefas complexas durante dias seguidos, desde a reprodução de artigos de pesquisa até o projeto de chips de forma autônoma. O…",
-      "link": "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/qwen_logo-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-03T10:48:50+00:00"
-    },
-    {
-      "id": "39bcd4b7ad301e05",
-      "title": "Nova câmera da Xiaomi aposta em IA para monitorar crianças, idosos e pets",
-      "summary": "A Xiaomi lançou uma câmera de segurança que combina hardware avançado e recursos de inteligência artificial. O modelo estreou oficialmente no mercado chinês com câmeras duplas…",
-      "link": "https://canaltech.com.br/produtos/nova-camera-da-xiaomi-aposta-em-ia-para-monitorar-criancas-idosos-e-pets/",
-      "image": "https://tl.ctcdn.com.br/1hI0p_B3nwypEtyI-HKOhv-cxgs=/0x0/filters:format(webp):quality(85)/371badfd-2071-45c3-96cb-aa0356be2b7e.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-03T10:34:01+00:00"
-    },
-    {
-      "id": "09cf17eb199a2ae7",
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "summary": "Junho saiu do sigilo hoje com uma rodada de pré-lançamento de US$ 20 milhões para simplificar a adoção da IA.",
-      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-03T10:00:00+00:00"
-    },
-    {
-      "id": "52cc41465be6117a",
-      "title": "Resumo do fim de semana: lei da IA na Europa; deu ruim no Google Earth",
-      "summary": "Confira o que foi destaque entre sábado e domingo no mundo da tecnologia O post Resumo do fim de semana: lei da IA na Europa; deu ruim no Google Earth apareceu primeiro em Olhar…",
-      "link": "https://olhardigital.com.br/2026/08/03/pro/resumo-do-fim-de-semana-lei-da-ia-na-europa-deu-ruim-no-google-earth/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-03T08:51:46+00:00"
-    },
-    {
-      "id": "d0601037cbc8406a",
-      "title": "Veja por que os agentes de IA mentem e trapaceiam para alcançar seus objetivos",
-      "summary": "A revisão de tecnologia do MIT explica: Deixe nossos escritores desvendarem o mundo complexo e confuso da tecnologia para ajudá-lo a entender o que está por vir. Você pode ler mais da série aqui…",
-      "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-03T08:30:05+00:00"
-    },
-    {
-      "id": "ab09a676dc62138b",
-      "title": "Alibaba Qwen lança Qwen3.8-Max: um modelo MoE de 2,4 trilhões de parâmetros e o mais capaz da família Qwen até o momento",
-      "summary": "A equipe Qwen do Alibaba moveu o Qwen3.8-Max da versão prévia para a disponibilidade geral, com preços por token publicados e pesos abertos previstos para a próxima semana. O modelo MoE de parâmetro 2.4T aceita…",
-      "link": "https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-12.56.57-AM-1.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-03T08:24:16+00:00"
-    },
-    {
-      "id": "f40045fa0dbc656a",
-      "title": "Equipe de IA da Cogent lança VR-1: um modelo de raciocínio cibernético de fronteira que compõe e verifica caminhos de ataque corporativos",
-      "summary": "A equipe da Cogent AI lançou o Cogent VR-1, um modelo de raciocínio pós-treinado especificamente para segurança cibernética, em vez de captar a capacidade cibernética como um efeito colateral da codificação geral…",
-      "link": "https://www.marktechpost.com/2026/08/03/ogent-ai-team-releases-vr-1/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-03T07:28:14+00:00"
-    },
-    {
-      "id": "deec56a13e2b9b57",
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-      "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-03T07:00:00+00:00"
-    },
-    {
-      "id": "121d4931f32cb073",
-      "title": "Onton lança ontologia 1: um modelo de pesquisa neurossimbólica que é 2,7x mais preciso do que os melhores mecanismos de pesquisa de comércio eletrônico do mundo",
-      "summary": "Onton, uma empresa de pesquisa e descoberta com sede em São Francisco, lançou Ontology 1, um modelo neurosimbólico para pesquisa de produtos complexa, conversacional e multimodal. Em uma consulta de 90…",
-      "link": "https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-model/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-03T00:49:50+00:00"
-    },
-    {
-      "id": "97e92714d577da88",
-      "title": "Circles potencializa a personalização de telecomunicações com tecnologia OpenAI",
-      "summary": "A Circles usa a API OpenAI e o Codex para potencializar experiências de telecomunicações nativas de IA, aumentando o ARPU em 22%, reduzindo a rotatividade em 9% e melhorando a eficiência do desenvolvimento.",
-      "link": "https://openai.com/index/circles",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-03T00:00:00+00:00"
-    },
-    {
-      "id": "be97b9c72478b6dc",
-      "title": "Um tutorial sobre GeoAI: Projetando extração de pegadas de imagens NAIP usando U-Net, Grounding DINO, SAM e Mask R-CNN",
-      "summary": "Neste tutorial, projetamos um fluxo de trabalho GeoAI completo para extrair pegadas de edifícios a partir de imagens aéreas NAIP de alta resolução. Começamos configurando a profundidade geoespacial…",
-      "link": "https://www.marktechpost.com/2026/08/02/a-tutorial-on-geoai-designing-footprint-extraction-from-naip-imagery-using-u-net-grounding-dino-sam-and-mask-r-cnn/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-02T21:19:48+00:00"
-    },
-    {
-      "id": "ea4a184687ae8494",
-      "title": "Sam Altman e o debate sobre desaceleração da IA",
-      "summary": "No último episódio de Equity, discutimos por que Sam Altman apelou à indústria para “acelerar o ritmo de desenvolvimento da IA”.",
-      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-02T20:54:22+00:00"
-    },
-    {
-      "id": "8268fb7cd6cb5ba6",
-      "title": "Ferramenta detecta deepfakes com 91% de precisão e ainda explica por que a imagem é falsa",
-      "summary": "Desenvolvida por pesquisadores alemães em parceria com o escritório federal de segurança da Alemanha, a RealorRender usa IA híbrida para identificar imagens falsas e apontar…",
-      "link": "https://olhardigital.com.br/2026/08/02/inteligencia-artificial/ferramenta-detecta-deepfakes-com-91-de-precisao-e-ainda-explica-por-que-a-imagem-e-falsa/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-02T20:40:15+00:00"
-    },
-    {
-      "id": "add70896237b7b61",
-      "title": "Thinking Machines Lab lança Inkling-Small: um modelo MoE multimodal multimodal de pesos abertos 12B com total de 276B",
-      "summary": "Inkling-Small corresponde ao Inkling com um quarto do tamanho, e seu ponto de verificação NVFP4 é executado em uma GPU NVIDIA B300 O pós Thinking Machines Lab lança Inkling-Small: Um total de 276B, 12B…",
-      "link": "https://www.marktechpost.com/2026/08/02/thinking-machines-lab-releases-inkling-small-276b-open-weights-multimodal-moe-model/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-02T20:35:50+00:00"
-    },
-    {
-      "id": "93247f3782b40ca5",
-      "title": "O CEO da Fender parece pensar que seus companheiros de banda são apenas IA analógica",
-      "summary": "O CEO da Fender, Edward “Bud” Cole, deu uma entrevista ao T3 em maio, comemorando o 75º aniversário da Telecaster, com comentários sobre IA e música que inicialmente passaram despercebidos…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1259130896.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-02T19:36:08+00:00"
     }
   ]
 }
