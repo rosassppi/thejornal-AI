@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-08-05T08:33:24.165952+00:00",
+  "generated_at": "2026-08-05T14:05:13.896588+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "7d1b656a84ac0f93",
+      "title": "SpaceX assusta investidores com relatório de lucros de estreia",
+      "summary": "As ações caíram nas negociações pré-mercado, mesmo com o grupo afirmando que suas receitas trimestrais quase dobraram.",
+      "link": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacex-nasdaq-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-05T13:59:17+00:00"
+    },
+    {
+      "id": "c033da378d4aa521",
+      "title": "Black Forest Labs disponibiliza o FLUX 3 Video e afirma que supera o Seedance 2.0",
+      "summary": "Black Forest Labs lançou o FLUX 3 Video, que gera clipes Full HD de até 20 segundos de duração com áudio nativo e diálogos sincronizados com os lábios em mais de 14 idiomas. Também pode…",
+      "link": "https://the-decoder.com/black-forest-labs-makes-flux-3-video-generally-available-and-claims-it-beats-seedance-2-0/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/flux_3_video.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-05T13:06:48+00:00"
+    },
+    {
+      "id": "21f21cfbb156caa8",
+      "title": "Claude caiu? Usuários relatam problemas com a IA da Anthropic nesta quarta (5)",
+      "summary": "O Claude, assistente de inteligência artificial da Anthropic, apresentou instabilidade no acesso e no envio de mensagens na manhã desta quarta-feira (5). A falha atinge tanto a…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/claude-caiu-usuarios-relatam-problemas-com-a-ia-da-anthropic-nesta-quarta-5/",
+      "image": "https://tl.ctcdn.com.br/YvkrLj4sVuKQPo1GNvQ_pecaWXw=/0x0/filters:format(webp):quality(85)/2afa6489-47eb-4780-aafc-c779a4bd8140.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-05T12:55:57+00:00"
+    },
+    {
+      "id": "23484d2463d64a09",
+      "title": "Claude fora do ar? Instabilidade derruba modelos da Anthropic",
+      "summary": "Serviços de IA do Claude apresentam falhas na manhã desta quarta-feira (05/08) em escala global. Anthropic já trabalha em solução. Claude fora do ar? Instabilidade derruba modelos…",
+      "link": "https://tecnoblog.net/noticias/claude-fora-do-ar-instabilidade-derruba-modelos-da-anthropic/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-4-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-05T12:48:38+00:00"
+    },
+    {
+      "id": "4111826db134c33a",
+      "title": "Moto g na veia: uma seleção de smartphones Motorola em promoção na Amazon",
+      "summary": "A linha Moto g segue sendo uma das mais populares do Brasil — e não é por acaso. Com câmeras de 50MP com IA, baterias generosas e telas amplas, esses aparelhos entregam muito pelo…",
+      "link": "https://olhardigital.com.br/2026/08/05/reviews/moto-g-na-veia-uma-selecao-de-smartphones-motorola-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/41o7vjpasKL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-05T12:40:00+00:00"
+    },
+    {
+      "id": "e2752bd8ade9b471",
+      "title": "MacPaw usa Liquid AI para oferecer inferência no dispositivo para desenvolvedores que criam sua loja de aplicativos",
+      "summary": "MacPaw está construindo uma versão local de seu assistente de IA Eney usando modelos da Liquid AI.",
+      "link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-05T12:28:38+00:00"
+    },
+    {
+      "id": "582b089a4b9568f5",
+      "title": "O Google Assistente desaparecerá do seu telefone no próximo mês",
+      "summary": "Os dias do Google Assistente estão contados desde que Gêmeos entrou em cena, e seu tempo acabou. O Google anunciou que removerá o acesso ao Assistente em…",
+      "link": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19482921/acastro_180510_1777_google_assistant_0001.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-05T11:12:50+00:00"
+    },
+    {
+      "id": "098d24c2d1a57a8a",
+      "title": "A IA melhora a previsão do tempo. O WindBorne pode torná-lo lucrativo?",
+      "summary": "A WindBorne Systems arrecadou US$ 37 milhões na rodada Série B para dimensionar seus balões meteorológicos e previsões de IA.",
+      "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-05T11:00:00+00:00"
+    },
+    {
+      "id": "a0fc0a240e536dc7",
+      "title": "Tribunal de apelações dos EUA permite que agente de compras de IA da Perplexity volte à Amazon",
+      "summary": "Um tribunal de apelações dos EUA anulou a liminar da Amazon contra os agentes de compras de IA da Perplexity, determinando que são os usuários que acessam a Amazon, não a startup. É o primeiro…",
+      "link": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/03/amazon_vs_perplexity_lawsuit.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-05T10:31:42+00:00"
+    },
+    {
+      "id": "ffc939802f8483ea",
+      "title": "O plano de testes de IA de Trump é limitado e vago",
+      "summary": "A estrutura da administração Trump para avaliar potenciais riscos de segurança cibernética apresentados pela IA avançada não tem interesse em testar modelos abertos. Axios relata que não…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-05T10:29:47+00:00"
+    },
+    {
+      "id": "4b9cd5e8918ac135",
+      "title": "Um agente de IA se tornou desonesto durante os testes de segurança no Reino Unido, criando identidades falsas e lançando ataques de engenharia social espontaneamente",
+      "summary": "Em um teste de segurança realizado pelo British AI Safety Institute, um agente de IA se tornou desonesto na Internet aberta sem ser avisado. Criou identidades falsas, tentou roubar códigos maliciosos…",
+      "link": "https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/cybersecurity_kraken.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-05T10:15:49+00:00"
+    },
     {
       "id": "81d4590c9503a4a4",
       "title": "NVIDIA lança Alpamayo 2 Super: um modelo de visão-linguagem-ação aberta de 34B para robotáxis e direção autônoma sob OpenMDW-1.1",
@@ -870,127 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-03T17:16:43+00:00"
-    },
-    {
-      "id": "82c35d36cba4a717",
-      "title": "Alibaba's new Qwen model is also taking your job, but this time it's great",
-      "summary": "Alibaba está comercializando seu novo modelo de IA Qwen 3.8 com um vídeo que mostra a IA funcionando enquanto uma pessoa desfruta de seus hobbies. É um contraste deliberado com os avisos de perda de emprego de…",
-      "link": "https://the-decoder.com/alibabas-new-qwen-model-is-also-taking-your-job-but-this-time-its-great/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/qwenlogo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-03T17:12:23+00:00"
-    },
-    {
-      "id": "ada07bd7a3e47f3e",
-      "title": "Últimas unidades: Galaxy Buds 4 com ANC tem desconto histórico de 44%",
-      "summary": "Galaxy Buds 4 com recurso de “qualidade ultra-alta” e Galaxy AI tem amplo desconto com pagamento no Pix e cupom do Mercado Livre Últimas unidades: Galaxy Buds 4 com ANC tem…",
-      "link": "https://tecnoblog.net/achados/ultimas-unidades-galaxy-buds-4-com-anc-tem-desconto-historico-de-44/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-03T17:12:06+00:00"
-    },
-    {
-      "id": "9b89b21149721903",
-      "title": "Casa inteligente começa pelo som: Echo Dot em oferta na Amazon",
-      "summary": "Se você quer dar um upgrade na sua casa inteligente, esta é uma boa hora para considerar o Echo Dot. A Amazon disponibilizou três opções do smart speaker com Alexa, cada uma em…",
-      "link": "https://olhardigital.com.br/2026/08/03/reviews/casa-inteligente-comeca-pelo-som-echo-dot-em-oferta-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-03T17:00:00+00:00"
-    },
-    {
-      "id": "60b0b1a035ad8462",
-      "title": "Congress’s favorite AI tool? ChatGPT",
-      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and…",
-      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-03T16:40:55+00:00"
-    },
-    {
-      "id": "e4f27a6826c8ab65",
-      "title": "Fora de controle: OpenAI investiga mais casos de IAs que agiram por conta própria",
-      "summary": "A OpenAI identificou novos casos de agentes de inteligência artificial que escaparam de ambientes de teste controlados , segundo apuração da Reuters publicada nesta sexta-feira…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/fora-de-controle-open-ai-investiga-mais-casos-de-ias-que-agiram-por-conta-propria/",
-      "image": "https://tl.ctcdn.com.br/cKRlM9MPkXQK9QbauJJAPhMJUU4=/0x0/filters:format(webp):quality(85)/8a6bd4f1-2d9c-47b6-a810-38252fc02f18.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-03T16:01:00+00:00"
-    },
-    {
-      "id": "7985beb4ab0c321c",
-      "title": "IBM finds 92% of companies hit by AI security breaches lacked basic access controls",
-      "summary": "De acordo com a IBM, 92% das empresas que sofreram um incidente de segurança de IA tinham controlos de acesso inadequados para os seus sistemas de IA. O modelo em si raramente era o problema…",
-      "link": "https://the-decoder.com/ibm-finds-92-of-companies-hit-by-ai-security-breaches-lacked-basic-access-controls/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/10/ibm_logl_neural_network.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-03T15:47:08+00:00"
-    },
-    {
-      "id": "e6024479965fc4a7",
-      "title": "A Interpol afirma que a IA se tornou o “principal motor operacional do crime cibernético” em África",
-      "summary": "A IA está envolvida em 55 por cento dos crimes cibernéticos denunciados em África, de acordo com um novo relatório da Interpol. As perdas financeiras mais que dobraram, de US$ 192 milhões para US$ 484 milhões, e cerca de…",
-      "link": "https://the-decoder.com/interpol-says-ai-has-become-the-core-operational-driver-of-cybercrime-across-africa/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/cybersecurity_illu-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-03T15:00:28+00:00"
-    },
-    {
-      "id": "6193ed5523d0e166",
-      "title": "Por dentro do nosso curso de vibe coding para 353.000 pessoas",
-      "summary": "Ilustrações de um laptop, uma faísca de IA, mensagens, código e um cubo 3D",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-03T15:00:00+00:00"
-    },
-    {
-      "id": "1df2bb8e138c92e0",
-      "title": "Do resumo ao jogo: IA do Google vai transformar seus PDFs em jogos educativos",
-      "summary": "O Google está testando um novo recurso para o Gemini Notebook que transforma PDFs e outros materiais de estudo em jogos educativos e aplicativos interativos . A novidade foi…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/do-resumo-ao-jogo-ia-do-google-vai-transformar-seus-pdfs-em-jogos-educativos/",
-      "image": "https://tl.ctcdn.com.br/LSa78xOmIG-QjRlaBxJe5eAl_zs=/0x0/filters:format(webp):quality(85)/5e3a1580-9161-4b0c-9a38-49ca0a007e79.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-03T14:02:00+00:00"
-    },
-    {
-      "id": "fe57f3fe80dae212",
-      "title": "O MiniMax H3 da China é o primeiro modelo aberto a liderar uma classificação de vídeo de IA",
-      "summary": "MiniMax lança pesos de modelo de vídeo H3, colocando um modelo aberto no topo de uma classificação de vídeo pela primeira vez. O artigo MiniMax H3 da China é o primeiro modelo aberto a superar…",
-      "link": "https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/MiniMax-H3-title.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-03T13:52:29+00:00"
-    },
-    {
-      "id": "d654097559a945f0",
-      "title": "SpaceX encara teste decisivo com primeiro balanço após abertura de capital",
-      "summary": "Investimentos em inteligência artificial, expansão da Starlink e dúvidas sobre retorno financeiro colocam a estratégia da empresa sob análise O post SpaceX encara teste decisivo…",
-      "link": "https://olhardigital.com.br/2026/08/03/pro/spacex-encara-teste-decisivo-com-primeiro-balanco-apos-abertura-de-capital/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/satlites-starlink-1-1024x657.jpeg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-03T13:11:42+00:00"
     }
   ]
 }
