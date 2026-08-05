@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-05T02:23:37.832423+00:00",
+  "generated_at": "2026-08-05T08:33:24.165952+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "81d4590c9503a4a4",
+      "title": "NVIDIA lança Alpamayo 2 Super: um modelo de visão-linguagem-ação aberta de 34B para robotáxis e direção autônoma sob OpenMDW-1.1",
+      "summary": "A NVIDIA lançou o Alpamayo 2 Super, um modelo de visão-linguagem-ação de 34B para direção autônoma, sob OpenMDW-1.1 - uma licença permissiva que cobre ajustes finos, derivados e…",
+      "link": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-05T08:25:11+00:00"
+    },
+    {
+      "id": "97e81b9488a92aa9",
+      "title": "Procura-se foguete na Lua!",
+      "summary": "Cadê o foguete da SpaceX que ia colidir com nosso satélite natural? O post Procura-se foguete na Lua! apareceu primeiro em Olhar Digital .",
+      "link": "https://olhardigital.com.br/2026/08/05/ciencia-e-espaco/procura-se-foguete-na-lua/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/falcon9lua.jpeg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-05T07:38:19+00:00"
+    },
+    {
+      "id": "ec3b893d5ed0d353",
+      "title": "SDK de canais de código aberto CopilotKit: uma biblioteca licenciada pelo MIT que executa qualquer agente AG-UI dentro do Slack e do Microsoft Teams",
+      "summary": "CopilotKit publicou o Channels SDK, uma biblioteca licenciada pelo MIT que executa um agente AG-UI existente dentro do Slack e do Microsoft Teams. A versão 0.5.0 vem com cinco adaptadores de plataforma…",
+      "link": "https://www.marktechpost.com/2026/08/04/copilotkit-open-sources-channels-sdk/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/image-1.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-05T04:43:17+00:00"
+    },
     {
       "id": "1832e5ae15b634b8",
       "title": "Casa Branca cria novas regras para IA e isenta modelos de código aberto",
@@ -34,6 +67,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-05T00:30:18+00:00"
+    },
+    {
+      "id": "0d57d34619a69a6f",
+      "title": "Pixel-Native RAG: um guia prático para indexação visual de documentos",
+      "summary": "Vá além da análise tradicional baseada em texto com o PixelRAG, um sistema completo que trata páginas da web e PDFs como imagens. Este tutorial explora o pipeline completo – desde…",
+      "link": "https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-04T22:27:38+00:00"
     },
     {
       "id": "df7bae7255c410c2",
@@ -947,50 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-03T13:11:42+00:00"
-    },
-    {
-      "id": "2080e3a392660eb8",
-      "title": "Horizon3 atinge avaliação de US$ 2 bilhões com US$ 250 milhões da Série E à medida que as ameaças de IA aumentam",
-      "summary": "A startup de segurança cibernética Horizon3 arrecadou US$ 250 milhões em uma avaliação de US$ 2 bilhões, já que as empresas desejam validação de segurança contínua e baseada em IA, em vez de pentesting anual.",
-      "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-03T12:50:46+00:00"
-    },
-    {
-      "id": "94b2fba693467bda",
-      "title": "Moto g em destaque: uma seleção de smartphones Motorola com bateria gigante e câmera com IA em promoção",
-      "summary": "A Motorola consolidou sua posição como uma das marcas favoritas do público brasileiro, e não é difícil entender o motivo: a linha Moto g reúne aparelhos com ótimo desempenho…",
-      "link": "https://olhardigital.com.br/2026/08/03/reviews/moto-g-em-destaque-uma-selecao-de-smartphones-motorola-com-bateria-gigante-e-camera-com-ia-em-promocao/",
-      "image": "https://m.media-amazon.com/images/I/41+6eYKowUL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-03T12:40:00+00:00"
-    },
-    {
-      "id": "03e15aa1b3e45c6f",
-      "title": "Unicorn, pelican, Middle-earth: OpenAI co-founder Karpathy is looking for the next AI vibe test",
-      "summary": "Um parágrafo de \"O Senhor dos Anéis\" entra, 5.500 linhas de código saem. Andrej Karpathy fez com que Claude Opus 5 transformasse a abertura de Tolkien em uma cena de navegador 3D. O artigo Unicórnio, pelicano…",
-      "link": "https://the-decoder.com/unicorn-pelican-middle-earth-openai-co-founder-karpathy-is-looking-for-the-next-ai-vibe-test/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Karpathy-LOTR-Opus-5-title.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-03T12:07:31+00:00"
-    },
-    {
-      "id": "956eaeb0474fd28a",
-      "title": "Lightroom ganha IA que amplia fotos e completa o restante da cena",
-      "summary": "A Adobe lançou o Gen Expand, novo recurso de IA generativa do Lightroom , nesta segunda-feira (3). A ferramenta amplia o enquadramento da foto e usa inteligência artificial para…",
-      "link": "https://canaltech.com.br/software/lightroom-ganha-ia-que-amplia-fotos-e-completa-o-restante-da-cena/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-03T12:00:00+00:00"
     }
   ]
 }
