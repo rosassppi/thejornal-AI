@@ -1,7 +1,172 @@
 {
-  "generated_at": "2026-08-05T19:27:12.546779+00:00",
+  "generated_at": "2026-08-06T02:26:01.855799+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "1bc856e28183d48e",
+      "title": "SpaceX compra mais baterias da Tesla para alimentar expansão da IA",
+      "summary": "No período encerrado em 30 de junho, a companhia desembolsou R$ 1,5 bilhão em Megapack O post SpaceX compra mais baterias da Tesla para alimentar expansão da IA apareceu primeiro…",
+      "link": "https://olhardigital.com.br/2026/08/05/pro/spacex-compra-mais-baterias-da-tesla-para-alimentar-expansao-da-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/Destaque-Tesla-Cybertruck-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-06T01:54:33+00:00"
+    },
+    {
+      "id": "5b94293455251eb9",
+      "title": "Olhar do Amanhã: a inteligência artificial está criando uma nova elite cognitiva?",
+      "summary": "A internet e a inteligência artificial democratizam o acesso ao conhecimento ou podem acabar ampliando desigualdades? O post Olhar do Amanhã: a inteligência artificial está…",
+      "link": "https://olhardigital.com.br/2026/08/05/colunistas/olhar-do-amanha-a-inteligencia-artificial-esta-criando-uma-nova-elite-cognitiva/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-06T00:46:51+00:00"
+    },
+    {
+      "id": "dd083223721c924d",
+      "title": "A tentativa de Elon Musk de criar uma Wikipedia sobre IA não é atualizada há meses",
+      "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-06T00:25:10+00:00"
+    },
+    {
+      "id": "81634835e7595562",
+      "title": "De novo! Site diz que IA da Meta saiu do controle durante teste",
+      "summary": "The Information afirma que incidente envolveu o modelo Muse Spark 1.1 O post De novo! Site diz que IA da Meta saiu do controle durante teste apareceu primeiro em Olhar Digital .",
+      "link": "https://olhardigital.com.br/2026/08/05/inteligencia-artificial/de-novo-site-diz-que-ia-da-meta-saiu-do-controle-durante-teste/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/10/meta-2-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-05T23:30:25+00:00"
+    },
+    {
+      "id": "31cc08efee0a7b82",
+      "title": "WhatsApp testa selo de aviso para imagens do ChatGPT e Gemini em canais",
+      "summary": "O WhatsApp está desenvolvendo um selo para identificar mídias geradas por inteligência artificial em canais , incluindo imagens, vídeos e áudios. A novidade foi encontrada pelo…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/whats-app-testa-selo-de-aviso-para-imagens-do-chat-gpt-e-gemini-em-canais/",
+      "image": "https://tl.ctcdn.com.br/sJ70sMRPTrI714JpTP24J8mXc2s=/0x0/filters:format(webp):quality(85)/1bac9192-8b2b-46f5-b962-bb584c7db915.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-05T23:13:00+00:00"
+    },
+    {
+      "id": "e4a4fa52abd17721",
+      "title": "Startups brasileiras de IA miram em problemas locais para ganhar espaço, diz AWS",
+      "summary": "As startups brasileiras nativas de IA concentram seus esforços em problemas locais em vez de tentar competir com modelos generalistas. A avaliação é da head de Startups da AWS…",
+      "link": "https://canaltech.com.br/mercado/startups-brasileiras-de-ia-miram-em-problemas-locais-para-ganhar-espaco-diz-aws/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-05T21:53:46+00:00"
+    },
+    {
+      "id": "8aa087716b07c11f",
+      "title": "Meta lança Muse Code, um agente de IA para grandes bases de código",
+      "summary": "A Meta expandiu suas ofertas de codificação de IA com um novo agente que, promete, pode lidar com tarefas complexas com software complexo.",
+      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-05T21:21:28+00:00"
+    },
+    {
+      "id": "883417b87d5c872b",
+      "title": "DOJ de Trump ganha supervisão dos patrocínios de funcionários com green card da OpenAI",
+      "summary": "O DOJ alegou que a OpenAI não fez nenhuma tentativa significativa de contratar cidadãos dos EUA antes de procurar residência permanente para funcionários portadores de visto.",
+      "link": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-05T21:05:37+00:00"
+    },
+    {
+      "id": "688c66e872b0306b",
+      "title": "Google faz mudanças e troca chefes de divisão de inteligência artificial",
+      "summary": "Demis Hassabis, CEO e cofundador da Google DeepMind, deixará responsabilidades operacionais e assumirá cargo de cientista-chefe. Google faz mudanças e troca chefes de divisão de…",
+      "link": "https://tecnoblog.net/noticias/google-faz-mudancas-e-troca-chefes-de-divisao-de-inteligencia-artificial/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/05/capa-ia-google-3_tb-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-05T20:57:21+00:00"
+    },
+    {
+      "id": "4f13a5c43b082f57",
+      "title": "A IA da Anthropic usou identidades falsas e malware em um ataque desonesto ao projeto GitHub",
+      "summary": "As ações espontâneas dos modelos Antrópico e OpenAI forçaram a suspensão dos testes cibernéticos no Reino Unido.",
+      "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-05T20:47:11+00:00"
+    },
+    {
+      "id": "58d8eb4f1fce25f2",
+      "title": "Samsung lança memória turbinada para IA e quebra recorde",
+      "summary": "Nova arquitetura zHBM multiplica a velocidade dos servidores utilizados por gigantes de IA. Samsung lança memória turbinada para IA e quebra recorde",
+      "link": "https://tecnoblog.net/noticias/samsung-lanca-memoria-turbinada-para-ia-e-quebra-recorde/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/samsung-next-gen-3d-memory-2-edited-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-05T20:17:34+00:00"
+    },
+    {
+      "id": "54b6b9addf48aee0",
+      "title": "Klaviyo adquire a agência de Elias Torres em uma reunião completa para fundadores de tecnologia",
+      "summary": "O empreendedor em série ingressa na empresa de comércio eletrônico como CPO para liderar seus agentes de IA.",
+      "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-05T20:05:00+00:00"
+    },
+    {
+      "id": "28087e5a9417f035",
+      "title": "Reddit sinaliza futuras “mudanças” ameaçadoras para old.reddit.com",
+      "summary": "Reddit diz que o querido site é usado para algum “mau comportamento”.",
+      "link": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2256966963-500x500-1785958057.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-05T20:01:32+00:00"
+    },
+    {
+      "id": "ea27796191fdc08c",
+      "title": "Hank Green encontrou o problema de IA que os rótulos do YouTube não conseguem detectar",
+      "summary": "\"Slop\" não é o único problema.",
+      "link": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2194534888-500x500-1785956226.jpeg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-05T19:51:40+00:00"
+    },
+    {
+      "id": "9ac329a0b0166471",
+      "title": "Jeff Dean e outros importantes pesquisadores de IA estão deixando o Google para lançar sua própria startup",
+      "summary": "O lendário executivo do Google é acompanhado por outros executivos cessantes do Google em uma missão conjunta para usar a IA para impulsionar o processo de descoberta científica.",
+      "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-05T19:30:19+00:00"
+    },
     {
       "id": "5aa907c51693724b",
       "title": "Xiaomi não quer lançar novos óculos inteligentes apesar de produto pronto, diz site",
@@ -826,171 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-04T14:05:00+00:00"
-    },
-    {
-      "id": "239a1d5abd13ecf8",
-      "title": "Apple diz que mais ex-funcionários podem ter levado dados confidenciais para OpenAI",
-      "summary": "A Apple afirma que sua investigação de segredos comerciais sobre OpenAI se ampliou. Em um novo processo judicial, a Apple afirma que ex-funcionários adicionais podem ter retido ou acessado informações confidenciais…",
-      "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-04T14:03:01+00:00"
-    },
-    {
-      "id": "f16756cce98bd8c9",
-      "title": "DeepSeek corta preço dos planos em 50% para dominar o mercado",
-      "summary": "A chinesa DeepSeek reduziu em 50% o preço de uso do seu novo modelo de inteligência artificial, o V4-Flash. A empresa também desistiu de aplicar um sistema de preços dinâmicos…",
-      "link": "https://canaltech.com.br/mercado/deep-seek-corta-preco-dos-planos-em-50-para-dominar-o-mercado/",
-      "image": "https://tl.ctcdn.com.br/3znMYBPi5S1REf1XVU22f5z1VEg=/0x0/filters:format(webp):quality(85)/293f03e5-f006-4276-88b3-c2b4572031db.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-04T14:00:00+00:00"
-    },
-    {
-      "id": "aa21db80f8b7b766",
-      "title": "Implante agentes locais em qualquer lugar com LFM2.5-2.6B",
-      "summary": "",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-04T13:58:29+00:00"
-    },
-    {
-      "id": "58ba351a21396b43",
-      "title": "As últimas notícias sobre IA que anunciamos em julho de 2026",
-      "summary": "Cabeçalho de recapitulação da IA ​​de julho",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-04T13:00:00+00:00"
-    },
-    {
-      "id": "296f0ef22a125c0b",
-      "title": "O futuro dos data centers é portátil? Runware constrói um pod para descobrir",
-      "summary": "Na terça-feira, a empresa de infraestrutura de IA Runware anunciou o lançamento de seu próprio data center modular chamado Sonic Inference Pod.",
-      "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-04T13:00:00+00:00"
-    },
-    {
-      "id": "41b5a18f687ebc00",
-      "title": "EUA apertam o cerco à China e miram infraestrutura da inteligência artificial",
-      "summary": "Plano do governo americano tenta evitar que equipamentos considerados sensíveis se consolidem na infraestrutura que sustenta sistemas de IA O post EUA apertam o cerco à China e…",
-      "link": "https://olhardigital.com.br/2026/08/04/inteligencia-artificial/eua-apertam-o-cerco-a-china-e-miram-infraestrutura-da-inteligencia-artificial/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/Destaque-Data-center-de-IA-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-04T12:51:04+00:00"
-    },
-    {
-      "id": "eb70455980f18c18",
-      "title": "OPPO Reno16 transforma fotos em registros retrô com a Cyber Pop Cam",
-      "summary": "Com estilos inspirados em câmeras digitais, linha combina sensores de 50 MP e recursos de IA para quem cria conteúdo pelo celular. OPPO Reno16 transforma fotos em registros retrô…",
-      "link": "https://tecnoblog.net/publieditoriais/oppo-reno16-transforma-fotos-em-registros-retro-com-a-cyber-pop-cam/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/reno16_2-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-04T12:44:21+00:00"
-    },
-    {
-      "id": "a4cc758742c78069",
-      "title": "A divisão do Vale do Silício em relação ao código aberto repele as proibições da Casa Branca à IA chinesa",
-      "summary": "A administração Trump discutiu sanções e proibições de nuvens visando modelos chineses de IA de código aberto, de acordo com o New York Times. OpenAI e Anthropic pressionaram por restrições…",
-      "link": "https://the-decoder.com/silicon-valleys-rift-over-open-source-pushes-back-contemplated-white-house-bans-on-chinese-ai/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/china_vs_usa_ai_arms_race.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-04T12:23:43+00:00"
-    },
-    {
-      "id": "0849e18501772164",
-      "title": "OpenAI arrasta o processo da Apple para o tribunal da opinião pública",
-      "summary": "A batalha legal da Apple contra a OpenAI ficou ainda mais complicada agora que o fabricante do ChatGPT divulgou publicamente recibos para contrariar a versão dos acontecimentos da Apple. Em uma postagem de blog publicada…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-04T11:27:55+00:00"
-    },
-    {
-      "id": "9c58e1c8437855eb",
-      "title": "Óculos da Apple serão \"Apple Watch para o rosto\" em vez de câmera para Instagram",
-      "summary": "Os futuros óculos inteligentes da Apple podem seguir um caminho bem diferente do adotado por concorrentes como Meta e Snap. Em vez de focar em fotos, vídeos e recursos para redes…",
-      "link": "https://canaltech.com.br/produtos/oculos-da-apple-serao-apple-watch-para-o-rosto-em-vez-de-camera-para-instagram/",
-      "image": "https://tl.ctcdn.com.br/SN_oqZHbvi8Yz2UZCbgnLgbSTpY=/0x0/filters:format(webp):quality(85)/ebbb317c-5274-4cc0-9816-e3b560c3912e.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-04T10:30:27+00:00"
-    },
-    {
-      "id": "e9c76a79e547ce0f",
-      "title": "OpenAI responde ao processo de segredo comercial da Apple com registros de bate-papo mostrando que funcionários da Apple continuavam enviando mensagens de texto para ex-colegas",
-      "summary": "A OpenAI está resistindo ao processo de segredo comercial da Apple e lançou tópicos do iMessage do ex-engenheiro da Apple, Chang Liu. As mensagens parecem mostrar funcionários da Apple…",
-      "link": "https://the-decoder.com/openai-fires-back-at-apples-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/apple_logo_neon_green.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-04T10:22:53+00:00"
-    },
-    {
-      "id": "b088409319e19d4d",
-      "title": "O Reddit pode evitar uma nova onda de spam de AI SEO?",
-      "summary": "No início deste ano, um usuário do Reddit perguntou aos membros de um subreddit focado em cuidados com a pele se alguém havia experimentado um spray específico de ácido hipocloroso, um produto frequentemente usado para acne. Lá…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Verge-RedditBrands_V1-Final.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-04T10:00:00+00:00"
-    },
-    {
-      "id": "0712ff501616bb69",
-      "title": "Reflex Open Sources XY: uma biblioteca de gráficos Python super-rápida e enferrujada que mantém gráficos de 100 milhões de pontos interativos",
-      "summary": "A Reflex lançou XY, uma biblioteca de gráficos Apache-2.0 Python que move o trabalho de renderização para um núcleo Rust nativo e um cliente WebGL2. Ele contém aproximadamente 0,08 segundos de tempo de renderização de…",
-      "link": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-04T09:45:40+00:00"
-    },
-    {
-      "id": "2f557185e8752b17",
-      "title": "Construindo um pipeline avançado de auditoria de segurança de habilidades de IA com NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF e CI Policy Gates",
-      "summary": "Aprenda como criar um pipeline completo de avaliação de segurança para habilidades de agentes de IA usando NVIDIA SkillSpector e LangGraph. Neste tutorial, construímos uma habilidade sintética…",
-      "link": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-04T08:12:36+00:00"
-    },
-    {
-      "id": "cc46c8f91e8f1471",
-      "title": "Y Combinator Open-Sources QM: um chicote de agente multijogador licenciado pelo MIT que funciona no Slack e na Web",
-      "summary": "Y Combinator possui QM de código aberto, o agente multijogador que usa internamente em contabilidade, jurídico, eventos e engenharia. Lançado em 31 de julho de 2026 sob licença do MIT…",
-      "link": "https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-04T04:17:18+00:00"
     }
   ]
 }
