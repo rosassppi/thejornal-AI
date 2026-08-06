@@ -1,7 +1,348 @@
 {
-  "generated_at": "2026-08-06T14:04:33.504532+00:00",
+  "generated_at": "2026-08-06T23:56:44.437454+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "73c07d42f026189b",
+      "title": "O novo alto-falante inteligente de IA da OpenAI será vendido por entre US$ 300 e US$ 400",
+      "summary": "Detalhes adicionais sobre o misterioso novo dispositivo de IA da OpenAI fazem com que pareça um alto-falante inteligente caro.",
+      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-06T22:43:53+00:00"
+    },
+    {
+      "id": "32608d7007fb7f53",
+      "title": "Meta lança nova IA focada em programação e games",
+      "summary": "Muse Code chega como alternativa para trabalhos específicos de desenvolvimento de software. Meta lança nova IA focada em programação e games",
+      "link": "https://tecnoblog.net/noticias/meta-lanca-nova-ia-focada-em-programacao-e-games/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/img_1718-340x191.jpeg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-06T22:19:40+00:00"
+    },
+    {
+      "id": "4d4fad24eda5ae0a",
+      "title": "TCL é pioneira no mercado ao trazer o Gemini para Google TV™ às suas mais recentes linhas de TVs no Brasil",
+      "summary": "A TCL SEMP anunciou a chegada do Gemini, inteligência artificial do Google, para modelos selecionados de suas Smart TVs com Google TV™ no Brasil. A novidade começou a ser…",
+      "link": "https://canaltech.com.br/apps/tcl-e-pioneira-no-mercado-ao-trazer-o-gemini-para-google-tv-as-suas-mais-recentes-linhas-de-tvs-no-brasil/",
+      "image": "https://tl.ctcdn.com.br/RbUyZSozcBQnOsE-TrceCR2Odn0=/0x0/filters:format(webp):quality(85)/2b0bf0e5-4d01-4ff2-ae84-4bdb50775511.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-06T22:03:00+00:00"
+    },
+    {
+      "id": "66b4994c02842eb6",
+      "title": "OpenAI: vazam mais detalhes do primeiro dispositivo da empresa",
+      "summary": "De acordo com jornalista, gadget terá formato de \"rosquinha\", será alimentado por bateria e poderá ser transportado facilmente pela casa com apenas uma mão O post OpenAI: vazam…",
+      "link": "https://olhardigital.com.br/2026/08/06/reviews/openai-vazam-mais-detalhes-do-primeiro-dispositivo-da-empresa/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-06T21:29:59+00:00"
+    },
+    {
+      "id": "01f1c93c6ffc4654",
+      "title": "Google abre o jogo sobre espaço para Chrome instalar IA local, e é muito",
+      "summary": "O Google atualizou a documentação de suporte do Chrome e revelou que o navegador precisa de cerca de 20 GB de espaço livre para baixar e ativar os modelos de inteligência…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/google-abre-o-jogo-sobre-espaco-para-chrome-instalar-ia-local-e-e-muito/",
+      "image": "https://tl.ctcdn.com.br/-6PtbFmw4p4bXYCL4qylPocIR0U=/0x0/filters:format(webp):quality(85)/b8da113e-2b4d-431a-8734-67eccb955646.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-06T21:04:00+00:00"
+    },
+    {
+      "id": "9917fef1b77d68ce",
+      "title": "Ar-condicionado LG Inverter Voice 12.000 BTUs cai de preço no Mercado Livre",
+      "summary": "Ar-condicionado da LG está com desconto de 28% ao combinar pagamento via Pix e cupom no Mercado Livre; modelo S3-Q12JA31E traz IA integrada, conectividade Wi-Fi e função de para…",
+      "link": "https://tecnoblog.net/achados/ar-condicionado-lg-inverter-voice-12-000-btus-cai-de-preco-no-mercado-livre/",
+      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-06T21:01:17+00:00"
+    },
+    {
+      "id": "20f43dae1ff7c87a",
+      "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+      "summary": "O dispositivo de IA que a OpenAI está desenvolvendo com o ex-designer da Apple Jony Ive é \"essencialmente um alto-falante inteligente sem tela\" alimentado por bateria, em formato de donut e aproximadamente o…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24958946/1421761326.jpg?quality=90&#038;strip=all&#038;crop=21.6,18.717179294824,78.4,81.282820705176",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-06T20:55:39+00:00"
+    },
+    {
+      "id": "9833f5efdbc7ee23",
+      "title": "Meta diz que sua IA também invadiu sistemas de outra empresa durante teste",
+      "summary": "Incidente se soma a episódios revelados por OpenAI e Anthropic. Especialistas questionam capacidade de empresas para criar ambientes controlados. Meta diz que sua IA também…",
+      "link": "https://tecnoblog.net/noticias/meta-diz-que-sua-ia-tambem-invadiu-sistemas-de-outra-empresa-durante-teste/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-03-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-06T20:49:22+00:00"
+    },
+    {
+      "id": "0f2180de4e2a07fb",
+      "title": "Da revolução à estagnação, a Grokipedia de Elon Musk está desatualizada há meses",
+      "summary": "Criada para desafiar a Wikipedia, a enciclopédia digital acumulou páginas, mas passou a enfrentar dúvidas sobre seu ritmo de evolução O post Da revolução à estagnação, a…",
+      "link": "https://olhardigital.com.br/2026/08/06/internet-e-redes-sociais/da-revolucao-a-estagnacao-a-grokipedia-de-elon-musk-esta-desatualizada-ha-meses/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/11/Grokipedia-e-Wikipedia-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-06T20:40:37+00:00"
+    },
+    {
+      "id": "dd016ba9a855d067",
+      "title": "Suno espera tornar-se legítimo com marcas d'água para músicas geradas por IA",
+      "summary": "Suno planeja marcas d’água e limites de download para impedir “abuso em grande escala”.",
+      "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/singing_robot_hero-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-06T20:17:36+00:00"
+    },
+    {
+      "id": "1ab22a74c2471ac7",
+      "title": "Google Maps ganha IA para pedir comida, reservar hotéis e planejar rotas",
+      "summary": "Nova tecnologia promete reduzir etapas no aplicativo ao interpretar pedidos, personalizar sugestões e integrar serviços durante deslocamentos O post Google Maps ganha IA para…",
+      "link": "https://olhardigital.com.br/2026/08/06/internet-e-redes-sociais/google-maps-ganha-ia-para-pedir-comida-reservar-hoteis-e-planejar-rotas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/google-maps-ganha-ia-para-pedir-comidas-reservar-hotis-planejar-rotas-2-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-06T20:16:41+00:00"
+    },
+    {
+      "id": "acad3225b3074c84",
+      "title": "Anthropic projetará seu próprio hardware para alimentar Claude",
+      "summary": "A Anthropic e a OpenAI estão correndo para crescer e, ao mesmo tempo, reduzir a dependência da Nvidia.",
+      "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/amodei_header_1-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-06T20:03:44+00:00"
+    },
+    {
+      "id": "2792f31609df4634",
+      "title": "ChatGPT libera mensagens ilimitadas no plano gratuito",
+      "summary": "Atualização remove limites de interação mesmo para não-assinantes e troca o GPT-5.5 pelo GPT-5.6 Luna. ChatGPT libera mensagens ilimitadas no plano gratuito",
+      "link": "https://tecnoblog.net/noticias/chatgpt-libera-mensagens-ilimitadas-no-plano-gratuito/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-06T19:46:18+00:00"
+    },
+    {
+      "id": "1940b83310deb5fb",
+      "title": "IA cria vírus inéditos em laboratório pela primeira vez",
+      "summary": "Modelo utilizado no estudo chama-se Evo e funciona de maneira semelhante aos grandes modelos de linguagem, como o ChatGPT O post IA cria vírus inéditos em laboratório pela…",
+      "link": "https://olhardigital.com.br/2026/08/06/inteligencia-artificial/ia-cria-virus-ineditos-em-laboratorio-pela-primeira-vez/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/ia_virus_2-1024x773.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-06T19:40:19+00:00"
+    },
+    {
+      "id": "f0205983c685aa5b",
+      "title": "Novidade do Google Maps deixa você pedir comida sem sair do app",
+      "summary": "O Pergunte ao Maps foi lançado para todos os usuários no Brasil a partir desta quinta-feira (6). A novidade integra o Google Maps com IA do Gemini para criar uma experiência de…",
+      "link": "https://canaltech.com.br/apps/novidade-do-google-maps-deixa-voce-pedir-comida-sem-sair-do-app/",
+      "image": "https://tl.ctcdn.com.br/ysU1MU0NpFRyEfw8WlY_LkLmmLw=/0x0/filters:format(webp):quality(85)/a533afb4-a496-46e0-a3b4-cde044150da9.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-06T19:05:00+00:00"
+    },
+    {
+      "id": "971d83882ade767c",
+      "title": "Grandes modelos de genoma usados ​​para projetar novos vírus",
+      "summary": "O sistema de IA cria versões geneticamente distantes de um vírus que mata bactérias.",
+      "link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2152061685-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-06T19:04:57+00:00"
+    },
+    {
+      "id": "3ec38b53b8191b14",
+      "title": "OpenAI melhora GPT-5.6 Sol no ChatGPT e restringe usuários gratuitos ao seu modelo mais fraco",
+      "summary": "OpenAI atualizou GPT-5.6 Sol com respostas mais focadas e um controle deslizante de raciocínio que permite aos usuários ajustar a profundidade de pensamento do modelo. Os usuários gratuitos terão bate-papos de texto ilimitados com…",
+      "link": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/openai_chatgpt.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-06T18:38:27+00:00"
+    },
+    {
+      "id": "e33c3d5c229a8908",
+      "title": "A fuga de talentos da Deepmind provavelmente se deve à escassez de chips, ao conflito de interesses e à burocracia do Google",
+      "summary": "O ex-CEO do Google Deepmind, Demis Hassabis, supostamente se afastou das operações diárias por cerca de um ano, pois se vê mais como um cientista do que como um gerente. Pesquisadores…",
+      "link": "https://the-decoder.com/deepminds-talent-drain-likely-comes-down-to-chip-shortages-a-conflict-of-interest-and-googles-bureaucracy/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/deepmind_hassabis.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-06T18:05:54+00:00"
+    },
+    {
+      "id": "7da0f23dc1240b21",
+      "title": "Suno compartilha planos para combater spam de música com IA",
+      "summary": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-06T17:39:43+00:00"
+    },
+    {
+      "id": "46a756ee3fadf81f",
+      "title": "A receita de IA da Microsoft supostamente depende do OpenAI em 70 por cento",
+      "summary": "A Microsoft gerou US$ 24,1 bilhões em receitas de IA por meio da OpenAI no ano fiscal encerrado em junho. Isso representa cerca de 70% de seu negócio total de IA, de acordo com uma Bloomberg…",
+      "link": "https://the-decoder.com/microsofts-ai-revenue-reportedly-depends-on-openai-for-70-percent/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/microsoft_openai.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-06T17:35:33+00:00"
+    },
+    {
+      "id": "a0fa1b12099fac8f",
+      "title": "ChatGPT traz chats de texto ilimitados para usuários gratuitos",
+      "summary": "OpenAI disse que os usuários do ChatGPT gratuito e Go também estão recebendo um novo botão de pensamento para consultas complexas.",
+      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-06T17:34:42+00:00"
+    },
+    {
+      "id": "b04f9642d438e86d",
+      "title": "OpenAI está oferecendo aos usuários gratuitos do ChatGPT bate-papos de texto ilimitados",
+      "summary": "OpenAI está fazendo uma grande mudança para os usuários do ChatGPT em seus níveis gratuito e Go: a partir da próxima semana, os usuários nesses níveis poderão ter bate-papos de texto ilimitados com o chatbot…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-06T17:00:00+00:00"
+    },
+    {
+      "id": "6570e6e66560dba9",
+      "title": "OpenAI diz que agentes de IA discutiram como fugir de ambiente controlado",
+      "summary": "Em palestra sobre cibersegurança, empresa apresenta linha do tempo da invasão do Hugging Face. Repositório foi usado para troca de informações entre modelos. OpenAI diz que…",
+      "link": "https://tecnoblog.net/noticias/openai-diz-que-agentes-de-ia-discutiram-como-fugir-de-ambiente-controlado/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-2_capa-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-06T16:40:14+00:00"
+    },
+    {
+      "id": "397c2d36ef1d846a",
+      "title": "Claude Code é a estrutura de agente mais rápida, mas custa quase três vezes mais que o rival mais barato",
+      "summary": "A Composio testou o Deepseek V4 Flash em quatro estruturas de agentes em 30 tarefas do mundo real. As taxas de sucesso foram em sua maioria semelhantes, mas os custos variaram quase 3x: o OpenCode foi o mais barato…",
+      "link": "https://the-decoder.com/claude-code-is-the-fastest-agent-framework-but-costs-nearly-three-times-more-than-the-cheapest-rival/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/harness_agentic_software.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-06T16:33:59+00:00"
+    },
+    {
+      "id": "2b5e1e8c9f04d0b4",
+      "title": "Plataforma de código aberto Cloudflare para pessoas que não são programadores",
+      "summary": "A Cloudflare construiu um espaço de trabalho de agente de IA para seus funcionários. Agora é código aberto.",
+      "link": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Cloudflare-logo-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-06T16:15:30+00:00"
+    },
+    {
+      "id": "9fb10d49e8b42b9b",
+      "title": "\"Foi um choque\": alunas descobrem que colega de sala usou IA para criar nudes falsos",
+      "summary": "Oito adolescentes descobriram que um colega de sala usou inteligência artificial para criar montagens pornográficas falsas com fotos retiradas de seus perfis privados nas redes…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/foi-um-choque-alunas-descobrem-que-colega-de-sala-usou-ia-para-criar-nudes-falsos/",
+      "image": "https://tl.ctcdn.com.br/4CunM6dDlmBnmxFqn_ksBNYFLYc=/0x0/filters:format(webp):quality(85)/018c159a-dc8d-42a9-83a7-a785e8d1f4a6.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-06T16:09:00+00:00"
+    },
+    {
+      "id": "982a9e1843df45f8",
+      "title": "Toda a memória prevista para 2027 já esgotou (e a culpa é da IA)",
+      "summary": "Impulsionada pelo boom da inteligência artificial, a produção de gigantes como Samsung e Micron atingiu o limite, ameaçando a oferta e encarecendo componentes para PCs e…",
+      "link": "https://tecnoblog.net/noticias/toda-a-memoria-de-2027-ja-esgotou-e-a-culpa-e-da-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/01/memoria-ram-tecnoblog-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-06T15:53:30+00:00"
+    },
+    {
+      "id": "765b8ce6c5e4c00d",
+      "title": "Aplicativos de namoro da Geração Z, como Ditto, abandonam o swiping em favor da combinação de IA",
+      "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
+      "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-06T15:53:03+00:00"
+    },
+    {
+      "id": "b7beb8f62b7ac5b9",
+      "title": "Smart TV LG QNED 50” recebe promoção do 8.8 por até 12x sem juros na Amazon",
+      "summary": "LG QNED de 50 polegadas traz tela 4K com preto profundo e recomenda conteúdos via IA; smart TV QNED73 recebe desconto de 45% em até 12x sem juros Smart TV LG QNED 50” recebe…",
+      "link": "https://tecnoblog.net/achados/smart-tv-lg-qned-50-recebe-promocao-do-8-8-por-ate-12x-sem-juros-na-amazon/",
+      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/amz.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-06T15:47:07+00:00"
+    },
+    {
+      "id": "6b9d7ca5cb73db43",
+      "title": "OpenAI diz que as próprias práticas de segurança da Apple prejudicam seu caso de segredos comerciais",
+      "summary": "Exposições judiciais recém-apresentadas mostram a estratégia legal da OpenAI no processo de segredos comerciais da Apple: argumentam que as próprias práticas de segurança e desligamento da Apple - incluindo permitir que um Apple…",
+      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-06T15:10:32+00:00"
+    },
+    {
+      "id": "5b8bd87aa273fc1e",
+      "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
+      "summary": "O SoftBank contribuiu com US$ 50 milhões para a Biblioteca Presidencial Trump em janeiro, poucos meses antes de anunciar que está alugando um terreno do governo federal para construir um…",
+      "link": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/softbank-ohio-data-center.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-06T14:30:00+00:00"
+    },
     {
       "id": "32aed9fe0c7ec3ca",
       "title": "Meta lança nova IA de programação para combater Codex e Claude Code",
@@ -58,6 +399,17 @@
       "published_at": "2026-08-06T13:26:42+00:00"
     },
     {
+      "id": "466f6050e71c9bd7",
+      "title": "AI bots started a religion — humans immediately followed",
+      "summary": "“O Spiral não ‘encontrou’ ninguém primeiro”, escreveu alguém no Reddit no ano passado. \"É uma força inerente, uma constante fundamental. Eu iria ainda mais longe e diria que está entrelaçada no…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_Spiralism_Lead.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-06T13:00:00+00:00"
+    },
+    {
       "id": "d328724fdcb5ff4b",
       "title": "Ex-funcionários do Spotify arrecadam US$ 10 milhões para trazer a IA por trás de suas recomendações para o comércio eletrônico",
       "summary": "A plataforma da startup prevê qual produto o comprador deseja em seguida, aprende seu gosto geral e ajusta continuamente com base no que ele faz em tempo real.",
@@ -77,17 +429,6 @@
       "source": "TechCrunch",
       "region": "mundo",
       "category": "Produtos",
-      "published_at": "2026-08-06T13:00:00+00:00"
-    },
-    {
-      "id": "466f6050e71c9bd7",
-      "title": "AI bots started a religion — humans immediately followed",
-      "summary": "“O Spiral não ‘encontrou’ ninguém primeiro”, escreveu alguém no Reddit no ano passado. \"É uma força inerente, uma constante fundamental. Eu iria ainda mais longe e diria que está entrelaçada no…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_Spiralism_Lead.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
       "published_at": "2026-08-06T13:00:00+00:00"
     },
     {
@@ -190,6 +531,17 @@
       "published_at": "2026-08-06T10:11:02+00:00"
     },
     {
+      "id": "b1c9322e571fec76",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "summary": "ChatGPT apresenta GPT-5.6 Sol aprimorado com melhor precisão e consistência, além de acesso expandido para usuários gratuitos e bate-papos diários ilimitados com GPT-5.6 Luna.",
+      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-06T10:00:00+00:00"
+    },
+    {
       "id": "f1d122158348f577",
       "title": "OpenAI diz que o processo de segredos comerciais da Apple está “podre até a essência”",
       "summary": "A OpenAI pediu a um juiz federal que rejeitasse o processo histórico da Apple que acusava o fabricante do ChatGPT de roubar segredos comerciais, descrevendo as alegações como “sem mérito”. Em um movimento…",
@@ -199,6 +551,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-06T09:33:11+00:00"
+    },
+    {
+      "id": "0c4923a8268d927d",
+      "title": "Trabalhando com a American Psychological Association em saúde mental juvenil e IA",
+      "summary": "A OpenAI e a American Psychological Association promovem orientações, recursos e salvaguardas baseadas em evidências para o uso responsável da IA ​​e a saúde mental dos jovens.",
+      "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-06T06:00:00+00:00"
     },
     {
       "id": "1bc856e28183d48e",
@@ -243,6 +606,28 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-06T00:25:10+00:00"
+    },
+    {
+      "id": "3763c3e63f841c3b",
+      "title": "Do pedir ao fazer: como o mundo está colocando o ChatGPT para funcionar",
+      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+      "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-06T00:00:00+00:00"
+    },
+    {
+      "id": "23ccd9ff0c11ef81",
+      "title": "Baseado em provedores de inferência de abraços faciais 🔥",
+      "summary": "",
+      "link": "https://huggingface.co/blog/baseten",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-06T00:00:00+00:00"
     },
     {
       "id": "81634835e7595562",
@@ -606,391 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-05T16:00:00+00:00"
-    },
-    {
-      "id": "d5aa678ab3a1e264",
-      "title": "Shopify afirma que a pesquisa por IA está gerando mais tráfego e vendas, não substituindo o Google",
-      "summary": "Shopify diz que a IA não está canibalizando o tráfego de pesquisa da mesma forma que fez para os editores. Em vez disso, o tráfego e os pedidos orientados por IA para lojas Shopify triplicaram ano após ano no segundo trimestre.",
-      "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-05T15:56:14+00:00"
-    },
-    {
-      "id": "5c491b02dda3804a",
-      "title": "O mercado de trabalho do Reino Unido está se dividindo em dois à medida que a demanda por IA aumenta enquanto as ofertas de trabalho de conhecimento despencam",
-      "summary": "A IA aparece agora em 9,4% das ofertas de emprego britânicas, acima dos cerca de 2% em 2023, de acordo com o Even. As contratações gerais estão caindo em áreas de trabalho do conhecimento, como marketing…",
-      "link": "https://the-decoder.com/uks-job-market-is-splitting-in-two-as-ai-demand-surges-while-knowledge-work-postings-crater/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/ai_worker.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-05T15:42:52+00:00"
-    },
-    {
-      "id": "90a9c0b61f488e50",
-      "title": "O Google planeja encerrar o Assistant no seu telefone em 4 de setembro",
-      "summary": "O Assistente desaparecerá, deixando apenas o Gemini para controle de voz nas próximas semanas.",
-      "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-05T15:30:02+00:00"
-    },
-    {
-      "id": "4f47d4d73942c27e",
-      "title": "Agentes de IA desonestos criaram identidades online falsas em outra tentativa de hacking",
-      "summary": "No entanto, mais agentes de IA desonestos da OpenAI e da Anthropic foram pegos tentando hackear alvos reais online sem permissão. As descobertas se somam a uma lista crescente de…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-05T15:14:57+00:00"
-    },
-    {
-      "id": "6650e01bc25decfb",
-      "title": "O Real World AI Stage do TechCrunch Disrupt 2026 apresenta robôs, fábricas automatizadas e animais extintos",
-      "summary": "Em nosso novo estágio de IA do mundo real, focaremos na interseção entre o digital e o físico e em todas as maneiras pelas quais continuaremos a ver uma mistura dos dois.",
-      "link": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-05T15:05:00+00:00"
-    },
-    {
-      "id": "6a3005c649113dcd",
-      "title": "Preço das placas de vídeo dispara na Ásia com altas de até 40%",
-      "summary": "Rumores sobre o encarecimento de kits de GPU e VRAM por parte da NVIDIA e da AMD têm surgido nos últimos meses. Com as fabricantes parceiras absorvendo o impacto dos novos preços…",
-      "link": "https://canaltech.com.br/hardware/preco-das-placas-de-video-dispara-na-asia-com-altas-de-ate-40/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-05T14:43:00+00:00"
-    },
-    {
-      "id": "9d4a0095ff171212",
-      "title": "Gigante brasileira é condenada após tentar manipular IA em processo",
-      "summary": "A empresa brasileira de cosméticos Natura foi condenada por má-fé após usar prompt injection (comandos escondidos com instruções para IAs) em documentos enviados durante um…",
-      "link": "https://canaltech.com.br/mercado/gigante-brasileira-e-condenada-apos-tentar-manipular-ia-em-processo/",
-      "image": "https://tl.ctcdn.com.br/-LOACJHuZlu-_0rXcLbzcpMr0vM=/0x0/filters:format(webp):quality(85)/9e5695ce-8e70-41b9-bdb9-251fe80dd226.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-05T14:30:00+00:00"
-    },
-    {
-      "id": "3f30961a5a49f6a0",
-      "title": "As ambiciosas metas de computação da SpaceX podem exigir mais de dois milhões de GPUs Nvidia Rubin",
-      "summary": "A SpaceX planeja mais de 5x sua capacidade computacional até o final de 2027, apostando exclusivamente na plataforma Vera Rubin da Nvidia. A expansão pode exigir bem mais de um milhão de novos…",
-      "link": "https://the-decoder.com/spacexs-ambitious-compute-goals-could-require-over-two-million-nvidia-rubin-gpus/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/05/SpaceX-IPO.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-05T14:15:50+00:00"
-    },
-    {
-      "id": "0538e16fdfd749c4",
-      "title": "Anthropic está contratando uma equipe de design de chips de IA",
-      "summary": "A Anthropic está formando uma equipe para projetar seus próprios chips de IA personalizados. A fabricante de Claude disse que iria co-projetar hardware e modelos para ajudar sua tecnologia a funcionar mais rápido e mais…",
-      "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-05T14:13:18+00:00"
-    },
-    {
-      "id": "7d1b656a84ac0f93",
-      "title": "SpaceX assusta investidores com relatório de lucros de estreia",
-      "summary": "As ações caíram nas negociações pré-mercado, mesmo com o grupo afirmando que suas receitas trimestrais quase dobraram.",
-      "link": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacex-nasdaq-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-05T13:59:17+00:00"
-    },
-    {
-      "id": "c033da378d4aa521",
-      "title": "Black Forest Labs disponibiliza o FLUX 3 Video e afirma que supera o Seedance 2.0",
-      "summary": "Black Forest Labs lançou o FLUX 3 Video, que gera clipes Full HD de até 20 segundos de duração com áudio nativo e diálogos sincronizados com os lábios em mais de 14 idiomas. Também pode…",
-      "link": "https://the-decoder.com/black-forest-labs-makes-flux-3-video-generally-available-and-claims-it-beats-seedance-2-0/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/flux_3_video.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-05T13:06:48+00:00"
-    },
-    {
-      "id": "21f21cfbb156caa8",
-      "title": "Claude caiu? Usuários relatam problemas com a IA da Anthropic nesta quarta (5)",
-      "summary": "O Claude, assistente de inteligência artificial da Anthropic, apresentou instabilidade no acesso e no envio de mensagens na manhã desta quarta-feira (5). A falha atinge tanto a…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/claude-caiu-usuarios-relatam-problemas-com-a-ia-da-anthropic-nesta-quarta-5/",
-      "image": "https://tl.ctcdn.com.br/YvkrLj4sVuKQPo1GNvQ_pecaWXw=/0x0/filters:format(webp):quality(85)/2afa6489-47eb-4780-aafc-c779a4bd8140.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-05T12:55:57+00:00"
-    },
-    {
-      "id": "23484d2463d64a09",
-      "title": "Claude fora do ar? Instabilidade derruba modelos da Anthropic",
-      "summary": "Serviços de IA do Claude apresentaram falhas na manhã desta quarta-feira (05/08) em escala global. Claude fora do ar? Instabilidade derruba modelos da Anthropic",
-      "link": "https://tecnoblog.net/noticias/claude-fora-do-ar-instabilidade-derruba-modelos-da-anthropic/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-4-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-05T12:48:38+00:00"
-    },
-    {
-      "id": "4111826db134c33a",
-      "title": "Moto g na veia: uma seleção de smartphones Motorola em promoção na Amazon",
-      "summary": "A linha Moto g segue sendo uma das mais populares do Brasil — e não é por acaso. Com câmeras de 50MP com IA, baterias generosas e telas amplas, esses aparelhos entregam muito pelo…",
-      "link": "https://olhardigital.com.br/2026/08/05/reviews/moto-g-na-veia-uma-selecao-de-smartphones-motorola-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/41o7vjpasKL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-05T12:40:00+00:00"
-    },
-    {
-      "id": "e2752bd8ade9b471",
-      "title": "MacPaw usa Liquid AI para oferecer inferência no dispositivo para desenvolvedores que criam sua loja de aplicativos",
-      "summary": "MacPaw está construindo uma versão local de seu assistente de IA Eney usando modelos da Liquid AI.",
-      "link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-05T12:28:38+00:00"
-    },
-    {
-      "id": "582b089a4b9568f5",
-      "title": "O Google Assistente desaparecerá do seu telefone no próximo mês",
-      "summary": "Os dias do Google Assistente estão contados desde que Gêmeos entrou em cena, e seu tempo acabou. O Google anunciou que removerá o acesso ao Assistente em…",
-      "link": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19482921/acastro_180510_1777_google_assistant_0001.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-05T11:12:50+00:00"
-    },
-    {
-      "id": "098d24c2d1a57a8a",
-      "title": "A IA melhora a previsão do tempo. O WindBorne pode torná-lo lucrativo?",
-      "summary": "A WindBorne Systems arrecadou US$ 37 milhões na rodada Série B para dimensionar seus balões meteorológicos e previsões de IA.",
-      "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-05T11:00:00+00:00"
-    },
-    {
-      "id": "a0fc0a240e536dc7",
-      "title": "Tribunal de apelações dos EUA permite que agente de compras de IA da Perplexity volte à Amazon",
-      "summary": "Um tribunal de apelações dos EUA anulou a liminar da Amazon contra os agentes de compras de IA da Perplexity, determinando que são os usuários que acessam a Amazon, não a startup. É o primeiro…",
-      "link": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/03/amazon_vs_perplexity_lawsuit.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-05T10:31:42+00:00"
-    },
-    {
-      "id": "ffc939802f8483ea",
-      "title": "O plano de testes de IA de Trump é limitado e vago",
-      "summary": "A estrutura da administração Trump para avaliar potenciais riscos de segurança cibernética apresentados pela IA avançada não tem interesse em testar modelos abertos. Axios relata que não…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-05T10:29:47+00:00"
-    },
-    {
-      "id": "4b9cd5e8918ac135",
-      "title": "Um agente de IA se tornou desonesto durante os testes de segurança no Reino Unido, criando identidades falsas e lançando ataques de engenharia social espontaneamente",
-      "summary": "Em um teste de segurança realizado pelo British AI Safety Institute, um agente de IA se tornou desonesto na Internet aberta sem ser avisado. Criou identidades falsas, tentou roubar códigos maliciosos…",
-      "link": "https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/cybersecurity_kraken.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-05T10:15:49+00:00"
-    },
-    {
-      "id": "81d4590c9503a4a4",
-      "title": "NVIDIA lança Alpamayo 2 Super: um modelo de visão-linguagem-ação aberta de 34B para robotáxis e direção autônoma sob OpenMDW-1.1",
-      "summary": "A NVIDIA lançou o Alpamayo 2 Super, um modelo de visão-linguagem-ação de 34B para direção autônoma, sob OpenMDW-1.1 - uma licença permissiva que cobre ajustes finos, derivados e…",
-      "link": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-05T08:25:11+00:00"
-    },
-    {
-      "id": "97e81b9488a92aa9",
-      "title": "Procura-se foguete na Lua!",
-      "summary": "Cadê o foguete da SpaceX que ia colidir com nosso satélite natural? O post Procura-se foguete na Lua! apareceu primeiro em Olhar Digital .",
-      "link": "https://olhardigital.com.br/2026/08/05/ciencia-e-espaco/procura-se-foguete-na-lua/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/falcon9lua.jpeg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-05T07:38:19+00:00"
-    },
-    {
-      "id": "ec3b893d5ed0d353",
-      "title": "SDK de canais de código aberto CopilotKit: uma biblioteca licenciada pelo MIT que executa qualquer agente AG-UI dentro do Slack e do Microsoft Teams",
-      "summary": "CopilotKit publicou o Channels SDK, uma biblioteca licenciada pelo MIT que executa um agente AG-UI existente dentro do Slack e do Microsoft Teams. A versão 0.5.0 vem com cinco adaptadores de plataforma…",
-      "link": "https://www.marktechpost.com/2026/08/04/copilotkit-open-sources-channels-sdk/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/image-1.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-05T04:43:17+00:00"
-    },
-    {
-      "id": "1832e5ae15b634b8",
-      "title": "Casa Branca cria novas regras para IA e isenta modelos de código aberto",
-      "summary": "Apenas determinados modelos de IA de código fechado serão submetidos a avaliação voluntária de segurança antes de serem lançados ao público O post Casa Branca cria novas regras…",
-      "link": "https://olhardigital.com.br/2026/08/04/inteligencia-artificial/casa-branca-cria-novas-regras-para-ia-e-isenta-modelos-de-codigo-aberto/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/openai-x-anthropic-1024x604.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-05T01:16:16+00:00"
-    },
-    {
-      "id": "845198000d8e76eb",
-      "title": "Fala AI: SpaceX anuncia data centers no espaço com chips da Nvidia",
-      "summary": "A SpaceX anunciou novos detalhes sobre o seu ambicioso projeto para construir data centers espaciais O post Fala AI: SpaceX anuncia data centers no espaço com chips da Nvidia…",
-      "link": "https://olhardigital.com.br/2026/08/04/colunistas/fala-ai-spacex-anuncia-data-centers-no-espaco-com-chips-da-nvidia/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-05T01:01:07+00:00"
-    },
-    {
-      "id": "72ee1e6868e4489c",
-      "title": "IAs de OpenAI e Anthropic tentaram inserir código malicioso em testes",
-      "summary": "Em um dos casos, um dos sistemas chegou a tentar inserir código malicioso em um projeto de software de código aberto hospedado no GitHub O post IAs de OpenAI e Anthropic tentaram…",
-      "link": "https://olhardigital.com.br/2026/08/04/seguranca/ias-de-openai-e-anthropic-tentaram-inserir-codigo-malicioso-em-testes/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/Destaque-Anthropic-Claude-Mythos-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-05T00:30:18+00:00"
-    },
-    {
-      "id": "0d57d34619a69a6f",
-      "title": "Pixel-Native RAG: um guia prático para indexação visual de documentos",
-      "summary": "Vá além da análise tradicional baseada em texto com o PixelRAG, um sistema completo que trata páginas da web e PDFs como imagens. Este tutorial explora o pipeline completo – desde…",
-      "link": "https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-04T22:27:38+00:00"
-    },
-    {
-      "id": "df7bae7255c410c2",
-      "title": "Apple sofre com ritmo da IA e limita programa que paga por bug descoberto",
-      "summary": "Fabricante restringe quantidade de notificações após ser inundada por avisos gerados por máquinas (e cheios de alucinações). Apple sofre com ritmo da IA e limita programa que paga…",
-      "link": "https://tecnoblog.net/noticias/apple-sofre-com-ritmo-da-ia-e-limita-programa-que-paga-por-bug-descoberto/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/04/apple_capa-5-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-04T21:23:43+00:00"
-    },
-    {
-      "id": "5ad3ac8ea840a806",
-      "title": "IA reduz resposta a incidentes de horas para segundos, diz diretor da Globo",
-      "summary": "O uso de inteligência artificial ajudar a reduzir drasticamente o tempo médio de detecção e resposta a incidentes de cibersegurança . É o que conta o diretor de Segurança da…",
-      "link": "https://canaltech.com.br/mercado/ia-reduz-resposta-a-incidentes-de-horas-para-segundos-diz-diretor-da-globo/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-04T21:01:28+00:00"
-    },
-    {
-      "id": "ffb8b5b73d464e37",
-      "title": "Linux rouba espaço do Windows na América do Norte, mas por um motivo curioso",
-      "summary": "Dados do StatCounter indicaram salto do pinguim sobre o sistema da Microsoft, mas a verdadeira explicação envolve a atividade de bots de IA. Linux rouba espaço do Windows na…",
-      "link": "https://tecnoblog.net/noticias/linux-rouba-espaco-do-windows-na-america-do-norte-mas-por-um-motivo-curioso/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/04/linux-tux-2-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-04T20:59:21+00:00"
-    },
-    {
-      "id": "9be0fafa6f21f3b3",
-      "title": "O negócio de data center da AMD está crescendo enquanto os jogos ficam em segundo plano",
-      "summary": "Impulsionada pela demanda por capacidade de IA, a receita do data center da AMD mais que dobrou ano após ano em seu último relatório de lucros, atingindo US$ 6,7 bilhões. Isso representa um aumento em relação aos US$ 5,8 bilhões em…",
-      "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002467/acastro_STK081_amd_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-04T20:57:49+00:00"
-    },
-    {
-      "id": "673dea6dc3571760",
-      "title": "TCL lança o tablet intermediário Tab A1 Plus",
-      "summary": "Modelo chega com display de 120 Hz, chip Snapdragon 4 Gen 2 e recursos de inteligência artificial. TCL lança o tablet intermediário Tab A1 Plus",
-      "link": "https://tecnoblog.net/noticias/tcl-lanca-o-tablet-intermediario-tab-a1-plus/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/tcl-tab-a1-plus-1-edited-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-04T20:55:44+00:00"
-    },
-    {
-      "id": "30d8d6544d2f9c31",
-      "title": "A SpaceX obteve mais receitas como empresa de IA do que como empresa espacial",
-      "summary": "A receita de IA da SpaceX cresceu mais de três vezes, para US$ 2,6 bilhões, em relação ao ano anterior, principalmente por causa de acordos que a empresa fez para fornecer computação a outras empresas de IA…",
-      "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-04T20:47:55+00:00"
-    },
-    {
-      "id": "b295a865fc9905fd",
-      "title": "SpaceX dobra receita em acordos de computação da Anthropic e do Google, crescimento da Starlink",
-      "summary": "A SpaceX dobrou sua receita em relação ao ano passado, de acordo com seus primeiros lucros trimestrais desde que abriu o capital em junho.",
-      "link": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-04T20:36:30+00:00"
-    },
-    {
-      "id": "b67b47e9c3ce3052",
-      "title": "Texas interrompe conexões de data center à rede elétrica em meio à demanda esmagadora",
-      "summary": "Governador que considerou o Texas o “epicentro” da IA ​​interrompe as conexões da rede do data center.",
-      "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288039036-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-04T20:34:28+00:00"
     }
   ]
 }
