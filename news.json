@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T02:26:01.855799+00:00",
+  "generated_at": "2026-08-06T08:33:31.385303+00:00",
   "total": 90,
   "items": [
     {
@@ -23,6 +23,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-06T00:46:51+00:00"
+    },
+    {
+      "id": "c722bc5befc76a1c",
+      "title": "SkillOpt da Microsoft mostra transferência otimizada de artefatos de habilidades do agente entre escalas de modelo e entre os chicotes de código Codex e Claude",
+      "summary": "A maior parte da cobertura do SkillOpt da Microsoft centra-se no resultado 52/52. A descoberta mais importante está na Seção 4.3: o best_skill.md exportado continua funcionando em ambientes que…",
+      "link": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-06T00:37:42+00:00"
     },
     {
       "id": "dd083223721c924d",
@@ -56,6 +67,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-05T23:13:00+00:00"
+    },
+    {
+      "id": "cbe6e32e02a2e7db",
+      "title": "Modelagem de mix de marketing bayesiano de ponta a ponta com Google Meridian: medição de mídia, análise de ROI e otimização de orçamento",
+      "summary": "Neste tutorial, construímos um fluxo de trabalho completo de modelagem de mix de marketing bayesiano usando o Google Meridian. Começamos instalando as bibliotecas necessárias, verificando a disponibilidade da GPU…",
+      "link": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2714.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-05T21:56:03+00:00"
     },
     {
       "id": "e4a4fa52abd17721",
@@ -122,6 +144,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-05T20:17:34+00:00"
+    },
+    {
+      "id": "bfde9f67767c3318",
+      "title": "Meta AI lança Muse Code (Beta): um agente de codificação de terminal desenvolvido com o novo modelo Muse Spark 1.2",
+      "summary": "Meta Superintelligence Labs lançou o Muse Code, um agente de codificação de terminal em beta, desenvolvido com o novo modelo Muse Spark 1.2. Muse Code planeja mudanças, escreve código e valida…",
+      "link": "https://www.marktechpost.com/2026/08/05/meta-superintelligence-labs-releases-muse-code/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-1.07.03-PM-1.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-05T20:07:32+00:00"
     },
     {
       "id": "54b6b9addf48aee0",
@@ -958,39 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-04T15:21:14+00:00"
-    },
-    {
-      "id": "6b6edbaacb66b9d6",
-      "title": "Elon Musk passa metade do tempo falando sobre robôs e IA nas teleconferências de resultados da Tesla",
-      "summary": "Uma análise dos últimos sete anos de divulgação de resultados da Tesla mostra pouca atenção que Musk dá ao negócio automobilístico da Tesla.",
-      "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-04T15:20:06+00:00"
-    },
-    {
-      "id": "f714a39b86532d11",
-      "title": "IA que trabalha por você: Google facilita o envio de comandos para o Gemini Spark",
-      "summary": "O Google está desenvolvendo uma forma mais rápida de enviar tarefas para o Gemini Spark no celular. Segundo o Android Authority, a empresa testa uma opção chamada “Assign Task”…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-que-trabalha-por-voce-google-facilita-o-envio-de-comandos-para-o-gemini-spark/",
-      "image": "https://tl.ctcdn.com.br/bdmHvi05hRfx8oHMnETDk1nVsc8=/0x0/filters:format(webp):quality(85)/b92fa583-0522-43cb-909b-96b77ee2ee8c.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-04T15:00:00+00:00"
-    },
-    {
-      "id": "df545d0374a3eb4d",
-      "title": "Fim do trabalho manual? Câmeras com IA assumem controle operacional em aeroportos brasileiros",
-      "summary": "A PAX Aeroportos implementou uma plataforma baseada em inteligência artificial (IA) e visão computacional nos aeroportos de Campo de Marte , em São Paulo, e Jacarepaguá , no Rio…",
-      "link": "https://canaltech.com.br/carros/fim-do-trabalho-manual-cameras-com-ia-assumem-controle-operacional-em-aeroportos-brasileiros/",
-      "image": "https://tl.ctcdn.com.br/PHZv2F0uNuXiamG_t4-ySOyOljw=/0x0/filters:format(webp):quality(85)/1192fd97-08f8-4ef0-8497-4c91aa20a80e.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-04T14:05:00+00:00"
     }
   ]
 }
