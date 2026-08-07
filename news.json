@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-06T23:56:44.437454+00:00",
+  "generated_at": "2026-08-07T02:43:24.423528+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "fbbf44e1e80be75e",
+      "title": "Confira o Olhar Digital News na íntegra (06/08/2026)",
+      "summary": "Mais um avanço da IA pode abrir caminho para novas aplicações em medicina, mas também acende sinal de alerta. Confira no Olhar Digital News! O post Confira o Olhar Digital News na…",
+      "link": "https://olhardigital.com.br/2026/08/06/videos/confira-o-olhar-digital-news-na-integra-06-08-2026/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-07T01:49:10+00:00"
+    },
+    {
+      "id": "37ff1e474245b499",
+      "title": "AMD compra startup canadense para acelerar estratégia em chips de IA",
+      "summary": "Movimento reforça a estratégia da empresa de ampliar seu portfólio de hardware para IA O post AMD compra startup canadense para acelerar estratégia em chips de IA apareceu…",
+      "link": "https://olhardigital.com.br/2026/08/06/pro/amd-compra-startup-canadense-para-acelerar-estrategia-em-chips-de-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/amd-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-07T01:45:11+00:00"
+    },
+    {
+      "id": "d505d741b94774c4",
+      "title": "Seu Direito Digital: Lei de IA da Europa pode te afetar mesmo no Brasil",
+      "summary": "No último domingo, entraram em vigor novos mecanismos da lei de IA da União Europeia, mas eles não estão restritos ao bloco. O post Seu Direito Digital: Lei de IA da Europa pode…",
+      "link": "https://olhardigital.com.br/2026/08/06/colunistas/seu-direito-digital-lei-de-ia-da-europa-pode-te-afetar-mesmo-no-brasil/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-07T01:13:12+00:00"
+    },
     {
       "id": "73c07d42f026189b",
       "title": "O novo alto-falante inteligente de IA da OpenAI será vendido por entre US$ 300 e US$ 400",
@@ -157,6 +190,17 @@
       "published_at": "2026-08-06T19:40:19+00:00"
     },
     {
+      "id": "c1a4c691b918245d",
+      "title": "Cloudflare apresenta Kitesurf: um navegador da Web que prioriza o agente e é executado inteiramente em isolamentos V8 em trabalhadores da Cloudflare",
+      "summary": "A Cloudflare lançou o Kitesurf, um navegador sem estado desenvolvido especificamente para agentes de IA que roda inteiramente em V8 isolados em Cloudflare Workers, sem Chromium por baixo…",
+      "link": "https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-06T19:35:32+00:00"
+    },
+    {
       "id": "f0205983c685aa5b",
       "title": "Novidade do Google Maps deixa você pedir comida sem sair do app",
       "summary": "O Pergunte ao Maps foi lançado para todos os usuários no Brasil a partir desta quinta-feira (6). A novidade integra o Google Maps com IA do Gemini para criar uma experiência de…",
@@ -232,6 +276,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-06T17:34:42+00:00"
+    },
+    {
+      "id": "877e7ef31bc40ba5",
+      "title": "Experimentação adaptativa com Meta’s Axe: um guia prático de codificação",
+      "summary": "Neste tutorial, exploramos a experimentação adaptativa usando Meta’s Axe com a API Client moderna. Trabalhamos através de um fluxo de trabalho completo onde ajustamos um modelo RandomForest em um…",
+      "link": "https://www.marktechpost.com/2026/08/06/adaptive-experimentation-with-metas-ax-a-practical-coding-guide/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-06T17:17:52+00:00"
     },
     {
       "id": "b04f9642d438e86d",
@@ -551,6 +606,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-06T09:33:11+00:00"
+    },
+    {
+      "id": "6ac3f0e185d1240e",
+      "title": "Prime Intellect lança Prime Agent: um chicote RLM de código aberto onde subagentes são chamadas de função dentro do kernel IPython persistente",
+      "summary": "Prime Intellect tem o Prime Agent de código aberto, um equipamento de codificação e pesquisa construído em duas abstrações: o Modelo de Linguagem Recursiva, que transforma chamadas de subagentes em funções…",
+      "link": "https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-06T09:00:08+00:00"
     },
     {
       "id": "0c4923a8268d927d",
@@ -925,72 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-05T16:47:23+00:00"
-    },
-    {
-      "id": "1681ab9c3c49621c",
-      "title": "Microsoft impõe novos limites para uso interno de tokens de IA",
-      "summary": "Empresa alerta contra uso excessivo de recursos computacionais e define o GPT-5.6 como padrão para baratear operações. Microsoft impõe novos limites para uso interno de tokens de…",
-      "link": "https://tecnoblog.net/noticias/microsoft-impoe-novos-limites-para-uso-interno-de-tokens-de-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/04/microsoft_capa-3-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-05T16:45:24+00:00"
-    },
-    {
-      "id": "08f0d5a181467d7f",
-      "title": "IA do Chrome exige 20 GB livres, defende Google",
-      "summary": "Após baixar modelos sem autorização, empresa atualiza discretamente páginas de ajuda do navegador com mais informações sobre a funcionalidade. IA do Chrome exige 20 GB livres…",
-      "link": "https://tecnoblog.net/noticias/ia-local-do-chrome-precisa-de-20-gb-livres-para-download-explica-google/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/11/google-chrome-capa-3-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-05T16:37:19+00:00"
-    },
-    {
-      "id": "88e15d0b7e684c66",
-      "title": "SpaceX é apenas espaço e principalmente X",
-      "summary": "Certa vez, tive algumas dúvidas sobre por que a SpaceX, a empresa mais saudável de Elon Musk, adquiriu a xAI, a mais doentia. Agora tenho algumas perguntas sobre por que estamos ligando para tudo...",
-      "link": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-05T16:35:56+00:00"
-    },
-    {
-      "id": "cc5e043b71b3d717",
-      "title": "O modelo aberto Shieldstral da Mistral combina com modelos de segurança muito maiores em uma fração do tamanho",
-      "summary": "O novo modelo 3B Shieldstral da Mistral verifica entradas e saídas de IA em busca de violações de segurança usando perguntas de sim ou não em linguagem natural em vez de categorias fixas. Combina com modelos…",
-      "link": "https://the-decoder.com/mistrals-open-model-shieldstral-matches-much-larger-safety-models/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/mistral_ai-3.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-05T16:35:07+00:00"
-    },
-    {
-      "id": "540bf5ce81217fe2",
-      "title": "Sua próxima conversa com o ChatGPT pode ter um anúncio; entenda",
-      "summary": "A OpenAI começou a testar anúncios pelo ChatGPT no Brasil a partir desta segunda-feira (4). O projeto piloto abre espaço para que as marcas veiculem propagandas no assistente de…",
-      "link": "https://canaltech.com.br/apps/sua-proxima-conversa-com-o-chat-gpt-pode-ter-um-anuncio-entenda/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-05T16:13:00+00:00"
-    },
-    {
-      "id": "e67c805c5c0fca39",
-      "title": "Reddit está apresentando um novo moderador: AI",
-      "summary": "O Reddit está recrutando IA para ajudar a moderar novos subreddits – e eventualmente o resto do site. A empresa está introduzindo ferramentas de moderação automatizadas que dependem de LLMs para ajudar os mods…",
-      "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-05T16:00:00+00:00"
     }
   ]
 }
