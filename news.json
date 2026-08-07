@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-07T02:43:24.423528+00:00",
+  "generated_at": "2026-08-07T07:12:45.754129+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "4d8df97248019ec7",
+      "title": "Gerador de teste de código de código aberto da Microsoft: um agente de teste de unidade poliglota que atinge 92,1% de conclusão de tarefas versus 78,9% para Stock Copilot",
+      "summary": "A Microsoft possui um gerador de teste de código de código aberto, um agente de teste de unidade poliglota enviado no repositório dotnet/skills licenciado pelo MIT. Ele lê um repositório antes de escrever qualquer coisa…",
+      "link": "https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-07T05:42:45+00:00"
+    },
+    {
+      "id": "074f5458ae1cc19d",
+      "title": "Liquid AI lança LFM2.5-2.6B: um modelo agente no dispositivo com contexto de 128K, chamada de ferramenta e pesos abertos",
+      "summary": "A Liquid AI lançou o LFM2.5-2.6B, um modelo de agente que planeja, chama ferramentas e conclui tarefas de várias etapas inteiramente no dispositivo. O modelo de parâmetro 2.69B emparelha 22 curtos de porta dupla…",
+      "link": "https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-07T03:42:27+00:00"
+    },
     {
       "id": "fbbf44e1e80be75e",
       "title": "Confira o Olhar Digital News na íntegra (06/08/2026)",
@@ -969,28 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-05T17:18:18+00:00"
-    },
-    {
-      "id": "6831149afa29e593",
-      "title": "Claro, parece que Fenix ​​Flexin usou o gerador de música AI Treblo",
-      "summary": "Tínhamos quase certeza de que “Rubberz” do Fenix ​​Flexin foi feito usando IA, mas o músico Medasin estava confiante de que foi feito usando Treblo especificamente. Agora a empresa e um novo…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-05T16:57:25+00:00"
-    },
-    {
-      "id": "acb096445fcff02d",
-      "title": "O Google acaba de anunciar uma grande mudança em sua liderança em IA",
-      "summary": "O Google está fazendo algumas mudanças significativas na liderança de IA, incluindo uma grande mudança para o líder do Google DeepMind, Demis Hassabis. Hassabis se tornará presidente do Google DeepMind e…",
-      "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2273112113.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-05T16:47:23+00:00"
     }
   ]
 }
