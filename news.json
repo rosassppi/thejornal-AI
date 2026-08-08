@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-08-07T18:53:54.174411+00:00",
+  "generated_at": "2026-08-08T01:24:52.032100+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "f5e65390d809a0b4",
+      "title": "OpenAI diz que retardou o desenvolvimento do modelo Astra por questões de segurança",
+      "summary": "A OpenAI disse que este modelo, que ainda está em desenvolvimento, atingiu seu “limiar crítico de segurança cibernética”, o que significa que poderia identificar e realizar ataques cibernéticos de forma independente contra…",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-07T22:48:24+00:00"
+    },
+    {
+      "id": "be14a2322dfb38a7",
+      "title": "Depois que a Rippling gastou milhões em IA em meses, ela criou uma ferramenta de ROI para funcionários",
+      "summary": "Após seu próprio alerta sobre o uso de IA, a Rippling revelou esta semana o AI Spend Console, um produto que rastreia os gastos de IA de funcionários individuais e de equipe.",
+      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-07T21:30:11+00:00"
+    },
+    {
+      "id": "1d70c64413314544",
+      "title": "Quem responde por ataques hackers feitos por IAs? Saiba o que diz a lei brasileira",
+      "summary": "Casos envolvendo agentes de IA da OpenAI, Anthropic e Meta reacenderam o debate sobre responsabilidade jurídica. Especialista explica como a lei brasileira trata essas situações O…",
+      "link": "https://olhardigital.com.br/2026/08/07/inteligencia-artificial/quem-responde-quando-ias-fazem-ataques-hackers-saiba-o-que-diz-a-lei-brasileira/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/chatgpt-claude-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-07T21:28:18+00:00"
+    },
+    {
+      "id": "4249547826cf69f4",
+      "title": "Para bancar super data center, DeepSeek anuncia aumento de preços sem precedentes",
+      "summary": "A DeepSeek avisou seus clientes que vai reajustar os preços de todos os serviços de API em breve, com aumento descrito pela própria empresa como relativamente grande . O…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/para-bancar-super-data-center-deep-seek-anuncia-aumento-de-precos-sem-precedentes/",
+      "image": "https://tl.ctcdn.com.br/W8-J39hR65BN0Fsy-i9XlFcb8jE=/0x0/filters:format(webp):quality(85)/608f3ad8-6894-4b54-afb0-9eeec2140e4b.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-07T21:03:00+00:00"
+    },
+    {
+      "id": "74b52b10d7c17ee9",
+      "title": "Galaxy S24 Ultra tem o menor preço do ano e fica 57% mais barato na Amazon",
+      "summary": "Galaxy S24 Ultra de 256 GB com tela AMOLED, câmera de 200 MP e Galaxy AI volta a ter queda no preço com pagamento via Pix na Amazon Galaxy S24 Ultra tem o menor preço do ano e…",
+      "link": "https://tecnoblog.net/achados/galaxy-s24-ultra-tem-o-menor-preco-do-ano-e-fica-57-mais-barato-na-amazon/",
+      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/amz.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-07T20:29:56+00:00"
+    },
+    {
+      "id": "e7082108221b67be",
+      "title": "Fenix ​​Flexin nem nega mais o uso de IA para fazer ‘Rubberz’",
+      "summary": "Demorou bastante, mas agora o rapper de Los Angeles Fenix ​​​​Flexin parece ter admitido o uso de IA para a música com tema pop de sintetizador dos anos 80, “Rubberz”. Seus comentários seguem os do produtor Medasin…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-07T20:01:51+00:00"
+    },
+    {
+      "id": "6e196b4a79cfcbde",
+      "title": "OpenAI sinaliza seu novo modelo Astra como potencialmente atingindo o mais alto nível de risco de segurança cibernética pela primeira vez",
+      "summary": "Testes internos do novo modelo de IA da OpenAI, Astra, mostram capacidades de segurança cibernética tão fortes que a empresa não pode mais descartar o nível de risco mais alto em sua própria estrutura de segurança…",
+      "link": "https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_kraken_cyber.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-07T19:41:06+00:00"
+    },
+    {
+      "id": "15bd5d38b5f253bb",
+      "title": "“Asimov estava certo” sobre regras para IA, diz ex-diretor de cibersegurança dos EUA",
+      "summary": "Chris Inglis critica falta de limites éticos em modelos autônomos após casos de invasões não autorizadas. “Asimov estava certo” sobre regras para IA, diz ex-diretor de…",
+      "link": "https://tecnoblog.net/noticias/asimov-estava-certo-sobre-regras-para-ia-diz-ex-diretor-de-ciberseguranca-dos-eua/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/2021-06-10t145031z_1644079367_mt1sipa000yzrowj_rtrmadp_3_sipa-usa-1-1024x681-1-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-07T19:19:36+00:00"
+    },
+    {
+      "id": "2f38d17084bd8178",
+      "title": "IA faz confusão e deleta todos os arquivos de desenvolvedor: \"foi mal\"",
+      "summary": "Um erro envolvendo um agente de IA chamou atenção no Reddit após o desenvolvedor identificado como u/Ecstatic-Big5126 relatar que perdeu os arquivos do seu diretório de usuário…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/ia-faz-confusao-e-deleta-todos-os-arquivos-de-desenvolvedor-foi-mal/",
+      "image": "https://tl.ctcdn.com.br/GeVucxq2cxWTFjBgDumBlE70oYY=/0x0/filters:format(webp):quality(85)/60c53e74-9ff4-4239-b082-6c5431dd3005.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-07T19:10:01+00:00"
+    },
+    {
+      "id": "d78aeab37b7f2a0a",
+      "title": "Assistir ao canal de IA de Roku é como comer em um cocho",
+      "summary": "O apelo dos canais de streaming de televisão gratuitos suportados por anúncios (FAST) sempre foi a forma como facilitam a (re)descoberta de filmes e séries clássicos. Mas o mais recente de Roku…",
+      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-07-at-2.40.34-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-07T18:59:46+00:00"
+    },
     {
       "id": "557e0bfc0113e2a7",
       "title": "OpenAI freia um novo modelo porque ele é supostamente muito poderoso",
@@ -232,6 +342,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-07T14:22:32+00:00"
+    },
+    {
+      "id": "4e987422231d8958",
+      "title": "O Terafab da SpaceX dependerá de usinas de gás natural, não de painéis solares Tesla",
+      "summary": "A fábrica tem como objetivo construir chips para data centers que serão administrados pela SpaceX e sua subsidiária xAI.",
+      "link": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-07T14:07:31+00:00"
     },
     {
       "id": "dacb4e98bebb9f6b",
@@ -870,127 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-06T12:40:01+00:00"
-    },
-    {
-      "id": "dc54352daa8ccecc",
-      "title": "A empresa que popularizou os pesos abertos agora compete com descontos",
-      "summary": "A Meta lançou o Muse Spark 1.2 junto com seu próprio agente de codificação, Muse Code, que foi projetado para continuar exatamente de onde parou após uma falha. O nível mais barato custa apenas 20 centavos…",
-      "link": "https://the-decoder.com/the-company-that-made-open-weights-mainstream-now-competes-on-discounts/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/meta_AI_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-06T12:31:52+00:00"
-    },
-    {
-      "id": "9189d607a819a3a7",
-      "title": "O pesquisador por trás do Google Brain criou uma nova aposta em IA",
-      "summary": "Um dos líderes do Google Brain inicia nova fase na inteligência artificial com startup focada em autoaperfeiçoamento e descobertas científicas O post O pesquisador por trás do…",
-      "link": "https://olhardigital.com.br/2026/08/06/inteligencia-artificial/o-pesquisador-por-tras-do-google-brain-criou-uma-nova-aposta-em-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/busca-inteligente-google-1024x1024.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-06T11:43:34+00:00"
-    },
-    {
-      "id": "75c6d027701b0d5c",
-      "title": "A IA não é suficiente para proteger as comunidades de mídia social da IA",
-      "summary": "Por que os humanos precisam moderar os humanos.",
-      "link": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2259634870-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-06T11:00:44+00:00"
-    },
-    {
-      "id": "6bac8640538e99a7",
-      "title": "Samsung inicia venda global do Galaxy Z Fold 8, Flip 8 e Watch 9; veja as novidades",
-      "summary": "A Samsung iniciou oficialmente a distribuição global da sua nova geração de dispositivos dobráveis e relógios inteligentes. A partir desta quinta-feira (7), o Galaxy Z Fold 8…",
-      "link": "https://canaltech.com.br/produtos/samsung-inicia-venda-global-do-galaxy-z-fold-8-flip-8-e-watch-9-veja-as-novidades/",
-      "image": "https://tl.ctcdn.com.br/cxyFbM67GHstMGU2grAR1JSILYw=/0x0/filters:format(webp):quality(85)/703d53f3-7ee3-4f1b-bfe7-240e8eccd6aa.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-06T10:55:20+00:00"
-    },
-    {
-      "id": "4a3ccb18dde4cf2a",
-      "title": "O desenvolvedor OpenAI alerta que os “incansáveis ​​​​olhos de águia de um milhão de modelos” estão vindo para suas chaves de API expostas e carteiras criptografadas",
-      "summary": "O desenvolvedor OpenAI “roon” avisa no X que os modelos de IA poderão em breve começar a escanear chaves de API expostas, carteiras criptográficas e credenciais de login em grande escala. Seu aviso segue o da OpenAI…",
-      "link": "https://the-decoder.com/openai-developer-warns-the-tireless-eagle-eyes-of-a-million-models-are-coming-for-your-exposed-api-keys-and-crypto-wallets/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/eagle_eyes_cybersecurity.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-06T10:11:02+00:00"
-    },
-    {
-      "id": "b1c9322e571fec76",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "summary": "ChatGPT apresenta GPT-5.6 Sol aprimorado com melhor precisão e consistência, além de acesso expandido para usuários gratuitos e bate-papos diários ilimitados com GPT-5.6 Luna.",
-      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-06T10:00:00+00:00"
-    },
-    {
-      "id": "f1d122158348f577",
-      "title": "OpenAI diz que o processo de segredos comerciais da Apple está “podre até a essência”",
-      "summary": "A OpenAI pediu a um juiz federal que rejeitasse o processo histórico da Apple que acusava o fabricante do ChatGPT de roubar segredos comerciais, descrevendo as alegações como “sem mérito”. Em um movimento…",
-      "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-06T09:33:11+00:00"
-    },
-    {
-      "id": "6ac3f0e185d1240e",
-      "title": "Prime Intellect lança Prime Agent: um chicote RLM de código aberto onde subagentes são chamadas de função dentro do kernel IPython persistente",
-      "summary": "Prime Intellect tem o Prime Agent de código aberto, um equipamento de codificação e pesquisa construído em duas abstrações: o Modelo de Linguagem Recursiva, que transforma chamadas de subagentes em funções…",
-      "link": "https://www.marktechpost.com/2026/08/06/prime-intellect-releases-prime-agent/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-06T09:00:08+00:00"
-    },
-    {
-      "id": "0c4923a8268d927d",
-      "title": "Trabalhando com a American Psychological Association em saúde mental juvenil e IA",
-      "summary": "A OpenAI e a American Psychological Association promovem orientações, recursos e salvaguardas baseadas em evidências para o uso responsável da IA ​​e a saúde mental dos jovens.",
-      "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-06T06:00:00+00:00"
-    },
-    {
-      "id": "1bc856e28183d48e",
-      "title": "SpaceX compra mais baterias da Tesla para alimentar expansão da IA",
-      "summary": "No período encerrado em 30 de junho, a companhia desembolsou R$ 1,5 bilhão em Megapack O post SpaceX compra mais baterias da Tesla para alimentar expansão da IA apareceu primeiro…",
-      "link": "https://olhardigital.com.br/2026/08/05/pro/spacex-compra-mais-baterias-da-tesla-para-alimentar-expansao-da-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/Destaque-Tesla-Cybertruck-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-06T01:54:33+00:00"
-    },
-    {
-      "id": "5b94293455251eb9",
-      "title": "Olhar do Amanhã: a inteligência artificial está criando uma nova elite cognitiva?",
-      "summary": "A internet e a inteligência artificial democratizam o acesso ao conhecimento ou podem acabar ampliando desigualdades? O post Olhar do Amanhã: a inteligência artificial está…",
-      "link": "https://olhardigital.com.br/2026/08/05/colunistas/olhar-do-amanha-a-inteligencia-artificial-esta-criando-uma-nova-elite-cognitiva/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-06T00:46:51+00:00"
     }
   ]
 }
