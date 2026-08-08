@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-08-08T12:43:38.087780+00:00",
+  "generated_at": "2026-08-08T18:34:58.609891+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "573b3c17e5b300c2",
+      "title": "Nvidia prepara investimento de até US$ 3 bilhões em infraestrutura de IA",
+      "summary": "A parceria envolve uma empresa ligada ao Stargate, projeto de data centers no Texas que tem SoftBank, OpenAI e Oracle entre os sócios O post Nvidia prepara investimento de até US$…",
+      "link": "https://olhardigital.com.br/2026/08/08/inteligencia-artificial/nvidia-prepara-investimento-de-ate-us-3-bilhoes-em-infraestrutura-de-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2024/11/inteligencia-artificial-receita-scaled-e1733838349992-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-08T17:45:43+00:00"
+    },
+    {
+      "id": "43f4bf483c16525f",
+      "title": "Óculos Ray-Ban Meta pode registrar mais do que fotos e vídeos",
+      "summary": "Recursos de IA dos Ray-Ban Meta podem armazenar imagens e transcrições, enquanto configurações definem parte da coleta de dados O post Óculos Ray-Ban Meta pode registrar mais do…",
+      "link": "https://olhardigital.com.br/2026/08/08/reviews/oculos-ray-ban-meta-pode-registrar-mais-do-que-fotos-e-videos/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2024/11/ray-ban-meta-1024x640.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-08T17:06:40+00:00"
+    },
+    {
+      "id": "2ca18629c3106613",
+      "title": "Pokee AI lança Pokee-Isaac 28B: um modelo agente de contexto de 10 milhões de tokens construído para funcionar dentro dos limites do cliente",
+      "summary": "A Pokee AI lançou o Pokee-Isaac 28B, um modelo básico somente de texto de 28B com uma janela de contexto de token de 10M construída para ser executada dentro dos limites do cliente. Ele pontua 93,3% no RULER em 10M…",
+      "link": "https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-08T17:04:39+00:00"
+    },
+    {
+      "id": "3f04758a2fcd3759",
+      "title": "SpaceX planeja construir fábricas na Lua para produzir satélites de IA",
+      "summary": "A empresa pretende usar robôs e a nave Starship para erguer uma estrutura industrial lunar capaz de fabricar satélites e componentes de IA O post SpaceX planeja construir fábricas…",
+      "link": "https://olhardigital.com.br/2026/08/08/ciencia-e-espaco/spacex-planeja-construir-fabricas-na-lua-para-produzir-satelites-de-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/iStock-2127747623-1-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-08T17:01:34+00:00"
+    },
+    {
+      "id": "e7ea613a0d73f3d4",
+      "title": "Casa inteligente começa pelo som: Echo Dot em promoção na Amazon",
+      "summary": "Se você quer dar o primeiro passo para deixar sua casa mais inteligente — ou simplesmente melhorar a experiência com a Alexa —, a Amazon tem boas opções do Echo Dot disponíveis…",
+      "link": "https://olhardigital.com.br/2026/08/08/reviews/casa-inteligente-comeca-pelo-som-echo-dot-em-promocao-na-amazon-2/",
+      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-08T17:00:00+00:00"
+    },
+    {
+      "id": "76fc705156820431",
+      "title": "Anthropic define Claude Code para o modo automático por padrão para proteger os desenvolvedores de aprovações incorretas",
+      "summary": "A partir de 14 de agosto, a Anthropic tornará o Modo Automático no Claude Code o padrão para os planos Pro, Max e Team. A empresa diz que é mais seguro. Nos testes, o classificador capturou 89 por cento…",
+      "link": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_logo_wall-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-08T14:58:57+00:00"
+    },
+    {
+      "id": "30963f4351818b95",
+      "title": "Por que candidatos estão escondendo prompts de IA no currículo?",
+      "summary": "Cerca de 70% das empresas brasileiras já usam inteligência artificial (IA) em alguma etapa dos processos de recrutamento e seleção . Segundo um levantamento do Pandapé em parceria…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/por-que-candidatos-estao-escondendo-prompts-de-ia-no-curriculo/",
+      "image": "https://tl.ctcdn.com.br/-AYm08RlsZn8kUxDuUhykVsle24=/0x0/filters:format(webp):quality(85)/6a07ac37-c1d1-4e15-83a2-943b18aa4163.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-08T14:29:00+00:00"
+    },
+    {
+      "id": "4658b3b1f44ef958",
+      "title": "Os leitores classificam os contos gerados por IA mais do que os humanos, até descobrirem que uma máquina os escreveu",
+      "summary": "As pessoas não conseguem distinguir contos gerados pelo ChatGPT de contos escritos por humanos, de acordo com um novo estudo. Mais de 2.500 participantes tiveram um desempenho nada melhor que o acaso. O gerado por IA…",
+      "link": "https://the-decoder.com/readers-rate-ai-generated-short-stories-higher-than-human-ones-until-they-learn-a-machine-wrote-them/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/ai_writing_a_book.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-08T14:18:55+00:00"
+    },
     {
       "id": "87214acf76f147fc",
       "title": "As sessões do Claude Code agora podem conversar entre si e compartilhar contexto entre terminais",
@@ -903,94 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-08-06T17:17:52+00:00"
-    },
-    {
-      "id": "b04f9642d438e86d",
-      "title": "OpenAI está oferecendo aos usuários gratuitos do ChatGPT bate-papos de texto ilimitados",
-      "summary": "OpenAI está fazendo uma grande mudança para os usuários do ChatGPT em seus níveis gratuito e Go: a partir da próxima semana, os usuários nesses níveis poderão ter bate-papos de texto ilimitados com o chatbot…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-06T17:00:00+00:00"
-    },
-    {
-      "id": "6570e6e66560dba9",
-      "title": "OpenAI diz que agentes de IA discutiram como fugir de ambiente controlado",
-      "summary": "Em palestra sobre cibersegurança, empresa apresenta linha do tempo da invasão do Hugging Face. Repositório foi usado para troca de informações entre modelos. OpenAI diz que…",
-      "link": "https://tecnoblog.net/noticias/openai-diz-que-agentes-de-ia-discutiram-como-fugir-de-ambiente-controlado/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-2_capa-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-06T16:40:14+00:00"
-    },
-    {
-      "id": "397c2d36ef1d846a",
-      "title": "Claude Code é a estrutura de agente mais rápida, mas custa quase três vezes mais que o rival mais barato",
-      "summary": "A Composio testou o Deepseek V4 Flash em quatro estruturas de agentes em 30 tarefas do mundo real. As taxas de sucesso foram em sua maioria semelhantes, mas os custos variaram quase 3x: o OpenCode foi o mais barato…",
-      "link": "https://the-decoder.com/claude-code-is-the-fastest-agent-framework-but-costs-nearly-three-times-more-than-the-cheapest-rival/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/harness_agentic_software.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-06T16:33:59+00:00"
-    },
-    {
-      "id": "2b5e1e8c9f04d0b4",
-      "title": "Plataforma de código aberto Cloudflare para pessoas que não são programadores",
-      "summary": "A Cloudflare construiu um espaço de trabalho de agente de IA para seus funcionários. Agora é código aberto.",
-      "link": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Cloudflare-logo-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-06T16:15:30+00:00"
-    },
-    {
-      "id": "9fb10d49e8b42b9b",
-      "title": "\"Foi um choque\": alunas descobrem que colega de sala usou IA para criar nudes falsos",
-      "summary": "Oito adolescentes descobriram que um colega de sala usou inteligência artificial para criar montagens pornográficas falsas com fotos retiradas de seus perfis privados nas redes…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/foi-um-choque-alunas-descobrem-que-colega-de-sala-usou-ia-para-criar-nudes-falsos/",
-      "image": "https://tl.ctcdn.com.br/4CunM6dDlmBnmxFqn_ksBNYFLYc=/0x0/filters:format(webp):quality(85)/018c159a-dc8d-42a9-83a7-a785e8d1f4a6.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-06T16:09:00+00:00"
-    },
-    {
-      "id": "982a9e1843df45f8",
-      "title": "Toda a memória prevista para 2027 já esgotou (e a culpa é da IA)",
-      "summary": "Impulsionada pelo boom da inteligência artificial, a produção de gigantes como Samsung e Micron atingiu o limite, ameaçando a oferta e encarecendo componentes para PCs e…",
-      "link": "https://tecnoblog.net/noticias/toda-a-memoria-de-2027-ja-esgotou-e-a-culpa-e-da-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/01/memoria-ram-tecnoblog-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-06T15:53:30+00:00"
-    },
-    {
-      "id": "765b8ce6c5e4c00d",
-      "title": "Aplicativos de namoro da Geração Z, como Ditto, abandonam o swiping em favor da combinação de IA",
-      "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
-      "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-06T15:53:03+00:00"
-    },
-    {
-      "id": "b7beb8f62b7ac5b9",
-      "title": "Smart TV LG QNED 50” recebe promoção do 8.8 por até 12x sem juros na Amazon",
-      "summary": "LG QNED de 50 polegadas traz tela 4K com preto profundo e recomenda conteúdos via IA; smart TV QNED73 recebe desconto de 45% em até 12x sem juros Smart TV LG QNED 50” recebe…",
-      "link": "https://tecnoblog.net/achados/smart-tv-lg-qned-50-recebe-promocao-do-8-8-por-ate-12x-sem-juros-na-amazon/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/amz.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-06T15:47:07+00:00"
     }
   ]
 }
