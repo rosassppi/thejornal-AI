@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-08-08T18:34:58.609891+00:00",
+  "generated_at": "2026-08-09T01:36:59.869394+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "33642859b9345c47",
+      "title": "Mercado Livre faz queima do Galaxy Buds 4 com cupom; fone da Samsung com ANC",
+      "summary": "O Samsung Galaxy Buds 4 aparece em uma faixa de preço bastante competitiva no Mercado Livre . O fone de ouvido com ANC e recursos Galaxy AI está saindo por R$ 846 no Pix , com…",
+      "link": "https://canaltech.com.br/fone-de-ouvido/mercado-livre-faz-queima-do-galaxy-buds-4-com-cupom-fone-da-samsung-com-anc/",
+      "image": "https://tl.ctcdn.com.br/NrGmNJ3n101MIcsUbVrr-1p40uE=/0x0/filters:format(webp):quality(85)/4e8ca72c-95d9-4e27-a598-a859e6563895.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-08T21:23:05+00:00"
+    },
+    {
+      "id": "f65fab3b2d2a33fd",
+      "title": "Cloudflare lança Kitesurf, navegador criado para agentes de IA",
+      "summary": "Projeto aposta em menor consumo de CPU e memória e já supera 215 mil testes de compatibilidade com padrões da web O post Cloudflare lança Kitesurf, navegador criado para agentes…",
+      "link": "https://olhardigital.com.br/2026/08/08/internet-e-redes-sociais/cloudflare-lanca-kitesurf-navegador-criado-para-agentes-de-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/robo-usa-computador-1024x630.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-08T21:13:57+00:00"
+    },
+    {
+      "id": "aeb176124cfba0f7",
+      "title": "OpenAI adquire startup de apresentação NextSlide",
+      "summary": "NextSlide diz que os membros de sua equipe agora estão trabalhando no ChatGPT.",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-08T19:41:13+00:00"
+    },
+    {
+      "id": "cb35a48037b54e27",
+      "title": "Impressora boa e barata? Veja uma seleção com ótimas opções em promoção na Amazon",
+      "summary": "Se você está pensando em renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções de impressoras multifuncionais em oferta na…",
+      "link": "https://olhardigital.com.br/2026/08/08/reviews/impressora-boa-e-barata-veja-uma-selecao-com-otimas-opcoes-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-08T18:40:00+00:00"
+    },
+    {
+      "id": "57bcc91c15e3ba01",
+      "title": "Um data center da Amazon pode ter a usina mais poluente do país",
+      "summary": "Para alimentar seu novo data center no oeste do Texas, a Amazon está investindo na construção de uma nova usina que poderá ser um dos maiores produtores individuais de gases de efeito estufa no…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-08T17:53:34+00:00"
+    },
     {
       "id": "573b3c17e5b300c2",
       "title": "Nvidia prepara investimento de até US$ 3 bilhões em infraestrutura de IA",
@@ -936,61 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-06T18:38:27+00:00"
-    },
-    {
-      "id": "e33c3d5c229a8908",
-      "title": "A fuga de talentos da Deepmind provavelmente se deve à escassez de chips, ao conflito de interesses e à burocracia do Google",
-      "summary": "O ex-CEO do Google Deepmind, Demis Hassabis, supostamente se afastou das operações diárias por cerca de um ano, pois se vê mais como um cientista do que como um gerente. Pesquisadores…",
-      "link": "https://the-decoder.com/deepminds-talent-drain-likely-comes-down-to-chip-shortages-a-conflict-of-interest-and-googles-bureaucracy/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/deepmind_hassabis.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-06T18:05:54+00:00"
-    },
-    {
-      "id": "7da0f23dc1240b21",
-      "title": "Suno compartilha planos para combater spam de música com IA",
-      "summary": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-06T17:39:43+00:00"
-    },
-    {
-      "id": "46a756ee3fadf81f",
-      "title": "A receita de IA da Microsoft supostamente depende do OpenAI em 70 por cento",
-      "summary": "A Microsoft gerou US$ 24,1 bilhões em receitas de IA por meio da OpenAI no ano fiscal encerrado em junho. Isso representa cerca de 70% de seu negócio total de IA, de acordo com uma Bloomberg…",
-      "link": "https://the-decoder.com/microsofts-ai-revenue-reportedly-depends-on-openai-for-70-percent/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/microsoft_openai.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-06T17:35:33+00:00"
-    },
-    {
-      "id": "a0fa1b12099fac8f",
-      "title": "ChatGPT traz chats de texto ilimitados para usuários gratuitos",
-      "summary": "OpenAI disse que os usuários do ChatGPT gratuito e Go também estão recebendo um novo botão de pensamento para consultas complexas.",
-      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-06T17:34:42+00:00"
-    },
-    {
-      "id": "877e7ef31bc40ba5",
-      "title": "Experimentação adaptativa com Meta’s Axe: um guia prático de codificação",
-      "summary": "Neste tutorial, exploramos a experimentação adaptativa usando Meta’s Axe com a API Client moderna. Trabalhamos através de um fluxo de trabalho completo onde ajustamos um modelo RandomForest em um…",
-      "link": "https://www.marktechpost.com/2026/08/06/adaptive-experimentation-with-metas-ax-a-practical-coding-guide/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-06T17:17:52+00:00"
     }
   ]
 }
