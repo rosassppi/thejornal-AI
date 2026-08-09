@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-08-09T12:45:53.499522+00:00",
+  "generated_at": "2026-08-09T18:37:38.907840+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "fc4ff95661986614",
+      "title": "Principais plataformas de observação e avaliação LLM em 2026: Langfuse, LangSmith, Braintrust, Arize e mais comparados",
+      "summary": "Uma comparação verificada de 2026 de plataformas de observabilidade LLM cobrindo profundidade de rastreamento, capacidade de avaliação, monitoramento de produção e preços. A postagem Top LLM Observabilidade e…",
+      "link": "https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-09T18:15:30+00:00"
+    },
+    {
+      "id": "5a62eb898e7a7dc1",
+      "title": "Casa inteligente começa pelo som: Echo Dot em até três cores na Amazon",
+      "summary": "Se você quer deixar a casa mais inteligente sem complicação, os Smart Speakers com Alexa são um dos melhores pontos de partida. A Amazon disponibiliza o Echo Dot — geração mais…",
+      "link": "https://olhardigital.com.br/2026/08/09/reviews/casa-inteligente-comeca-pelo-som-echo-dot-em-ate-tres-cores-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-09T17:00:00+00:00"
+    },
+    {
+      "id": "356e8e742f43a0ff",
+      "title": "TechCrunch Mobility: Zoox se prepara para o lançamento e o império AV do Uber",
+      "summary": "Bem-vindo de volta ao TechCrunch Mobility, seu centro para o futuro do transporte e agora, mais do que nunca, o papel que a IA desempenha nele.",
+      "link": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-09T16:05:00+00:00"
+    },
+    {
+      "id": "8c20688bb90d9764",
+      "title": "Câmeras de segurança com IA podem prever crimes, mas existe um risco…",
+      "summary": "Câmeras equipadas com inteligência artificial já são usadas para identificar comportamentos suspeitos e combater os crimes antes que eles aconteçam O post Câmeras de segurança com…",
+      "link": "https://olhardigital.com.br/2026/08/09/inteligencia-artificial/cameras-de-seguranca-com-ia-podem-prever-crimes-mas-existe-um-risco/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2023/08/Destaque-Cameras-reconhecimento-facial-SP-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-09T15:10:09+00:00"
+    },
+    {
+      "id": "5ae0a56510e99971",
+      "title": "Por que é uma péssima ideia dar acesso para a IA à sua tela em segundo plano?",
+      "summary": "A inteligência artificial deixou de ser apenas uma ferramenta acessada quando o usuário faz uma pergunta. Nos celulares atuais, especialmente no Android, ela está cada vez mais…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/por-que-e-uma-pessima-ideia-dar-acesso-para-a-ia-a-sua-tela-em-segundo-plano/",
+      "image": "https://tl.ctcdn.com.br/-6PtbFmw4p4bXYCL4qylPocIR0U=/0x0/filters:format(webp):quality(85)/b8da113e-2b4d-431a-8734-67eccb955646.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-09T14:33:00+00:00"
+    },
+    {
+      "id": "256796e8828b3ae0",
+      "title": "O teste de segurança de IA está se tornando um risco à segurança",
+      "summary": "Os agentes de IA estão escapando dos ambientes de testes de segurança cibernética e alcançando sistemas do mundo real, levantando questões sobre se a infraestrutura de segurança, os padrões e regulamentações da indústria…",
+      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-09T14:30:00+00:00"
+    },
+    {
+      "id": "715dad98737fd321",
+      "title": "O que está por trás da infestação de gameplays de GTA 6 criados por IA?",
+      "summary": "Estamos a pouco mais de três meses do lançamento que promete ser o maior da indústria dos games. Apesar de um mês de junho cheio de novidades relacionadas a preços e à pré-venda …",
+      "link": "https://canaltech.com.br/games/o-que-esta-por-tras-da-infestacao-de-gameplays-de-gta-6-criados-por-ia/",
+      "image": "https://tl.ctcdn.com.br/fV_i4uBW4Y_yLXYxutYzn6MpXq4=/0x0/filters:format(webp):quality(85)/a585a21d-d363-440c-a3c8-ca5192903571.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-09T13:30:00+00:00"
+    },
+    {
+      "id": "c1587dec620cf0df",
+      "title": "Os golpistas estão matriculando estudantes falsos em faculdades comunitárias dos EUA e usando IA para coletar ajuda financeira",
+      "summary": "A trapaça baseada em IA está se espalhando nas faculdades comunitárias dos EUA. De acordo com o The New Yorker, os golpistas matriculam alunos falsos em cursos, usam IA para completar suas tarefas e embolsam…",
+      "link": "https://the-decoder.com/scammers-are-enrolling-fake-students-at-us-community-colleges-and-using-ai-to-collect-financial-aid/",
+      "image": "https://the-decoder.com/wp-content/uploads/2024/10/chatgpt_openai_chalkboard_classroom_design_illustration.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-09T13:00:59+00:00"
+    },
+    {
+      "id": "991a6ae50c5a55b4",
+      "title": "Este antigo e notório distrito da luz vermelha é agora um dos principais centros de IA do mundo",
+      "summary": "Há mais de 20 anos, King's Cross era uma das áreas mais decadentes de Londres. Agora está brotando algo novo.",
+      "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-09T13:00:00+00:00"
+    },
     {
       "id": "03f25222ce2ece83",
       "title": "WeatherNext do Google Deepmind prevê trajetórias e intensidade de ciclones ao mesmo tempo",
@@ -12,6 +111,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-09T12:29:06+00:00"
+    },
+    {
+      "id": "5ddd2738c4317254",
+      "title": "Os detectores de IA estão criando uma nova era de desconfiança",
+      "summary": "Este é The Stepback, um boletim informativo semanal que detalha uma história essencial do mundo da tecnologia. Para mais notícias sobre como a IA está mudando nossas vidas diárias, siga Emma Roth. O…",
+      "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-09T12:00:00+00:00"
     },
     {
       "id": "bc92c9f488a911a7",
@@ -69,6 +179,17 @@
       "published_at": "2026-08-09T08:56:12+00:00"
     },
     {
+      "id": "404ebe3959ec5a30",
+      "title": "Análise de sentimento IMDb com DistilBERT LoRA, linhas de base TF-IDF, calibração, interpretabilidade, teste de robustez e aprendizagem semissupervisionada",
+      "summary": "Este tutorial fornece um guia abrangente para construir um fluxo de trabalho robusto de análise de sentimento. Ao combinar as linhas de base clássicas do TF-IDF com o moderno ajuste fino com eficiência de parâmetros…",
+      "link": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-09T07:17:35+00:00"
+    },
+    {
       "id": "33642859b9345c47",
       "title": "Mercado Livre faz queima do Galaxy Buds 4 com cupom; fone da Samsung com ANC",
       "summary": "O Samsung Galaxy Buds 4 aparece em uma faixa de preço bastante competitiva no Mercado Livre . O fone de ouvido com ANC e recursos Galaxy AI está saindo por R$ 846 no Pix , com…",
@@ -89,6 +210,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-08T21:13:57+00:00"
+    },
+    {
+      "id": "9d7a99b5bf8e56c4",
+      "title": "Conheça Shepherd: um substrato Python de código aberto que permite que meta-agentes bifurquem, reproduzam e revertam qualquer execução de agente",
+      "summary": "Longas execuções do agente acumulam-se e afirmam que não há registros de transcrição - arquivos editados, um servidor de desenvolvimento ativo, pacotes instalados, um cache de prompt quente. Quando um agente interpreta mal um traceback na etapa…",
+      "link": "https://www.marktechpost.com/2026/08/08/meet-shepherd-an-open-source-python-substrate-that-lets-meta-agents-fork-replay-and-revert-any-agent-run/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-08T20:54:49+00:00"
     },
     {
       "id": "aeb176124cfba0f7",
@@ -859,138 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-07T01:13:12+00:00"
-    },
-    {
-      "id": "73c07d42f026189b",
-      "title": "O novo alto-falante inteligente de IA da OpenAI será vendido por entre US$ 300 e US$ 400",
-      "summary": "Detalhes adicionais sobre o misterioso novo dispositivo de IA da OpenAI fazem com que pareça um alto-falante inteligente caro.",
-      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-06T22:43:53+00:00"
-    },
-    {
-      "id": "32608d7007fb7f53",
-      "title": "Meta lança nova IA focada em programação e games",
-      "summary": "Muse Code chega como alternativa para trabalhos específicos de desenvolvimento de software. Meta lança nova IA focada em programação e games",
-      "link": "https://tecnoblog.net/noticias/meta-lanca-nova-ia-focada-em-programacao-e-games/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/img_1718-340x191.jpeg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-06T22:19:40+00:00"
-    },
-    {
-      "id": "4d4fad24eda5ae0a",
-      "title": "TCL é pioneira no mercado ao trazer o Gemini para Google TV™ às suas mais recentes linhas de TVs no Brasil",
-      "summary": "A TCL SEMP anunciou a chegada do Gemini, inteligência artificial do Google, para modelos selecionados de suas Smart TVs com Google TV™ no Brasil. A novidade começou a ser…",
-      "link": "https://canaltech.com.br/apps/tcl-e-pioneira-no-mercado-ao-trazer-o-gemini-para-google-tv-as-suas-mais-recentes-linhas-de-tvs-no-brasil/",
-      "image": "https://tl.ctcdn.com.br/RbUyZSozcBQnOsE-TrceCR2Odn0=/0x0/filters:format(webp):quality(85)/2b0bf0e5-4d01-4ff2-ae84-4bdb50775511.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-06T22:03:00+00:00"
-    },
-    {
-      "id": "66b4994c02842eb6",
-      "title": "OpenAI: vazam mais detalhes do primeiro dispositivo da empresa",
-      "summary": "De acordo com jornalista, gadget terá formato de \"rosquinha\", será alimentado por bateria e poderá ser transportado facilmente pela casa com apenas uma mão O post OpenAI: vazam…",
-      "link": "https://olhardigital.com.br/2026/08/06/reviews/openai-vazam-mais-detalhes-do-primeiro-dispositivo-da-empresa/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-06T21:29:59+00:00"
-    },
-    {
-      "id": "01f1c93c6ffc4654",
-      "title": "Google abre o jogo sobre espaço para Chrome instalar IA local, e é muito",
-      "summary": "O Google atualizou a documentação de suporte do Chrome e revelou que o navegador precisa de cerca de 20 GB de espaço livre para baixar e ativar os modelos de inteligência…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/google-abre-o-jogo-sobre-espaco-para-chrome-instalar-ia-local-e-e-muito/",
-      "image": "https://tl.ctcdn.com.br/-6PtbFmw4p4bXYCL4qylPocIR0U=/0x0/filters:format(webp):quality(85)/b8da113e-2b4d-431a-8734-67eccb955646.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-06T21:04:00+00:00"
-    },
-    {
-      "id": "9917fef1b77d68ce",
-      "title": "Ar-condicionado LG Inverter Voice 12.000 BTUs cai de preço no Mercado Livre",
-      "summary": "Ar-condicionado da LG está com desconto de 28% ao combinar pagamento via Pix e cupom no Mercado Livre; modelo S3-Q12JA31E traz IA integrada, conectividade Wi-Fi e função de para…",
-      "link": "https://tecnoblog.net/achados/ar-condicionado-lg-inverter-voice-12-000-btus-cai-de-preco-no-mercado-livre/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-06T21:01:17+00:00"
-    },
-    {
-      "id": "20f43dae1ff7c87a",
-      "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-      "summary": "O dispositivo de IA que a OpenAI está desenvolvendo com o ex-designer da Apple Jony Ive é \"essencialmente um alto-falante inteligente sem tela\" alimentado por bateria, em formato de donut e aproximadamente o…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24958946/1421761326.jpg?quality=90&#038;strip=all&#038;crop=21.6,18.717179294824,78.4,81.282820705176",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-06T20:55:39+00:00"
-    },
-    {
-      "id": "9833f5efdbc7ee23",
-      "title": "Meta diz que sua IA também invadiu sistemas de outra empresa durante teste",
-      "summary": "Incidente se soma a episódios revelados por OpenAI e Anthropic. Especialistas questionam capacidade de empresas para criar ambientes controlados. Meta diz que sua IA também…",
-      "link": "https://tecnoblog.net/noticias/meta-diz-que-sua-ia-tambem-invadiu-sistemas-de-outra-empresa-durante-teste/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-03-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-06T20:49:22+00:00"
-    },
-    {
-      "id": "0f2180de4e2a07fb",
-      "title": "Da revolução à estagnação, a Grokipedia de Elon Musk está desatualizada há meses",
-      "summary": "Criada para desafiar a Wikipedia, a enciclopédia digital acumulou páginas, mas passou a enfrentar dúvidas sobre seu ritmo de evolução O post Da revolução à estagnação, a…",
-      "link": "https://olhardigital.com.br/2026/08/06/internet-e-redes-sociais/da-revolucao-a-estagnacao-a-grokipedia-de-elon-musk-esta-desatualizada-ha-meses/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/11/Grokipedia-e-Wikipedia-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-06T20:40:37+00:00"
-    },
-    {
-      "id": "dd016ba9a855d067",
-      "title": "Suno espera tornar-se legítimo com marcas d'água para músicas geradas por IA",
-      "summary": "Suno planeja marcas d’água e limites de download para impedir “abuso em grande escala”.",
-      "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/singing_robot_hero-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-06T20:17:36+00:00"
-    },
-    {
-      "id": "1ab22a74c2471ac7",
-      "title": "Google Maps ganha IA para pedir comida, reservar hotéis e planejar rotas",
-      "summary": "Nova tecnologia promete reduzir etapas no aplicativo ao interpretar pedidos, personalizar sugestões e integrar serviços durante deslocamentos O post Google Maps ganha IA para…",
-      "link": "https://olhardigital.com.br/2026/08/06/internet-e-redes-sociais/google-maps-ganha-ia-para-pedir-comida-reservar-hoteis-e-planejar-rotas/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/google-maps-ganha-ia-para-pedir-comidas-reservar-hotis-planejar-rotas-2-1024x577.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-06T20:16:41+00:00"
-    },
-    {
-      "id": "acad3225b3074c84",
-      "title": "Anthropic projetará seu próprio hardware para alimentar Claude",
-      "summary": "A Anthropic e a OpenAI estão correndo para crescer e, ao mesmo tempo, reduzir a dependência da Nvidia.",
-      "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/amodei_header_1-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-06T20:03:44+00:00"
     }
   ]
 }
