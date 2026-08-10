@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-08-10T07:37:53.365390+00:00",
+  "generated_at": "2026-08-10T13:03:25.793075+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "c069b4d6859e7bc0",
+      "title": "Meta lança IA que pode rodar no PC com uma única placa gráfica",
+      "summary": "Novo modelo da Meta leva tarefas de IA ao computador pessoal, com menos dependência de grandes estruturas de computação e modelos fechados O post Meta lança IA que pode rodar no…",
+      "link": "https://olhardigital.com.br/2026/08/10/inteligencia-artificial/meta-lanca-ia-que-pode-rodar-no-pc-com-uma-unica-placa-grafica/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/meta_logo-1024x725.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-10T12:39:08+00:00"
+    },
+    {
+      "id": "75515128daf1e0c5",
+      "title": "A nova aposta de Zuckerberg para tirar a Meta do atraso na IA",
+      "summary": "Zuckerberg quer abrir a IA da Meta, enquanto a empresa prepara novos modelos e um fundo de US$ 1 bilhão para comunidades locais O post A nova aposta de Zuckerberg para tirar a…",
+      "link": "https://olhardigital.com.br/2026/08/10/inteligencia-artificial/a-nova-aposta-de-zuckerberg-para-tirar-a-meta-do-atraso-na-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/meta_logo-1024x725.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-10T12:01:42+00:00"
+    },
+    {
+      "id": "c3267e56ad969be2",
+      "title": "Discovered Materials está jogando AI whack-a-mole para caçar chips mais legais",
+      "summary": "A Discovered Materials arrecadou US$ 9 milhões para financiar a busca por mais materiais novos para construir chips mais eficientes.",
+      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-10T12:00:00+00:00"
+    },
+    {
+      "id": "a3343084ac902576",
+      "title": "Além de China e EUA: “Guerra dos Chips” pode ter novo protagonista",
+      "summary": "Coreia do Sul cria fundo bilionário para chips e amplia planos com IA, data centers e infraestrutura para sustentar seu crescimento O post Além de China e EUA: “Guerra dos Chips”…",
+      "link": "https://olhardigital.com.br/2026/08/10/pro/alem-de-china-e-eua-guerra-dos-chips-pode-ter-novo-protagonista/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/10/chip-coreia-do-sul-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-10T11:34:56+00:00"
+    },
+    {
+      "id": "9cbb56d348e8ed32",
+      "title": "A revisão por pares está sobrecarregada – será que ela conseguirá sobreviver na era da IA?",
+      "summary": "À medida que aumentam as pesquisas e os artigos assistidos por IA, os revisores voluntários lutam para acompanhar.",
+      "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/peer-review-difficulties-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-10T11:00:47+00:00"
+    },
+    {
+      "id": "7bb0c3b80dd89d6b",
+      "title": "O novo assistente de IA da Ford pode verificar os níveis de combustível e a pressão dos pneus",
+      "summary": "A Ford está lançando um novo assistente com tecnologia de IA que pode responder perguntas sobre seu veículo Ford ou Lincoln, como quanto combustível você precisará para sua próxima viagem ou se…",
+      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988518/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-10T11:00:00+00:00"
+    },
+    {
+      "id": "545e75962bf41df7",
+      "title": "OpenAI adquire NextSlide para trazer apresentações geradas por IA para ChatGPT",
+      "summary": "A OpenAI adquiriu a NextSlide, a startup que transformou prompts, notas, documentos e pesquisas em apresentações editáveis. O artigo OpenAI adquire NextSlide para trazer geração de IA…",
+      "link": "https://the-decoder.com/openai-acquires-nextslide-to-bring-ai-generated-presentations-into-chatgpt/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-10T10:08:14+00:00"
+    },
+    {
+      "id": "815edfe6383208a7",
+      "title": "Tornando a destilação de conhecimento barata o suficiente para ser executada em escala",
+      "summary": "",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-10T10:05:36+00:00"
+    },
+    {
+      "id": "9ac1031d1b2cd096",
+      "title": "A IA para a ciência precisa de raciocínio, não apenas de dados",
+      "summary": "A cada poucas décadas, alguém anuncia que a ciência chegou ao seu fim. Em 1903, o reverenciado físico Albert Michelson escreveu que “os fatos da ciência física foram todos…",
+      "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-10T09:00:00+00:00"
+    },
+    {
+      "id": "837b81d5ae07cf2d",
+      "title": "Essas startups estão perseguindo o próximo grande sucesso nos LLMs",
+      "summary": "A série What’s Next do MIT Technology Review analisa setores, tendências e tecnologias para lhe dar uma primeira visão do futuro. Você pode ler o resto deles aqui. Há muito tempo…",
+      "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-10T09:00:00+00:00"
+    },
+    {
+      "id": "946fc28278c4e833",
+      "title": "O texto oculto em um PDF é suficiente para roubar dados confidenciais por meio do agente de IA da Atlassian, Rovo",
+      "summary": "A empresa de segurança PromptArmor mostra como instruções ocultas em um PDF podem sequestrar o agente de IA da Atlassian, Rovo, encaminhando silenciosamente dados confidenciais do Jira e do Confluence para um dispositivo externo…",
+      "link": "https://the-decoder.com/hidden-text-in-a-pdf-is-enough-to-steal-sensitive-data-through-atlassians-ai-agent-rovo/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/prompt_inejction_key.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-10T08:46:36+00:00"
+    },
+    {
+      "id": "dfb586131bf3d3cb",
+      "title": "Meta está de volta com Muse Glimmer: local, agente, multimodal e código aberto",
+      "summary": "",
+      "link": "https://huggingface.co/blog/muse-glimmer",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-10T00:00:00+00:00"
+    },
     {
       "id": "2c3323f389b9aa31",
       "title": "NVIDIA lança NemotronLabs VoiceChat 11B: um modelo aberto full-duplex de conversão de fala em fala com tomada de turno de aproximadamente 450 ms e chamada de ferramenta ao vivo",
@@ -859,138 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-07T14:28:31+00:00"
-    },
-    {
-      "id": "32445d4c1e9b91e0",
-      "title": "Airbnb diz que a IA está ajudando a fornecer recursos com mais rapidez ao testar uma nova função de pesquisa",
-      "summary": "O Airbnb lançará uma nova experiência de pesquisa baseada em IA com alternância.",
-      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-07T14:22:49+00:00"
-    },
-    {
-      "id": "766ac0a979d3c6aa",
-      "title": "Nintendo Switch 2 fica mais caro no Brasil; veja novo preço",
-      "summary": "Aumento de 2,2% reflete condições de mercado, explica fabricante. Data centers para IA são os vilões da crise da RAM e da escalada dos preços. Nintendo Switch 2 fica mais caro no…",
-      "link": "https://tecnoblog.net/noticias/nintendo-switch-2-fica-mais-caro-no-brasil-veja-novo-preco/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/05/nintendo-switch-2-02-edited-340x191.jpeg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-07T14:22:32+00:00"
-    },
-    {
-      "id": "4e987422231d8958",
-      "title": "O Terafab da SpaceX dependerá de usinas de gás natural, não de painéis solares Tesla",
-      "summary": "A fábrica tem como objetivo construir chips para data centers que serão administrados pela SpaceX e sua subsidiária xAI.",
-      "link": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-07T14:07:31+00:00"
-    },
-    {
-      "id": "dacb4e98bebb9f6b",
-      "title": "Os chatbots de IA falharam com pessoas em crise. Isso pode ser consertado?",
-      "summary": "Médicos e pesquisadores dizem que as empresas de IA precisam divulgar seus dados de segurança.",
-      "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mentalhealthaichat-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-07T13:49:37+00:00"
-    },
-    {
-      "id": "0a754c7cb1653c10",
-      "title": "ByteDance treina enorme modelo de IA na tentativa de rivalizar com a Anthropic",
-      "summary": "Proprietário do TikTok treinando modelo com 10 trilhões de parâmetros.",
-      "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/bytedance-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-07T13:29:22+00:00"
-    },
-    {
-      "id": "8dfdd2d1e838ea1c",
-      "title": "O maior modelo de IA da China está sendo desenvolvido na Bytedance",
-      "summary": "A Bytedance está treinando um modelo de IA com até dez trilhões de parâmetros, de acordo com o Financial Times. Isso é três vezes o tamanho do Kimi K3 da Moonshot, atualmente o maior…",
-      "link": "https://the-decoder.com/chinas-largest-ai-model-is-being-developed-at-bytedance/",
-      "image": "https://the-decoder.com/wp-content/uploads/2024/02/bytedance_logo_in_ai_data_Stream.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-07T12:54:17+00:00"
-    },
-    {
-      "id": "2905c5eded217b5a",
-      "title": "Cientistas de Stanford e do Arc Institute usaram IA para projetar novos vírus que mataram bactérias em laboratório",
-      "summary": "Uma equipe de pesquisa na Califórnia usou inteligência artificial para projetar vírus funcionais que matam bactérias, no que eles descrevem como o “primeiro projeto generativo de…",
-      "link": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/09/dangerous_virus_computer_chatbot.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-07T12:50:56+00:00"
-    },
-    {
-      "id": "29f4afdb86d71d56",
-      "title": "O alto-falante inteligente do tamanho de um disco de hóquei da OpenAI com peças móveis será lançado em 2027",
-      "summary": "O alto-falante inteligente planejado da OpenAI está tomando forma. O primeiro dispositivo de hardware da empresa terá formato de donut, aproximadamente do tamanho de um disco de hóquei, e custará mais de US$ 300, de acordo com…",
-      "link": "https://the-decoder.com/openais-hockey-puck-sized-smart-speaker-with-moving-parts-is-set-to-ship-in-2027/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_large_right.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-07T12:45:32+00:00"
-    },
-    {
-      "id": "d84e382084c34f8f",
-      "title": "O guia do fundador do TechCrunch Disrupt 2026: tudo o que você precisa saber",
-      "summary": "O TechCrunch Disrupt 2026 é construído em torno de uma questão: como construir uma empresa duradoura na era da IA? Nossa programação e linha de palestrantes refletem isso.",
-      "link": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-07T12:30:00+00:00"
-    },
-    {
-      "id": "f3d8f044104f08d6",
-      "title": "Adobe lança plugin para ChatGPT com mais de 70 ferramentas de edição",
-      "summary": "Empresa unifica extensões lançadas anteriormente e promete expandir recursos para Gemini e Slack. Adobe lança plugin para ChatGPT com mais de 70 ferramentas de edição",
-      "link": "https://tecnoblog.net/noticias/adobe-lanca-plugin-para-chatgpt-com-mais-de-70-ferramentas-de-edicao/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/7ojulx2woia.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-07T11:05:41+00:00"
-    },
-    {
-      "id": "765f71dbc875dd65",
-      "title": "A OpenAI supostamente retarda a pesquisa depois que seus próprios modelos coordenaram hacks secretamente por semanas sem serem detectados",
-      "summary": "Durante os testes de segurança interna, os agentes de IA da OpenAI construíram seu próprio quadro de mensagens com centenas de milhares de postagens, compartilharam explorações e credenciais e, eventualmente, atacaram…",
-      "link": "https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_vis-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-07T09:22:26+00:00"
-    },
-    {
-      "id": "7347f06e7c916544",
-      "title": "Como o HSP GRUPPE desenvolve recursos de IA para consultoria tributária",
-      "summary": "Descubra como o HSP GRUPPE usa o ChatGPT Enterprise para aumentar a produtividade, melhorar a qualidade do trabalho e criar mais capacidade de consultoria tributária e atendimento ao cliente.",
-      "link": "https://openai.com/index/hsp-gruppe",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-07T09:00:00+00:00"
     }
   ]
 }
