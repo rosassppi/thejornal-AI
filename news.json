@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-08-09T18:37:38.907840+00:00",
+  "generated_at": "2026-08-10T01:40:10.538189+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "2c3323f389b9aa31",
+      "title": "NVIDIA lança NemotronLabs VoiceChat 11B: um modelo aberto full-duplex de conversão de fala em fala com tomada de turno de aproximadamente 450 ms e chamada de ferramenta ao vivo",
+      "summary": "NVIDIA lança NemotronLabs VoiceChat 11B, um modelo aberto full-duplex de fala para fala com latência de 448 ms e chamada de ferramenta ao vivo. A postagem NVIDIA lança NemotronLabs VoiceChat…",
+      "link": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-09T23:58:34+00:00"
+    },
+    {
+      "id": "ffba219f0a05a0a3",
+      "title": "Fundo de hedge em apuros Situational Awareness investe US$ 400 milhões na startup de chips Source Foundry",
+      "summary": "O fundo de hedge focado em IA ainda está fazendo grandes apostas.",
+      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-09T20:35:17+00:00"
+    },
+    {
+      "id": "2dc9439fec8e0d02",
+      "title": "Data center de IA ameaça desregular clima na Amazônia",
+      "summary": "O primeiro data center de inteligência artificial da Amazônia se tornou alvo de um inquérito do Ministério Público do Estado do Pará O post Data center de IA ameaça desregular…",
+      "link": "https://olhardigital.com.br/2026/08/09/inteligencia-artificial/data-center-de-ia-ameaca-desregular-clima-na-amazonia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/calor-1024x585.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-09T19:45:00+00:00"
+    },
+    {
+      "id": "79a8b9128fba52b9",
+      "title": "Anthropic está ativando o modo automático de Claude Code por padrão",
+      "summary": "A programação com Claude Code exigirá em breve ainda menos supervisão humana.",
+      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-09T19:20:32+00:00"
+    },
+    {
+      "id": "afd810ffa8279d22",
+      "title": "Hora de renovar o escritório: selecionamos impressoras multifuncionais em promoção na Amazon",
+      "summary": "Se você está pensando em trocar a impressora antiga ou finalmente equipar o home office com um modelo mais moderno, este é o momento certo. Reunimos três opções de impressoras…",
+      "link": "https://olhardigital.com.br/2026/08/09/reviews/hora-de-renovar-o-escritorio-selecionamos-impressoras-multifuncionais-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-09T18:40:00+00:00"
+    },
     {
       "id": "fc4ff95661986614",
       "title": "Principais plataformas de observação e avaliação LLM em 2026: Langfuse, LangSmith, Braintrust, Arize e mais comparados",
@@ -936,61 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-08-07T09:00:00+00:00"
-    },
-    {
-      "id": "4d8df97248019ec7",
-      "title": "Gerador de teste de código de código aberto da Microsoft: um agente de teste de unidade poliglota que atinge 92,1% de conclusão de tarefas versus 78,9% para Stock Copilot",
-      "summary": "A Microsoft possui um gerador de teste de código de código aberto, um agente de teste de unidade poliglota enviado no repositório dotnet/skills licenciado pelo MIT. Ele lê um repositório antes de escrever qualquer coisa…",
-      "link": "https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-07T05:42:45+00:00"
-    },
-    {
-      "id": "074f5458ae1cc19d",
-      "title": "Liquid AI lança LFM2.5-2.6B: um modelo agente no dispositivo com contexto de 128K, chamada de ferramenta e pesos abertos",
-      "summary": "A Liquid AI lançou o LFM2.5-2.6B, um modelo de agente que planeja, chama ferramentas e conclui tarefas de várias etapas inteiramente no dispositivo. O modelo de parâmetro 2.69B emparelha 22 curtos de porta dupla…",
-      "link": "https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-07T03:42:27+00:00"
-    },
-    {
-      "id": "fbbf44e1e80be75e",
-      "title": "Confira o Olhar Digital News na íntegra (06/08/2026)",
-      "summary": "Mais um avanço da IA pode abrir caminho para novas aplicações em medicina, mas também acende sinal de alerta. Confira no Olhar Digital News! O post Confira o Olhar Digital News na…",
-      "link": "https://olhardigital.com.br/2026/08/06/videos/confira-o-olhar-digital-news-na-integra-06-08-2026/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-07T01:49:10+00:00"
-    },
-    {
-      "id": "37ff1e474245b499",
-      "title": "AMD compra startup canadense para acelerar estratégia em chips de IA",
-      "summary": "Movimento reforça a estratégia da empresa de ampliar seu portfólio de hardware para IA O post AMD compra startup canadense para acelerar estratégia em chips de IA apareceu…",
-      "link": "https://olhardigital.com.br/2026/08/06/pro/amd-compra-startup-canadense-para-acelerar-estrategia-em-chips-de-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/amd-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-07T01:45:11+00:00"
-    },
-    {
-      "id": "d505d741b94774c4",
-      "title": "Seu Direito Digital: Lei de IA da Europa pode te afetar mesmo no Brasil",
-      "summary": "No último domingo, entraram em vigor novos mecanismos da lei de IA da União Europeia, mas eles não estão restritos ao bloco. O post Seu Direito Digital: Lei de IA da Europa pode…",
-      "link": "https://olhardigital.com.br/2026/08/06/colunistas/seu-direito-digital-lei-de-ia-da-europa-pode-te-afetar-mesmo-no-brasil/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-07T01:13:12+00:00"
     }
   ]
 }
