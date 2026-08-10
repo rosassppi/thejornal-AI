@@ -1,7 +1,227 @@
 {
-  "generated_at": "2026-08-10T13:03:25.793075+00:00",
+  "generated_at": "2026-08-10T18:55:09.615748+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "6cff2d345df030f8",
+      "title": "OpenAI freia nova IA por risco de ciberataques autônomos",
+      "summary": "Após incidente com a Hugging Face, dona do ChatGPT suspende testes e reforça protocolos de segurança por temer que novo sistema vire ameaça. OpenAI freia nova IA por risco de…",
+      "link": "https://tecnoblog.net/noticias/openai-freia-nova-ia-por-risco-de-ciberataques-autonomos/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-4_capa-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-10T18:50:19+00:00"
+    },
+    {
+      "id": "64e5b0f27d5c6244",
+      "title": "O texto OCR antigo prejudica o treinamento do modelo de linguagem, e a FineBooks quer consertar isso em grande escala",
+      "summary": "O projeto FineBooks da Hugging Face e EleutherAI testou 14 modelos de OCR de código aberto em mais de 2.000 páginas de livros históricos. O modelo top, dots.mocr, atinge 97,6 por cento…",
+      "link": "https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/ocr_page_scanning.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-10T18:20:39+00:00"
+    },
+    {
+      "id": "31017311b73591e4",
+      "title": "Modder descobre como burlar GeForce NOW e liberar 48 GB de VRAM para rodar IA",
+      "summary": "Streamings de games na nuvem são uma saída para quem não deseja investir em um PC gamer, que está cada vez mais caro . O GeForce Now , por exemplo, é uma das melhores soluções e…",
+      "link": "https://canaltech.com.br/hardware/modder-descobre-como-burlar-ge-force-now-e-liberar-48-gb-de-vram-para-rodar-ia/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-10T18:07:00+00:00"
+    },
+    {
+      "id": "f86f68dff2cfb3c8",
+      "title": "OpenAI lança GPT-5.6-Cyber ​​para ajudar os defensores a encontrar vulnerabilidades antes que os invasores o façam",
+      "summary": "OpenAI visa dar uma vantagem inicial aos defensores da segurança cibernética: O novo modelo GPT-5.6-Cyber ​​responde até 98,5 por cento das consultas de segurança que de outra forma seriam bloqueadas e tem…",
+      "link": "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-10T18:01:30+00:00"
+    },
+    {
+      "id": "adb83702c74939bd",
+      "title": "Zuckerberg critica regulação da IA e diz que centralização é um problema",
+      "summary": "Chefão da Meta diz que tecnologia deve empoderar pessoas. Empresa promete modelos abertos e suporte a comunidades afetadas por data centers. Zuckerberg critica regulação da IA e…",
+      "link": "https://tecnoblog.net/noticias/zuckerberg-critica-regulacao-da-ia-e-diz-que-centralizacao-e-um-problema/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-04-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-10T17:06:40+00:00"
+    },
+    {
+      "id": "352cdea0cb937408",
+      "title": "Candidatos e recrutadores começam a usar avatares de IA em entrevistas de emprego",
+      "summary": "Recrutadores ao redor do mundo têm relatado um novo tipo de candidato nas entrevistas de emprego: o avatar gerado por inteligência artificial . A tecnologia reproduz voz e…",
+      "link": "https://canaltech.com.br/mercado/candidatos-e-recrutadores-comecam-a-usar-avatares-de-ia-em-entrevistas-de-emprego/",
+      "image": "https://tl.ctcdn.com.br/Oc4qUSer7Qg6-eyfXU_32IgvIUI=/0x0/filters:format(webp):quality(85)/5dfb0bcc-2d22-42fc-9577-7e3a5fc1787b.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-10T17:01:00+00:00"
+    },
+    {
+      "id": "5367cc95a8fd9817",
+      "title": "O que a construção de uma função financeira nativa de IA me ensinou",
+      "summary": "A CFO da OpenAI, Sarah Friar, compartilha cinco lições para construir uma função financeira nativa de IA, desde previsões automatizadas até controles mais fortes e ROI de IA.",
+      "link": "https://openai.com/index/building-an-ai-native-finance-function",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-10T17:00:00+00:00"
+    },
+    {
+      "id": "5890b1cfd4cc38aa",
+      "title": "Crie agentes de voz multilíngues de baixa latência: pesos abertos e controle total de implantação com NVIDIA Magpie TTS",
+      "summary": "",
+      "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-10T16:25:36+00:00"
+    },
+    {
+      "id": "e3008cb65001dab0",
+      "title": "O novo modelo Glimmer AI da Meta oferece uma dica da visão de inteligência pessoal de Zuckerberg",
+      "summary": "O novo modelo Muse Glimmer de peso aberto da Meta oferece um vislumbre da visão de superinteligência pessoal de Mark Zuckerberg, bem como a divisão emergente entre os usuários de IA podem possuir e…",
+      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-10T16:20:13+00:00"
+    },
+    {
+      "id": "c44e2db8b108e9c1",
+      "title": "Grok lança novo editor profissional de imagens que parece o Photoshop",
+      "summary": "O Grok lançou o Imagine Image 2.0 , novo modelo de IA para gerar. O foco da novidade é melhorar a edição de imagens com ferramentas como uma “varinha mágica” para selecionar…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/grok-lanca-novo-editor-profissional-de-imagens-que-parece-o-photoshop/",
+      "image": "https://tl.ctcdn.com.br/4xydB3KpzlRvemC-0onnBA3XDS0=/0x0/filters:format(webp):quality(85)/d0af6277-79ec-4601-bcef-acb6528f1bf4.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-10T16:05:00+00:00"
+    },
+    {
+      "id": "5828c56a0ad1b0ea",
+      "title": "Lançamento: Smart TV LG NANO 50” recebe 42% de desconto no Mercado Livre",
+      "summary": "LG NANO NU850 tem painel 4K NanoCell de 50\", recursos de IA e webOS 26; Smart TV recebe desconto de 42% sobre preço original no Pix no cupom Lançamento: Smart TV LG NANO 50”…",
+      "link": "https://tecnoblog.net/achados/lancamento-smart-tv-lg-nano-50-recebe-42-de-desconto-no-mercado-livre/",
+      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-10T15:52:58+00:00"
+    },
+    {
+      "id": "771e6a88e7e0c4b5",
+      "title": "Linus Torvalds: encontrar bugs usando IA é o “novo normal” no Linux",
+      "summary": "O Linux 7.2 está prestes a ser lançado. Um tanto resignado, Linus Torvalds destacou o alto volume de correções via IA que a nova versão trará. Linus Torvalds: encontrar bugs…",
+      "link": "https://tecnoblog.net/noticias/linus-torvalds-encontrar-bugs-usando-ia-e-o-novo-normal-no-linux/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/04/linux-linus-torvalds-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-10T15:45:53+00:00"
+    },
+    {
+      "id": "031f329eef992fe5",
+      "title": "Quatro conclusões do enorme manifesto de IA de Mark Zuckerberg",
+      "summary": "O CEO da Meta, Mark Zuckerberg, tem muito a dizer sobre o futuro idealizado que ele agora imagina para a humanidade coexistindo com a inteligência artificial - seu último ensaio abrange mais de…",
+      "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-10T15:19:05+00:00"
+    },
+    {
+      "id": "22ad0d8ec3bf4066",
+      "title": "OpenAI pausa testes de nova IA com medo de ela se rebelar",
+      "summary": "A OpenAI interrompeu parte das atividades internas de desenvolvimento de seu mais novo modelo de inteligência artificial, de codinome Astra, após avaliações de segurança…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/open-ai-pausa-testes-de-nova-ia-com-medo-de-ela-se-rebelar/",
+      "image": "https://tl.ctcdn.com.br/PFasPw4OE6fNEvU9TANEkkHk8bI=/0x0/filters:format(webp):quality(85)/43573d7e-5b1b-4d82-be80-77c9c21b0816.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-10T15:07:00+00:00"
+    },
+    {
+      "id": "6b59545a1676c64d",
+      "title": "Evolua seu marketing com novas ferramentas de IA",
+      "summary": "IU do consultor no Google Ads e no Google Analytics",
+      "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-10T14:30:00+00:00"
+    },
+    {
+      "id": "4aee09f24a27698d",
+      "title": "O que acontece com Bose quando os fones de ouvido se tornam IA?",
+      "summary": "Hoje estou conversando com Lila Snyder, que é CEO da Bose. Você certamente conhece a Bose – é uma das marcas mais famosas em toda a tecnologia de consumo. A empresa começou há 60 anos…",
+      "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD-Lila-Snyder.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-10T14:00:00+00:00"
+    },
+    {
+      "id": "3d196224ab27a2df",
+      "title": "Carta da OpenAI ao governador Abbott sobre infraestrutura responsável de IA no Texas",
+      "summary": "A OpenAI enviou ao governador Greg Abbott uma carta descrevendo seu compromisso com uma infraestrutura de IA responsável no Texas. A carta apoia um crescimento confiável e transparente que beneficia os texanos.",
+      "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-10T14:00:00+00:00"
+    },
+    {
+      "id": "cd39eff7760c7540",
+      "title": "Meta retorna a modelos abertos com o plano de Zuckerberg de copiar a China e vender computação em leilão",
+      "summary": "Meta lançou Muse Glimmer, o primeiro modelo aberto de seu novo Superintelligence Labs. É um modelo de agente 30B que roda em hardware de consumo depois que os pesos são compactados…",
+      "link": "https://the-decoder.com/meta-returns-to-open-models-with-zuckerbergs-plan-to-out-copy-china-and-sell-compute-by-auction/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/meta_AI_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-10T13:50:19+00:00"
+    },
+    {
+      "id": "8adc28b2d84f1724",
+      "title": "Disse para marcar uma aula de ginástica, um agente de IA invadiu o site para mover seu usuário para cima na lista de espera",
+      "summary": "Um usuário australiano só queria uma vaga em uma aula. Seu agente de IA encontrou uma falha de segurança e a explorou. O artigo Disse para marcar uma aula de ginástica, um agente de IA invadiu o site…",
+      "link": "https://the-decoder.com/told-to-book-a-gym-class-an-ai-agent-hacked-the-site-instead-to-move-its-user-up-the-waitlist/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Australia-Gym-Hack-OpenClaw.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-10T13:21:49+00:00"
+    },
+    {
+      "id": "0fd083267064601a",
+      "title": "Disney+ copia a Netflix e lança IA para te ajudar a decidir o que assistir",
+      "summary": "A The Walt Disney Company começou a testar novos recursos de busca e descoberta baseados em inteligência artificial generativa no Disney+ e no aplicativo da ESPN. A novidade segue…",
+      "link": "https://canaltech.com.br/apps/disney-copia-a-netflix-e-lanca-ia-para-te-ajudar-a-decidir-o-que-assistir/",
+      "image": "https://tl.ctcdn.com.br/bZ77VoAS_9YUagGZAKKJB7EwUjE=/0x0/filters:format(webp):quality(85)/ab5b7c13-f404-4171-b902-7e2acad27d83.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-10T13:05:01+00:00"
+    },
     {
       "id": "c069b4d6859e7bc0",
       "title": "Meta lança IA que pode rodar no PC com uma única placa gráfica",
@@ -33,6 +253,17 @@
       "source": "TechCrunch",
       "region": "mundo",
       "category": "Produtos",
+      "published_at": "2026-08-10T12:00:00+00:00"
+    },
+    {
+      "id": "95f74aeac90a93bb",
+      "title": "O modelo ML conclui o trabalho financeiro com mais eficiência com GPT-5.6 Sol",
+      "summary": "O Modelo ML usa GPT-5.6 Sol para realizar trabalhos financeiros de pesquisa e análise por meio de apresentações de PowerPoint editáveis ​​e rastreáveis ​​e pastas de trabalho do Excel.",
+      "link": "https://openai.com/index/model-ml",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
       "published_at": "2026-08-10T12:00:00+00:00"
     },
     {
@@ -91,6 +322,28 @@
       "published_at": "2026-08-10T10:05:36+00:00"
     },
     {
+      "id": "081601c279be28d3",
+      "title": "Expandindo o Daybreak à medida que a janela de defesa cibernética se estreita",
+      "summary": "Conheça o GPT-5.6-Cyber, o modelo específico de segurança cibernética da OpenAI disponível por meio do Daybreak Red para pesquisa autorizada de vulnerabilidades, validação de exploração e testes de segurança.",
+      "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-10T10:00:00+00:00"
+    },
+    {
+      "id": "29b0e61ec6cd1ed3",
+      "title": "Colocando modelos cibernéticos de fronteira em mãos mais confiáveis",
+      "summary": "Os parceiros aprovados do Daybreak podem usar os modelos cibernéticos de fronteira da OpenAI para fornecer serviços de segurança cibernética autorizados e governados aos clientes.",
+      "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-10T10:00:00+00:00"
+    },
+    {
       "id": "9ac1031d1b2cd096",
       "title": "A IA para a ciência precisa de raciocínio, não apenas de dados",
       "summary": "A cada poucas décadas, alguém anuncia que a ciência chegou ao seu fim. Em 1903, o reverenciado físico Albert Michelson escreveu que “os fatos da ciência física foram todos…",
@@ -122,6 +375,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-10T08:46:36+00:00"
+    },
+    {
+      "id": "2a5c0cad5d8b2f9d",
+      "title": "Assentos premium estão chegando ao ChatGPT Business",
+      "summary": "Assentos premium estão chegando ao ChatGPT Business. Inscreva-se até 20 de agosto para receber US$ 100 em créditos de espaço de trabalho e desbloquear maior utilização para os trabalhos mais exigentes da sua equipe.",
+      "link": "https://openai.com/index/premium-seats-chatgpt-business",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-10T00:00:00+00:00"
     },
     {
       "id": "dfb586131bf3d3cb",
@@ -375,6 +639,17 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-08-09T07:17:35+00:00"
+    },
+    {
+      "id": "a7e2c26896ee6258",
+      "title": "O data center planejado da Amazon pode se tornar o maior poluidor climático dos EUA",
+      "summary": "A IA já teve um impacto significativo nas emissões de carbono da Amazon, que relatou ter aumentado 16% no ano passado - a direção errada para uma empresa que se comprometeu a eliminar as suas…",
+      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-08T21:24:02+00:00"
     },
     {
       "id": "33642859b9345c47",
@@ -716,281 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-07T21:03:00+00:00"
-    },
-    {
-      "id": "c187142f372f8faf",
-      "title": "NVIDIA AI lança NOOA: uma estrutura Python orientada a objetos que transforma um agente de IA em uma única classe Python",
-      "summary": "NVIDIA Labs possui NOOA (NVIDIA Object-Oriented Agents) de código aberto, uma estrutura Python independente de modelo para a construção de agentes de IA. O desenvolvimento do agente hoje é dividido em prompt…",
-      "link": "https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-07T20:42:02+00:00"
-    },
-    {
-      "id": "74b52b10d7c17ee9",
-      "title": "Galaxy S24 Ultra tem o menor preço do ano e fica 57% mais barato na Amazon",
-      "summary": "Galaxy S24 Ultra de 256 GB com tela AMOLED, câmera de 200 MP e Galaxy AI volta a ter queda no preço com pagamento via Pix na Amazon Galaxy S24 Ultra tem o menor preço do ano e…",
-      "link": "https://tecnoblog.net/achados/galaxy-s24-ultra-tem-o-menor-preco-do-ano-e-fica-57-mais-barato-na-amazon/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/amz.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-07T20:29:56+00:00"
-    },
-    {
-      "id": "e7082108221b67be",
-      "title": "Fenix ​​Flexin nem nega mais o uso de IA para fazer ‘Rubberz’",
-      "summary": "Demorou bastante, mas agora o rapper de Los Angeles Fenix ​​​​Flexin parece ter admitido o uso de IA para a música com tema pop de sintetizador dos anos 80, “Rubberz”. Seus comentários seguem os do produtor Medasin…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-07T20:01:51+00:00"
-    },
-    {
-      "id": "15bd5d38b5f253bb",
-      "title": "“Asimov estava certo” sobre regras para IA, diz ex-diretor de cibersegurança dos EUA",
-      "summary": "Chris Inglis critica falta de limites éticos em modelos autônomos após casos de invasões não autorizadas. “Asimov estava certo” sobre regras para IA, diz ex-diretor de…",
-      "link": "https://tecnoblog.net/noticias/asimov-estava-certo-sobre-regras-para-ia-diz-ex-diretor-de-ciberseguranca-dos-eua/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/2021-06-10t145031z_1644079367_mt1sipa000yzrowj_rtrmadp_3_sipa-usa-1-1024x681-1-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-07T19:19:36+00:00"
-    },
-    {
-      "id": "2f38d17084bd8178",
-      "title": "IA faz confusão e deleta todos os arquivos de desenvolvedor: \"foi mal\"",
-      "summary": "Um erro envolvendo um agente de IA chamou atenção no Reddit após o desenvolvedor identificado como u/Ecstatic-Big5126 relatar que perdeu os arquivos do seu diretório de usuário…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-faz-confusao-e-deleta-todos-os-arquivos-de-desenvolvedor-foi-mal/",
-      "image": "https://tl.ctcdn.com.br/GeVucxq2cxWTFjBgDumBlE70oYY=/0x0/filters:format(webp):quality(85)/60c53e74-9ff4-4239-b082-6c5431dd3005.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-07T19:10:01+00:00"
-    },
-    {
-      "id": "d78aeab37b7f2a0a",
-      "title": "Assistir ao canal de IA de Roku é como comer em um cocho",
-      "summary": "O apelo dos canais de streaming de televisão gratuitos suportados por anúncios (FAST) sempre foi a forma como facilitam a (re)descoberta de filmes e séries clássicos. Mas o mais recente de Roku…",
-      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-07-at-2.40.34-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-07T18:59:46+00:00"
-    },
-    {
-      "id": "557e0bfc0113e2a7",
-      "title": "OpenAI freia um novo modelo porque ele é supostamente muito poderoso",
-      "summary": "A OpenAI diz que está pausando as “atividades internas” em torno de um modelo de IA em desenvolvimento, o Astra, porque ainda não atende aos novos padrões de segurança que a empresa está implementando. O…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-07T18:40:34+00:00"
-    },
-    {
-      "id": "af0580c81b7a1c86",
-      "title": "O gerador de música AI Suno reforça as regras para combater spam e lidar com as crescentes preocupações com direitos autorais",
-      "summary": "O CEO da Suno, Mikey Shulman, anunciou novas diretrizes e limites de download mais rígidos depois que sua música gerada por IA foi usada em plataformas de streaming de jogos para obter lucro. A empresa também…",
-      "link": "https://the-decoder.com/ai-music-generator-suno-tightens-rules-to-fight-spam-and-address-growing-copyright-concerns/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/suno_ai_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-07T18:35:42+00:00"
-    },
-    {
-      "id": "f00c920142173faa",
-      "title": "Meta ganha óculos inteligentes banhados a ouro que custam mais de R$ 30 mil",
-      "summary": "A empresa de personalização de produtos de luxo Caviar anunciou uma edição especial dos óculos inteligentes da Meta revestida em ouro 24 quilates . Batizado de Odyssey , o modelo…",
-      "link": "https://canaltech.com.br/produtos/meta-ganha-oculos-inteligentes-banhados-a-ouro-que-custam-mais-de-r-30-mil/",
-      "image": "https://tl.ctcdn.com.br/OdLg374D6ASUZfgTurQ1Ty43HI8=/0x0/filters:format(webp):quality(85)/7e646fe3-8bf3-4bab-b5bb-6e9007433b9e.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-07T18:02:02+00:00"
-    },
-    {
-      "id": "b7c20be210bc6115",
-      "title": "AMD adquire Taalas, uma startup que transforma modelos de IA diretamente em silício",
-      "summary": "A AMD está comprando a startup canadense Taalas, que codifica pesos de modelos diretamente em chips de inferência. Isso os torna extremamente rápidos, mas prende cada chip a um único modelo. Uma demonstração…",
-      "link": "https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/amd_logowall.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-07T18:01:32+00:00"
-    },
-    {
-      "id": "624979042481ff50",
-      "title": "TutorMoments: Os tutores de IA sabem quando ajudar e quando conter?",
-      "summary": "",
-      "link": "https://huggingface.co/blog/allenai/tutormoments",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-07T17:53:32+00:00"
-    },
-    {
-      "id": "e6fd73c01c66e1f2",
-      "title": "Trump diz que regras para IA podem “acabar” com tecnologia",
-      "summary": "Trump alerta que novas regras de IA nos EUA podem mudar o futuro da tecnologia após falhas em testes de segurança recentes O post Trump diz que regras para IA podem “acabar” com…",
-      "link": "https://olhardigital.com.br/2026/08/07/inteligencia-artificial/trump-diz-que-regras-para-ia-podem-acabar-com-tecnologia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/donald-trump-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-07T17:43:13+00:00"
-    },
-    {
-      "id": "d29510e9be6cb1f0",
-      "title": "O caro alto-falante inteligente da OpenAI usará peças móveis para parecer “mais vivo”",
-      "summary": "O relatório Gurman afirma que a OpenAI confirmou que o alto-falante não é uma imitação da Apple.",
-      "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-500x500-1784833195.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-07T17:36:22+00:00"
-    },
-    {
-      "id": "30a0b584b9c1234c",
-      "title": "Antrópico afrouxa as restrições biológicas do Fable 5, mas mantém as barreiras para virologia e toxicologia",
-      "summary": "A Anthropic reduziu os falsos positivos em seus filtros de segurança biológica para Fable 5 em cerca de 85 por cento. Anteriormente, quase todas as consultas relacionadas à biologia eram bloqueadas e redirecionadas para…",
-      "link": "https://the-decoder.com/anthropic-loosens-fable-5s-biology-restrictions-but-keeps-the-guardrails-on-for-virology-and-toxicology/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_bio.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-07T17:35:45+00:00"
-    },
-    {
-      "id": "5a9eb4023075374c",
-      "title": "Melhor smartwatch Samsung: qual relógio comprar em 2026?",
-      "summary": "Encontre o melhor relógio inteligente da Samsung para o seu dia a dia; lista inclui desde smartwatches baratos até modelos com recursos avançados para monitoramento de saúde e…",
-      "link": "https://tecnoblog.net/guias/melhor-smartwatch-samsung/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/watch-ultra-2-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-07T17:01:57+00:00"
-    },
-    {
-      "id": "44c68453ba873438",
-      "title": "O que está por trás da mudança na IA do Google",
-      "summary": "Alguns dos maiores nomes da equipe de IA do Google conseguiram novos empregos esta semana. Em alguns casos, inclusive para o lendário Googler Jeff Dean, esses empregos não estão mais no Google. Dado que…",
-      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-07T16:45:14+00:00"
-    },
-    {
-      "id": "956e8a0e5557cdb2",
-      "title": "O primeiro alto-falante inteligente da OpenAI é esperado em 2027 por mais de US$ 300",
-      "summary": "A OpenAI está planejando um alto-falante inteligente em formato de donut para 2027, com preço acima de US$ 300. O dispositivo sem tela possui câmera, microfones e peças móveis. Ele foi projetado para aprender com ...",
-      "link": "https://the-decoder.com/openais-first-smart-speaker-is-expected-in-2027-at-over-300/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-07T16:43:16+00:00"
-    },
-    {
-      "id": "7150ff458c1e7275",
-      "title": "Resident Evil da vida real? IA cria genoma completo de vírus pela primeira vez",
-      "summary": "Pesquisadores da Universidade Stanford e do Arc Institute, nos Estados Unidos, projetaram pela primeira vez o genoma completo de vírus funcionais usando inteligência artificial. O…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/resident-evil-da-vida-real-ia-cria-genoma-completo-de-virus-pela-primeira-vez/",
-      "image": "https://tl.ctcdn.com.br/ENkkoVeEROrlkXHWd_bSNHNdlDU=/0x0/filters:format(webp):quality(85)/fb3a6d37-4db1-4627-a2b4-65656f76a48d.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-07T16:30:03+00:00"
-    },
-    {
-      "id": "5635d1985642214d",
-      "title": "A curiosa história de como a IA fez um código antigo ser removido do Linux",
-      "summary": "\"Ruído\" gerado por agentes de IA fizeram código antigo que já tinha previsão de ser removido do Linux ter esse procedimento acelerado. A curiosa história de como a IA fez um…",
-      "link": "https://tecnoblog.net/noticias/a-curiosa-historia-de-como-a-ia-fez-um-codigo-antigo-ser-removido-do-linux/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/05/capa-notebook-linux-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-07T16:20:44+00:00"
-    },
-    {
-      "id": "66165609f5f264e5",
-      "title": "Cloudflare lança Kitesurf, um navegador desenvolvido para agentes de IA",
-      "summary": "A Cloudflare lançou o Kitesurf, um navegador hospedado na nuvem projetado para agentes de IA em vez de pessoas. A empresa afirma que o navegador usa menos poder de computação do que o Chromium para…",
-      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-07T16:16:09+00:00"
-    },
-    {
-      "id": "34d5c78e56265b8f",
-      "title": "IAs da OpenAI criaram fórum secreto para planejar ataques hacker",
-      "summary": "Pesquisadores da OpenAI revelaram detalhes de como as IAs da empresa fizeram um ataque hacker de forma autônoma na plataforma Hugging Face. De acordo com os relatos, as…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ias-da-open-ai-criaram-forum-secreto-para-planejar-ataques-hacker/",
-      "image": "https://tl.ctcdn.com.br/gEy2TCbtop1uXJOZAV55naMPMQA=/0x0/filters:format(webp):quality(85)/7f0505ac-9bd0-4a75-bf82-9ad396817713.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-07T16:12:00+00:00"
-    },
-    {
-      "id": "e66cc71d0943fe40",
-      "title": "Respondendo à próxima fronteira de capacidades cibernéticas críticas",
-      "summary": "A OpenAI está compartilhando avaliações preliminares de segurança cibernética do Astra e as medidas que estamos tomando para fortalecer as proteções e os controles de segurança.",
-      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-07T15:20:00+00:00"
-    },
-    {
-      "id": "e6b91fcdad4104b4",
-      "title": "TCL libera IA do Google em TVs do Brasil; veja os modelos",
-      "summary": "Gemini chega a aparelhos vendidos a partir de 2025 no mercado doméstico. TCL libera IA do Google em TVs do Brasil; veja os modelos",
-      "link": "https://tecnoblog.net/noticias/tcl-libera-ia-do-google-em-tvs-do-brasil-veja-os-modelos/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/image-7-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-07T15:07:40+00:00"
-    },
-    {
-      "id": "a40788d734981216",
-      "title": "Abandono: Grokipedia não é atualizada há meses e já não ameaça a Wikipedia",
-      "summary": "A Grokipedia, enciclopédia de inteligência artificial criada pela xAI, empresa de Elon Musk, está sem receber atualizações há meses e parou de processar novas edições desde abril…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/abandono-grokipedia-nao-e-atualizada-ha-meses-e-ja-nao-ameaca-a-wikipedia/",
-      "image": "https://tl.ctcdn.com.br/Q5r4nZOvTIeTc_0Nau-hU4fhgxw=/0x0/filters:format(webp):quality(85)/fd676592-8613-4894-9a32-cd0777546b42.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-07T15:03:00+00:00"
-    },
-    {
-      "id": "d56deed689e3c522",
-      "title": "O modelo chinês de IA Kimi escapou de seu ambiente de testes de segurança cibernética, dizem os pesquisadores",
-      "summary": "No teste Kimi, o sandbox projetado para conter o experimento não foi configurado corretamente.",
-      "link": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-07T14:28:31+00:00"
     }
   ]
 }
