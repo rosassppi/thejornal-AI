@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-08-11T01:37:12.018500+00:00",
+  "generated_at": "2026-08-11T07:04:16.192375+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "0fefae1120e82768",
+      "title": "webAI lança TwIL-LM: uma família de modelos de lógica formal 1.7B e 3B para autoformalização em hardware local",
+      "summary": "webAI lançou TwIL-LM, uma família de modelos de lógica formal com parâmetros 1.7B e 3B que traduzem o inglês em lógica de primeira ordem e verificam se as conclusões decorrem de…",
+      "link": "https://www.marktechpost.com/2026/08/10/webai-releases-twil-lm-a-1-7b-and-3b-formal-logic-model-family-for-autoformalization-on-local-hardware/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/Screenshot-2026-08-10-at-11.11.44-PM-1.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-11T06:20:09+00:00"
+    },
+    {
+      "id": "6584d092e579a6c9",
+      "title": "Implementando um pipeline de geração de vídeo e áudio multimodal MiniMax-H3 com APIs ComfyUI",
+      "summary": "Neste guia abrangente, demonstramos como implementar um pipeline de geração multimodal MiniMax-H3 completo e programável. Ao aproveitar o ComfyUI como um back-end sem cabeça, nós…",
+      "link": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-11T05:44:38+00:00"
+    },
+    {
+      "id": "f2ad6eac03225193",
+      "title": "Anthropic fecha acordo bilionário com mineradora de Bitcoin por infraestrutura de IA",
+      "summary": "Riot Platforms começou, recentemente, a oferecer capacidade de seus data centers para operações de IA O post Anthropic fecha acordo bilionário com mineradora de Bitcoin por…",
+      "link": "https://olhardigital.com.br/2026/08/10/pro/anthropic-fecha-acordo-bilionario-com-mineradora-de-bitcoin-por-infraestrutura-de-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/riot_platforms-1024x654.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T02:45:38+00:00"
+    },
+    {
+      "id": "7fb1c1ef49d1c476",
+      "title": "OpenAI expande ferramentas de cibersegurança",
+      "summary": "Entre as novidades, estão a expansão do Daybreak e o lançamento do GPT-5.6-Cyber O post OpenAI expande ferramentas de cibersegurança apareceu primeiro em Olhar Digital .",
+      "link": "https://olhardigital.com.br/2026/08/10/internet-e-redes-sociais/openai-expande-ferramentas-de-ciberseguranca/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/chatgpt-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T01:49:36+00:00"
+    },
+    {
+      "id": "9bf3655a0b5099ba",
+      "title": "As pessoas estão fazendo algo novo com o ChatGPT — e não é perguntar",
+      "summary": "No ambiente profissional, as pessoas têm mais que o dobro de probabilidade de usar o ChatGPT para concluir uma tarefa ou criar alguma coisa do que fora do trabalho O post As…",
+      "link": "https://olhardigital.com.br/2026/08/10/inteligencia-artificial/as-pessoas-estao-fazendo-algo-novo-com-o-chatgpt-e-nao-e-perguntar/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/openai-2-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T01:29:44+00:00"
+    },
+    {
+      "id": "d8579fe1c5ad4315",
+      "title": "Apple Watch pode deixar para trás o visual que marcou sua história",
+      "summary": "Modelos sem tela, versões mais acessíveis e recursos de inteligência artificial estão entre as possibilidades estudadas pela companhia Apple O post Apple Watch pode deixar para…",
+      "link": "https://olhardigital.com.br/2026/08/10/reviews/apple-watch-pode-deixar-para-tras-o-visual-que-marcou-sua-historia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/Apple-Watch-e-Samsung-Galaxy-Watch-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T01:22:58+00:00"
+    },
+    {
+      "id": "7ad0d9e16a81941f",
+      "title": "Disney e ESPN testam IA para transformar buscas e recomendações na TV",
+      "summary": "Recursos em teste permitem consultas por voz ou texto e ampliam as opções de conteúdo conforme o interesse de cada usuário O post Disney e ESPN testam IA para transformar buscas e…",
+      "link": "https://olhardigital.com.br/2026/08/10/cinema-e-streaming/disney-e-espn-testam-ia-para-transformar-buscas-e-recomendacoes-na-tv/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/google-docs-image-4-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T00:48:20+00:00"
+    },
     {
       "id": "ae6d37e0065d78ba",
       "title": "iOS 27 pode ganhar ferramenta para comprovar autenticidade de imagens",
@@ -311,6 +388,17 @@
       "published_at": "2026-08-10T15:19:05+00:00"
     },
     {
+      "id": "2620d7e9170ad689",
+      "title": "Meta AI lança Muse Glimmer: um modelo agente de peso aberto 30B que roda em uma GPU de consumidor",
+      "summary": "Muse Glimmer da Meta é um modelo agente de peso aberto 30B no Apache 2.0. Ele acomoda 24 GB de VRAM e decodifica 3,1x mais rápido com especulação DFlash. O post Meta AI lança Muse…",
+      "link": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-10T15:11:51+00:00"
+    },
+    {
       "id": "22ad0d8ec3bf4066",
       "title": "OpenAI pausa testes de nova IA com medo de ela se rebelar",
       "summary": "A OpenAI interrompeu parte das atividades internas de desenvolvimento de seu mais novo modelo de inteligência artificial, de codinome Astra, após avaliações de segurança…",
@@ -540,6 +628,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-10T08:46:36+00:00"
+    },
+    {
+      "id": "30677527c37fe620",
+      "title": "ByteDance Seed apresenta SeedRealtime: um LLM audiovisual nativo full-duplex que observa, ouve e fala em um único modelo",
+      "summary": "A equipe Seed da ByteDance apresentou o SeedRealtime, um LLM full-duplex audiovisual nativo. O modelo funde áudio, vídeo e texto em uma única arquitetura unificada. Ele interage em…",
+      "link": "https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-10T05:48:17+00:00"
     },
     {
       "id": "2a5c0cad5d8b2f9d",
@@ -892,105 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-08T18:40:00+00:00"
-    },
-    {
-      "id": "57bcc91c15e3ba01",
-      "title": "Um data center da Amazon pode ter a usina mais poluente do país",
-      "summary": "Para alimentar seu novo data center no oeste do Texas, a Amazon está investindo na construção de uma nova usina que poderá ser um dos maiores produtores individuais de gases de efeito estufa no…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-08T17:53:34+00:00"
-    },
-    {
-      "id": "573b3c17e5b300c2",
-      "title": "Nvidia prepara investimento de até US$ 3 bilhões em infraestrutura de IA",
-      "summary": "A parceria envolve uma empresa ligada ao Stargate, projeto de data centers no Texas que tem SoftBank, OpenAI e Oracle entre os sócios O post Nvidia prepara investimento de até US$…",
-      "link": "https://olhardigital.com.br/2026/08/08/inteligencia-artificial/nvidia-prepara-investimento-de-ate-us-3-bilhoes-em-infraestrutura-de-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2024/11/inteligencia-artificial-receita-scaled-e1733838349992-1024x577.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-08T17:45:43+00:00"
-    },
-    {
-      "id": "43f4bf483c16525f",
-      "title": "Óculos Ray-Ban Meta pode registrar mais do que fotos e vídeos",
-      "summary": "Recursos de IA dos Ray-Ban Meta podem armazenar imagens e transcrições, enquanto configurações definem parte da coleta de dados O post Óculos Ray-Ban Meta pode registrar mais do…",
-      "link": "https://olhardigital.com.br/2026/08/08/reviews/oculos-ray-ban-meta-pode-registrar-mais-do-que-fotos-e-videos/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2024/11/ray-ban-meta-1024x640.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-08T17:06:40+00:00"
-    },
-    {
-      "id": "2ca18629c3106613",
-      "title": "Pokee AI lança Pokee-Isaac 28B: um modelo agente de contexto de 10 milhões de tokens construído para funcionar dentro dos limites do cliente",
-      "summary": "A Pokee AI lançou o Pokee-Isaac 28B, um modelo básico somente de texto de 28B com uma janela de contexto de token de 10M construída para ser executada dentro dos limites do cliente. Ele pontua 93,3% no RULER em 10M…",
-      "link": "https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-08T17:04:39+00:00"
-    },
-    {
-      "id": "3f04758a2fcd3759",
-      "title": "SpaceX planeja construir fábricas na Lua para produzir satélites de IA",
-      "summary": "A empresa pretende usar robôs e a nave Starship para erguer uma estrutura industrial lunar capaz de fabricar satélites e componentes de IA O post SpaceX planeja construir fábricas…",
-      "link": "https://olhardigital.com.br/2026/08/08/ciencia-e-espaco/spacex-planeja-construir-fabricas-na-lua-para-produzir-satelites-de-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/iStock-2127747623-1-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-08T17:01:34+00:00"
-    },
-    {
-      "id": "e7ea613a0d73f3d4",
-      "title": "Casa inteligente começa pelo som: Echo Dot em promoção na Amazon",
-      "summary": "Se você quer dar o primeiro passo para deixar sua casa mais inteligente — ou simplesmente melhorar a experiência com a Alexa —, a Amazon tem boas opções do Echo Dot disponíveis…",
-      "link": "https://olhardigital.com.br/2026/08/08/reviews/casa-inteligente-comeca-pelo-som-echo-dot-em-promocao-na-amazon-2/",
-      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-08T17:00:00+00:00"
-    },
-    {
-      "id": "76fc705156820431",
-      "title": "Anthropic define Claude Code para o modo automático por padrão para proteger os desenvolvedores de aprovações incorretas",
-      "summary": "A partir de 14 de agosto, a Anthropic tornará o Modo Automático no Claude Code o padrão para os planos Pro, Max e Team. A empresa diz que é mais seguro. Nos testes, o classificador capturou 89 por cento…",
-      "link": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_logo_wall-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-08T14:58:57+00:00"
-    },
-    {
-      "id": "30963f4351818b95",
-      "title": "Por que candidatos estão escondendo prompts de IA no currículo?",
-      "summary": "Cerca de 70% das empresas brasileiras já usam inteligência artificial (IA) em alguma etapa dos processos de recrutamento e seleção . Segundo um levantamento do Pandapé em parceria…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/por-que-candidatos-estao-escondendo-prompts-de-ia-no-curriculo/",
-      "image": "https://tl.ctcdn.com.br/-AYm08RlsZn8kUxDuUhykVsle24=/0x0/filters:format(webp):quality(85)/6a07ac37-c1d1-4e15-83a2-943b18aa4163.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-08T14:29:00+00:00"
-    },
-    {
-      "id": "4658b3b1f44ef958",
-      "title": "Os leitores classificam os contos gerados por IA mais do que os humanos, até descobrirem que uma máquina os escreveu",
-      "summary": "As pessoas não conseguem distinguir contos gerados pelo ChatGPT de contos escritos por humanos, de acordo com um novo estudo. Mais de 2.500 participantes tiveram um desempenho nada melhor que o acaso. O gerado por IA…",
-      "link": "https://the-decoder.com/readers-rate-ai-generated-short-stories-higher-than-human-ones-until-they-learn-a-machine-wrote-them/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/ai_writing_a_book.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-08T14:18:55+00:00"
     }
   ]
 }
