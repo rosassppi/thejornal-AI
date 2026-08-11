@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-08-11T07:04:16.192375+00:00",
+  "generated_at": "2026-08-11T12:59:46.057147+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "382023d7ddb257a9",
+      "title": "O mega-IPO planejado da Anthropic enfrenta ceticismo dos investidores em relação aos rivais chineses e ventos políticos contrários",
+      "summary": "A Anthropic está preparando um IPO para setembro ou outubro, segundo o Wall Street Journal, potencialmente o maior de todos os tempos. Durante reuniões com investidores, a empresa, avaliada em US$ 965…",
+      "link": "https://the-decoder.com/anthropics-planned-mega-ipo-faces-investor-skepticism-over-chinese-rivals-and-political-headwinds/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/05/anthropic_rocket-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-11T12:49:15+00:00"
+    },
+    {
+      "id": "c703baeb9f55f24b",
+      "title": "Claude aplicará marcas d'água invisíveis em textos e imagens de IA",
+      "summary": "A Anthropic comprometeu-se a começar a marcar textos e imagens gerados por Claude com dados legíveis por máquina, num esforço para cumprir as regras europeias para a transparência da IA. \"Texto gerado…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-11T12:22:20+00:00"
+    },
+    {
+      "id": "41ddd199683a8426",
+      "title": "Anthropic diz que colocará marca d'água no texto gerado por seus modelos de IA",
+      "summary": "A Anthropic estenderá o suporte para marcas d'água de gerações de IA também para modelos mais antigos.",
+      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-11T12:13:47+00:00"
+    },
+    {
+      "id": "71db8e8c5c15bd25",
+      "title": "Invasor invisível: o que o ataque da OpenAI ensina sobre a nova era da cibersegurança?",
+      "summary": "Na ficção científica, a rebelião das máquinas costuma envolver exércitos de robôs e cenários apocalípticos. Na vida real, o incidente ocorrido em julho de 2026, foi muito mais…",
+      "link": "https://canaltech.com.br/seguranca/invasor-invisivel-o-que-o-ataque-da-open-ai-ensina-sobre-a-nova-era-da-ciberseguranca/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T11:56:29+00:00"
+    },
+    {
+      "id": "c2621770888f2131",
+      "title": "OpenAI apresenta assentos premium de US$ 125 para ChatGPT Business à medida que a IA da agência queima mais tokens",
+      "summary": "A OpenAI está lançando “Assentos Premium” para clientes ChatGPT Business por US$ 125 por usuário por mês, cinco vezes o preço dos assentos padrão existentes. Em troca, os usuários recebem…",
+      "link": "https://the-decoder.com/openai-introduces-125-premium-seats-for-chatgpt-business-as-agentic-ai-burns-through-more-tokens/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_chatgpt_pattern_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-11T11:51:01+00:00"
+    },
+    {
+      "id": "f59b415be5a46288",
+      "title": "Anthropic assina acordo de data center de US$ 9,1 bilhões com a mineradora de Bitcoin Riot Platforms",
+      "summary": "A Anthropic está alugando capacidade de data center no valor de US$ 9,1 bilhões da mineradora de Bitcoin Riot Platforms no Texas, de acordo com a Bloomberg. O acordo cobre 191 megawatts na Riot…",
+      "link": "https://the-decoder.com/anthropic-signs-9-1-billion-data-center-deal-with-bitcoin-miner-riot-platforms/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo_money.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-11T11:33:00+00:00"
+    },
+    {
+      "id": "4c16bc788e0d3586",
+      "title": "A aquisição da matemática pela IA começou",
+      "summary": "O matemático James Maynard passou muito tempo no ano passado \"buscando a alma\". Professor da Universidade de Oxford e vencedor da prestigiada Medalha Fields, Maynard…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-11T11:00:00+00:00"
+    },
+    {
+      "id": "37054a851758afba",
+      "title": "IA tentou reservar uma aula e acabou hackeando a academia",
+      "summary": "Agente de IA encontrou uma falha no sistema de uma academia e cancelou a reserva de outro cliente para subir na fila O post IA tentou reservar uma aula e acabou hackeando a…",
+      "link": "https://olhardigital.com.br/2026/08/11/inteligencia-artificial/ia-tentou-reservar-uma-aula-e-acabou-hackeando-a-academia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/robo-usa-computador-1024x630.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T10:29:37+00:00"
+    },
+    {
+      "id": "8010a95ae63d6168",
+      "title": "Nvidia garante o valor de seus próprios chips para desbloquear US$ 500 bilhões em financiamento de infraestrutura de IA",
+      "summary": "A Nvidia está se unindo à Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs e KKR para mobilizar mais de US$ 500 bilhões para infraestrutura de IA. Para conquistar investidores, o…",
+      "link": "https://the-decoder.com/nvidia-guarantees-its-own-chips-value-to-unlock-500-billion-in-ai-infrastructure-financing/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Nvidia-Wall-Street-Money.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-11T09:41:03+00:00"
+    },
+    {
+      "id": "836f745bfea0a57c",
+      "title": "Marcas d'água antrópicas em todas as publicações de Claude globalmente com marcas que \"podem persistir após alguma edição\"",
+      "summary": "A Anthropic incorporará marcas d'água invisíveis em todos os arquivos de texto e sinalização gerados por Claude usando o padrão C2PA. Os novos modelos enviados a partir de agosto de 2026 terão rotulagem construída…",
+      "link": "https://the-decoder.com/anthropic-watermarks-all-claude-outputs-globally-with-marks-that-may-persist-through-some-editing/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/05/anthropic_logo_wall-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-11T08:45:06+00:00"
+    },
     {
       "id": "0fefae1120e82768",
       "title": "webAI lança TwIL-LM: uma família de modelos de lógica formal 1.7B e 3B para autoformalização em hardware local",
@@ -881,116 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-09T10:10:00+00:00"
-    },
-    {
-      "id": "46a304205767771d",
-      "title": "O DiffusionGemma do Google prova que você não precisa treinar do zero para construir um modelo de difusão de texto",
-      "summary": "Em vez de treinar um novo modelo do zero, o Google DeepMind adaptou o Gemma 4 em um modelo de difusão usando menos de 10% do orçamento de treinamento original. DifusãoGemma…",
-      "link": "https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/01/deepmind_logo_wall-2.jpeg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-09T10:01:26+00:00"
-    },
-    {
-      "id": "6727b37b40126304",
-      "title": "O apetite energético da IA ​​leva a Nvidia e a Amazon a investir bilhões em infraestruturas energéticas massivas",
-      "summary": "A fome de poder da indústria da IA ​​continua a crescer. A Nvidia está investindo até US$ 3 bilhões na Lancium, uma desenvolvedora de infraestrutura de energia que já tem quatro gigawatts sob contrato…",
-      "link": "https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/energy_pollution-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-09T09:26:28+00:00"
-    },
-    {
-      "id": "5cccff0c8810f6c0",
-      "title": "Google desmonta Deepmind e aposta em um novo começo enquanto Hassabis se dirige para a saída",
-      "summary": "O Google Deepmind está perdendo autonomia e o fundador Demis Hassabis pode deixar o laboratório de IA para sempre nos próximos meses. O pesquisador de IA Koray Kavukcuoglu assumirá o controle do dia a dia…",
-      "link": "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/google_logo_wall-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-09T08:56:12+00:00"
-    },
-    {
-      "id": "404ebe3959ec5a30",
-      "title": "Análise de sentimento IMDb com DistilBERT LoRA, linhas de base TF-IDF, calibração, interpretabilidade, teste de robustez e aprendizagem semissupervisionada",
-      "summary": "Este tutorial fornece um guia abrangente para construir um fluxo de trabalho robusto de análise de sentimento. Ao combinar as linhas de base clássicas do TF-IDF com o moderno ajuste fino com eficiência de parâmetros…",
-      "link": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-09T07:17:35+00:00"
-    },
-    {
-      "id": "a7e2c26896ee6258",
-      "title": "O data center planejado da Amazon pode se tornar o maior poluidor climático dos EUA",
-      "summary": "A IA já teve um impacto significativo nas emissões de carbono da Amazon, que relatou ter aumentado 16% no ano passado - a direção errada para uma empresa que se comprometeu a eliminar as suas…",
-      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-08T21:24:02+00:00"
-    },
-    {
-      "id": "33642859b9345c47",
-      "title": "Mercado Livre faz queima do Galaxy Buds 4 com cupom; fone da Samsung com ANC",
-      "summary": "O Samsung Galaxy Buds 4 aparece em uma faixa de preço bastante competitiva no Mercado Livre . O fone de ouvido com ANC e recursos Galaxy AI está saindo por R$ 846 no Pix , com…",
-      "link": "https://canaltech.com.br/fone-de-ouvido/mercado-livre-faz-queima-do-galaxy-buds-4-com-cupom-fone-da-samsung-com-anc/",
-      "image": "https://tl.ctcdn.com.br/NrGmNJ3n101MIcsUbVrr-1p40uE=/0x0/filters:format(webp):quality(85)/4e8ca72c-95d9-4e27-a598-a859e6563895.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-08T21:23:05+00:00"
-    },
-    {
-      "id": "f65fab3b2d2a33fd",
-      "title": "Cloudflare lança Kitesurf, navegador criado para agentes de IA",
-      "summary": "Projeto aposta em menor consumo de CPU e memória e já supera 215 mil testes de compatibilidade com padrões da web O post Cloudflare lança Kitesurf, navegador criado para agentes…",
-      "link": "https://olhardigital.com.br/2026/08/08/internet-e-redes-sociais/cloudflare-lanca-kitesurf-navegador-criado-para-agentes-de-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/robo-usa-computador-1024x630.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-08T21:13:57+00:00"
-    },
-    {
-      "id": "9d7a99b5bf8e56c4",
-      "title": "Conheça Shepherd: um substrato Python de código aberto que permite que meta-agentes bifurquem, reproduzam e revertam qualquer execução de agente",
-      "summary": "Longas execuções do agente acumulam-se e afirmam que não há registros de transcrição - arquivos editados, um servidor de desenvolvimento ativo, pacotes instalados, um cache de prompt quente. Quando um agente interpreta mal um traceback na etapa…",
-      "link": "https://www.marktechpost.com/2026/08/08/meet-shepherd-an-open-source-python-substrate-that-lets-meta-agents-fork-replay-and-revert-any-agent-run/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-08T20:54:49+00:00"
-    },
-    {
-      "id": "aeb176124cfba0f7",
-      "title": "OpenAI adquire startup de apresentação NextSlide",
-      "summary": "NextSlide diz que os membros de sua equipe agora estão trabalhando no ChatGPT.",
-      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-08T19:41:13+00:00"
-    },
-    {
-      "id": "cb35a48037b54e27",
-      "title": "Impressora boa e barata? Veja uma seleção com ótimas opções em promoção na Amazon",
-      "summary": "Se você está pensando em renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções de impressoras multifuncionais em oferta na…",
-      "link": "https://olhardigital.com.br/2026/08/08/reviews/impressora-boa-e-barata-veja-uma-selecao-com-otimas-opcoes-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-08T18:40:00+00:00"
     }
   ]
 }
