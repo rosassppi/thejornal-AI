@@ -1,7 +1,293 @@
 {
-  "generated_at": "2026-08-11T12:59:46.057147+00:00",
+  "generated_at": "2026-08-11T18:59:39.048644+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "6d1c60f6173d7662",
+      "title": "O aplicativo Gemini do Google atinge um bilhão de usuários",
+      "summary": "Gemini está acompanhando o ChatGPT da OpenAI, que atingiu 1 bilhão de usuários ativos mensais em junho.",
+      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-11T18:49:12+00:00"
+    },
+    {
+      "id": "ac826e9afd96bc2a",
+      "title": "Nissan usa IA em fábrica e economiza uma fortuna",
+      "summary": "A Nissan trouxe a inteligência artificial para sua fábrica em Canton , nos Estados Unidos. O novo sistema adotado pela empresa analisa os movimentos repetitivos dos operários na…",
+      "link": "https://canaltech.com.br/carros/nissan-usa-ia-em-fabrica-e-economiza-uma-fortuna/",
+      "image": "https://tl.ctcdn.com.br/M_z0gmPuhH6o8MMKmVHjxXT8FZk=/0x0/filters:format(webp):quality(85)/51e04999-43f4-47bc-b655-c80a50e5cac9.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T18:05:00+00:00"
+    },
+    {
+      "id": "1446df2734e581a4",
+      "title": "OpenAI permite que funcionários sacem outros US$ 7 bilhões em ações",
+      "summary": "A OpenAI concluiu uma recompra de ações de US$ 7 bilhões, permitindo que funcionários atuais e ex-funcionários vendessem ações na avaliação da empresa de US$ 852 bilhões. A medida visa aliviar a pressão sobre…",
+      "link": "https://the-decoder.com/openai-lets-employees-cash-out-another-7-billion-in-stock/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_large_right.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-11T18:01:22+00:00"
+    },
+    {
+      "id": "0cccc9a6cf1b43b7",
+      "title": "Outro executivo da OpenAI decola",
+      "summary": "Brad Lightcap, líder de projetos especiais da OpenAI e ex-COO da empresa, anunciou sua saída após um período de oito anos no laboratório de IA. Em um memorando interno que ele postou mais tarde para…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2151647832.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-11T17:50:01+00:00"
+    },
+    {
+      "id": "648de071233c2c7b",
+      "title": "Asus Vivobook S14: análise do notebook com processador Intel e 16 GB de RAM",
+      "summary": "Modelo já vem preparado para a era da IA e tem 512 GB de SSD; confira mais e saiba se ele se encaixa nas suas necessidades O post Asus Vivobook S14: análise do notebook com…",
+      "link": "https://olhardigital.com.br/2026/08/11/reviews/asus-vivobook-s14-analise-do-notebook-com-processador-intel-e-16-gb-de-ram/",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/08/asus2-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T17:45:00+00:00"
+    },
+    {
+      "id": "1154a9fd6d8aea1b",
+      "title": "Brad Lightcap, COO de longa data da OpenAI, está saindo para ‘começar algo novo’",
+      "summary": "Um dos executivos mais antigos da OpenAI está saindo, embora o COO de longa data tenha dito à equipe que estava “animado em ajudar todos vocês a avançar na missão de um ponto de vista diferente…",
+      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-11T17:41:34+00:00"
+    },
+    {
+      "id": "4a3a16344e7faccb",
+      "title": "General Catalyst lidera rodada de US$ 1,1 bilhão em River AI, com 2 meses de idade",
+      "summary": "River AI, uma startup fundada pelo cofundador da xAI, Igor Babuschkin, tem uma visão fascinante para agentes pessoais e garantiu US$ 1,1 bilhão desde o início.",
+      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-11T17:41:22+00:00"
+    },
+    {
+      "id": "ece689e899ab4da3",
+      "title": "“Mas marinada” e senhas vazadas são o que os pesquisadores encontraram no raciocínio oculto do ChatGPT",
+      "summary": "Pesquisadores de segurança encontraram uma vulnerabilidade nas APIs da OpenAI, Anthropic e Google que lhes permite extrair traços de raciocínio criptografados e movê-los entre modelos. Uma varredura de…",
+      "link": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/marinade.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-11T17:38:49+00:00"
+    },
+    {
+      "id": "5f19cbd6147745a5",
+      "title": "Banco Central tem um plano para barrar fraudes no Pix – e ele envolve IA",
+      "summary": "Relatório do BC aponta que o núcleo do Pix nunca foi invadido e explica como algoritmo calcularia “score” de risco de fraudes nas transações O post Banco Central tem um plano para…",
+      "link": "https://olhardigital.com.br/2026/08/11/seguranca/banco-central-tem-um-plano-para-barrar-fraudes-no-pix-e-ele-envolve-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/12/bacen-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T17:32:22+00:00"
+    },
+    {
+      "id": "d620e48586fad746",
+      "title": "Zoom tinha falha que permitia invasão sem um único clique da vítima",
+      "summary": "Uma falha crítica no Zoom podia permitir invasões sem clique ou download e foi descoberta com menos de 20 comandos de IA O post Zoom tinha falha que permitia invasão sem um único…",
+      "link": "https://olhardigital.com.br/2026/08/11/seguranca/zoom-tinha-falha-que-permitia-invasao-sem-um-unico-clique-da-vitima/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/zoom-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T17:17:15+00:00"
+    },
+    {
+      "id": "152dcda59bd91643",
+      "title": "Claude começa a inserir marca invisível em textos escritos e revisados por IA",
+      "summary": "A Anthropic começou a inserir marcas d’água invisíveis em textos processados pelos modelos mais recentes do Claude. A tecnologia identifica conteúdos que tiveram contato com a IA…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/claude-comeca-a-inserir-marca-invisivel-em-textos-escritos-e-revisados-por-ia/",
+      "image": "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T17:04:00+00:00"
+    },
+    {
+      "id": "41eada8299c0e895",
+      "title": "Feito pelo Google 2026: todas as novidades e anúncios do Pixel",
+      "summary": "O Google está se preparando para revelar vários novos dispositivos Pixel em 12 de agosto. Uma série de vazamentos que antecederam o evento sugerem que a linha Pixel 11 virá em uma variedade de…",
+      "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/made-by-google-.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-11T17:00:00+00:00"
+    },
+    {
+      "id": "012e30e2c241e587",
+      "title": "AMIE, nosso sistema de pesquisa médica de IA, demonstra recursos de consulta clínica por vídeo em tempo real em um estudo inédito.",
+      "summary": "Vídeo promocional da AMIE",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-11T17:00:00+00:00"
+    },
+    {
+      "id": "e32278b94fa29df3",
+      "title": "Um modelo antrópico inédito fez progressos em um dos maiores problemas não resolvidos da matemática",
+      "summary": "Por mais de 150 anos, a hipótese de Riemann permaneceu como um dos principais problemas não resolvidos da matemática. A Antrópica não resolveu — mas os modelos da empresa renderam mais…",
+      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-11T16:25:20+00:00"
+    },
+    {
+      "id": "3e7e64d6cb49bdc8",
+      "title": "A Apple pode ajudá-lo a provar que as fotos do seu iPhone não são falsas",
+      "summary": "A Apple aparentemente está desenvolvendo um recurso para iOS que pode verificar quando uma fotografia foi tirada com uma câmera do iPhone. 9to5Mac relata que o iOS 27 beta 5 inclui referências de código…",
+      "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25626274/247263_iphone_16_pro_AKrales_0368.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-11T16:19:15+00:00"
+    },
+    {
+      "id": "7ae9c925fcbb38aa",
+      "title": "Anthropic vai identificar textos e imagens gerados pelo Claude",
+      "summary": "Marca d'água estará na forma como a IA redige os textos. Anthropic vai identificar textos e imagens gerados pelo Claude",
+      "link": "https://tecnoblog.net/noticias/anthropic-vai-identificar-textos-e-imagens-gerados-pelo-claude/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-4-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T15:24:24+00:00"
+    },
+    {
+      "id": "6608424a73ba5e58",
+      "title": "TCL lança ar-condicionado ultrafino que usa IA para gastar menos energia",
+      "summary": "A TCL apresentou nesta terça-feira (11) o Cassete 1 Via AI, novo ar-condicionado que chega ao Brasil com apenas 13 cm de altura e recursos de inteligência artificial para reduzir…",
+      "link": "https://canaltech.com.br/eletro/tcl-lanca-ar-condicionado-ultrafino-que-usa-ia-para-gastar-menos-energia/",
+      "image": "https://tl.ctcdn.com.br/cFxK2UoqOCePzHtgpw5I5zaq8f8=/0x0/filters:format(webp):quality(85)/fe800486-5e41-4270-aea2-e977913ff91a.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T15:19:09+00:00"
+    },
+    {
+      "id": "48c0fa77c9b9545b",
+      "title": "Construindo e validando uma estratégia de negociação quantitativa com OctoBot, backtesting walk-forward, otimização de parâmetros e análise interativa",
+      "summary": "Neste tutorial, construímos um fluxo de trabalho de backtesting quantitativo completo com OctoBot e OctoBot-Script, mantendo o ambiente isolado do Colab pré-instalado…",
+      "link": "https://www.marktechpost.com/2026/08/11/building-and-validating-a-quantitative-trading-strategy-with-octobot-walk-forward-backtesting-parameter-optimization-and-interactive-analysis/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-11T15:17:29+00:00"
+    },
+    {
+      "id": "a1b1a115d585b9c2",
+      "title": "Recurso do Gemini busca e conecta dados esquecidos no Google",
+      "summary": "O Google Drive ganhou uma integração mais profunda com o Gemini, que ajuda a encontrar arquivos e informações esquecidas na conta. Com o recurso “Ask Gemini” , a busca vai além de…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/recurso-do-gemini-busca-e-conecta-dados-esquecidos-no-google/",
+      "image": "https://tl.ctcdn.com.br/0l9GM-sqEjDGLqbld8S-7JiMUl0=/0x0/filters:format(webp):quality(85)/34b92733-2219-4c3b-a414-e88bc7920699.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T15:10:00+00:00"
+    },
+    {
+      "id": "4b68c6d81ef1f6ad",
+      "title": "O Nemotron 3.5 Lightning de peso aberto da Nvidia prioriza a velocidade em vez da inteligência máxima",
+      "summary": "O Nemotron 3.5 Lightning da Nvidia é um modelo de peso aberto com apenas 3,6 bilhões de parâmetros ativos que corresponde ao gpt-oss-120b da OpenAI no Índice de Inteligência, apesar de ter quatro…",
+      "link": "https://the-decoder.com/nvidias-open-weight-nemotron-3-5-lightning-prioritizes-speed-over-maximum-intelligence/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-11T15:07:44+00:00"
+    },
+    {
+      "id": "e6f2455190eb74d2",
+      "title": "Hack ‘Zoomsday’ descoberto usando menos de 20 prompts de IA",
+      "summary": "O Zoom corrigiu uma grande vulnerabilidade de segurança que poderia permitir que um invasor sequestrasse o dispositivo de qualquer pessoa durante uma reunião. Em uma postagem no blog na terça-feira, pesquisadores da A Security dizem…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK059_zoom_03.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-11T14:45:44+00:00"
+    },
+    {
+      "id": "434ae53f4114ef8f",
+      "title": "iPhone ganhará modo que prova que foto é real e não foi gerada por IA",
+      "summary": "Apple Reference Image foi encontrado em uma versão beta do iOS 27. Recurso autentica fotos tiradas diretamente pela câmera do iPhone. iPhone ganhará modo que prova que foto é real…",
+      "link": "https://tecnoblog.net/noticias/iphone-ganhara-modo-que-prova-que-foto-e-real-e-nao-foi-gerada-por-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/02/iphone-17-2-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T14:03:21+00:00"
+    },
+    {
+      "id": "077b61a0fed02bcc",
+      "title": "Pensando em ACE? Podemos fazer isso com menos tokens",
+      "summary": "",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-11T13:37:10+00:00"
+    },
+    {
+      "id": "643e0d1b98ca53a7",
+      "title": "Por que seus e-mails de confirmação de pedido da Amazon se tornaram tão inúteis",
+      "summary": "No início deste verão, os clientes da Amazon começaram a perceber que os e-mails relacionados aos seus pedidos on-line pareciam esparsos: os e-mails de confirmação de pedidos não mencionavam mais itens específicos e…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-10-at-10.31.39-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-11T13:27:20+00:00"
+    },
+    {
+      "id": "da161cb655ac21da",
+      "title": "Spotify rotulará perfis ‘AI Persona’ e excluirá suas músicas das recomendações",
+      "summary": "O Spotify está introduzindo rótulos “AI Persona” para perfis de artistas que representam identidades geradas por IA e excluirá suas músicas de editoriais, algorítmicos e personalizados…",
+      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-11T13:00:00+00:00"
+    },
+    {
+      "id": "57d2e76b3d6137a8",
+      "title": "Spotify diz que não recomendará músicas de ‘AI Personas’",
+      "summary": "O Spotify em breve rotulará os artistas de IA e removerá suas músicas de suas recomendações. A mudança, que começará a ser implementada em meados de setembro, significa que você verá uma “Persona AI”…",
+      "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/AI-Personas-Display-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-11T13:00:00+00:00"
+    },
     {
       "id": "382023d7ddb257a9",
       "title": "O mega-IPO planejado da Anthropic enfrenta ceticismo dos investidores em relação aos rivais chineses e ventos políticos contrários",
@@ -89,6 +375,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-11T10:29:37+00:00"
+    },
+    {
+      "id": "b19ec562c455e753",
+      "title": "Testando anúncios no ChatGPT",
+      "summary": "A OpenAI começa a testar anúncios no ChatGPT para oferecer suporte ao acesso gratuito, com rotulagem clara, independência de resposta, fortes proteções de privacidade e controle do usuário.",
+      "link": "https://openai.com/index/testing-ads-in-chatgpt",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-11T10:00:00+00:00"
     },
     {
       "id": "8010a95ae63d6168",
@@ -531,17 +828,6 @@
       "published_at": "2026-08-10T14:30:00+00:00"
     },
     {
-      "id": "4aee09f24a27698d",
-      "title": "O que acontece com Bose quando os fones de ouvido se tornam IA?",
-      "summary": "Hoje estou conversando com Lila Snyder, que é CEO da Bose. Você certamente conhece a Bose – é uma das marcas mais famosas em toda a tecnologia de consumo. A empresa começou há 60 anos…",
-      "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD-Lila-Snyder.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-10T14:00:00+00:00"
-    },
-    {
       "id": "3d196224ab27a2df",
       "title": "Carta da OpenAI ao governador Abbott sobre infraestrutura responsável de IA no Texas",
       "summary": "A OpenAI enviou ao governador Greg Abbott uma carta descrevendo seu compromisso com uma infraestrutura de IA responsável no Texas. A carta apoia um crescimento confiável e transparente que beneficia os texanos.",
@@ -550,6 +836,17 @@
       "source": "OpenAI",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-08-10T14:00:00+00:00"
+    },
+    {
+      "id": "4aee09f24a27698d",
+      "title": "O que acontece com Bose quando os fones de ouvido se tornam IA?",
+      "summary": "Hoje estou conversando com Lila Snyder, que é CEO da Bose. Você certamente conhece a Bose – é uma das marcas mais famosas em toda a tecnologia de consumo. A empresa começou há 60 anos…",
+      "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD-Lila-Snyder.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
       "published_at": "2026-08-10T14:00:00+00:00"
     },
     {
@@ -608,17 +905,6 @@
       "published_at": "2026-08-10T12:01:42+00:00"
     },
     {
-      "id": "c3267e56ad969be2",
-      "title": "Discovered Materials está jogando AI whack-a-mole para caçar chips mais legais",
-      "summary": "A Discovered Materials arrecadou US$ 9 milhões para financiar a busca por mais materiais novos para construir chips mais eficientes.",
-      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-10T12:00:00+00:00"
-    },
-    {
       "id": "95f74aeac90a93bb",
       "title": "O modelo ML conclui o trabalho financeiro com mais eficiência com GPT-5.6 Sol",
       "summary": "O Modelo ML usa GPT-5.6 Sol para realizar trabalhos financeiros de pesquisa e análise por meio de apresentações de PowerPoint editáveis ​​e rastreáveis ​​e pastas de trabalho do Excel.",
@@ -627,6 +913,17 @@
       "source": "OpenAI",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-08-10T12:00:00+00:00"
+    },
+    {
+      "id": "c3267e56ad969be2",
+      "title": "Discovered Materials está jogando AI whack-a-mole para caçar chips mais legais",
+      "summary": "A Discovered Materials arrecadou US$ 9 milhões para financiar a busca por mais materiais novos para construir chips mais eficientes.",
+      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-08-10T12:00:00+00:00"
     },
     {
@@ -694,303 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-08-10T10:00:00+00:00"
-    },
-    {
-      "id": "29b0e61ec6cd1ed3",
-      "title": "Colocando modelos cibernéticos de fronteira em mãos mais confiáveis",
-      "summary": "Os parceiros aprovados do Daybreak podem usar os modelos cibernéticos de fronteira da OpenAI para fornecer serviços de segurança cibernética autorizados e governados aos clientes.",
-      "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-10T10:00:00+00:00"
-    },
-    {
-      "id": "9ac1031d1b2cd096",
-      "title": "A IA para a ciência precisa de raciocínio, não apenas de dados",
-      "summary": "A cada poucas décadas, alguém anuncia que a ciência chegou ao seu fim. Em 1903, o reverenciado físico Albert Michelson escreveu que “os fatos da ciência física foram todos…",
-      "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-10T09:00:00+00:00"
-    },
-    {
-      "id": "837b81d5ae07cf2d",
-      "title": "Essas startups estão perseguindo o próximo grande sucesso nos LLMs",
-      "summary": "A série What’s Next do MIT Technology Review analisa setores, tendências e tecnologias para lhe dar uma primeira visão do futuro. Você pode ler o resto deles aqui. Há muito tempo…",
-      "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-10T09:00:00+00:00"
-    },
-    {
-      "id": "946fc28278c4e833",
-      "title": "O texto oculto em um PDF é suficiente para roubar dados confidenciais por meio do agente de IA da Atlassian, Rovo",
-      "summary": "A empresa de segurança PromptArmor mostra como instruções ocultas em um PDF podem sequestrar o agente de IA da Atlassian, Rovo, encaminhando silenciosamente dados confidenciais do Jira e do Confluence para um dispositivo externo…",
-      "link": "https://the-decoder.com/hidden-text-in-a-pdf-is-enough-to-steal-sensitive-data-through-atlassians-ai-agent-rovo/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/prompt_inejction_key.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-10T08:46:36+00:00"
-    },
-    {
-      "id": "30677527c37fe620",
-      "title": "ByteDance Seed apresenta SeedRealtime: um LLM audiovisual nativo full-duplex que observa, ouve e fala em um único modelo",
-      "summary": "A equipe Seed da ByteDance apresentou o SeedRealtime, um LLM full-duplex audiovisual nativo. O modelo funde áudio, vídeo e texto em uma única arquitetura unificada. Ele interage em…",
-      "link": "https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-10T05:48:17+00:00"
-    },
-    {
-      "id": "2a5c0cad5d8b2f9d",
-      "title": "Assentos premium estão chegando ao ChatGPT Business",
-      "summary": "Assentos premium estão chegando ao ChatGPT Business. Inscreva-se até 20 de agosto para receber US$ 100 em créditos de espaço de trabalho e desbloquear maior utilização para os trabalhos mais exigentes da sua equipe.",
-      "link": "https://openai.com/index/premium-seats-chatgpt-business",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-10T00:00:00+00:00"
-    },
-    {
-      "id": "6476741ad7bd8e8e",
-      "title": "Como Zapier transformou os principais processos de marketing com ChatGPT Work",
-      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-      "link": "https://openai.com/index/zapier",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-10T00:00:00+00:00"
-    },
-    {
-      "id": "0e82d8998833621a",
-      "title": "Virgin Atlantic aprimora a jornada dos clientes com ChatGPT Work",
-      "summary": "A Virgin Atlantic está acelerando a pesquisa, o planejamento de produtos e a tomada de decisões com o ChatGPT Work, ajudando as equipes a conectar sinais ao longo da jornada do cliente.",
-      "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-10T00:00:00+00:00"
-    },
-    {
-      "id": "dfb586131bf3d3cb",
-      "title": "Meta está de volta com Muse Glimmer: local, agente, multimodal e código aberto",
-      "summary": "",
-      "link": "https://huggingface.co/blog/muse-glimmer",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-10T00:00:00+00:00"
-    },
-    {
-      "id": "2c3323f389b9aa31",
-      "title": "NVIDIA lança NemotronLabs VoiceChat 11B: um modelo aberto full-duplex de conversão de fala em fala com tomada de turno de aproximadamente 450 ms e chamada de ferramenta ao vivo",
-      "summary": "NVIDIA lança NemotronLabs VoiceChat 11B, um modelo aberto full-duplex de fala para fala com latência de 448 ms e chamada de ferramenta ao vivo. A postagem NVIDIA lança NemotronLabs VoiceChat…",
-      "link": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-09T23:58:34+00:00"
-    },
-    {
-      "id": "ffba219f0a05a0a3",
-      "title": "Fundo de hedge em apuros Situational Awareness investe US$ 400 milhões na startup de chips Source Foundry",
-      "summary": "O fundo de hedge focado em IA ainda está fazendo grandes apostas.",
-      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-09T20:35:17+00:00"
-    },
-    {
-      "id": "2dc9439fec8e0d02",
-      "title": "Data center de IA ameaça desregular clima na Amazônia",
-      "summary": "O primeiro data center de inteligência artificial da Amazônia se tornou alvo de um inquérito do Ministério Público do Estado do Pará O post Data center de IA ameaça desregular…",
-      "link": "https://olhardigital.com.br/2026/08/09/inteligencia-artificial/data-center-de-ia-ameaca-desregular-clima-na-amazonia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/calor-1024x585.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-09T19:45:00+00:00"
-    },
-    {
-      "id": "79a8b9128fba52b9",
-      "title": "Anthropic está ativando o modo automático de Claude Code por padrão",
-      "summary": "A programação com Claude Code exigirá em breve ainda menos supervisão humana.",
-      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-09T19:20:32+00:00"
-    },
-    {
-      "id": "afd810ffa8279d22",
-      "title": "Hora de renovar o escritório: selecionamos impressoras multifuncionais em promoção na Amazon",
-      "summary": "Se você está pensando em trocar a impressora antiga ou finalmente equipar o home office com um modelo mais moderno, este é o momento certo. Reunimos três opções de impressoras…",
-      "link": "https://olhardigital.com.br/2026/08/09/reviews/hora-de-renovar-o-escritorio-selecionamos-impressoras-multifuncionais-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-09T18:40:00+00:00"
-    },
-    {
-      "id": "fc4ff95661986614",
-      "title": "Principais plataformas de observação e avaliação LLM em 2026: Langfuse, LangSmith, Braintrust, Arize e mais comparados",
-      "summary": "Uma comparação verificada de 2026 de plataformas de observabilidade LLM cobrindo profundidade de rastreamento, capacidade de avaliação, monitoramento de produção e preços. A postagem Top LLM Observabilidade e…",
-      "link": "https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-09T18:15:30+00:00"
-    },
-    {
-      "id": "5a62eb898e7a7dc1",
-      "title": "Casa inteligente começa pelo som: Echo Dot em até três cores na Amazon",
-      "summary": "Se você quer deixar a casa mais inteligente sem complicação, os Smart Speakers com Alexa são um dos melhores pontos de partida. A Amazon disponibiliza o Echo Dot — geração mais…",
-      "link": "https://olhardigital.com.br/2026/08/09/reviews/casa-inteligente-comeca-pelo-som-echo-dot-em-ate-tres-cores-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-09T17:00:00+00:00"
-    },
-    {
-      "id": "356e8e742f43a0ff",
-      "title": "TechCrunch Mobility: Zoox se prepara para o lançamento e o império AV do Uber",
-      "summary": "Bem-vindo de volta ao TechCrunch Mobility, seu centro para o futuro do transporte e agora, mais do que nunca, o papel que a IA desempenha nele.",
-      "link": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-09T16:05:00+00:00"
-    },
-    {
-      "id": "8c20688bb90d9764",
-      "title": "Câmeras de segurança com IA podem prever crimes, mas existe um risco…",
-      "summary": "Câmeras equipadas com inteligência artificial já são usadas para identificar comportamentos suspeitos e combater os crimes antes que eles aconteçam O post Câmeras de segurança com…",
-      "link": "https://olhardigital.com.br/2026/08/09/inteligencia-artificial/cameras-de-seguranca-com-ia-podem-prever-crimes-mas-existe-um-risco/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2023/08/Destaque-Cameras-reconhecimento-facial-SP-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-09T15:10:09+00:00"
-    },
-    {
-      "id": "5ae0a56510e99971",
-      "title": "Por que é uma péssima ideia dar acesso para a IA à sua tela em segundo plano?",
-      "summary": "A inteligência artificial deixou de ser apenas uma ferramenta acessada quando o usuário faz uma pergunta. Nos celulares atuais, especialmente no Android, ela está cada vez mais…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/por-que-e-uma-pessima-ideia-dar-acesso-para-a-ia-a-sua-tela-em-segundo-plano/",
-      "image": "https://tl.ctcdn.com.br/-6PtbFmw4p4bXYCL4qylPocIR0U=/0x0/filters:format(webp):quality(85)/b8da113e-2b4d-431a-8734-67eccb955646.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-09T14:33:00+00:00"
-    },
-    {
-      "id": "256796e8828b3ae0",
-      "title": "O teste de segurança de IA está se tornando um risco à segurança",
-      "summary": "Os agentes de IA estão escapando dos ambientes de testes de segurança cibernética e alcançando sistemas do mundo real, levantando questões sobre se a infraestrutura de segurança, os padrões e regulamentações da indústria…",
-      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-09T14:30:00+00:00"
-    },
-    {
-      "id": "715dad98737fd321",
-      "title": "O que está por trás da infestação de gameplays de GTA 6 criados por IA?",
-      "summary": "Estamos a pouco mais de três meses do lançamento que promete ser o maior da indústria dos games. Apesar de um mês de junho cheio de novidades relacionadas a preços e à pré-venda …",
-      "link": "https://canaltech.com.br/games/o-que-esta-por-tras-da-infestacao-de-gameplays-de-gta-6-criados-por-ia/",
-      "image": "https://tl.ctcdn.com.br/fV_i4uBW4Y_yLXYxutYzn6MpXq4=/0x0/filters:format(webp):quality(85)/a585a21d-d363-440c-a3c8-ca5192903571.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-09T13:30:00+00:00"
-    },
-    {
-      "id": "c1587dec620cf0df",
-      "title": "Os golpistas estão matriculando estudantes falsos em faculdades comunitárias dos EUA e usando IA para coletar ajuda financeira",
-      "summary": "A trapaça baseada em IA está se espalhando nas faculdades comunitárias dos EUA. De acordo com o The New Yorker, os golpistas matriculam alunos falsos em cursos, usam IA para completar suas tarefas e embolsam…",
-      "link": "https://the-decoder.com/scammers-are-enrolling-fake-students-at-us-community-colleges-and-using-ai-to-collect-financial-aid/",
-      "image": "https://the-decoder.com/wp-content/uploads/2024/10/chatgpt_openai_chalkboard_classroom_design_illustration.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-09T13:00:59+00:00"
-    },
-    {
-      "id": "991a6ae50c5a55b4",
-      "title": "Este antigo e notório distrito da luz vermelha é agora um dos principais centros de IA do mundo",
-      "summary": "Há mais de 20 anos, King's Cross era uma das áreas mais decadentes de Londres. Agora está brotando algo novo.",
-      "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-09T13:00:00+00:00"
-    },
-    {
-      "id": "03f25222ce2ece83",
-      "title": "WeatherNext do Google Deepmind prevê trajetórias e intensidade de ciclones ao mesmo tempo",
-      "summary": "A nova IA meteorológica da Deepmind prevê ciclones tropicais cerca de um dia à frente dos principais modelos operacionais, correspondendo a uma década de progresso na previsão meteorológica tradicional…",
-      "link": "https://the-decoder.com/google-deepminds-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/cyclone-eye-google-deepmind-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-09T12:29:06+00:00"
-    },
-    {
-      "id": "5ddd2738c4317254",
-      "title": "Os detectores de IA estão criando uma nova era de desconfiança",
-      "summary": "Este é The Stepback, um boletim informativo semanal que detalha uma história essencial do mundo da tecnologia. Para mais notícias sobre como a IA está mudando nossas vidas diárias, siga Emma Roth. O…",
-      "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-09T12:00:00+00:00"
-    },
-    {
-      "id": "bc92c9f488a911a7",
-      "title": "A IA está inundando os tribunais trabalhistas da Grã-Bretanha com ações judiciais",
-      "summary": "Os tribunais trabalhistas da Grã-Bretanha viram 39% mais reclamações no ano até março de 2026, muitas delas escritas com ChatGPT ou Grok. O atraso aumentou 55%, para 64.000 casos não resolvidos…",
-      "link": "https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/lawyer_ai_slop_spam.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-09T10:26:43+00:00"
-    },
-    {
-      "id": "891ebfe609d35583",
-      "title": "One-person startups: a IA está criando empresas onde uma pessoa faz o trabalho de uma equipe inteira",
-      "summary": "A maior transformação silenciosa da IA: ela não eliminou a necessidade de empreender. Eliminou infraestruturas necessárias para começar O post One-person startups: a IA está…",
-      "link": "https://olhardigital.com.br/2026/08/09/colunistas/one-person-startups-a-ia-esta-criando-empresas-onde-uma-pessoa-faz-o-trabalho-de-uma-equipe-inteira/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-09T10:10:00+00:00"
     }
   ]
 }
