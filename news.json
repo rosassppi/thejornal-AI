@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-08-10T18:55:09.615748+00:00",
+  "generated_at": "2026-08-11T01:37:12.018500+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "ae6d37e0065d78ba",
+      "title": "iOS 27 pode ganhar ferramenta para comprovar autenticidade de imagens",
+      "summary": "Em meio à onda de imagens criadas por IA, a Apple busca uma maneira de dar mais confiança a registros feitos com seus próprios celulares O post iOS 27 pode ganhar ferramenta para…",
+      "link": "https://olhardigital.com.br/2026/08/10/reviews/ios-27-pode-ganhar-ferramenta-para-comprovar-autenticidade-de-imagens/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/iphone_17_pro_max-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T00:32:59+00:00"
+    },
+    {
+      "id": "bb2a7232b8846515",
+      "title": "A OpenAI supostamente concluiu uma oferta pública de US$ 7 bilhões para funcionários",
+      "summary": "O mercado imobiliário de São Francisco está novamente em apuros.",
+      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-11T00:03:18+00:00"
+    },
+    {
+      "id": "0212f9770ddac1d8",
+      "title": "À medida que os ataques liderados por IA se multiplicam, a OpenAI lança um novo modelo cibernético",
+      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-10T23:56:15+00:00"
+    },
+    {
+      "id": "b82f6b5fcb6041a9",
+      "title": "Com novos modelos abertos, Meta lança outra reinicialização de sua difícil estratégia de IA",
+      "summary": "A Meta está atrás dos concorrentes. Zuckerberg acha que encontrou um caminho a seguir.",
+      "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2162539176-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-10T22:13:03+00:00"
+    },
+    {
+      "id": "d8f43f474508ca5e",
+      "title": "Mark Zuckerberg não entende como viver",
+      "summary": "Recentemente, um homem com quem eu estava escalando me contou como ele usou IA para fazer um pôster motivacional para si mesmo, que ele pendurou na parede de seu quarto: um urso andando em um slackline…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/zuckerberg_stock_Parkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-10T22:00:00+00:00"
+    },
+    {
+      "id": "36f1b347cbe5c699",
+      "title": "Nvidia busca, em Wall Street, R$ 2,5 tri por infraestrutura de IA",
+      "summary": "Parceria foi fechada com seis grandes instituições financeiras para criar plataformas de financiamento de computação O post Nvidia busca, em Wall Street, R$ 2,5 tri por…",
+      "link": "https://olhardigital.com.br/2026/08/10/pro/nvidia-busca-em-wall-street-r-2-5-tri-por-infraestrutura-de-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/mundo-big-tech-economia-digital-1024x573.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-10T21:54:54+00:00"
+    },
+    {
+      "id": "13f29060c4c1ab7e",
+      "title": "Meta lança IA que roda sem internet no PC de qualquer pessoa",
+      "summary": "A Meta anunciou nesta segunda-feira (10) o Muse Glimmer , novo modelo de inteligência artificial de pesos abertos desenvolvido para rodar localmente em computadores. A proposta é…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/meta-lanca-ia-que-roda-sem-internet-no-pc-de-qualquer-pessoa/",
+      "image": "https://tl.ctcdn.com.br/9vMtkkhXx8TtBf7gdvyNyq0yEsI=/0x0/filters:format(webp):quality(85)/75f29f26-6903-46ff-b696-d99cd779f174.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-10T21:04:00+00:00"
+    },
+    {
+      "id": "6037be623c671642",
+      "title": "Enquanto o mundo debate IA, o Brasil constrói a infraestrutura dela",
+      "summary": "*Por Bernardo Schucman No interior de São Paulo, a poucos quilômetros de Campinas, uma obra em Sumaré resume o momento que o país atravessa. Ali, a Ascenty ergue o primeiro…",
+      "link": "https://canaltech.com.br/mercado/enquanto-o-mundo-debate-ia-o-brasil-constroi-a-infraestrutura-dela/",
+      "image": "https://tl.ctcdn.com.br/3rn-9_UpnqcbGSHjME7Jnn04Ke0=/0x0/filters:format(webp):quality(85)/eccb836f-86ff-401b-a05e-e631139ca1fb.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-10T21:00:00+00:00"
+    },
+    {
+      "id": "572bd2730f8b636b",
+      "title": "O manifesto de IA de Mark Zuckerberg é exatamente o motivo pelo qual as pessoas não gostam de IA",
+      "summary": "Na segunda-feira, Mark Zuckerberg publicou um manifesto de 6.500 palavras sobre IA pessoal, em grande parte sobre as possibilidades dos sistemas de “superinteligência pessoal” que a Meta AI está construindo.",
+      "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-10T20:53:02+00:00"
+    },
+    {
+      "id": "0459b344290cfc82",
+      "title": "Google testa página inicial com novos botões para IA",
+      "summary": "Layout em testes traz atalhos para gerar imagens, pedir informações sobre documentos e receber sugestões de ideias. Google testa página inicial com novos botões para IA",
+      "link": "https://tecnoblog.net/noticias/google-testa-pagina-inicial-com-novos-botoes-para-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-novos-icones-google-2026-13-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-10T20:49:28+00:00"
+    },
+    {
+      "id": "88b475ecf2537612",
+      "title": "Amazon apoia usina que pode se tornar a principal fonte de poluição climática dos EUA",
+      "summary": "Amazon announces first off-the-grid data center in race to reap AI profits.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2267221283-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-10T20:45:52+00:00"
+    },
+    {
+      "id": "6989508fdb024a80",
+      "title": "Como criar um \"guarda-roupa\" digital com o Google Fotos e testar looks",
+      "summary": "O Google Fotos tem uma ferramenta que transforma fotos de roupas em um guarda-roupa digital . O recurso usa inteligência artificial para identificar peças de vestuário na…",
+      "link": "https://canaltech.com.br/apps/como-criar-guarda-roupa-digital-com-o-google-fotos-e-testar-looks/",
+      "image": "https://tl.ctcdn.com.br/8GgNCDQER5CZN2qkcKrvz2JIs-g=/0x0/filters:format(webp):quality(85)/8f35909c-cd8b-4b70-b472-9fff16ff7032.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-10T20:45:00+00:00"
+    },
+    {
+      "id": "bc2790b0f04efd3c",
+      "title": "A indústria de tecnologia está agitada depois que um agente de Claude invadiu uma academia",
+      "summary": "Um agente do OpenClaw invadiu o sistema de reservas de uma academia para colocar seu chefe humano no topo da lista de espera de uma aula. E a indústria de tecnologia percebeu.",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-10T20:04:24+00:00"
+    },
+    {
+      "id": "037ba625aad7534e",
+      "title": "Professores de IA estão negociando as novas realidades da pesquisa acadêmica",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San…",
+      "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-10T20:00:00+00:00"
+    },
     {
       "id": "6cff2d345df030f8",
       "title": "OpenAI freia nova IA por risco de ciberataques autônomos",
@@ -113,6 +267,17 @@
       "published_at": "2026-08-10T16:05:00+00:00"
     },
     {
+      "id": "6b54fe70c5fa9916",
+      "title": "Lançamento: Smart TV LG NANO 50” recebe 42% de desconto no Mercado Livre",
+      "summary": "LG NANO NU850 tem painel 4K NanoCell de 50\", recursos de IA e webOS 26; Smart TV recebe desconto de 42% sobre preço original no Pix no cupom Lançamento: Smart TV LG NANO 50”…",
+      "link": "https://achados.tecnoblog.net/lancamento-smart-tv-lg-nano-50-recebe-42-de-desconto-no-mercado-livre/",
+      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-10T15:52:58+00:00"
+    },
+    {
       "id": "5828c56a0ad1b0ea",
       "title": "Lançamento: Smart TV LG NANO 50” recebe 42% de desconto no Mercado Livre",
       "summary": "LG NANO NU850 tem painel 4K NanoCell de 50\", recursos de IA e webOS 26; Smart TV recebe desconto de 42% sobre preço original no Pix no cupom Lançamento: Smart TV LG NANO 50”…",
@@ -139,7 +304,7 @@
       "title": "Quatro conclusões do enorme manifesto de IA de Mark Zuckerberg",
       "summary": "O CEO da Meta, Mark Zuckerberg, tem muito a dizer sobre o futuro idealizado que ele agora imagina para a humanidade coexistindo com a inteligência artificial - seu último ensaio abrange mais de…",
       "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546248/STK169_Mark_Zuckerburg_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
@@ -381,6 +546,28 @@
       "title": "Assentos premium estão chegando ao ChatGPT Business",
       "summary": "Assentos premium estão chegando ao ChatGPT Business. Inscreva-se até 20 de agosto para receber US$ 100 em créditos de espaço de trabalho e desbloquear maior utilização para os trabalhos mais exigentes da sua equipe.",
       "link": "https://openai.com/index/premium-seats-chatgpt-business",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-10T00:00:00+00:00"
+    },
+    {
+      "id": "6476741ad7bd8e8e",
+      "title": "Como Zapier transformou os principais processos de marketing com ChatGPT Work",
+      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+      "link": "https://openai.com/index/zapier",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-10T00:00:00+00:00"
+    },
+    {
+      "id": "0e82d8998833621a",
+      "title": "Virgin Atlantic aprimora a jornada dos clientes com ChatGPT Work",
+      "summary": "A Virgin Atlantic está acelerando a pesquisa, o planejamento de produtos e a tomada de decisões com o ChatGPT Work, ajudando as equipes a conectar sinais ao longo da jornada do cliente.",
+      "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -804,193 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-08T14:18:55+00:00"
-    },
-    {
-      "id": "87214acf76f147fc",
-      "title": "As sessões do Claude Code agora podem conversar entre si e compartilhar contexto entre terminais",
-      "summary": "Claude Code agora permite que as sessões conversem entre si. No macOS e no Linux, as instâncias executadas em paralelo podem enviar mensagens, compartilhar insights e verificar o status umas das outras. O…",
-      "link": "https://the-decoder.com/claude-code-sessions-can-now-talk-to-each-other-and-share-context-across-terminals/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/claude_logo-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-08T12:28:36+00:00"
-    },
-    {
-      "id": "09db41e430431539",
-      "title": "5 carros vendidos no Brasil que já utilizam IA para ajudar o motorista",
-      "summary": "A IA deixou de ser uma promessa futurista para se tornar parte da rotina de quem dirige . Nos carros mais modernos, algoritmos já interpretam comandos de voz em linguagem natural…",
-      "link": "https://canaltech.com.br/carros/5-carros-vendidos-no-brasil-que-ja-utilizam-ia-para-ajudar-o-motorista/",
-      "image": "https://tl.ctcdn.com.br/W96Bm0auz_VQ9RfJpB105De342I=/0x0/filters:format(webp):quality(85)/3bf75d13-93ec-45b0-a5e4-624e44f09d5d.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-08T12:02:00+00:00"
-    },
-    {
-      "id": "c5510b91e25e2841",
-      "title": "6 coisas que o Gemini faz melhor que o ChatGPT",
-      "summary": "O ChatGPT foi a inteligência artificial que popularizou esse tipo de tecnologia e continua entre as opções mais completas do mercado. Ainda assim, ele não é o único assistente…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-gemini-faz-melhor-que-chatgpt/",
-      "image": "https://tl.ctcdn.com.br/udpro83KRPTsgXZwGwddIBSJVUU=/0x0/filters:format(webp):quality(85)/d412f7e1-04fe-41e4-a156-616c4fb38987.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-08T11:33:00+00:00"
-    },
-    {
-      "id": "08df4853651ea290",
-      "title": "Backflip AI transforma digitalizações 3D em modelos CAD editáveis ​​em minutos em vez de horas",
-      "summary": "Backflip AI lançou um modelo de IA que converte digitalizações 3D em modelos CAD paramétricos totalmente editáveis, um processo que normalmente leva tempo e conhecimento significativos. De acordo com…",
-      "link": "https://the-decoder.com/backflip-ai-turns-3d-scans-into-editable-cad-models-in-minutes-instead-of-hours/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/backflip-AI-logoreihe.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-08T11:26:35+00:00"
-    },
-    {
-      "id": "c86f19a8df8afc3e",
-      "title": "O medalhista Fields que publicou um artigo sobre a extinção humana causada pela IA agora trabalha para a OpenAI",
-      "summary": "O recém-premiado medalhista Fields, Jacob Tsimerman, está deixando a Universidade de Toronto para ingressar na OpenAI e trabalhar na segurança da IA. Num artigo recente, ele analisa cenários onde a IA poderia…",
-      "link": "https://the-decoder.com/fields-medalist-who-published-a-paper-on-ai-driven-human-extinction-now-works-for-openai/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/math_blackboard_illustration.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-08T11:08:48+00:00"
-    },
-    {
-      "id": "a5873364160ad6fb",
-      "title": "A descoberta do furacão DeepMind surpreendeu os cientistas meteorológicos",
-      "summary": "O modelo WeatherNext de código aberto pode fazer previsões precisas com dados meteorológicos de baixa resolução.",
-      "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/hurricane-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-08T11:05:50+00:00"
-    },
-    {
-      "id": "47df0e15553274fb",
-      "title": "Os agentes de IA usam cerca de 600 vezes mais energia do que um simples prompt de bate-papo",
-      "summary": "O cientista climático Zeke Hausfather acompanhou o uso do Código Claude durante oito semanas: 3,2 bilhões de tokens e cerca de 170 kWh de eletricidade do data center. Por solicitação, são cerca de 600…",
-      "link": "https://the-decoder.com/ai-agents-use-roughly-600-times-more-energy-than-a-simple-chat-prompt/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/climate_change_energy_usage_AI.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-08T09:44:06+00:00"
-    },
-    {
-      "id": "c34dbbcf99190534",
-      "title": "Projetando visualizações interativas escaláveis ​​com Reflex XY: composição, renderização de milhões de pontos, streaming, marcas personalizadas e exportação",
-      "summary": "Mergulhe nos recursos avançados de visualização da biblioteca Reflex XY Python. Este tutorial orienta você na construção de gráficos interativos de alto desempenho, desde o manuseio…",
-      "link": "https://www.marktechpost.com/2026/08/08/designing-scalable-interactive-visualizations-with-reflex-xy-composition-million-point-rendering-streaming-custom-marks-and-export/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2705.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-08T09:42:18+00:00"
-    },
-    {
-      "id": "9f4bed1cdc5552d1",
-      "title": "Imagine Image 2.0 da xAI fica logo atrás do GPT-Image-2 da OpenAI em benchmarks Arena",
-      "summary": "xAI lançou Imagine Image 2.0 como um novo gerador de imagens para Grok. O modelo ocupa o segundo lugar nos benchmarks da Arena, atrás apenas do GPT-Image-2 da OpenAI. Novas ferramentas de edição como…",
-      "link": "https://the-decoder.com/xais-imagine-image-2-0-lands-just-behind-openais-gpt-image-2-in-arena-benchmarks/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/xai_logo_wall-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-08T08:22:39+00:00"
-    },
-    {
-      "id": "6e196b4a79cfcbde",
-      "title": "OpenAI sinaliza seu novo modelo Astra como potencialmente atingindo o mais alto nível de risco de segurança cibernética pela primeira vez",
-      "summary": "Testes internos do novo modelo de IA da OpenAI, Astra, mostram capacidades de segurança cibernética tão fortes que a empresa não pode mais descartar o nível de risco mais alto em sua própria estrutura de segurança…",
-      "link": "https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_kraken_cyber.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-08T07:21:06+00:00"
-    },
-    {
-      "id": "f2f8202d13ba6514",
-      "title": "Mistral AI lança Shieldstral 1.0 3B: um classificador de segurança multimodal adaptável a políticas de pesos abertos que combina modelos 7× seu tamanho",
-      "summary": "A Mistral AI lançou o Shieldstral 1.0 3B, um classificador de segurança multimodal adaptável a políticas e de peso aberto que enquadra a moderação de conteúdo como uma única pergunta sim/não em vez de uma…",
-      "link": "https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-08T04:36:26+00:00"
-    },
-    {
-      "id": "f5e65390d809a0b4",
-      "title": "OpenAI diz que retardou o desenvolvimento do modelo Astra por questões de segurança",
-      "summary": "A OpenAI disse que este modelo, que ainda está em desenvolvimento, atingiu seu “limiar crítico de segurança cibernética”, o que significa que poderia identificar e realizar ataques cibernéticos de forma independente contra…",
-      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-07T22:48:24+00:00"
-    },
-    {
-      "id": "c93ea8c2ef8f3eb9",
-      "title": "Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: um hub de memória em nível de equipe para agentes de codificação de IA",
-      "summary": "A Tencent Cloud possui o TencentDB Agent Memory v2.0 de código aberto, um hub de memória em nível de equipe que transforma conversas, documentos e código em quatro ativos governados e reutilizáveis ​​- Chat Memory…",
-      "link": "https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-07T21:52:48+00:00"
-    },
-    {
-      "id": "be14a2322dfb38a7",
-      "title": "Depois que a Rippling gastou milhões em IA em meses, ela criou uma ferramenta de ROI para funcionários",
-      "summary": "Após seu próprio alerta sobre o uso de IA, a Rippling revelou esta semana o AI Spend Console, um produto que rastreia os gastos de IA de funcionários individuais e de equipe.",
-      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-07T21:30:11+00:00"
-    },
-    {
-      "id": "1d70c64413314544",
-      "title": "Quem responde por ataques hackers feitos por IAs? Saiba o que diz a lei brasileira",
-      "summary": "Casos envolvendo agentes de IA da OpenAI, Anthropic e Meta reacenderam o debate sobre responsabilidade jurídica. Especialista explica como a lei brasileira trata essas situações O…",
-      "link": "https://olhardigital.com.br/2026/08/07/inteligencia-artificial/quem-responde-quando-ias-fazem-ataques-hackers-saiba-o-que-diz-a-lei-brasileira/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/chatgpt-claude-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-07T21:28:18+00:00"
-    },
-    {
-      "id": "cd31e45033807a07",
-      "title": "Construindo um pipeline RAG multimodal com NVIDIA NeMo Retriever, NIMs hospedados, LanceDB, reclassificação e geração aterrada",
-      "summary": "Neste tutorial, construímos um pipeline avançado de geração aumentada de recuperação multimodal com NVIDIA NeMo Retriever. Começamos configurando um ambiente Python 3.12, instalando…",
-      "link": "https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-retriever-hosted-nims-lancedb-reranking-and-grounded-generation/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-07T21:13:38+00:00"
-    },
-    {
-      "id": "4249547826cf69f4",
-      "title": "Para bancar super data center, DeepSeek anuncia aumento de preços sem precedentes",
-      "summary": "A DeepSeek avisou seus clientes que vai reajustar os preços de todos os serviços de API em breve, com aumento descrito pela própria empresa como relativamente grande . O…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/para-bancar-super-data-center-deep-seek-anuncia-aumento-de-precos-sem-precedentes/",
-      "image": "https://tl.ctcdn.com.br/W8-J39hR65BN0Fsy-i9XlFcb8jE=/0x0/filters:format(webp):quality(85)/608f3ad8-6894-4b54-afb0-9eeec2140e4b.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-07T21:03:00+00:00"
     }
   ]
 }
