@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-12T01:47:43.290426+00:00",
+  "generated_at": "2026-08-12T07:21:45.653105+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "77c42709a5914823",
+      "title": "NVIDIA AI lança Nemotron 3.5 Lightning: um MoE aberto de 30B com parâmetros ativos de 3B e roteador modelo NeMo Switchyard",
+      "summary": "O MoE 30B aberto da NVIDIA tem como alvo a camada de execução do agente, com Switchyard roteando cada etapa para o modelo com capacidade mais barata. A postagem NVIDIA AI lança Nemotron 3.5 Lightning: A 30B…",
+      "link": "https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-12T06:59:40+00:00"
+    },
+    {
+      "id": "517b7d11e669674d",
+      "title": "Os lançamentos MiLM Plus da Xiaomi PROVE: Métricas de remoção de objetos alinhadas à percepção RC-S e RC-T com um benchmark de vídeo do mundo real",
+      "summary": "Os modelos de remoção de objetos melhoraram mais rapidamente do que as métricas usadas para julgá-los. As borrachas de difusão agora reconstroem sombras, reflexos e estruturas oclusas de forma convincente, mas...",
+      "link": "https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-12T05:05:52+00:00"
+    },
+    {
+      "id": "f2a50b9d10bd951a",
+      "title": "SpaceX pode faturar até R$ 2,6 trilhões por ano com IA, diz Elon Musk",
+      "summary": "Projeção foi apresentada pelo fundador e CEO da SpaceX durante reunião com funcionários O post SpaceX pode faturar até R$ 2,6 trilhões por ano com IA, diz Elon Musk apareceu…",
+      "link": "https://olhardigital.com.br/2026/08/11/pro/spacex-pode-faturar-ate-r-2-6-trilhoes-por-ano-com-ia-diz-elon-musk/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/elon-musk-entrevista-X-1-1024x695.jpeg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-12T01:57:28+00:00"
+    },
     {
       "id": "8946d516f8a3a20a",
       "title": "Fala AI: Casos de IA hackeando sistemas se multiplicam — o que vem a seguir?",
@@ -78,6 +111,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-11T20:15:00+00:00"
+    },
+    {
+      "id": "661dd1c49f7288f9",
+      "title": "A pilha de produção de vídeo agora cabe em uma mesa: LTX-2.5 é lançado como modelo mundial de peso aberto acelerado pela NVIDIA",
+      "summary": "LTX-2.5 traz geração de vídeo de ponta para hardware NVIDIA local: clipes de 6,8 segundos, multishot nativo, ComfyUI de primeiro dia, pesos abertos. A postagem A pilha de produção de vídeo agora cabe…",
+      "link": "https://www.marktechpost.com/2026/08/11/the-video-production-stack-now-fits-on-one-desk-ltx-2-5-launches-as-nvidia-accelerated-open-weights-world-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-11T20:02:03+00:00"
     },
     {
       "id": "260dfaa5912e4c9a",
@@ -399,17 +443,6 @@
       "published_at": "2026-08-11T13:27:20+00:00"
     },
     {
-      "id": "da161cb655ac21da",
-      "title": "Spotify rotulará perfis ‘AI Persona’ e excluirá suas músicas das recomendações",
-      "summary": "O Spotify está introduzindo rótulos “AI Persona” para perfis de artistas que representam identidades geradas por IA e excluirá suas músicas de editoriais, algorítmicos e personalizados…",
-      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-11T13:00:00+00:00"
-    },
-    {
       "id": "57d2e76b3d6137a8",
       "title": "Spotify diz que não recomendará músicas de ‘AI Personas’",
       "summary": "O Spotify em breve rotulará os artistas de IA e removerá suas músicas de suas recomendações. A mudança, que começará a ser implementada em meados de setembro, significa que você verá uma “Persona AI”…",
@@ -418,6 +451,17 @@
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
+      "published_at": "2026-08-11T13:00:00+00:00"
+    },
+    {
+      "id": "da161cb655ac21da",
+      "title": "Spotify rotulará perfis ‘AI Persona’ e excluirá suas músicas das recomendações",
+      "summary": "O Spotify está introduzindo rótulos “AI Persona” para perfis de artistas que representam identidades geradas por IA e excluirá suas músicas de editoriais, algorítmicos e personalizados…",
+      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-08-11T13:00:00+00:00"
     },
     {
@@ -947,50 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-08-10T15:11:51+00:00"
-    },
-    {
-      "id": "22ad0d8ec3bf4066",
-      "title": "OpenAI pausa testes de nova IA com medo de ela se rebelar",
-      "summary": "A OpenAI interrompeu parte das atividades internas de desenvolvimento de seu mais novo modelo de inteligência artificial, de codinome Astra, após avaliações de segurança…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/open-ai-pausa-testes-de-nova-ia-com-medo-de-ela-se-rebelar/",
-      "image": "https://tl.ctcdn.com.br/PFasPw4OE6fNEvU9TANEkkHk8bI=/0x0/filters:format(webp):quality(85)/43573d7e-5b1b-4d82-be80-77c9c21b0816.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-10T15:07:00+00:00"
-    },
-    {
-      "id": "6b59545a1676c64d",
-      "title": "Evolua seu marketing com novas ferramentas de IA",
-      "summary": "IU do consultor no Google Ads e no Google Analytics",
-      "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-10T14:30:00+00:00"
-    },
-    {
-      "id": "3d196224ab27a2df",
-      "title": "Carta da OpenAI ao governador Abbott sobre infraestrutura responsável de IA no Texas",
-      "summary": "A OpenAI enviou ao governador Greg Abbott uma carta descrevendo seu compromisso com uma infraestrutura de IA responsável no Texas. A carta apoia um crescimento confiável e transparente que beneficia os texanos.",
-      "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-10T14:00:00+00:00"
-    },
-    {
-      "id": "4aee09f24a27698d",
-      "title": "O que acontece com Bose quando os fones de ouvido se tornam IA?",
-      "summary": "Hoje estou conversando com Lila Snyder, que é CEO da Bose. Você certamente conhece a Bose – é uma das marcas mais famosas em toda a tecnologia de consumo. A empresa começou há 60 anos…",
-      "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD-Lila-Snyder.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-10T14:00:00+00:00"
     }
   ]
 }
