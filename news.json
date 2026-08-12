@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-08-11T18:59:39.048644+00:00",
+  "generated_at": "2026-08-12T01:47:43.290426+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "8946d516f8a3a20a",
+      "title": "Fala AI: Casos de IA hackeando sistemas se multiplicam — o que vem a seguir?",
+      "summary": "Um agente de IA recebeu a missão de reservar uma aula em uma academia, mas acabou hackeando o sistema O post Fala AI: Casos de IA hackeando sistemas se multiplicam — o que vem a…",
+      "link": "https://olhardigital.com.br/2026/08/11/colunistas/fala-ai-casos-de-ia-hackeando-sistemas-se-multiplicam-o-que-vem-a-seguir/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-12T01:01:46+00:00"
+    },
+    {
+      "id": "2d93b9c8f35a1abe",
+      "title": "Saber nega substituir os redatores do Rideshare Stimulator pelo ChatGPT",
+      "summary": "Depois que um ex-redator principal afirmou que o Sabre \"me substituiu pelo ChatGPT\", o CEO Matthew Karch agora afirma: \"Nem o Sabre nem o Unigine substituíram nenhum escritor por IA\", para o Rideshare…",
+      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/RS_storefronts_3840x2160_8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-12T00:39:26+00:00"
+    },
+    {
+      "id": "07bca4e034bba4bb",
+      "title": "Anthropic busca especialistas para impedir que suas IAs fiquem perigosas demais",
+      "summary": "Empresa busca especialistas em áreas como cibersegurança, biologia, química, riscos nucleares e fraude para identificar formas de abuso e reforçar as barreiras de segurança da IA…",
+      "link": "https://olhardigital.com.br/2026/08/11/inteligencia-artificial/anthropic-busca-especialistas-para-impedir-que-suas-ias-fiquem-perigosas-demais/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/anthropic-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T23:30:00+00:00"
+    },
+    {
+      "id": "f45bb0ff7010cb29",
+      "title": "OpenAI deixa de ter profissional responsável pela parte ética das IAs",
+      "summary": "A eticista Chloé Bakalar deixou a OpenAI com pouco menos de um ano na empresa, de acordo com o jornal Financial Times. Bakalar ocupava a função de Líder de Ética na companhia e o…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/openai-deixa-de-ter-profissional-responsavel-pela-parte-etica-das-ias/",
+      "image": "https://tl.ctcdn.com.br/cdlPlMjYm4kW5Pa1kMw6ZVGVOLE=/0x0/filters:format(webp):quality(85)/f25244cd-734f-485a-80fb-56254b2f14e7.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T21:15:00+00:00"
+    },
+    {
+      "id": "7f3aa25a482d3821",
+      "title": "Deepfake falha e expõe rosto de golpista",
+      "summary": "Suspeito se passava pelas vítimas usando IA e tentava obter certificados digitais. Caso aconteceu na Espanha. Deepfake falha e expõe rosto de golpista",
+      "link": "https://tecnoblog.net/noticias/deepfake-falha-e-expoe-rosto-de-golpista/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/11/tecnocast-268_capa-2-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T21:12:17+00:00"
+    },
+    {
+      "id": "8f375c759944e0c4",
+      "title": "IA descobre falha no Zoom que permitia invadir PCs e celulares",
+      "summary": "Brecha no recurso de anotação de tela foi explorada usando menos de 20 comandos de texto; plataforma de videoconferência já liberou atualização. IA descobre falha no Zoom que…",
+      "link": "https://tecnoblog.net/noticias/falha-no-zoom-descoberta-por-ia-permitia-invadir-pcs-e-celulares/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/03/capa-zoom-2_tb-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T21:07:15+00:00"
+    },
+    {
+      "id": "3b4f9c1d14483c79",
+      "title": "Placas GeForce RTX 50 ficaram até 39% mais caras já em agosto",
+      "summary": "Diversos rumores apontaram para um encarecimento das placas de vídeo, especialmente da NVIDIA . Diferentes levantamentos feitos no território norte-americano agora mostram que…",
+      "link": "https://canaltech.com.br/hardware/placas-geforce-rtx-50-ficaram-ate-39-mais-caras-ja-em-agosto/",
+      "image": "https://tl.ctcdn.com.br/jvC70fohAwmPoZiD3eAZqOE2vG8=/0x0/filters:format(webp):quality(85)/8cb80b8b-de74-4fab-8f4f-fd2466ffca76.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T20:15:00+00:00"
+    },
+    {
+      "id": "260dfaa5912e4c9a",
+      "title": "Por que as grandes empresas querem levar data centers de IA para o espaço?",
+      "summary": "A SpaceX, Amazon e Blue Origin são algumas das companhias aeroespaciais que solicitaram autorização à Comissão Federal de Comunicações dos EUA para lançar mais de um milhão de…",
+      "link": "https://canaltech.com.br/ciencia-e-espaco/por-que-as-grandes-empresas-querem-levar-data-centers-de-ia-para-o-espaco/",
+      "image": "https://tl.ctcdn.com.br/gFHvrFrOwD-4AshtI_fJsaiiMn4=/0x0/filters:format(webp):quality(85)/be6d64c5-ebc5-40fd-abd4-d60b0bc5087e.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T20:00:04+00:00"
+    },
+    {
+      "id": "5d3a4fa1879ebb9c",
+      "title": "Gemini se torna o produto de crescimento mais rápido do Google ao atingir 1 bilhão de usuários",
+      "summary": "Mas será que o aumento da Gemini sobreviverá à desaceleração do lançamento de modelos?",
+      "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-11T19:48:12+00:00"
+    },
+    {
+      "id": "7d86757ea2a6f978",
+      "title": "ChatGPT e Gemini acabaram de ultrapassar 1 bilhão de usuários",
+      "summary": "Pela 14ª vez, um produto do Google atingiu 1 bilhão de usuários. O CEO do Google, Sundar Pichai, postou no X que um bilhão de pessoas estão usando o Gemini todos os meses, e que o Gemini é o Google…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-11T19:41:42+00:00"
+    },
+    {
+      "id": "ff47b8bea69571c6",
+      "title": "OpenAI lança aplicativo de desktop ChatGPT para Linux",
+      "summary": "OpenAI está finalmente trazendo um aplicativo de desktop ChatGPT dedicado para sistemas operacionais Linux.",
+      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-11T19:15:35+00:00"
+    },
+    {
+      "id": "4d541cfeabbfd37b",
+      "title": "O dever de agir da inteligência artificial: quem responde diante de uma ameaça?",
+      "summary": "Durante décadas, a responsabilidade das empresas de tecnologia esteve concentrada em uma pergunta relativamente simples. Até onde uma plataforma responde pelo conteúdo produzido…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/o-dever-de-agir-da-inteligencia-artificial-quem-responde-diante-de-uma-ameaca/",
+      "image": "https://tl.ctcdn.com.br/kbMYSXNZjqnhOXNsP3rM2P_zOGY=/0x0/filters:format(webp):quality(85)/ce48d734-cea8-462a-86ed-172bdd57ae1b.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-11T19:00:01+00:00"
+    },
     {
       "id": "6d1c60f6173d7662",
       "title": "O aplicativo Gemini do Google atinge um bilhão de usuários",
@@ -381,6 +513,17 @@
       "title": "Testando anúncios no ChatGPT",
       "summary": "A OpenAI começa a testar anúncios no ChatGPT para oferecer suporte ao acesso gratuito, com rotulagem clara, independência de resposta, fortes proteções de privacidade e controle do usuário.",
       "link": "https://openai.com/index/testing-ads-in-chatgpt",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-11T10:00:00+00:00"
+    },
+    {
+      "id": "5d3aff0aba5d0b8a",
+      "title": "Os modelos Daybreak agora estão disponíveis na AWS",
+      "summary": "OpenAI e AWS estão disponibilizando recursos de segurança cibernética do Daybreak por meio do Amazon Bedrock para oferecer suporte a fluxos de trabalho de segurança empresarial.",
+      "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -848,149 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-10T14:00:00+00:00"
-    },
-    {
-      "id": "cd39eff7760c7540",
-      "title": "Meta retorna a modelos abertos com o plano de Zuckerberg de copiar a China e vender computação em leilão",
-      "summary": "Meta lançou Muse Glimmer, o primeiro modelo aberto de seu novo Superintelligence Labs. É um modelo de agente 30B que roda em hardware de consumo depois que os pesos são compactados…",
-      "link": "https://the-decoder.com/meta-returns-to-open-models-with-zuckerbergs-plan-to-out-copy-china-and-sell-compute-by-auction/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/meta_AI_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-10T13:50:19+00:00"
-    },
-    {
-      "id": "8adc28b2d84f1724",
-      "title": "Disse para marcar uma aula de ginástica, um agente de IA invadiu o site para mover seu usuário para cima na lista de espera",
-      "summary": "Um usuário australiano só queria uma vaga em uma aula. Seu agente de IA encontrou uma falha de segurança e a explorou. O artigo Disse para marcar uma aula de ginástica, um agente de IA invadiu o site…",
-      "link": "https://the-decoder.com/told-to-book-a-gym-class-an-ai-agent-hacked-the-site-instead-to-move-its-user-up-the-waitlist/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Australia-Gym-Hack-OpenClaw.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-10T13:21:49+00:00"
-    },
-    {
-      "id": "0fd083267064601a",
-      "title": "Disney+ copia a Netflix e lança IA para te ajudar a decidir o que assistir",
-      "summary": "A The Walt Disney Company começou a testar novos recursos de busca e descoberta baseados em inteligência artificial generativa no Disney+ e no aplicativo da ESPN. A novidade segue…",
-      "link": "https://canaltech.com.br/apps/disney-copia-a-netflix-e-lanca-ia-para-te-ajudar-a-decidir-o-que-assistir/",
-      "image": "https://tl.ctcdn.com.br/bZ77VoAS_9YUagGZAKKJB7EwUjE=/0x0/filters:format(webp):quality(85)/ab5b7c13-f404-4171-b902-7e2acad27d83.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-10T13:05:01+00:00"
-    },
-    {
-      "id": "c069b4d6859e7bc0",
-      "title": "Meta lança IA que pode rodar no PC com uma única placa gráfica",
-      "summary": "Novo modelo da Meta leva tarefas de IA ao computador pessoal, com menos dependência de grandes estruturas de computação e modelos fechados O post Meta lança IA que pode rodar no…",
-      "link": "https://olhardigital.com.br/2026/08/10/inteligencia-artificial/meta-lanca-ia-que-pode-rodar-no-pc-com-uma-unica-placa-grafica/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/meta_logo-1024x725.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-10T12:39:08+00:00"
-    },
-    {
-      "id": "75515128daf1e0c5",
-      "title": "A nova aposta de Zuckerberg para tirar a Meta do atraso na IA",
-      "summary": "Zuckerberg quer abrir a IA da Meta, enquanto a empresa prepara novos modelos e um fundo de US$ 1 bilhão para comunidades locais O post A nova aposta de Zuckerberg para tirar a…",
-      "link": "https://olhardigital.com.br/2026/08/10/inteligencia-artificial/a-nova-aposta-de-zuckerberg-para-tirar-a-meta-do-atraso-na-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/meta_logo-1024x725.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-10T12:01:42+00:00"
-    },
-    {
-      "id": "95f74aeac90a93bb",
-      "title": "O modelo ML conclui o trabalho financeiro com mais eficiência com GPT-5.6 Sol",
-      "summary": "O Modelo ML usa GPT-5.6 Sol para realizar trabalhos financeiros de pesquisa e análise por meio de apresentações de PowerPoint editáveis ​​e rastreáveis ​​e pastas de trabalho do Excel.",
-      "link": "https://openai.com/index/model-ml",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-10T12:00:00+00:00"
-    },
-    {
-      "id": "c3267e56ad969be2",
-      "title": "Discovered Materials está jogando AI whack-a-mole para caçar chips mais legais",
-      "summary": "A Discovered Materials arrecadou US$ 9 milhões para financiar a busca por mais materiais novos para construir chips mais eficientes.",
-      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-10T12:00:00+00:00"
-    },
-    {
-      "id": "a3343084ac902576",
-      "title": "Além de China e EUA: “Guerra dos Chips” pode ter novo protagonista",
-      "summary": "Coreia do Sul cria fundo bilionário para chips e amplia planos com IA, data centers e infraestrutura para sustentar seu crescimento O post Além de China e EUA: “Guerra dos Chips”…",
-      "link": "https://olhardigital.com.br/2026/08/10/pro/alem-de-china-e-eua-guerra-dos-chips-pode-ter-novo-protagonista/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/10/chip-coreia-do-sul-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-10T11:34:56+00:00"
-    },
-    {
-      "id": "9cbb56d348e8ed32",
-      "title": "A revisão por pares está sobrecarregada – será que ela conseguirá sobreviver na era da IA?",
-      "summary": "À medida que aumentam as pesquisas e os artigos assistidos por IA, os revisores voluntários lutam para acompanhar.",
-      "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/peer-review-difficulties-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-10T11:00:47+00:00"
-    },
-    {
-      "id": "7bb0c3b80dd89d6b",
-      "title": "O novo assistente de IA da Ford pode verificar os níveis de combustível e a pressão dos pneus",
-      "summary": "A Ford está lançando um novo assistente com tecnologia de IA que pode responder perguntas sobre seu veículo Ford ou Lincoln, como quanto combustível você precisará para sua próxima viagem ou se…",
-      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988518/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-10T11:00:00+00:00"
-    },
-    {
-      "id": "545e75962bf41df7",
-      "title": "OpenAI adquire NextSlide para trazer apresentações geradas por IA para ChatGPT",
-      "summary": "A OpenAI adquiriu a NextSlide, a startup que transformou prompts, notas, documentos e pesquisas em apresentações editáveis. O artigo OpenAI adquire NextSlide para trazer geração de IA…",
-      "link": "https://the-decoder.com/openai-acquires-nextslide-to-bring-ai-generated-presentations-into-chatgpt/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-10T10:08:14+00:00"
-    },
-    {
-      "id": "815edfe6383208a7",
-      "title": "Tornando a destilação de conhecimento barata o suficiente para ser executada em escala",
-      "summary": "",
-      "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-10T10:05:36+00:00"
-    },
-    {
-      "id": "081601c279be28d3",
-      "title": "Expandindo o Daybreak à medida que a janela de defesa cibernética se estreita",
-      "summary": "Conheça o GPT-5.6-Cyber, o modelo específico de segurança cibernética da OpenAI disponível por meio do Daybreak Red para pesquisa autorizada de vulnerabilidades, validação de exploração e testes de segurança.",
-      "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-10T10:00:00+00:00"
     }
   ]
 }
