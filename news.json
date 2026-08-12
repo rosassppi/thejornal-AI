@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-08-12T07:21:45.653105+00:00",
+  "generated_at": "2026-08-12T13:04:56.838983+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "530fa4479bd2d191",
+      "title": "Spotify vai rotular \"artistas de IA\" e barrar recomendações",
+      "summary": "O Spotify anunciou novos selos de “Persona de IA” para identificar perfis de artistas cuja identidade pública é criada por inteligência artificial. A novidade já está disponível…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/spotify-vai-rotular-artistas-de-ia-e-barrar-recomendacoes/",
+      "image": "https://tl.ctcdn.com.br/bxUwAR9bbyKFklwbqtLmXXNDxpw=/0x0/filters:format(webp):quality(85)/c0c7613c-c237-4183-b85f-f4e75dc132b1.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-12T13:04:00+00:00"
+    },
+    {
+      "id": "74a68896af8f643a",
+      "title": "A soberania digital brasileira começa pela capacidade de transformar dados em conhecimento",
+      "summary": "*Por Carol Luck A inteligência artificial colocou os dados no centro da disputa econômica global. Mas, antes de discutir quais modelos de IA o Brasil será capaz de desenvolver…",
+      "link": "https://canaltech.com.br/mercado/a-soberania-digital-brasileira-comeca-pela-capacidade-de-transformar-dados-em-conhecimento/",
+      "image": "https://tl.ctcdn.com.br/XLnBWoucofkxPC7UVbjchiSqDLg=/0x0/filters:format(webp):quality(85)/18013c63-0bf3-4eda-b76e-5f3448cd184f.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-12T12:44:36+00:00"
+    },
+    {
+      "id": "01ce2cf2d2909164",
+      "title": "O Nemotron 4 da Nvidia visa um trilhão de parâmetros, uma escala que os laboratórios chineses já superaram",
+      "summary": "A Nvidia está trabalhando no Nemotron 4, um novo modelo aberto projetado para rivalizar com os melhores modelos disponíveis gratuitamente no mundo. O artigo Nemotron 4 da Nvidia visa um trilhão…",
+      "link": "https://the-decoder.com/nvidias-nemotron-4-aims-for-one-trillion-parameters-a-scale-chinese-labs-already-surpassed/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-12T12:37:58+00:00"
+    },
+    {
+      "id": "4bd8fabd2972945b",
+      "title": "Apple testa selo de \"foto real\" para provar que imagem não é feita por IA",
+      "summary": "Diante de um cenário em que muitas empresas liberam funções para provar que uma imagem foi gerada por IA, a Apple quer seguir um caminho contrário: a empresa testa uma nova forma…",
+      "link": "https://canaltech.com.br/apps/apple-testa-selo-de-foto-real-para-provar-que-imagem-nao-e-feita-por-ia/",
+      "image": "https://tl.ctcdn.com.br/epQwcNtN_RYom0vzSU0cluAPycE=/0x0/filters:format(webp):quality(85)/bfd93ed1-cb2d-4fd6-a49b-fd1130b205e1.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-12T12:19:25+00:00"
+    },
+    {
+      "id": "2c1f64cc9d2df1bf",
+      "title": "É claro que a vacina contra o câncer de cães ChatGPT gerou uma startup",
+      "summary": "Lembra daquela história muito comentada sobre um empresário australiano de tecnologia usando ChatGPT, Grok e outras ferramentas de IA para criar uma vacina personalizada contra o câncer para seu cachorro? Bem, surpresa…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/acastro_201217_1777_vaccine_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-12T12:09:34+00:00"
+    },
+    {
+      "id": "937e54c9e405b2db",
+      "title": "Grok agora é um ‘companheiro de equipe’ de IA ao qual você pode atribuir trabalho",
+      "summary": "A SpaceXAI introduziu o Grok Bot, um serviço de agente de IA sempre ativo, projetado para se comportar como “companheiros de equipe de IA” independentes que podem fazer o trabalho por você. Os bots compartilham seus próprios…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Grok-Bot-desktop-and-iOS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-12T11:58:54+00:00"
+    },
+    {
+      "id": "749a3c85966a4919",
+      "title": "OpenAI lança aplicativo de desktop ChatGPT para Linux",
+      "summary": "OpenAI traz seu aplicativo de desktop ChatGPT para Linux. O artigo OpenAI lança aplicativo de desktop ChatGPT para Linux apareceu pela primeira vez no The Decoder.",
+      "link": "https://the-decoder.com/openai-launches-chatgpt-desktop-app-for-linux/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/linux.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-12T11:53:31+00:00"
+    },
+    {
+      "id": "95f3a4714a19f5b0",
+      "title": "Gemini alcança 1 bilhão de usuários e muda o jogo dos chatbots de IA",
+      "summary": "ChatGPT e Gemini alcançam 1 bilhão de usuários, mas o Google cresce mais rápido e reduz a vantagem da OpenAI na corrida O post Gemini alcança 1 bilhão de usuários e muda o jogo…",
+      "link": "https://olhardigital.com.br/2026/08/12/inteligencia-artificial/gemini-alcanca-1-bilhao-de-usuarios-e-muda-o-jogo-dos-chatbots-de-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/modelos-de-ia-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-12T11:15:56+00:00"
+    },
+    {
+      "id": "35caf8be34f50040",
+      "title": "A Casa do Dragão: as 5 mortes mais brutais da temporada 3",
+      "summary": "A Casa do Dragão não seria a irmã mais nova de Game of Thrones se não contasse com um elemento marcante de sua antecessora: as mortes brutais . E foi exatamente isso que a…",
+      "link": "https://canaltech.com.br/entretenimento/a-casa-do-dragao-as-5-mortes-mais-brutais-da-temporada-3/",
+      "image": "https://tl.ctcdn.com.br/nHWtqSdBpDVg6EfYjuwSnHqnEiY=/0x0/filters:format(webp):quality(85)/24c5ba20-ef61-4afb-b235-9cb203a118a0.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-12T11:01:00+00:00"
+    },
+    {
+      "id": "6b4666838bd75dd4",
+      "title": "A avaliação da startup de teste de código de IA Blacksmith salta quase 10 vezes em menos de um ano",
+      "summary": "Blacksmith diz que a receita cresceu mais de dez vezes no ano passado.",
+      "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-12T11:00:00+00:00"
+    },
+    {
+      "id": "b5ba3e29f52561b1",
+      "title": "O novo MAI Code 1.1 Flash da Microsoft é esmagado pela Deepseek em preço e desempenho",
+      "summary": "A Microsoft lançou o MAI Code 1.1 Flash, um modelo de código para GitHub Copilot que é considerado 25% mais eficiente em termos de tokens por um quarto do custo de seu antecessor. Em…",
+      "link": "https://the-decoder.com/microsofts-new-mai-code-1-1-flash-gets-crushed-by-deepseek-on-both-price-and-performance/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/microsoft_logo_red_pink.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-12T10:18:46+00:00"
+    },
+    {
+      "id": "e2ebf48cbd848812",
+      "title": "Mistral agora oferece processamento de dados da UE e acesso prioritário, mas ambos apresentam limites importantes",
+      "summary": "A Mistral está oferecendo aos clientes a opção de rotear solicitações de IA por meio de servidores na Europa ou nos EUA e vender acesso prioritário à fila durante o pico de tráfego. Ambos vêm com um…",
+      "link": "https://the-decoder.com/mistral-now-offers-eu-data-processing-and-priority-access-but-both-come-with-important-limits/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Mistral-third-party-models.webp",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-12T09:59:27+00:00"
+    },
     {
       "id": "77c42709a5914823",
       "title": "NVIDIA AI lança Nemotron 3.5 Lightning: um MoE aberto de 30B com parâmetros ativos de 3B e roteador modelo NeMo Switchyard",
@@ -12,6 +144,17 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-08-12T06:59:40+00:00"
+    },
+    {
+      "id": "e063daae6225e156",
+      "title": "Da assistência à execução: como as empresas colocam a IA para funcionar",
+      "summary": "A pesquisa da OpenAI revela como as empresas estão adotando a IA de agência, usando ChatGPT e Codex, e como as empresas de ponta estão avançando na adoção da IA.",
+      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-12T06:00:00+00:00"
     },
     {
       "id": "517b7d11e669674d",
@@ -848,149 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-10T18:20:39+00:00"
-    },
-    {
-      "id": "31017311b73591e4",
-      "title": "Modder descobre como burlar GeForce NOW e liberar 48 GB de VRAM para rodar IA",
-      "summary": "Streamings de games na nuvem são uma saída para quem não deseja investir em um PC gamer, que está cada vez mais caro . O GeForce Now , por exemplo, é uma das melhores soluções e…",
-      "link": "https://canaltech.com.br/hardware/modder-descobre-como-burlar-ge-force-now-e-liberar-48-gb-de-vram-para-rodar-ia/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-10T18:07:00+00:00"
-    },
-    {
-      "id": "f86f68dff2cfb3c8",
-      "title": "OpenAI lança GPT-5.6-Cyber ​​para ajudar os defensores a encontrar vulnerabilidades antes que os invasores o façam",
-      "summary": "OpenAI visa dar uma vantagem inicial aos defensores da segurança cibernética: O novo modelo GPT-5.6-Cyber ​​responde até 98,5 por cento das consultas de segurança que de outra forma seriam bloqueadas e tem…",
-      "link": "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-10T18:01:30+00:00"
-    },
-    {
-      "id": "adb83702c74939bd",
-      "title": "Zuckerberg critica regulação da IA e diz que centralização é um problema",
-      "summary": "Chefão da Meta diz que tecnologia deve empoderar pessoas. Empresa promete modelos abertos e suporte a comunidades afetadas por data centers. Zuckerberg critica regulação da IA e…",
-      "link": "https://tecnoblog.net/noticias/zuckerberg-critica-regulacao-da-ia-e-diz-que-centralizacao-e-um-problema/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-04-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-10T17:06:40+00:00"
-    },
-    {
-      "id": "352cdea0cb937408",
-      "title": "Candidatos e recrutadores começam a usar avatares de IA em entrevistas de emprego",
-      "summary": "Recrutadores ao redor do mundo têm relatado um novo tipo de candidato nas entrevistas de emprego: o avatar gerado por inteligência artificial . A tecnologia reproduz voz e…",
-      "link": "https://canaltech.com.br/mercado/candidatos-e-recrutadores-comecam-a-usar-avatares-de-ia-em-entrevistas-de-emprego/",
-      "image": "https://tl.ctcdn.com.br/Oc4qUSer7Qg6-eyfXU_32IgvIUI=/0x0/filters:format(webp):quality(85)/5dfb0bcc-2d22-42fc-9577-7e3a5fc1787b.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-10T17:01:00+00:00"
-    },
-    {
-      "id": "5367cc95a8fd9817",
-      "title": "O que a construção de uma função financeira nativa de IA me ensinou",
-      "summary": "A CFO da OpenAI, Sarah Friar, compartilha cinco lições para construir uma função financeira nativa de IA, desde previsões automatizadas até controles mais fortes e ROI de IA.",
-      "link": "https://openai.com/index/building-an-ai-native-finance-function",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-10T17:00:00+00:00"
-    },
-    {
-      "id": "5890b1cfd4cc38aa",
-      "title": "Crie agentes de voz multilíngues de baixa latência: pesos abertos e controle total de implantação com NVIDIA Magpie TTS",
-      "summary": "",
-      "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-10T16:25:36+00:00"
-    },
-    {
-      "id": "e3008cb65001dab0",
-      "title": "O novo modelo Glimmer AI da Meta oferece uma dica da visão de inteligência pessoal de Zuckerberg",
-      "summary": "O novo modelo Muse Glimmer de peso aberto da Meta oferece um vislumbre da visão de superinteligência pessoal de Mark Zuckerberg, bem como a divisão emergente entre os usuários de IA podem possuir e…",
-      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-10T16:20:13+00:00"
-    },
-    {
-      "id": "c44e2db8b108e9c1",
-      "title": "Grok lança novo editor profissional de imagens que parece o Photoshop",
-      "summary": "O Grok lançou o Imagine Image 2.0 , novo modelo de IA para gerar. O foco da novidade é melhorar a edição de imagens com ferramentas como uma “varinha mágica” para selecionar…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/grok-lanca-novo-editor-profissional-de-imagens-que-parece-o-photoshop/",
-      "image": "https://tl.ctcdn.com.br/4xydB3KpzlRvemC-0onnBA3XDS0=/0x0/filters:format(webp):quality(85)/d0af6277-79ec-4601-bcef-acb6528f1bf4.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-10T16:05:00+00:00"
-    },
-    {
-      "id": "6b54fe70c5fa9916",
-      "title": "Lançamento: Smart TV LG NANO 50” recebe 42% de desconto no Mercado Livre",
-      "summary": "LG NANO NU850 tem painel 4K NanoCell de 50\", recursos de IA e webOS 26; Smart TV recebe desconto de 42% sobre preço original no Pix no cupom Lançamento: Smart TV LG NANO 50”…",
-      "link": "https://achados.tecnoblog.net/lancamento-smart-tv-lg-nano-50-recebe-42-de-desconto-no-mercado-livre/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-10T15:52:58+00:00"
-    },
-    {
-      "id": "5828c56a0ad1b0ea",
-      "title": "Lançamento: Smart TV LG NANO 50” recebe 42% de desconto no Mercado Livre",
-      "summary": "LG NANO NU850 tem painel 4K NanoCell de 50\", recursos de IA e webOS 26; Smart TV recebe desconto de 42% sobre preço original no Pix no cupom Lançamento: Smart TV LG NANO 50”…",
-      "link": "https://tecnoblog.net/achados/lancamento-smart-tv-lg-nano-50-recebe-42-de-desconto-no-mercado-livre/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-10T15:52:58+00:00"
-    },
-    {
-      "id": "771e6a88e7e0c4b5",
-      "title": "Linus Torvalds: encontrar bugs usando IA é o “novo normal” no Linux",
-      "summary": "O Linux 7.2 está prestes a ser lançado. Um tanto resignado, Linus Torvalds destacou o alto volume de correções via IA que a nova versão trará. Linus Torvalds: encontrar bugs…",
-      "link": "https://tecnoblog.net/noticias/linus-torvalds-encontrar-bugs-usando-ia-e-o-novo-normal-no-linux/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/04/linux-linus-torvalds-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-10T15:45:53+00:00"
-    },
-    {
-      "id": "031f329eef992fe5",
-      "title": "Quatro conclusões do enorme manifesto de IA de Mark Zuckerberg",
-      "summary": "O CEO da Meta, Mark Zuckerberg, tem muito a dizer sobre o futuro idealizado que ele agora imagina para a humanidade coexistindo com a inteligência artificial - seu último ensaio abrange mais de…",
-      "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546248/STK169_Mark_Zuckerburg_CVIRGINIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-10T15:19:05+00:00"
-    },
-    {
-      "id": "2620d7e9170ad689",
-      "title": "Meta AI lança Muse Glimmer: um modelo agente de peso aberto 30B que roda em uma GPU de consumidor",
-      "summary": "Muse Glimmer da Meta é um modelo agente de peso aberto 30B no Apache 2.0. Ele acomoda 24 GB de VRAM e decodifica 3,1x mais rápido com especulação DFlash. O post Meta AI lança Muse…",
-      "link": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-10T15:11:51+00:00"
     }
   ]
 }
