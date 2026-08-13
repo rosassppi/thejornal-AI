@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-08-12T18:59:39.877065+00:00",
+  "generated_at": "2026-08-13T01:49:50.459292+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "c91aaac916519ba9",
+      "title": "Apple quer conteúdos jornalísticos na Siri com IA",
+      "summary": "Acordos propostos teriam duração de vários anos e dariam à Apple acesso aos conteúdos necessários para alimentar a Siri com IA O post Apple quer conteúdos jornalísticos na Siri…",
+      "link": "https://olhardigital.com.br/2026/08/12/inteligencia-artificial/apple-quer-conteudos-jornalisticos-na-siri-com-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/iStock-2187854869-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-13T01:05:08+00:00"
+    },
+    {
+      "id": "989b6478c235c64e",
+      "title": "Festival de cinema com IA chega ao Brasil em meio à resistência do setor",
+      "summary": "Primeira edição brasileira do AI Film Awards terá filmes, debates e atividades sobre o uso da tecnologia no audiovisual; organizadoras querem ampliar a discussão sobre IA no país…",
+      "link": "https://olhardigital.com.br/2026/08/12/cinema-e-streaming/festival-de-cinema-com-ia-chega-ao-brasil-em-meio-a-resistencia-do-setor/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/protesto-ia-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-12T23:32:00+00:00"
+    },
+    {
+      "id": "6604328c35fa1977",
+      "title": "Skyone lança IA que promete criar apps corporativos em poucos minutos",
+      "summary": "A Skyone apresentou, nesta quarta-feira (12), a sua nova ferramenta de vibecoding para o público corporativo . Conhecida como Skyone Creator , a plataforma é capaz de gerar apps…",
+      "link": "https://canaltech.com.br/mercado/skyone-lanca-ia-que-promete-criar-apps-corporativos-em-poucos-minutos/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-12T22:30:01+00:00"
+    },
+    {
+      "id": "12b636d0245b8226",
+      "title": "Alguns usuários do Claude estão furiosos porque as novas marcas d'água do Anthropic irão pegá-los usando-as em seus trabalhos, aulas",
+      "summary": "O novo sistema de marca d’água da Anthropic é uma farsa? Alguns recorreram às redes sociais para reclamar que sim.",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-12T22:26:37+00:00"
+    },
+    {
+      "id": "b69163adfc096c4e",
+      "title": "A empresa de energia nuclear AI Fermi finalmente tem um novo CEO",
+      "summary": "Lee McIntire, membro independente do conselho da Fermi, foi contratado como CEO, mais de três meses desde que a empresa demitiu o cofundador Toby Neugebauer do cargo principal.",
+      "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-12T22:24:00+00:00"
+    },
+    {
+      "id": "3b89f2c1b247bf21",
+      "title": "The web’s newest weapon against AI scrapers is a font",
+      "summary": "“ShieldFont” visa envenenar os dados de treinamento de IA sem tornar as páginas ilegíveis para as pessoas.",
+      "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2261896328-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-12T22:02:25+00:00"
+    },
+    {
+      "id": "50a8f76b8fcc86cd",
+      "title": "Terabytes de credenciais vazaram em ataque massivo à cadeia de suprimentos",
+      "summary": "Os dados foram extraídos e exfiltrados de 2.500 usuários de um pacote de IA comprometido.",
+      "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach-500x500.jpeg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-12T21:43:21+00:00"
+    },
+    {
+      "id": "54035baf4f33398c",
+      "title": "O conteúdo do Twitch treina Amazon AI há anos, mas os usuários podem cancelar agora",
+      "summary": "A plataforma de streaming afirma que o conteúdo gerado pelo usuário “pode ser usado para melhorias futuras do modelo Gen AI”.",
+      "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2286491305-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-12T21:00:30+00:00"
+    },
+    {
+      "id": "3fe9d83804e3c2d4",
+      "title": "O que torna a IA local particularmente relevante no Brasil",
+      "summary": "A pergunta que os líderes de TI no Brasil precisam responder agora não é mais \"vamos adotar IA?\". A pergunta que define quem sai na frente é outra: como vamos estruturar onde essa…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-torna-a-ia-local-particularmente-relevante-no-brasil/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-12T21:00:00+00:00"
+    },
+    {
+      "id": "0d1b017136af4597",
+      "title": "Google reorganiza área de IA e reforça controle sobre o desenvolvimento do Gemini",
+      "summary": "A pressão de rivais e os atrasos no novo modelo aumentam a cobrança interna por avanços na corrida de inteligência artificial O post Google reorganiza área de IA e reforça…",
+      "link": "https://olhardigital.com.br/2026/08/12/inteligencia-artificial/google-reorganiza-area-de-ia-e-reforca-controle-sobre-o-desenvolvimento-do-gemini/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/shutterstock_2315051741-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-12T20:30:50+00:00"
+    },
+    {
+      "id": "4ad790580cdc9117",
+      "title": "Quase 80% dos alunos no Brasil usam inteligência artificial para estudar",
+      "summary": "Apesar da forte presença da IA na rotina, muitos estudantes mostram “pé atrás” quanto à qualidade das informações e outras questões. Quase 80% dos alunos no Brasil usam…",
+      "link": "https://tecnoblog.net/noticias/quase-80-dos-alunos-no-brasil-usam-inteligencia-artificial-para-estudar/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2018/10/capa-tbr-ia-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-12T19:46:33+00:00"
+    },
+    {
+      "id": "aa0f072af186286d",
+      "title": "Estudo revela dado assustador sobre jogos que usam IA no Steam",
+      "summary": "Um levantamento detalhado feito pelo pesquisador Sulka Haro revelou o tamanho do impacto da IA generativa usada em jogos no Steam . Depois de analisar mais de 53 mil títulos…",
+      "link": "https://canaltech.com.br/games/estudo-revela-dado-assustador-sobre-jogos-que-usam-ia-no-steam/",
+      "image": "https://tl.ctcdn.com.br/xc_a-919s329hF1rQWiKvZY0U1k=/0x0/filters:format(webp):quality(85)/75c0c7be-37bd-4b4c-8d27-fc872562dae6.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-12T19:14:00+00:00"
+    },
+    {
+      "id": "ef77a0ca8d51d3e2",
+      "title": "IA descobre falha em sistema de agendamento e fura fila para usuário",
+      "summary": "Agente do Claude/OpenClaw encontrou brecha em app de agendamento e cancelou reserva de outro cliente. IA descobre falha em sistema de agendamento e fura fila para usuário",
+      "link": "https://tecnoblog.net/noticias/ia-descobre-falha-em-sistema-e-fura-fila-para-o-usuario/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/capas-iasartboard-2-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-12T19:11:03+00:00"
+    },
+    {
+      "id": "bbd9af728fb877bd",
+      "title": "Gemini bate 1 bilhão de usuários e quebra recorde histórico do Google",
+      "summary": "O Gemini ultrapassou 1 bilhão de usuários ativos mensais em agosto de 2026. O marco coloca a inteligência artificial como o produto de crescimento mais rápido da história do…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-bate-1-bilhao-de-usuarios-e-quebra-recorde-historico-do-google/",
+      "image": "https://tl.ctcdn.com.br/2EyuqhmZaLK-QAejIMGN0_3cdSw=/0x0/filters:format(webp):quality(85)/895b88d2-a897-4e5e-9b32-b24dbcb48fb2.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-12T19:03:00+00:00"
+    },
     {
       "id": "f64cd79f0cd9b6fd",
       "title": "ANPD amplia estrutura para fiscalizar IA, biometria e proteção de jovens",
@@ -67,6 +221,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-12T17:41:29+00:00"
+    },
+    {
+      "id": "55f2d88df5376289",
+      "title": "Pós-treinamento AllenAI Open Instruct Tulu 3 com SFT, DPO, RLVR, GRPO e avaliação baseada em verificador",
+      "summary": "Crie um pipeline de pós-treinamento LLM personalizado usando a estrutura Open Instruct da AllenAI. Este guia completo aborda o ajuste fino supervisionado (SFT), preferência direta…",
+      "link": "https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifier-based-evaluation/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-12T17:37:37+00:00"
     },
     {
       "id": "1c2239aa5254f167",
@@ -256,17 +421,6 @@
       "published_at": "2026-08-12T14:00:51+00:00"
     },
     {
-      "id": "fe9f2600860188d5",
-      "title": "A linha Pixel 11 do Google oferece menos mudanças de hardware, mas muito mais Gemini",
-      "summary": "A série Google Pixel 11 começa US$ 100 mais cara que no ano passado, mas oferece armazenamento básico de 256 GB.",
-      "link": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-12T14:00:00+00:00"
-    },
-    {
       "id": "b926419d1bf47342",
       "title": "Pixel Watch 5 do Google se aprofunda em IA e saúde",
       "summary": "O Google Pixel Watch 5, de US$ 399, não se trata de hardware. Claro, há um novo acabamento em pirita acetinada, algumas novas cores de pulseira e uma edição especial Steph Curry. Sob o capô…",
@@ -275,6 +429,17 @@
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
+      "published_at": "2026-08-12T14:00:00+00:00"
+    },
+    {
+      "id": "fe9f2600860188d5",
+      "title": "A linha Pixel 11 do Google oferece menos mudanças de hardware, mas muito mais Gemini",
+      "summary": "A série Google Pixel 11 começa US$ 100 mais cara que no ano passado, mas oferece armazenamento básico de 256 GB.",
+      "link": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-08-12T14:00:00+00:00"
     },
     {
@@ -485,6 +650,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-12T00:39:26+00:00"
+    },
+    {
+      "id": "9bafa93fe08b847d",
+      "title": "Como o RingCentral cria trabalho nativo de IA, da engenharia às operações",
+      "summary": "Veja como o RingCentral usa ChatGPT Work e Codex para acelerar o desenvolvimento de produtos de IA e centralizar a inteligência operacional em engenharia e operações.",
+      "link": "https://openai.com/index/ringcentral",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-12T00:00:00+00:00"
     },
     {
       "id": "07bca4e034bba4bb",
@@ -815,182 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-11T15:10:00+00:00"
-    },
-    {
-      "id": "4b68c6d81ef1f6ad",
-      "title": "O Nemotron 3.5 Lightning de peso aberto da Nvidia prioriza a velocidade em vez da inteligência máxima",
-      "summary": "O Nemotron 3.5 Lightning da Nvidia é um modelo de peso aberto com apenas 3,6 bilhões de parâmetros ativos que corresponde ao gpt-oss-120b da OpenAI no Índice de Inteligência, apesar de ter quatro…",
-      "link": "https://the-decoder.com/nvidias-open-weight-nemotron-3-5-lightning-prioritizes-speed-over-maximum-intelligence/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-11T15:07:44+00:00"
-    },
-    {
-      "id": "e6f2455190eb74d2",
-      "title": "Hack ‘Zoomsday’ descoberto usando menos de 20 prompts de IA",
-      "summary": "O Zoom corrigiu uma grande vulnerabilidade de segurança que poderia permitir que um invasor sequestrasse o dispositivo de qualquer pessoa durante uma reunião. Em uma postagem no blog na terça-feira, pesquisadores da A Security dizem…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK059_zoom_03.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-11T14:45:44+00:00"
-    },
-    {
-      "id": "434ae53f4114ef8f",
-      "title": "iPhone ganhará modo que prova que foto é real e não foi gerada por IA",
-      "summary": "Apple Reference Image foi encontrado em uma versão beta do iOS 27. Recurso autentica fotos tiradas diretamente pela câmera do iPhone. iPhone ganhará modo que prova que foto é real…",
-      "link": "https://tecnoblog.net/noticias/iphone-ganhara-modo-que-prova-que-foto-e-real-e-nao-foi-gerada-por-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/02/iphone-17-2-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-11T14:03:21+00:00"
-    },
-    {
-      "id": "077b61a0fed02bcc",
-      "title": "Pensando em ACE? Podemos fazer isso com menos tokens",
-      "summary": "",
-      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-11T13:37:10+00:00"
-    },
-    {
-      "id": "643e0d1b98ca53a7",
-      "title": "Por que seus e-mails de confirmação de pedido da Amazon se tornaram tão inúteis",
-      "summary": "No início deste verão, os clientes da Amazon começaram a perceber que os e-mails relacionados aos seus pedidos on-line pareciam esparsos: os e-mails de confirmação de pedidos não mencionavam mais itens específicos e…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-10-at-10.31.39-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-11T13:27:20+00:00"
-    },
-    {
-      "id": "57d2e76b3d6137a8",
-      "title": "Spotify diz que não recomendará músicas de ‘AI Personas’",
-      "summary": "O Spotify em breve rotulará os artistas de IA e removerá suas músicas de suas recomendações. A mudança, que começará a ser implementada em meados de setembro, significa que você verá uma “Persona AI”…",
-      "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/AI-Personas-Display-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-11T13:00:00+00:00"
-    },
-    {
-      "id": "da161cb655ac21da",
-      "title": "Spotify rotulará perfis ‘AI Persona’ e excluirá suas músicas das recomendações",
-      "summary": "O Spotify está introduzindo rótulos “AI Persona” para perfis de artistas que representam identidades geradas por IA e excluirá suas músicas de editoriais, algorítmicos e personalizados…",
-      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-11T13:00:00+00:00"
-    },
-    {
-      "id": "382023d7ddb257a9",
-      "title": "O mega-IPO planejado da Anthropic enfrenta ceticismo dos investidores em relação aos rivais chineses e ventos políticos contrários",
-      "summary": "A Anthropic está preparando um IPO para setembro ou outubro, segundo o Wall Street Journal, potencialmente o maior de todos os tempos. Durante reuniões com investidores, a empresa, avaliada em US$ 965…",
-      "link": "https://the-decoder.com/anthropics-planned-mega-ipo-faces-investor-skepticism-over-chinese-rivals-and-political-headwinds/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/05/anthropic_rocket-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-11T12:49:15+00:00"
-    },
-    {
-      "id": "c703baeb9f55f24b",
-      "title": "Claude aplicará marcas d'água invisíveis em textos e imagens de IA",
-      "summary": "A Anthropic comprometeu-se a começar a marcar textos e imagens gerados por Claude com dados legíveis por máquina, num esforço para cumprir as regras europeias para a transparência da IA. \"Texto gerado…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-11T12:22:20+00:00"
-    },
-    {
-      "id": "41ddd199683a8426",
-      "title": "Anthropic diz que colocará marca d'água no texto gerado por seus modelos de IA",
-      "summary": "A Anthropic estenderá o suporte para marcas d'água de gerações de IA também para modelos mais antigos.",
-      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-11T12:13:47+00:00"
-    },
-    {
-      "id": "71db8e8c5c15bd25",
-      "title": "Invasor invisível: o que o ataque da OpenAI ensina sobre a nova era da cibersegurança?",
-      "summary": "Na ficção científica, a rebelião das máquinas costuma envolver exércitos de robôs e cenários apocalípticos. Na vida real, o incidente ocorrido em julho de 2026, foi muito mais…",
-      "link": "https://canaltech.com.br/seguranca/invasor-invisivel-o-que-o-ataque-da-open-ai-ensina-sobre-a-nova-era-da-ciberseguranca/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-11T11:56:29+00:00"
-    },
-    {
-      "id": "c2621770888f2131",
-      "title": "OpenAI apresenta assentos premium de US$ 125 para ChatGPT Business à medida que a IA da agência queima mais tokens",
-      "summary": "A OpenAI está lançando “Assentos Premium” para clientes ChatGPT Business por US$ 125 por usuário por mês, cinco vezes o preço dos assentos padrão existentes. Em troca, os usuários recebem…",
-      "link": "https://the-decoder.com/openai-introduces-125-premium-seats-for-chatgpt-business-as-agentic-ai-burns-through-more-tokens/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_chatgpt_pattern_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-11T11:51:01+00:00"
-    },
-    {
-      "id": "f59b415be5a46288",
-      "title": "Anthropic assina acordo de data center de US$ 9,1 bilhões com a mineradora de Bitcoin Riot Platforms",
-      "summary": "A Anthropic está alugando capacidade de data center no valor de US$ 9,1 bilhões da mineradora de Bitcoin Riot Platforms no Texas, de acordo com a Bloomberg. O acordo cobre 191 megawatts na Riot…",
-      "link": "https://the-decoder.com/anthropic-signs-9-1-billion-data-center-deal-with-bitcoin-miner-riot-platforms/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo_money.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-11T11:33:00+00:00"
-    },
-    {
-      "id": "4c16bc788e0d3586",
-      "title": "A aquisição da matemática pela IA começou",
-      "summary": "O matemático James Maynard passou muito tempo no ano passado \"buscando a alma\". Professor da Universidade de Oxford e vencedor da prestigiada Medalha Fields, Maynard…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-11T11:00:00+00:00"
-    },
-    {
-      "id": "37054a851758afba",
-      "title": "IA tentou reservar uma aula e acabou hackeando a academia",
-      "summary": "Agente de IA encontrou uma falha no sistema de uma academia e cancelou a reserva de outro cliente para subir na fila O post IA tentou reservar uma aula e acabou hackeando a…",
-      "link": "https://olhardigital.com.br/2026/08/11/inteligencia-artificial/ia-tentou-reservar-uma-aula-e-acabou-hackeando-a-academia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/robo-usa-computador-1024x630.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-11T10:29:37+00:00"
-    },
-    {
-      "id": "b19ec562c455e753",
-      "title": "Testando anúncios no ChatGPT",
-      "summary": "A OpenAI começa a testar anúncios no ChatGPT para oferecer suporte ao acesso gratuito, com rotulagem clara, independência de resposta, fortes proteções de privacidade e controle do usuário.",
-      "link": "https://openai.com/index/testing-ads-in-chatgpt",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-11T10:00:00+00:00"
     }
   ]
 }
