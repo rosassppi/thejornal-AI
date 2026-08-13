@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-13T01:49:50.459292+00:00",
+  "generated_at": "2026-08-13T07:24:05.240794+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "e7b25d947ad7fe79",
+      "title": "SpaceXAI lança Grok 4.6: um modelo de fronteira de contexto de 500K ajustado para agentes de longa duração, codificação e trabalho de conhecimento",
+      "summary": "A SpaceXAI lançou o Grok 4.6 em 12 de agosto de 2026 – uma atualização pós-treinamento do Grok 4.5, não um modelo básico maior. Ele empata com GPT-5.6 Sol Max em 61 na Análise Artificial…",
+      "link": "https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-13T06:18:14+00:00"
+    },
     {
       "id": "c91aaac916519ba9",
       "title": "Apple quer conteúdos jornalísticos na Siri com IA",
@@ -980,17 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-08-11T15:17:29+00:00"
-    },
-    {
-      "id": "a1b1a115d585b9c2",
-      "title": "Recurso do Gemini busca e conecta dados esquecidos no Google",
-      "summary": "O Google Drive ganhou uma integração mais profunda com o Gemini, que ajuda a encontrar arquivos e informações esquecidas na conta. Com o recurso “Ask Gemini” , a busca vai além de…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/recurso-do-gemini-busca-e-conecta-dados-esquecidos-no-google/",
-      "image": "https://tl.ctcdn.com.br/0l9GM-sqEjDGLqbld8S-7JiMUl0=/0x0/filters:format(webp):quality(85)/34b92733-2219-4c3b-a414-e88bc7920699.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-11T15:10:00+00:00"
     }
   ]
 }
