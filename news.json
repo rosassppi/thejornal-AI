@@ -1,7 +1,293 @@
 {
-  "generated_at": "2026-08-13T13:05:47.776972+00:00",
+  "generated_at": "2026-08-13T19:00:34.770582+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "09d115fecd68e83d",
+      "title": "Gemini 3.7 Flash chega com ganhos de codificação e reduz em 50% o preço de seu antecessor de três semanas",
+      "summary": "O Google lançou o Gemini 3.7 Flash apenas três semanas após o 3.6 Flash. O novo modelo deve ser o carro-chefe mais capaz do Google para codificação e agentes de IA, e de acordo com…",
+      "link": "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/gemini_flash.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-13T18:41:52+00:00"
+    },
+    {
+      "id": "7d810ba3e961a61d",
+      "title": "A Antrópica soltou agentes de IA na mesma tarefa. Eles começaram uma guerra territorial.",
+      "summary": "Pesquisadores antrópicos descobriram que os agentes de IA podem entrar em conflito, conspirar e coordenar-se de maneiras inesperadas, levantando novas questões sobre se os testes de segurança atuais capturam os riscos de...",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-13T18:28:14+00:00"
+    },
+    {
+      "id": "7215c9d2d34e7fb8",
+      "title": "IA do YouTube agora está disponível para todos os usuários",
+      "summary": "O YouTube ampliou o acesso ao Ask YouTube , ferramenta de busca conversacional baseada em inteligência artificial. Antes disponível apenas para assinantes do YouTube Premium, o…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/ia-do-youtube-agora-esta-disponivel-para-todos-os-usuarios/",
+      "image": "https://tl.ctcdn.com.br/VvXYVnkI3w-f9Wh7xr1O6415y6A=/0x0/filters:format(webp):quality(85)/3ca9311b-1839-4369-8411-e108a6bcc44c.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-13T18:04:00+00:00"
+    },
+    {
+      "id": "a87cee1c6265a29e",
+      "title": "Google AI acaba de lançar Gemini 3.7 Flash: um modelo de codificação e agente com tokens de entrada de US$ 0,75/1 milhão",
+      "summary": "O Google lançou o Gemini 3.7 Flash, um refinamento do Gemini 3.6 Flash com melhorias algorítmicas em seu núcleo de raciocínio. Ele lida com texto, imagens, áudio e vídeo em um…",
+      "link": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-13T17:47:41+00:00"
+    },
+    {
+      "id": "3262c0ffb81d2d98",
+      "title": "O novo logotipo do Instagram é a personificação perfeita do desperdício de IA",
+      "summary": "Opinião: Algumas observações sobre a nova marca nominativa ser acidentalmente horrível.",
+      "link": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/instagram-2026-wordmark-500x500.png",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-13T17:32:10+00:00"
+    },
+    {
+      "id": "f8e7c0a262208bef",
+      "title": "Adotar IA ficou fácil. Difícil é fazê-la gerar resultado com orquestração",
+      "summary": "*Por Rafael Silva A velocidade com que novos modelos de inteligência artificial generativa foram incorporados ao mercado fez com que organizações de todos os setores corressem…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/adotar-ia-ficou-facil-dificil-e-faze-la-gerar-resultado-com-orquestracao/",
+      "image": "https://tl.ctcdn.com.br/QnmeTwxdKTv3ch1V621xXOELw4M=/0x0/filters:format(webp):quality(85)/e8e6c12e-f288-4550-b09b-3f2a7ed8c5b7.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-13T17:30:00+00:00"
+    },
+    {
+      "id": "a6644d0056589cfc",
+      "title": "Twitch passa a usar conteúdo de streamers para treinar IA da Amazon; veja como desativar",
+      "summary": "Nova configuração vem ativada por padrão e permite que transmissões, VODs, clipes, chats, imagens e textos sejam usados no treinamento de modelos de IA generativa da Amazon O post…",
+      "link": "https://olhardigital.com.br/2026/08/13/games-e-consoles/twitch-usa-streams-e-vods-para-treinar-ia-da-amazon/",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/08/Twitch-Twitch-1024x576.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-13T17:29:46+00:00"
+    },
+    {
+      "id": "353217afc4f706b5",
+      "title": "Grave, treine e implante em um só lugar com Strands Agents, LeRobot e Hugging Face Storage Buckets",
+      "summary": "",
+      "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-13T17:16:04+00:00"
+    },
+    {
+      "id": "1e4f95ab8f067610",
+      "title": "Nova decisão da Twitch sobre IA enfurece comunidade e criadores",
+      "summary": "A Twitch ativou por padrão uma opção que permite à Amazon utilizar conteúdos e lives dos canais de streamers para treinar seus modelos de inteligência artificial generativa . A…",
+      "link": "https://canaltech.com.br/games/nova-decisao-da-twitch-sobre-ia-enfurece-comunidade-e-criadores/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-13T17:16:00+00:00"
+    },
+    {
+      "id": "fab5dfcf93a17bed",
+      "title": "IA adapta respostas ao usuário e pode reforçar suas crenças",
+      "summary": "Estudo da Unicamp mostra que 21 modelos de IA mudaram respostas ao conhecer a orientação política dos usuários em um teste O post IA adapta respostas ao usuário e pode reforçar…",
+      "link": "https://olhardigital.com.br/2026/08/13/inteligencia-artificial/ia-adapta-respostas-ao-usuario-e-pode-reforcar-suas-crencas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/Destaque-Urna-eleitoral-Eleicoes-2026-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-13T17:14:23+00:00"
+    },
+    {
+      "id": "7f30c266438b8855",
+      "title": "OpenAI contrata novo CRO enquanto a mudança executiva continua",
+      "summary": "Dali Rajic assumirá o cargo de principal vendedor da OpenAI.",
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-13T17:07:13+00:00"
+    },
+    {
+      "id": "3b78235ea7599100",
+      "title": "Google anuncia Gemini 3.7 Flash apenas três semanas após o lançamento anterior",
+      "summary": "O Gemini 3.6 Flash estreou há apenas 3 semanas, mas o Google diz que o 3.7 tem “melhorias substanciais”.",
+      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-13T17:00:13+00:00"
+    },
+    {
+      "id": "d00944e12348f9f2",
+      "title": "Dê vida aos dados da sua planilha com a tela do Planilhas",
+      "summary": "O vídeo mostra a tela do Planilhas em ação.",
+      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-13T16:45:00+00:00"
+    },
+    {
+      "id": "a21d8ed6f8658b97",
+      "title": "A Deepseek envia o V4 Pro aprimorado, abre o código-fonte de seu software de agente e aumenta os preços da API",
+      "summary": "A Deepseek retirou seu carro-chefe V4-Pro da fase de testes e lançou seu software de agente, Harness v0.1, sob a licença do MIT. Os preços da API estão subindo ao mesmo tempo…",
+      "link": "https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/deepseek_red_whale.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-13T16:27:32+00:00"
+    },
+    {
+      "id": "5907436efdfd3057",
+      "title": "Suno está tentando se parecer mais com uma verdadeira ferramenta de produção musical",
+      "summary": "Suno está lançando o Studio 2.0 com atualizações significativas que o aproximam de uma estação de trabalho de áudio digital (DAW) real, em vez de um editor de áudio básico com IA generativa…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Suno_Studio2.0_Press_Hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-13T16:00:00+00:00"
+    },
+    {
+      "id": "5c817a0c5cffd26d",
+      "title": "Liquid AI lança LFM2.5-VL-3B: um modelo de linguagem de visão 3B que lê telas, aterra objetos e chama ferramentas no dispositivo",
+      "summary": "A Liquid AI lançou o LFM2.5-VL-3B, um modelo de linguagem de visão com parâmetros de 3,1B desenvolvido para implantação no dispositivo. A média é de 80,7 no ScreenSpot-v2 e aumenta o aterramento do RefCOCO de 57,1 para…",
+      "link": "https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-13T15:56:03+00:00"
+    },
+    {
+      "id": "0958cfec9de6b55a",
+      "title": "A Microsoft elimina recursos de IA malsucedidos ao mesclar seus aplicativos Copilot separados",
+      "summary": "A Microsoft está simplificando o Copilot combinando seus aplicativos de consumo e de negócios e eliminando podcasts gerados por IA, bate-papos em grupo, pesquisas profundas e seu personagem Mico.",
+      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-13T15:30:52+00:00"
+    },
+    {
+      "id": "e5256eb51dcec928",
+      "title": "Eu olhei dentro de um filme gerado por IA e as melhores partes eram todas humanas",
+      "summary": "Imagine um trio de rapazes ingleses desajeitados que fantasiam em se tornarem megastars enquanto bebem algumas cervejas em um pub sujo em algum lugar de Londres. Imagine os caras rindo e…",
+      "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/CullyHillBadge.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-13T15:30:00+00:00"
+    },
+    {
+      "id": "431a29bf6f3f0b97",
+      "title": "O novo plano de US$ 500 bilhões da Nvidia é arriscado, mas brilhante, especialmente para GPUs antigas",
+      "summary": "A Nvidia tem um plano para garantir que suas GPUs não percam valor. Quer convencer uma nova safra de financiadores a continuar emprestando para a construção de IA.",
+      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-13T15:08:00+00:00"
+    },
+    {
+      "id": "d8734847640efbe6",
+      "title": "Ling 3.0 Flash é o modelo aberto mais inteligente em seu tamanho",
+      "summary": "Ling 3.0 Flash é o modelo aberto mais inteligente em sua classe de tamanho. O artigo Ling 3.0 Flash é o modelo aberto mais inteligente em seu tamanho apareceu pela primeira vez no The Decoder.",
+      "link": "https://the-decoder.com/ling-3-0-flash-is-the-smartest-open-model-at-its-size/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Ling-3.0-Flash-title.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-13T15:03:04+00:00"
+    },
+    {
+      "id": "86802d0990e84c07",
+      "title": "Marcar médico e chamar encanador: Gemini passa a fazer tarefas do cotidiano",
+      "summary": "O Google anunciou uma expansão dos aplicativos conectados ao Gemini durante o evento “Made by Google”. A partir de agora, a IA vai integrar novos serviços de terceiros para ajudar…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/marcar-medico-e-chamar-encanador-gemini-passa-a-fazer-tarefas-do-cotidiano/",
+      "image": "https://tl.ctcdn.com.br/5Q8jm-cpysPTmmTb3lh8WA6o3mk=/0x0/filters:format(webp):quality(85)/6443c25f-47bf-4a8a-968f-87ac6aa5a8bf.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-13T15:01:00+00:00"
+    },
+    {
+      "id": "f3bbbeb07869ff0c",
+      "title": "DeepSeek cresce no mercado e lança nova IA para ameaçar ChatGPT e Claude",
+      "summary": "A empresa de IA chinesa DeepSeek lançou o novo modelo V4-Pro nesta quinta-feira (13) para bater de frente com ChatGPT e Claude. O lançamento ocorre no cenário em que a startup…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/deepseek-cresce-no-mercado-e-lanca-nova-ia-para-ameacar-chatgpt-e-claude/",
+      "image": "https://tl.ctcdn.com.br/ta7SEzATYees6o8W1yQvU-Y9Okg=/0x0/filters:format(webp):quality(85)/4b926cac-352b-484a-a861-df193fb23d21.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-13T14:27:51+00:00"
+    },
+    {
+      "id": "a7bd9dab3d2a5c89",
+      "title": "O Google quer mesmo vencer na IA?",
+      "summary": "Hoje no Decoder, estou conversando com Hayden Field, repórter sênior de IA do The Verge, sobre uma questão que tem crescido rapidamente na indústria de tecnologia na semana passada: o Google…",
+      "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_081226.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-13T14:10:31+00:00"
+    },
+    {
+      "id": "6aabf85ccea259e2",
+      "title": "Anthropic pode valer US$ 2 trilhões quando abrir o capital",
+      "summary": "O rápido crescimento da receita alimenta a esperança de que o IPO da Claude Maker seja a maior listagem da história",
+      "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-500x500-1773164045.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-13T13:58:56+00:00"
+    },
+    {
+      "id": "382a035e351942fe",
+      "title": "Flock está endurecendo suas regras em resposta a uma crescente reação de vigilância",
+      "summary": "A gigante da tecnologia policial Flock está anunciando hoje que mudará o acesso dos policiais à sua rede nacional de leitores de placas de veículos, em um aparente esforço para reprimir um crescente…",
+      "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-13T13:41:10+00:00"
+    },
+    {
+      "id": "6b576d0825326e86",
+      "title": "A Microsoft está combinando seus aplicativos Copilot antes de um ‘super aplicativo’",
+      "summary": "A Microsoft está finalmente começando a combinar seus assistentes Copilot AI comerciais e de consumo em uma única interface de \"super aplicativo\", começando com o Copilot e o Microsoft 365…",
+      "link": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_4636.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-13T13:30:00+00:00"
+    },
     {
       "id": "fbb238155cf39527",
       "title": "WhatsApp quer usar IA para barrar golpes e proteger usuários",
@@ -58,6 +344,17 @@
       "published_at": "2026-08-13T11:00:49+00:00"
     },
     {
+      "id": "6f8368ac763b7373",
+      "title": "O guia do construtor para GPT‑5.6",
+      "summary": "Saiba como as startups usam o GPT-5.6 para criar agentes de IA mais rápidos e econômicos, com seleção de modelos mais inteligentes e novos recursos de API de respostas.",
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-13T11:00:00+00:00"
+    },
+    {
       "id": "b9ea541db727ae51",
       "title": "A lenta adoção do Fable 5 sugere que a disposição corporativa de pagar pela IA de fronteira atingiu o limite",
       "summary": "O Fable 5 da Anthropic é considerado o modelo de IA mais poderoso do mercado, mas as empresas norte-americanas mal o compram. De acordo com dados da Ramp, Fable 5 representa apenas seis por cento…",
@@ -102,6 +399,17 @@
       "published_at": "2026-08-13T10:15:29+00:00"
     },
     {
+      "id": "c0986f6628d189a1",
+      "title": "Pré-visualização do modo Ultrafast: GPT-5.6 Sol em até 14X a velocidade",
+      "summary": "Visualize Ultrafast, um novo nível de serviço da API OpenAI que executa GPT-5.6 Sol até 14× mais rápido. Desenvolvido pela Cerebras, ele fornece até 750 tokens de saída por segundo.",
+      "link": "https://openai.com/index/previewing-ultrafast",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-13T10:00:00+00:00"
+    },
+    {
       "id": "d5a89f92a8c813f1",
       "title": "Como as crianças se sentem em relação à IA, em suas próprias palavras",
       "summary": "Quando decidimos conversar com as crianças sobre inteligência artificial, pensávamos que sabíamos o que ouviríamos. Esperávamos que alguns nos dissessem que estavam usando isso para trapacear um pouco, aliás…",
@@ -110,6 +418,17 @@
       "source": "MIT Tech Review",
       "region": "mundo",
       "category": "Pesquisa",
+      "published_at": "2026-08-13T09:00:00+00:00"
+    },
+    {
+      "id": "6eaab463a55def87",
+      "title": "OpenAI nomeia Dali Rajic como diretor de receita",
+      "summary": "A OpenAI nomeia Dali Rajic como Chief Revenue Officer para liderar sua organização de receitas globais e ajudar as empresas a aproveitarem todo o valor da IA.",
+      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
       "published_at": "2026-08-13T09:00:00+00:00"
     },
     {
@@ -144,6 +463,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-13T01:05:08+00:00"
+    },
+    {
+      "id": "57f8b7f378e9c39a",
+      "title": "O que aprendemos ao reproduzir 2.200 artigos do ICML",
+      "summary": "",
+      "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-13T00:00:00+00:00"
     },
     {
       "id": "989b6478c235c64e",
@@ -480,7 +810,7 @@
       "title": "A empresa de guitarras D’Addario admite que música de IA foi usada em um vídeo promocional",
       "summary": "Após semanas de polêmica e especulação, a gravadora D'Addario admitiu que a IA, especificamente Suno, foi usada como parte de um vídeo promocional recente. Durante quase duas semanas…",
       "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1583922033086.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK467_AI_MUSIC_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
@@ -661,336 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-12T11:53:31+00:00"
-    },
-    {
-      "id": "95f3a4714a19f5b0",
-      "title": "Gemini alcança 1 bilhão de usuários e muda o jogo dos chatbots de IA",
-      "summary": "ChatGPT e Gemini alcançam 1 bilhão de usuários, mas o Google cresce mais rápido e reduz a vantagem da OpenAI na corrida O post Gemini alcança 1 bilhão de usuários e muda o jogo…",
-      "link": "https://olhardigital.com.br/2026/08/12/inteligencia-artificial/gemini-alcanca-1-bilhao-de-usuarios-e-muda-o-jogo-dos-chatbots-de-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/modelos-de-ia-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-12T11:15:56+00:00"
-    },
-    {
-      "id": "35caf8be34f50040",
-      "title": "A Casa do Dragão: as 5 mortes mais brutais da temporada 3",
-      "summary": "A Casa do Dragão não seria a irmã mais nova de Game of Thrones se não contasse com um elemento marcante de sua antecessora: as mortes brutais . E foi exatamente isso que a…",
-      "link": "https://canaltech.com.br/entretenimento/a-casa-do-dragao-as-5-mortes-mais-brutais-da-temporada-3/",
-      "image": "https://tl.ctcdn.com.br/nHWtqSdBpDVg6EfYjuwSnHqnEiY=/0x0/filters:format(webp):quality(85)/24c5ba20-ef61-4afb-b235-9cb203a118a0.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-12T11:01:00+00:00"
-    },
-    {
-      "id": "6b4666838bd75dd4",
-      "title": "A avaliação da startup de teste de código de IA Blacksmith salta quase 10 vezes em menos de um ano",
-      "summary": "Blacksmith diz que a receita cresceu mais de dez vezes no ano passado.",
-      "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-12T11:00:00+00:00"
-    },
-    {
-      "id": "b5ba3e29f52561b1",
-      "title": "O novo MAI Code 1.1 Flash da Microsoft é esmagado pela Deepseek em preço e desempenho",
-      "summary": "A Microsoft lançou o MAI Code 1.1 Flash, um modelo de código para GitHub Copilot que é considerado 25% mais eficiente em termos de tokens por um quarto do custo de seu antecessor. Em…",
-      "link": "https://the-decoder.com/microsofts-new-mai-code-1-1-flash-gets-crushed-by-deepseek-on-both-price-and-performance/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/microsoft_logo_red_pink.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-12T10:18:46+00:00"
-    },
-    {
-      "id": "e2ebf48cbd848812",
-      "title": "Mistral agora oferece processamento de dados da UE e acesso prioritário, mas ambos apresentam limites importantes",
-      "summary": "A Mistral está oferecendo aos clientes a opção de rotear solicitações de IA por meio de servidores na Europa ou nos EUA e vender acesso prioritário à fila durante o pico de tráfego. Ambos vêm com um…",
-      "link": "https://the-decoder.com/mistral-now-offers-eu-data-processing-and-priority-access-but-both-come-with-important-limits/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Mistral-third-party-models.webp",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-12T09:59:27+00:00"
-    },
-    {
-      "id": "77c42709a5914823",
-      "title": "NVIDIA AI lança Nemotron 3.5 Lightning: um MoE aberto de 30B com parâmetros ativos de 3B e roteador modelo NeMo Switchyard",
-      "summary": "O MoE 30B aberto da NVIDIA tem como alvo a camada de execução do agente, com Switchyard roteando cada etapa para o modelo com capacidade mais barata. A postagem NVIDIA AI lança Nemotron 3.5 Lightning: A 30B…",
-      "link": "https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-12T06:59:40+00:00"
-    },
-    {
-      "id": "e063daae6225e156",
-      "title": "Da assistência à execução: como as empresas colocam a IA para funcionar",
-      "summary": "A pesquisa da OpenAI revela como as empresas estão adotando a IA de agência, usando ChatGPT e Codex, e como as empresas de ponta estão avançando na adoção da IA.",
-      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-12T06:00:00+00:00"
-    },
-    {
-      "id": "517b7d11e669674d",
-      "title": "Os lançamentos MiLM Plus da Xiaomi PROVE: Métricas de remoção de objetos alinhadas à percepção RC-S e RC-T com um benchmark de vídeo do mundo real",
-      "summary": "Os modelos de remoção de objetos melhoraram mais rapidamente do que as métricas usadas para julgá-los. As borrachas de difusão agora reconstroem sombras, reflexos e estruturas oclusas de forma convincente, mas...",
-      "link": "https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-12T05:05:52+00:00"
-    },
-    {
-      "id": "f2a50b9d10bd951a",
-      "title": "SpaceX pode faturar até R$ 2,6 trilhões por ano com IA, diz Elon Musk",
-      "summary": "Projeção foi apresentada pelo fundador e CEO da SpaceX durante reunião com funcionários O post SpaceX pode faturar até R$ 2,6 trilhões por ano com IA, diz Elon Musk apareceu…",
-      "link": "https://olhardigital.com.br/2026/08/11/pro/spacex-pode-faturar-ate-r-2-6-trilhoes-por-ano-com-ia-diz-elon-musk/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/elon-musk-entrevista-X-1-1024x695.jpeg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-12T01:57:28+00:00"
-    },
-    {
-      "id": "8946d516f8a3a20a",
-      "title": "Fala AI: Casos de IA hackeando sistemas se multiplicam — o que vem a seguir?",
-      "summary": "Um agente de IA recebeu a missão de reservar uma aula em uma academia, mas acabou hackeando o sistema O post Fala AI: Casos de IA hackeando sistemas se multiplicam — o que vem a…",
-      "link": "https://olhardigital.com.br/2026/08/11/colunistas/fala-ai-casos-de-ia-hackeando-sistemas-se-multiplicam-o-que-vem-a-seguir/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-12T01:01:46+00:00"
-    },
-    {
-      "id": "2d93b9c8f35a1abe",
-      "title": "Saber nega substituir os redatores do Rideshare Stimulator pelo ChatGPT",
-      "summary": "Depois que um ex-redator principal afirmou que o Sabre \"me substituiu pelo ChatGPT\", o CEO Matthew Karch agora afirma: \"Nem o Sabre nem o Unigine substituíram nenhum escritor por IA\", para o Rideshare…",
-      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/RS_storefronts_3840x2160_8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-12T00:39:26+00:00"
-    },
-    {
-      "id": "9bafa93fe08b847d",
-      "title": "Como o RingCentral cria trabalho nativo de IA, da engenharia às operações",
-      "summary": "Veja como o RingCentral usa ChatGPT Work e Codex para acelerar o desenvolvimento de produtos de IA e centralizar a inteligência operacional em engenharia e operações.",
-      "link": "https://openai.com/index/ringcentral",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-12T00:00:00+00:00"
-    },
-    {
-      "id": "07bca4e034bba4bb",
-      "title": "Anthropic busca especialistas para impedir que suas IAs fiquem perigosas demais",
-      "summary": "Empresa busca especialistas em áreas como cibersegurança, biologia, química, riscos nucleares e fraude para identificar formas de abuso e reforçar as barreiras de segurança da IA…",
-      "link": "https://olhardigital.com.br/2026/08/11/inteligencia-artificial/anthropic-busca-especialistas-para-impedir-que-suas-ias-fiquem-perigosas-demais/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/anthropic-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-11T23:30:00+00:00"
-    },
-    {
-      "id": "f45bb0ff7010cb29",
-      "title": "OpenAI deixa de ter profissional responsável pela parte ética das IAs",
-      "summary": "A eticista Chloé Bakalar deixou a OpenAI com pouco menos de um ano na empresa, de acordo com o jornal Financial Times. Bakalar ocupava a função de Líder de Ética na companhia e o…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/openai-deixa-de-ter-profissional-responsavel-pela-parte-etica-das-ias/",
-      "image": "https://tl.ctcdn.com.br/cdlPlMjYm4kW5Pa1kMw6ZVGVOLE=/0x0/filters:format(webp):quality(85)/f25244cd-734f-485a-80fb-56254b2f14e7.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-11T21:15:00+00:00"
-    },
-    {
-      "id": "7f3aa25a482d3821",
-      "title": "Deepfake falha e expõe rosto de golpista",
-      "summary": "Suspeito se passava pelas vítimas usando IA e tentava obter certificados digitais. Caso aconteceu na Espanha. Deepfake falha e expõe rosto de golpista",
-      "link": "https://tecnoblog.net/noticias/deepfake-falha-e-expoe-rosto-de-golpista/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/11/tecnocast-268_capa-2-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-11T21:12:17+00:00"
-    },
-    {
-      "id": "8f375c759944e0c4",
-      "title": "IA descobre falha no Zoom que permitia invadir PCs e celulares",
-      "summary": "Brecha no recurso de anotação de tela foi explorada usando menos de 20 comandos de texto; plataforma de videoconferência já liberou atualização. IA descobre falha no Zoom que…",
-      "link": "https://tecnoblog.net/noticias/falha-no-zoom-descoberta-por-ia-permitia-invadir-pcs-e-celulares/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/03/capa-zoom-2_tb-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-11T21:07:15+00:00"
-    },
-    {
-      "id": "3b4f9c1d14483c79",
-      "title": "Placas GeForce RTX 50 ficaram até 39% mais caras já em agosto",
-      "summary": "Diversos rumores apontaram para um encarecimento das placas de vídeo, especialmente da NVIDIA . Diferentes levantamentos feitos no território norte-americano agora mostram que…",
-      "link": "https://canaltech.com.br/hardware/placas-geforce-rtx-50-ficaram-ate-39-mais-caras-ja-em-agosto/",
-      "image": "https://tl.ctcdn.com.br/jvC70fohAwmPoZiD3eAZqOE2vG8=/0x0/filters:format(webp):quality(85)/8cb80b8b-de74-4fab-8f4f-fd2466ffca76.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-11T20:15:00+00:00"
-    },
-    {
-      "id": "661dd1c49f7288f9",
-      "title": "A pilha de produção de vídeo agora cabe em uma mesa: LTX-2.5 é lançado como modelo mundial de peso aberto acelerado pela NVIDIA",
-      "summary": "LTX-2.5 traz geração de vídeo de ponta para hardware NVIDIA local: clipes de 6,8 segundos, multishot nativo, ComfyUI de primeiro dia, pesos abertos. A postagem A pilha de produção de vídeo agora cabe…",
-      "link": "https://www.marktechpost.com/2026/08/11/the-video-production-stack-now-fits-on-one-desk-ltx-2-5-launches-as-nvidia-accelerated-open-weights-world-model/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-11T20:02:03+00:00"
-    },
-    {
-      "id": "260dfaa5912e4c9a",
-      "title": "Por que as grandes empresas querem levar data centers de IA para o espaço?",
-      "summary": "A SpaceX, Amazon e Blue Origin são algumas das companhias aeroespaciais que solicitaram autorização à Comissão Federal de Comunicações dos EUA para lançar mais de um milhão de…",
-      "link": "https://canaltech.com.br/ciencia-e-espaco/por-que-as-grandes-empresas-querem-levar-data-centers-de-ia-para-o-espaco/",
-      "image": "https://tl.ctcdn.com.br/gFHvrFrOwD-4AshtI_fJsaiiMn4=/0x0/filters:format(webp):quality(85)/be6d64c5-ebc5-40fd-abd4-d60b0bc5087e.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-11T20:00:04+00:00"
-    },
-    {
-      "id": "5d3a4fa1879ebb9c",
-      "title": "Gemini se torna o produto de crescimento mais rápido do Google ao atingir 1 bilhão de usuários",
-      "summary": "Mas será que o aumento da Gemini sobreviverá à desaceleração do lançamento de modelos?",
-      "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-11T19:48:12+00:00"
-    },
-    {
-      "id": "7d86757ea2a6f978",
-      "title": "ChatGPT e Gemini acabaram de ultrapassar 1 bilhão de usuários",
-      "summary": "Pela 14ª vez, um produto do Google atingiu 1 bilhão de usuários. O CEO do Google, Sundar Pichai, postou no X que um bilhão de pessoas estão usando o Gemini todos os meses, e que o Gemini é o Google…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-11T19:41:42+00:00"
-    },
-    {
-      "id": "ff47b8bea69571c6",
-      "title": "OpenAI lança aplicativo de desktop ChatGPT para Linux",
-      "summary": "OpenAI está finalmente trazendo um aplicativo de desktop ChatGPT dedicado para sistemas operacionais Linux.",
-      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-11T19:15:35+00:00"
-    },
-    {
-      "id": "4d541cfeabbfd37b",
-      "title": "O dever de agir da inteligência artificial: quem responde diante de uma ameaça?",
-      "summary": "Durante décadas, a responsabilidade das empresas de tecnologia esteve concentrada em uma pergunta relativamente simples. Até onde uma plataforma responde pelo conteúdo produzido…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/o-dever-de-agir-da-inteligencia-artificial-quem-responde-diante-de-uma-ameaca/",
-      "image": "https://tl.ctcdn.com.br/kbMYSXNZjqnhOXNsP3rM2P_zOGY=/0x0/filters:format(webp):quality(85)/ce48d734-cea8-462a-86ed-172bdd57ae1b.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-11T19:00:01+00:00"
-    },
-    {
-      "id": "6d1c60f6173d7662",
-      "title": "O aplicativo Gemini do Google atinge um bilhão de usuários",
-      "summary": "Gemini está acompanhando o ChatGPT da OpenAI, que atingiu 1 bilhão de usuários ativos mensais em junho.",
-      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-11T18:49:12+00:00"
-    },
-    {
-      "id": "ac826e9afd96bc2a",
-      "title": "Nissan usa IA em fábrica e economiza uma fortuna",
-      "summary": "A Nissan trouxe a inteligência artificial para sua fábrica em Canton , nos Estados Unidos. O novo sistema adotado pela empresa analisa os movimentos repetitivos dos operários na…",
-      "link": "https://canaltech.com.br/carros/nissan-usa-ia-em-fabrica-e-economiza-uma-fortuna/",
-      "image": "https://tl.ctcdn.com.br/M_z0gmPuhH6o8MMKmVHjxXT8FZk=/0x0/filters:format(webp):quality(85)/51e04999-43f4-47bc-b655-c80a50e5cac9.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-11T18:05:00+00:00"
-    },
-    {
-      "id": "1446df2734e581a4",
-      "title": "OpenAI permite que funcionários sacem outros US$ 7 bilhões em ações",
-      "summary": "A OpenAI concluiu uma recompra de ações de US$ 7 bilhões, permitindo que funcionários atuais e ex-funcionários vendessem ações na avaliação da empresa de US$ 852 bilhões. A medida visa aliviar a pressão sobre…",
-      "link": "https://the-decoder.com/openai-lets-employees-cash-out-another-7-billion-in-stock/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_large_right.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-11T18:01:22+00:00"
-    },
-    {
-      "id": "0cccc9a6cf1b43b7",
-      "title": "Outro executivo da OpenAI decola",
-      "summary": "Brad Lightcap, líder de projetos especiais da OpenAI e ex-COO da empresa, anunciou sua saída após um período de oito anos no laboratório de IA. Em um memorando interno que ele postou mais tarde para…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2151647832.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-11T17:50:01+00:00"
-    },
-    {
-      "id": "648de071233c2c7b",
-      "title": "Asus Vivobook S14: análise do notebook com processador Intel e 16 GB de RAM",
-      "summary": "Modelo já vem preparado para a era da IA e tem 512 GB de SSD; confira mais e saiba se ele se encaixa nas suas necessidades O post Asus Vivobook S14: análise do notebook com…",
-      "link": "https://olhardigital.com.br/2026/08/11/reviews/asus-vivobook-s14-analise-do-notebook-com-processador-intel-e-16-gb-de-ram/",
-      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/08/asus2-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-11T17:45:00+00:00"
-    },
-    {
-      "id": "1154a9fd6d8aea1b",
-      "title": "Brad Lightcap, COO de longa data da OpenAI, está saindo para ‘começar algo novo’",
-      "summary": "Um dos executivos mais antigos da OpenAI está saindo, embora o COO de longa data tenha dito à equipe que estava “animado em ajudar todos vocês a avançar na missão de um ponto de vista diferente…",
-      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-11T17:41:34+00:00"
-    },
-    {
-      "id": "4a3a16344e7faccb",
-      "title": "General Catalyst lidera rodada de US$ 1,1 bilhão em River AI, com 2 meses de idade",
-      "summary": "River AI, uma startup fundada pelo cofundador da xAI, Igor Babuschkin, tem uma visão fascinante para agentes pessoais e garantiu US$ 1,1 bilhão desde o início.",
-      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-11T17:41:22+00:00"
     }
   ]
 }
