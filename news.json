@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-08-13T19:00:34.770582+00:00",
+  "generated_at": "2026-08-14T01:47:32.160784+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "1790f5275e53f4cb",
+      "title": "Receita anualizada da OpenAI supera R$ 207 bilhões, aponta site",
+      "summary": "Valor representa aproximadamente o dobro do ritmo de receita registrado pela companhia no fim de 2025 O post Receita anualizada da OpenAI supera R$ 207 bilhões, aponta site…",
+      "link": "https://olhardigital.com.br/2026/08/13/pro/receita-anualizada-da-openai-supera-r-207-bilhoes-aponta-site/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/chatgpt-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-13T23:44:47+00:00"
+    },
+    {
+      "id": "c8845e5a1b9d0ddc",
+      "title": "WhatsApp testa IA no celular para identificar golpes antes que você caia neles",
+      "summary": "Chamado de Scam Alert, sistema analisa mensagens no próprio aparelho e pode exibir alerta caso o modelo considere que uma conversa apresenta características de tentativa de fraude…",
+      "link": "https://olhardigital.com.br/2026/08/13/internet-e-redes-sociais/whatsapp-testa-ia-no-celular-para-identificar-golpes-antes-que-voce-caia-neles/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/12/hacker-whatsapp-scaled-e1767883657583-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-13T23:10:50+00:00"
+    },
+    {
+      "id": "da231860f502f10c",
+      "title": "O personagem Mico, parecido com o Clippy, da Microsoft não é mais o rosto do Copilot",
+      "summary": "O Microsoft Copilot não mostrará mais sua emotiva bolha amarela, Mico, quando você usar o modo de voz do chatbot. Em uma página de suporte, a Microsoft diz que vai migrar o Mico para o Learn…",
+      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-13T21:42:38+00:00"
+    },
+    {
+      "id": "90a748aad94106aa",
+      "title": "Mais do que implantar IA, CSCs precisam preparar a operação",
+      "summary": "*Por Mario Oliveira A inteligência artificial já entrou no radar dos Centros de Serviços Compartilhados brasileiros. Levantamentos do IEG (Instituto de Engenharia e Gestão…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/mais-do-que-implantar-ia-cscs-precisam-preparar-a-operacao/",
+      "image": "https://tl.ctcdn.com.br/LUt6KrBPMZxji6mn78vaTF8H74k=/0x0/filters:format(webp):quality(85)/beb5c456-8130-4b86-81ea-79afc8bbd313.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-13T21:30:00+00:00"
+    },
+    {
+      "id": "d093a86475f74032",
+      "title": "Writer apresenta novo modelo de IA e equipamento atualizado para conter custos de token",
+      "summary": "Construído como uma variação pós-treinamento do modelo de código aberto GLM-5.2 da Z.ai, Writer diz que o novo sistema deve fornecer recursos prontos para implantação a um preço muito mais baixo.",
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-13T21:13:24+00:00"
+    },
+    {
+      "id": "e665d084820137ec",
+      "title": "Google lança Gemini 3.7 Flash apenas três semanas após versão anterior",
+      "summary": "Modelo leve da IA do Google ganha atualização que custa metade do preço para concorrer com serviços chineses. Google lança Gemini 3.7 Flash apenas três semanas após versão anterior",
+      "link": "https://tecnoblog.net/noticias/google-lanca-gemini-3-7-flash-apenas-tres-semanas-apos-versao-anterior/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-3-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-13T20:44:57+00:00"
+    },
+    {
+      "id": "ec89247e2958dd87",
+      "title": "\"iFood chinês\" lança caixa para motoboy que esquenta comida no trajeto",
+      "summary": "A JD.com, gigante do e-commerce chinês que também atua no segmento de delivery, começou a usar uma nova caixa inteligente para entregadores que mantém a comida aquecida durante o…",
+      "link": "https://canaltech.com.br/produtos/ifood-chines-lanca-caixa-para-motoboy-que-esquenta-comida-no-trajeto/",
+      "image": "https://tl.ctcdn.com.br/bZsbZOwhwVQWnFPQuV0wN4OPe34=/0x0/filters:format(webp):quality(85)/52dcc182-1781-4424-8664-b53bef186836.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-13T20:40:20+00:00"
+    },
+    {
+      "id": "0d7bf7f86bc1b4fb",
+      "title": "A Databricks queria levantar US$ 1 bilhão, os investidores queriam US$ 15 bilhões. Ele fechou em US$ 5 bilhões com uma avaliação de US$ 190 bilhões.",
+      "summary": "IA é cara, disse Ali Ghodsi ao TechCrunch. Com tantos investidores querendo participar de sua última rodada, ele disse sim a mais do que o planejado.",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-13T20:14:39+00:00"
+    },
+    {
+      "id": "27a3074fb76a1dfc",
+      "title": "Meta quer usar IA para combater golpes no WhatsApp",
+      "summary": "Modelo analisa mensagens em tempo real e funciona no próprio aparelho, sem depender da nuvem. Meta quer usar IA para combater golpes no WhatsApp",
+      "link": "https://tecnoblog.net/noticias/meta-quer-usar-ia-para-combater-golpes-no-whatsapp/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/06/whatsapp_capa-2_tb-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-13T20:08:46+00:00"
+    },
+    {
+      "id": "356a89b6ea55d449",
+      "title": "O novo recurso de bate-papo do Suno Studio 2.0 permite que você converse com seu DAW como se fosse um colega de banda",
+      "summary": "Com o Studio 2.0, a Suno transforma sua plataforma musical de IA em uma ferramenta de produção completa para assinantes Premier. Um recurso de bate-papo cria instrumentos e plug-ins via texto, enquanto a importação MIDI…",
+      "link": "https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/suno_ai_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-13T19:39:54+00:00"
+    },
+    {
+      "id": "32bc4b8d7d79ba6d",
+      "title": "OpenAI is losing its second executive this week",
+      "summary": "Outro executivo da OpenAI está de partida. Denise Dresser, que ingressou na OpenAI como diretora de receita em dezembro, após atuar como CEO do Slack, sairá no \"próximo…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275749204.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-13T19:28:39+00:00"
+    },
+    {
+      "id": "6f1bf72c97e7993e",
+      "title": "OpenAI apresenta ‘Ultrafast’, um novo modo que faz o GPT-5.6 Sol funcionar a 14x mais velocidade",
+      "summary": "A OpenAI está lançando uma prévia de uma versão acelerada de seu modelo mais recente e poderoso, em um esforço para cortejar os usuários corporativos.",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-13T19:22:40+00:00"
+    },
+    {
+      "id": "127828fdab3faf4d",
+      "title": "IBM faz parceria com OpenAI para reforçar impulso de IA empresarial",
+      "summary": "A IBM planeja treinar e certificar dezenas de milhares de consultores nas tecnologias OpenAI como parte deste acordo.",
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-13T19:19:49+00:00"
+    },
     {
       "id": "09d115fecd68e83d",
       "title": "Gemini 3.7 Flash chega com ganhos de codificação e reduz em 50% o preço de seu antecessor de três semanas",
@@ -848,149 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-12T15:19:17+00:00"
-    },
-    {
-      "id": "da40c54dd81a5aad",
-      "title": "Tudo anunciado no Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag e vários recursos do Gemini",
-      "summary": "Da série Pixel 11 e um novo concorrente do AirTag da Apple, aqui estão todos os anúncios do evento Made by Google 2026.",
-      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-12T14:20:33+00:00"
-    },
-    {
-      "id": "f507f7ad25086078",
-      "title": "Vazamentos revelam detalhes e preço do novo Acer Googlebook 14 com tela OLED",
-      "summary": "O mercado aguarda a chegada de novidades interessantes no segmento de notebooks em breve. Um deles tem a ver com o NVIDIA RTX Spark e o outro é referente aos novos Googlebook …",
-      "link": "https://canaltech.com.br/notebook/vazamentos-revelam-detalhes-e-preco-do-novo-acer-googlebook-14-com-tela-oled/",
-      "image": "https://tl.ctcdn.com.br/Wwm6Bbxbjh5zJaqas1USzsLMNIk=/0x0/filters:format(webp):quality(85)/796f95a8-cd5f-453f-b407-d721aea30cc0.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-12T14:15:00+00:00"
-    },
-    {
-      "id": "2c563947428818b9",
-      "title": "LFM2.5-VL-3B para capacidades de visão melhores e mais rápidas para a borda",
-      "summary": "",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-12T14:00:51+00:00"
-    },
-    {
-      "id": "b926419d1bf47342",
-      "title": "Pixel Watch 5 do Google se aprofunda em IA e saúde",
-      "summary": "O Google Pixel Watch 5, de US$ 399, não se trata de hardware. Claro, há um novo acabamento em pirita acetinada, algumas novas cores de pulseira e uma edição especial Steph Curry. Sob o capô…",
-      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Watch-5-on-stand.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-12T14:00:00+00:00"
-    },
-    {
-      "id": "fe9f2600860188d5",
-      "title": "A linha Pixel 11 do Google oferece menos mudanças de hardware, mas muito mais Gemini",
-      "summary": "A série Google Pixel 11 começa US$ 100 mais cara que no ano passado, mas oferece armazenamento básico de 256 GB.",
-      "link": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-12T14:00:00+00:00"
-    },
-    {
-      "id": "922b89bc6eee7e46",
-      "title": "O fundador da startup jurídica, Robert Mahari, junta-se à Anthropic para liderar a investida de Claude na prática jurídica",
-      "summary": "Robert Mahari é o primeiro “Chefe do Claude for Legal” da Anthropic, responsável por implantar e expandir o modelo Claude AI em todo o setor jurídico. O artigo Inicialização jurídica…",
-      "link": "https://the-decoder.com/legal-startup-founder-robert-mahari-joins-anthropic-to-lead-claudes-push-into-law-practices/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/07/claude_education.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-12T13:51:18+00:00"
-    },
-    {
-      "id": "530fa4479bd2d191",
-      "title": "Spotify vai rotular \"artistas de IA\" e barrar recomendações",
-      "summary": "O Spotify anunciou novos selos de “Persona de IA” para identificar perfis de artistas cuja identidade pública é criada por inteligência artificial. A novidade já está disponível…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/spotify-vai-rotular-artistas-de-ia-e-barrar-recomendacoes/",
-      "image": "https://tl.ctcdn.com.br/bxUwAR9bbyKFklwbqtLmXXNDxpw=/0x0/filters:format(webp):quality(85)/c0c7613c-c237-4183-b85f-f4e75dc132b1.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-12T13:04:00+00:00"
-    },
-    {
-      "id": "74a68896af8f643a",
-      "title": "A soberania digital brasileira começa pela capacidade de transformar dados em conhecimento",
-      "summary": "*Por Carol Luck A inteligência artificial colocou os dados no centro da disputa econômica global. Mas, antes de discutir quais modelos de IA o Brasil será capaz de desenvolver…",
-      "link": "https://canaltech.com.br/mercado/a-soberania-digital-brasileira-comeca-pela-capacidade-de-transformar-dados-em-conhecimento/",
-      "image": "https://tl.ctcdn.com.br/XLnBWoucofkxPC7UVbjchiSqDLg=/0x0/filters:format(webp):quality(85)/18013c63-0bf3-4eda-b76e-5f3448cd184f.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-12T12:44:36+00:00"
-    },
-    {
-      "id": "01ce2cf2d2909164",
-      "title": "O Nemotron 4 da Nvidia visa um trilhão de parâmetros, uma escala que os laboratórios chineses já superaram",
-      "summary": "A Nvidia está trabalhando no Nemotron 4, um novo modelo aberto projetado para rivalizar com os melhores modelos disponíveis gratuitamente no mundo. O artigo Nemotron 4 da Nvidia visa um trilhão…",
-      "link": "https://the-decoder.com/nvidias-nemotron-4-aims-for-one-trillion-parameters-a-scale-chinese-labs-already-surpassed/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-12T12:37:58+00:00"
-    },
-    {
-      "id": "4bd8fabd2972945b",
-      "title": "Apple testa selo de \"foto real\" para provar que imagem não é feita por IA",
-      "summary": "Diante de um cenário em que muitas empresas liberam funções para provar que uma imagem foi gerada por IA, a Apple quer seguir um caminho contrário: a empresa testa uma nova forma…",
-      "link": "https://canaltech.com.br/apps/apple-testa-selo-de-foto-real-para-provar-que-imagem-nao-e-feita-por-ia/",
-      "image": "https://tl.ctcdn.com.br/epQwcNtN_RYom0vzSU0cluAPycE=/0x0/filters:format(webp):quality(85)/bfd93ed1-cb2d-4fd6-a49b-fd1130b205e1.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-12T12:19:25+00:00"
-    },
-    {
-      "id": "2c1f64cc9d2df1bf",
-      "title": "É claro que a vacina contra o câncer de cães ChatGPT gerou uma startup",
-      "summary": "Lembra daquela história muito comentada sobre um empresário australiano de tecnologia usando ChatGPT, Grok e outras ferramentas de IA para criar uma vacina personalizada contra o câncer para seu cachorro? Bem, surpresa…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/acastro_201217_1777_vaccine_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-12T12:09:34+00:00"
-    },
-    {
-      "id": "937e54c9e405b2db",
-      "title": "Grok agora é um ‘companheiro de equipe’ de IA ao qual você pode atribuir trabalho",
-      "summary": "A SpaceXAI introduziu o Grok Bot, um serviço de agente de IA sempre ativo, projetado para se comportar como “companheiros de equipe de IA” independentes que podem fazer o trabalho por você. Os bots compartilham seus próprios…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Grok-Bot-desktop-and-iOS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-12T11:58:54+00:00"
-    },
-    {
-      "id": "749a3c85966a4919",
-      "title": "OpenAI lança aplicativo de desktop ChatGPT para Linux",
-      "summary": "OpenAI traz seu aplicativo de desktop ChatGPT para Linux. O artigo OpenAI lança aplicativo de desktop ChatGPT para Linux apareceu pela primeira vez no The Decoder.",
-      "link": "https://the-decoder.com/openai-launches-chatgpt-desktop-app-for-linux/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/linux.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-12T11:53:31+00:00"
     }
   ]
 }
