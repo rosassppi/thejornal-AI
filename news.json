@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-14T01:47:32.160784+00:00",
+  "generated_at": "2026-08-14T07:21:51.251529+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "b0b6dd757a5d650d",
+      "title": "ChatGPT vai lembrar o que você faz em apps e sites",
+      "summary": "Ideia é permitir que chatbot tenha acesso ao contexto do que o usuário fez anteriormente no computador, reduzindo necessidade de explicar novamente tarefas ou informações já…",
+      "link": "https://olhardigital.com.br/2026/08/13/inteligencia-artificial/chatgpt-vai-lembrar-o-que-voce-faz-em-apps-e-sites/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/chatgpt-macbook-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-14T01:06:04+00:00"
+    },
     {
       "id": "1790f5275e53f4cb",
       "title": "Receita anualizada da OpenAI supera R$ 207 bilhões, aponta site",
@@ -980,17 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-12T15:20:26+00:00"
-    },
-    {
-      "id": "8fbaff8595a9ec21",
-      "title": "Livreiros suspeitam que empresas de IA estão comprando e destruindo livros raros",
-      "summary": "As empresas de IA que compram silenciosamente livros raros em massa enfrentam resistência dos livreiros.",
-      "link": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-162426304-500x500-1786543365.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-12T15:19:17+00:00"
     }
   ]
 }
