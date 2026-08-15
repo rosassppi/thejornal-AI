@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-15T01:07:37.390952+00:00",
+  "generated_at": "2026-08-15T06:34:54.822193+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "d2e4667f6f799569",
+      "title": "A “tragédia dos bens comuns cognitivos” explica como a adoção racional da IA ​​poderia destruir a experiência de profissões inteiras",
+      "summary": "Um novo artigo de pesquisa enquadra a adoção da IA ​​como uma “tragédia dos bens comuns cognitivos”. Cada empresa que corta empregos iniciais se beneficia individualmente, mas a experiência coletiva de…",
+      "link": "https://the-decoder.com/the-tragedy-of-the-cognitive-commons-explains-how-rational-ai-adoption-could-destroy-entire-professions-expertise/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/ai_jobs_young_people_cognitive_decline.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-15T06:00:52+00:00"
+    },
+    {
+      "id": "e9d0c27aa19d6217",
+      "title": "Novo benchmark confirma que os modelos de IA ainda apresentam desempenho ruim na percepção visual",
+      "summary": "O PerceptionBench da Moonshot AI testa quão bem os modelos de IA multimodais podem realmente “ver”, separados do raciocínio lógico. Nenhum modelo de fronteira atinge 60 por cento de precisão e GPT-5.6…",
+      "link": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/perceptionbench-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-15T05:30:18+00:00"
+    },
+    {
+      "id": "b42313bc6029c8b1",
+      "title": "Nvidia reduz garantia de financiamento de data center da OpenAI",
+      "summary": "Revisão foi feita para responder às preocupações de investidores sobre a exposição financeira da Nvidia O post Nvidia reduz garantia de financiamento de data center da OpenAI…",
+      "link": "https://olhardigital.com.br/2026/08/14/pro/nvidia-reduz-garantia-de-financiamento-de-data-center-da-openai/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/openai-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-15T00:46:15+00:00"
+    },
     {
       "id": "68f1f02ff2abaaac",
       "title": "Nvidia tem participação bilionária na SpaceX",
@@ -958,39 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-13T12:43:55+00:00"
-    },
-    {
-      "id": "8ece76b114d7e3f0",
-      "title": "Factorial aposta em agente de IA para assumir tarefas repetitivas de RHs",
-      "summary": "A Factorial colocou o One, seu agente de inteligência artificial (IA) , no centro de suas ações para o mercado brasileira. A nova estratégia foi anunciada em primeira mão ao…",
-      "link": "https://canaltech.com.br/mercado/factorial-aposta-em-agente-de-ia-para-assumir-tarefas-repetitivas-de-rhs/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-13T11:40:02+00:00"
-    },
-    {
-      "id": "6d3a5f69bc5b987f",
-      "title": "A nova marca d’água Scarlet Letter de Claude é invisível – por enquanto",
-      "summary": "A marca sinaliza qualquer coisa que Claude tenha processado, mesmo a escrita humana apenas editada.",
-      "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/claude-psycho-watermark-500x500-1786564039.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-13T11:10:18+00:00"
-    },
-    {
-      "id": "eba56c451327893d",
-      "title": "TSE pode definir novo limite para deepfakes nas eleições de 2026",
-      "summary": "TSE debate proibição de deepfakes nas eleições após vídeo de Bolsonaro feito com IA ser exibido em convenção de Flávio Bolsonaro O post TSE pode definir novo limite para deepfakes…",
-      "link": "https://olhardigital.com.br/2026/08/13/inteligencia-artificial/tse-pode-definir-novo-limite-para-deepfakes-nas-eleicoes-de-2026/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/tse-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-13T11:00:49+00:00"
     }
   ]
 }
