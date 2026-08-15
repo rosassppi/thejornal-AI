@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-08-15T12:33:19.701679+00:00",
+  "generated_at": "2026-08-15T18:26:19.116307+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "42aec9dff86e911e",
+      "title": "Echo Dot em destaque: veja uma seleção de Smart Speakers com Alexa em promoção na Amazon",
+      "summary": "Se você quer deixar a casa mais inteligente sem complicação, os Smart Speakers com Alexa são uma das escolhas mais práticas do mercado. Reunimos três opções do Echo Dot — na…",
+      "link": "https://olhardigital.com.br/2026/08/15/reviews/echo-dot-em-destaque-veja-uma-selecao-de-smart-speakers-com-alexa-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-15T17:00:00+00:00"
+    },
+    {
+      "id": "15aaf2b747ae330d",
+      "title": "SpaceX fecha oficialmente sua aquisição do Cursor",
+      "summary": "O Cursor de inicialização de codificação de IA agora faz parte oficialmente da SpaceX.",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-15T16:30:00+00:00"
+    },
+    {
+      "id": "23cd5e9aacbd902c",
+      "title": "Como saber se as contas das suas plataformas de IA foram hackeadas",
+      "summary": "Um guia sobre como verificar se hackers invadiram suas contas nas plataformas de IA mais populares.",
+      "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-15T16:10:00+00:00"
+    },
+    {
+      "id": "251e738970217249",
+      "title": "A pressão dos investidores força a Nvidia a reduzir sua aposta na OpenAI no momento em que os números da Anthropic desafiam os avisos de bolha",
+      "summary": "A Nvidia reduziu sua garantia para o data center planejado da OpenAI em Ohio quase pela metade, de US$ 250 bilhões para pouco menos de US$ 120 bilhões, depois que os investidores recuaram no risco…",
+      "link": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/",
+      "image": "https://the-decoder.com/wp-content/uploads/2024/10/ai_bubble_neural_network.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-15T15:41:02+00:00"
+    },
+    {
+      "id": "fe02466b185ac883",
+      "title": "Como se livrar de anúncios no ChatGPT?",
+      "summary": "O ChatGPT começou a exibir anúncios para contas gratuitas e assinantes do plano Go em agosto de 2026. A inserção não muda o conteúdo da resposta, mas pode criar uma distração…",
+      "link": "https://canaltech.com.br/apps/como-se-livrar-de-anuncios-no-chatgpt/",
+      "image": "https://tl.ctcdn.com.br/Rp-Ef9RVcsjDAmBQaK_GfJ9X3rc=/0x0/filters:format(webp):quality(85)/a5446aca-a2e8-4be0-85b2-12c3d7ac116a.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-15T15:00:00+00:00"
+    },
+    {
+      "id": "4ae4e4e003fb9e8e",
+      "title": "5 placas de vídeo NVIDIA famosas que envelheceram mal",
+      "summary": "A cada nova geração de placas de vídeo, as antigas vão perdendo o brilho, mesmo as mais fortes. Lembra da lendária GeForce GTX 970 ? A GPU que rodava tudo \"no talo\" em 1080p há…",
+      "link": "https://canaltech.com.br/hardware/placas-de-video-nvidia-que-envelheceram-mal/",
+      "image": "https://tl.ctcdn.com.br/BqmyXyn-MeZP8j5E4bqhDpKzLXw=/0x0/filters:format(webp):quality(85)/02aaf280-4577-44f9-9ae7-eb34509551fa.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-15T14:00:00+00:00"
+    },
     {
       "id": "28dde17fbc5e6a83",
       "title": "Livros gerados por IA estão inundando a Amazon e diminuindo as vendas de autores humanos",
@@ -925,72 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-13T15:30:00+00:00"
-    },
-    {
-      "id": "431a29bf6f3f0b97",
-      "title": "O novo plano de US$ 500 bilhões da Nvidia é arriscado, mas brilhante, especialmente para GPUs antigas",
-      "summary": "A Nvidia tem um plano para garantir que suas GPUs não percam valor. Quer convencer uma nova safra de financiadores a continuar emprestando para a construção de IA.",
-      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-13T15:08:00+00:00"
-    },
-    {
-      "id": "d8734847640efbe6",
-      "title": "Ling 3.0 Flash é o modelo aberto mais inteligente em seu tamanho",
-      "summary": "Ling 3.0 Flash é o modelo aberto mais inteligente em sua classe de tamanho. O artigo Ling 3.0 Flash é o modelo aberto mais inteligente em seu tamanho apareceu pela primeira vez no The Decoder.",
-      "link": "https://the-decoder.com/ling-3-0-flash-is-the-smartest-open-model-at-its-size/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Ling-3.0-Flash-title.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-13T15:03:04+00:00"
-    },
-    {
-      "id": "86802d0990e84c07",
-      "title": "Marcar médico e chamar encanador: Gemini passa a fazer tarefas do cotidiano",
-      "summary": "O Google anunciou uma expansão dos aplicativos conectados ao Gemini durante o evento “Made by Google”. A partir de agora, a IA vai integrar novos serviços de terceiros para ajudar…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/marcar-medico-e-chamar-encanador-gemini-passa-a-fazer-tarefas-do-cotidiano/",
-      "image": "https://tl.ctcdn.com.br/5Q8jm-cpysPTmmTb3lh8WA6o3mk=/0x0/filters:format(webp):quality(85)/6443c25f-47bf-4a8a-968f-87ac6aa5a8bf.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-13T15:01:00+00:00"
-    },
-    {
-      "id": "f3bbbeb07869ff0c",
-      "title": "DeepSeek cresce no mercado e lança nova IA para ameaçar ChatGPT e Claude",
-      "summary": "A empresa de IA chinesa DeepSeek lançou o novo modelo V4-Pro nesta quinta-feira (13) para bater de frente com ChatGPT e Claude. O lançamento ocorre no cenário em que a startup…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/deepseek-cresce-no-mercado-e-lanca-nova-ia-para-ameacar-chatgpt-e-claude/",
-      "image": "https://tl.ctcdn.com.br/ta7SEzATYees6o8W1yQvU-Y9Okg=/0x0/filters:format(webp):quality(85)/4b926cac-352b-484a-a861-df193fb23d21.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-13T14:27:51+00:00"
-    },
-    {
-      "id": "a7bd9dab3d2a5c89",
-      "title": "O Google quer mesmo vencer na IA?",
-      "summary": "Hoje no Decoder, estou conversando com Hayden Field, repórter sênior de IA do The Verge, sobre uma questão que tem crescido rapidamente na indústria de tecnologia na semana passada: o Google…",
-      "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_081226.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-13T14:10:31+00:00"
-    },
-    {
-      "id": "6aabf85ccea259e2",
-      "title": "Anthropic pode valer US$ 2 trilhões quando abrir o capital",
-      "summary": "O rápido crescimento da receita alimenta a esperança de que o IPO da Claude Maker seja a maior listagem da história",
-      "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-500x500-1773164045.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-13T13:58:56+00:00"
     }
   ]
 }
