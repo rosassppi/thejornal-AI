@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-08-15T06:34:54.822193+00:00",
+  "generated_at": "2026-08-15T12:33:19.701679+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "28dde17fbc5e6a83",
+      "title": "Livros gerados por IA estão inundando a Amazon e diminuindo as vendas de autores humanos",
+      "summary": "Os livros gerados por IA representam 20% do catálogo autopublicado da Amazon, mas geram apenas 12% das vendas. Um novo estudo descobriu que a receita por livro está caindo…",
+      "link": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/AI-generated-books-dilute-Amazon-Kindle-Nano-Banana-Pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-15T11:00:50+00:00"
+    },
+    {
+      "id": "77355c792b5fd53a",
+      "title": "9 aplicações práticas do ChatGPT Work",
+      "summary": "O ChatGPT Work é um agente de IA criado para ir além das conversas com a inteligência artificial. Em vez de apenas responder perguntas ou gerar textos, ele consegue assumir…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/aplicacoes-praticas-chatgpt-work/",
+      "image": "https://tl.ctcdn.com.br/8uiIsr6RBAkKtK-7tZAbstm1Z_A=/0x0/filters:format(webp):quality(85)/f39ef37a-d709-4b1d-89cd-1dc6f872614e.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-15T11:00:01+00:00"
+    },
+    {
+      "id": "3e87e0f29a969a80",
+      "title": "O autor escondeu instruções invisíveis de IA em processos judiciais para influenciar secretamente a revisão automatizada",
+      "summary": "Um demandante em Connecticut incorporou injeções imediatas invisíveis em processos judiciais, formatados em texto branco de 3 pontos sobre fundo branco, para manipular uma possível revisão de IA…",
+      "link": "https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/trojanisches-pferd-prompt-injection.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-15T08:00:45+00:00"
+    },
+    {
+      "id": "5c81334f23aec617",
+      "title": "O World Labs transforma uma tarefa de robô do mundo real em milhares de variações simuladas para treinamento",
+      "summary": "World Labs, startup fundada pelo pioneiro da IA ​​Fei-Fei Li, revelou um mecanismo de simulação que treina controladores de robôs inteiramente em ambientes virtuais. De um único mundo real…",
+      "link": "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/worldlabs-r2s2r-06-scenix-brand.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-15T07:30:48+00:00"
+    },
     {
       "id": "d2e4667f6f799569",
       "title": "A “tragédia dos bens comuns cognitivos” explica como a adoção racional da IA ​​poderia destruir a experiência de profissões inteiras",
@@ -947,50 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-13T13:58:56+00:00"
-    },
-    {
-      "id": "382a035e351942fe",
-      "title": "Flock está endurecendo suas regras em resposta a uma crescente reação de vigilância",
-      "summary": "A gigante da tecnologia policial Flock está anunciando hoje que mudará o acesso dos policiais à sua rede nacional de leitores de placas de veículos, em um aparente esforço para reprimir um crescente…",
-      "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-13T13:41:10+00:00"
-    },
-    {
-      "id": "6b576d0825326e86",
-      "title": "A Microsoft está combinando seus aplicativos Copilot antes de um ‘super aplicativo’",
-      "summary": "A Microsoft está finalmente começando a combinar seus assistentes Copilot AI comerciais e de consumo em uma única interface de \"super aplicativo\", começando com o Copilot e o Microsoft 365…",
-      "link": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_4636.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-13T13:30:00+00:00"
-    },
-    {
-      "id": "fbb238155cf39527",
-      "title": "WhatsApp quer usar IA para barrar golpes e proteger usuários",
-      "summary": "O WhatsApp apresentou uma prévia do Scam Alert (Alerta de Golpe) , novo recurso de segurança que usa inteligência artificial para identificar possíveis tentativas de fraude. A…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/whatsapp-quer-usar-ia-para-barrar-golpes-e-proteger-usuarios/",
-      "image": "https://tl.ctcdn.com.br/7PdxBYmCaacGE25v2w1om-Mcnno=/0x0/filters:format(webp):quality(85)/821fd3fe-7491-47b5-b749-1858666d72e6.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-13T13:03:00+00:00"
-    },
-    {
-      "id": "0c959dacec5bafcb",
-      "title": "O maior risco da IA não é a intenção, mas a imprevisibilidade",
-      "summary": "Durante muito tempo, o debate sobre inteligência artificial e cibersegurança esteve concentrado em uma hipótese relativamente simples: o que aconteceria se criminosos começassem a…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/o-maior-risco-da-ia-nao-e-a-intencao-mas-a-imprevisibilidade/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-13T12:43:55+00:00"
     }
   ]
 }
