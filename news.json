@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-08-14T18:51:35.040343+00:00",
+  "generated_at": "2026-08-15T01:07:37.390952+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "68f1f02ff2abaaac",
+      "title": "Nvidia tem participação bilionária na SpaceX",
+      "summary": "Fabricante de chips informou, em documento, que possui 122,8 milhões de ações Classe A da SpaceX O post Nvidia tem participação bilionária na SpaceX apareceu primeiro em Olhar…",
+      "link": "https://olhardigital.com.br/2026/08/14/pro/nvidia-tem-participacao-bilionaria-na-spacex/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/iStock-2127747623-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-14T23:29:06+00:00"
+    },
+    {
+      "id": "7dabd7a5e7d544ee",
+      "title": "Nova função do ChatGPT registra tudo que você faz no PC, sem criptografia",
+      "summary": "A OpenAI lançou o Histórico do Computador , recurso opcional do ChatGPT para macOS que registra interações realizadas em aplicativos e sites para criar memórias e oferecer…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/nova-funcao-do-chatgpt-registra-tudo-que-voce-faz-no-pc-sem-criptografia/",
+      "image": "https://tl.ctcdn.com.br/cdlPlMjYm4kW5Pa1kMw6ZVGVOLE=/0x0/filters:format(webp):quality(85)/f25244cd-734f-485a-80fb-56254b2f14e7.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-14T22:03:00+00:00"
+    },
+    {
+      "id": "8f9eaa12b329d32d",
+      "title": "Anthropic anuncia API de detecção de marca d'água que permitirá que terceiros detectem os textos de IA de Claude",
+      "summary": "Anthropic will soon offer a watermark detection API that lets third parties check whether text was written by Claude. The technology builds on Google's SynthID method and tweaks…",
+      "link": "https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-14T21:29:17+00:00"
+    },
+    {
+      "id": "158bc3ff3a020092",
+      "title": "IA chinesa pode ter superado a Anthropic em teste de segurança cibernética",
+      "summary": "Z.ai planeja lançar o modelo em cerca de duas semanas, mas manterá recursos mais sensíveis restritos a usuários verificados O post IA chinesa pode ter superado a Anthropic em…",
+      "link": "https://olhardigital.com.br/2026/08/14/inteligencia-artificial/ia-chinesa-pode-ter-superado-a-anthropic-em-teste-de-seguranca-cibernetica/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/shutterstock_2761441095-scaled-1-1024x653.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-14T21:18:32+00:00"
+    },
+    {
+      "id": "a1152bbd6f76d447",
+      "title": "Nova ferramenta do ChatGPT lembra recurso do Windows 11 que caiu em desgraça",
+      "summary": "Computer History tenta evitar problemas que levaram Microsoft a adiar diversas vezes o Windows Recall. Nova ferramenta do ChatGPT lembra recurso do Windows 11 que caiu em desgraça",
+      "link": "https://tecnoblog.net/noticias/nova-ferramenta-do-chatgpt-lembra-recurso-do-windows-11-que-caiu-em-desgraca/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-3_capa-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-14T21:03:08+00:00"
+    },
+    {
+      "id": "130994dd7014ce74",
+      "title": "NPCs com IA: o fim do multiplayer como conhecemos, ou o começo de mundos vivos de verdade?",
+      "summary": "Do PUBG ao Marvel Rivals, do sucesso ao fracasso. O uso de bots com IA foi um sucesso, mas tem sido um grande problema também, e a linha entre esses extremos se revela cada vez…",
+      "link": "https://olhardigital.com.br/2026/08/14/games-e-consoles/npcs-com-ia-o-fim-do-multiplayer-como-conhecemos-ou-o-comeco-de-mundos-vivos-de-verdade/",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/08/pubg-battlegrounds-16v1j-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-14T20:41:57+00:00"
+    },
+    {
+      "id": "8c1ddff836394be0",
+      "title": "Google decide que marca d’água para IA é opcional; entenda",
+      "summary": "Gemini e Flow ganham opção de remover marca d'água visível. Google decide que marca d’água para IA é opcional; entenda",
+      "link": "https://tecnoblog.net/noticias/google-decide-que-marca-dagua-para-ia-e-opcional-entenda/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-2-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-14T20:40:18+00:00"
+    },
+    {
+      "id": "6df7121aa8b4d418",
+      "title": "Caminhões autônomos estão sendo testados oficialmente nas rodovias da Califórnia",
+      "summary": "Aurora Innovation e Kodiak AI, duas empresas que desenvolvem caminhões autônomos, receberam licenças do Departamento de Veículos Motorizados da Califórnia.",
+      "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-14T20:37:49+00:00"
+    },
+    {
+      "id": "f248efbb61761470",
+      "title": "Jovens dos EUA não confiam nos líderes da IA, mostra pesquisa",
+      "summary": "Levantamento mostra pessimismo sobre o impacto da IA na carreira e rejeição elevada a líderes de big techs ligadas à IA. Jovens dos EUA não confiam nos líderes da IA, mostra…",
+      "link": "https://tecnoblog.net/noticias/jovens-dos-eua-nao-confiam-nos-lideres-da-ia-mostra-pesquisa/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/ceos-tecnologia-ia-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-14T20:26:35+00:00"
+    },
+    {
+      "id": "6a626d517a95fc1e",
+      "title": "OpenAI prevê que IA pode injetar R$ 1 trilhão no Brasil até 2030, mas como?",
+      "summary": "A adoção de inteligência artificial pode adicionar R$ 986,7 bilhões ao Produto Interno Bruto (PIB) brasileiro entre 2027 e 2030. A estimativa vem de um estudo do centro de…",
+      "link": "https://canaltech.com.br/mercado/openai-preve-que-ia-pode-injetar-r-1-trilhao-no-brasil-ate-2030-mas-como/",
+      "image": "https://tl.ctcdn.com.br/v1nXvNq1E8zQbSkEl4fZYDaLXho=/0x0/filters:format(webp):quality(85)/09e331f5-4e77-4505-880c-d981d18e3466.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-14T20:01:00+00:00"
+    },
+    {
+      "id": "8a1931ce594c56b5",
+      "title": "Joshua Kushner, da Thrive, repreende os VCs do Vale do Silício por causa da euforia da IA",
+      "summary": "A oportunidade da IA ​​é enorme, mas “seria também um grave erro da nossa parte deixar que a excitação enfraquecesse a nossa disciplina de investimento”, alerta Kushner na sua primeira carta de investimento.",
+      "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-14T19:33:00+00:00"
+    },
+    {
+      "id": "06427ece34ff2be7",
+      "title": "Google acaba com marca d'água de estrela em imagens e vídeos feitos por IA",
+      "summary": "A partir de agora, usuários poderão remover a marca d'água visível aplicada a imagens, vídeos e músicas gerados por inteligência artificial no Gemini. O ícone em formato de…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/google-acaba-com-marca-dagua-de-estrela-em-imagens-e-videos-feitos-por-ia/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-14T19:06:49+00:00"
+    },
+    {
+      "id": "73f9670513436d74",
+      "title": "Histórico do ChatGPT \"entregou\" adolescente envolvido em duplo homicídio familiar",
+      "summary": "Um adolescente de 17 anos foi indiciado por matar a mãe e o irmão mais novo dentro de casa em Massachusetts, nos Estados Unidos. Segundo a promotoria do condado de Middlesex…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/historico-do-chatgpt-entregou-adolescente-envolvido-em-duplo-homicidio-familiar/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-14T19:01:00+00:00"
+    },
     {
       "id": "0ae8bdfde1ca6381",
       "title": "Galaxy Buds 4 fica 39% mais barato com cupom no Mercado Livre",
@@ -848,149 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-13T11:00:49+00:00"
-    },
-    {
-      "id": "6f8368ac763b7373",
-      "title": "O guia do construtor para GPT‑5.6",
-      "summary": "Saiba como as startups usam o GPT-5.6 para criar agentes de IA mais rápidos e econômicos, com seleção de modelos mais inteligentes e novos recursos de API de respostas.",
-      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-13T11:00:00+00:00"
-    },
-    {
-      "id": "b9ea541db727ae51",
-      "title": "A lenta adoção do Fable 5 sugere que a disposição corporativa de pagar pela IA de fronteira atingiu o limite",
-      "summary": "O Fable 5 da Anthropic é considerado o modelo de IA mais poderoso do mercado, mas as empresas norte-americanas mal o compram. De acordo com dados da Ramp, Fable 5 representa apenas seis por cento…",
-      "link": "https://the-decoder.com/fable-5s-slow-adoption-suggests-corporate-willingness-to-pay-for-frontier-ai-has-hit-a-ceiling/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/01/openai_anthropic-2.jpeg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-13T10:46:20+00:00"
-    },
-    {
-      "id": "dfdc90803611063b",
-      "title": "Os principais pesquisadores do laboratório de IA alertaram sobre a pesquisa automatizada de IA, e vários de seus marcos previstos já caíram",
-      "summary": "Severin Field, bolsista da IAPS, entrevistou 25 pesquisadores de universidades OpenAI, Anthropic, Google Deepmind, Meta e universidades dos EUA sobre autoaperfeiçoamento recursivo. Em uma nova postagem no blog, ele…",
-      "link": "https://the-decoder.com/top-ai-lab-researchers-warned-about-automated-ai-research-and-several-of-their-predicted-milestones-have-already-fallen/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/02/Huginn-RM-title.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-13T10:42:05+00:00"
-    },
-    {
-      "id": "5ddabed43dfc8f9e",
-      "title": "Meta usa IA como filtro para barrar menores nas redes sociais",
-      "summary": "Meta usa inteligência artificial para identificar contas de menores enquanto a Austrália amplia a fiscalização das redes sociais O post Meta usa IA como filtro para barrar menores…",
-      "link": "https://olhardigital.com.br/2026/08/13/internet-e-redes-sociais/meta-usa-ia-como-filtro-para-barrar-menores-nas-redes-sociais/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/01/Destaque-Redes-sociais-da-Meta-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-13T10:32:58+00:00"
-    },
-    {
-      "id": "7f38fb9179ea1763",
-      "title": "Anthropic traz Claude Cowork para sua extensão do Chrome, adicionando habilidades e plugins ao navegador",
-      "summary": "Claude Cowork agora é executado diretamente no painel lateral da extensão do Chrome da Anthropic. O artigo Anthropic traz Claude Cowork para sua extensão do Chrome, adicionando habilidades e plugins para…",
-      "link": "https://the-decoder.com/anthropic-brings-claude-cowork-to-its-chrome-extension-adding-skills-and-plugins-to-the-browser/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/08/ClaudeBrowsing.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-13T10:15:29+00:00"
-    },
-    {
-      "id": "c0986f6628d189a1",
-      "title": "Pré-visualização do modo Ultrafast: GPT-5.6 Sol em até 14X a velocidade",
-      "summary": "Visualize Ultrafast, um novo nível de serviço da API OpenAI que executa GPT-5.6 Sol até 14× mais rápido. Desenvolvido pela Cerebras, ele fornece até 750 tokens de saída por segundo.",
-      "link": "https://openai.com/index/previewing-ultrafast",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-13T10:00:00+00:00"
-    },
-    {
-      "id": "d5a89f92a8c813f1",
-      "title": "Como as crianças se sentem em relação à IA, em suas próprias palavras",
-      "summary": "Quando decidimos conversar com as crianças sobre inteligência artificial, pensávamos que sabíamos o que ouviríamos. Esperávamos que alguns nos dissessem que estavam usando isso para trapacear um pouco, aliás…",
-      "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AI_teens_coder_stasik.jpg",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-13T09:00:00+00:00"
-    },
-    {
-      "id": "6eaab463a55def87",
-      "title": "OpenAI nomeia Dali Rajic como diretor de receita",
-      "summary": "A OpenAI nomeia Dali Rajic como Chief Revenue Officer para liderar sua organização de receitas globais e ajudar as empresas a aproveitarem todo o valor da IA.",
-      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-13T09:00:00+00:00"
-    },
-    {
-      "id": "a092a95d69770f08",
-      "title": "Dyna Robotics apresenta Dyna-2: um modelo de ação mundial pré-treinado em 1 milhão de horas de vídeo humano",
-      "summary": "A Dyna Robotics lançou o Dyna-2, um modelo de ação mundial pré-treinado em mais de um milhão de horas de vídeo humano egocêntrico. O relatório técnico estabelece três resultados: uma…",
-      "link": "https://www.marktechpost.com/2026/08/13/dyna-robotics-introduces-dyna-2-a-world-action-model-pre-trained-on-1-million-hours-of-human-video/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-13T07:42:02+00:00"
-    },
-    {
-      "id": "e7b25d947ad7fe79",
-      "title": "SpaceXAI lança Grok 4.6: um modelo de fronteira de contexto de 500K ajustado para agentes de longa duração, codificação e trabalho de conhecimento",
-      "summary": "A SpaceXAI lançou o Grok 4.6 em 12 de agosto de 2026 – uma atualização pós-treinamento do Grok 4.5, não um modelo básico maior. Ele empata com GPT-5.6 Sol Max em 61 na Análise Artificial…",
-      "link": "https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-13T06:18:14+00:00"
-    },
-    {
-      "id": "c91aaac916519ba9",
-      "title": "Apple quer conteúdos jornalísticos na Siri com IA",
-      "summary": "Acordos propostos teriam duração de vários anos e dariam à Apple acesso aos conteúdos necessários para alimentar a Siri com IA O post Apple quer conteúdos jornalísticos na Siri…",
-      "link": "https://olhardigital.com.br/2026/08/12/inteligencia-artificial/apple-quer-conteudos-jornalisticos-na-siri-com-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/iStock-2187854869-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-13T01:05:08+00:00"
-    },
-    {
-      "id": "57f8b7f378e9c39a",
-      "title": "O que aprendemos ao reproduzir 2.200 artigos do ICML",
-      "summary": "",
-      "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-13T00:00:00+00:00"
-    },
-    {
-      "id": "989b6478c235c64e",
-      "title": "Festival de cinema com IA chega ao Brasil em meio à resistência do setor",
-      "summary": "Primeira edição brasileira do AI Film Awards terá filmes, debates e atividades sobre o uso da tecnologia no audiovisual; organizadoras querem ampliar a discussão sobre IA no país…",
-      "link": "https://olhardigital.com.br/2026/08/12/cinema-e-streaming/festival-de-cinema-com-ia-chega-ao-brasil-em-meio-a-resistencia-do-setor/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/protesto-ia-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-12T23:32:00+00:00"
     }
   ]
 }
