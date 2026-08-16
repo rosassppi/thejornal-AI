@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-08-16T12:34:47.960159+00:00",
+  "generated_at": "2026-08-16T18:25:51.869207+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "987191c4e2bdca64",
+      "title": "Qual é o modelo aberto de IA mais popular do mundo? Não é nenhum feito nos EUA",
+      "summary": "Família Qwen, desenvolvida pela chinesa Alibaba, já foi baixada por mais de 3 bilhões de usuários ao redor do planeta O post Qual é o modelo aberto de IA mais popular do mundo?…",
+      "link": "https://olhardigital.com.br/2026/08/16/inteligencia-artificial/qual-e-o-modelo-aberto-de-ia-mais-popular-do-mundo-nao-e-nenhum-feito-nos-eua/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/03/shutterstock_2578832629-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-16T17:06:00+00:00"
+    },
+    {
+      "id": "31bad0791a5e5c62",
+      "title": "O CEO da Anthropic diz que a reação da IA ​​é “fundamentalmente uma crise de confiança”",
+      "summary": "Dario Amodei está resistindo à ideia de que está pintando um quadro excessivamente pessimista da IA.",
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-16T16:53:51+00:00"
+    },
+    {
+      "id": "7111946532d86aae",
+      "title": "Os principais matemáticos dizem que os LLMs são calculadoras fortes, mas pensadores criativos pobres",
+      "summary": "Dois renomados matemáticos, Timothy Gowers e Peter Sarnak, dizem que grandes modelos de linguagem são bons em combinar métodos conhecidos, mas carecem de intuição para matemática genuinamente nova…",
+      "link": "https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/neural_network_math-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-16T15:31:21+00:00"
+    },
+    {
+      "id": "bfdebbd1be814fa4",
+      "title": "Como usar o Gemini Spark",
+      "summary": "O Gemini Spark é um agente de inteligência artificial do Google criado para executar tarefas de forma autônoma. Diferente de um chatbot tradicional, que responde apenas quando…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-o-gemini-spark/",
+      "image": "https://tl.ctcdn.com.br/kp79Puv6SsAE4qsU1GYOFblNKGw=/0x0/filters:format(webp):quality(85)/2869f2d3-594c-4989-aa91-f7ceac6bedd0.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-16T15:00:00+00:00"
+    },
+    {
+      "id": "99f79a191e7351c9",
+      "title": "O histórico do computador do ChatGPT rastreia seus cliques e pressionamentos de tecla",
+      "summary": "O aplicativo de desktop do ChatGPT no macOS possui um novo recurso chamado Histórico do Computador que transforma suas ações em dados de treinamento, aprendendo como você trabalha, sugerindo automações e até…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-16T14:56:40+00:00"
+    },
     {
       "id": "8ccd370b2e0a7293",
       "title": "Rogue AI não é mais ficção científica",
@@ -936,61 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-13T19:28:39+00:00"
-    },
-    {
-      "id": "6f1bf72c97e7993e",
-      "title": "OpenAI apresenta ‘Ultrafast’, um novo modo que faz o GPT-5.6 Sol funcionar a 14x mais velocidade",
-      "summary": "A OpenAI está lançando uma prévia de uma versão acelerada de seu modelo mais recente e poderoso, em um esforço para cortejar os usuários corporativos.",
-      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-13T19:22:40+00:00"
-    },
-    {
-      "id": "127828fdab3faf4d",
-      "title": "IBM faz parceria com OpenAI para reforçar impulso de IA empresarial",
-      "summary": "A IBM planeja treinar e certificar dezenas de milhares de consultores nas tecnologias OpenAI como parte deste acordo.",
-      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-13T19:19:49+00:00"
-    },
-    {
-      "id": "09d115fecd68e83d",
-      "title": "Gemini 3.7 Flash chega com ganhos de codificação e reduz em 50% o preço de seu antecessor de três semanas",
-      "summary": "O Google lançou o Gemini 3.7 Flash apenas três semanas após o 3.6 Flash. O novo modelo deve ser o carro-chefe mais capaz do Google para codificação e agentes de IA, e de acordo com…",
-      "link": "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/gemini_flash.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-13T18:41:52+00:00"
-    },
-    {
-      "id": "7d810ba3e961a61d",
-      "title": "A Antrópica soltou agentes de IA na mesma tarefa. Eles começaram uma guerra territorial.",
-      "summary": "Pesquisadores antrópicos descobriram que os agentes de IA podem entrar em conflito, conspirar e coordenar-se de maneiras inesperadas, levantando novas questões sobre se os testes de segurança atuais capturam os riscos de...",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-13T18:28:14+00:00"
-    },
-    {
-      "id": "7215c9d2d34e7fb8",
-      "title": "IA do YouTube agora está disponível para todos os usuários",
-      "summary": "O YouTube ampliou o acesso ao Ask YouTube , ferramenta de busca conversacional baseada em inteligência artificial. Antes disponível apenas para assinantes do YouTube Premium, o…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-do-youtube-agora-esta-disponivel-para-todos-os-usuarios/",
-      "image": "https://tl.ctcdn.com.br/VvXYVnkI3w-f9Wh7xr1O6415y6A=/0x0/filters:format(webp):quality(85)/3ca9311b-1839-4369-8411-e108a6bcc44c.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-13T18:04:00+00:00"
     }
   ]
 }
