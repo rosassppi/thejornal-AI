@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-16T01:11:10.544565+00:00",
+  "generated_at": "2026-08-16T06:36:40.712090+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "42d7067f2416085d",
+      "title": "Optima aborda a maior falha do benchmarking de IA, permitindo que os usuários testem modelos em relação aos seus próprios dados",
+      "summary": "A Artificial Analysis lançou o Optima, uma plataforma que permite aos usuários criar benchmarks de IA personalizados a partir de seus próprios dados e fluxos de trabalho. Os modelos podem ser comparados não apenas em qualidade, mas…",
+      "link": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Optima.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-16T05:50:50+00:00"
+    },
+    {
+      "id": "547c452747c4ce59",
+      "title": "Um em cada cinco trabalhadores dos EUA agora delega tarefas à IA em vez de colegas, revela pesquisa",
+      "summary": "Uma pesquisa representativa da Epoch AI descobriu que 20% dos americanos empregados entregam à IA pelo menos uma tarefa que um ser humano costumava realizar. Geralmente, eles aceitam saída de IA com…",
+      "link": "https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Epoch-AI-Umfrage-KI-am-Arbeitsplatz.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-16T05:00:00+00:00"
+    },
     {
       "id": "47c8acd498f0c0e4",
       "title": "Mulher afirma que seu padrasto usou Grok para transformar fotos de infância em imagens explícitas",
@@ -969,28 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-13T17:14:23+00:00"
-    },
-    {
-      "id": "7f30c266438b8855",
-      "title": "OpenAI contrata novo CRO enquanto a mudança executiva continua",
-      "summary": "Dali Rajic assumirá o cargo de principal vendedor da OpenAI.",
-      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-13T17:07:13+00:00"
-    },
-    {
-      "id": "3b78235ea7599100",
-      "title": "Google anuncia Gemini 3.7 Flash apenas três semanas após o lançamento anterior",
-      "summary": "O Gemini 3.6 Flash estreou há apenas 3 semanas, mas o Google diz que o 3.7 tem “melhorias substanciais”.",
-      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-13T17:00:13+00:00"
     }
   ]
 }
