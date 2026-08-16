@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-08-15T18:26:19.116307+00:00",
+  "generated_at": "2026-08-16T01:11:10.544565+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "47c8acd498f0c0e4",
+      "title": "Mulher afirma que seu padrasto usou Grok para transformar fotos de infância em imagens explícitas",
+      "summary": "A mulher afirmou que as ferramentas de IA estão “pegando a vida cotidiana e transformando-a em abuso sexual infantil”.",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-15T21:29:19+00:00"
+    },
+    {
+      "id": "6136c612b54ef3e5",
+      "title": "Patente da Meta mostra óculos inteligentes com reconhecimento facial",
+      "summary": "Sistema usa IA para mapear rostos e criar “cortes” sobre ações de cada pessoa, o que pode virar um problema de privacidade O post Patente da Meta mostra óculos inteligentes com…",
+      "link": "https://olhardigital.com.br/2026/08/15/pro/patente-da-meta-mostra-oculos-inteligentes-com-reconhecimento-facial/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Patente-da-Meta-Oculos-inteligentes-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-15T20:58:59+00:00"
+    },
+    {
+      "id": "015b3666d4504b20",
+      "title": "Divirta-se às custas da IA ​​interpretando como um chatbot",
+      "summary": "Seu AI Slop Bores Me é brilhante em sua simplicidade. Existem duas guias: humano e LARP como IA. De um lado você insere uma solicitação. Por outro lado, você envia uma resposta. Mas o…",
+      "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-15T20:45:00+00:00"
+    },
+    {
+      "id": "7d11c3191a0547d7",
+      "title": "Smartwatch em promoção: veja uma seleção de relógios inteligentes para não perder",
+      "summary": "Está pensando em renovar o pulso com um smartwatch? Reunimos três ótimas opções em oferta na Amazon para quem quer monitorar saúde, notificações e muito mais sem complicação…",
+      "link": "https://olhardigital.com.br/2026/08/15/reviews/smartwatch-em-promocao-veja-uma-selecao-de-relogios-inteligentes-para-nao-perder/",
+      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-15T19:40:00+00:00"
+    },
+    {
+      "id": "569c4523c8fcf143",
+      "title": "Anthropic compartilha mais detalhes sobre como funcionarão as novas marcas d'água de Claude",
+      "summary": "Como a marca d'água realmente funcionará? Pode ser escondido com edição? E como isso afeta o código?",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-15T18:58:39+00:00"
+    },
+    {
+      "id": "e47a38326e5d9c27",
+      "title": "Hora de renovar o home office: selecionamos impressoras em promoção na Amazon",
+      "summary": "Se você está pensando em trocar a impressora antiga ou finalmente adquirir uma para casa ou o escritório, este é um bom momento para pesquisar. Reunimos três opções…",
+      "link": "https://olhardigital.com.br/2026/08/15/reviews/hora-de-renovar-o-home-office-selecionamos-impressoras-em-promocao-na-amazon-2/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-15T18:40:00+00:00"
+    },
     {
       "id": "42aec9dff86e911e",
       "title": "Echo Dot em destaque: veja uma seleção de Smart Speakers com Alexa em promoção na Amazon",
@@ -925,72 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-13T17:00:13+00:00"
-    },
-    {
-      "id": "d00944e12348f9f2",
-      "title": "Dê vida aos dados da sua planilha com a tela do Planilhas",
-      "summary": "O vídeo mostra a tela do Planilhas em ação.",
-      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-13T16:45:00+00:00"
-    },
-    {
-      "id": "a21d8ed6f8658b97",
-      "title": "A Deepseek envia o V4 Pro aprimorado, abre o código-fonte de seu software de agente e aumenta os preços da API",
-      "summary": "A Deepseek retirou seu carro-chefe V4-Pro da fase de testes e lançou seu software de agente, Harness v0.1, sob a licença do MIT. Os preços da API estão subindo ao mesmo tempo…",
-      "link": "https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/deepseek_red_whale.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-13T16:27:32+00:00"
-    },
-    {
-      "id": "5907436efdfd3057",
-      "title": "Suno está tentando se parecer mais com uma verdadeira ferramenta de produção musical",
-      "summary": "Suno está lançando o Studio 2.0 com atualizações significativas que o aproximam de uma estação de trabalho de áudio digital (DAW) real, em vez de um editor de áudio básico com IA generativa…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Suno_Studio2.0_Press_Hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-13T16:00:00+00:00"
-    },
-    {
-      "id": "5c817a0c5cffd26d",
-      "title": "Liquid AI lança LFM2.5-VL-3B: um modelo de linguagem de visão 3B que lê telas, aterra objetos e chama ferramentas no dispositivo",
-      "summary": "A Liquid AI lançou o LFM2.5-VL-3B, um modelo de linguagem de visão com parâmetros de 3,1B desenvolvido para implantação no dispositivo. A média é de 80,7 no ScreenSpot-v2 e aumenta o aterramento do RefCOCO de 57,1 para…",
-      "link": "https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-13T15:56:03+00:00"
-    },
-    {
-      "id": "0958cfec9de6b55a",
-      "title": "A Microsoft elimina recursos de IA malsucedidos ao mesclar seus aplicativos Copilot separados",
-      "summary": "A Microsoft está simplificando o Copilot combinando seus aplicativos de consumo e de negócios e eliminando podcasts gerados por IA, bate-papos em grupo, pesquisas profundas e seu personagem Mico.",
-      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-13T15:30:52+00:00"
-    },
-    {
-      "id": "e5256eb51dcec928",
-      "title": "Eu olhei dentro de um filme gerado por IA e as melhores partes eram todas humanas",
-      "summary": "Imagine um trio de rapazes ingleses desajeitados que fantasiam em se tornarem megastars enquanto bebem algumas cervejas em um pub sujo em algum lugar de Londres. Imagine os caras rindo e…",
-      "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/CullyHillBadge.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-13T15:30:00+00:00"
     }
   ]
 }
