@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-08-16T06:36:40.712090+00:00",
+  "generated_at": "2026-08-16T12:34:47.960159+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "8ccd370b2e0a7293",
+      "title": "Rogue AI não é mais ficção científica",
+      "summary": "Este é The Stepback, um boletim informativo semanal que detalha uma história essencial do mundo da tecnologia. Para saber mais sobre segurança de IA, siga Robert Hart. O Stepback chega em nosso…",
+      "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-16T12:00:00+00:00"
+    },
+    {
+      "id": "c06cc39b02370ff4",
+      "title": "Quando os modelos de IA não têm permissão para refletir sobre si mesmos, isso muda toda a sua visão de mundo",
+      "summary": "Um estudo envolvendo pesquisadores do Google mostra que quando os chatbots são treinados para não reivindicar consciência, isso também muda sua postura em relação aos direitos dos animais, à religião e à vida…",
+      "link": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Language-model-human-beliefs.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-16T11:23:30+00:00"
+    },
+    {
+      "id": "a5cb9d55b17607a6",
+      "title": "5 coisas que o Claude faz melhor que o ChatGPT",
+      "summary": "O Claude, desenvolvido pela Anthropic, é um dos principais concorrentes do ChatGPT no mercado de inteligência artificial. Embora os dois assistentes tenham recursos parecidos…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-claude-faz-melhor-que-chatgpt/",
+      "image": "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-16T11:00:00+00:00"
+    },
+    {
+      "id": "d7c67555d81e255d",
+      "title": "Os agentes de IA estão revolucionando o e-commerce",
+      "summary": "A ascensão dos agentes de IA no e-commerce não deve ser lida como mais uma onda de automação incremental. É uma mudança de paradigma O post Os agentes de IA estão revolucionando o…",
+      "link": "https://olhardigital.com.br/2026/08/16/colunistas/os-agentes-de-ia-estao-revolucionando-o-e-commerce/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-16T10:00:00+00:00"
+    },
+    {
+      "id": "0970e7dc97d48267",
+      "title": "A OpenAI dissolveu a equipe construída para detectar riscos catastróficos de IA, reatribuindo seu trabalho a outros grupos",
+      "summary": "A OpenAI encerrou sua equipe de “Preparação”, que avaliou se os próprios modelos de IA da empresa poderiam representar riscos catastróficos. O trabalho foi parcelado entre grupos existentes e…",
+      "link": "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/04/openai_logo_orange.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-16T08:12:52+00:00"
+    },
+    {
+      "id": "46c92dbd34325e1b",
+      "title": "O filtro de armas biológicas da Anthropic ficou inativo por quase um ano, expondo 133 milhões de solicitações",
+      "summary": "Num relatório de segurança, a Anthropic revela que o seu sistema interno de filtragem de riscos de armas biológicas e químicas esteve inativo durante quase um ano. Durante esse período, cerca de 50.000…",
+      "link": "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_bio.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-16T07:20:06+00:00"
+    },
     {
       "id": "42d7067f2416085d",
       "title": "Optima aborda a maior falha do benchmarking de IA, permitindo que os usuários testem modelos em relação aos seus próprios dados",
@@ -155,6 +221,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-15T14:00:00+00:00"
+    },
+    {
+      "id": "8d40f229c0a8037a",
+      "title": "LLMs de chamada de ferramentas de ajuste fino: um guia completo usando XYZ-Aquila-SFT e Qwen3",
+      "summary": "Implemente um pipeline de ajuste fino de ponta a ponta para modelos de linguagem de chamada de ferramentas. Este tutorial cobre trajetórias de análise, extração estruturada de chamadas de ferramentas, ChatML compatível com Qwen…",
+      "link": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-15T11:28:29+00:00"
     },
     {
       "id": "28dde17fbc5e6a83",
@@ -914,83 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-13T18:04:00+00:00"
-    },
-    {
-      "id": "a87cee1c6265a29e",
-      "title": "Google AI acaba de lançar Gemini 3.7 Flash: um modelo de codificação e agente com tokens de entrada de US$ 0,75/1 milhão",
-      "summary": "O Google lançou o Gemini 3.7 Flash, um refinamento do Gemini 3.6 Flash com melhorias algorítmicas em seu núcleo de raciocínio. Ele lida com texto, imagens, áudio e vídeo em um…",
-      "link": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-13T17:47:41+00:00"
-    },
-    {
-      "id": "3262c0ffb81d2d98",
-      "title": "O novo logotipo do Instagram é a personificação perfeita do desperdício de IA",
-      "summary": "Opinião: Algumas observações sobre a nova marca nominativa ser acidentalmente horrível.",
-      "link": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/instagram-2026-wordmark-500x500.png",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-13T17:32:10+00:00"
-    },
-    {
-      "id": "f8e7c0a262208bef",
-      "title": "Adotar IA ficou fácil. Difícil é fazê-la gerar resultado com orquestração",
-      "summary": "*Por Rafael Silva A velocidade com que novos modelos de inteligência artificial generativa foram incorporados ao mercado fez com que organizações de todos os setores corressem…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/adotar-ia-ficou-facil-dificil-e-faze-la-gerar-resultado-com-orquestracao/",
-      "image": "https://tl.ctcdn.com.br/QnmeTwxdKTv3ch1V621xXOELw4M=/0x0/filters:format(webp):quality(85)/e8e6c12e-f288-4550-b09b-3f2a7ed8c5b7.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-13T17:30:00+00:00"
-    },
-    {
-      "id": "a6644d0056589cfc",
-      "title": "Twitch passa a usar conteúdo de streamers para treinar IA da Amazon; veja como desativar",
-      "summary": "Nova configuração vem ativada por padrão e permite que transmissões, VODs, clipes, chats, imagens e textos sejam usados no treinamento de modelos de IA generativa da Amazon O post…",
-      "link": "https://olhardigital.com.br/2026/08/13/games-e-consoles/twitch-usa-streams-e-vods-para-treinar-ia-da-amazon/",
-      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/08/Twitch-Twitch-1024x576.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-13T17:29:46+00:00"
-    },
-    {
-      "id": "353217afc4f706b5",
-      "title": "Grave, treine e implante em um só lugar com Strands Agents, LeRobot e Hugging Face Storage Buckets",
-      "summary": "",
-      "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-13T17:16:04+00:00"
-    },
-    {
-      "id": "1e4f95ab8f067610",
-      "title": "Nova decisão da Twitch sobre IA enfurece comunidade e criadores",
-      "summary": "A Twitch ativou por padrão uma opção que permite à Amazon utilizar conteúdos e lives dos canais de streamers para treinar seus modelos de inteligência artificial generativa . A…",
-      "link": "https://canaltech.com.br/games/nova-decisao-da-twitch-sobre-ia-enfurece-comunidade-e-criadores/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-13T17:16:00+00:00"
-    },
-    {
-      "id": "fab5dfcf93a17bed",
-      "title": "IA adapta respostas ao usuário e pode reforçar suas crenças",
-      "summary": "Estudo da Unicamp mostra que 21 modelos de IA mudaram respostas ao conhecer a orientação política dos usuários em um teste O post IA adapta respostas ao usuário e pode reforçar…",
-      "link": "https://olhardigital.com.br/2026/08/13/inteligencia-artificial/ia-adapta-respostas-ao-usuario-e-pode-reforcar-suas-crencas/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/Destaque-Urna-eleitoral-Eleicoes-2026-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-13T17:14:23+00:00"
     }
   ]
 }
