@@ -1,7 +1,194 @@
 {
-  "generated_at": "2026-08-17T12:40:01.849608+00:00",
+  "generated_at": "2026-08-17T18:36:13.416361+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "34fc82f82586ad7b",
+      "title": "Hidden Airtag revela que a Amazon está destruindo livros raros para treinar IA",
+      "summary": "A equipe da Amazon usa um T. rex se preparando para devorar um livro como logotipo.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-149405480-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-17T18:13:47+00:00"
+    },
+    {
+      "id": "634f8daa0537a36a",
+      "title": "Feedly atribui lentidão de uma semana a bug, não ao pivô de IA",
+      "summary": "Feedly diz que um bug está por trás dos problemas de desempenho que tornaram seu aplicativo da web quase “inutilizável” para alguns usuários, enquanto as reclamações sobre seus aplicativos móveis e suporte ao cliente são…",
+      "link": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-17T17:10:59+00:00"
+    },
+    {
+      "id": "dd288126b1a1b529",
+      "title": "Casa mais inteligente: Echo Dot em até três cores para transformar sua rotina com Alexa",
+      "summary": "Se você ainda não tem um smart speaker em casa — ou quer presentear alguém com um — esta é uma boa hora para agir. Separamos três opções do Echo Dot disponíveis na Amazon Brasil…",
+      "link": "https://olhardigital.com.br/2026/08/17/reviews/casa-mais-inteligente-echo-dot-em-ate-tres-cores-para-transformar-sua-rotina-com-alexa/",
+      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-17T17:00:00+00:00"
+    },
+    {
+      "id": "248c74532a4432bf",
+      "title": "Amazon, que começou vendendo livros, está destruindo textos raros para treinar IA",
+      "summary": "Livros raros são extremamente valiosos para o treinamento de LLMs, uma vez que esses modelos já treinaram em tudo o que está disponível online.",
+      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-17T16:38:44+00:00"
+    },
+    {
+      "id": "51d286f5e56dc908",
+      "title": "Nvidia garante até US$ 105 bilhões para novo data center da OpenAI",
+      "summary": "SB Energy ficará à frente da obra e da gestão do complexo, enquanto SoftBank ajudará a ampliar a estrutura de energia em Ohio em 2028 O post Nvidia garante até US$ 105 bilhões…",
+      "link": "https://olhardigital.com.br/2026/08/17/inteligencia-artificial/nvidia-garante-ate-us-105-bilhoes-para-novo-data-center-da-openai/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/openai-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-17T16:38:23+00:00"
+    },
+    {
+      "id": "6c408a7df087b66e",
+      "title": "Galaxy Watch 8 BT com inteligência artificial tem queda histórica com cupom",
+      "summary": "Galaxy Watch 8 BT (44 mm) traz tela Super AMOLED e recursos de IA da Samsung; smartwatch sai pelo menor preço até hoje com cupom no Mercado Livre Galaxy Watch 8 BT com…",
+      "link": "https://tecnoblog.net/achados/galaxy-watch-8-bt-com-inteligencia-artificial-tem-queda-historica-com-cupom/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/ukunaxh68o-4.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-17T16:35:35+00:00"
+    },
+    {
+      "id": "f7751a62e0c6a2e9",
+      "title": "Groq levanta US$ 350 milhões para impulsionar seu pivô de chips de IA para neocloud",
+      "summary": "Groq levantou US$ 350 milhões em uma avaliação de US$ 3,5 bilhões, à medida que a antiga fabricante de chips de IA se transforma em um negócio de neonuvem e expande sua presença de data center com tecnologia Nvidia.",
+      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-17T16:15:12+00:00"
+    },
+    {
+      "id": "3b2cf36119024c11",
+      "title": "Padrasto usava o Grok para criar mais de 7 mil imagens criminosas da enteada",
+      "summary": "Um padrasto usou a IA Grok para criar mais de 7 mil imagens sensuais com fotos de infância da própria enteada . O caso aconteceu no estado de Wyoming, nos Estados Unidos, e virou…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/padrasto-usava-o-grok-para-criar-mais-de-7-mil-imagens-criminosas-da-enteada/",
+      "image": "https://tl.ctcdn.com.br/a1rbSjGNng-j7lT3LgnIGHDsFk8=/0x0/filters:format(webp):quality(85)/c7faf469-02ca-47c0-b586-2cf4f9f54895.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-17T16:02:00+00:00"
+    },
+    {
+      "id": "0812e83cab3d5535",
+      "title": "OpenAI desmontou equipe responsável por avaliar riscos de IA, diz jornal",
+      "summary": "Funcionários foram divididos entre setores existentes e continuam trabalhando para garantir segurança, segundo fontes. OpenAI desmontou equipe responsável por avaliar riscos de…",
+      "link": "https://tecnoblog.net/noticias/openai-desmontou-equipe-responsavel-por-avaliar-riscos-de-ia-diz-jornal/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-4_capa-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-17T15:55:06+00:00"
+    },
+    {
+      "id": "9dc5caf38ae16c32",
+      "title": "Nvidia investe US$ 1,5 bilhão no desenvolvedor de data center SoftBank por trás do projeto OpenAI",
+      "summary": "O investimento da Nvidia no desenvolvedor de data center da SoftBank garantirá que seus chips abasteçam um data center OpenAI.",
+      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-17T15:16:24+00:00"
+    },
+    {
+      "id": "791de3d550735080",
+      "title": "App oficial do GeForce NOW chega ao Ubuntu e mais distribuições Linux",
+      "summary": "O Linux não só tem atraído a atenção dos PC gamers, como também da indústria. A NVIDIA oficializou o lançamento da versão final do aplicativo nativo do GeForce NOW para o sistema…",
+      "link": "https://canaltech.com.br/apps/app-oficial-do-geforce-now-chega-ao-ubuntu-e-mais-distribuicoes-linux/",
+      "image": "https://tl.ctcdn.com.br/bvu2V8BA-NW7GS_hnGhS_-coEtI=/0x0/filters:format(webp):quality(85)/b1327bc9-6279-4147-a485-b1f32feac6a9.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-17T15:08:00+00:00"
+    },
+    {
+      "id": "e61e0dc8f87c5ef1",
+      "title": "OpenAI desmancha equipe responsável por \"conter\" rebelião de IAs",
+      "summary": "A OpenAI dissolveu, no fim do mês passado, a equipe de \"preparedness\", responsável por avaliar se seus modelos de inteligência artificial representavam riscos graves e por…",
+      "link": "https://canaltech.com.br/mercado/openai-desmancha-equipe-responsavel-por-conter-rebeliao-de-ias/",
+      "image": "https://tl.ctcdn.com.br/f80LMEfza9UlSDsBuYiBdZLxokg=/0x0/filters:format(webp):quality(85)/522470c8-5fb9-4b0f-ba80-07740340ac5b.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-17T15:02:00+00:00"
+    },
+    {
+      "id": "253628019e5f5013",
+      "title": "Linux 7.2 é anunciado por Linus Torvalds; confira as principais novidades",
+      "summary": "Linus Torvalds anunciou oficialmente o kernel Linux 7.2, mantendo o cronograma mesmo com o alto volume de relatórios de bugs gerados por IA. Linux 7.2 é anunciado por Linus…",
+      "link": "https://tecnoblog.net/noticias/linux-7-2-e-anunciado-por-linus-torvalds-confira-as-principais-novidades/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/04/linux-linus-torvalds-tux-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-17T15:00:20+00:00"
+    },
+    {
+      "id": "42f3c156d2764530",
+      "title": "AirTag revela como a Amazon destrói livros raros para treinamento de IA",
+      "summary": "A Amazon compra grandes quantidades de livros impressos, digitaliza-os como dados de treinamento de IA e os destrói no processo. O artigo AirTag revela como a Amazon destrói livros raros para IA…",
+      "link": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Destructive-Book-Training.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-17T14:43:04+00:00"
+    },
+    {
+      "id": "7aae8a630da48bb5",
+      "title": "OpenAI assina aluguel recorde de data center em Ohio com Nvidia apoiando até US$ 105 bilhões",
+      "summary": "OpenAI assinou um contrato de arrendamento de 20 anos para um data center de 8 gigawatts em Ohio. A Nvidia está garantindo até US$ 105 bilhões para o valor residual das instalações e se torna a…",
+      "link": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-17T14:13:26+00:00"
+    },
+    {
+      "id": "c620dc6898e53ae5",
+      "title": "Anthropic mostra como Claude insere marca d'água \"invisível\" em textos feitos por IA",
+      "summary": "A Anthropic revelou detalhes de como funciona o sistema de marca d’água invisível aplicado aos textos gerados pelo Claude. A tecnologia cria um padrão estatístico nas respostas…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/anthropic-mostra-como-claude-insere-marca-dagua-invisivel-em-textos-feitos-por-ia/",
+      "image": "https://tl.ctcdn.com.br/GeVucxq2cxWTFjBgDumBlE70oYY=/0x0/filters:format(webp):quality(85)/60c53e74-9ff4-4239-b082-6c5431dd3005.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-17T14:02:00+00:00"
+    },
+    {
+      "id": "7808c70542b40093",
+      "title": "O mercado de vídeo AI se recuperou do falso começo de Sora",
+      "summary": "Produtoras de IA como a Promise estão se instalando nos estúdios históricos de Hollywood, usando fundos em tempo real e outras ferramentas de IA para reduzir custos de filmes. Netflix já…",
+      "link": "https://the-decoder.com/ai-video-market-has-bounced-back-from-soras-false-start/",
+      "image": "https://the-decoder.com/wp-content/uploads/2024/03/sora_balloon_man.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-17T13:29:01+00:00"
+    },
     {
       "id": "527ad627cb9be66a",
       "title": "Microsoft acaba com função de IA no Excel",
@@ -23,6 +210,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-17T11:43:19+00:00"
+    },
+    {
+      "id": "e82fdf6a1f9efd8e",
+      "title": "Anthropic explica como funcionarão as marcas d'água de texto invisíveis de Claude",
+      "summary": "A Anthropic esclareceu como planeja aplicar marcas d'água invisíveis ao texto gerado por Claude, a fim de cumprir as regras europeias de transparência de IA. Na sexta-feira, Antrópico…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-17T10:57:13+00:00"
     },
     {
       "id": "484010f0645213d3",
@@ -100,6 +298,28 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-17T06:49:10+00:00"
+    },
+    {
+      "id": "1380f7766171a5a6",
+      "title": "A janela do defensor",
+      "summary": "A IA está remodelando a segurança cibernética tanto para atacantes quanto para defensores. Saiba como a OpenAI está fortalecendo suas defesas e o que as equipes de segurança podem fazer agora.",
+      "link": "https://openai.com/index/the-defenders-window",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-17T05:30:00+00:00"
+    },
+    {
+      "id": "22405ea1e27b33a1",
+      "title": "OpenAI se junta ao projeto PORTS-Pike",
+      "summary": "OpenAI se junta ao projeto PORTS-Pike, expandindo o investimento comunitário e apoiando milhares de empregos no sul de Ohio",
+      "link": "https://openai.com/index/openai-joins-ports-pike-project",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-17T05:00:00+00:00"
     },
     {
       "id": "3ff02964da6b7f4f",
@@ -771,226 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-14T16:46:28+00:00"
-    },
-    {
-      "id": "8d019fdc2f34f068",
-      "title": "O histórico do computador da OpenAI transforma seus cliques e pressionamentos de teclas em uma linha do tempo de memória ChatGPT pesquisável",
-      "summary": "O histórico do computador da OpenAI registra cliques, pressionamentos de teclas e alternâncias de aplicativos no Mac e os transforma em uma linha do tempo pesquisável para ChatGPT e Codex. Os dados são armazenados localmente como…",
-      "link": "https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/computer_history.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-14T16:43:43+00:00"
-    },
-    {
-      "id": "e5026bc3d2dc8fd3",
-      "title": "Agora você pode desativar as marcas d'água visíveis do Google Gemini",
-      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting…",
-      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-14T16:39:32+00:00"
-    },
-    {
-      "id": "c22aae7eac797072",
-      "title": "O Google agora permitirá que os usuários removam marcas d'água visíveis de suas gerações de IA",
-      "summary": "Desativar esta configuração não afetará os benchmarks invisíveis usados ​​para identificar um arquivo gerado por IA.",
-      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-14T16:13:40+00:00"
-    },
-    {
-      "id": "f01407f3c5b4e76c",
-      "title": "O estudo contradiz as afirmações da Antrópica e da OpenAI de que a pesquisa autônoma de IA está ao nosso alcance",
-      "summary": "Os agentes de IA que usam Claude Opus 4.8 e GPT-5.6 Sol receberam seis dias, US$ 3.000 em créditos de API e acesso à GPU para escrever artigos de pesquisa de IA de forma independente. Os autores originais de…",
-      "link": "https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/ai-assisted-science-rejected-papers-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-14T16:06:32+00:00"
-    },
-    {
-      "id": "744ebd52ee08e82a",
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "summary": "A Meta lançou o Glimmer esta semana, um modelo de IA aberto que qualquer um pode baixar e executar em seu próprio hardware – um contraste com o Muse Spark, o modelo mais poderoso da empresa que permanece…",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-14T15:43:28+00:00"
-    },
-    {
-      "id": "6d75ebceeb529432",
-      "title": "“Irmão” do Clippy sofre aposentadoria precoce",
-      "summary": "Mico chegou em 2025 para ser a cara do Copilot, mas unificação de recursos de IA deixou o personagem sem espaço. “Irmão” do Clippy sofre aposentadoria precoce",
-      "link": "https://tecnoblog.net/noticias/irmao-do-clippy-sofre-aposentadoria-precoce/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/lzfj0oxvdpe.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-14T15:15:12+00:00"
-    },
-    {
-      "id": "421ccd559c6d0ee8",
-      "title": "Chega de fórmulas: Gemini transforma planilhas do Google em miniapps interativos",
-      "summary": "O Google está transformando o Sheets em uma ferramenta mais visual com o lançamento do Sheets canvas . Integrado ao Gemini, o recurso usa comandos em linguagem natural para…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/chega-de-formulas-gemini-transforma-planilhas-do-google-em-miniapps-interativos/",
-      "image": "https://tl.ctcdn.com.br/x67sn5oyNL9JN9d2OS9Gut_qsOE=/0x0/filters:format(webp):quality(85)/53747657-4b3e-49ae-be7b-48177bbae2ef.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-14T15:06:00+00:00"
-    },
-    {
-      "id": "873f21b97eeb0410",
-      "title": "Como a IA está definindo um novo ponto de partida para o início de carreira",
-      "summary": "*Por Gabrielle Hayashi Durante décadas, o primeiro emprego funcionou como o verdadeiro laboratório prático do mercado de trabalho. Era nas funções de entrada que os jovens…",
-      "link": "https://canaltech.com.br/mercado/como-a-ia-esta-definindo-um-novo-ponto-de-partida-para-o-inicio-de-carreira/",
-      "image": "https://tl.ctcdn.com.br/tykel941NKHZCIEKTbZwsWD2rUg=/0x0/filters:format(webp):quality(85)/b780ec75-2a00-4858-a165-9256f2feb000.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-14T15:00:01+00:00"
-    },
-    {
-      "id": "4fe7bc8e58e844ab",
-      "title": "Xiaomi anuncia HyperOS 4; veja novidades e celulares compatíveis",
-      "summary": "Xiaomi revelou HyperOS 4 com novos efeitos visuais e assistente de IA renovado. Novidade traz ainda otimizações e mais personalização. Xiaomi anuncia HyperOS 4; veja novidades e…",
-      "link": "https://tecnoblog.net/noticias/xiaomi-anuncia-hyperos-4-veja-novidades-e-celulares-compativeis/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/hpyeros-soft-light-glass.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-14T14:32:33+00:00"
-    },
-    {
-      "id": "0778f93b3ef227dd",
-      "title": "OpenAI e Anthropic em guerra de preços enquanto rivais chineses de IA ganham terreno",
-      "summary": "Grupos norte-americanos lançam modelos mais baratos após novos desafios às suas ambições de biliões de dólares.",
-      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-14T14:27:14+00:00"
-    },
-    {
-      "id": "e572e64f342a469c",
-      "title": "GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras",
-      "summary": "OpenAI está lançando \"Ultrafast\", um novo modo de inferência que fornece GPT-5.6 Sol em até 750 tokens de saída por segundo, alimentado por hardware Cerebras de US$ 10 bilhões…",
-      "link": "https://the-decoder.com/gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/openai_ultrafast.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-14T14:21:50+00:00"
-    },
-    {
-      "id": "51108fffa3587a39",
-      "title": "Os hiperscaladores podem se arrepender de adotar o gás natural se a nova previsão se mostrar correta",
-      "summary": "Os preços do gás natural podem triplicar em algumas partes dos EUA, o que poderia sobrecarregar os hiperscaladores com contas enormes para alimentar os seus centros de dados de IA.",
-      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-14T14:05:00+00:00"
-    },
-    {
-      "id": "ade6aada8ce9da41",
-      "title": "Coifa da Xiaomi que se limpa sozinha chega por R$ 1.150; veja o que ela faz",
-      "summary": "A Xiaomi lançou na China a Mijia Smart Range Hood 3 , nova coifa inteligente com design estilo europeu e sistema de limpeza a seco do rotor . O produto está em pré-venda na Xiaomi…",
-      "link": "https://canaltech.com.br/eletro/coifa-da-xiaomi-que-se-limpa-sozinha-chega-por-r-1150-veja-o-que-ela-faz/",
-      "image": "https://tl.ctcdn.com.br/4NRwExXPVBa5UICzQNnGa17AjQY=/0x0/filters:format(webp):quality(85)/eac38c57-f182-4252-bb76-a5ed79da9bd9.webp",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-14T12:41:16+00:00"
-    },
-    {
-      "id": "13e8553bb3bb2a86",
-      "title": "10 sites pouco conhecidos que resolvem seus problemas",
-      "summary": "Nem toda ferramenta útil precisa de inteligência artificial ou de dezenas de funcionalidades. Muitas vezes, um site simples resolve um problema específico e evita horas de…",
-      "link": "https://canaltech.com.br/internet-e-redes-sociais/sites-pouco-conhecidos-resolver-problemas/",
-      "image": "https://tl.ctcdn.com.br/PqCDLX2bfw3Kio91uOhB5Ta-uGc=/0x0/filters:format(webp):quality(85)/fe8c21da-9787-4488-af00-3f8bd0aee741.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-14T12:30:00+00:00"
-    },
-    {
-      "id": "391bc48e5e489661",
-      "title": "Claude Code agora executa manutenção diária no software da Anthropic com uma taxa de mesclagem de 46 por cento",
-      "summary": "A Anthropic está testando se Claude Code pode lidar com a manutenção diária dos aplicativos da própria empresa, desde a difusão de falhas até a remoção de código morto. Em poucas semanas, a IA criou 388 pull…",
-      "link": "https://the-decoder.com/claude-code-now-runs-daily-maintenance-on-anthropics-software-with-a-46-percent-merge-rate/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/claude_logo-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-14T11:44:38+00:00"
-    },
-    {
-      "id": "50b40fede50132e2",
-      "title": "7 dicas para usar o novo Modo de Voz hiper-realista do ChatGPT",
-      "summary": "O Modo de Voz do ChatGPT ficou mais natural com a chegada do GPT-Live , modelo desenvolvido para tornar as conversas por áudio mais próximas de um diálogo entre pessoas. A…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/dicas-como-usar-novo-modo-de-voz-chatgpt/",
-      "image": "https://tl.ctcdn.com.br/d8uEXwE-Mu8QUmtUoV2_lYmUt-0=/0x0/filters:format(webp):quality(85)/44c133cc-f8d2-4a5e-ae8f-bbc38af2e80a.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-14T11:00:00+00:00"
-    },
-    {
-      "id": "37134c84c5c0bb93",
-      "title": "Uber e Pony.ai planejam trazer 2.000 robotáxis para a Europa",
-      "summary": "A parceria está a expandir-se para além do mercado inicial de Zagreb, na Croácia, para quatro cidades europeias adicionais.",
-      "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-14T10:44:30+00:00"
-    },
-    {
-      "id": "250f5b8de88c6779",
-      "title": "IA nas empresas: por que o método passou a ser mais importante que a ferramenta",
-      "summary": "Passada a primeira metade de 2026, alguns sinais do mercado já permitem identificar uma mudança de direção importante na adoção de inteligência artificial pelas empresas. No…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-nas-empresas-por-que-o-metodo-passou-a-ser-mais-importante-que-a-ferramenta/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-14T10:43:35+00:00"
-    },
-    {
-      "id": "9da584f102d05f46",
-      "title": "Zhipu AI lança GLM-5.3, afirma que é o modelo de codificação de pesos abertos mais forte",
-      "summary": "A Zhipu AI lançou o GLM-5.3, um modelo que, de acordo com seus próprios benchmarks, é o modelo de codificação de pesos abertos mais poderoso, com uma melhoria de 50% em relação ao seu antecessor…",
-      "link": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/04/zhipu-ai-logo-wall.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-14T10:21:34+00:00"
-    },
-    {
-      "id": "9d7bfbd4e75cd5b0",
-      "title": "A Apple treinou seu próprio modelo de IA para a China com a ajuda do Alibaba",
-      "summary": "A Apple supostamente treinou um modelo de IA personalizado para o mercado chinês ao lado da gigante de tecnologia nacional Alibaba, uma rara parceria transfronteiriça que elimina tensões crescentes…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-14T09:21:17+00:00"
     }
   ]
 }
