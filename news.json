@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-17T01:09:09.420658+00:00",
+  "generated_at": "2026-08-17T06:51:46.522859+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "515e3a464c2c62f8",
+      "title": "Stripe está adquirindo a startup de IA OpenRouter por mais de US$ 7 bilhões",
+      "summary": "De acordo com a Bloomberg, Stripe está adquirindo a startup de IA OpenRouter por mais de US$ 7 bilhões, acima da avaliação mais recente de US$ 1,3 bilhão. OpenRouter oferece acesso a mais de 400 IA…",
+      "link": "https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/tokenization-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-17T06:49:10+00:00"
+    },
     {
       "id": "9bc079dfeb9a083c",
       "title": "6 formas de assinar o Claude mais barato e pagar menos pelo Pro",
@@ -980,17 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-13T21:30:00+00:00"
-    },
-    {
-      "id": "d093a86475f74032",
-      "title": "Writer apresenta novo modelo de IA e equipamento atualizado para conter custos de token",
-      "summary": "Construído como uma variação pós-treinamento do modelo de código aberto GLM-5.2 da Z.ai, Writer diz que o novo sistema deve fornecer recursos prontos para implantação a um preço muito mais baixo.",
-      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-13T21:13:24+00:00"
     }
   ]
 }
