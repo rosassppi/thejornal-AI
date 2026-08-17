@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-08-16T18:25:51.869207+00:00",
+  "generated_at": "2026-08-17T01:09:09.420658+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "9bc079dfeb9a083c",
+      "title": "6 formas de assinar o Claude mais barato e pagar menos pelo Pro",
+      "summary": "O Claude é uma das principais alternativas ao ChatGPT e ao Gemini, especialmente entre usuários que procuram uma IA para tarefas complexas, como criação de textos, programação e…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-assinar-claude-mais-barato/",
+      "image": "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-16T23:00:00+00:00"
+    },
+    {
+      "id": "d1b7ed52e00e3aef",
+      "title": "OpenAI supostamente dissolveu sua equipe de preparação",
+      "summary": "De acordo com o Financial Times, a OpenAI dissolveu a sua equipa de preparação no final do mês passado. O trabalho da equipe de preparação era avaliar se os modelos representavam riscos graves e…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-16T21:32:56+00:00"
+    },
+    {
+      "id": "ce56f7c0b2ba7087",
+      "title": "Stripe irá adquirir o OpenRouter, startup de gateway de IA, por mais de US$ 7 bilhões",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-16T20:57:04+00:00"
+    },
+    {
+      "id": "cc25c03c4101d514",
+      "title": "CEO da Anthropic: rejeição à IA é crise de confiança no setor",
+      "summary": "Dario Amodei nega pessimismo em relação às inteligências artificiais e reconhece que público geral questiona ganhos com avanço da tecnologia O post CEO da Anthropic: rejeição à IA…",
+      "link": "https://olhardigital.com.br/2026/08/16/inteligencia-artificial/ceo-da-anthropic-rejeicao-a-ia-e-crise-de-confianca-no-setor/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/01/shutterstock_2645157717-e1773252604745.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-16T20:36:00+00:00"
+    },
+    {
+      "id": "9a585195e787c793",
+      "title": "Por que as pessoas não estão comprando o futuro da IA ​​de Mark Zuckerberg",
+      "summary": "No último episódio do podcast Equity, discutimos por que nem todo mundo está acreditando na visão de Zuckerberg.",
+      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-16T20:32:01+00:00"
+    },
+    {
+      "id": "6868a9b4515cbf95",
+      "title": "Hora de economizar: impressoras multifuncionais em promoção na Amazon",
+      "summary": "Se você estava esperando uma boa oportunidade para trocar aquela impressora antiga ou comprar a primeira da casa, chegou a hora. Reunimos três opções de impressoras…",
+      "link": "https://olhardigital.com.br/2026/08/16/reviews/hora-de-economizar-impressoras-multifuncionais-em-promocao-na-amazon-2/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-16T18:40:00+00:00"
+    },
     {
       "id": "987191c4e2bdca64",
       "title": "Qual é o modelo aberto de IA mais popular do mundo? Não é nenhum feito nos EUA",
@@ -925,72 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-13T21:13:24+00:00"
-    },
-    {
-      "id": "e665d084820137ec",
-      "title": "Google lança Gemini 3.7 Flash apenas três semanas após versão anterior",
-      "summary": "Modelo leve da IA do Google ganha atualização que custa metade do preço para concorrer com serviços chineses. Google lança Gemini 3.7 Flash apenas três semanas após versão anterior",
-      "link": "https://tecnoblog.net/noticias/google-lanca-gemini-3-7-flash-apenas-tres-semanas-apos-versao-anterior/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-3-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-13T20:44:57+00:00"
-    },
-    {
-      "id": "ec89247e2958dd87",
-      "title": "\"iFood chinês\" lança caixa para motoboy que esquenta comida no trajeto",
-      "summary": "A JD.com, gigante do e-commerce chinês que também atua no segmento de delivery, começou a usar uma nova caixa inteligente para entregadores que mantém a comida aquecida durante o…",
-      "link": "https://canaltech.com.br/produtos/ifood-chines-lanca-caixa-para-motoboy-que-esquenta-comida-no-trajeto/",
-      "image": "https://tl.ctcdn.com.br/bZsbZOwhwVQWnFPQuV0wN4OPe34=/0x0/filters:format(webp):quality(85)/52dcc182-1781-4424-8664-b53bef186836.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-13T20:40:20+00:00"
-    },
-    {
-      "id": "0d7bf7f86bc1b4fb",
-      "title": "A Databricks queria levantar US$ 1 bilhão, os investidores queriam US$ 15 bilhões. Ele fechou em US$ 5 bilhões com uma avaliação de US$ 190 bilhões.",
-      "summary": "IA é cara, disse Ali Ghodsi ao TechCrunch. Com tantos investidores querendo participar de sua última rodada, ele disse sim a mais do que o planejado.",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-13T20:14:39+00:00"
-    },
-    {
-      "id": "27a3074fb76a1dfc",
-      "title": "Meta quer usar IA para combater golpes no WhatsApp",
-      "summary": "Modelo analisa mensagens em tempo real e funciona no próprio aparelho, sem depender da nuvem. Meta quer usar IA para combater golpes no WhatsApp",
-      "link": "https://tecnoblog.net/noticias/meta-quer-usar-ia-para-combater-golpes-no-whatsapp/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/06/whatsapp_capa-2_tb-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-13T20:08:46+00:00"
-    },
-    {
-      "id": "356a89b6ea55d449",
-      "title": "O novo recurso de bate-papo do Suno Studio 2.0 permite que você converse com seu DAW como se fosse um colega de banda",
-      "summary": "Com o Studio 2.0, a Suno transforma sua plataforma musical de IA em uma ferramenta de produção completa para assinantes Premier. Um recurso de bate-papo cria instrumentos e plug-ins via texto, enquanto a importação MIDI…",
-      "link": "https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/suno_ai_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-13T19:39:54+00:00"
-    },
-    {
-      "id": "32bc4b8d7d79ba6d",
-      "title": "OpenAI is losing its second executive this week",
-      "summary": "Outro executivo da OpenAI está de partida. Denise Dresser, que ingressou na OpenAI como diretora de receita em dezembro, após atuar como CEO do Slack, sairá no \"próximo…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275749204.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-13T19:28:39+00:00"
     }
   ]
 }
