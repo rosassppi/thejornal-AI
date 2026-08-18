@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-08-17T18:36:13.416361+00:00",
+  "generated_at": "2026-08-18T01:06:42.911560+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "e7e318e87e3c6918",
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "summary": "A fabricante de modelos adicionou US$ 18 bilhões em receita anualizada em dois meses.",
+      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-17T23:56:26+00:00"
+    },
+    {
+      "id": "1193b81dc796957f",
+      "title": "Anthropic supera R$ 338 bi em receita anualizada antes de possível IPO",
+      "summary": "Número representa forte avanço em relação aos R$ 244 bi registrados em maio e salto ainda mais expressivo diante dos cerca de R$ 47 bi alcançados no fim de 2025 O post Anthropic…",
+      "link": "https://olhardigital.com.br/2026/08/17/pro/anthropic-supera-r-338-bi-em-receita-anualizada-antes-de-possivel-ipo/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/anthropic-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-17T23:25:27+00:00"
+    },
+    {
+      "id": "526cd2e1f6feaca6",
+      "title": "Inicialização de automação de IA Relay é encerrada, equipe se junta à equipe do Google Chrome",
+      "summary": "“Temos alguns planos realmente ambiciosos para ajudá-lo a trabalhar com IA no Chrome para realizar tarefas, e terei mais para compartilhar em breve”, disse Jacob Bank, fundador e CEO do Relay.",
+      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-17T21:27:05+00:00"
+    },
+    {
+      "id": "c82557155e06c975",
+      "title": "Ex-engenheiros da SpaceX estão construindo uma fábrica robótica para fabricar peças de aço",
+      "summary": "“Não estamos necessariamente construindo de forma dogmática rumo à autonomia total.”",
+      "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/1872-Factory-One-opening-500x500.jpeg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-17T21:18:49+00:00"
+    },
+    {
+      "id": "3cb88cf705e774c0",
+      "title": "EUA dão ultimato a países na corrida da IA: escolher Washington ou Pequim",
+      "summary": "Países que participarem simultaneamente de iniciativas de cooperação em IA lideradas pelos dois países poderão ser excluídos de futuras parcerias com os estadunidenses O post EUA…",
+      "link": "https://olhardigital.com.br/2026/08/17/pro/eua-dao-ultimato-a-paises-na-corrida-da-ia-escolher-washington-ou-pequim/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/iStock-2196274267-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-17T20:54:30+00:00"
+    },
+    {
+      "id": "bc70c978dbf8cbc7",
+      "title": "Criadora do ChatGPT defende semana de 4 dias, mas impõe 70 horas a funcionários",
+      "summary": "Enquanto o Brasil discute a escala 6x1, muitas empresas de tecnologia já defenderam que uma jornada de quatro dias de trabalho semanais é possível com ajuda da IA. No entanto, a…",
+      "link": "https://canaltech.com.br/mercado/criadora-do-chatgpt-defende-semana-de-4-dias-mas-impoe-70-horas-a-funcionarios/",
+      "image": "https://tl.ctcdn.com.br/XfTzLugH6McGXGP4aLhgDgFXGPY=/0x0/filters:format(webp):quality(85)/5d72c70c-ba51-45f5-8c5b-9d515447292e.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-17T20:30:00+00:00"
+    },
+    {
+      "id": "fcd8a46bae3dc394",
+      "title": "ByteDance faz acordo com Hollywood após pressão sobre direitos autorais de IA",
+      "summary": "Acordo envolve especificamente o Seedance, ferramenta de geração de vídeos, e o Seedream, modelo de geração de imagens da ByteDance O post ByteDance faz acordo com Hollywood após…",
+      "link": "https://olhardigital.com.br/2026/08/17/pro/bytedance-faz-acordo-com-hollywood-apos-pressao-sobre-direitos-autorais-de-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2024/11/shutterstock_2428082879-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-17T20:10:59+00:00"
+    },
+    {
+      "id": "8604aae7d9f73923",
+      "title": "ChatGPT invade o Google Drive e passa a editar documentos no lugar do Gemini",
+      "summary": "A OpenAI atualizou a integração do Google Drive no ChatGPT para dar ao chatbot acesso aos arquivos armazenados na plataforma. Desde 13 de agosto de 2026, assinantes dos planos…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-invade-o-google-drive-e-passa-a-editar-documentos-no-lugar-do-gemini/",
+      "image": "https://tl.ctcdn.com.br/YcTZHHYFhPr5QzRqY7vwryPXa7w=/0x0/filters:format(webp):quality(85)/3ec59fd7-f707-443c-88c5-245a11e1554d.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-17T20:01:00+00:00"
+    },
+    {
+      "id": "bf50ec5ce617ac83",
+      "title": "Mesmo cluster, 33 pontos a mais de utilização: o que mudou foi a ordem",
+      "summary": "",
+      "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-17T19:46:21+00:00"
+    },
+    {
+      "id": "81348e26e404dbd4",
+      "title": "O que falta aos defensores de Flock",
+      "summary": "Esta história apareceu originalmente em The Algorithm, nosso boletim informativo semanal sobre IA. Para receber histórias como essa em sua caixa de entrada primeiro, inscreva-se aqui. Flock, a gigante da tecnologia policial conhecida por…",
+      "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-17T19:16:09+00:00"
+    },
+    {
+      "id": "0657ca0e23ec86fe",
+      "title": "Hollywood fecha acordo com TikTok para impedir clones de atores por IA",
+      "summary": "A Motion Picture Association (MPA) e a ByteDance, dona do TikTok, firmaram um memorando de entendimento (MOU) para criar uma estrutura de proteção à propriedade intelectual da…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/hollywood-fecha-acordo-com-tiktok-para-impedir-clones-de-atores-por-ia/",
+      "image": "https://tl.ctcdn.com.br/iXHJmGYWLbTv9MsrBae_CCKeTeg=/0x0/filters:format(webp):quality(85)/e9633a98-e8e8-43cf-ac1c-ded6aa03989c.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-17T19:06:00+00:00"
+    },
+    {
+      "id": "b37c156e46e59e2d",
+      "title": "Higgsfield levanta US$ 400 milhões na Série B, quadruplicando sua avaliação em 8 meses para US$ 5,4 bilhões",
+      "summary": "Higgsfield, fundada pelo ex-executivo do Snap Alex Mashrabov, permite aos usuários criar imagens e vídeos de IA.",
+      "link": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-17T19:04:27+00:00"
+    },
+    {
+      "id": "96b5077b84747d90",
+      "title": "MiniMax lança MiniMax-Music3: um modelo musical de peso aberto que gera músicas completas de cinco minutos a partir de letras e uma legenda estruturada",
+      "summary": "A MiniMax lançou o MiniMax-Music3, um modelo de texto para música de peso aberto. Com letras com tags de seção e legenda estruturada, gera uma música completa de até cinco minutos…",
+      "link": "https://www.marktechpost.com/2026/08/17/minimax-releases-minimax-music3/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-17T18:36:40+00:00"
+    },
     {
       "id": "34fc82f82586ad7b",
       "title": "Hidden Airtag revela que a Amazon está destruindo livros raros para treinar IA",
@@ -12,6 +155,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-17T18:13:47+00:00"
+    },
+    {
+      "id": "2e1856d1036c3a9b",
+      "title": "Developing an End-to-End Document Intelligence Pipeline with docTR for OCR, Layout Analysis, KIE, Benchmarking, and Searchable PDFs",
+      "summary": "Desenvolva um pipeline completo de inteligência de documentos com docTR, integrando OCR, análise de layout e KIE para extração orientada à produção e criação de PDF pesquisável. A postagem…",
+      "link": "https://www.marktechpost.com/2026/08/17/end-to-end-document-intelligence-pipeline-with-doctr-for-ocr/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-17T17:52:50+00:00"
     },
     {
       "id": "634f8daa0537a36a",
@@ -210,6 +364,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-17T11:43:19+00:00"
+    },
+    {
+      "id": "d189a5b52ecb6f36",
+      "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+      "summary": "A maior invenção em tecnologia para animais de estimação nos últimos anos é o robô de maca. Uma máquina que recolhe o cocô dos seus gatinhos para que você não precise fazer isso - o que mais um dono de gato poderia querer?…",
+      "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_LITTER_ROBOT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-17T11:00:00+00:00"
     },
     {
       "id": "e82fdf6a1f9efd8e",
@@ -826,171 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-14T20:41:57+00:00"
-    },
-    {
-      "id": "8c1ddff836394be0",
-      "title": "Google decide que marca d’água para IA é opcional; entenda",
-      "summary": "Gemini e Flow ganham opção de remover marca d'água visível. Google decide que marca d’água para IA é opcional; entenda",
-      "link": "https://tecnoblog.net/noticias/google-decide-que-marca-dagua-para-ia-e-opcional-entenda/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-2-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-14T20:40:18+00:00"
-    },
-    {
-      "id": "6df7121aa8b4d418",
-      "title": "Caminhões autônomos estão sendo testados oficialmente nas rodovias da Califórnia",
-      "summary": "Aurora Innovation e Kodiak AI, duas empresas que desenvolvem caminhões autônomos, receberam licenças do Departamento de Veículos Motorizados da Califórnia.",
-      "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-14T20:37:49+00:00"
-    },
-    {
-      "id": "f248efbb61761470",
-      "title": "Jovens dos EUA não confiam nos líderes da IA, mostra pesquisa",
-      "summary": "Levantamento mostra pessimismo sobre o impacto da IA na carreira e rejeição elevada a líderes de big techs ligadas à IA. Jovens dos EUA não confiam nos líderes da IA, mostra…",
-      "link": "https://tecnoblog.net/noticias/jovens-dos-eua-nao-confiam-nos-lideres-da-ia-mostra-pesquisa/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/ceos-tecnologia-ia-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-14T20:26:35+00:00"
-    },
-    {
-      "id": "6a626d517a95fc1e",
-      "title": "OpenAI prevê que IA pode injetar R$ 1 trilhão no Brasil até 2030, mas como?",
-      "summary": "A adoção de inteligência artificial pode adicionar R$ 986,7 bilhões ao Produto Interno Bruto (PIB) brasileiro entre 2027 e 2030. A estimativa vem de um estudo do centro de…",
-      "link": "https://canaltech.com.br/mercado/openai-preve-que-ia-pode-injetar-r-1-trilhao-no-brasil-ate-2030-mas-como/",
-      "image": "https://tl.ctcdn.com.br/v1nXvNq1E8zQbSkEl4fZYDaLXho=/0x0/filters:format(webp):quality(85)/09e331f5-4e77-4505-880c-d981d18e3466.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-14T20:01:00+00:00"
-    },
-    {
-      "id": "8a1931ce594c56b5",
-      "title": "Joshua Kushner, da Thrive, repreende os VCs do Vale do Silício por causa da euforia da IA",
-      "summary": "A oportunidade da IA ​​é enorme, mas “seria também um grave erro da nossa parte deixar que a excitação enfraquecesse a nossa disciplina de investimento”, alerta Kushner na sua primeira carta de investimento.",
-      "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-14T19:33:00+00:00"
-    },
-    {
-      "id": "06427ece34ff2be7",
-      "title": "Google acaba com marca d'água de estrela em imagens e vídeos feitos por IA",
-      "summary": "A partir de agora, usuários poderão remover a marca d'água visível aplicada a imagens, vídeos e músicas gerados por inteligência artificial no Gemini. O ícone em formato de…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/google-acaba-com-marca-dagua-de-estrela-em-imagens-e-videos-feitos-por-ia/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-14T19:06:49+00:00"
-    },
-    {
-      "id": "73f9670513436d74",
-      "title": "Histórico do ChatGPT \"entregou\" adolescente envolvido em duplo homicídio familiar",
-      "summary": "Um adolescente de 17 anos foi indiciado por matar a mãe e o irmão mais novo dentro de casa em Massachusetts, nos Estados Unidos. Segundo a promotoria do condado de Middlesex…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/historico-do-chatgpt-entregou-adolescente-envolvido-em-duplo-homicidio-familiar/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-14T19:01:00+00:00"
-    },
-    {
-      "id": "0ae8bdfde1ca6381",
-      "title": "Galaxy Buds 4 fica 39% mais barato com cupom no Mercado Livre",
-      "summary": "Galaxy Buds 4 com ANC, Bluetooth 6.1 e Galaxy AI fica com ótimo preço combinando pagamento via Pix e cupom no Meli Galaxy Buds 4 fica 39% mais barato com cupom no Mercado Livre",
-      "link": "https://tecnoblog.net/achados/galaxy-buds-4-fica-39-mais-barato-com-cupom-no-mercado-livre/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-14T18:05:12+00:00"
-    },
-    {
-      "id": "a023c91b0b0f783c",
-      "title": "Como vai funcionar sistema do Claude que dedura quem cria texto com IA?",
-      "summary": "A Anthropic anunciou que os textos gerados por qualquer modelo do Claude receberão uma marca d’água invisível para indicar uso de IA. A medida vale tanto para arquivos escritos do…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/claude-como-funciona-sistema-que-dedura-quem-cria-texto-com-ia/",
-      "image": "https://tl.ctcdn.com.br/7e_rpyif-V2yS_RMG1aN-EM9--I=/0x0/filters:format(webp):quality(85)/4c03a197-4217-4ac2-aba7-761c16cb8d12.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-14T18:00:02+00:00"
-    },
-    {
-      "id": "2dbd025943acfbff",
-      "title": "Suspeitando que o tribunal usasse IA, o homem injetou instruções nos processos para tentar ganhar o caso",
-      "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
-      "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1793608536-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-14T17:26:53+00:00"
-    },
-    {
-      "id": "cd0c715c9d6109c7",
-      "title": "Chega de confusão: Microsoft unifica apps do Copilot",
-      "summary": "Empresa vai acabar com a separação entre Copilot pessoal e Microsoft 365 Copilot. Chega de confusão: Microsoft unifica apps do Copilot",
-      "link": "https://tecnoblog.net/noticias/chega-de-confusao-microsoft-unifica-apps-do-copilot/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/logo-copilot-novo-1-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-14T17:08:27+00:00"
-    },
-    {
-      "id": "bf9169bc18a6de86",
-      "title": "Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license",
-      "summary": "A equipe de IA do Alibaba, Qwen, lançou novos pesos de modelo aberto sob a licença Apache 2.0 com Qwen 3.8. O denso modelo de 27 bilhões de parâmetros foi projetado para superar o maior…",
-      "link": "https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/qwen_logo-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-14T17:01:54+00:00"
-    },
-    {
-      "id": "ac19fc1cc3a0a915",
-      "title": "Mark Zuckerberg tem um Instagzam",
-      "summary": "A marca nominativa do Instagram é icônica. Bem, foi icônico. Aparentemente, o Instagram achou que parecia antigo, então a empresa lançou um novo esta semana. Não se parece com o antigo Instagram…",
-      "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRGVSST_0814_SIte.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-14T16:54:16+00:00"
-    },
-    {
-      "id": "18145d4f819ce90a",
-      "title": "USP desenvolve IA que ajuda dentistas a detectar cáries em radiografias",
-      "summary": "Tecnologia criada em Ribeirão Preto também pode apoiar o planejamento clínico, acelerar pesquisas e ampliar a análise de imagens O post USP desenvolve IA que ajuda dentistas a…",
-      "link": "https://olhardigital.com.br/2026/08/14/inteligencia-artificial/usp-desenvolve-ia-que-ajuda-dentistas-a-detectar-caries-em-radiografias/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/radiografia-exame-de-imagem-dente-odontologista-dentista-1-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-14T16:48:04+00:00"
-    },
-    {
-      "id": "3beee28ece31bed6",
-      "title": "Os desafios de se regulamentar a IA no Brasil e no mundo",
-      "summary": "como aproveitar as possibilidades da inteligência artificial sem deixar de controlar os riscos que ela pode produzir? O post Os desafios de se regulamentar a IA no Brasil e no…",
-      "link": "https://olhardigital.com.br/2026/08/14/inteligencia-artificial/os-desafios-de-se-regulamentar-a-ia-no-brasil-e-no-mundo/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-14T16:46:28+00:00"
     }
   ]
 }
