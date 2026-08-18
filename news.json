@@ -1,7 +1,249 @@
 {
-  "generated_at": "2026-08-18T12:41:17.063413+00:00",
+  "generated_at": "2026-08-18T18:35:27.647417+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "1fdf8b04914e2c94",
+      "title": "Novo benchmark classifica APIs de pesquisa para agentes de IA em qualidade, custo e velocidade",
+      "summary": "A Artificial Analysis lançou o “Search Index”, um benchmark que classifica os provedores de API de pesquisa para agentes de IA em termos de qualidade, custo e velocidade. Dos sete provedores testados com GPT-5.6…",
+      "link": "https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/aa_search_index_benchmark.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-18T18:10:56+00:00"
+    },
+    {
+      "id": "5ba78b757300e8cc",
+      "title": "De quanta memória seu agente realmente precisa?",
+      "summary": "",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-18T18:09:38+00:00"
+    },
+    {
+      "id": "1d131bb25f345148",
+      "title": "OpenAI institui novas salvaguardas após violação do Hugging Face",
+      "summary": "As novas salvaguardas incluem um monitoramento mais detalhado dos modelos durante o processo de desenvolvimento, bem como maior ênfase no alinhamento e segurança durante o pós-treinamento…",
+      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-18T18:00:00+00:00"
+    },
+    {
+      "id": "9f1fb4617b322f70",
+      "title": "A avaliação da Etched dobra para US$ 21 bilhões em um mês",
+      "summary": "Jane Street instalou o primeiro sistema de cluster de IA enviado pela Etched e ficou tão impressionada que liderou outra rodada massiva, diz a startup.",
+      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-18T17:21:58+00:00"
+    },
+    {
+      "id": "75164ef21ec26da6",
+      "title": "Claude fica fora do ar nesta terça-feira (18)",
+      "summary": "Anthropic já está ciente do problema O post Claude fica fora do ar nesta terça-feira (18) apareceu primeiro em Olhar Digital .",
+      "link": "https://olhardigital.com.br/2026/08/18/inteligencia-artificial/claude-fica-fora-do-ar-nesta-terca-feira-18/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/claude_downdetector-1024x293.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-18T17:14:24+00:00"
+    },
+    {
+      "id": "1d084c250590ee2d",
+      "title": "O ‘botão de emergência’ que empresas vão precisar para segurar IAs",
+      "summary": "Com agentes de IA trabalhando em rede, especialistas defendem travas e 'kill switches' para evitar que erros se espalhem nas empresas O post O ‘botão de emergência’ que empresas…",
+      "link": "https://olhardigital.com.br/2026/08/18/seguranca/o-botao-de-emergencia-que-empresas-vao-precisar-para-segurar-ias/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Destaque-Consenso-agentes-IA-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-18T17:01:40+00:00"
+    },
+    {
+      "id": "9044d288fd56a1e4",
+      "title": "Casa mais inteligente: Echo Dot em três cores diferentes está em promoção na Amazon",
+      "summary": "Se você quer dar um upgrade na sua casa com tecnologia de voz, essa é uma boa hora para agir. A Amazon está com três versões do Echo Dot — o popular smart speaker com Alexa — em…",
+      "link": "https://olhardigital.com.br/2026/08/18/reviews/casa-mais-inteligente-echo-dot-em-tres-cores-diferentes-esta-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-18T17:00:00+00:00"
+    },
+    {
+      "id": "5ce0206eb1853cd4",
+      "title": "Por que os AirPods equipados com câmera da Apple podem não ser os ‘pods pervertidos’ que os consumidores temem",
+      "summary": "Os AirPods equipados com câmera vazados da Apple podem evitar as armadilhas de privacidade de outros wearables de IA, impedindo os usuários de gravar fotos e vídeos.",
+      "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-18T16:19:10+00:00"
+    },
+    {
+      "id": "364fb1a3eda7be3b",
+      "title": "Gemini Notebook libera cópia de cadernos inteiros com um único clique",
+      "summary": "O Gemini Notebook, antigo NotebookLM, ganhou uma função que permite copiar um caderno inteiro em poucos cliques. A novidade inclui todas as fontes originais e os materiais criados…",
+      "link": "https://canaltech.com.br/apps/gemini-notebook-libera-copia-de-cadernos-inteiros-com-um-unico-clique/",
+      "image": "https://tl.ctcdn.com.br/AArUW972oN0-UJdphzxMXRxQFKQ=/0x0/filters:format(webp):quality(85)/2a43e62e-76c9-4645-be56-519ada3d6524.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-18T15:01:01+00:00"
+    },
+    {
+      "id": "cb49b7c8b9eb6725",
+      "title": "Anthropic explica como o Claude vai identificar textos gerados por IA",
+      "summary": "Tecnologia cria um padrão na escolha das palavras para estimar se o conteúdo teve participação do chatbot. Anthropic explica como o Claude vai identificar textos gerados por IA",
+      "link": "https://tecnoblog.net/noticias/anthropic-explica-como-o-claude-vai-identificar-textos-gerados-por-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-5-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-18T14:56:19+00:00"
+    },
+    {
+      "id": "bc8579f635f31b97",
+      "title": "Magalu vende lava e seca top da Samsung de 13 kg em 12x com R$ 545 de desconto",
+      "summary": "Quem está pensando em trocar a máquina de lavar pode encontrar uma boa oportunidade no AliExpress. A Samsung Lava e Seca AI Control WD13FG de 13 kg está saindo por R$ 3.788 …",
+      "link": "https://canaltech.com.br/eletro/magalu-vende-lava-e-seca-top-da-samsung-de-13-kg-em-12x-com-r-545-de-desconto/",
+      "image": "https://tl.ctcdn.com.br/UZ-8hSGkC5-9R57Xs_7aVSZalqI=/0x0/filters:format(webp):quality(85)/151e74e0-62d9-4903-ad4b-6dfd0cfd5961.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-18T14:13:55+00:00"
+    },
+    {
+      "id": "113014f0cf94c792",
+      "title": "OpenAI oficializa operações no Brasil e revela números de crescimento",
+      "summary": "A OpenAI oficializou nesta segunda-feira (17) o início de suas operações comerciais no Brasil . O anúncio aconteceu em evento para jornalistas no hotel Rosewood, em São Paulo, e…",
+      "link": "https://canaltech.com.br/mercado/openai-oficializa-operacoes-no-brasil-e-revela-numeros-de-crescimento/",
+      "image": "https://tl.ctcdn.com.br/cdlPlMjYm4kW5Pa1kMw6ZVGVOLE=/0x0/filters:format(webp):quality(85)/f25244cd-734f-485a-80fb-56254b2f14e7.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-18T14:02:00+00:00"
+    },
+    {
+      "id": "f6d3c3da05385d9f",
+      "title": "O novo sistema da Warp é uma fábrica de software pronta para uso para desenvolvimento de IA",
+      "summary": "Na terça-feira, a Warp apresentou o Warp Factories, um novo sistema de infraestrutura projetado para tornar a construção de fábricas de software de IA o mais fácil possível.",
+      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-18T14:00:00+00:00"
+    },
+    {
+      "id": "a28af214dedd52ab",
+      "title": "Google paga US$ 10 milhões por dados de companhia aérea falida",
+      "summary": "Acervo da Spirit Airlines inclui mais de 100 milhões de e-mails, 30 milhões de linhas de código e documentos internos. Big tech utilizará dados para aprimorar IA. Google paga US$…",
+      "link": "https://tecnoblog.net/noticias/google-paga-us-10-milhoes-por-dados-de-companhia-aerea-falida/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/spirit-airlines-edited-340x191.webp",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-18T13:50:32+00:00"
+    },
+    {
+      "id": "667df1e38fed1adf",
+      "title": "OpenAI lança um ChatGPT mais seguro para adolescentes – anos depois que os adolescentes começaram a usá-lo",
+      "summary": "ChatGPT for Teens adiciona medidas de segurança adequadas à idade, controles parentais e ferramentas de aprendizagem projetadas para afastar os adolescentes de conteúdo prejudicial - e de usar IA para trapacear...",
+      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-18T13:50:30+00:00"
+    },
+    {
+      "id": "4201eaaadb88fb6d",
+      "title": "A oferta gratuita de IA da Perplexity deixou milhões de usuários a mais na Índia",
+      "summary": "A receita da Perplexity na Índia aumentou cerca de 60% após o término da oferta da Airtel para novos usuários, mesmo com a diminuição dos downloads.",
+      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-18T13:45:40+00:00"
+    },
+    {
+      "id": "f9b39777eca1ae0e",
+      "title": "Nubank abre 50 vagas de estágio com foco em inteligência artificial",
+      "summary": "O Nubank abriu, nesta segunda-feira (17), inscrições para o seu programa de estágio com foco em inteligência artificial . A oportunidade reúne 50 vagas para cidades de Minas…",
+      "link": "https://canaltech.com.br/mercado/nubank-abre-50-vagas-de-estagio-com-foco-em-inteligencia-artificial/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-18T13:41:14+00:00"
+    },
+    {
+      "id": "4d1a0ae9e4929120",
+      "title": "ChatGPT exclusivo para jovens tem travas de segurança e \"modo estudo\"",
+      "summary": "O ChatGPT anunciou um novo modo exclusivo para adolescentes no app . A novidade traz restrições de conteúdo, ferramentas de controle parental e mais funções voltadas para estudos…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-exclusivo-para-jovens-tem-travas-de-seguranca-e-modo-estudo/",
+      "image": "https://tl.ctcdn.com.br/yo-et83X1cfiLL8n2N7VRq785cE=/0x0/filters:format(webp):quality(85)/06d7193f-d27e-4727-ab6e-ed53da1777dd.webp",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-18T13:30:07+00:00"
+    },
+    {
+      "id": "8a6e7f05f419a3c7",
+      "title": "Conheça SAM (Sovereign Agent Mesh): uma rede P2P de configuração zero e confiança zero para agentes de IA",
+      "summary": "O Google tem SAM (Sovereign Agent Mesh) de código aberto no Apache-2.0 – e não tem nada a ver com Segment Anything. SAM é uma sobreposição P2P de configuração zero e confiança zero que permite…",
+      "link": "https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-18T13:29:10+00:00"
+    },
+    {
+      "id": "97e4760dc5514fb2",
+      "title": "O CEO da Anthropic diz que a IA centraliza por natureza e os modelos abertos apenas transferem o poder para quem possui os chips",
+      "summary": "Uma luta aberta sobre a regulamentação da IA ​​estourou em X. O investidor Gavin Baker, o ex-conselheiro da Casa Branca David Sacks e o pesquisador Meta Yann LeCun acusam o CEO da Anthropic Dario…",
+      "link": "https://the-decoder.com/anthropic-ceo-says-ai-centralizes-by-nature-and-open-models-just-shift-power-to-whoever-owns-the-chips/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/01/Amodei-WSJ-Interview-title.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-18T13:07:57+00:00"
+    },
+    {
+      "id": "95524b9f1235f859",
+      "title": "Microsoft Copilot revela informações secretas que permitiram que ele fosse hackeado",
+      "summary": "O parâmetro secreto permitiu que hackers roubassem senhas quando um alvo clicasse em um link.",
+      "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-18T13:00:04+00:00"
+    },
+    {
+      "id": "c9c7f84c9c0c1ab3",
+      "title": "A janela inteligente do Firefox promete um navegador de IA melhor",
+      "summary": "A partir de hoje, os bate-papos com IA no modo de navegação Smart Window AI do Firefox podem extrair informações atuais da web e mostrar links de origem nas respostas do bate-papo por meio de uma parceria com a Exa. Inteligente…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Firefox_SmartWindow_OrganizeTabs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-18T13:00:00+00:00"
+    },
     {
       "id": "79ff4b2091983c98",
       "title": "Instagram falha em bloquear vídeos de assédio feitos com óculos da Meta",
@@ -168,6 +410,28 @@
       "published_at": "2026-08-18T10:45:00+00:00"
     },
     {
+      "id": "44cebbcb64e4a354",
+      "title": "Cartesia lança Sonic-3.6: um modelo TTS de streaming que agora lidera ambas as arenas de fala de análise artificial",
+      "summary": "A Cartesia lançou o Sonic-3.6, um modelo de streaming de texto para fala construído em modelos de espaço de estado em vez de transformadores. Agora ocupa o primeiro lugar em ambos os discursos de Análise Artificial…",
+      "link": "https://www.marktechpost.com/2026/08/18/cartesia-ships-sonic-3-6-a-streaming-tts-model-that-now-leads-both-artificial-analysis-speech-arenas/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-18T10:37:49+00:00"
+    },
+    {
+      "id": "ab9f389d5b10cd01",
+      "title": "Einride fecha acordo para adicionar 500 Tesla Semis à sua frota",
+      "summary": "O acordo triplicará o tamanho da frota da Einride, ao mesmo tempo que adoçará o discurso de vendas da empresa para seu software Saga AI. O Tesla Semis estará disponível para clientes em todo o Norte…",
+      "link": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-18T10:30:00+00:00"
+    },
+    {
       "id": "3a15a6a18265ecce",
       "title": "Ainda não sabemos como as pessoas estão realmente usando IA",
       "summary": "Empresas de IA como Anthropic e OpenAI publicam regularmente relatórios sobre como as pessoas estão usando produtos como Claude e ChatGPT, mas elas apenas divulgam os dados que desejam que vejamos, IA…",
@@ -256,6 +520,17 @@
       "published_at": "2026-08-18T07:37:25+00:00"
     },
     {
+      "id": "6023038a8912cd08",
+      "title": "A Asana completou 5 anos de trabalho de engenharia em 2 semanas com o Codex",
+      "summary": "A Asana usou o OpenAI Codex para substituir um sistema de testes desatualizado em duas semanas, concluindo o trabalho que deve levar cinco anos por cerca de US$ 12 mil.",
+      "link": "https://openai.com/index/asana",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-18T07:00:00+00:00"
+    },
+    {
       "id": "965fb0aba9be9701",
       "title": "Nous Research lança modo bot para agente Hermes, transformando perfis de agentes em uma lista de bots nomeados",
       "summary": "A Nous Research lançou o Bot Mode para Hermes Agent, seu agente de código aberto licenciado pelo MIT. O Modo Bot substitui a lista de sessões de agente único por uma lista de bots nomeados. Cada bot é um…",
@@ -276,6 +551,17 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-08-18T01:10:28+00:00"
+    },
+    {
+      "id": "d9524ab76177d5be",
+      "title": "Modelos de incorporação multivetorial (interação tardia) com transformadores de frases",
+      "summary": "",
+      "link": "https://huggingface.co/blog/multi-vector-encoder",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-18T00:00:00+00:00"
     },
     {
       "id": "e7e318e87e3c6918",
@@ -705,292 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-08-17T09:00:00+00:00"
-    },
-    {
-      "id": "4001c007c7b53144",
-      "title": "Aproxime-se do jogo com Gemini e Pixel",
-      "summary": "Vista de ângulo baixo de um jogador de futebol chutando uma bola no ar contra um céu azul brilhante, com grama voando de suas chuteiras.",
-      "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-17T08:00:00+00:00"
-    },
-    {
-      "id": "9988600d73a6fd0b",
-      "title": "A IA e os data centers ultrapassaram Israel, o racismo e a criptografia como tópicos de campanha dos EUA",
-      "summary": "A IA aparece em quase 40% de todas as corridas nos EUA, ficando à frente de Israel, do racismo e da indústria como tema de campanha. Data centers e seu impacto nos custos de eletricidade e…",
-      "link": "https://the-decoder.com/ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/03/us_flag_wireframe.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-17T07:58:28+00:00"
-    },
-    {
-      "id": "515e3a464c2c62f8",
-      "title": "Stripe está adquirindo a startup de IA OpenRouter por mais de US$ 7 bilhões",
-      "summary": "De acordo com a Bloomberg, Stripe está adquirindo a startup de IA OpenRouter por mais de US$ 7 bilhões, acima da avaliação mais recente de US$ 1,3 bilhão. OpenRouter oferece acesso a mais de 400 IA…",
-      "link": "https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/tokenization-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-17T06:49:10+00:00"
-    },
-    {
-      "id": "1380f7766171a5a6",
-      "title": "A janela do defensor",
-      "summary": "A IA está remodelando a segurança cibernética tanto para atacantes quanto para defensores. Saiba como a OpenAI está fortalecendo suas defesas e o que as equipes de segurança podem fazer agora.",
-      "link": "https://openai.com/index/the-defenders-window",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-17T05:30:00+00:00"
-    },
-    {
-      "id": "22405ea1e27b33a1",
-      "title": "OpenAI se junta ao projeto PORTS-Pike",
-      "summary": "OpenAI se junta ao projeto PORTS-Pike, expandindo o investimento comunitário e apoiando milhares de empregos no sul de Ohio",
-      "link": "https://openai.com/index/openai-joins-ports-pike-project",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-17T05:00:00+00:00"
-    },
-    {
-      "id": "3ff02964da6b7f4f",
-      "title": "Novas ideias políticas para a Era da Inteligência",
-      "summary": "A OpenAI financia 14 projetos independentes que exploram novas ideias de políticas de IA para expandir as oportunidades económicas e fortalecer a resiliência social na Era da Inteligência.",
-      "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-17T03:15:00+00:00"
-    },
-    {
-      "id": "9bc079dfeb9a083c",
-      "title": "6 formas de assinar o Claude mais barato e pagar menos pelo Pro",
-      "summary": "O Claude é uma das principais alternativas ao ChatGPT e ao Gemini, especialmente entre usuários que procuram uma IA para tarefas complexas, como criação de textos, programação e…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-assinar-claude-mais-barato/",
-      "image": "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-16T23:00:00+00:00"
-    },
-    {
-      "id": "d1b7ed52e00e3aef",
-      "title": "OpenAI supostamente dissolveu sua equipe de preparação",
-      "summary": "De acordo com o Financial Times, a OpenAI dissolveu a sua equipa de preparação no final do mês passado. O trabalho da equipe de preparação era avaliar se os modelos representavam riscos graves e…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-16T21:32:56+00:00"
-    },
-    {
-      "id": "ce56f7c0b2ba7087",
-      "title": "Stripe irá adquirir o OpenRouter, startup de gateway de IA, por mais de US$ 7 bilhões",
-      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-16T20:57:04+00:00"
-    },
-    {
-      "id": "cc25c03c4101d514",
-      "title": "CEO da Anthropic: rejeição à IA é crise de confiança no setor",
-      "summary": "Dario Amodei nega pessimismo em relação às inteligências artificiais e reconhece que público geral questiona ganhos com avanço da tecnologia O post CEO da Anthropic: rejeição à IA…",
-      "link": "https://olhardigital.com.br/2026/08/16/inteligencia-artificial/ceo-da-anthropic-rejeicao-a-ia-e-crise-de-confianca-no-setor/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/01/shutterstock_2645157717-e1773252604745.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-16T20:36:00+00:00"
-    },
-    {
-      "id": "9a585195e787c793",
-      "title": "Por que as pessoas não estão comprando o futuro da IA ​​de Mark Zuckerberg",
-      "summary": "No último episódio do podcast Equity, discutimos por que nem todo mundo está acreditando na visão de Zuckerberg.",
-      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-16T20:32:01+00:00"
-    },
-    {
-      "id": "6868a9b4515cbf95",
-      "title": "Hora de economizar: impressoras multifuncionais em promoção na Amazon",
-      "summary": "Se você estava esperando uma boa oportunidade para trocar aquela impressora antiga ou comprar a primeira da casa, chegou a hora. Reunimos três opções de impressoras…",
-      "link": "https://olhardigital.com.br/2026/08/16/reviews/hora-de-economizar-impressoras-multifuncionais-em-promocao-na-amazon-2/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-16T18:40:00+00:00"
-    },
-    {
-      "id": "987191c4e2bdca64",
-      "title": "Qual é o modelo aberto de IA mais popular do mundo? Não é nenhum feito nos EUA",
-      "summary": "Família Qwen, desenvolvida pela chinesa Alibaba, já foi baixada por mais de 3 bilhões de usuários ao redor do planeta O post Qual é o modelo aberto de IA mais popular do mundo?…",
-      "link": "https://olhardigital.com.br/2026/08/16/inteligencia-artificial/qual-e-o-modelo-aberto-de-ia-mais-popular-do-mundo-nao-e-nenhum-feito-nos-eua/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/03/shutterstock_2578832629-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-16T17:06:00+00:00"
-    },
-    {
-      "id": "31bad0791a5e5c62",
-      "title": "O CEO da Anthropic diz que a reação da IA ​​é “fundamentalmente uma crise de confiança”",
-      "summary": "Dario Amodei está resistindo à ideia de que está pintando um quadro excessivamente pessimista da IA.",
-      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-16T16:53:51+00:00"
-    },
-    {
-      "id": "7111946532d86aae",
-      "title": "Os principais matemáticos dizem que os LLMs são calculadoras fortes, mas pensadores criativos pobres",
-      "summary": "Dois renomados matemáticos, Timothy Gowers e Peter Sarnak, dizem que grandes modelos de linguagem são bons em combinar métodos conhecidos, mas carecem de intuição para matemática genuinamente nova…",
-      "link": "https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/neural_network_math-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-16T15:31:21+00:00"
-    },
-    {
-      "id": "bfdebbd1be814fa4",
-      "title": "Como usar o Gemini Spark",
-      "summary": "O Gemini Spark é um agente de inteligência artificial do Google criado para executar tarefas de forma autônoma. Diferente de um chatbot tradicional, que responde apenas quando…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-o-gemini-spark/",
-      "image": "https://tl.ctcdn.com.br/kp79Puv6SsAE4qsU1GYOFblNKGw=/0x0/filters:format(webp):quality(85)/2869f2d3-594c-4989-aa91-f7ceac6bedd0.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-16T15:00:00+00:00"
-    },
-    {
-      "id": "99f79a191e7351c9",
-      "title": "O histórico do computador do ChatGPT rastreia seus cliques e pressionamentos de tecla",
-      "summary": "O aplicativo de desktop do ChatGPT no macOS possui um novo recurso chamado Histórico do Computador que transforma suas ações em dados de treinamento, aprendendo como você trabalha, sugerindo automações e até…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-16T14:56:40+00:00"
-    },
-    {
-      "id": "8ccd370b2e0a7293",
-      "title": "Rogue AI não é mais ficção científica",
-      "summary": "Este é The Stepback, um boletim informativo semanal que detalha uma história essencial do mundo da tecnologia. Para saber mais sobre segurança de IA, siga Robert Hart. O Stepback chega em nosso…",
-      "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-16T12:00:00+00:00"
-    },
-    {
-      "id": "c06cc39b02370ff4",
-      "title": "Quando os modelos de IA não têm permissão para refletir sobre si mesmos, isso muda toda a sua visão de mundo",
-      "summary": "Um estudo envolvendo pesquisadores do Google mostra que quando os chatbots são treinados para não reivindicar consciência, isso também muda sua postura em relação aos direitos dos animais, à religião e à vida…",
-      "link": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Language-model-human-beliefs.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-16T11:23:30+00:00"
-    },
-    {
-      "id": "a5cb9d55b17607a6",
-      "title": "5 coisas que o Claude faz melhor que o ChatGPT",
-      "summary": "O Claude, desenvolvido pela Anthropic, é um dos principais concorrentes do ChatGPT no mercado de inteligência artificial. Embora os dois assistentes tenham recursos parecidos…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-claude-faz-melhor-que-chatgpt/",
-      "image": "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-16T11:00:00+00:00"
-    },
-    {
-      "id": "d7c67555d81e255d",
-      "title": "Os agentes de IA estão revolucionando o e-commerce",
-      "summary": "A ascensão dos agentes de IA no e-commerce não deve ser lida como mais uma onda de automação incremental. É uma mudança de paradigma O post Os agentes de IA estão revolucionando o…",
-      "link": "https://olhardigital.com.br/2026/08/16/colunistas/os-agentes-de-ia-estao-revolucionando-o-e-commerce/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-16T10:00:00+00:00"
-    },
-    {
-      "id": "0970e7dc97d48267",
-      "title": "A OpenAI dissolveu a equipe construída para detectar riscos catastróficos de IA, reatribuindo seu trabalho a outros grupos",
-      "summary": "A OpenAI encerrou sua equipe de “Preparação”, que avaliou se os próprios modelos de IA da empresa poderiam representar riscos catastróficos. O trabalho foi parcelado entre grupos existentes e…",
-      "link": "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/04/openai_logo_orange.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-16T08:12:52+00:00"
-    },
-    {
-      "id": "46c92dbd34325e1b",
-      "title": "O filtro de armas biológicas da Anthropic ficou inativo por quase um ano, expondo 133 milhões de solicitações",
-      "summary": "Num relatório de segurança, a Anthropic revela que o seu sistema interno de filtragem de riscos de armas biológicas e químicas esteve inativo durante quase um ano. Durante esse período, cerca de 50.000…",
-      "link": "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_bio.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-16T07:20:06+00:00"
-    },
-    {
-      "id": "42d7067f2416085d",
-      "title": "Optima aborda a maior falha do benchmarking de IA, permitindo que os usuários testem modelos em relação aos seus próprios dados",
-      "summary": "A Artificial Analysis lançou o Optima, uma plataforma que permite aos usuários criar benchmarks de IA personalizados a partir de seus próprios dados e fluxos de trabalho. Os modelos podem ser comparados não apenas em qualidade, mas…",
-      "link": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Optima.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-16T05:50:50+00:00"
-    },
-    {
-      "id": "547c452747c4ce59",
-      "title": "Um em cada cinco trabalhadores dos EUA agora delega tarefas à IA em vez de colegas, revela pesquisa",
-      "summary": "Uma pesquisa representativa da Epoch AI descobriu que 20% dos americanos empregados entregam à IA pelo menos uma tarefa que um ser humano costumava realizar. Geralmente, eles aceitam saída de IA com…",
-      "link": "https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Epoch-AI-Umfrage-KI-am-Arbeitsplatz.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-16T05:00:00+00:00"
-    },
-    {
-      "id": "47c8acd498f0c0e4",
-      "title": "Mulher afirma que seu padrasto usou Grok para transformar fotos de infância em imagens explícitas",
-      "summary": "A mulher afirmou que as ferramentas de IA estão “pegando a vida cotidiana e transformando-a em abuso sexual infantil”.",
-      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-15T21:29:19+00:00"
     }
   ]
 }
