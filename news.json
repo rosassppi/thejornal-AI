@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-18T01:06:42.911560+00:00",
+  "generated_at": "2026-08-18T06:39:15.155571+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "965fb0aba9be9701",
+      "title": "Nous Research lança modo bot para agente Hermes, transformando perfis de agentes em uma lista de bots nomeados",
+      "summary": "A Nous Research lançou o Bot Mode para Hermes Agent, seu agente de código aberto licenciado pelo MIT. O Modo Bot substitui a lista de sessões de agente único por uma lista de bots nomeados. Cada bot é um…",
+      "link": "https://www.marktechpost.com/2026/08/17/nous-research-hermes-bot-mode/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-18T02:05:28+00:00"
+    },
+    {
+      "id": "20a9b216b5ab58a1",
+      "title": "ByteDance Seed e Tsinghua AIR apresentam agente CUDA: um sistema RL Agentic em larga escala para geração de kernel CUDA",
+      "summary": "ByteDance Seed e Tsinghua AIR lançaram CUDA Agent, um sistema de aprendizado por reforço de agente que treina um grande modelo de linguagem para escrever kernels de GPU que superam um compilador…",
+      "link": "https://www.marktechpost.com/2026/08/17/bytedance-seed-and-tsinghua-air-introduces-cuda-agent-a-large-scale-agentic-rl-system-for-cuda-kernel-generation/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/Screenshot-2026-08-17-at-5.59.24-PM-1.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-18T01:10:28+00:00"
+    },
     {
       "id": "e7e318e87e3c6918",
       "title": "Anthropic’s annualized revenue surges to $65B",
@@ -969,28 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-14T21:18:32+00:00"
-    },
-    {
-      "id": "a1152bbd6f76d447",
-      "title": "Nova ferramenta do ChatGPT lembra recurso do Windows 11 que caiu em desgraça",
-      "summary": "Computer History tenta evitar problemas que levaram Microsoft a adiar diversas vezes o Windows Recall. Nova ferramenta do ChatGPT lembra recurso do Windows 11 que caiu em desgraça",
-      "link": "https://tecnoblog.net/noticias/nova-ferramenta-do-chatgpt-lembra-recurso-do-windows-11-que-caiu-em-desgraca/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-3_capa-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-14T21:03:08+00:00"
-    },
-    {
-      "id": "130994dd7014ce74",
-      "title": "NPCs com IA: o fim do multiplayer como conhecemos, ou o começo de mundos vivos de verdade?",
-      "summary": "Do PUBG ao Marvel Rivals, do sucesso ao fracasso. O uso de bots com IA foi um sucesso, mas tem sido um grande problema também, e a linha entre esses extremos se revela cada vez…",
-      "link": "https://olhardigital.com.br/2026/08/14/games-e-consoles/npcs-com-ia-o-fim-do-multiplayer-como-conhecemos-ou-o-comeco-de-mundos-vivos-de-verdade/",
-      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/08/pubg-battlegrounds-16v1j-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-14T20:41:57+00:00"
     }
   ]
 }
