@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-19T01:07:46.058101+00:00",
+  "generated_at": "2026-08-19T06:39:48.861392+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "039776ff3f5ea26b",
+      "title": "Fala AI: por que a OpenAI decidiu desacelerar seus modelos de IA?",
+      "summary": "A OpenAI anunciou nesta terça-feira (18) que está desacelerando o desenvolvimento de seus modelos de inteligência artificial O post Fala AI: por que a OpenAI decidiu desacelerar…",
+      "link": "https://olhardigital.com.br/2026/08/18/colunistas/fala-ai-por-que-a-openai-decidiu-desacelerar-seus-modelos-de-ia/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T01:02:46+00:00"
+    },
     {
       "id": "323937a7b751d3d6",
       "title": "OpenAI freia desenvolvimento de IA após invasões a sistemas",
@@ -56,6 +67,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-18T22:14:25+00:00"
+    },
+    {
+      "id": "8393c843a171d723",
+      "title": "ChatGPT Ads se expande pela Europa",
+      "summary": "ChatGPT Ads está se expandindo para 31 mercados europeus. Saiba como os anunciantes podem alcançar as pessoas enquanto exploram, comparam opções e tomam decisões.",
+      "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-18T22:00:00+00:00"
     },
     {
       "id": "183181ff728de44b",
@@ -969,28 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-17T16:02:00+00:00"
-    },
-    {
-      "id": "0812e83cab3d5535",
-      "title": "OpenAI desmontou equipe responsável por avaliar riscos de IA, diz jornal",
-      "summary": "Funcionários foram divididos entre setores existentes e continuam trabalhando para garantir segurança, segundo fontes. OpenAI desmontou equipe responsável por avaliar riscos de…",
-      "link": "https://tecnoblog.net/noticias/openai-desmontou-equipe-responsavel-por-avaliar-riscos-de-ia-diz-jornal/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-4_capa-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-17T15:55:06+00:00"
-    },
-    {
-      "id": "9dc5caf38ae16c32",
-      "title": "Nvidia investe US$ 1,5 bilhão no desenvolvedor de data center SoftBank por trás do projeto OpenAI",
-      "summary": "O investimento da Nvidia no desenvolvedor de data center da SoftBank garantirá que seus chips abasteçam um data center OpenAI.",
-      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-17T15:16:24+00:00"
     }
   ]
 }
