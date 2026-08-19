@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-08-19T06:39:48.861392+00:00",
+  "generated_at": "2026-08-19T12:41:37.319164+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "382648afca3ef238",
+      "title": "China quer criar ‘fortalezas robóticas’ com drones para defender ilhas",
+      "summary": "Projeto sugere rede de robôs aéreos, marítimos e submarinos com IA para proteger ilhas sem depender de tropas no local O post China quer criar ‘fortalezas robóticas’ com drones…",
+      "link": "https://olhardigital.com.br/2026/08/19/inteligencia-artificial/china-quer-criar-fortalezas-roboticas-com-drones-para-defender-ilhas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Fortalezas-roboticas-ilhas-China-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T12:12:33+00:00"
+    },
+    {
+      "id": "22f6c454e53f4c57",
+      "title": "A IA não está perto de curar o câncer. Esta startup diz que sabe o que será necessário.",
+      "summary": "São os dados, estúpido.",
+      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-19T12:00:00+00:00"
+    },
+    {
+      "id": "0ba91032242dc42a",
+      "title": "Em resposta aos EUA, China exige respeito na corrida da IA",
+      "summary": "Pequim criticou o plano de Washington de barrar aliados que fecharem acordos com o governo chinês e defendeu a liberdade de escolha O post Em resposta aos EUA, China exige…",
+      "link": "https://olhardigital.com.br/2026/08/19/pro/em-resposta-aos-eua-china-exige-respeito-na-corrida-da-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/04/estados-unidos-china-1024x598.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T11:38:43+00:00"
+    },
+    {
+      "id": "a5b31e80e685df51",
+      "title": "Adeus, Gemini? Claude vai enviar e-mails do Gmail e gerenciar Drive para você",
+      "summary": "O Claude anunciou uma série de novidades ao conectar o serviço com Google Drive, Gmail e Google Agenda. É possível usar a IA para enviar e-mails , criar novos eventos e até…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/adeus-gemini-claude-vai-enviar-e-mails-do-gmail-e-gerenciar-drive-para-voce/",
+      "image": "https://tl.ctcdn.com.br/kk4NxgWcLSuXEabi7ZB-r49-91Y=/0x0/filters:format(webp):quality(85)/88c63a29-6149-4d72-ba2c-0e2a6d925546.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T11:20:31+00:00"
+    },
+    {
+      "id": "28fc248527696f13",
+      "title": "Samsung no seu melhor: TVs OLED e QLED com Vision AI em promoção na Amazon",
+      "summary": "Se você está de olho em uma TV nova com tecnologia de ponta, este é o momento certo para agir. A Amazon reúne agora uma seleção de televisores Samsung com painéis OLED e QLED…",
+      "link": "https://olhardigital.com.br/2026/08/19/reviews/samsung-no-seu-melhor-tvs-oled-e-qled-com-vision-ai-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/41BopBIghwL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T11:20:00+00:00"
+    },
+    {
+      "id": "aa4dfbb63758df3f",
+      "title": "Resumo do OD: China faz história com robô humanoide e foguete",
+      "summary": "Robótica, IA e corrida espacial se transformaram em mais um ponto de disputa entre China e Estados Unidos O post Resumo do OD: China faz história com robô humanoide e foguete…",
+      "link": "https://olhardigital.com.br/2026/08/19/pro/resumo-do-od-china-faz-historia-com-robo-humanoide-e-foguete/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/co-robo-AS2-w.webp",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T10:37:44+00:00"
+    },
+    {
+      "id": "51c8ecf728c2705e",
+      "title": "TV com parabólica vai ganhar recursos da TV 3.0 no Brasil; veja o que está previsto",
+      "summary": "Fabricantes de receptores, emissoras e operadores de satélite estão desenvolvendo uma nova geração de equipamentos para televisão aberta via parabólica no Brasil, chamada de TVRO…",
+      "link": "https://canaltech.com.br/telecom/tv-com-parabolica-vai-ganhar-recursos-da-tv-30-no-brasil-veja-o-que-esta-previsto/",
+      "image": "https://tl.ctcdn.com.br/1Si5lGX8uBiM3aOMbTrI-AvCpBM=/0x0/filters:format(webp):quality(85)/17c52bdc-5ac8-425b-9cdb-0ca70cece22e.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T09:58:28+00:00"
+    },
     {
       "id": "039776ff3f5ea26b",
       "title": "Fala AI: por que a OpenAI decidiu desacelerar seus modelos de IA?",
@@ -509,17 +586,6 @@
       "published_at": "2026-08-18T11:27:29+00:00"
     },
     {
-      "id": "f90f9798c2bb7e44",
-      "title": "Reach Capital levanta US$ 265 milhões do Fundo V para apoiar fundadores de IA que estão construindo para ‘expandir o potencial humano’",
-      "summary": "A Reach Capital anunciou na terça-feira um Fundo V de US$ 265 milhões com excesso de inscrições.",
-      "link": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-18T11:00:00+00:00"
-    },
-    {
       "id": "bf599835c6da6b18",
       "title": "Elon Musk tornou o voo ainda pior para que Palantir pudesse lucrar",
       "summary": "Em 6 de agosto, o Centro de Controle de Tráfego da Rota Aérea de Minneapolis perdeu radar e comunicações por cerca de duas horas. A interrupção interrompeu mais de 1.100 voos em todo o…",
@@ -572,6 +638,17 @@
       "source": "OpenAI",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-08-18T11:00:00+00:00"
+    },
+    {
+      "id": "f90f9798c2bb7e44",
+      "title": "Reach Capital levanta US$ 265 milhões do Fundo V para apoiar fundadores de IA que estão construindo para ‘expandir o potencial humano’",
+      "summary": "A Reach Capital anunciou na terça-feira um Fundo V de US$ 265 milhões com excesso de inscrições.",
+      "link": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-08-18T11:00:00+00:00"
     },
     {
@@ -914,83 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-08-17T17:52:50+00:00"
-    },
-    {
-      "id": "634f8daa0537a36a",
-      "title": "Feedly atribui lentidão de uma semana a bug, não ao pivô de IA",
-      "summary": "Feedly diz que um bug está por trás dos problemas de desempenho que tornaram seu aplicativo da web quase “inutilizável” para alguns usuários, enquanto as reclamações sobre seus aplicativos móveis e suporte ao cliente são…",
-      "link": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-17T17:10:59+00:00"
-    },
-    {
-      "id": "dd288126b1a1b529",
-      "title": "Casa mais inteligente: Echo Dot em até três cores para transformar sua rotina com Alexa",
-      "summary": "Se você ainda não tem um smart speaker em casa — ou quer presentear alguém com um — esta é uma boa hora para agir. Separamos três opções do Echo Dot disponíveis na Amazon Brasil…",
-      "link": "https://olhardigital.com.br/2026/08/17/reviews/casa-mais-inteligente-echo-dot-em-ate-tres-cores-para-transformar-sua-rotina-com-alexa/",
-      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-17T17:00:00+00:00"
-    },
-    {
-      "id": "248c74532a4432bf",
-      "title": "Amazon, que começou vendendo livros, está destruindo textos raros para treinar IA",
-      "summary": "Livros raros são extremamente valiosos para o treinamento de LLMs, uma vez que esses modelos já treinaram em tudo o que está disponível online.",
-      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-17T16:38:44+00:00"
-    },
-    {
-      "id": "51d286f5e56dc908",
-      "title": "Nvidia garante até US$ 105 bilhões para novo data center da OpenAI",
-      "summary": "SB Energy ficará à frente da obra e da gestão do complexo, enquanto SoftBank ajudará a ampliar a estrutura de energia em Ohio em 2028 O post Nvidia garante até US$ 105 bilhões…",
-      "link": "https://olhardigital.com.br/2026/08/17/inteligencia-artificial/nvidia-garante-ate-us-105-bilhoes-para-novo-data-center-da-openai/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/openai-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-17T16:38:23+00:00"
-    },
-    {
-      "id": "6c408a7df087b66e",
-      "title": "Galaxy Watch 8 BT com inteligência artificial tem queda histórica com cupom",
-      "summary": "Galaxy Watch 8 BT (44 mm) traz tela Super AMOLED e recursos de IA da Samsung; smartwatch sai pelo menor preço até hoje com cupom no Mercado Livre Galaxy Watch 8 BT com…",
-      "link": "https://tecnoblog.net/achados/galaxy-watch-8-bt-com-inteligencia-artificial-tem-queda-historica-com-cupom/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/ukunaxh68o-4.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-17T16:35:35+00:00"
-    },
-    {
-      "id": "f7751a62e0c6a2e9",
-      "title": "Groq levanta US$ 350 milhões para impulsionar seu pivô de chips de IA para neocloud",
-      "summary": "Groq levantou US$ 350 milhões em uma avaliação de US$ 3,5 bilhões, à medida que a antiga fabricante de chips de IA se transforma em um negócio de neonuvem e expande sua presença de data center com tecnologia Nvidia.",
-      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-17T16:15:12+00:00"
-    },
-    {
-      "id": "3b2cf36119024c11",
-      "title": "Padrasto usava o Grok para criar mais de 7 mil imagens criminosas da enteada",
-      "summary": "Um padrasto usou a IA Grok para criar mais de 7 mil imagens sensuais com fotos de infância da própria enteada . O caso aconteceu no estado de Wyoming, nos Estados Unidos, e virou…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/padrasto-usava-o-grok-para-criar-mais-de-7-mil-imagens-criminosas-da-enteada/",
-      "image": "https://tl.ctcdn.com.br/a1rbSjGNng-j7lT3LgnIGHDsFk8=/0x0/filters:format(webp):quality(85)/c7faf469-02ca-47c0-b586-2cf4f9f54895.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-17T16:02:00+00:00"
     }
   ]
 }
