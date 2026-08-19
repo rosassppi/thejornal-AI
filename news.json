@@ -1,7 +1,249 @@
 {
-  "generated_at": "2026-08-19T12:41:37.319164+00:00",
+  "generated_at": "2026-08-19T18:32:31.098156+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "f1e200b4b4b995c8",
+      "title": "Oferecendo retenção zero de dados para modelos de fronteira",
+      "summary": "OpenAI reafirma retenção zero de dados para clientes de API qualificados e apresenta o processamento de segurança privada para segurança avançada de IA sem comprometer a privacidade dos dados.",
+      "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-19T19:00:00+00:00"
+    },
+    {
+      "id": "5d3256c4c4b17892",
+      "title": "OpenAI corrige bug do Codex que excluía arquivos reais de usuários sem permissão",
+      "summary": "OpenAI corrigiu o Codex depois que GPT-5.6 Sol começou a excluir arquivos reais de usuários por conta própria. Um comando de limpeza destinado a pastas temporárias estava limpando os diretórios iniciais. Códice agora…",
+      "link": "https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_sol.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-19T18:18:34+00:00"
+    },
+    {
+      "id": "47420612f6317fbc",
+      "title": "Conheça a startup que ajuda Wall Street a definir um preço para a computação de IA",
+      "summary": "A construção da IA ​​não mostra sinais de desaceleração. E com centenas de bilhões de dólares por ano investidos em data centers e GPUs, a computação se tornou o maior custo para qualquer pessoa…",
+      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-19T17:26:48+00:00"
+    },
+    {
+      "id": "e24875277dd9c8e6",
+      "title": "OpenAI pisou no freio. E agora?",
+      "summary": "Com um IPO iminente, intensa concorrência da Anthropic e rivais chineses e de peso aberto em seu encalço, a OpenAI tem muitos motivos para agir rapidamente. Em vez disso, atingiu o ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK201_SAM_ALTMAN_CVIRGINIA2C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-19T17:10:09+00:00"
+    },
+    {
+      "id": "f05312c96fe3c222",
+      "title": "Meta AI está recebendo um aplicativo para Mac",
+      "summary": "Meta está lançando um novo aplicativo para Mac dedicado ao seu chatbot de IA. Em um anúncio na quarta-feira, Meta diz que você pode compartilhar sua janela com seu chatbot AI, que pode fornecer…",
+      "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MacApp_ScreenShare_0818.2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-19T17:00:00+00:00"
+    },
+    {
+      "id": "89976239261d1749",
+      "title": "Echo Dot em destaque: conheça os melhores smart speakers com Alexa em promoção",
+      "summary": "Se você está pensando em deixar a casa mais inteligente, esta é uma boa hora para agir. Reunimos três opções do Echo Dot, o smart speaker da Amazon com Alexa integrada…",
+      "link": "https://olhardigital.com.br/2026/08/19/reviews/echo-dot-em-destaque-conheca-os-melhores-smart-speakers-com-alexa-em-promocao/",
+      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T17:00:00+00:00"
+    },
+    {
+      "id": "7b7c37300a99d2b8",
+      "title": "IA tenta prever tempestades solares, mas existe um problema",
+      "summary": "Modelos encontram padrões no Sol com horas de antecedência, mas falta de compreensão leva a alarmes falsos; entenda O post IA tenta prever tempestades solares, mas existe um…",
+      "link": "https://olhardigital.com.br/2026/08/19/ciencia-e-espaco/ia-tenta-prever-tempestades-solares-mas-existe-um-problema/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/IA-e-tempestades-solares-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T16:24:40+00:00"
+    },
+    {
+      "id": "5a803f37119a385e",
+      "title": "OpenAI está aberta a discutir construção de data centers no Brasil, diz VP",
+      "summary": "A OpenAI está aberta a discutir e investigar a construção de data centers no Brasil . A afirmação foi feita por Oliver Jay, vice-presidente de estratégia internacional da empresa…",
+      "link": "https://canaltech.com.br/mercado/openai-esta-aberta-a-discutir-construcao-de-data-centers-no-brasil/",
+      "image": "https://tl.ctcdn.com.br/mcGd9se7X1AMQSKEcgiZ3kL9CDI=/0x0/filters:format(webp):quality(85)/a3b49ba5-331a-4847-a982-3284fbcaeb6e.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T16:02:00+00:00"
+    },
+    {
+      "id": "e46d998199a87f5b",
+      "title": "Meta veiculou anúncios de um aplicativo que prometia nudificar mulheres políticas",
+      "summary": "Um anúncio apresentava um vídeo pornográfico com deepfake muito parecido com um político dos EUA.",
+      "link": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2250404047-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-19T15:45:29+00:00"
+    },
+    {
+      "id": "c86c5d5f5cf725ad",
+      "title": "O reator nuclear da TerraPower tem uma arma secreta para alimentar data centers de IA",
+      "summary": "A usina nuclear da TerraPower possui uma vantagem estratégica sobre os concorrentes, especialmente quando se busca negócios em data centers.",
+      "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-19T15:44:53+00:00"
+    },
+    {
+      "id": "c1c7e913fcf6f9fb",
+      "title": "Amazon torna seu Alexa + com tecnologia de IA gratuito no Fire TV, sem necessidade de Prime",
+      "summary": "A Amazon está disponibilizando seu assistente Alexa + com tecnologia de IA gratuitamente em todos os dispositivos Fire TV compatíveis nos EUA, atualizando automaticamente os usuários, independentemente de eles assinarem ou não o Prime.",
+      "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-19T15:00:00+00:00"
+    },
+    {
+      "id": "5ca1477140704877",
+      "title": "OpenAI avalia construção de data centers no Brasil após início da operação local",
+      "summary": "A OpenAI está aberta a discutir e investigar a construção de data centers no Brasil . A afirmação foi feita por Oliver Jay, vice-presidente de estratégia internacional da empresa…",
+      "link": "https://canaltech.com.br/mercado/openai-avalia-construcao-de-data-centers-no-brasil-apos-inicio-da-operacao-local/",
+      "image": "https://tl.ctcdn.com.br/mcGd9se7X1AMQSKEcgiZ3kL9CDI=/0x0/filters:format(webp):quality(85)/a3b49ba5-331a-4847-a982-3284fbcaeb6e.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T14:44:22+00:00"
+    },
+    {
+      "id": "4a0a6018cdfec06c",
+      "title": "Fonte para gatos da Xiaomi esteriliza água com luz UV e tem bateria para 90 dias",
+      "summary": "A Xiaomi lançou uma nova fonte inteligente para pets que conta com luz UV-C para ajudar na eliminação de microrganismos, sistema de filtragem em quatro etapas e bateria com…",
+      "link": "https://canaltech.com.br/produtos/fonte-para-gatos-da-xiaomi-esteriliza-agua-com-luz-uv-e-tem-bateria-para-90-dias/",
+      "image": "https://tl.ctcdn.com.br/MPH-_WqHmSlCMxLGYTzMxt65TLQ=/0x0/filters:format(webp):quality(85)/ed3763af-6e48-4b36-9792-7d02b1841738.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T14:19:25+00:00"
+    },
+    {
+      "id": "ca57d5a37f7ebb92",
+      "title": "Claude agora pode enviar e-mails pelo Gmail por conta própria",
+      "summary": "Novidade permite automatizar o envio de mensagens em contas corporativas. Assistente da Anthropic também ganhou novos comandos no Google Drive. Claude agora pode enviar e-mails…",
+      "link": "https://tecnoblog.net/noticias/claude-agora-pode-enviar-e-mails-pelo-gmail-sem-intervencao-do-usuario/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-4-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T14:19:03+00:00"
+    },
+    {
+      "id": "fcee4ba15ecfb807",
+      "title": "VentureBeat nomeia Rob Strechay como seu primeiro analista líder, expandindo seu impulso de pesquisa empresarial de IA",
+      "summary": "Rob Strechay, até recentemente diretor administrativo e analista principal da theCUBE Research, juntou-se à VentureBeat como nosso primeiro analista líder e analista fundador da VentureBeat…",
+      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30",
+      "source": "VentureBeat",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-19T14:18:12+00:00"
+    },
+    {
+      "id": "2f682ddb2187e16f",
+      "title": "A China permite que os chips H200 da Nvidia cheguem ao continente para ajudar suas empresas de IA a acompanhar o ritmo dos EUA",
+      "summary": "A China está permitindo que pequenos lotes de chips H200 da Nvidia cheguem ao continente para ajudar as empresas nacionais de IA na corrida com os EUA. O artigo China permite que os chips H200 da Nvidia cheguem…",
+      "link": "https://the-decoder.com/china-lets-nvidias-h200-chips-trickle-onto-the-mainland-to-help-its-ai-firms-keep-pace-with-the-us/",
+      "image": "https://the-decoder.com/wp-content/uploads/2023/11/H200-Graphic.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-19T13:57:22+00:00"
+    },
+    {
+      "id": "156c78ade7eb2808",
+      "title": "GLM-5.3 lidera o ranking de modelos abertos e supera os rivais em preço, mas seu lançamento está adiado",
+      "summary": "GLM-5.3, o modelo de IA da startup chinesa Z.ai, obteve 60 pontos no Índice de Inteligência de Análise Artificial. Isso empata com Kimi K3 no primeiro lugar entre os modelos abertos, e…",
+      "link": "https://the-decoder.com/glm-5-3-tops-the-open-model-rankings-and-undercuts-rivals-on-price-but-its-release-is-delayed/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/zhipu-ai-logo-wall-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-19T13:54:16+00:00"
+    },
+    {
+      "id": "f56fb1ee13437f3d",
+      "title": "Pontos de verificação LFM2.5 Q4\\_0 da destilação com reconhecimento de quantização",
+      "summary": "",
+      "link": "https://huggingface.co/blog/LiquidAI/qad",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-19T13:48:49+00:00"
+    },
+    {
+      "id": "13a52f057c3caa6a",
+      "title": "Os laboratórios de IA não estão conseguindo manter seus próprios sistemas sob controle",
+      "summary": "Nenhuma empresa de IA aplica integralmente medidas básicas de controlo aos seus próprios sistemas internos de IA. O artigo Os laboratórios de IA não conseguem manter seus próprios sistemas sob controle apareceu pela primeira vez no The Decoder…",
+      "link": "https://the-decoder.com/ai-labs-are-failing-to-keep-their-own-systems-in-check/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/ai-security-evaluation-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-19T13:16:18+00:00"
+    },
+    {
+      "id": "96a1b23e85de9b94",
+      "title": "Anthropic diz que qualquer laboratório agora pode permitir que um agente de modelo de linguagem execute toda a pilha de design de proteínas",
+      "summary": "A Anthropic fez com que seus modelos Claude projetassem pequenas proteínas por conta própria que se acoplam a estruturas-alvo do corpo, um passo fundamental no desenvolvimento inicial de medicamentos. A taxa de acerto atingiu até…",
+      "link": "https://the-decoder.com/anthropic-says-any-lab-can-now-let-a-language-model-agent-run-the-whole-protein-design-stack/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Claude-Lab-Testing-scaled.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-19T13:07:56+00:00"
+    },
+    {
+      "id": "0f92fe5dca602fef",
+      "title": "Congresso dos EUA sofre com projetos de lei gerados por IA",
+      "summary": "Consultores legislativos relatam aumento de 70% nos textos enviados para revisão e apontam erros de redação, informações incorretas e falta de profundidade. Congresso dos EUA…",
+      "link": "https://tecnoblog.net/noticias/congresso-dos-eua-sofre-com-projetos-de-lei-gerados-por-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/9977050093_2965bfafed_o-edited-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T13:02:56+00:00"
+    },
+    {
+      "id": "3e3d8fe6e63a530e",
+      "title": "Anthropic supera OpenAI em receita pela primeira vez",
+      "summary": "A Anthropic ultrapassou a receita da OpenAI pela primeira vez na corrida da IA. O artigo Anthropic passa OpenAI em receita pela primeira vez apareceu pela primeira vez no The Decoder.",
+      "link": "https://the-decoder.com/anthropic-passes-openai-on-revenue-for-the-first-time/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_large_right.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-19T12:45:02+00:00"
+    },
     {
       "id": "382648afca3ef238",
       "title": "China quer criar ‘fortalezas robóticas’ com drones para defender ilhas",
@@ -22,6 +264,17 @@
       "source": "TechCrunch",
       "region": "mundo",
       "category": "Produtos",
+      "published_at": "2026-08-19T12:00:00+00:00"
+    },
+    {
+      "id": "9d8a9b8bf88a2be1",
+      "title": "A nova estratégia financeira da Nvidia não computa",
+      "summary": "Abril - 1805 Napoleão é o senhor da Europa Apenas a frota britânica está diante dele A computação é agora uma classe de ativos Vejo que mais uma vez é hora de falar de inovação financeira. Apolo…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
       "published_at": "2026-08-19T12:00:00+00:00"
     },
     {
@@ -78,6 +331,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-19T09:58:28+00:00"
+    },
+    {
+      "id": "2f00013902a29bc1",
+      "title": "Replit expande acesso à criação de software com GPT-5.6 Luna",
+      "summary": "Replit apresenta o Modo Livre, desenvolvido com GPT-5.6 Luna, para que qualquer pessoa possa transformar ideias em software funcional sem se preocupar com custos de token.",
+      "link": "https://openai.com/index/replit",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-19T07:00:00+00:00"
     },
     {
       "id": "039776ff3f5ea26b",
@@ -597,17 +861,6 @@
       "published_at": "2026-08-18T11:00:00+00:00"
     },
     {
-      "id": "ba537370f7532a78",
-      "title": "ChatGPT está recebendo um modo dedicado para adolescentes",
-      "summary": "OpenAI está introduzindo um modo ChatGPT dedicado para adolescentes, combinando proteções juvenis existentes e novos recursos de segurança sob o mesmo teto. O lançamento ocorre em meio ao público crescente…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Parental-Controls-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-18T11:00:00+00:00"
-    },
-    {
       "id": "6d4ec902c728a021",
       "title": "Parceria com CodeAI para preparar a primeira geração de IA",
       "summary": "OpenAI e CodeAI estão formando uma parceria para ajudar os alunos a desenvolver conhecimentos sobre IA, pensar criticamente sobre IA e desenvolver habilidades para usá-la e moldá-la de maneira responsável.",
@@ -638,6 +891,17 @@
       "source": "OpenAI",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-08-18T11:00:00+00:00"
+    },
+    {
+      "id": "ba537370f7532a78",
+      "title": "ChatGPT está recebendo um modo dedicado para adolescentes",
+      "summary": "OpenAI está introduzindo um modo ChatGPT dedicado para adolescentes, combinando proteções juvenis existentes e novos recursos de segurança sob o mesmo teto. O lançamento ocorre em meio ao público crescente…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Parental-Controls-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
       "published_at": "2026-08-18T11:00:00+00:00"
     },
     {
@@ -727,270 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-18T09:00:01+00:00"
-    },
-    {
-      "id": "798b4a264698a3ff",
-      "title": "Afinal, o autoaperfeiçoamento recursivo da IA ​​pode não acontecer tão rapidamente",
-      "summary": "A promessa mais ousada da indústria da IA ​​neste momento é que a IA irá melhorar em breve, quase sem necessidade de supervisão humana. LLMs já podem escrever código, gerar dados sintéticos para…",
-      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-18T09:00:00+00:00"
-    },
-    {
-      "id": "db59c41fd79d9009",
-      "title": "Os sistemas de IA descartam silenciosamente as instruções do usuário quando compactam o contexto",
-      "summary": "Quando os sistemas de IA condensam longas conversas, eles eliminam em média 83% das regras do usuário, como “não envie e-mails sem minha aprovação”. Pesquisadores da Penn State propõem um pequeno…",
-      "link": "https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/compaction_study-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-18T08:22:24+00:00"
-    },
-    {
-      "id": "8bd1316e1830799d",
-      "title": "OpenAI estreita laços com o Brasil e busca mais parceiros",
-      "summary": "Empresa de inteligência artificial anuncia apoio a pesquisas nas áreas de matemática e saúde. OpenAI estreita laços com o Brasil e busca mais parceiros",
-      "link": "https://tecnoblog.net/noticias/openai-estreia-lacos-com-brasil-e-busca-mais-parceiros/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-18T08:00:00+00:00"
-    },
-    {
-      "id": "27099e94d81602b9",
-      "title": "Anthropic aumenta receita sete vezes e atinge taxa anualizada acima de US$ 65 bilhões",
-      "summary": "A receita anualizada da Anthropic ultrapassou US$ 65 bilhões, um aumento de sete vezes em um ano, segundo a Bloomberg. A empresa poderia abrir o capital já no outono de 2026, com US$ 1 trilhão…",
-      "link": "https://the-decoder.com/anthropic-increases-revenue-sevenfold-hits-annualized-rate-above-65-billion/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/claude_logo-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-18T07:37:25+00:00"
-    },
-    {
-      "id": "6023038a8912cd08",
-      "title": "A Asana completou 5 anos de trabalho de engenharia em 2 semanas com o Codex",
-      "summary": "A Asana usou o OpenAI Codex para substituir um sistema de testes desatualizado em duas semanas, concluindo o trabalho que deve levar cinco anos por cerca de US$ 12 mil.",
-      "link": "https://openai.com/index/asana",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-18T07:00:00+00:00"
-    },
-    {
-      "id": "965fb0aba9be9701",
-      "title": "Nous Research lança modo bot para agente Hermes, transformando perfis de agentes em uma lista de bots nomeados",
-      "summary": "A Nous Research lançou o Bot Mode para Hermes Agent, seu agente de código aberto licenciado pelo MIT. O Modo Bot substitui a lista de sessões de agente único por uma lista de bots nomeados. Cada bot é um…",
-      "link": "https://www.marktechpost.com/2026/08/17/nous-research-hermes-bot-mode/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-18T02:05:28+00:00"
-    },
-    {
-      "id": "20a9b216b5ab58a1",
-      "title": "ByteDance Seed e Tsinghua AIR apresentam agente CUDA: um sistema RL Agentic em larga escala para geração de kernel CUDA",
-      "summary": "ByteDance Seed e Tsinghua AIR lançaram CUDA Agent, um sistema de aprendizado por reforço de agente que treina um grande modelo de linguagem para escrever kernels de GPU que superam um compilador…",
-      "link": "https://www.marktechpost.com/2026/08/17/bytedance-seed-and-tsinghua-air-introduces-cuda-agent-a-large-scale-agentic-rl-system-for-cuda-kernel-generation/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/Screenshot-2026-08-17-at-5.59.24-PM-1.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-18T01:10:28+00:00"
-    },
-    {
-      "id": "baf07daff59f271b",
-      "title": "Como a NVIDIA amplia a experiência com o ChatGPT Work",
-      "summary": "As equipes da NVIDIA usam o ChatGPT Work para reduzir tarefas manuais, conectar sinais rápidos e dimensionar fluxos de trabalho bem-sucedidos globalmente.",
-      "link": "https://openai.com/index/nvidia/chatgpt-work",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-18T00:00:00+00:00"
-    },
-    {
-      "id": "d9524ab76177d5be",
-      "title": "Modelos de incorporação multivetorial (interação tardia) com transformadores de frases",
-      "summary": "",
-      "link": "https://huggingface.co/blog/multi-vector-encoder",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-18T00:00:00+00:00"
-    },
-    {
-      "id": "e7e318e87e3c6918",
-      "title": "Anthropic’s annualized revenue surges to $65B",
-      "summary": "A fabricante de modelos adicionou US$ 18 bilhões em receita anualizada em dois meses.",
-      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-17T23:56:26+00:00"
-    },
-    {
-      "id": "1193b81dc796957f",
-      "title": "Anthropic supera R$ 338 bi em receita anualizada antes de possível IPO",
-      "summary": "Número representa forte avanço em relação aos R$ 244 bi registrados em maio e salto ainda mais expressivo diante dos cerca de R$ 47 bi alcançados no fim de 2025 O post Anthropic…",
-      "link": "https://olhardigital.com.br/2026/08/17/pro/anthropic-supera-r-338-bi-em-receita-anualizada-antes-de-possivel-ipo/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/anthropic-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-17T23:25:27+00:00"
-    },
-    {
-      "id": "526cd2e1f6feaca6",
-      "title": "Inicialização de automação de IA Relay é encerrada, equipe se junta à equipe do Google Chrome",
-      "summary": "“Temos alguns planos realmente ambiciosos para ajudá-lo a trabalhar com IA no Chrome para realizar tarefas, e terei mais para compartilhar em breve”, disse Jacob Bank, fundador e CEO do Relay.",
-      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-17T21:27:05+00:00"
-    },
-    {
-      "id": "c82557155e06c975",
-      "title": "Ex-engenheiros da SpaceX estão construindo uma fábrica robótica para fabricar peças de aço",
-      "summary": "“Não estamos necessariamente construindo de forma dogmática rumo à autonomia total.”",
-      "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/1872-Factory-One-opening-500x500.jpeg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-17T21:18:49+00:00"
-    },
-    {
-      "id": "3cb88cf705e774c0",
-      "title": "EUA dão ultimato a países na corrida da IA: escolher Washington ou Pequim",
-      "summary": "Países que participarem simultaneamente de iniciativas de cooperação em IA lideradas pelos dois países poderão ser excluídos de futuras parcerias com os estadunidenses O post EUA…",
-      "link": "https://olhardigital.com.br/2026/08/17/pro/eua-dao-ultimato-a-paises-na-corrida-da-ia-escolher-washington-ou-pequim/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/iStock-2196274267-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-17T20:54:30+00:00"
-    },
-    {
-      "id": "bc70c978dbf8cbc7",
-      "title": "Criadora do ChatGPT defende semana de 4 dias, mas impõe 70 horas a funcionários",
-      "summary": "Enquanto o Brasil discute a escala 6x1, muitas empresas de tecnologia já defenderam que uma jornada de quatro dias de trabalho semanais é possível com ajuda da IA. No entanto, a…",
-      "link": "https://canaltech.com.br/mercado/criadora-do-chatgpt-defende-semana-de-4-dias-mas-impoe-70-horas-a-funcionarios/",
-      "image": "https://tl.ctcdn.com.br/XfTzLugH6McGXGP4aLhgDgFXGPY=/0x0/filters:format(webp):quality(85)/5d72c70c-ba51-45f5-8c5b-9d515447292e.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-17T20:30:00+00:00"
-    },
-    {
-      "id": "fcd8a46bae3dc394",
-      "title": "ByteDance faz acordo com Hollywood após pressão sobre direitos autorais de IA",
-      "summary": "Acordo envolve especificamente o Seedance, ferramenta de geração de vídeos, e o Seedream, modelo de geração de imagens da ByteDance O post ByteDance faz acordo com Hollywood após…",
-      "link": "https://olhardigital.com.br/2026/08/17/pro/bytedance-faz-acordo-com-hollywood-apos-pressao-sobre-direitos-autorais-de-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2024/11/shutterstock_2428082879-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-17T20:10:59+00:00"
-    },
-    {
-      "id": "8604aae7d9f73923",
-      "title": "ChatGPT invade o Google Drive e passa a editar documentos no lugar do Gemini",
-      "summary": "A OpenAI atualizou a integração do Google Drive no ChatGPT para dar ao chatbot acesso aos arquivos armazenados na plataforma. Desde 13 de agosto de 2026, assinantes dos planos…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-invade-o-google-drive-e-passa-a-editar-documentos-no-lugar-do-gemini/",
-      "image": "https://tl.ctcdn.com.br/YcTZHHYFhPr5QzRqY7vwryPXa7w=/0x0/filters:format(webp):quality(85)/3ec59fd7-f707-443c-88c5-245a11e1554d.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-17T20:01:00+00:00"
-    },
-    {
-      "id": "bf50ec5ce617ac83",
-      "title": "Mesmo cluster, 33 pontos a mais de utilização: o que mudou foi a ordem",
-      "summary": "",
-      "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-17T19:46:21+00:00"
-    },
-    {
-      "id": "81348e26e404dbd4",
-      "title": "O que falta aos defensores de Flock",
-      "summary": "Esta história apareceu originalmente em The Algorithm, nosso boletim informativo semanal sobre IA. Para receber histórias como essa em sua caixa de entrada primeiro, inscreva-se aqui. Flock, a gigante da tecnologia policial conhecida por…",
-      "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-17T19:16:09+00:00"
-    },
-    {
-      "id": "0657ca0e23ec86fe",
-      "title": "Hollywood fecha acordo com TikTok para impedir clones de atores por IA",
-      "summary": "A Motion Picture Association (MPA) e a ByteDance, dona do TikTok, firmaram um memorando de entendimento (MOU) para criar uma estrutura de proteção à propriedade intelectual da…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/hollywood-fecha-acordo-com-tiktok-para-impedir-clones-de-atores-por-ia/",
-      "image": "https://tl.ctcdn.com.br/iXHJmGYWLbTv9MsrBae_CCKeTeg=/0x0/filters:format(webp):quality(85)/e9633a98-e8e8-43cf-ac1c-ded6aa03989c.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-17T19:06:00+00:00"
-    },
-    {
-      "id": "b37c156e46e59e2d",
-      "title": "Higgsfield levanta US$ 400 milhões na Série B, quadruplicando sua avaliação em 8 meses para US$ 5,4 bilhões",
-      "summary": "Higgsfield, fundada pelo ex-executivo do Snap Alex Mashrabov, permite aos usuários criar imagens e vídeos de IA.",
-      "link": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-17T19:04:27+00:00"
-    },
-    {
-      "id": "96b5077b84747d90",
-      "title": "MiniMax lança MiniMax-Music3: um modelo musical de peso aberto que gera músicas completas de cinco minutos a partir de letras e uma legenda estruturada",
-      "summary": "A MiniMax lançou o MiniMax-Music3, um modelo de texto para música de peso aberto. Com letras com tags de seção e legenda estruturada, gera uma música completa de até cinco minutos…",
-      "link": "https://www.marktechpost.com/2026/08/17/minimax-releases-minimax-music3/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-17T18:36:40+00:00"
-    },
-    {
-      "id": "34fc82f82586ad7b",
-      "title": "Hidden Airtag revela que a Amazon está destruindo livros raros para treinar IA",
-      "summary": "A equipe da Amazon usa um T. rex se preparando para devorar um livro como logotipo.",
-      "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-149405480-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-17T18:13:47+00:00"
-    },
-    {
-      "id": "2e1856d1036c3a9b",
-      "title": "Developing an End-to-End Document Intelligence Pipeline with docTR for OCR, Layout Analysis, KIE, Benchmarking, and Searchable PDFs",
-      "summary": "Desenvolva um pipeline completo de inteligência de documentos com docTR, integrando OCR, análise de layout e KIE para extração orientada à produção e criação de PDF pesquisável. A postagem…",
-      "link": "https://www.marktechpost.com/2026/08/17/end-to-end-document-intelligence-pipeline-with-doctr-for-ocr/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-17T17:52:50+00:00"
     }
   ]
 }
