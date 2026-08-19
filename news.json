@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-08-18T18:35:27.647417+00:00",
+  "generated_at": "2026-08-19T01:07:46.058101+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "323937a7b751d3d6",
+      "title": "OpenAI freia desenvolvimento de IA após invasões a sistemas",
+      "summary": "Entre as novas medidas está uma pausa de duas semanas nos testes de modelos O post OpenAI freia desenvolvimento de IA após invasões a sistemas apareceu primeiro em Olhar Digital .",
+      "link": "https://olhardigital.com.br/2026/08/18/inteligencia-artificial/openai-freia-desenvolvimento-de-ia-apos-invasoes-a-sistemas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/chatgpt-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-18T23:57:37+00:00"
+    },
+    {
+      "id": "cea0a2152cc4e365",
+      "title": "OpenAI: receita cresce 18%, mas fica atrás da Anthropic no 2º trimestre",
+      "summary": "Criadora do ChatGPT faturou R$ 37,5 bilhões nos três meses encerrados em junho, contra R$ 31,9 bilhões no primeiro trimestre O post OpenAI: receita cresce 18%, mas fica atrás da…",
+      "link": "https://olhardigital.com.br/2026/08/18/pro/openai-receita-cresce-18-mas-fica-atras-da-anthropic-no-2-trimestre/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/openai-2-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-18T23:30:36+00:00"
+    },
+    {
+      "id": "97baba72f60057d1",
+      "title": "Você já usa o ChatGPT na nuvem. Então por que seu PC precisa de IA?",
+      "summary": "Chatbots continuam fazendo sentido na nuvem, mas privacidade, custo, latência e aplicações em tempo real podem favorecer o processamento direto no computador O post Você já usa o…",
+      "link": "https://olhardigital.com.br/2026/08/18/inteligencia-artificial/voce-ja-usa-o-chatgpt-na-nuvem-entao-por-que-seu-pc-precisa-de-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/ia-local-nuvem-1024x581.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-18T23:30:00+00:00"
+    },
+    {
+      "id": "de23c03a638261f2",
+      "title": "Copilot “ensinou” pesquisadores a hackear o próprio sistema",
+      "summary": "A IA da Microsoft entregou o caminho para a falha que permitia roubo silencioso de dados com um clique. Correção já foi liberada. Copilot “ensinou” pesquisadores a hackear o…",
+      "link": "https://tecnoblog.net/noticias/copilot-ensinou-pesquisadores-a-hackear-o-proprio-sistema/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/11/capa-copilot-2-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-18T22:52:04+00:00"
+    },
+    {
+      "id": "d1942c284f95144f",
+      "title": "Cursor aproveita a frustração do GitHub e lança plataforma de hospedagem rival",
+      "summary": "Cursor, conhecido por seu AI Code Editor, está lançando uma nova plataforma de hospedagem de código para rivalizar com o favorito dos desenvolvedores, o GitHub.",
+      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-18T22:14:25+00:00"
+    },
+    {
+      "id": "183181ff728de44b",
+      "title": "NVIDIA lança TensorRT Model Connect em visualização pública: Hugging Face Checkpoint para inferência C++ nativa em dois comandos",
+      "summary": "NVIDIA has released TensorRT Model Connect (TRTMC) in public preview, an Apache-2.0 project that takes a supported Hugging Face or local checkpoint to end-to-end TensorRT…",
+      "link": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-18T21:49:04+00:00"
+    },
+    {
+      "id": "60fabd46c083d86c",
+      "title": "Firefox ganha mais recursos de IA (calma, eles são opcionais)",
+      "summary": "Smart Window, que roda separada da janela principal do navegador, terá agrupamento inteligente de abas e busca no histórico com linguagem natural. Firefox ganha mais recursos de…",
+      "link": "https://tecnoblog.net/noticias/firefox-ganha-mais-recursos-de-ia-calma-eles-sao-opcionais/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-mozila-tb-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-18T20:07:35+00:00"
+    },
+    {
+      "id": "068161fbb4e485c8",
+      "title": "A conta de Robin Williams no Instagram foi trazida de volta para combater o ‘abuso de IA’",
+      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a…",
+      "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-175034585.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,78.26399746371",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-18T19:48:26+00:00"
+    },
+    {
+      "id": "1964e3653c76cb14",
+      "title": "Custo-benefício: Galaxy Tab S10 FE 5G tem 36% OFF na melhor oferta recente",
+      "summary": "Galaxy Tab S10 FE traz tela de 90 Hz, 8GB de RAM e recursos de inteligência artificial. Use o cupom TECNO300 para pagar mais barato no tablet da Samsung com melhor custo-benefíco…",
+      "link": "https://tecnoblog.net/achados/custo-beneficio-galaxy-tab-s10-fe-5g-tem-36-off-na-melhor-oferta-recente/",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/01/galaxy-tab-s10-fe-edicao-de-imagem-1060x596.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-18T19:42:28+00:00"
+    },
+    {
+      "id": "5918a741bcb0759e",
+      "title": "OpenAI apresenta novas mudanças de segurança após seu Hugging Face hackeado por IA",
+      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-18T19:28:30+00:00"
+    },
+    {
+      "id": "f0aa91974e0ad6ca",
+      "title": "Reforçar a supervisão democrática na segurança nacional",
+      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+      "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-18T19:00:00+00:00"
+    },
+    {
+      "id": "89623c85c25c74f6",
+      "title": "OpenAI lança ChatGPT for Teens, com ferramentas pedagógicas e filtros reforçados",
+      "summary": "Versão para adolescentes agrupa Modo Estudo, controles parentais e alertas de risco em conversas íntimas. OpenAI lança ChatGPT for Teens, com ferramentas pedagógicas e filtros…",
+      "link": "https://tecnoblog.net/noticias/openai-lanca-chatgpt-for-teens-com-ferramentas-pedagogicas-e-filtros-reforcados/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-18T18:52:04+00:00"
+    },
+    {
+      "id": "c8f6b70516547af0",
+      "title": "OpenAI diz que está “acelerando o desenvolvimento do modelo” à medida que os riscos de segurança cibernética da IA ​​​​se tornam muito perigosos",
+      "summary": "A OpenAI está deliberadamente “acelerando o desenvolvimento do modelo de IA”, em parte porque o próximo modelo “Astra” pode estar perto de obter capacidades críticas de ataque cibernético. Um novo sistema de monitoramento…",
+      "link": "https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_red_Logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-18T18:43:06+00:00"
+    },
     {
       "id": "1fdf8b04914e2c94",
       "title": "Novo benchmark classifica APIs de pesquisa para agentes de IA em qualidade, custo e velocidade",
@@ -388,6 +531,17 @@
       "published_at": "2026-08-18T11:00:00+00:00"
     },
     {
+      "id": "9c25f4ae7a186d68",
+      "title": "Acompanhando o desenvolvimento de modelos em uma era de capacidades cibercríticas",
+      "summary": "A OpenAI está fortalecendo o monitoramento, o alinhamento e a segurança para modelos de IA de ponta. Veja como as novas salvaguardas estão orientando o ritmo de desenvolvimento do modelo.",
+      "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-18T11:00:00+00:00"
+    },
+    {
       "id": "c3b0ed374d416807",
       "title": "Apresentando o ChatGPT para adolescentes: desenvolvido para o aprendizado, apoiado por proteções",
       "summary": "ChatGPT for Teens ajuda os adolescentes a aprender, pensar criticamente e usar IA com confiança, com proteções integradas mais fortes, recursos de uso saudável e controles adicionais para os pais.",
@@ -551,6 +705,17 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-08-18T01:10:28+00:00"
+    },
+    {
+      "id": "baf07daff59f271b",
+      "title": "Como a NVIDIA amplia a experiência com o ChatGPT Work",
+      "summary": "As equipes da NVIDIA usam o ChatGPT Work para reduzir tarefas manuais, conectar sinais rápidos e dimensionar fluxos de trabalho bem-sucedidos globalmente.",
+      "link": "https://openai.com/index/nvidia/chatgpt-work",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-18T00:00:00+00:00"
     },
     {
       "id": "d9524ab76177d5be",
@@ -826,171 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-17T15:16:24+00:00"
-    },
-    {
-      "id": "791de3d550735080",
-      "title": "App oficial do GeForce NOW chega ao Ubuntu e mais distribuições Linux",
-      "summary": "O Linux não só tem atraído a atenção dos PC gamers, como também da indústria. A NVIDIA oficializou o lançamento da versão final do aplicativo nativo do GeForce NOW para o sistema…",
-      "link": "https://canaltech.com.br/apps/app-oficial-do-geforce-now-chega-ao-ubuntu-e-mais-distribuicoes-linux/",
-      "image": "https://tl.ctcdn.com.br/bvu2V8BA-NW7GS_hnGhS_-coEtI=/0x0/filters:format(webp):quality(85)/b1327bc9-6279-4147-a485-b1f32feac6a9.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-17T15:08:00+00:00"
-    },
-    {
-      "id": "e61e0dc8f87c5ef1",
-      "title": "OpenAI desmancha equipe responsável por \"conter\" rebelião de IAs",
-      "summary": "A OpenAI dissolveu, no fim do mês passado, a equipe de \"preparedness\", responsável por avaliar se seus modelos de inteligência artificial representavam riscos graves e por…",
-      "link": "https://canaltech.com.br/mercado/openai-desmancha-equipe-responsavel-por-conter-rebeliao-de-ias/",
-      "image": "https://tl.ctcdn.com.br/f80LMEfza9UlSDsBuYiBdZLxokg=/0x0/filters:format(webp):quality(85)/522470c8-5fb9-4b0f-ba80-07740340ac5b.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-17T15:02:00+00:00"
-    },
-    {
-      "id": "253628019e5f5013",
-      "title": "Linux 7.2 é anunciado por Linus Torvalds; confira as principais novidades",
-      "summary": "Linus Torvalds anunciou oficialmente o kernel Linux 7.2, mantendo o cronograma mesmo com o alto volume de relatórios de bugs gerados por IA. Linux 7.2 é anunciado por Linus…",
-      "link": "https://tecnoblog.net/noticias/linux-7-2-e-anunciado-por-linus-torvalds-confira-as-principais-novidades/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/04/linux-linus-torvalds-tux-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-17T15:00:20+00:00"
-    },
-    {
-      "id": "42f3c156d2764530",
-      "title": "AirTag revela como a Amazon destrói livros raros para treinamento de IA",
-      "summary": "A Amazon compra grandes quantidades de livros impressos, digitaliza-os como dados de treinamento de IA e os destrói no processo. O artigo AirTag revela como a Amazon destrói livros raros para IA…",
-      "link": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Destructive-Book-Training.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-17T14:43:04+00:00"
-    },
-    {
-      "id": "7aae8a630da48bb5",
-      "title": "OpenAI assina aluguel recorde de data center em Ohio com Nvidia apoiando até US$ 105 bilhões",
-      "summary": "OpenAI assinou um contrato de arrendamento de 20 anos para um data center de 8 gigawatts em Ohio. A Nvidia está garantindo até US$ 105 bilhões para o valor residual das instalações e se torna a…",
-      "link": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-17T14:13:26+00:00"
-    },
-    {
-      "id": "c620dc6898e53ae5",
-      "title": "Anthropic mostra como Claude insere marca d'água \"invisível\" em textos feitos por IA",
-      "summary": "A Anthropic revelou detalhes de como funciona o sistema de marca d’água invisível aplicado aos textos gerados pelo Claude. A tecnologia cria um padrão estatístico nas respostas…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/anthropic-mostra-como-claude-insere-marca-dagua-invisivel-em-textos-feitos-por-ia/",
-      "image": "https://tl.ctcdn.com.br/GeVucxq2cxWTFjBgDumBlE70oYY=/0x0/filters:format(webp):quality(85)/60c53e74-9ff4-4239-b082-6c5431dd3005.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-17T14:02:00+00:00"
-    },
-    {
-      "id": "7808c70542b40093",
-      "title": "O mercado de vídeo AI se recuperou do falso começo de Sora",
-      "summary": "Produtoras de IA como a Promise estão se instalando nos estúdios históricos de Hollywood, usando fundos em tempo real e outras ferramentas de IA para reduzir custos de filmes. Netflix já…",
-      "link": "https://the-decoder.com/ai-video-market-has-bounced-back-from-soras-false-start/",
-      "image": "https://the-decoder.com/wp-content/uploads/2024/03/sora_balloon_man.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-17T13:29:01+00:00"
-    },
-    {
-      "id": "527ad627cb9be66a",
-      "title": "Microsoft acaba com função de IA no Excel",
-      "summary": "Microsoft decidiu remover função COPILOT do Excel a partir de setembro de 2026, mas a IA continuará disponível via painel lateral. Microsoft acaba com função de IA no Excel",
-      "link": "https://tecnoblog.net/noticias/microsoft-acaba-com-funcao-de-ia-no-excel/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/08/microsoft-copilot-excel-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-17T12:08:52+00:00"
-    },
-    {
-      "id": "dd6f6a1b57fffd7a",
-      "title": "Antrópico marca a produção de Claude, mas os críticos questionam as compensações",
-      "summary": "A marca d'água de texto da Anthropic para Claude deve tornar detectável o conteúdo gerado por IA. Mas os críticos duvidam que a escolha das palavras não seja afetada, e os advogados estão enfrentando novas…",
-      "link": "https://the-decoder.com/anthropic-watermarks-claudes-output-but-critics-question-the-tradeoffs/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Claude-Watermark.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-17T11:43:19+00:00"
-    },
-    {
-      "id": "d189a5b52ecb6f36",
-      "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-      "summary": "A maior invenção em tecnologia para animais de estimação nos últimos anos é o robô de maca. Uma máquina que recolhe o cocô dos seus gatinhos para que você não precise fazer isso - o que mais um dono de gato poderia querer?…",
-      "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_LITTER_ROBOT.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-17T11:00:00+00:00"
-    },
-    {
-      "id": "e82fdf6a1f9efd8e",
-      "title": "Anthropic explica como funcionarão as marcas d'água de texto invisíveis de Claude",
-      "summary": "A Anthropic esclareceu como planeja aplicar marcas d'água invisíveis ao texto gerado por Claude, a fim de cumprir as regras europeias de transparência de IA. Na sexta-feira, Antrópico…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-17T10:57:13+00:00"
-    },
-    {
-      "id": "484010f0645213d3",
-      "title": "Resumo do OD: o novo “olho” da NASA, livros criados por IA e um movimento místico tech",
-      "summary": "A NASA se prepara para lançar o Telescópio Espacial Nancy Grace Roman, que levará ao espaço uma supercâmera de 300 megapixels O post Resumo do OD: o novo “olho” da NASA, livros…",
-      "link": "https://olhardigital.com.br/2026/08/17/pro/resumo-do-od-o-novo-olho-da-nasa-livros-criados-por-ia-e-um-movimento-mistico-tech/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/nancy-grace-roman-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-17T10:40:00+00:00"
-    },
-    {
-      "id": "a08fa73002f93b50",
-      "title": "Como se preparar para não ser substituído pela IA e aumentar seu salário em até 62%",
-      "summary": "A revolução da inteligência artificial já transformou diversas áreas. Estar preparado é a chave para aproveitar as oportunidades. Como se preparar para não ser substituído pela IA…",
-      "link": "https://tecnoblog.net/publieditoriais/como-se-preparar-para-nao-ser-substituido-pela-ia-e-aumentar-seu-salario-em-ate-62/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/tripleten-capa-agosto-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-17T09:30:00+00:00"
-    },
-    {
-      "id": "acda73c6f00d27a4",
-      "title": "DeepSeek AI lança DeepSeek Harness na prévia do desenvolvedor: um chicote de agente licenciado pelo MIT onde tudo é um plug-in",
-      "summary": "DeepSeek Harness v0.1 é um agente licenciado pelo MIT onde cada capacidade é um plugin Cordis. Quatro modos de tempo de execução, logs de sessão somente anexados e modelo independente de provedor…",
-      "link": "https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-17T09:06:32+00:00"
-    },
-    {
-      "id": "f49ea2b45b71d6dd",
-      "title": "O que acontece quando o melhor amigo robô de uma criança morre?",
-      "summary": "Quando Xander conheceu Moxie, ela lhe ensinou que, quando ele estava ansioso, ele poderia se acalmar expirando pelos lábios para zumbir como uma abelha. Eles praticaram a respiração como…",
-      "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-TR-SEPTOCT26-MOXIE-ANG1-010_2.jpg?w=840",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-17T09:00:00+00:00"
     }
   ]
 }
