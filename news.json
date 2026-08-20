@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-20T01:07:27.993278+00:00",
+  "generated_at": "2026-08-20T06:42:06.150183+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "ecc9641a4433e15a",
+      "title": "Nvidia avalia investir em startup de dados para IA avaliada em R$ 103,6 bilhões",
+      "summary": "Mercor é startup especializada no fornecimento e na preparação de dados para treinamento de modelos de IA O post Nvidia avalia investir em startup de dados para IA avaliada em R$…",
+      "link": "https://olhardigital.com.br/2026/08/19/pro/nvidia-avalia-investir-em-startup-de-dados-para-ia-avaliada-em-r-103-6-bilhoes/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/mercor-1024x768.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-20T01:24:54+00:00"
+    },
+    {
+      "id": "759dc91a4cf84a9f",
+      "title": "Caiu aí? ChatGPT fica fora do ar nesta quarta-feira (19)",
+      "summary": "Reclamações no Downdetector chegam a mais de 600 queixas O post Caiu aí? ChatGPT fica fora do ar nesta quarta-feira (19) apareceu primeiro em Olhar Digital .",
+      "link": "https://olhardigital.com.br/2026/08/19/internet-e-redes-sociais/caiu-ai-chatgpt-fica-fora-do-ar-nesta-quarta-feira-19/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/chatgpt_downdetector-1024x293.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-20T00:35:57+00:00"
+    },
     {
       "id": "a5228a2d786fe817",
       "title": "OpenAI decide pausar avanço de novos modelos de IA; por quê?",
@@ -969,28 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-08-18T13:29:10+00:00"
-    },
-    {
-      "id": "97e4760dc5514fb2",
-      "title": "O CEO da Anthropic diz que a IA centraliza por natureza e os modelos abertos apenas transferem o poder para quem possui os chips",
-      "summary": "Uma luta aberta sobre a regulamentação da IA ​​estourou em X. O investidor Gavin Baker, o ex-conselheiro da Casa Branca David Sacks e o pesquisador Meta Yann LeCun acusam o CEO da Anthropic Dario…",
-      "link": "https://the-decoder.com/anthropic-ceo-says-ai-centralizes-by-nature-and-open-models-just-shift-power-to-whoever-owns-the-chips/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/01/Amodei-WSJ-Interview-title.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-18T13:07:57+00:00"
-    },
-    {
-      "id": "95524b9f1235f859",
-      "title": "Microsoft Copilot revela informações secretas que permitiram que ele fosse hackeado",
-      "summary": "O parâmetro secreto permitiu que hackers roubassem senhas quando um alvo clicasse em um link.",
-      "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-18T13:00:04+00:00"
     }
   ]
 }
