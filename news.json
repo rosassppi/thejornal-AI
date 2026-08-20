@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-08-20T06:42:06.150183+00:00",
+  "generated_at": "2026-08-20T12:44:14.549313+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "9af7cc2376404cb8",
+      "title": "EUA dizem que hackers estão atacando sistemas hídricos vulneráveis ​​com a ajuda de IA",
+      "summary": "Os hackers têm como alvo os controladores Siemens conectados à Internet usados ​​em instalações de água nos Estados Unidos.",
+      "link": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-20T12:43:19+00:00"
+    },
+    {
+      "id": "049c8e9b86cb23aa",
+      "title": "GEN-1.5: IA generalista ensina novas tarefas aos robôs em uma única demonstração",
+      "summary": "A startup de robótica Generalist AI revelou o GEN-1.5, um modelo de IA que ensina novas tarefas aos robôs a partir de uma única demonstração. O artigo GEN-1.5: IA generalista ensina novas coisas aos robôs…",
+      "link": "https://the-decoder.com/gen-1-5-generalist-ai-teaches-robots-new-tasks-from-a-single-demo/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Generalist-Gen-1.5.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-20T12:35:52+00:00"
+    },
+    {
+      "id": "0be185a0d2ccf101",
+      "title": "KI-Pioneer Sutton chama os dados sintéticos de um “grande erro” diante de um mundo infinitamente complexo",
+      "summary": "O vencedor do Prêmio Turing, Richard Sutton, chama os dados sintéticos de um \"grande erro\" para dimensionar grandes modelos de linguagem. O mundo é infinitamente complexo, e qualquer simulação dele é…",
+      "link": "https://the-decoder.com/ki-pioneer-sutton-calls-synthetic-data-a-big-mistake-in-the-face-of-an-infinitely-complex-world/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Rich-Sutton-Big-World-Hypothesis.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-20T12:14:07+00:00"
+    },
+    {
+      "id": "1b1019cacee8fcf2",
+      "title": "O novo aplicativo para Mac da Meta AI quer que você converse com seus aplicativos",
+      "summary": "Meta disse que seu modelo Muse Spark está potencializando o recurso de ditado.",
+      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-20T12:11:57+00:00"
+    },
+    {
+      "id": "a9f0044edd6fada4",
+      "title": "Slack está lançando canais colaborativos de codificação de vibração",
+      "summary": "O Slack está introduzindo canais dedicados onde as equipes podem fazer vibe-code junto com agentes de IA, em vez de alternar entre diferentes ferramentas e conversas. O lançamento do Slack Code…",
+      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988538/acastro_STK060_slack_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-20T12:00:00+00:00"
+    },
+    {
+      "id": "2a6de44599080def",
+      "title": "Robôs humanoides estão perto do seu ‘momento ChatGPT’, diz CEO",
+      "summary": "CEO e fundador da Unitree diz que robôs serão capazes de cumprir tarefas domésticas via comandos de voz e texto sem muito treinamento O post Robôs humanoides estão perto do seu…",
+      "link": "https://olhardigital.com.br/2026/08/20/robotica/robos-humanoides-estao-perto-do-seu-momento-chatgpt-diz-ceo/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Destaque-Robos-China-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-20T10:34:40+00:00"
+    },
+    {
+      "id": "917623361724d2bb",
+      "title": "O modelo mais capaz da Antrópico, codinome “Modelo 2”, é apenas para uso interno",
+      "summary": "A Anthropic usa internamente um modelo de IA não publicado que é mais poderoso do que qualquer versão do Claude disponível publicamente. O artigo O modelo mais capaz da Antrópico, codinome \"Modelo…",
+      "link": "https://the-decoder.com/anthropic-uses-an-unpublished-ai-model-called-model-2-internally/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/05/anthropic_logo_wall-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-20T10:04:45+00:00"
+    },
+    {
+      "id": "e2a81dc7bf87eb31",
+      "title": "Desbloqueando fluxos de receita ocultos com modelos de mercado",
+      "summary": "Todos os dias, uma companhia aérea transporta dezenas de milhares de passageiros em centenas de voos. Muitas vezes estas não são rotas diretas ponto a ponto, com os passageiros necessitando…",
+      "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_Fetcherr-COVERV9_81426.png?w=840",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-20T09:47:22+00:00"
+    },
+    {
+      "id": "bb72d97feb83ab4b",
+      "title": "Binance agora permite que agentes de IA negociem, mas mantê-los sob controle depende em grande parte dos usuários",
+      "summary": "O Agent OS da Binance funciona com ferramentas como ChatGPT, Claude Code e Cursor.",
+      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-20T09:30:00+00:00"
+    },
+    {
+      "id": "810c4f9e8346ea37",
+      "title": "A China agora tem seu próprio esquema de financiamento circular de IA",
+      "summary": "A Unitree Robotics subiu 460% em seu IPO em Xangai, atingindo uma avaliação de cerca de US$ 50 bilhões. Mas um relatório do FT mostra que grande parte da procura pelos seus robôs vem de empresas apoiadas pelo Estado…",
+      "link": "https://the-decoder.com/china-now-has-its-own-ai-circular-financing-scheme/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/07/unitree_r1_humanoid_robot-scaled.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-20T09:23:37+00:00"
+    },
+    {
+      "id": "827e3b52c36cd3fb",
+      "title": "Auditoria de preconceitos de preferência e ajuste fino de modelos de linguagem com otimização de preferência direta em HH-RLHF antrópico usando TRL e LoRA",
+      "summary": "Este tutorial fornece um fluxo de trabalho completo para ajustar modelos de linguagem usando Direct Preference Optimization (DPO). Demonstramos como auditar o conjunto de dados Antrópico HH-RLHF…",
+      "link": "https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-20T08:51:38+00:00"
+    },
+    {
+      "id": "047266ac2213e262",
+      "title": "Terence Tao diz que a IA pode desencadear a maior crise da matemática desde Gödel",
+      "summary": "Num novo ensaio, Terence Tao adverte que a IA poderia levar a matemática a uma crise semelhante à convulsão fundamental por volta de 1900. O que está a ser testado desta vez não é matemático…",
+      "link": "https://the-decoder.com/terence-tao-says-ai-could-trigger-maths-biggest-crisis-since-godel/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/03/terence_tao_ai_math.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-20T08:49:36+00:00"
+    },
+    {
+      "id": "caf8d0382929e8c8",
+      "title": "OpenAI cria sistema de segurança que detecta uso indevido sem armazenar dados do cliente",
+      "summary": "A OpenAI planeja oferecer seus modelos de IA mais avançados para clientes corporativos sem armazenar seus dados, ao mesmo tempo que detecta uso indevido. O artigo OpenAI constrói sistema de segurança que…",
+      "link": "https://the-decoder.com/openai-builds-safety-system-that-catches-misuse-without-storing-customer-data/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_chatgpt_pattern_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-20T08:01:18+00:00"
+    },
     {
       "id": "ecc9641a4433e15a",
       "title": "Nvidia avalia investir em startup de dados para IA avaliada em R$ 103,6 bilhões",
@@ -201,17 +344,6 @@
       "published_at": "2026-08-19T19:11:40+00:00"
     },
     {
-      "id": "22089e63ddc30296",
-      "title": "Google traz Search e Gemini com novas ferramentas de estudo de IA",
-      "summary": "O lançamento dos novos recursos de estudo marca o esforço mais recente do Google para tornar o Gemini o assistente de IA que os alunos recorrem quando aprendem e estudam, à medida que continua a competir com…",
-      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-19T19:00:00+00:00"
-    },
-    {
       "id": "3ce595e677a9ba3c",
       "title": "O Google Gemini está ganhando um centro estudantil dedicado",
       "summary": "Enquanto nos preparamos para a temporada de volta às aulas, o Google está lançando um novo centro estudantil dedicado em Gemini. É um repositório completo para coletar pesquisas em um caderno de estudo…",
@@ -242,6 +374,17 @@
       "source": "Google AI Blog",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-08-19T19:00:00+00:00"
+    },
+    {
+      "id": "22089e63ddc30296",
+      "title": "Google traz Search e Gemini com novas ferramentas de estudo de IA",
+      "summary": "O lançamento dos novos recursos de estudo marca o esforço mais recente do Google para tornar o Gemini o assistente de IA que os alunos recorrem quando aprendem e estudam, à medida que continua a competir com…",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-08-19T19:00:00+00:00"
     },
     {
@@ -848,149 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-18T17:01:40+00:00"
-    },
-    {
-      "id": "9044d288fd56a1e4",
-      "title": "Casa mais inteligente: Echo Dot em três cores diferentes está em promoção na Amazon",
-      "summary": "Se você quer dar um upgrade na sua casa com tecnologia de voz, essa é uma boa hora para agir. A Amazon está com três versões do Echo Dot — o popular smart speaker com Alexa — em…",
-      "link": "https://olhardigital.com.br/2026/08/18/reviews/casa-mais-inteligente-echo-dot-em-tres-cores-diferentes-esta-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-18T17:00:00+00:00"
-    },
-    {
-      "id": "5ce0206eb1853cd4",
-      "title": "Por que os AirPods equipados com câmera da Apple podem não ser os ‘pods pervertidos’ que os consumidores temem",
-      "summary": "Os AirPods equipados com câmera vazados da Apple podem evitar as armadilhas de privacidade de outros wearables de IA, impedindo os usuários de gravar fotos e vídeos.",
-      "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-18T16:19:10+00:00"
-    },
-    {
-      "id": "364fb1a3eda7be3b",
-      "title": "Gemini Notebook libera cópia de cadernos inteiros com um único clique",
-      "summary": "O Gemini Notebook, antigo NotebookLM, ganhou uma função que permite copiar um caderno inteiro em poucos cliques. A novidade inclui todas as fontes originais e os materiais criados…",
-      "link": "https://canaltech.com.br/apps/gemini-notebook-libera-copia-de-cadernos-inteiros-com-um-unico-clique/",
-      "image": "https://tl.ctcdn.com.br/AArUW972oN0-UJdphzxMXRxQFKQ=/0x0/filters:format(webp):quality(85)/2a43e62e-76c9-4645-be56-519ada3d6524.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-18T15:01:01+00:00"
-    },
-    {
-      "id": "cb49b7c8b9eb6725",
-      "title": "Anthropic explica como o Claude vai identificar textos gerados por IA",
-      "summary": "Tecnologia cria um padrão na escolha das palavras para estimar se o conteúdo teve participação do chatbot. Anthropic explica como o Claude vai identificar textos gerados por IA",
-      "link": "https://tecnoblog.net/noticias/anthropic-explica-como-o-claude-vai-identificar-textos-gerados-por-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-5-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-18T14:56:19+00:00"
-    },
-    {
-      "id": "bc8579f635f31b97",
-      "title": "Magalu vende lava e seca top da Samsung de 13 kg em 12x com R$ 545 de desconto",
-      "summary": "Quem está pensando em trocar a máquina de lavar pode encontrar uma boa oportunidade no AliExpress. A Samsung Lava e Seca AI Control WD13FG de 13 kg está saindo por R$ 3.788 …",
-      "link": "https://canaltech.com.br/eletro/magalu-vende-lava-e-seca-top-da-samsung-de-13-kg-em-12x-com-r-545-de-desconto/",
-      "image": "https://tl.ctcdn.com.br/UZ-8hSGkC5-9R57Xs_7aVSZalqI=/0x0/filters:format(webp):quality(85)/151e74e0-62d9-4903-ad4b-6dfd0cfd5961.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-18T14:13:55+00:00"
-    },
-    {
-      "id": "113014f0cf94c792",
-      "title": "OpenAI oficializa operações no Brasil e revela números de crescimento",
-      "summary": "A OpenAI oficializou nesta segunda-feira (17) o início de suas operações comerciais no Brasil . O anúncio aconteceu em evento para jornalistas no hotel Rosewood, em São Paulo, e…",
-      "link": "https://canaltech.com.br/mercado/openai-oficializa-operacoes-no-brasil-e-revela-numeros-de-crescimento/",
-      "image": "https://tl.ctcdn.com.br/cdlPlMjYm4kW5Pa1kMw6ZVGVOLE=/0x0/filters:format(webp):quality(85)/f25244cd-734f-485a-80fb-56254b2f14e7.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-18T14:02:00+00:00"
-    },
-    {
-      "id": "f6d3c3da05385d9f",
-      "title": "O novo sistema da Warp é uma fábrica de software pronta para uso para desenvolvimento de IA",
-      "summary": "Na terça-feira, a Warp apresentou o Warp Factories, um novo sistema de infraestrutura projetado para tornar a construção de fábricas de software de IA o mais fácil possível.",
-      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-18T14:00:00+00:00"
-    },
-    {
-      "id": "a28af214dedd52ab",
-      "title": "Google paga US$ 10 milhões por dados de companhia aérea falida",
-      "summary": "Acervo da Spirit Airlines inclui mais de 100 milhões de e-mails, 30 milhões de linhas de código e documentos internos. Big tech utilizará dados para aprimorar IA. Google paga US$…",
-      "link": "https://tecnoblog.net/noticias/google-paga-us-10-milhoes-por-dados-de-companhia-aerea-falida/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/spirit-airlines-edited-340x191.webp",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-18T13:50:32+00:00"
-    },
-    {
-      "id": "667df1e38fed1adf",
-      "title": "OpenAI lança um ChatGPT mais seguro para adolescentes – anos depois que os adolescentes começaram a usá-lo",
-      "summary": "ChatGPT for Teens adiciona medidas de segurança adequadas à idade, controles parentais e ferramentas de aprendizagem projetadas para afastar os adolescentes de conteúdo prejudicial - e de usar IA para trapacear...",
-      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-18T13:50:30+00:00"
-    },
-    {
-      "id": "4201eaaadb88fb6d",
-      "title": "A oferta gratuita de IA da Perplexity deixou milhões de usuários a mais na Índia",
-      "summary": "A receita da Perplexity na Índia aumentou cerca de 60% após o término da oferta da Airtel para novos usuários, mesmo com a diminuição dos downloads.",
-      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-18T13:45:40+00:00"
-    },
-    {
-      "id": "f9b39777eca1ae0e",
-      "title": "Nubank abre 50 vagas de estágio com foco em inteligência artificial",
-      "summary": "O Nubank abriu, nesta segunda-feira (17), inscrições para o seu programa de estágio com foco em inteligência artificial . A oportunidade reúne 50 vagas para cidades de Minas…",
-      "link": "https://canaltech.com.br/mercado/nubank-abre-50-vagas-de-estagio-com-foco-em-inteligencia-artificial/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-18T13:41:14+00:00"
-    },
-    {
-      "id": "4d1a0ae9e4929120",
-      "title": "ChatGPT exclusivo para jovens tem travas de segurança e \"modo estudo\"",
-      "summary": "O ChatGPT anunciou um novo modo exclusivo para adolescentes no app . A novidade traz restrições de conteúdo, ferramentas de controle parental e mais funções voltadas para estudos…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-exclusivo-para-jovens-tem-travas-de-seguranca-e-modo-estudo/",
-      "image": "https://tl.ctcdn.com.br/yo-et83X1cfiLL8n2N7VRq785cE=/0x0/filters:format(webp):quality(85)/06d7193f-d27e-4727-ab6e-ed53da1777dd.webp",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-18T13:30:07+00:00"
-    },
-    {
-      "id": "8a6e7f05f419a3c7",
-      "title": "Conheça SAM (Sovereign Agent Mesh): uma rede P2P de configuração zero e confiança zero para agentes de IA",
-      "summary": "O Google tem SAM (Sovereign Agent Mesh) de código aberto no Apache-2.0 – e não tem nada a ver com Segment Anything. SAM é uma sobreposição P2P de configuração zero e confiança zero que permite…",
-      "link": "https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-18T13:29:10+00:00"
     }
   ]
 }
