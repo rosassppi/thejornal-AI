@@ -1,7 +1,238 @@
 {
-  "generated_at": "2026-08-19T18:32:31.098156+00:00",
+  "generated_at": "2026-08-20T01:07:27.993278+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "a5228a2d786fe817",
+      "title": "OpenAI decide pausar avanço de novos modelos de IA; por quê?",
+      "summary": "A OpenAI anunciou nesta terça-feira (18) que vai reduzir o ritmo de treinamento de seus modelos de inteligência artificial mais avançados . A decisão chega depois que um agente de…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/openai-decide-pausar-avanco-de-novos-modelos-de-ia-por-que/",
+      "image": "https://tl.ctcdn.com.br/OrpRO3hPT2qPodkkG_EwGxC-DOk=/0x0/filters:format(webp):quality(85)/d53ba5d9-039c-4be6-ab36-a56734ece4bd.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-20T00:00:01+00:00"
+    },
+    {
+      "id": "84d77e72c6d3b6fa",
+      "title": "OpenAI cria sistema que detecta abuso de IA sem armazenar dados de usuários",
+      "summary": "Chamado de Private Safety Processing, o sistema está sendo apresentado inicialmente a grupo selecionado de clientes O post OpenAI cria sistema que detecta abuso de IA sem…",
+      "link": "https://olhardigital.com.br/2026/08/19/inteligencia-artificial/openai-cria-sistema-que-detecta-abuso-de-ia-sem-armazenar-dados-de-usuarios/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/anthropic-1-1024x585.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T23:45:41+00:00"
+    },
+    {
+      "id": "9c3212205413d0c5",
+      "title": "Stripe realmente não comprou o OpenRouter por causa da ‘singularidade’",
+      "summary": "O que uma gigante dos pagamentos deseja com uma startup que encaminha prompts entre diferentes modelos de IA? Stripe diz que é por causa da “singularidade”, mas na verdade é muito mais real…",
+      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-19T23:32:00+00:00"
+    },
+    {
+      "id": "d07163c10ee00447",
+      "title": "Como remover marca d'água do Gemini de fotos e vídeos",
+      "summary": "O Google começou a liberar uma opção para remover a marca d’água de estrela visível de imagens, vídeos e músicas gerados pelo Gemini. A novidade dá mais liberdade para quem…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-remover-marca-dagua-do-gemini-de-fotos-e-videos/",
+      "image": "https://tl.ctcdn.com.br/5Q8jm-cpysPTmmTb3lh8WA6o3mk=/0x0/filters:format(webp):quality(85)/6443c25f-47bf-4a8a-968f-87ac6aa5a8bf.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T23:00:00+00:00"
+    },
+    {
+      "id": "9c6c713126afd7ef",
+      "title": "OpenAI busca superar a Anthropic com novas proteções de privacidade do cliente",
+      "summary": "Está se desenvolvendo uma competição entre OpenAI e Anthropic sobre quem pode fornecer as melhores proteções de privacidade para dados de clientes corporativos.",
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-19T22:10:46+00:00"
+    },
+    {
+      "id": "7a3e4bd3ee8c5182",
+      "title": "CEO da Cognition nega relato de que a SpaceX tentou adquirir a startup",
+      "summary": "A SpaceX estava supostamente em negociações para comprar a Cognition, startup de codificação de IA. A SpaceX já adquiriu o Cursor enquanto corre para alcançar rivais como OpenAI e Anthropic em IA empresarial.",
+      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-19T21:51:23+00:00"
+    },
+    {
+      "id": "1ff833461901db4f",
+      "title": "Nova IA do Firefox vai organizar bagunça de abas e buscar na web sozinha",
+      "summary": "A Mozilla anunciou nesta terça-feira (18) uma nova leva de recursos para o Smart Window , o modo de navegação com inteligência artificial do Firefox. A atualização permite que a…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/nova-ia-do-firefox-vai-organizar-bagunca-de-abas-e-buscar-na-web-sozinha/",
+      "image": "https://tl.ctcdn.com.br/tmPGLGz84V1U1H0uCHjGBu8IDvs=/0x0/filters:format(webp):quality(85)/dd1047bd-f885-4c3e-89d0-f19e6110b38f.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T21:33:00+00:00"
+    },
+    {
+      "id": "1fd84929643af3b6",
+      "title": "Google AI Plus gratuito? Empresa dá Gemini e 400 GB de graça por 1 ano para estudantes",
+      "summary": "O Google lançou uma iniciativa global que oferece um ano grátis de planos premium de inteligência artificial para estudantes universitários elegíveis. A proposta é usar o Gemini…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/google-ai-pro-gemini-de-graca-por-1-ano-brasil/",
+      "image": "https://tl.ctcdn.com.br/5Q8jm-cpysPTmmTb3lh8WA6o3mk=/0x0/filters:format(webp):quality(85)/6443c25f-47bf-4a8a-968f-87ac6aa5a8bf.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T20:51:59+00:00"
+    },
+    {
+      "id": "abcdaefeb794ce07",
+      "title": "Roborock desafia Xiaomi e lança máquina de lavar piso com água quase fervendo",
+      "summary": "A Roborock, uma das rivais da Xiaomi no segmento de casa inteligente, lançou na China a A30 Pro Steam 3.0 , uma máquina de lavar piso capaz de combinar água a 90 °C com vapor de…",
+      "link": "https://canaltech.com.br/eletro/roborock-desafia-xiaomi-e-lanca-maquina-de-lavar-piso-com-agua-quase-fervendo/",
+      "image": "https://tl.ctcdn.com.br/JY_fNsIDfCZ36FGzPdknnS5MwTE=/0x0/filters:format(webp):quality(85)/15afef28-eef3-4e13-b744-48122b1d1526.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T20:15:52+00:00"
+    },
+    {
+      "id": "b43c1fd91703f8f0",
+      "title": "Rillet levanta US$ 100 milhões na Série C com avaliação de US$ 1 bilhão – 2 anos depois de sair do sigilo",
+      "summary": "A startup de contas nativas de IA, Rillet, tornou-se um unicórnio, liderado pela Iconiq, depois de dobrar seu ARR nos últimos três meses, disse.",
+      "link": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-19T20:12:33+00:00"
+    },
+    {
+      "id": "ac2fab90a402f643",
+      "title": "Desenvolvedores já burlam nova marca d’água de texto do Claude",
+      "summary": "Código lançado poucas horas após o anúncio usa outros modelos de IA para modificar o conteúdo. Desenvolvedores já burlam nova marca d’água de texto do Claude",
+      "link": "https://tecnoblog.net/noticias/desenvolvedores-ja-burlam-nova-marca-dagua-de-texto-do-claude/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-4-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T20:11:30+00:00"
+    },
+    {
+      "id": "cb3b611319c04f3c",
+      "title": "Os comissários de bordo ficaram assustados porque o Google está comprando toneladas de dados de funcionários da Spirit",
+      "summary": "Bankrupt Spirit acusado de vender trabalhadores na venda massiva de dados ao Google.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273586740-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-19T20:04:41+00:00"
+    },
+    {
+      "id": "d82f767e0df6458f",
+      "title": "Stripe declara que estamos vivendo na singularidade e usa isso como motivo para não fazer IPO",
+      "summary": "Em carta aos investidores, Stripe declara o dia 1º de janeiro como o “início da singularidade” e usa isso como motivo para permanecer privado. Não que seja necessário: a receita cresceu 41% em…",
+      "link": "https://the-decoder.com/stripe-declares-were-living-in-the-singularity-and-uses-it-as-a-reason-not-to-ipo/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/stripe_logo_wall.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-19T20:03:20+00:00"
+    },
+    {
+      "id": "0824bd3439e9e57c",
+      "title": "Geladeiras smart da Samsung vão receber recurso dos smartphones Galaxy",
+      "summary": "Linha Bespoke AI ganhará Now Brief, que traz resumo do dia. Update também inclui reconhecimento de alimentos usando o Gemini e análise dos produtos mais consumidos. Geladeiras…",
+      "link": "https://tecnoblog.net/noticias/geladeiras-smart-da-samsung-vao-receber-recurso-dos-smartphones-galaxy/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/08/samsung-digital-appliances-one-ui-home-appliances-software-smartthings-knox-matrix_dl1-edited-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T19:47:06+00:00"
+    },
+    {
+      "id": "cc4229f11b06db02",
+      "title": "Nova IA do QuintoAndar recomenda imóveis e marca visitas pelo WhatsApp",
+      "summary": "O QuintoAndar apresentou, nesta quarta-feira (19), a sua nova plataforma de IA para imobiliárias . Conhecida como Domi , a solução busca automatizar etapas do atendimento de quem…",
+      "link": "https://canaltech.com.br/mercado/nova-ia-do-quintoandar-recomenda-imoveis-e-marca-visitas-pelo-whatsapp/",
+      "image": "https://tl.ctcdn.com.br/2inZzLRtJSW0ZGWN5EEijr8Hx6A=/0x0/filters:format(webp):quality(85)/2a1ebea9-784c-48d1-8771-3ca954517236.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T19:38:25+00:00"
+    },
+    {
+      "id": "da99b15753838e16",
+      "title": "A IA deveria conquistar as pessoas agora - não conseguiu",
+      "summary": "À medida que a IA se torna mais difícil de evitar, os consumidores estão cada vez mais cautelosos em relação à tecnologia – e Silicon Valley está a descobrir que a adopção generalizada não leva necessariamente a…",
+      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-19T19:11:40+00:00"
+    },
+    {
+      "id": "22089e63ddc30296",
+      "title": "Google traz Search e Gemini com novas ferramentas de estudo de IA",
+      "summary": "O lançamento dos novos recursos de estudo marca o esforço mais recente do Google para tornar o Gemini o assistente de IA que os alunos recorrem quando aprendem e estudam, à medida que continua a competir com…",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-19T19:00:00+00:00"
+    },
+    {
+      "id": "3ce595e677a9ba3c",
+      "title": "O Google Gemini está ganhando um centro estudantil dedicado",
+      "summary": "Enquanto nos preparamos para a temporada de volta às aulas, o Google está lançando um novo centro estudantil dedicado em Gemini. É um repositório completo para coletar pesquisas em um caderno de estudo…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-19T19:00:00+00:00"
+    },
+    {
+      "id": "df8f12302a5b421a",
+      "title": "Oferecendo retenção zero de dados para modelos de fronteira",
+      "summary": "OpenAI reafirma retenção zero de dados para clientes de API qualificados e apresenta o processamento de segurança privada para segurança avançada de IA sem comprometer a privacidade dos dados.",
+      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-19T19:00:00+00:00"
+    },
+    {
+      "id": "abaed39cbc9c9b42",
+      "title": "Cinco novas maneiras de aprimorar seu aprendizado com a Pesquisa",
+      "summary": "uma imagem ilustrada com ícones e frases como \"Adicionar bloco de anotações\" e \"Pergunte ao Google\"",
+      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-19T19:00:00+00:00"
+    },
+    {
+      "id": "340612f906c0e765",
+      "title": "Por que as IAs continuam conduzindo ataques hackers?",
+      "summary": "O mercado de IA foi surpreendido após OpenAI e Anthropic anunciarem que modelos das respectivas empresas escaparam de ambientes de testes e conduziram ataques hackers por conta…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/por-que-as-ias-continuam-conduzindo-ataques-hackers/",
+      "image": "https://tl.ctcdn.com.br/lkGEbrPys0Z4sRFxB8JK_jZYVO0=/0x0/filters:format(webp):quality(85)/9434720c-f540-4df5-97be-65e6889146fc.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-19T19:00:00+00:00"
+    },
     {
       "id": "f1e200b4b4b995c8",
       "title": "Oferecendo retenção zero de dados para modelos de fronteira",
@@ -12,6 +243,28 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-08-19T19:00:00+00:00"
+    },
+    {
+      "id": "d89b44a996d21c95",
+      "title": "Os invasores estão usando IA para criar explorações para sistemas de controle industrial, alertam agências dos EUA",
+      "summary": "A NSA, a CISA e o FBI afirmam que os invasores estão usando IA para criar scripts de exploração direcionados aos controladores Siemens S7, reduzindo drasticamente o tempo e as habilidades necessárias para atacar…",
+      "link": "https://the-decoder.com/attackers-are-using-ai-to-build-exploits-for-industrial-control-systems-u-s-agencies-warn/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/05/cybersecurity_llm_kraken.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-19T18:55:53+00:00"
+    },
+    {
+      "id": "8ec1298df12f13d0",
+      "title": "Pesquisadores dizem que a OpenAI revogou seu acesso a programas cibernéticos limitados",
+      "summary": "A ideia por trás do programa Trusted Access for Cyber ​​da OpenAI é fornecer aos defensores confiáveis ​​melhores modelos para que possam relatar bugs e vulnerabilidades às empresas, com o objetivo de…",
+      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-19T18:46:14+00:00"
     },
     {
       "id": "5d3256c4c4b17892",
@@ -256,17 +509,6 @@
       "published_at": "2026-08-19T12:12:33+00:00"
     },
     {
-      "id": "22f6c454e53f4c57",
-      "title": "A IA não está perto de curar o câncer. Esta startup diz que sabe o que será necessário.",
-      "summary": "São os dados, estúpido.",
-      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-19T12:00:00+00:00"
-    },
-    {
       "id": "9d8a9b8bf88a2be1",
       "title": "A nova estratégia financeira da Nvidia não computa",
       "summary": "Abril - 1805 Napoleão é o senhor da Europa Apenas a frota britânica está diante dele A computação é agora uma classe de ativos Vejo que mais uma vez é hora de falar de inovação financeira. Apolo…",
@@ -275,6 +517,17 @@
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
+      "published_at": "2026-08-19T12:00:00+00:00"
+    },
+    {
+      "id": "22f6c454e53f4c57",
+      "title": "A IA não está perto de curar o câncer. Esta startup diz que sabe o que será necessário.",
+      "summary": "São os dados, estúpido.",
+      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-08-19T12:00:00+00:00"
     },
     {
@@ -738,259 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-18T13:00:04+00:00"
-    },
-    {
-      "id": "c9c7f84c9c0c1ab3",
-      "title": "A janela inteligente do Firefox promete um navegador de IA melhor",
-      "summary": "A partir de hoje, os bate-papos com IA no modo de navegação Smart Window AI do Firefox podem extrair informações atuais da web e mostrar links de origem nas respostas do bate-papo por meio de uma parceria com a Exa. Inteligente…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Firefox_SmartWindow_OrganizeTabs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-18T13:00:00+00:00"
-    },
-    {
-      "id": "79ff4b2091983c98",
-      "title": "Instagram falha em bloquear vídeos de assédio feitos com óculos da Meta",
-      "summary": "O Instagram apresenta dificuldades para conter vídeos de assédios e pegadinhas filmadas em público com os óculos inteligentes da Meta . De acordo com o site Business Insider…",
-      "link": "https://canaltech.com.br/apps/instagram-falha-em-bloquear-videos-de-assedio-feitos-com-oculos-da-meta/",
-      "image": "https://tl.ctcdn.com.br/T8u0v4c_mhoNUQZrEMEZr17J_s8=/0x0/filters:format(webp):quality(85)/9f7608ca-47cd-4b83-9cbd-1b0b9391ce7e.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-18T12:29:28+00:00"
-    },
-    {
-      "id": "64ee2a6e04f6a448",
-      "title": "Pet Memory do Google esqueceu quem são meus gatos",
-      "summary": "Uma das melhores coisas que minha casa inteligente faz é me ajudar a cuidar de meus animais de estimação, e as câmeras de segurança são particularmente úteis para rastrear minhas muitas criaturas. Mas a barragem de…",
-      "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PET_RECOGNITION.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-18T12:01:29+00:00"
-    },
-    {
-      "id": "6d4511193cb2ecbe",
-      "title": "Photoshop amplia recursos de IA e transforma experiência de criação no desktop",
-      "summary": "Nova interface busca atender desde quem está começando no app até profissionais que querem ganhar agilidade sem perder autonomia criativa O post Photoshop amplia recursos de IA e…",
-      "link": "https://olhardigital.com.br/2026/08/18/inteligencia-artificial/photoshop-amplia-recursos-de-ia-e-transforma-experiencia-de-criacao-no-desktop/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/06/Photoshop-para-iPhone-reproduo-Olhar-Digital-1024x576.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-18T12:00:00+00:00"
-    },
-    {
-      "id": "809cce4b4793ca57",
-      "title": "Photoshop ganha área dedicada à IA para simplificar edição de imagens",
-      "summary": "A Adobe entrou um novo espaço de trabalho com inteligência artificial no Photoshop nesta terça-feira (18). A interface atualizada reúne as principais ferramentas de IA generativa…",
-      "link": "https://canaltech.com.br/software/photoshop-ganha-area-dedicada-a-ia-para-simplificar-edicao-de-imagens/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-18T12:00:00+00:00"
-    },
-    {
-      "id": "3d0e780ebcb51adf",
-      "title": "OpenAI escolhe Brasil para abrir 1º escritório das Américas fora dos EUA",
-      "summary": "A dona do ChatGPT anunciou começo da operação nacional e acordos com SUS e ITA; entenda por que Brasil foi o país escolhido O post OpenAI escolhe Brasil para abrir 1º escritório…",
-      "link": "https://olhardigital.com.br/2026/08/18/pro/openai-escolhe-brasil-para-abrir-1o-escritorio-das-americas-fora-dos-eua/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/10/chatgpt-2-scaled-e1764351613320-1024x577.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-18T11:57:07+00:00"
-    },
-    {
-      "id": "346ac41c7243ac59",
-      "title": "À medida que a IA vence os médicos, os reguladores não deveriam forçar um ser humano a entrar no circuito, diz o artigo do JAMA",
-      "summary": "Um artigo de opinião na revista médica JAMA argumenta que a IA autônoma em breve superará qualquer equipe médica de IA em tarefas de raciocínio médico. Os autores alertam contra escrever um…",
-      "link": "https://the-decoder.com/as-ai-beats-doctors-regulators-shouldnt-force-a-human-into-the-loop-jama-piece-says/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/AI-Healthcare-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-18T11:43:02+00:00"
-    },
-    {
-      "id": "3d555c417c093a84",
-      "title": "Agentes de IA vão substituir profissionais ou apenas transformar suas tarefas?",
-      "summary": "Estamos vivendo uma das maiores transformações da história da humanidade. Já atravessamos revoluções que mudaram completamente a forma como vivemos - da descoberta da eletricidade…",
-      "link": "https://canaltech.com.br/mercado/agentes-de-ia-vao-substituir-profissionais-ou-apenas-transformar-suas-tarefas/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-18T11:35:36+00:00"
-    },
-    {
-      "id": "2f477b523b72dc23",
-      "title": "DOJ investiga Andreessen Horowitz sobre parceiros em conselhos de IA concorrentes",
-      "summary": "Andreessen Horowitz é o foco de uma investigação antitruste do Departamento de Justiça dos EUA. A acusação é que os sócios da empresa façam parte dos conselhos de empresas de dados concorrentes Databricks…",
-      "link": "https://the-decoder.com/doj-probes-andreessen-horowitz-over-partners-sitting-on-competing-ai-boards/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/02/Office-Work-AI-scaled.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-18T11:35:17+00:00"
-    },
-    {
-      "id": "31497ce7df7f9f2d",
-      "title": "OpenAI lança uma versão ChatGPT desenvolvida para adolescentes",
-      "summary": "A OpenAI está lançando uma versão do ChatGPT adaptada para usuários de 13 a 17 anos. O artigo OpenAI lança uma versão ChatGPT desenvolvida para adolescentes apareceu pela primeira vez no The Decoder.",
-      "link": "https://the-decoder.com/openai-launches-a-chatgpt-version-built-for-teens/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/05/openai_chatgpt.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-18T11:27:29+00:00"
-    },
-    {
-      "id": "bf599835c6da6b18",
-      "title": "Elon Musk tornou o voo ainda pior para que Palantir pudesse lucrar",
-      "summary": "Em 6 de agosto, o Centro de Controle de Tráfego da Rota Aérea de Minneapolis perdeu radar e comunicações por cerca de duas horas. A interrupção interrompeu mais de 1.100 voos em todo o…",
-      "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268692_Elon_Musk_tore_down_the_FAA_so_Peter_Thiel_could_build_it_back_up_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-18T11:00:00+00:00"
-    },
-    {
-      "id": "6d4ec902c728a021",
-      "title": "Parceria com CodeAI para preparar a primeira geração de IA",
-      "summary": "OpenAI e CodeAI estão formando uma parceria para ajudar os alunos a desenvolver conhecimentos sobre IA, pensar criticamente sobre IA e desenvolver habilidades para usá-la e moldá-la de maneira responsável.",
-      "link": "https://openai.com/index/partnering-with-codeai",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-18T11:00:00+00:00"
-    },
-    {
-      "id": "9c25f4ae7a186d68",
-      "title": "Acompanhando o desenvolvimento de modelos em uma era de capacidades cibercríticas",
-      "summary": "A OpenAI está fortalecendo o monitoramento, o alinhamento e a segurança para modelos de IA de ponta. Veja como as novas salvaguardas estão orientando o ritmo de desenvolvimento do modelo.",
-      "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-18T11:00:00+00:00"
-    },
-    {
-      "id": "c3b0ed374d416807",
-      "title": "Apresentando o ChatGPT para adolescentes: desenvolvido para o aprendizado, apoiado por proteções",
-      "summary": "ChatGPT for Teens ajuda os adolescentes a aprender, pensar criticamente e usar IA com confiança, com proteções integradas mais fortes, recursos de uso saudável e controles adicionais para os pais.",
-      "link": "https://openai.com/index/chatgpt-for-teens",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-18T11:00:00+00:00"
-    },
-    {
-      "id": "ba537370f7532a78",
-      "title": "ChatGPT está recebendo um modo dedicado para adolescentes",
-      "summary": "OpenAI está introduzindo um modo ChatGPT dedicado para adolescentes, combinando proteções juvenis existentes e novos recursos de segurança sob o mesmo teto. O lançamento ocorre em meio ao público crescente…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Parental-Controls-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-18T11:00:00+00:00"
-    },
-    {
-      "id": "f90f9798c2bb7e44",
-      "title": "Reach Capital levanta US$ 265 milhões do Fundo V para apoiar fundadores de IA que estão construindo para ‘expandir o potencial humano’",
-      "summary": "A Reach Capital anunciou na terça-feira um Fundo V de US$ 265 milhões com excesso de inscrições.",
-      "link": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-18T11:00:00+00:00"
-    },
-    {
-      "id": "963fab818688f4b3",
-      "title": "O custo por token da Anthropic é 4,4 vezes maior que a média do Vercel, e os desenvolvedores continuam pagando",
-      "summary": "A Anthropic dominou os gastos do AI Gateway da Vercel em julho, obtendo 65,1% da receita total e respondendo por apenas 30% dos tokens processados. Seus tokens custam 4,4…",
-      "link": "https://the-decoder.com/anthropics-per-token-cost-runs-4-4-times-the-average-on-vercel-and-developers-keep-paying/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/03/anthropic_office_work.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-18T10:45:00+00:00"
-    },
-    {
-      "id": "44cebbcb64e4a354",
-      "title": "Cartesia lança Sonic-3.6: um modelo TTS de streaming que agora lidera ambas as arenas de fala de análise artificial",
-      "summary": "A Cartesia lançou o Sonic-3.6, um modelo de streaming de texto para fala construído em modelos de espaço de estado em vez de transformadores. Agora ocupa o primeiro lugar em ambos os discursos de Análise Artificial…",
-      "link": "https://www.marktechpost.com/2026/08/18/cartesia-ships-sonic-3-6-a-streaming-tts-model-that-now-leads-both-artificial-analysis-speech-arenas/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-18T10:37:49+00:00"
-    },
-    {
-      "id": "ab9f389d5b10cd01",
-      "title": "Einride fecha acordo para adicionar 500 Tesla Semis à sua frota",
-      "summary": "O acordo triplicará o tamanho da frota da Einride, ao mesmo tempo que adoçará o discurso de vendas da empresa para seu software Saga AI. O Tesla Semis estará disponível para clientes em todo o Norte…",
-      "link": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-18T10:30:00+00:00"
-    },
-    {
-      "id": "3a15a6a18265ecce",
-      "title": "Ainda não sabemos como as pessoas estão realmente usando IA",
-      "summary": "Empresas de IA como Anthropic e OpenAI publicam regularmente relatórios sobre como as pessoas estão usando produtos como Claude e ChatGPT, mas elas apenas divulgam os dados que desejam que vejamos, IA…",
-      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-18T10:06:43+00:00"
-    },
-    {
-      "id": "1fc1cdeb03ec913f",
-      "title": "Claude Code recebe um comando /design que permite aos desenvolvedores criar modelos de UI diretamente no terminal",
-      "summary": "Com o comando /design, o Anthropic traz um fluxo de trabalho de design visual diretamente para o Claude Code. Os desenvolvedores podem gerar modelos de UI como pranchetas diretamente no terminal antes de escrever…",
-      "link": "https://the-decoder.com/claude-code-gets-a-design-command-that-lets-developers-create-ui-mockups-right-in-the-terminal/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude_design.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-18T10:06:16+00:00"
-    },
-    {
-      "id": "25daceb8668b19c8",
-      "title": "Resumo do OD: “água-viva” voadora em Marte, cidade perdida na Amazônia e conspiração de IAs",
-      "summary": "Imagem da NASA viraliza nas redes sociais e vira combustível para teorias da conspiração O post Resumo do OD: “água-viva” voadora em Marte, cidade perdida na Amazônia e…",
-      "link": "https://olhardigital.com.br/2026/08/18/pro/resumo-do-od-agua-viva-voadora-em-marte-cidade-perdida-na-amazonia-e-conspiracao-de-ias/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Destaque-Laser-civilizacao-perdida-Amazonia-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-18T10:03:05+00:00"
-    },
-    {
-      "id": "abe15a101a64c60a",
-      "title": "Os AirPods equipados com câmera da Apple aparecem em vídeo vazado",
-      "summary": "Podemos ter nosso primeiro vislumbre dos rumores dos AirPods equipados com câmera da Apple, graças a um vídeo que MacRumors encontrou no macOS Tahoe 26.7 Release Candidate. O breve videoclipe…",
-      "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-AirPods-with-cameras-demo-video-leak.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-18T09:00:01+00:00"
     }
   ]
 }
