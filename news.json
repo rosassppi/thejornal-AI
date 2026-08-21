@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-08-21T06:41:51.155393+00:00",
+  "generated_at": "2026-08-21T12:42:18.237084+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "3fa89743ea63ad11",
+      "title": "Um em cada três sites criados após ChatGPT tem sinais de IA",
+      "summary": "Pesquisa aponta rastro de inteligência artificial cada vez maior em links publicados depois de 2022. Um em cada três sites criados após ChatGPT tem sinais de IA",
+      "link": "https://tecnoblog.net/noticias/um-em-cada-tres-sites-criados-apos-chatgpt-tem-sinais-de-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2018/10/capa-tbr-ia-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-21T11:31:20+00:00"
+    },
+    {
+      "id": "dceb5e98a2c263ae",
+      "title": "Waymo constrói seu próprio chip para seus robotáxis, reduzindo sua dependência da Nvidia",
+      "summary": "Waymo construiu seu próprio chip para seus robotáxis, eliminando sua dependência da Nvidia. O artigo Waymo constrói seu próprio chip para seus robotáxis, eliminando sua dependência da Nvidia apareceu primeiro…",
+      "link": "https://the-decoder.com/waymo-builds-its-own-chip-for-its-robotaxis-cutting-its-reliance-on-nvidia/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/12/waymo_press_shot-scaled.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-21T11:04:09+00:00"
+    },
+    {
+      "id": "b7c780b7793bb1e2",
+      "title": "À medida que a demanda por óculos Meta AI explode, é mais difícil evitar gravações assustadoras",
+      "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/zuckoff-glasshole-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-21T11:00:53+00:00"
+    },
+    {
+      "id": "89b9841678f63e0d",
+      "title": "Meta gasta centenas de milhões em serviços de IA da Microsoft",
+      "summary": "A Meta se tornou um dos maiores clientes de IA da Microsoft, segundo a Bloomberg. O artigo Meta gasta centenas de milhões em serviços de IA da Microsoft apareceu pela primeira vez no The…",
+      "link": "https://the-decoder.com/meta-spends-hundreds-of-millions-on-microsofts-ai-services/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/meta_AI_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-21T10:54:41+00:00"
+    },
+    {
+      "id": "305e34c2aa9befe7",
+      "title": "Antrópico altera política de retenção de dados após resistência empresarial",
+      "summary": "A Anthropic está flexibilizando sua controversa política de armazenamento de dados, permitindo que os clientes corporativos mantenham seus próprios dados no futuro. O artigo Anthropic altera política de retenção de dados…",
+      "link": "https://the-decoder.com/anthropic-changes-data-retention-policy-after-enterprise-pushback/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/Claude-Tag-title.webp",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-21T09:59:51+00:00"
+    },
+    {
+      "id": "4a8657616df1c2f7",
+      "title": "Nvidia está adquirindo a “Model Factory” da Poolside e 109 funcionários por US$ 6 bilhões",
+      "summary": "A Nvidia está pagando US$ 6 bilhões por software que constrói modelos de IA da startup Poolside e quer contratar 109 funcionários. O artigo Nvidia está adquirindo o \"Modelo…",
+      "link": "https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-21T08:27:23+00:00"
+    },
+    {
+      "id": "65e8cbc7b7c33a48",
+      "title": "GPT-5.6 Sol impulsiona o aumento da receita da OpenAI à medida que recupera terreno na Anthropic",
+      "summary": "Desde o lançamento do GPT-5.6 Sol no início de julho, a OpenAI afirma que a receita aumentou 35% neste trimestre, com a receita empresarial crescendo mais de 50%. Os dados de rampa mostram a ultrapassagem do OpenAI…",
+      "link": "https://the-decoder.com/gpt-5-6-sol-drives-openais-revenue-surge-as-it-regains-ground-on-anthropic/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/05/openai_anthropic-1.jpeg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-21T08:26:05+00:00"
+    },
+    {
+      "id": "e5f0a8b8f0863413",
+      "title": "O GPT-Image-2 da OpenAI agora pode gerar imagens sem fundo",
+      "summary": "OpenAI está visualizando suporte de fundo transparente para GPT-Image-2 por meio de sua API. O canal alfa é incorporado durante a geração da imagem, que de acordo com o OpenAI supera…",
+      "link": "https://the-decoder.com/openais-gpt-image-2-can-now-generate-images-without-a-background/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/openai_logo_transparent.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-21T07:53:40+00:00"
+    },
     {
       "id": "e9ba6db1fcd1c3b4",
       "title": "A startup de dados de IA Micro1 atinge uma taxa bruta de execução de US$ 500 milhões em meio ao boom de treinamento de IA",
@@ -903,94 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-19T17:26:48+00:00"
-    },
-    {
-      "id": "e24875277dd9c8e6",
-      "title": "OpenAI pisou no freio. E agora?",
-      "summary": "Com um IPO iminente, intensa concorrência da Anthropic e rivais chineses e de peso aberto em seu encalço, a OpenAI tem muitos motivos para agir rapidamente. Em vez disso, atingiu o ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK201_SAM_ALTMAN_CVIRGINIA2C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-19T17:10:09+00:00"
-    },
-    {
-      "id": "f05312c96fe3c222",
-      "title": "Meta AI está recebendo um aplicativo para Mac",
-      "summary": "Meta está lançando um novo aplicativo para Mac dedicado ao seu chatbot de IA. Em um anúncio na quarta-feira, Meta diz que você pode compartilhar sua janela com seu chatbot AI, que pode fornecer…",
-      "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MacApp_ScreenShare_0818.2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-19T17:00:00+00:00"
-    },
-    {
-      "id": "89976239261d1749",
-      "title": "Echo Dot em destaque: conheça os melhores smart speakers com Alexa em promoção",
-      "summary": "Se você está pensando em deixar a casa mais inteligente, esta é uma boa hora para agir. Reunimos três opções do Echo Dot, o smart speaker da Amazon com Alexa integrada…",
-      "link": "https://olhardigital.com.br/2026/08/19/reviews/echo-dot-em-destaque-conheca-os-melhores-smart-speakers-com-alexa-em-promocao/",
-      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-19T17:00:00+00:00"
-    },
-    {
-      "id": "7b7c37300a99d2b8",
-      "title": "IA tenta prever tempestades solares, mas existe um problema",
-      "summary": "Modelos encontram padrões no Sol com horas de antecedência, mas falta de compreensão leva a alarmes falsos; entenda O post IA tenta prever tempestades solares, mas existe um…",
-      "link": "https://olhardigital.com.br/2026/08/19/ciencia-e-espaco/ia-tenta-prever-tempestades-solares-mas-existe-um-problema/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/IA-e-tempestades-solares-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-19T16:24:40+00:00"
-    },
-    {
-      "id": "5a803f37119a385e",
-      "title": "OpenAI está aberta a discutir construção de data centers no Brasil, diz VP",
-      "summary": "A OpenAI está aberta a discutir e investigar a construção de data centers no Brasil . A afirmação foi feita por Oliver Jay, vice-presidente de estratégia internacional da empresa…",
-      "link": "https://canaltech.com.br/mercado/openai-esta-aberta-a-discutir-construcao-de-data-centers-no-brasil/",
-      "image": "https://tl.ctcdn.com.br/mcGd9se7X1AMQSKEcgiZ3kL9CDI=/0x0/filters:format(webp):quality(85)/a3b49ba5-331a-4847-a982-3284fbcaeb6e.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-19T16:02:00+00:00"
-    },
-    {
-      "id": "e46d998199a87f5b",
-      "title": "Meta veiculou anúncios de um aplicativo que prometia nudificar mulheres políticas",
-      "summary": "Um anúncio apresentava um vídeo pornográfico com deepfake muito parecido com um político dos EUA.",
-      "link": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2250404047-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-19T15:45:29+00:00"
-    },
-    {
-      "id": "c86c5d5f5cf725ad",
-      "title": "O reator nuclear da TerraPower tem uma arma secreta para alimentar data centers de IA",
-      "summary": "A usina nuclear da TerraPower possui uma vantagem estratégica sobre os concorrentes, especialmente quando se busca negócios em data centers.",
-      "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-19T15:44:53+00:00"
-    },
-    {
-      "id": "c1c7e913fcf6f9fb",
-      "title": "Amazon torna seu Alexa + com tecnologia de IA gratuito no Fire TV, sem necessidade de Prime",
-      "summary": "A Amazon está disponibilizando seu assistente Alexa + com tecnologia de IA gratuitamente em todos os dispositivos Fire TV compatíveis nos EUA, atualizando automaticamente os usuários, independentemente de eles assinarem ou não o Prime.",
-      "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-19T15:00:00+00:00"
     }
   ]
 }
