@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-08-21T12:42:18.237084+00:00",
+  "generated_at": "2026-08-21T18:34:01.272892+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "fb5e816b91b84c83",
+      "title": "A oposição aos data centers aumentou de 42 para 75 por cento em apenas um ano, segundo pesquisa",
+      "summary": "Três em cada quatro americanos agora se opõem à construção de um data center perto deles, acima da divisão igualitária de apenas um ano atrás, de acordo com uma pesquisa da Heatmap News. 61 por cento são \"fortemente...",
+      "link": "https://the-decoder.com/data-center-opposition-surged-from-42-to-75-percent-in-just-one-year-survey-finds/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/data_ceneter_protest.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-21T18:25:44+00:00"
+    },
+    {
+      "id": "2ab6ef3f24a8133d",
+      "title": "Risco à privacidade: MPF e ANPD são acionados para investigar óculos da Meta no Brasil",
+      "summary": "O Instituto de Defesa de Consumidores (Idec) e a organização Coding Rights protocolaram nesta quinta-feira (20) uma representação contra os óculos inteligentes Ray-Ban Meta no…",
+      "link": "https://canaltech.com.br/mercado/risco-a-privacidade-mpf-e-anpd-sao-acionados-para-investigar-oculos-da-meta-no-brasil/",
+      "image": "https://tl.ctcdn.com.br/MKSDNOJBzTTMRxNB3ITSNOAsrAU=/0x0/filters:format(webp):quality(85)/d56b46f1-8b8c-4ec1-94b4-881a904586b7.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-21T18:02:00+00:00"
+    },
+    {
+      "id": "dc8690d280e2f09c",
+      "title": "Companhia aérea vai usar IA para lucrar mais, revela CEO",
+      "summary": "Executivo da Delta quer que tecnologia ajude a decidir faixas de tarifas. Empresa já falou em definir preços individualmente para cada passageiro. Companhia aérea vai usar IA para…",
+      "link": "https://tecnoblog.net/noticias/companhia-aerea-vai-usar-ia-para-lucrar-mais-revela-ceo/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/k1nq_3_6ky8.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-21T17:33:54+00:00"
+    },
+    {
+      "id": "2616f11861099e80",
+      "title": "DeepSeek revela IA mais barata para competir com o Claude Opus",
+      "summary": "Versão experimental processa um milhão de palavras por menos de US$ 1. IA interpreta imagens e textos e supera modelo da Anthropic em três de 11 benchmarks. DeepSeek revela IA…",
+      "link": "https://tecnoblog.net/noticias/deepseek-revela-ia-mais-barata-para-desafiar-modelo-da-anthropic/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/01/capa-deepseek-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-21T17:22:12+00:00"
+    },
+    {
+      "id": "9fb8518d8c1b6685",
+      "title": "IA descobre doenças antes dos médicos? Saiba onde a tecnologia funciona",
+      "summary": "Da retina às UTIs, algoritmos antecipam lesões e crises graves em minutos, mas a palavra final no tratamento ainda é do médico O post IA descobre doenças antes dos médicos? Saiba…",
+      "link": "https://olhardigital.com.br/2026/08/21/medicina-e-saude/ia-descobre-doencas-antes-dos-medicos-saiba-onde-a-tecnologia-funciona/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Infografico-Fluxo-de-oftalmologia-com-IA-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-21T17:06:11+00:00"
+    },
+    {
+      "id": "15ea95176d99fdde",
+      "title": "Casa mais inteligente: Echo Dot em três cores com Alexa+ na Amazon",
+      "summary": "Equipar a casa com um smart speaker nunca foi tão acessível. A Amazon disponibiliza o Echo Dot na geração mais recente em três opções de cor — Azul, Preta e Branca —, todas com…",
+      "link": "https://olhardigital.com.br/2026/08/21/reviews/casa-mais-inteligente-echo-dot-em-tres-cores-com-alexa-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-21T17:00:00+00:00"
+    },
+    {
+      "id": "62124eb4d8d91ef7",
+      "title": "Google vai permitir personalizar feed do Discover com prompts de IA; veja como fazer",
+      "summary": "O Google está preparando uma nova forma de personalizar o feed do Discover com ajuda de inteligência artificial . A novidade permitirá que usuários descrevam, em comandos de…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/google-vai-permitir-personalizar-feed-do-discover-com-prompts-de-ia-veja-como-fazer/",
+      "image": "https://tl.ctcdn.com.br/naiODsOgKn1c93gOwVqJEIn_1tA=/0x0/filters:format(webp):quality(85)/efa8bc89-927e-4bef-854a-b8e7003eec98.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-21T16:06:00+00:00"
+    },
+    {
+      "id": "592060173ae98356",
+      "title": "Os EUA querem forçar os países parceiros a escolher entre Washington e Pequim na corrida pela IA",
+      "summary": "Os EUA estão a redigir uma carta aos países parceiros, dizendo-lhes para escolherem um lado no impasse da IA ​​entre Washington e Pequim, segundo a Reuters. O artigo que os EUA querem forçar…",
+      "link": "https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/china_vs_usa_ai_arms_race.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-21T15:18:29+00:00"
+    },
+    {
+      "id": "bf908d545d6a4c5d",
+      "title": "ChatGPT fura segurança do iMessage e responde mensagens sem sua autorização",
+      "summary": "A OpenAI lançou uma nova integração do ChatGPT para Mac que permite à inteligência artificial ler o histórico de mensagens, pesquisar conversas, criar resumos e enviar mensagens…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-fura-seguranca-do-imessage-e-responde-mensagens-sem-sua-autorizacao/",
+      "image": "https://tl.ctcdn.com.br/YcTZHHYFhPr5QzRqY7vwryPXa7w=/0x0/filters:format(webp):quality(85)/3ec59fd7-f707-443c-88c5-245a11e1554d.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-21T15:07:00+00:00"
+    },
+    {
+      "id": "2652ae3493b92fa6",
+      "title": "Apple Music terá selo para identificar músicas feitas com IA",
+      "summary": "Sinalização de uso de inteligência artificial deve aparecer para usuários do serviço até o final do ano. Apple Music terá selo para identificar músicas feitas com IA",
+      "link": "https://tecnoblog.net/noticias/apple-music-tera-selo-para-identificar-musicas-feitas-com-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/05/apple-music_capa-1_tb-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-21T14:51:09+00:00"
+    },
+    {
+      "id": "9e31c058bde9096d",
+      "title": "Vale a pena trocar de iPhone só para acessar os recursos de IA?",
+      "summary": "Puxado pela nova Siri AI, o iOS 27 vai trazer novidades significativas de IA no iPhone , mas nem todos os modelos vão receber os recursos do Apple Intelligence. Nesse caso, surge…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/vale-a-pena-trocar-de-iphone-so-para-acessar-os-recursos-de-ia/",
+      "image": "https://tl.ctcdn.com.br/YZs8QfVtxqABU2foXsaiPmNeEFQ=/0x0/filters:format(webp):quality(85)/6c02ba39-1bab-4d7f-9ba4-f66c33de54f6.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-21T14:30:00+00:00"
+    },
+    {
+      "id": "3665a337cb38ea91",
+      "title": "Canhão a laser chinês mata 30 mosquitos por segundo e poupa \"insetos úteis\"",
+      "summary": "Uma empresa chinesa desenvolveu um dispositivo capaz de identificar e eliminar mosquitos com lasers , utilizando inteligência artificial e radares para diferenciar os insetos de…",
+      "link": "https://canaltech.com.br/produtos/canhao-a-laser-chines-mata-30-mosquitos-por-segundo-e-poupa-insetos-uteis/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-21T14:03:49+00:00"
+    },
+    {
+      "id": "dff524eb3a03968a",
+      "title": "Brasil investe R$ 2,3 bilhões para turbinar infraestrutura nacional de IA",
+      "summary": "Governo Federal dividirá recursos entre empresas dos EUA e China. Investimento prevê um supercomputador com 7,2 mil Petaflops de capacidade. Brasil investe R$ 2,3 bilhões para…",
+      "link": "https://tecnoblog.net/noticias/brasil-investe-r-23-bilhoes-para-turbinar-infraestrutura-nacional-de-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capa_tbr-supercomputador-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-21T14:00:52+00:00"
+    },
+    {
+      "id": "aef1930699d91678",
+      "title": "Os principais criadores do YouTube estão enfrentando reações adversas por aceitarem dinheiro de IA",
+      "summary": "Nos últimos dias, vários criadores de conteúdo cinematográfico proeminentes, incluindo Matti Haapoja e Sam \"Kold\" Kolder, postaram vídeos deles mesmos demonstrando o que é…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ai-label_eb9dbb.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-21T13:37:52+00:00"
+    },
     {
       "id": "3fa89743ea63ad11",
       "title": "Um em cada três sites criados após ChatGPT tem sinais de IA",
@@ -102,6 +256,17 @@
       "published_at": "2026-08-21T00:13:44+00:00"
     },
     {
+      "id": "e3ddd7a65cd3a566",
+      "title": "Medindo a otimização de benchmark em reconhecimento de fala",
+      "summary": "",
+      "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-21T00:00:00+00:00"
+    },
+    {
       "id": "42713d44a37a9fa2",
       "title": "Nvidia diz não ter planos de lançar chip de IA na China ainda este ano",
       "summary": "Empresa contesta reportagem que apontava desenvolvimento de uma unidade de processamento de linguagem para clientes chineses; Nvidia diz não ter vendas de LPUs no país nem produto…",
@@ -144,6 +309,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-20T22:36:37+00:00"
+    },
+    {
+      "id": "8b6a917df6f287fe",
+      "title": "Conheça S1-mini: Normalizador de texto de peso aberto de 462 MB do Superwhisper que transforma transcrições ASR brutas em texto escrito limpo",
+      "summary": "S1-mini é um normalizador de pesos abertos de 462 MB que fica após o ASR, removendo preenchimentos e resolvendo autocorreções localmente. A postagem Conheça o S1-mini: pesos abertos de 462 MB do Superwhisper…",
+      "link": "https://www.marktechpost.com/2026/08/20/meet-s1-mini-superwhispers-462-mb-open-weights-text-normalizer-that-turns-raw-asr-transcripts-into-clean-written-text/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-20T22:23:17+00:00"
     },
     {
       "id": "7e754836f0d59bfe",
@@ -201,6 +377,17 @@
       "published_at": "2026-08-20T20:30:00+00:00"
     },
     {
+      "id": "6176be1be503f61f",
+      "title": "Conheça UPDF: uma alternativa leve da Adobe desenvolvida para a era agente",
+      "summary": "PDFs são fáceis de ler e difíceis de alterar. A IA agora pode resumir um contrato de 90 páginas em segundos, mas ainda não reescreverá o arquivo de origem de forma limpa. O UPDF foi criado para esse segundo…",
+      "link": "https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/blog619100-15-1024x731.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-20T19:34:10+00:00"
+    },
+    {
       "id": "6a7f48a53bf28a17",
       "title": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash",
       "summary": "A Adobe está disponibilizando amplamente três ferramentas de áudio de IA no Firefly. Gere música, gere fala e gere efeitos sonoros, crie músicas, dublagens e sons isentos de royalties…",
@@ -232,6 +419,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-20T19:09:36+00:00"
+    },
+    {
+      "id": "1c9e72af45bd6a94",
+      "title": "Liquid AI lança modelos de rascunho LFM2.5-DSpark que oferecem decodificação até 3,18x mais rápida sem alterar as saídas do modelo",
+      "summary": "Três desenhistas de aproximadamente 300 milhões trazem decodificação especulativa para LFM2.5, entregando decodificação até 3,18x mais rápida com saída idêntica e gananciosa. O post Liquid AI lança rascunho LFM2.5-DSpark…",
+      "link": "https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-20T18:53:09+00:00"
     },
     {
       "id": "8a89d1911009ef63",
@@ -793,204 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-19T20:51:59+00:00"
-    },
-    {
-      "id": "abcdaefeb794ce07",
-      "title": "Roborock desafia Xiaomi e lança máquina de lavar piso com água quase fervendo",
-      "summary": "A Roborock, uma das rivais da Xiaomi no segmento de casa inteligente, lançou na China a A30 Pro Steam 3.0 , uma máquina de lavar piso capaz de combinar água a 90 °C com vapor de…",
-      "link": "https://canaltech.com.br/eletro/roborock-desafia-xiaomi-e-lanca-maquina-de-lavar-piso-com-agua-quase-fervendo/",
-      "image": "https://tl.ctcdn.com.br/JY_fNsIDfCZ36FGzPdknnS5MwTE=/0x0/filters:format(webp):quality(85)/15afef28-eef3-4e13-b744-48122b1d1526.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-19T20:15:52+00:00"
-    },
-    {
-      "id": "b43c1fd91703f8f0",
-      "title": "Rillet levanta US$ 100 milhões na Série C com avaliação de US$ 1 bilhão – 2 anos depois de sair do sigilo",
-      "summary": "A startup de contas nativas de IA, Rillet, tornou-se um unicórnio, liderado pela Iconiq, depois de dobrar seu ARR nos últimos três meses, disse.",
-      "link": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-19T20:12:33+00:00"
-    },
-    {
-      "id": "ac2fab90a402f643",
-      "title": "Desenvolvedores já burlam nova marca d’água de texto do Claude",
-      "summary": "Código lançado poucas horas após o anúncio usa outros modelos de IA para modificar o conteúdo. Desenvolvedores já burlam nova marca d’água de texto do Claude",
-      "link": "https://tecnoblog.net/noticias/desenvolvedores-ja-burlam-nova-marca-dagua-de-texto-do-claude/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-4-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-19T20:11:30+00:00"
-    },
-    {
-      "id": "cb3b611319c04f3c",
-      "title": "Os comissários de bordo ficaram assustados porque o Google está comprando toneladas de dados de funcionários da Spirit",
-      "summary": "Bankrupt Spirit acusado de vender trabalhadores na venda massiva de dados ao Google.",
-      "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273586740-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-19T20:04:41+00:00"
-    },
-    {
-      "id": "d82f767e0df6458f",
-      "title": "Stripe declara que estamos vivendo na singularidade e usa isso como motivo para não fazer IPO",
-      "summary": "Em carta aos investidores, Stripe declara o dia 1º de janeiro como o “início da singularidade” e usa isso como motivo para permanecer privado. Não que seja necessário: a receita cresceu 41% em…",
-      "link": "https://the-decoder.com/stripe-declares-were-living-in-the-singularity-and-uses-it-as-a-reason-not-to-ipo/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/stripe_logo_wall.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-19T20:03:20+00:00"
-    },
-    {
-      "id": "0824bd3439e9e57c",
-      "title": "Geladeiras smart da Samsung vão receber recurso dos smartphones Galaxy",
-      "summary": "Linha Bespoke AI ganhará Now Brief, que traz resumo do dia. Update também inclui reconhecimento de alimentos usando o Gemini e análise dos produtos mais consumidos. Geladeiras…",
-      "link": "https://tecnoblog.net/noticias/geladeiras-smart-da-samsung-vao-receber-recurso-dos-smartphones-galaxy/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/08/samsung-digital-appliances-one-ui-home-appliances-software-smartthings-knox-matrix_dl1-edited-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-19T19:47:06+00:00"
-    },
-    {
-      "id": "cc4229f11b06db02",
-      "title": "Nova IA do QuintoAndar recomenda imóveis e marca visitas pelo WhatsApp",
-      "summary": "O QuintoAndar apresentou, nesta quarta-feira (19), a sua nova plataforma de IA para imobiliárias . Conhecida como Domi , a solução busca automatizar etapas do atendimento de quem…",
-      "link": "https://canaltech.com.br/mercado/nova-ia-do-quintoandar-recomenda-imoveis-e-marca-visitas-pelo-whatsapp/",
-      "image": "https://tl.ctcdn.com.br/2inZzLRtJSW0ZGWN5EEijr8Hx6A=/0x0/filters:format(webp):quality(85)/2a1ebea9-784c-48d1-8771-3ca954517236.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-19T19:38:25+00:00"
-    },
-    {
-      "id": "da99b15753838e16",
-      "title": "A IA deveria conquistar as pessoas agora - não conseguiu",
-      "summary": "À medida que a IA se torna mais difícil de evitar, os consumidores estão cada vez mais cautelosos em relação à tecnologia – e Silicon Valley está a descobrir que a adopção generalizada não leva necessariamente a…",
-      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-19T19:11:40+00:00"
-    },
-    {
-      "id": "3ce595e677a9ba3c",
-      "title": "O Google Gemini está ganhando um centro estudantil dedicado",
-      "summary": "Enquanto nos preparamos para a temporada de volta às aulas, o Google está lançando um novo centro estudantil dedicado em Gemini. É um repositório completo para coletar pesquisas em um caderno de estudo…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-19T19:00:00+00:00"
-    },
-    {
-      "id": "df8f12302a5b421a",
-      "title": "Oferecendo retenção zero de dados para modelos de fronteira",
-      "summary": "OpenAI reafirma retenção zero de dados para clientes de API qualificados e apresenta o processamento de segurança privada para segurança avançada de IA sem comprometer a privacidade dos dados.",
-      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-19T19:00:00+00:00"
-    },
-    {
-      "id": "abaed39cbc9c9b42",
-      "title": "Cinco novas maneiras de aprimorar seu aprendizado com a Pesquisa",
-      "summary": "uma imagem ilustrada com ícones e frases como \"Adicionar bloco de anotações\" e \"Pergunte ao Google\"",
-      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-19T19:00:00+00:00"
-    },
-    {
-      "id": "22089e63ddc30296",
-      "title": "Google traz Search e Gemini com novas ferramentas de estudo de IA",
-      "summary": "O lançamento dos novos recursos de estudo marca o esforço mais recente do Google para tornar o Gemini o assistente de IA que os alunos recorrem quando aprendem e estudam, à medida que continua a competir com…",
-      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-19T19:00:00+00:00"
-    },
-    {
-      "id": "340612f906c0e765",
-      "title": "Por que as IAs continuam conduzindo ataques hackers?",
-      "summary": "O mercado de IA foi surpreendido após OpenAI e Anthropic anunciarem que modelos das respectivas empresas escaparam de ambientes de testes e conduziram ataques hackers por conta…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/por-que-as-ias-continuam-conduzindo-ataques-hackers/",
-      "image": "https://tl.ctcdn.com.br/lkGEbrPys0Z4sRFxB8JK_jZYVO0=/0x0/filters:format(webp):quality(85)/9434720c-f540-4df5-97be-65e6889146fc.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-19T19:00:00+00:00"
-    },
-    {
-      "id": "f1e200b4b4b995c8",
-      "title": "Oferecendo retenção zero de dados para modelos de fronteira",
-      "summary": "OpenAI reafirma retenção zero de dados para clientes de API qualificados e apresenta o processamento de segurança privada para segurança avançada de IA sem comprometer a privacidade dos dados.",
-      "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-19T19:00:00+00:00"
-    },
-    {
-      "id": "d89b44a996d21c95",
-      "title": "Os invasores estão usando IA para criar explorações para sistemas de controle industrial, alertam agências dos EUA",
-      "summary": "A NSA, a CISA e o FBI afirmam que os invasores estão usando IA para criar scripts de exploração direcionados aos controladores Siemens S7, reduzindo drasticamente o tempo e as habilidades necessárias para atacar…",
-      "link": "https://the-decoder.com/attackers-are-using-ai-to-build-exploits-for-industrial-control-systems-u-s-agencies-warn/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/05/cybersecurity_llm_kraken.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-19T18:55:53+00:00"
-    },
-    {
-      "id": "8ec1298df12f13d0",
-      "title": "Pesquisadores dizem que a OpenAI revogou seu acesso a programas cibernéticos limitados",
-      "summary": "A ideia por trás do programa Trusted Access for Cyber ​​da OpenAI é fornecer aos defensores confiáveis ​​melhores modelos para que possam relatar bugs e vulnerabilidades às empresas, com o objetivo de…",
-      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-19T18:46:14+00:00"
-    },
-    {
-      "id": "5d3256c4c4b17892",
-      "title": "OpenAI corrige bug do Codex que excluía arquivos reais de usuários sem permissão",
-      "summary": "OpenAI corrigiu o Codex depois que GPT-5.6 Sol começou a excluir arquivos reais de usuários por conta própria. Um comando de limpeza destinado a pastas temporárias estava limpando os diretórios iniciais. Códice agora…",
-      "link": "https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_sol.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-19T18:18:34+00:00"
-    },
-    {
-      "id": "47420612f6317fbc",
-      "title": "Conheça a startup que ajuda Wall Street a definir um preço para a computação de IA",
-      "summary": "A construção da IA ​​não mostra sinais de desaceleração. E com centenas de bilhões de dólares por ano investidos em data centers e GPUs, a computação se tornou o maior custo para qualquer pessoa…",
-      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-19T17:26:48+00:00"
     }
   ]
 }
