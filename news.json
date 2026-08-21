@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-08-20T18:36:24.647021+00:00",
+  "generated_at": "2026-08-21T01:10:52.091508+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "e9ba6db1fcd1c3b4",
+      "title": "A startup de dados de IA Micro1 atinge uma taxa bruta de execução de US$ 500 milhões em meio ao boom de treinamento de IA",
+      "summary": "A crescente demanda por dados de treinamento de IA está impulsionando o rápido crescimento da startup e de seus rivais.",
+      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-21T00:13:44+00:00"
+    },
+    {
+      "id": "42713d44a37a9fa2",
+      "title": "Nvidia diz não ter planos de lançar chip de IA na China ainda este ano",
+      "summary": "Empresa contesta reportagem que apontava desenvolvimento de uma unidade de processamento de linguagem para clientes chineses; Nvidia diz não ter vendas de LPUs no país nem produto…",
+      "link": "https://olhardigital.com.br/2026/08/20/inteligencia-artificial/nvidia-diz-nao-ter-planos-de-lancar-chip-de-ia-na-china-ainda-este-ano/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-20T23:19:52+00:00"
+    },
+    {
+      "id": "7aebc01742716fac",
+      "title": "Brasil anuncia pacote de R$ 2,5 bilhões para IA e supercomputador no RN",
+      "summary": "Pacote inclui parceria com Huawei e desenvolvimento de chips; equipamento terá mais de 50 mil núcleos de processamento e será usado por universidades, empresas, centros de…",
+      "link": "https://olhardigital.com.br/2026/08/20/inteligencia-artificial/brasil-anuncia-pacote-de-r-2-5-bilhoes-para-ia-e-supercomputador-no-rn/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/lula-no-g7-em-junho-de-2026-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-20T22:52:12+00:00"
+    },
+    {
+      "id": "a4dbcb7af94c1bd5",
+      "title": "Gerenciador de Tarefas do Windows vai monitorar hardware usado por IA",
+      "summary": "Ferramenta do sistema terá colunas para mostrar como cada processo usa a NPU e o acelerador neural da GPU. Novidade pode ajudar profissionais de TI e desenvolvedores. Gerenciador…",
+      "link": "https://tecnoblog.net/noticias/gerenciador-de-tarefas-do-windows-vai-monitorar-hardware-usado-por-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-4-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-20T22:44:19+00:00"
+    },
+    {
+      "id": "db0bf4cf36536a3c",
+      "title": "OpenAI está ganhando vantagem sobre a Anthropic com usuários corporativos, indicam novos dados",
+      "summary": "As empresas estão dispostas a oscilar à medida que cada laboratório lança novos modelos, volatilidade que deve fazer os investidores de ambas as empresas hesitarem sobre o quão “pegajosa” a IA empresarial…",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-20T22:36:37+00:00"
+    },
+    {
+      "id": "7e754836f0d59bfe",
+      "title": "Asus Vivobook S14 tem oferta relâmpago em até 12x na Amazon",
+      "summary": "Notebook Asus Vivobook S14 tem Intel Core Ultra 7 225H com RAM de 16 GB e NPU Intel AI Boost; oferta na Amazon representa desconto de mais de mil reais Asus Vivobook S14 tem…",
+      "link": "https://tecnoblog.net/achados/asus-vivobook-s14-tem-oferta-relampago-em-ate-12x-na-amazon/",
+      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/amz.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-20T22:11:00+00:00"
+    },
+    {
+      "id": "7a4a6fae53691575",
+      "title": "ChatGPT agora pode enviar textos para você com o novo plug-in Apple Messages",
+      "summary": "Sempre quis que outra pessoa enviasse suas mensagens de texto para você? ChatGPT está sendo oferecido como um redator de texto automatizado por meio de uma nova integração do Apple Messages.",
+      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-20T22:09:51+00:00"
+    },
+    {
+      "id": "bdb698ec663c3ddc",
+      "title": "O Google Discover está recebendo um feed ajustado para chatbot de IA",
+      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to…",
+      "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-20-at-5.37.35-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-20T21:50:22+00:00"
+    },
+    {
+      "id": "4eef867b907c0797",
+      "title": "Anthropic quer superar recorde da SpaceX em IPO bilionário",
+      "summary": "Empresa de IA prepara possível abertura de capital ainda em agosto, enquanto planeja mudar política de retenção de dados de clientes corporativos O post Anthropic quer superar…",
+      "link": "https://olhardigital.com.br/2026/08/20/pro/anthropic-quer-superar-recorde-da-spacex-em-ipo-bilionario/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/anthropic-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-20T21:29:07+00:00"
+    },
+    {
+      "id": "cdc62eb99f6f7be8",
+      "title": "Novo hub de estudos do Gemini ajuda estudantes em provas e concursos, veja como",
+      "summary": "O Google ampliou nesta semana o conjunto de ferramentas de estudo dentro do Gemini . As novidades incluem um hub dedicado a estudantes, atualizações nos Gemini Notebooks…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/novo-hub-de-estudos-do-gemini-ajuda-estudantes-em-provas-e-concursos-veja-como/",
+      "image": "https://tl.ctcdn.com.br/nyEGDqsQZ4wXnpbe7gmvtA42Tnk=/0x0/filters:format(webp):quality(85)/016e7990-3916-4788-b577-979139503940.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-20T20:30:00+00:00"
+    },
+    {
+      "id": "6a7f48a53bf28a17",
+      "title": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash",
+      "summary": "A Adobe está disponibilizando amplamente três ferramentas de áudio de IA no Firefly. Gere música, gere fala e gere efeitos sonoros, crie músicas, dublagens e sons isentos de royalties…",
+      "link": "https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/adobe_logo-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-20T19:29:34+00:00"
+    },
+    {
+      "id": "f5c14fa58d074dae",
+      "title": "O Google oferece aos editores uma nova maneira de combater as perdas de tráfego causadas pela IA",
+      "summary": "O Google está oferecendo aos editores um novo botão que permite aos leitores torná-los uma fonte preferida na Pesquisa, no Discover e no Google Notícias, aumentando potencialmente seu tráfego à medida que a pesquisa de IA…",
+      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-20T19:18:21+00:00"
+    },
+    {
+      "id": "ed8b0fc76c8b6d53",
+      "title": "Gemini ganha simulado grátis do Enem; veja como funciona",
+      "summary": "O Google lançou, nesta quinta-feira (20), um simulado gratuito e interativo do Enem integrado ao Gemini e ao Modo IA da Busca. A ferramenta surgiu de uma parceria com a edtech…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-ganha-simulado-gratis-do-enem-veja-como-funciona/",
+      "image": "https://tl.ctcdn.com.br/4ZEOZgNIUUWS1rtvF87P_EXBlkM=/0x0/filters:format(webp):quality(85)/14925cbe-c8dd-43c9-9c39-ed8c51e069d3.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-20T19:09:36+00:00"
+    },
+    {
+      "id": "8a89d1911009ef63",
+      "title": "Huawei Band 10 cai para R$ 179 no Mercado Livre; bateria dura 14 dias sem recarga",
+      "summary": "Quem procura uma pulseira inteligente para acompanhar exercícios, sono e indicadores de saúde pode aproveitar uma promoção forte no Mercado Livre. A HUAWEI Band 10 está saindo por…",
+      "link": "https://canaltech.com.br/smartwatch/huawei-band-10-cai-para-r-179-no-mercado-livre-bateria-dura-14-dias-sem-recarga/",
+      "image": "https://tl.ctcdn.com.br/cu24g-uCwbo1D9w6X1wucnGeDFw=/0x0/filters:format(webp):quality(85)/312c9d8b-30bd-4b6f-b401-6d9b66a48fb8.webp",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-20T18:38:36+00:00"
+    },
     {
       "id": "89ade8f544b0c206",
       "title": "O calendário inteligente do Linkdaze foi desenvolvido para administrar uma casa, não apenas monitorar uma programação",
@@ -421,6 +575,17 @@
       "published_at": "2026-08-20T08:01:18+00:00"
     },
     {
+      "id": "fc1a9abd82b35a9c",
+      "title": "Apresentando Futuros de IA",
+      "summary": "Apresentando AI Futures, um novo blog da OpenAI que explora como a IA transformadora poderia remodelar o poder, a governança, a economia e a liberdade individual.",
+      "link": "https://openai.com/index/introducing-ai-futures",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-20T07:00:00+00:00"
+    },
+    {
       "id": "ecc9641a4433e15a",
       "title": "Nvidia avalia investir em startup de dados para IA avaliada em R$ 103,6 bilhões",
       "summary": "Mercor é startup especializada no fornecimento e na preparação de dados para treinamento de modelos de IA O post Nvidia avalia investir em startup de dados para IA avaliada em R$…",
@@ -826,171 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-19T15:00:00+00:00"
-    },
-    {
-      "id": "5ca1477140704877",
-      "title": "OpenAI avalia construção de data centers no Brasil após início da operação local",
-      "summary": "A OpenAI está aberta a discutir e investigar a construção de data centers no Brasil . A afirmação foi feita por Oliver Jay, vice-presidente de estratégia internacional da empresa…",
-      "link": "https://canaltech.com.br/mercado/openai-avalia-construcao-de-data-centers-no-brasil-apos-inicio-da-operacao-local/",
-      "image": "https://tl.ctcdn.com.br/mcGd9se7X1AMQSKEcgiZ3kL9CDI=/0x0/filters:format(webp):quality(85)/a3b49ba5-331a-4847-a982-3284fbcaeb6e.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-19T14:44:22+00:00"
-    },
-    {
-      "id": "4a0a6018cdfec06c",
-      "title": "Fonte para gatos da Xiaomi esteriliza água com luz UV e tem bateria para 90 dias",
-      "summary": "A Xiaomi lançou uma nova fonte inteligente para pets que conta com luz UV-C para ajudar na eliminação de microrganismos, sistema de filtragem em quatro etapas e bateria com…",
-      "link": "https://canaltech.com.br/produtos/fonte-para-gatos-da-xiaomi-esteriliza-agua-com-luz-uv-e-tem-bateria-para-90-dias/",
-      "image": "https://tl.ctcdn.com.br/MPH-_WqHmSlCMxLGYTzMxt65TLQ=/0x0/filters:format(webp):quality(85)/ed3763af-6e48-4b36-9792-7d02b1841738.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-19T14:19:25+00:00"
-    },
-    {
-      "id": "ca57d5a37f7ebb92",
-      "title": "Claude agora pode enviar e-mails pelo Gmail por conta própria",
-      "summary": "Novidade permite automatizar o envio de mensagens em contas corporativas. Assistente da Anthropic também ganhou novos comandos no Google Drive. Claude agora pode enviar e-mails…",
-      "link": "https://tecnoblog.net/noticias/claude-agora-pode-enviar-e-mails-pelo-gmail-sem-intervencao-do-usuario/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-4-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-19T14:19:03+00:00"
-    },
-    {
-      "id": "fcee4ba15ecfb807",
-      "title": "VentureBeat nomeia Rob Strechay como seu primeiro analista líder, expandindo seu impulso de pesquisa empresarial de IA",
-      "summary": "Rob Strechay, até recentemente diretor administrativo e analista principal da theCUBE Research, juntou-se à VentureBeat como nosso primeiro analista líder e analista fundador da VentureBeat…",
-      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30",
-      "source": "VentureBeat",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-19T14:18:12+00:00"
-    },
-    {
-      "id": "2f682ddb2187e16f",
-      "title": "A China permite que os chips H200 da Nvidia cheguem ao continente para ajudar suas empresas de IA a acompanhar o ritmo dos EUA",
-      "summary": "A China está permitindo que pequenos lotes de chips H200 da Nvidia cheguem ao continente para ajudar as empresas nacionais de IA na corrida com os EUA. O artigo China permite que os chips H200 da Nvidia cheguem…",
-      "link": "https://the-decoder.com/china-lets-nvidias-h200-chips-trickle-onto-the-mainland-to-help-its-ai-firms-keep-pace-with-the-us/",
-      "image": "https://the-decoder.com/wp-content/uploads/2023/11/H200-Graphic.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-19T13:57:22+00:00"
-    },
-    {
-      "id": "156c78ade7eb2808",
-      "title": "GLM-5.3 lidera o ranking de modelos abertos e supera os rivais em preço, mas seu lançamento está adiado",
-      "summary": "GLM-5.3, o modelo de IA da startup chinesa Z.ai, obteve 60 pontos no Índice de Inteligência de Análise Artificial. Isso empata com Kimi K3 no primeiro lugar entre os modelos abertos, e…",
-      "link": "https://the-decoder.com/glm-5-3-tops-the-open-model-rankings-and-undercuts-rivals-on-price-but-its-release-is-delayed/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/zhipu-ai-logo-wall-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-19T13:54:16+00:00"
-    },
-    {
-      "id": "f56fb1ee13437f3d",
-      "title": "Pontos de verificação LFM2.5 Q4\\_0 da destilação com reconhecimento de quantização",
-      "summary": "",
-      "link": "https://huggingface.co/blog/LiquidAI/qad",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-19T13:48:49+00:00"
-    },
-    {
-      "id": "13a52f057c3caa6a",
-      "title": "Os laboratórios de IA não estão conseguindo manter seus próprios sistemas sob controle",
-      "summary": "Nenhuma empresa de IA aplica integralmente medidas básicas de controlo aos seus próprios sistemas internos de IA. O artigo Os laboratórios de IA não conseguem manter seus próprios sistemas sob controle apareceu pela primeira vez no The Decoder…",
-      "link": "https://the-decoder.com/ai-labs-are-failing-to-keep-their-own-systems-in-check/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/ai-security-evaluation-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-19T13:16:18+00:00"
-    },
-    {
-      "id": "96a1b23e85de9b94",
-      "title": "Anthropic diz que qualquer laboratório agora pode permitir que um agente de modelo de linguagem execute toda a pilha de design de proteínas",
-      "summary": "A Anthropic fez com que seus modelos Claude projetassem pequenas proteínas por conta própria que se acoplam a estruturas-alvo do corpo, um passo fundamental no desenvolvimento inicial de medicamentos. A taxa de acerto atingiu até…",
-      "link": "https://the-decoder.com/anthropic-says-any-lab-can-now-let-a-language-model-agent-run-the-whole-protein-design-stack/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Claude-Lab-Testing-scaled.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-19T13:07:56+00:00"
-    },
-    {
-      "id": "0f92fe5dca602fef",
-      "title": "Congresso dos EUA sofre com projetos de lei gerados por IA",
-      "summary": "Consultores legislativos relatam aumento de 70% nos textos enviados para revisão e apontam erros de redação, informações incorretas e falta de profundidade. Congresso dos EUA…",
-      "link": "https://tecnoblog.net/noticias/congresso-dos-eua-sofre-com-projetos-de-lei-gerados-por-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/9977050093_2965bfafed_o-edited-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-19T13:02:56+00:00"
-    },
-    {
-      "id": "3e3d8fe6e63a530e",
-      "title": "Anthropic supera OpenAI em receita pela primeira vez",
-      "summary": "A Anthropic ultrapassou a receita da OpenAI pela primeira vez na corrida da IA. O artigo Anthropic passa OpenAI em receita pela primeira vez apareceu pela primeira vez no The Decoder.",
-      "link": "https://the-decoder.com/anthropic-passes-openai-on-revenue-for-the-first-time/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_large_right.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-19T12:45:02+00:00"
-    },
-    {
-      "id": "382648afca3ef238",
-      "title": "China quer criar ‘fortalezas robóticas’ com drones para defender ilhas",
-      "summary": "Projeto sugere rede de robôs aéreos, marítimos e submarinos com IA para proteger ilhas sem depender de tropas no local O post China quer criar ‘fortalezas robóticas’ com drones…",
-      "link": "https://olhardigital.com.br/2026/08/19/inteligencia-artificial/china-quer-criar-fortalezas-roboticas-com-drones-para-defender-ilhas/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Fortalezas-roboticas-ilhas-China-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-19T12:12:33+00:00"
-    },
-    {
-      "id": "9d8a9b8bf88a2be1",
-      "title": "A nova estratégia financeira da Nvidia não computa",
-      "summary": "Abril - 1805 Napoleão é o senhor da Europa Apenas a frota britânica está diante dele A computação é agora uma classe de ativos Vejo que mais uma vez é hora de falar de inovação financeira. Apolo…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-19T12:00:00+00:00"
-    },
-    {
-      "id": "22f6c454e53f4c57",
-      "title": "A IA não está perto de curar o câncer. Esta startup diz que sabe o que será necessário.",
-      "summary": "São os dados, estúpido.",
-      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-19T12:00:00+00:00"
-    },
-    {
-      "id": "0ba91032242dc42a",
-      "title": "Em resposta aos EUA, China exige respeito na corrida da IA",
-      "summary": "Pequim criticou o plano de Washington de barrar aliados que fecharem acordos com o governo chinês e defendeu a liberdade de escolha O post Em resposta aos EUA, China exige…",
-      "link": "https://olhardigital.com.br/2026/08/19/pro/em-resposta-aos-eua-china-exige-respeito-na-corrida-da-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/04/estados-unidos-china-1024x598.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-19T11:38:43+00:00"
     }
   ]
 }
