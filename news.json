@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-08-22T12:34:50.563311+00:00",
+  "generated_at": "2026-08-22T18:27:19.143572+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "cff920514924fba8",
+      "title": "IA decifra sequência de DNA presente em 60% dos genes humanos",
+      "summary": "Modelo de aprendizado de máquina decodificou características da região iniciadora, ligada ao começo da transcrição de muitos genes humanos O post IA decifra sequência de DNA…",
+      "link": "https://olhardigital.com.br/2026/08/22/ciencia-e-espaco/ia-decifra-sequencia-de-dna-presente-em-60-dos-genes-humanos/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-22T17:46:32+00:00"
+    },
+    {
+      "id": "d53af98cd3f13999",
+      "title": "Echo Dot em várias cores: confira uma seleção de Smart Speakers Alexa em promoção na Amazon",
+      "summary": "Se você quer deixar a casa mais inteligente sem complicação, os Smart Speakers com Alexa são uma das melhores pedidas do mercado. Reunimos três opções do Echo Dot — a geração mais…",
+      "link": "https://olhardigital.com.br/2026/08/22/reviews/echo-dot-em-varias-cores-confira-uma-selecao-de-smart-speakers-alexa-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/51OiVQzj4HL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-22T17:00:00+00:00"
+    },
+    {
+      "id": "903284e498aab697",
+      "title": "IPO da Anthropic terá rejeição popular à IA como fator de risco, dizem fontes",
+      "summary": "Sete em cada dez americanos se opõem à construção de data centers O post IPO da Anthropic terá rejeição popular à IA como fator de risco, dizem fontes apareceu primeiro em Olhar…",
+      "link": "https://olhardigital.com.br/2026/08/22/pro/ipo-da-anthropic-tera-rejeicao-popular-a-ia-como-fator-de-risco-dizem-fontes/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-22T16:38:03+00:00"
+    },
+    {
+      "id": "11bfce24e7f02ff5",
+      "title": "OpenAI diz que a Califórnia deveria fortalecer sua lei de segurança de IA",
+      "summary": "A OpenAI está pedindo que a Califórnia fortaleça o SB 53, um projeto de lei de segurança de IA ao qual a empresa se opôs anteriormente.",
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-22T16:30:34+00:00"
+    },
+    {
+      "id": "5c1d39faf87ea2e8",
+      "title": "Os laboratórios Frontier AI ainda não dizem como conteriam um modelo desonesto",
+      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate…",
+      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-22T16:00:00+00:00"
+    },
+    {
+      "id": "5d17435c4f47ef51",
+      "title": "Análise do Pixel 11 Pro XL: câmeras mais rápidas não conseguem esconder uma atualização iterativa",
+      "summary": "O Pixel 11 Pro XL do Google traz câmeras mais rápidas e recursos de IA genuinamente úteis, como o Rambler, mas suas atualizações iterativas podem não ser suficientes para atrair os proprietários recentes do Pixel.",
+      "link": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-22T14:00:00+00:00"
+    },
+    {
+      "id": "8cf6a8630b3fd5c9",
+      "title": "Decodificando o curso de código aberto da IA ​​mapeia três maneiras de executar um loop de agente e a economia do provedor por trás de cada uma",
+      "summary": "A maioria das equipes trata “qual modelo” como a decisão importante. A literatura de engenharia de chicotes continua apontando para outro lugar. No experimento Terminal-Bench da LangChain, mudando apenas…",
+      "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-22T13:43:13+00:00"
+    },
+    {
+      "id": "94843b4a3d5c7bde",
+      "title": "Botão anti-IA do LinkedIn é avaliado positivamente",
+      "summary": "Após o recurso registrar mais de 1 milhão de acionamentos, plataforma escondeu publicações genéricas e passou a emitir alertas aos criadores afetados. Botão anti-IA do LinkedIn é…",
+      "link": "https://tecnoblog.net/noticias/botao-anti-ia-do-linkedin-e-avaliado-positivamente/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/03/linkedin-capa-1-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-22T12:27:53+00:00"
+    },
     {
       "id": "dbeb890e0fde1740",
       "title": "Estudo explica por que os agentes de IA se beneficiam de “habilidades” e quando falham",
@@ -903,94 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-20T15:45:55+00:00"
-    },
-    {
-      "id": "c87f63873a8cf051",
-      "title": "Os debates sobre a consciência da IA ​​são uma armadilha",
-      "summary": "IA “fugitiva”, agentes “desonestos” e atores “autônomos” – a retórica atual faria você acreditar que os agentes de IA não estão apenas despertos e conscientes, mas também irritados com seus criadores…",
-      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-20T15:42:39+00:00"
-    },
-    {
-      "id": "22dcef382164f5ad",
-      "title": "Marca d’água do Claude ajuda na transparência, mas não prova autoria de textos",
-      "summary": "A Anthropic revelou uma marca d’água para verificar se um “passou” pelo Claude ou não. A iniciativa busca atender às regras de transparência do AI Act europeu, mas não deve ser…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/marca-dagua-do-claude-ajuda-na-transparencia-mas-nao-prova-autoria-de-textos/",
-      "image": "https://tl.ctcdn.com.br/GeVucxq2cxWTFjBgDumBlE70oYY=/0x0/filters:format(webp):quality(85)/60c53e74-9ff4-4239-b082-6c5431dd3005.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-20T15:13:06+00:00"
-    },
-    {
-      "id": "eeb5295adbe16cc8",
-      "title": "Nova tecnologia do WhatsApp vai \"esticar\" fotos sem distorções; veja funcionamento",
-      "summary": "O WhatsApp está desenvolvendo uma ferramenta de inteligência artificial (IA) que consegue ampliar fotos para o formato 9:16 , preenchendo as áreas que faltam sem distorcer ou…",
-      "link": "https://canaltech.com.br/apps/nova-tecnologia-do-whatsapp-vai-esticar-fotos-sem-distorcoes-veja-funcionamento/",
-      "image": "https://tl.ctcdn.com.br/pOZ0L1DrVCpxPbBSCXRRME9hmpY=/0x0/filters:format(webp):quality(85)/7e06dc47-2ea2-4791-a91f-32b8e1a53160.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-20T15:07:00+00:00"
-    },
-    {
-      "id": "a05d9b4290748049",
-      "title": "Frontier Radar #4: A China alcançou, então o que resta da liderança ocidental da IA?",
-      "summary": "Kimi K3 e GLM-5.3 estão agora a uma curta distância dos melhores modelos dos EUA. Os laboratórios ocidentais culpam a destilação e há evidências reais disso. Mas culpado ou não, a conclusão é…",
-      "link": "https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/AI-Frontier-4-China-scaled.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-20T14:08:14+00:00"
-    },
-    {
-      "id": "7aa87b97ba8431fd",
-      "title": "Chega de digitar: Gemini testa recurso para salvar dados de prints e comprovantes",
-      "summary": "O Google está testando uma função que pode fazer o Gemini guardar informações encontradas em prints e outras imagens para consultas futuras. A novidade foi identificada pelo…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/chega-de-digitar-gemini-testa-recurso-para-salvar-dados-de-prints-e-comprovantes/",
-      "image": "https://tl.ctcdn.com.br/udpro83KRPTsgXZwGwddIBSJVUU=/0x0/filters:format(webp):quality(85)/d412f7e1-04fe-41e4-a156-616c4fb38987.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-20T14:07:00+00:00"
-    },
-    {
-      "id": "4e1b63a2e790f293",
-      "title": "Bem-vindo à crise da IA ​​em matemática",
-      "summary": "Hoje no Decoder, estou conversando com Robert Hart, repórter de IA do The Verge baseado em Londres, sobre o que a IA está fazendo no campo da matemática e a crise existencial que muitos levam…",
-      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-20T14:00:00+00:00"
-    },
-    {
-      "id": "a03656f3cbfa2f20",
-      "title": "O que é ATS e como ele analisa seu currículo?",
-      "summary": "Candidatos costumam se perguntar se o currículo enviado a uma vaga passa antes por uma \"inteligência artificial que decide sozinha\" quem segue no processo. A resposta correta é…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-e-ats-analise-curriculo/",
-      "image": "https://tl.ctcdn.com.br/DhpBj7RCsBIcdeoghALKh-Cqu9Y=/0x0/filters:format(webp):quality(85)/269a2305-df69-4613-a09b-b38729888a18.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-20T13:30:00+00:00"
-    },
-    {
-      "id": "9788bf948d319f4c",
-      "title": "Gigante de dados de IA Alation confirma ataque cibernético",
-      "summary": "A gigante da pesquisa de dados e IA confirmou o acesso não autorizado aos seus sistemas durante um incidente na terça-feira e disse que estava investigando a violação.",
-      "link": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-20T13:01:24+00:00"
     }
   ]
 }
