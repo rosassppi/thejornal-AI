@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-22T01:07:08.288327+00:00",
+  "generated_at": "2026-08-22T06:36:20.166610+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "53db2b4d09276610",
+      "title": "Michael Polansky está treinando um modelo de IA em uma pele que ainda está viva",
+      "summary": "Michael Polansky – mais conhecido publicamente como parceiro de Lady Gaga e ex-adjunto de Sean Parker – passou anos construindo discretamente uma startup baseada em IA que continua viva…",
+      "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-22T01:31:04+00:00"
+    },
+    {
+      "id": "dfbcb99e75b6a6e9",
+      "title": "ANPD coloca ChatGPT, Gemini, Instagram e outras plataformas na mira",
+      "summary": "Agência notificou 22 serviços para avaliar medidas contra conteúdos criminosos e ilícitos e mecanismos de proteção no ambiente digital O post ANPD coloca ChatGPT, Gemini…",
+      "link": "https://olhardigital.com.br/2026/08/21/internet-e-redes-sociais/anpd-coloca-chatgpt-gemini-instagram-e-outras-plataformas-na-mira/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/iStock-2234837596-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-22T00:46:29+00:00"
+    },
     {
       "id": "432ed72d548a2ef8",
       "title": "Nova IA da DeepSeek resolve tarefas apenas olhando telas",
@@ -23,6 +45,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-21T23:37:31+00:00"
+    },
+    {
+      "id": "1fba18f1b6deee79",
+      "title": "Melhores GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe e Groq classificados por preço publicado e energia contratada",
+      "summary": "As cinco maiores neoclouds de GPU agora rodam em modelos muito diferentes. CoreWeave e Nebius reportam à SEC; Lambda e Crusoe são privadas e caminham para IPOs; Groq se reconstruiu…",
+      "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-21T23:20:12+00:00"
     },
     {
       "id": "393f1149ee173f71",
@@ -58,6 +91,17 @@
       "published_at": "2026-08-21T22:10:01+00:00"
     },
     {
+      "id": "5f167ca5559938da",
+      "title": "Construindo Pipelines de Inteligência de Documentos Agentes: Criando Figuras Científicas com AutoFigure",
+      "summary": "Este tutorial explora o AutoFigure, um kit de ferramentas prático para gerar figuras científicas profissionais diretamente de descrições de texto e artigos de pesquisa. Percorremos a configuração…",
+      "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-21T22:00:25+00:00"
+    },
+    {
       "id": "547ca2210d8ce37b",
       "title": "Smart TV LG QNED73 50” tem oferta agressiva com 44% OFF no Mercado Livre",
       "summary": "Smart TV QNED73 de 50 polegadas é um lançamento da LG para 2026. Televisão conta com recursos de IA, cores dinâmicas e sistema WebOS com 5 anos de updates Smart TV LG QNED73 50”…",
@@ -78,6 +122,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-21T21:25:50+00:00"
+    },
+    {
+      "id": "31e4841625da8081",
+      "title": "Anthropic traz Claude Mythos 5 para Claude Security: equipes empresariais obtêm verificação de vulnerabilidades de fronteira sem acesso direto ao modelo",
+      "summary": "A Anthropic mudou seu modelo com maior capacidade cibernética para um produto que as equipes de segurança podem ativar sozinhas. As verificações do Claude Security agora são executadas no Claude Mythos 5, em versão beta pública para…",
+      "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-21T21:15:53+00:00"
     },
     {
       "id": "8145c560b07fcf5d",
@@ -546,7 +601,7 @@
       "title": "Conheça UPDF: uma alternativa leve da Adobe desenvolvida para a era agente",
       "summary": "PDFs são fáceis de ler e difíceis de alterar. A IA agora pode resumir um contrato de 90 páginas em segundos, mas ainda não reescreverá o arquivo de origem de forma limpa. O UPDF foi criado para esse segundo…",
       "link": "https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/blog619100-15-1024x731.png",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/Thumnail-2-1024x512.png",
       "source": "MarkTechPost",
       "region": "mundo",
       "category": "Pesquisa",
@@ -936,61 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-20T12:00:00+00:00"
-    },
-    {
-      "id": "2a6de44599080def",
-      "title": "Robôs humanoides estão perto do seu ‘momento ChatGPT’, diz CEO",
-      "summary": "CEO e fundador da Unitree diz que robôs serão capazes de cumprir tarefas domésticas via comandos de voz e texto sem muito treinamento O post Robôs humanoides estão perto do seu…",
-      "link": "https://olhardigital.com.br/2026/08/20/robotica/robos-humanoides-estao-perto-do-seu-momento-chatgpt-diz-ceo/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Destaque-Robos-China-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-20T10:34:40+00:00"
-    },
-    {
-      "id": "917623361724d2bb",
-      "title": "O modelo mais capaz da Antrópico, codinome “Modelo 2”, é apenas para uso interno",
-      "summary": "A Anthropic usa internamente um modelo de IA não publicado que é mais poderoso do que qualquer versão do Claude disponível publicamente. O artigo O modelo mais capaz da Antrópico, codinome \"Modelo…",
-      "link": "https://the-decoder.com/anthropic-uses-an-unpublished-ai-model-called-model-2-internally/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/05/anthropic_logo_wall-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-20T10:04:45+00:00"
-    },
-    {
-      "id": "e2a81dc7bf87eb31",
-      "title": "Desbloqueando fluxos de receita ocultos com modelos de mercado",
-      "summary": "Todos os dias, uma companhia aérea transporta dezenas de milhares de passageiros em centenas de voos. Muitas vezes estas não são rotas diretas ponto a ponto, com os passageiros necessitando…",
-      "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_Fetcherr-COVERV9_81426.png?w=840",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-20T09:47:22+00:00"
-    },
-    {
-      "id": "bb72d97feb83ab4b",
-      "title": "Binance agora permite que agentes de IA negociem, mas mantê-los sob controle depende em grande parte dos usuários",
-      "summary": "O Agent OS da Binance funciona com ferramentas como ChatGPT, Claude Code e Cursor.",
-      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-20T09:30:00+00:00"
-    },
-    {
-      "id": "810c4f9e8346ea37",
-      "title": "A China agora tem seu próprio esquema de financiamento circular de IA",
-      "summary": "A Unitree Robotics subiu 460% em seu IPO em Xangai, atingindo uma avaliação de cerca de US$ 50 bilhões. Mas um relatório do FT mostra que grande parte da procura pelos seus robôs vem de empresas apoiadas pelo Estado…",
-      "link": "https://the-decoder.com/china-now-has-its-own-ai-circular-financing-scheme/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/07/unitree_r1_humanoid_robot-scaled.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-20T09:23:37+00:00"
     }
   ]
 }
