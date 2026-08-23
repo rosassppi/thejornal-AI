@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-08-23T12:35:31.814261+00:00",
+  "generated_at": "2026-08-23T18:26:02.695029+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "1960e6be75148799",
+      "title": "Alibaba quer investir US$ 10,2 bilhões em inteligência artificial",
+      "summary": "Alibaba busca US$ 10,2 bilhões na maior oferta de ações da história de Hong Kong para impulsionar chips, infraestrutura e modelos de IA. O post Alibaba quer investir US$ 10,2…",
+      "link": "https://olhardigital.com.br/2026/08/23/pro/alibaba-quer-investir-us-102-bilhoes-em-inteligencia-artificial/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-23T17:42:40+00:00"
+    },
+    {
+      "id": "3166362a6cdc9b12",
+      "title": "6 coisas que o ChatGPT faz melhor que o Claude",
+      "summary": "O ChatGPT é uma das principais ferramentas de inteligência artificial generativa do mercado. Desde o lançamento, a plataforma ampliou a quantidade de recursos disponíveis e…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/6-coisas-que-o-chatgpt-faz-melhor-que-o-claude/",
+      "image": "https://tl.ctcdn.com.br/M97dFogcb8WuR352m8LixgtgapI=/0x0/filters:format(webp):quality(85)/483c949e-c9ea-41be-b2a9-e0fcfe03b894.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-23T17:00:01+00:00"
+    },
+    {
+      "id": "3fd51e411ad0d58c",
+      "title": "Echo Dot em destaque: smart speakers com Alexa para turbinar sua casa",
+      "summary": "Se você quer transformar qualquer ambiente em um espaço conectado e inteligente, os smart speakers com Alexa são uma das escolhas mais práticas do mercado. Reunimos três opções da…",
+      "link": "https://olhardigital.com.br/2026/08/23/reviews/echo-dot-em-destaque-smart-speakers-com-alexa-para-turbinar-sua-casa-5/",
+      "image": "https://m.media-amazon.com/images/I/51OiVQzj4HL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-23T17:00:00+00:00"
+    },
+    {
+      "id": "bb061411c659d649",
+      "title": "Livros podem ser usados para treinar IA? O debate sobre direitos autorais",
+      "summary": "Quando um livro é usado para treinar uma IA, como ficam os direitos autorais dos escritores? Veja alguns casos e a opinião de especialistas O post Livros podem ser usados para…",
+      "link": "https://olhardigital.com.br/2026/08/23/inteligencia-artificial/livros-podem-ser-usados-para-treinar-ia-o-debate-sobre-direitos-autorais/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/anthropic-300x200.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-23T15:45:39+00:00"
+    },
+    {
+      "id": "736c2f98ab12883c",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems…",
+      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-23T15:00:00+00:00"
+    },
     {
       "id": "122c14c9aed81329",
       "title": "An AI boss fired its first employee but only after humans reminded it of its own rules",
@@ -936,61 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-20T19:29:34+00:00"
-    },
-    {
-      "id": "f5c14fa58d074dae",
-      "title": "O Google oferece aos editores uma nova maneira de combater as perdas de tráfego causadas pela IA",
-      "summary": "O Google está oferecendo aos editores um novo botão que permite aos leitores torná-los uma fonte preferida na Pesquisa, no Discover e no Google Notícias, aumentando potencialmente seu tráfego à medida que a pesquisa de IA…",
-      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-20T19:18:21+00:00"
-    },
-    {
-      "id": "ed8b0fc76c8b6d53",
-      "title": "Gemini ganha simulado grátis do Enem; veja como funciona",
-      "summary": "O Google lançou, nesta quinta-feira (20), um simulado gratuito e interativo do Enem integrado ao Gemini e ao Modo IA da Busca. A ferramenta surgiu de uma parceria com a edtech…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-ganha-simulado-gratis-do-enem-veja-como-funciona/",
-      "image": "https://tl.ctcdn.com.br/4ZEOZgNIUUWS1rtvF87P_EXBlkM=/0x0/filters:format(webp):quality(85)/14925cbe-c8dd-43c9-9c39-ed8c51e069d3.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-20T19:09:36+00:00"
-    },
-    {
-      "id": "1c9e72af45bd6a94",
-      "title": "Liquid AI lança modelos de rascunho LFM2.5-DSpark que oferecem decodificação até 3,18x mais rápida sem alterar as saídas do modelo",
-      "summary": "Três desenhistas de aproximadamente 300 milhões trazem decodificação especulativa para LFM2.5, entregando decodificação até 3,18x mais rápida com saída idêntica e gananciosa. O post Liquid AI lança rascunho LFM2.5-DSpark…",
-      "link": "https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-20T18:53:09+00:00"
-    },
-    {
-      "id": "8a89d1911009ef63",
-      "title": "Huawei Band 10 cai para R$ 179 no Mercado Livre; bateria dura 14 dias sem recarga",
-      "summary": "Quem procura uma pulseira inteligente para acompanhar exercícios, sono e indicadores de saúde pode aproveitar uma promoção forte no Mercado Livre. A HUAWEI Band 10 está saindo por…",
-      "link": "https://canaltech.com.br/smartwatch/huawei-band-10-cai-para-r-179-no-mercado-livre-bateria-dura-14-dias-sem-recarga/",
-      "image": "https://tl.ctcdn.com.br/cu24g-uCwbo1D9w6X1wucnGeDFw=/0x0/filters:format(webp):quality(85)/312c9d8b-30bd-4b6f-b401-6d9b66a48fb8.webp",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-20T18:38:36+00:00"
-    },
-    {
-      "id": "89ade8f544b0c206",
-      "title": "O calendário inteligente do Linkdaze foi desenvolvido para administrar uma casa, não apenas monitorar uma programação",
-      "summary": "O calendário digital inteligente do Linkdaze se destaca por não colocar seus recursos atrás de um acesso pago, incluindo uma ferramenta de planejamento de refeições com IA.",
-      "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-20T18:20:35+00:00"
     }
   ]
 }
