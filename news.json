@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-08-22T18:27:19.143572+00:00",
+  "generated_at": "2026-08-23T01:12:57.458979+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "43e4c0bbdfb21c55",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "summary": "No programa HBS Foundry, os avatares de IA fornecem feedback durante apresentações práticas e reuniões do conselho.",
+      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-22T21:46:56+00:00"
+    },
+    {
+      "id": "5a9ed81c5dd33aa5",
+      "title": "OpenAI muda posição e pede reforço em lei de segurança de IA",
+      "summary": "OpenAI muda posição sobre regras de IA na Califórnia e agora pede mais monitoramento e segurança para modelos de fronteira O post OpenAI muda posição e pede reforço em lei de…",
+      "link": "https://olhardigital.com.br/2026/08/22/inteligencia-artificial/openai-muda-posicao-e-pede-reforco-em-lei-de-seguranca-de-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/11/hugging_face-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-22T20:37:54+00:00"
+    },
+    {
+      "id": "6faa01317cfa6230",
+      "title": "Nvidia sobe preços de servidores de IA por alta da memória",
+      "summary": "Nvidia avisa clientes sobre aumento superior a 15% em servidores de IA, impulsionado pela alta nos preços dos chips de memória O post Nvidia sobe preços de servidores de IA por…",
+      "link": "https://olhardigital.com.br/2026/08/22/pro/nvidia-sobe-precos-de-servidores-de-ia-por-alta-da-memoria/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-22T20:03:42+00:00"
+    },
+    {
+      "id": "6c911d67f9e655e4",
+      "title": "O que é o Muse Spark? Aprenda a usar a nova IA da Meta",
+      "summary": "O Muse Spark é o modelo de inteligência artificial da Meta , desenvolvido pelo Meta Superintelligence Labs (MSL) para servir como uma das principais bases da Meta AI. A tecnologia…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-e-muse-spark-aprenda-usar-nova-ia-meta/",
+      "image": "https://tl.ctcdn.com.br/Dneb7aUvQhPBTIshbK0szzZfYpA=/0x0/filters:format(webp):quality(85)/24ffd8c5-3d45-4a3a-891c-d62a5a94bab5.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-22T19:30:01+00:00"
+    },
+    {
+      "id": "92ba46e363661525",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-22T19:00:00+00:00"
+    },
+    {
+      "id": "5d1698a2be624bdd",
+      "title": "Hora de renovar o home office: selecionamos ótimas impressoras em promoção na Amazon",
+      "summary": "Seja para uso doméstico, home office ou pequenas empresas, ter uma boa impressora faz toda a diferença no dia a dia. Separamos três opções em promoção na Amazon que valem a…",
+      "link": "https://olhardigital.com.br/2026/08/22/reviews/hora-de-renovar-o-home-office-selecionamos-otimas-impressoras-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-22T18:40:00+00:00"
+    },
     {
       "id": "cff920514924fba8",
       "title": "IA decifra sequência de DNA presente em 60% dos genes humanos",
@@ -925,72 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-20T17:00:00+00:00"
-    },
-    {
-      "id": "eab5285cfdebeb65",
-      "title": "Inferência até 3,2x mais rápida com LFM2.5-DSpark",
-      "summary": "",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-20T16:52:57+00:00"
-    },
-    {
-      "id": "f726cd00afefc930",
-      "title": "Ramp lança seu próprio roteador modelo AI, chamado Router",
-      "summary": "A Ramp lançou seu próprio serviço de roteamento de modelo de IA, denominado Router, que permite que usuários e empresas usem e alternem entre vários modelos de linguagem grandes por meio de uma API.",
-      "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-20T16:46:00+00:00"
-    },
-    {
-      "id": "81f3331b24689c59",
-      "title": "IA pode ter impacto menor nas eleições do que se imaginava",
-      "summary": "Pesquisador de Oxford afirma que fatores políticos tradicionais ainda pesam mais sobre o voto do que conteúdos gerados por inteligência artificial O post IA pode ter impacto menor…",
-      "link": "https://olhardigital.com.br/2026/08/20/inteligencia-artificial/ia-pode-ter-impacto-menor-nas-eleicoes-do-que-se-imaginava/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-20T16:09:29+00:00"
-    },
-    {
-      "id": "8b34b3149ae6d2a3",
-      "title": "Meta traz Pocket, um aplicativo que permite codificar e compartilhar jogos, para usuários dos EUA",
-      "summary": "A Meta está trazendo o Pocket, seu aplicativo experimental baseado em IA para criar e compartilhar jogos interativos, para usuários em todos os EUA, depois de testá-lo silenciosamente no Brasil.",
-      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-20T16:07:26+00:00"
-    },
-    {
-      "id": "6c97fc6b3d8b25f1",
-      "title": "Devs conseguem burlar marca d'água do Claude para textos em poucas horas",
-      "summary": "Poucas horas após a Anthropic confirmar a implementação de marcas d'água invisíveis nos textos gerados pelo Claude, desenvolvedores independentes já começaram a encontrar formas…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/devs-conseguem-burlar-marca-dagua-do-claude-para-textos-em-poucas-horas/",
-      "image": "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-20T16:03:00+00:00"
-    },
-    {
-      "id": "08dde364f7c2aa81",
-      "title": "Agora é o OpenAI de Greg Brockman",
-      "summary": "OpenAI teve um ano incrível. A empresa passou meses lutando contra o ex-cofundador Elon Musk em um julgamento com júri sensacional, foi atingida por um processo de segredos comerciais de alto perfil de…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-20T15:45:55+00:00"
     }
   ]
 }
