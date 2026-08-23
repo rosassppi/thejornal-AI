@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-08-23T06:37:28.733526+00:00",
+  "generated_at": "2026-08-23T12:35:31.814261+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "122c14c9aed81329",
+      "title": "An AI boss fired its first employee but only after humans reminded it of its own rules",
+      "summary": "Andon Labs' AI agent Luna fired a human employee at a San Francisco store for the first time but needed a clear push from the operators to do it. When the scenario was replayed…",
+      "link": "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/andon-labs-luna.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-23T12:31:59+00:00"
+    },
+    {
+      "id": "57927e42519d8296",
+      "title": "15 plugins que valem a pena instalar no ChatGPT",
+      "summary": "Os plugins do ChatGPT são uma forma de levar outros serviços para dentro da conversa . Em vez de usar a inteligência artificial apenas para tirar dúvidas, você pode conectar…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/plugins-chatgpt-que-valem-a-pena/",
+      "image": "https://tl.ctcdn.com.br/cdlPlMjYm4kW5Pa1kMw6ZVGVOLE=/0x0/filters:format(webp):quality(85)/f25244cd-734f-485a-80fb-56254b2f14e7.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-23T12:30:00+00:00"
+    },
+    {
+      "id": "c94261021696512b",
+      "title": "O que são modelos de IA de pesos abertos?",
+      "summary": "A inteligência artificial passa por uma disputa entre dois modelos de desenvolvimento. De um lado estão as IAs fechadas , como as desenvolvidas por OpenAI, Google e Anthropic, que…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-sao-modelos-de-ia-de-pesos-abertos/",
+      "image": "https://tl.ctcdn.com.br/HOWjQKvx2Z2j7DfpaVA2X-qRSWg=/0x0/filters:format(webp):quality(85)/31d129a3-92ae-496b-b368-f64183fe11aa.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-23T11:00:01+00:00"
+    },
+    {
+      "id": "7bd37aea0c64568e",
+      "title": "AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter",
+      "summary": "AI agents have consumed more tokens than humans on OpenRouter since February 6, 2025. Agentic usage has grown 14x since then, while human usage is up just 2.8x. Nearly 70 percent…",
+      "link": "https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/tokenization-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-23T10:02:00+00:00"
+    },
+    {
+      "id": "30e87a26e4e7db3c",
+      "title": "AI could make scientists do more work less well, not less work better, study argues",
+      "summary": "Even if language models worked perfectly, they could make research worse, not better. A new theoretical study argues that because AI saves time, researchers' remaining hours…",
+      "link": "https://the-decoder.com/ai-could-make-scientists-do-more-work-less-well-not-less-work-better-study-argues/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/ai-science-flood-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-23T09:01:17+00:00"
+    },
+    {
+      "id": "bcfb1d34f312b799",
+      "title": "IA já controla embarcações sem tripulação no mar e pode ser operada a 300 km de distância",
+      "summary": "Startup carioca desenvolveu sistema que permite navegação autônoma e controle remoto via satélite O post IA já controla embarcações sem tripulação no mar e pode ser operada a 300…",
+      "link": "https://olhardigital.com.br/2026/08/23/carros-e-tecnologia/ia-ja-controla-embarcacoes-sem-tripulacao-no-mar-e-pode-ser-operada-a-300-km-de-distancia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Tidewise-8-1024x576.jpeg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-23T09:00:00+00:00"
+    },
+    {
+      "id": "20f6674ff3a53743",
+      "title": "Memory shortage reportedly drives Nvidia AI server prices up about 15 percent",
+      "summary": "Nvidia servers with Vera Rubin and Grace Blackwell chips are set to cost about 15 percent more due to an ongoing DRAM shortage from Samsung, SK Hynix, and Micron, Bloomberg…",
+      "link": "https://the-decoder.com/memory-shortage-reportedly-drives-nvidia-ai-server-prices-up-about-15-percent/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-23T08:15:28+00:00"
+    },
+    {
+      "id": "5222423667385dd3",
+      "title": "How China's gray market sells Claude tokens at a fraction of the price",
+      "summary": "Anthropic's strict access controls against China, from geoblocking to selfie verification, are being systematically bypassed through a thriving network of so-called \"transfer…",
+      "link": "https://the-decoder.com/how-chinas-gray-market-sells-claude-tokens-at-a-fraction-of-the-price/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/ai-transfer-station-china-claude-token-proxy.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-23T07:48:33+00:00"
+    },
     {
       "id": "43e4c0bbdfb21c55",
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -903,94 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-20T18:20:35+00:00"
-    },
-    {
-      "id": "e5dd1e8dbfd94387",
-      "title": "LLMs could write like humans but post-training guardrails make their text detectable",
-      "summary": "Os LLMs não escrevem em um estilo reconhecível porque não conseguem fazer melhor. As proteções pós-treinamento e de segurança estreitam drasticamente seu alcance expressivo, argumenta Bradley Emi, CTO da Pangram…",
-      "link": "https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/pangram_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-20T17:36:51+00:00"
-    },
-    {
-      "id": "e59895d2ddfae460",
-      "title": "IA encontra doenças nos olhos antes do médico, mas existe um limite",
-      "summary": "Algoritmos de triagem mapeiam retinopatia diabética em segundos no fundo do olho, já o diagnóstico depende do olhar médico O post IA encontra doenças nos olhos antes do médico…",
-      "link": "https://olhardigital.com.br/2026/08/20/medicina-e-saude/ia-encontra-doencas-nos-olhos-antes-do-medico-mas-existe-um-limite/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Infografico-Fluxo-de-oftalmologia-com-IA-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-20T17:33:11+00:00"
-    },
-    {
-      "id": "d5497c2ac537969a",
-      "title": "Grok continua enviando respostas sem sentido aos usuários",
-      "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
-      "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-20T17:32:16+00:00"
-    },
-    {
-      "id": "632d085c004119cd",
-      "title": "Um terço das páginas da web publicadas desde o lançamento do ChatGPT mostram sinais de autoria de IA, segundo estudo",
-      "summary": "ChatGPT e outros modelos de IA agora criam e editam grande parte da nova web.",
-      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-20T17:18:58+00:00"
-    },
-    {
-      "id": "2ef91864150cce5d",
-      "title": "Amazon compra e destrói livros em massa para treinar IA, diz site",
-      "summary": "Investigação rastreou livro raro até galpão em Las Vegas onde obras teriam as lombadas cortadas para digitalização em escala. Amazon compra e destrói livros em massa para treinar…",
-      "link": "https://tecnoblog.net/noticias/amazon-compra-e-destroi-livros-em-massa-para-treinar-ia-diz-site/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-amazon-1_thumb_tb-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-20T17:10:50+00:00"
-    },
-    {
-      "id": "97c9978429d1b761",
-      "title": "Google reúne funcionalidades de IA para estudantes em novo Student Hub",
-      "summary": "Pacote educacional reúne cadernos de estudo e tutoria por foto no Google Lens. Google reúne funcionalidades de IA para estudantes em novo Student Hub",
-      "link": "https://tecnoblog.net/noticias/google-reune-funcionalidades-de-ia-para-estudantes-em-novo-student-hub/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-1-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-20T17:05:19+00:00"
-    },
-    {
-      "id": "1cbac981a493654d",
-      "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
-      "summary": "Na Mayfield, Singh se concentrará em investimentos em semicondutores, segurança cibernética e IA física.",
-      "link": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-20T17:04:53+00:00"
-    },
-    {
-      "id": "279c95fadc253976",
-      "title": "Casa inteligente começa pelo som: Echo Dot em oferta na Amazon",
-      "summary": "Transformar a casa em um ambiente inteligente ficou bem mais simples com os smart speakers da Amazon. O Echo Dot é um dos dispositivos mais populares para quem quer começar — ou…",
-      "link": "https://olhardigital.com.br/2026/08/20/reviews/casa-inteligente-comeca-pelo-som-echo-dot-em-oferta-na-amazon-2/",
-      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-20T17:00:00+00:00"
     }
   ]
 }
