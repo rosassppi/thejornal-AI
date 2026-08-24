@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-24T01:10:31.213791+00:00",
+  "generated_at": "2026-08-24T06:54:24.474104+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "55e74b5fda95ec78",
+      "title": "Melhores GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe e Groq classificados por preço publicado e energia contratada",
+      "summary": "As cinco maiores neoclouds de GPU agora rodam em modelos muito diferentes. CoreWeave e Nebius reportam à SEC; Lambda e Crusoe são privadas e caminham para IPOs; Groq se reconstruiu…",
+      "link": "https://www.marktechpost.com/2026/08/23/best-gpu-neoclouds-2026/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-24T05:26:43+00:00"
+    },
+    {
+      "id": "680a57c91764fc26",
+      "title": "Análise de dados científicos com LabPlot em Python: processamento de sinal, ajuste de pico espectral, visualização e automação de lote",
+      "summary": "Neste tutorial, exploramos um fluxo de trabalho de análise de dados científicos inspirado no LabPlot em Python, preservando a estrutura e a terminologia da árvore de aspectos do LabPlot, análise…",
+      "link": "https://www.marktechpost.com/2026/08/23/scientific-data-analysis-with-labplot-in-python-signal-processing-spectral-peak-fitting-visualization-and-batch-automation/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-24T03:32:30+00:00"
+    },
     {
       "id": "f5a235b4aec9b01d",
       "title": "5 filmes de 2026 que todo mundo sabia que ia flopar e flopou",
@@ -969,28 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-21T08:26:05+00:00"
-    },
-    {
-      "id": "e5f0a8b8f0863413",
-      "title": "O GPT-Image-2 da OpenAI agora pode gerar imagens sem fundo",
-      "summary": "OpenAI está visualizando suporte de fundo transparente para GPT-Image-2 por meio de sua API. O canal alfa é incorporado durante a geração da imagem, que de acordo com o OpenAI supera…",
-      "link": "https://the-decoder.com/openais-gpt-image-2-can-now-generate-images-without-a-background/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/openai_logo_transparent.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-21T07:53:40+00:00"
-    },
-    {
-      "id": "e9ba6db1fcd1c3b4",
-      "title": "A startup de dados de IA Micro1 atinge uma taxa bruta de execução de US$ 500 milhões em meio ao boom de treinamento de IA",
-      "summary": "A crescente demanda por dados de treinamento de IA está impulsionando o rápido crescimento da startup e de seus rivais.",
-      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-21T00:13:44+00:00"
     }
   ]
 }
