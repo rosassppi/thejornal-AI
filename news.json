@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-08-23T18:26:02.695029+00:00",
+  "generated_at": "2026-08-24T01:10:31.213791+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "f5a235b4aec9b01d",
+      "title": "5 filmes de 2026 que todo mundo sabia que ia flopar e flopou",
+      "summary": "Enquanto Homem-Aranha: Um Novo Dia e A Odisseia batem recordes surpreendentes de bilheteria nas telonas, outros filmes lançados em 2026 não tiveram a mesma sorte, tornando-se…",
+      "link": "https://canaltech.com.br/entretenimento/filmes-maiores-flops-2026/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-23T21:00:00+00:00"
+    },
+    {
+      "id": "51491c877ef7428f",
+      "title": "IA freia crescimento salarial antes de cortar vagas",
+      "summary": "Trabalhadores mais expostos à IA viram aumento nos salários desacelerar, veja o ranking das profissões mais afetadas O post IA freia crescimento salarial antes de cortar vagas…",
+      "link": "https://olhardigital.com.br/2026/08/23/pro/ia-freia-crescimento-salarial-antes-de-cortar-vagas/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-23T20:39:37+00:00"
+    },
+    {
+      "id": "1538fb9c10b7b42c",
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-23T20:01:36+00:00"
+    },
+    {
+      "id": "62eebc9504fd9c4f",
+      "title": "Twitch e Amazon são processadas por usar conteúdo de streamers para treinar IA",
+      "summary": "Ação coletiva acusa Twitch e Amazon de usar conteúdo de criadores para treinar IA sem autorização prévia. O post Twitch e Amazon são processadas por usar conteúdo de streamers…",
+      "link": "https://olhardigital.com.br/2026/08/23/internet-e-redes-sociais/twitch-e-amazon-sao-processadas-por-usar-conteudo-de-streamers-para-treinar-ia/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-23T19:56:43+00:00"
+    },
+    {
+      "id": "553ceabaa06d9935",
+      "title": "O que é o Canvas do ChatGPT e como ele funciona?",
+      "summary": "O Canvas do ChatGPT é um espaço de trabalho criado para projetos de escrita e programação que precisam de mais do que uma sequência de perguntas e respostas. A ferramenta abre uma…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-e-chatgpt-canvas-e-como-usar/",
+      "image": "https://tl.ctcdn.com.br/cdlPlMjYm4kW5Pa1kMw6ZVGVOLE=/0x0/filters:format(webp):quality(85)/f25244cd-734f-485a-80fb-56254b2f14e7.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-23T19:30:00+00:00"
+    },
+    {
+      "id": "3ece450dabbeaa26",
+      "title": "O calendário inteligente do Linkdaze foi desenvolvido para administrar uma casa, não apenas monitorar uma programação",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-23T19:14:08+00:00"
+    },
+    {
+      "id": "100e8dbe0ff251d9",
+      "title": "Por que precisamos de PCs com IA se ChatGPT, Claude e Gemini estão na nuvem?",
+      "summary": "O avanço da inteligência artificial popularizou serviços acessíveis diretamente pelo navegador, como ChatGPT , Claude e Gemini . Como essas ferramentas operam a partir de data…",
+      "link": "https://canaltech.com.br/hardware/por-que-precisamos-de-pcs-com-ia-se-chatgpt-claude-e-gemini-estao-na-nuvem/",
+      "image": "https://tl.ctcdn.com.br/H0EVksoMVyshMaGlvNg81DGtwnw=/0x0/filters:format(webp):quality(85)/f2aa3652-5fd2-4ec9-acd1-e721132a2f80.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-23T19:01:00+00:00"
+    },
+    {
+      "id": "b77a867d6f87658b",
+      "title": "Hora de imprimir com economia: veja uma seleção de impressoras em promoção na Amazon",
+      "summary": "Precisando renovar a impressora de casa ou do escritório? Separamos três boas opções de impressoras multifuncionais que estão em oferta agora na Amazon. De modelos mais simples a…",
+      "link": "https://olhardigital.com.br/2026/08/23/reviews/hora-de-imprimir-com-economia-veja-uma-selecao-de-impressoras-em-promocao-na-amazon-4/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-23T18:40:00+00:00"
+    },
+    {
+      "id": "a1cfebd65e02e82a",
+      "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
+      "summary": "Harvey's first post-trained model nearly doubles LAB task completion, but only one benchmark number survives independent verification today The post Harvey Introduces Harvey…",
+      "link": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-23T17:51:56+00:00"
+    },
     {
       "id": "1960e6be75148799",
       "title": "Alibaba quer investir US$ 10,2 bilhões em inteligência artificial",
@@ -91,6 +190,17 @@
       "published_at": "2026-08-23T11:00:01+00:00"
     },
     {
+      "id": "328a3992caf48f39",
+      "title": "Conheça o FreeToken: um mecanismo de serviço Edge-Native MoE que executa 753B GLM-5.2 em uma única GPU de estação de trabalho",
+      "summary": "FreeToken splits MoE cache misses between PCIe fills and CPU execution using measured bandwidths, unlocking frontier models locally The post Meet FreeToken: An Edge-Native MoE…",
+      "link": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-23T10:44:59+00:00"
+    },
+    {
       "id": "7bd37aea0c64568e",
       "title": "AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter",
       "summary": "AI agents have consumed more tokens than humans on OpenRouter since February 6, 2025. Agentic usage has grown 14x since then, while human usage is up just 2.8x. Nearly 70 percent…",
@@ -135,6 +245,17 @@
       "published_at": "2026-08-23T08:15:28+00:00"
     },
     {
+      "id": "27fc7d0fd14bc28e",
+      "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
+      "summary": "Build an end-to-end document intelligence pipeline with deepDoctection. This tutorial covers configuring layout analysis, DocTR OCR, and table extraction, while demonstrating how…",
+      "link": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-23T07:51:22+00:00"
+    },
+    {
       "id": "5222423667385dd3",
       "title": "How China's gray market sells Claude tokens at a fraction of the price",
       "summary": "Anthropic's strict access controls against China, from geoblocking to selfie verification, are being systematically bypassed through a thriving network of so-called \"transfer…",
@@ -144,6 +265,28 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-23T07:48:33+00:00"
+    },
+    {
+      "id": "9394a000155a4fd0",
+      "title": "Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks",
+      "summary": "Vercel and Ora launched Is Agentic, a free audit scoring website readiness for AI agents across 118 checks. The post Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring…",
+      "link": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-23T07:37:14+00:00"
+    },
+    {
+      "id": "3e254753cd8c7f23",
+      "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
+      "summary": "In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to…",
+      "link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-22T23:49:38+00:00"
     },
     {
       "id": "43e4c0bbdfb21c55",
@@ -848,149 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-21T00:13:44+00:00"
-    },
-    {
-      "id": "e3ddd7a65cd3a566",
-      "title": "Medindo a otimização de benchmark em reconhecimento de fala",
-      "summary": "",
-      "link": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-21T00:00:00+00:00"
-    },
-    {
-      "id": "42713d44a37a9fa2",
-      "title": "Nvidia diz não ter planos de lançar chip de IA na China ainda este ano",
-      "summary": "Empresa contesta reportagem que apontava desenvolvimento de uma unidade de processamento de linguagem para clientes chineses; Nvidia diz não ter vendas de LPUs no país nem produto…",
-      "link": "https://olhardigital.com.br/2026/08/20/inteligencia-artificial/nvidia-diz-nao-ter-planos-de-lancar-chip-de-ia-na-china-ainda-este-ano/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-20T23:19:52+00:00"
-    },
-    {
-      "id": "7aebc01742716fac",
-      "title": "Brasil anuncia pacote de R$ 2,5 bilhões para IA e supercomputador no RN",
-      "summary": "Pacote inclui parceria com Huawei e desenvolvimento de chips; equipamento terá mais de 50 mil núcleos de processamento e será usado por universidades, empresas, centros de…",
-      "link": "https://olhardigital.com.br/2026/08/20/inteligencia-artificial/brasil-anuncia-pacote-de-r-2-5-bilhoes-para-ia-e-supercomputador-no-rn/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/lula-no-g7-em-junho-de-2026-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-20T22:52:12+00:00"
-    },
-    {
-      "id": "a4dbcb7af94c1bd5",
-      "title": "Gerenciador de Tarefas do Windows vai monitorar hardware usado por IA",
-      "summary": "Ferramenta do sistema terá colunas para mostrar como cada processo usa a NPU e o acelerador neural da GPU. Novidade pode ajudar profissionais de TI e desenvolvedores. Gerenciador…",
-      "link": "https://tecnoblog.net/noticias/gerenciador-de-tarefas-do-windows-vai-monitorar-hardware-usado-por-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/07/windows-11-4-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-20T22:44:19+00:00"
-    },
-    {
-      "id": "db0bf4cf36536a3c",
-      "title": "OpenAI está ganhando vantagem sobre a Anthropic com usuários corporativos, indicam novos dados",
-      "summary": "As empresas estão dispostas a oscilar à medida que cada laboratório lança novos modelos, volatilidade que deve fazer os investidores de ambas as empresas hesitarem sobre o quão “pegajosa” a IA empresarial…",
-      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-20T22:36:37+00:00"
-    },
-    {
-      "id": "8b6a917df6f287fe",
-      "title": "Conheça S1-mini: Normalizador de texto de peso aberto de 462 MB do Superwhisper que transforma transcrições ASR brutas em texto escrito limpo",
-      "summary": "S1-mini é um normalizador de pesos abertos de 462 MB que fica após o ASR, removendo preenchimentos e resolvendo autocorreções localmente. A postagem Conheça o S1-mini: pesos abertos de 462 MB do Superwhisper…",
-      "link": "https://www.marktechpost.com/2026/08/20/meet-s1-mini-superwhispers-462-mb-open-weights-text-normalizer-that-turns-raw-asr-transcripts-into-clean-written-text/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-20T22:23:17+00:00"
-    },
-    {
-      "id": "7e754836f0d59bfe",
-      "title": "Asus Vivobook S14 tem oferta relâmpago em até 12x na Amazon",
-      "summary": "Notebook Asus Vivobook S14 tem Intel Core Ultra 7 225H com RAM de 16 GB e NPU Intel AI Boost; oferta na Amazon representa desconto de mais de mil reais Asus Vivobook S14 tem…",
-      "link": "https://tecnoblog.net/achados/asus-vivobook-s14-tem-oferta-relampago-em-ate-12x-na-amazon/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/amz.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-20T22:11:00+00:00"
-    },
-    {
-      "id": "7a4a6fae53691575",
-      "title": "ChatGPT agora pode enviar textos para você com o novo plug-in Apple Messages",
-      "summary": "Sempre quis que outra pessoa enviasse suas mensagens de texto para você? ChatGPT está sendo oferecido como um redator de texto automatizado por meio de uma nova integração do Apple Messages.",
-      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-20T22:09:51+00:00"
-    },
-    {
-      "id": "bdb698ec663c3ddc",
-      "title": "O Google Discover está recebendo um feed ajustado para chatbot de IA",
-      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to…",
-      "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-20-at-5.37.35-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-20T21:50:22+00:00"
-    },
-    {
-      "id": "4eef867b907c0797",
-      "title": "Anthropic quer superar recorde da SpaceX em IPO bilionário",
-      "summary": "Empresa de IA prepara possível abertura de capital ainda em agosto, enquanto planeja mudar política de retenção de dados de clientes corporativos O post Anthropic quer superar…",
-      "link": "https://olhardigital.com.br/2026/08/20/pro/anthropic-quer-superar-recorde-da-spacex-em-ipo-bilionario/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/anthropic-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-20T21:29:07+00:00"
-    },
-    {
-      "id": "cdc62eb99f6f7be8",
-      "title": "Novo hub de estudos do Gemini ajuda estudantes em provas e concursos, veja como",
-      "summary": "O Google ampliou nesta semana o conjunto de ferramentas de estudo dentro do Gemini . As novidades incluem um hub dedicado a estudantes, atualizações nos Gemini Notebooks…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/novo-hub-de-estudos-do-gemini-ajuda-estudantes-em-provas-e-concursos-veja-como/",
-      "image": "https://tl.ctcdn.com.br/nyEGDqsQZ4wXnpbe7gmvtA42Tnk=/0x0/filters:format(webp):quality(85)/016e7990-3916-4788-b577-979139503940.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-20T20:30:00+00:00"
-    },
-    {
-      "id": "6176be1be503f61f",
-      "title": "Conheça UPDF: uma alternativa leve da Adobe desenvolvida para a era agente",
-      "summary": "PDFs são fáceis de ler e difíceis de alterar. A IA agora pode resumir um contrato de 90 páginas em segundos, mas ainda não reescreverá o arquivo de origem de forma limpa. O UPDF foi criado para esse segundo…",
-      "link": "https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/Thumnail-2-1024x512.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-20T19:34:10+00:00"
-    },
-    {
-      "id": "6a7f48a53bf28a17",
-      "title": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash",
-      "summary": "A Adobe está disponibilizando amplamente três ferramentas de áudio de IA no Firefly. Gere música, gere fala e gere efeitos sonoros, crie músicas, dublagens e sons isentos de royalties…",
-      "link": "https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/adobe_logo-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-20T19:29:34+00:00"
     }
   ]
 }
