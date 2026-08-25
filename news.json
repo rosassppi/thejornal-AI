@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-08-25T06:42:52.237222+00:00",
+  "generated_at": "2026-08-25T12:42:58.825027+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "eb9f63f8cab83393",
+      "title": "Nvidia says its Groq 3 LPX is four times faster than Cerebras, but the math is more complicated",
+      "summary": "Nvidia is moving its Groq 3 LPX inference chip into full production and reports 3,400 tokens per second on Gemma 4 31B, four times faster than Cerebras. But the numbers don't tell…",
+      "link": "https://the-decoder.com/nvidia-says-its-groq-3-lpx-is-four-times-faster-than-cerebras-but-the-math-is-more-complicated/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/09/NVIDIA-Vera-Rubin-NVL144-with-Tray.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-25T12:27:57+00:00"
+    },
+    {
+      "id": "2bf0cea60f291fe5",
+      "title": "Ukraine opens its massive labeled battlefield dataset to British firms in a landmark AI weapons partnership",
+      "summary": "The UK becomes the first country to get access to Avengers Labs, Ukraine's platform holding roughly five million annotated combat images for training military AI. Three British…",
+      "link": "https://the-decoder.com/ukraine-opens-its-massive-labeled-battlefield-dataset-to-british-firms-in-a-landmark-ai-weapons-partnership/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Prime_Minister_Andy_Burnham_meets_Ukrainian_President_Volodymyr_Zelenskyy-scaled.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-25T12:16:41+00:00"
+    },
+    {
+      "id": "172b9cf85a26d986",
+      "title": "Amazon e Twitch são processadas por usar lives sem permissão para treinar IA",
+      "summary": "Amazon e Twitch foram alvo de uma ação coletiva movida por um streamer que acusa as empresas de usar transmissões ao vivo para treinar modelos de inteligência artificial sem…",
+      "link": "https://canaltech.com.br/mercado/amazon-e-twitch-sao-processadas-por-usar-lives-sem-permissao-para-treinar-ia/",
+      "image": "https://tl.ctcdn.com.br/TA6JI7KUY2d-MYm_mQbAUcm7hcQ=/0x0/filters:format(webp):quality(85)/c5a67a5e-3628-4eaf-aa75-1e5dcff524d5.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-25T12:04:54+00:00"
+    },
+    {
+      "id": "ee865b3ef8334b72",
+      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+      "summary": "TechCrunch conversa com agentes, UX e relatórios para Greg Brockman com o chefe de produto da OpenAI.",
+      "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-25T12:00:00+00:00"
+    },
+    {
+      "id": "f1c76f23a788b688",
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "summary": "",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-25T11:39:24+00:00"
+    },
+    {
+      "id": "af0bc438b5c8cb0f",
+      "title": "Defesa antiaérea doméstica: laser caça mosquitos no ar",
+      "summary": "Aparelho da Photon Matrix usa laser, IA e LiDAR para caçar mosquitos, com bateria de até quatro horas e versão interna também O post Defesa antiaérea doméstica: laser caça…",
+      "link": "https://olhardigital.com.br/2026/08/25/olha-isso/defesa-antiaerea-domestica-laser-caca-mosquitos-no-ar/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/laser-mosquito-1-1024x693.webp",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-25T11:20:56+00:00"
+    },
+    {
+      "id": "f39627622f1712e7",
+      "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems",
+      "summary": "Alabama Attorney General Steve Marshall is investigating OpenAI over what he calls an \"AI lab leak.\" The probe follows the July 2026 Hugging Face incident, where an OpenAI agent…",
+      "link": "https://the-decoder.com/alabama-is-investigating-openai-following-an-uncontrolled-ai-agent-hack/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/cybersecurity-kraken-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-25T10:24:13+00:00"
+    },
+    {
+      "id": "6c2861183e872b5c",
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-25T09:15:03+00:00"
+    },
+    {
+      "id": "ab5c691f4b17a605",
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology…",
+      "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/map.jpg?w=840",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-25T09:00:00+00:00"
+    },
+    {
+      "id": "cbdfe5abb45f27c3",
+      "title": "Taiwanese cybersecurity firm warns that AI tools have more than doubled Chinese state-backed cyberattacks",
+      "summary": "Chinese state-backed hacking groups have more than doubled their attacks since they started using AI models like DeepSeek to write exploit code and scan networks, according to…",
+      "link": "https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/china_flag_visual-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-25T08:40:14+00:00"
+    },
     {
       "id": "fca9bf5a36c4ef89",
       "title": "Folha de S.Paulo entra com processo contra Perplexity",
@@ -23,6 +133,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-25T00:23:12+00:00"
+    },
+    {
+      "id": "62003111f3b592c5",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-25T00:00:00+00:00"
     },
     {
       "id": "9b54a38fa1b1a3f1",
@@ -78,6 +199,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-24T21:45:53+00:00"
+    },
+    {
+      "id": "846aaeffa7914011",
+      "title": "Xiaomi lança varal que se disfarça de luminária quando não está em uso",
+      "summary": "A Xiaomi lançou na China um varal inteligente que praticamente desaparece quando não está em uso . O Mijia Smart Clothes Dryer 3C Soft Light Edition recolhe toda a estrutura junto…",
+      "link": "https://canaltech.com.br/eletro/xiaomi-lanca-varal-que-se-disfarca-de-luminaria-quando-nao-esta-em-uso/",
+      "image": "https://tl.ctcdn.com.br/eVSfHgh1uZDQGLCYZQkp7Kt5bno=/0x0/filters:format(webp):quality(85)/57bc3c96-267a-4131-863a-62bee95c3b95.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-24T21:23:23+00:00"
     },
     {
       "id": "7ab2be1237a1ca53",
@@ -859,138 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-22T16:30:34+00:00"
-    },
-    {
-      "id": "5c1d39faf87ea2e8",
-      "title": "Os laboratórios Frontier AI ainda não dizem como conteriam um modelo desonesto",
-      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate…",
-      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-22T16:00:00+00:00"
-    },
-    {
-      "id": "5d17435c4f47ef51",
-      "title": "Análise do Pixel 11 Pro XL: câmeras mais rápidas não conseguem esconder uma atualização iterativa",
-      "summary": "O Pixel 11 Pro XL do Google traz câmeras mais rápidas e recursos de IA genuinamente úteis, como o Rambler, mas suas atualizações iterativas podem não ser suficientes para atrair os proprietários recentes do Pixel.",
-      "link": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-22T14:00:00+00:00"
-    },
-    {
-      "id": "8cf6a8630b3fd5c9",
-      "title": "Decodificando o curso de código aberto da IA ​​mapeia três maneiras de executar um loop de agente e a economia do provedor por trás de cada uma",
-      "summary": "A maioria das equipes trata “qual modelo” como a decisão importante. A literatura de engenharia de chicotes continua apontando para outro lugar. No experimento Terminal-Bench da LangChain, mudando apenas…",
-      "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-22T13:43:13+00:00"
-    },
-    {
-      "id": "94843b4a3d5c7bde",
-      "title": "Botão anti-IA do LinkedIn é avaliado positivamente",
-      "summary": "Após o recurso registrar mais de 1 milhão de acionamentos, plataforma escondeu publicações genéricas e passou a emitir alertas aos criadores afetados. Botão anti-IA do LinkedIn é…",
-      "link": "https://tecnoblog.net/noticias/botao-anti-ia-do-linkedin-e-avaliado-positivamente/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/03/linkedin-capa-1-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-22T12:27:53+00:00"
-    },
-    {
-      "id": "dbeb890e0fde1740",
-      "title": "Estudo explica por que os agentes de IA se beneficiam de “habilidades” e quando falham",
-      "summary": "Um estudo realizado por pesquisadores da Universidade de Princeton e da UC San Diego descobriu que as chamadas habilidades tornam os agentes de IA melhores principalmente por meio de fluxos de trabalho estruturados, e não por meio de acréscimos…",
-      "link": "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Agent-Skill-Pick.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-22T12:15:10+00:00"
-    },
-    {
-      "id": "6d4c394a8b217eb3",
-      "title": "Fire TV Stick em oferta: escolha o modelo certo para transformar sua TV",
-      "summary": "Se você ainda assiste conteúdo sem streaming ou quer melhorar a experiência com mais qualidade de imagem e recursos de casa inteligente, a Amazon tem opções certeiras na linha…",
-      "link": "https://olhardigital.com.br/2026/08/22/reviews/fire-tv-stick-em-oferta-escolha-o-modelo-certo-para-transformar-sua-tv-3/",
-      "image": "https://m.media-amazon.com/images/I/31lBb1O2D7L._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-22T11:40:00+00:00"
-    },
-    {
-      "id": "d1d94b660f47ad78",
-      "title": "Afinal, é crime ou não usar o rosto de alguém em foto e vídeo de IA?",
-      "summary": "Criar uma imagem ou vídeo de uma pessoa usando inteligência artificial ficou muito mais fácil. Com algumas ferramentas, basta fornecer uma fotografia para colocar alguém em outro…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/e-crime-usar-rosto-de-alguem-foto-video-ia/",
-      "image": "https://tl.ctcdn.com.br/a1rbSjGNng-j7lT3LgnIGHDsFk8=/0x0/filters:format(webp):quality(85)/c7faf469-02ca-47c0-b586-2cf4f9f54895.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-22T11:00:00+00:00"
-    },
-    {
-      "id": "8e5b164c2707fd8c",
-      "title": "Modelos mundiais que ignoram as crenças humanas prevêem ações erradas, mostra uma nova pesquisa",
-      "summary": "Os modelos mundiais atuais como Sora ou Genie apenas simulam a física e ignoram o que as pessoas pensam, querem ou sentem. A nova estrutura \"Modelagem do Mundo Mental\" adiciona variáveis ​​mentais como…",
-      "link": "https://the-decoder.com/world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/mental-world-model-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-22T09:00:20+00:00"
-    },
-    {
-      "id": "8f55b26e403ea5c6",
-      "title": "Os novos óculos AI da RayNeo ignoram a câmera, concentram-se nas sobreposições de texto",
-      "summary": "RayNeo está lançando um novo fone de ouvido sem câmera ou alto-falantes. O artigo Os novos óculos de IA da RayNeo ignoram a câmera e focam nas sobreposições de texto apareceu pela primeira vez no The Decoder.",
-      "link": "https://the-decoder.com/rayneos-new-ai-glasses-skip-the-camera-focus-on-text-overlays/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/RayNeo-iO-glasses.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-22T08:00:14+00:00"
-    },
-    {
-      "id": "cabfa0df9b7d22d7",
-      "title": "Netflix testa modelo de linguagem como alternativa à lógica de recomendação construída manualmente",
-      "summary": "A Netflix comparou seu antigo mecanismo de recomendação a um modelo de linguagem interno chamado GenRec e diz que obteve melhores resultados. Em vez de depender de milhares de produtos artesanais…",
-      "link": "https://the-decoder.com/netflix-tests-language-model-as-alternative-to-hand-built-recommendation-logic/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/netflix_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-22T07:30:16+00:00"
-    },
-    {
-      "id": "356b0033e22b8a0c",
-      "title": "Métodos psicológicos revelam grandes fraquezas nos testes de segurança de IA",
-      "summary": "Pesquisadores do AI Security Institute do Reino Unido usaram métodos psicométricos para mostrar que os benchmarks de segurança populares para modelos de linguagem não medem uma característica consistente. Cobertor…",
-      "link": "https://the-decoder.com/psychological-methods-reveal-major-weaknesses-in-ai-security-testing/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/ai-security-evaluation-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-22T07:00:05+00:00"
-    },
-    {
-      "id": "53db2b4d09276610",
-      "title": "Michael Polansky está treinando um modelo de IA em uma pele que ainda está viva",
-      "summary": "Michael Polansky – mais conhecido publicamente como parceiro de Lady Gaga e ex-adjunto de Sean Parker – passou anos construindo discretamente uma startup baseada em IA que continua viva…",
-      "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-22T01:31:04+00:00"
     }
   ]
 }
