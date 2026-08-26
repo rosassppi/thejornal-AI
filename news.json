@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-08-25T18:36:41.965957+00:00",
+  "generated_at": "2026-08-26T01:11:19.176047+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "03b16224233a8746",
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+      "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-26T00:40:59+00:00"
+    },
+    {
+      "id": "4b73af7f6f1d70c2",
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in…",
+      "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-26T00:06:20+00:00"
+    },
+    {
+      "id": "e702be06b8494848",
+      "title": "Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together",
+      "summary": "Model cards report quality under server-class, full-precision conditions. Those numbers rarely predict how the same model behaves on a phone. This week, Liquid AI released…",
+      "link": "https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-25T23:48:08+00:00"
+    },
+    {
+      "id": "163846e05ceeec45",
+      "title": "Smart TV LG QNED evo com Mini LED de 55” sai 32% mais barata com cupom",
+      "summary": "LG QNED80BSG foi lançada em 2026 e traz recursos de IA, iluminação Mini LED, cores dinâmicas e suporte a Dolby Atmos. Utilize o cupom OFFCOMMELI em oferta no Mercado Livre Smart…",
+      "link": "https://tecnoblog.net/achados/smart-tv-lg-qned-evo-com-mini-led-de-55-sai-32-mais-barata-com-cupom/",
+      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-25T21:50:12+00:00"
+    },
+    {
+      "id": "5eaa77d2cbc56dde",
+      "title": "Google prepara grande atualização para acabar com a bagunça do Gemini no celular",
+      "summary": "O Google prepara uma grande reformulação na interface do Gemini para Android . Identificadas em uma versão de testes do aplicativo, as mudanças reorganizam as conversas, adicionam…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/google-prepara-grande-atualizacao-para-acabar-com-a-bagunca-do-gemini-no-celular/",
+      "image": "https://tl.ctcdn.com.br/5Q8jm-cpysPTmmTb3lh8WA6o3mk=/0x0/filters:format(webp):quality(85)/6443c25f-47bf-4a8a-968f-87ac6aa5a8bf.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-25T21:09:00+00:00"
+    },
+    {
+      "id": "b3528d362d3d884c",
+      "title": "World humanoid robot games show runners breaking records, bursting into flames",
+      "summary": "Record-breaking robot races are less substantial than household chore challenges.",
+      "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/World-Humanoid-Robot-Games-2026-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-25T20:59:03+00:00"
+    },
+    {
+      "id": "9a20a3832a4c9ad5",
+      "title": "Google lança Gemini jurídico para reduzir erros e alucinações",
+      "summary": "Plataforma verifica citações e conecta agentes de IA a bases jurídicas usadas por escritórios e departamentos legais. Google lança Gemini jurídico para reduzir erros e alucinações",
+      "link": "https://tecnoblog.net/noticias/google-lanca-gemini-juridico-para-reduzir-erros-e-alucinacoes/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-3-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-25T20:53:24+00:00"
+    },
+    {
+      "id": "ab3488f119a901fd",
+      "title": "Uma em cada três pessoas já contou à IA um segredo que ninguém mais sabia",
+      "summary": "Estudo do DuckDuckGo mostra que 32% dos usuários confiam detalhes íntimos às plataformas. Maioria desconhece como os chats são usados pelas empresas. Uma em cada três pessoas já…",
+      "link": "https://tecnoblog.net/noticias/uma-em-cada-tres-pessoas-ja-contou-a-ia-um-segredo-que-ninguem-mais-sabia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/07/ia-3-edited-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-25T19:22:02+00:00"
+    },
+    {
+      "id": "deaae1844b2d06cf",
+      "title": "Perplexity Ships Portable Computer on NVIDIA DGX Spark: Local Harness, OS-Enforced Sandbox, and Zero Per-Token Cost for Local Steps",
+      "summary": "Perplexity releases Portable Computer, packaging local models, harness, sandbox, and connectors into one system running on NVIDIA DGX Spark. The post Perplexity Ships Portable…",
+      "link": "https://www.marktechpost.com/2026/08/25/perplexity-ships-portable-computer-on-nvidia-dgx-spark-local-harness-os-enforced-sandbox-and-zero-per-token-cost-for-local-steps/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-25T19:12:19+00:00"
+    },
+    {
+      "id": "a14ffe864c766b71",
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "summary": "The company's new fundraising total now stands at $232 million.",
+      "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-25T19:03:47+00:00"
+    },
+    {
+      "id": "cf885dd8894edceb",
+      "title": "Russia used ChatGPT to run a covert influence campaign pushing pro-Kremlin narratives across the West",
+      "summary": "OpenAI has disrupted a covert Russian influence campaign that used ChatGPT to generate social media posts by banning a cluster of accounts. The operators accessed the platform…",
+      "link": "https://the-decoder.com/russia-used-chatgpt-to-run-a-covert-influence-campaign-pushing-pro-kremlin-narratives-across-the-west/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_red_Logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-25T18:54:56+00:00"
+    },
     {
       "id": "5e6aadccef9d7dc8",
       "title": "OpenAI's first custom chip \"Jalapeño\" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks",
@@ -45,6 +166,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-25T17:27:14+00:00"
+    },
+    {
+      "id": "77ea14e9d5f688f6",
+      "title": "Meta AI Introduces MetaRoCE: A Clean-Sheet RDMA Transport Built for AI-Scale Ethernet",
+      "summary": "Training and serving frontier models is now a networking problem as much as a compute problem. Collective operations like all-reduce and all-to-all synchronize thousands of…",
+      "link": "https://www.marktechpost.com/2026/08/25/meta-ai-introduces-metaroce-a-clean-sheet-rdma-transport-built-for-ai-scale-ethernet/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-25T17:25:36+00:00"
     },
     {
       "id": "efcfa64f9904331e",
@@ -859,138 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-23T20:01:36+00:00"
-    },
-    {
-      "id": "62eebc9504fd9c4f",
-      "title": "Twitch e Amazon são processadas por usar conteúdo de streamers para treinar IA",
-      "summary": "Ação coletiva acusa Twitch e Amazon de usar conteúdo de criadores para treinar IA sem autorização prévia. O post Twitch e Amazon são processadas por usar conteúdo de streamers…",
-      "link": "https://olhardigital.com.br/2026/08/23/internet-e-redes-sociais/twitch-e-amazon-sao-processadas-por-usar-conteudo-de-streamers-para-treinar-ia/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-23T19:56:43+00:00"
-    },
-    {
-      "id": "553ceabaa06d9935",
-      "title": "O que é o Canvas do ChatGPT e como ele funciona?",
-      "summary": "O Canvas do ChatGPT é um espaço de trabalho criado para projetos de escrita e programação que precisam de mais do que uma sequência de perguntas e respostas. A ferramenta abre uma…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-e-chatgpt-canvas-e-como-usar/",
-      "image": "https://tl.ctcdn.com.br/cdlPlMjYm4kW5Pa1kMw6ZVGVOLE=/0x0/filters:format(webp):quality(85)/f25244cd-734f-485a-80fb-56254b2f14e7.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-23T19:30:00+00:00"
-    },
-    {
-      "id": "3ece450dabbeaa26",
-      "title": "O calendário inteligente do Linkdaze foi desenvolvido para administrar uma casa, não apenas monitorar uma programação",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-23T19:14:08+00:00"
-    },
-    {
-      "id": "100e8dbe0ff251d9",
-      "title": "Por que precisamos de PCs com IA se ChatGPT, Claude e Gemini estão na nuvem?",
-      "summary": "O avanço da inteligência artificial popularizou serviços acessíveis diretamente pelo navegador, como ChatGPT , Claude e Gemini . Como essas ferramentas operam a partir de data…",
-      "link": "https://canaltech.com.br/hardware/por-que-precisamos-de-pcs-com-ia-se-chatgpt-claude-e-gemini-estao-na-nuvem/",
-      "image": "https://tl.ctcdn.com.br/H0EVksoMVyshMaGlvNg81DGtwnw=/0x0/filters:format(webp):quality(85)/f2aa3652-5fd2-4ec9-acd1-e721132a2f80.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-23T19:01:00+00:00"
-    },
-    {
-      "id": "b77a867d6f87658b",
-      "title": "Hora de imprimir com economia: veja uma seleção de impressoras em promoção na Amazon",
-      "summary": "Precisando renovar a impressora de casa ou do escritório? Separamos três boas opções de impressoras multifuncionais que estão em oferta agora na Amazon. De modelos mais simples a…",
-      "link": "https://olhardigital.com.br/2026/08/23/reviews/hora-de-imprimir-com-economia-veja-uma-selecao-de-impressoras-em-promocao-na-amazon-4/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-23T18:40:00+00:00"
-    },
-    {
-      "id": "a1cfebd65e02e82a",
-      "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
-      "summary": "Harvey's first post-trained model nearly doubles LAB task completion, but only one benchmark number survives independent verification today The post Harvey Introduces Harvey…",
-      "link": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-23T17:51:56+00:00"
-    },
-    {
-      "id": "1960e6be75148799",
-      "title": "Alibaba quer investir US$ 10,2 bilhões em inteligência artificial",
-      "summary": "Alibaba busca US$ 10,2 bilhões na maior oferta de ações da história de Hong Kong para impulsionar chips, infraestrutura e modelos de IA. O post Alibaba quer investir US$ 10,2…",
-      "link": "https://olhardigital.com.br/2026/08/23/pro/alibaba-quer-investir-us-102-bilhoes-em-inteligencia-artificial/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-23T17:42:40+00:00"
-    },
-    {
-      "id": "3166362a6cdc9b12",
-      "title": "6 coisas que o ChatGPT faz melhor que o Claude",
-      "summary": "O ChatGPT é uma das principais ferramentas de inteligência artificial generativa do mercado. Desde o lançamento, a plataforma ampliou a quantidade de recursos disponíveis e…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/6-coisas-que-o-chatgpt-faz-melhor-que-o-claude/",
-      "image": "https://tl.ctcdn.com.br/M97dFogcb8WuR352m8LixgtgapI=/0x0/filters:format(webp):quality(85)/483c949e-c9ea-41be-b2a9-e0fcfe03b894.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-23T17:00:01+00:00"
-    },
-    {
-      "id": "3fd51e411ad0d58c",
-      "title": "Echo Dot em destaque: smart speakers com Alexa para turbinar sua casa",
-      "summary": "Se você quer transformar qualquer ambiente em um espaço conectado e inteligente, os smart speakers com Alexa são uma das escolhas mais práticas do mercado. Reunimos três opções da…",
-      "link": "https://olhardigital.com.br/2026/08/23/reviews/echo-dot-em-destaque-smart-speakers-com-alexa-para-turbinar-sua-casa-5/",
-      "image": "https://m.media-amazon.com/images/I/51OiVQzj4HL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-23T17:00:00+00:00"
-    },
-    {
-      "id": "bb061411c659d649",
-      "title": "Livros podem ser usados para treinar IA? O debate sobre direitos autorais",
-      "summary": "Quando um livro é usado para treinar uma IA, como ficam os direitos autorais dos escritores? Veja alguns casos e a opinião de especialistas O post Livros podem ser usados para…",
-      "link": "https://olhardigital.com.br/2026/08/23/inteligencia-artificial/livros-podem-ser-usados-para-treinar-ia-o-debate-sobre-direitos-autorais/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/anthropic-300x200.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-23T15:45:39+00:00"
-    },
-    {
-      "id": "736c2f98ab12883c",
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems…",
-      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-23T15:00:00+00:00"
-    },
-    {
-      "id": "122c14c9aed81329",
-      "title": "An AI boss fired its first employee but only after humans reminded it of its own rules",
-      "summary": "Andon Labs' AI agent Luna fired a human employee at a San Francisco store for the first time but needed a clear push from the operators to do it. When the scenario was replayed…",
-      "link": "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/andon-labs-luna.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-23T12:31:59+00:00"
     }
   ]
 }
