@@ -1,7 +1,172 @@
 {
-  "generated_at": "2026-08-26T06:44:55.253352+00:00",
+  "generated_at": "2026-08-26T12:47:49.996832+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "153fa2e9730816fe",
+      "title": "Deepfakes pró-Kremlin colocam retórica de rendição na boca dos legisladores ucranianos",
+      "summary": "Pro-Kremlin Telegram channels are spreading AI-generated deepfake videos of two Ukrainian lawmakers who appear to call for peace talks. The clips racked up 130,000 views in two…",
+      "link": "https://the-decoder.com/pro-kremlin-deepfakes-put-surrender-rhetoric-in-the-mouths-of-ukrainian-lawmakers/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/deepfake_puppet_editorial.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-26T12:36:24+00:00"
+    },
+    {
+      "id": "a995b3464ba44113",
+      "title": "Testamos! Confira o review completo do Galaxy Watch 9",
+      "summary": "Novo smartwatch da Samsung mantém o design conhecido da linha e vem com novo processador e integração com IA O post Testamos! Confira o review completo do Galaxy Watch 9 apareceu…",
+      "link": "https://olhardigital.com.br/2026/08/26/reviews/testamos-confira-o-review-completo-do-galaxy-watch-9/",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/08/watch91.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-26T12:15:00+00:00"
+    },
+    {
+      "id": "be2b47efe7b1915e",
+      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+      "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
+      "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-26T12:00:00+00:00"
+    },
+    {
+      "id": "37e010b17222a405",
+      "title": "Chinese Moonshot AI negocia acordos de hospedagem com Microsoft, Amazon e Google",
+      "summary": "A Chinese AI company could land its model on major US cloud platforms for the first time, taking a cut of the revenue. The article Chinese Moonshot AI negotiates hosting deals…",
+      "link": "https://the-decoder.com/chinese-moonshot-ai-negotiates-hosting-deals-with-microsoft-amazon-and-google/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/moonshot_ai_logos.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-26T11:54:17+00:00"
+    },
+    {
+      "id": "8a9934845bd8de0d",
+      "title": "Apple: quais serão os preços do Mac Mini e do Mac Studio no Brasil?",
+      "summary": "Apple atualiza Mac mini e Mac Studio com novos chips, mais memória e recursos para executar inteligência artificial localmente O post Apple: quais serão os preços do Mac Mini e do…",
+      "link": "https://olhardigital.com.br/2026/08/26/reviews/apple-quais-serao-os-precos-do-mac-mini-e-do-mac-studio-no-brasil/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Apple-Mac-Studio-DaVinci-Resolve-Studio-Houdini-and-Maxon-Redshift-260825_big.jpg.large_2x-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-26T11:15:30+00:00"
+    },
+    {
+      "id": "bccc41e585b95514",
+      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+      "summary": "The focus is on agentic capability and predictable enterprise deployment.",
+      "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ollama-granite-500x500-1787698921.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-26T11:10:49+00:00"
+    },
+    {
+      "id": "83b416b43d924603",
+      "title": "Bill Gates está profundamente preocupado com a IA e não fica mais quieto",
+      "summary": "Bill Gates tem refletido muito sobre IA ultimamente, e o processo desencadeou um forte despertar. Outrora um firme otimista em IA, o cofundador da Microsoft agora está profundamente pessimista…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2095072875.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-26T11:07:40+00:00"
+    },
+    {
+      "id": "464d8fed05a70ff4",
+      "title": "Ar-condicionado portátil da Xiaomi usa IA para economizar energia",
+      "summary": "A Xiaomi lançou na China um novo ar-condicionado portátil que combina alta potência de refrigeração e aquecimento com recursos de inteligência artificial para economizar energia …",
+      "link": "https://canaltech.com.br/eletro/ar-condicionado-portatil-da-xiaomi-usa-ia-para-economizar-energia/",
+      "image": "https://tl.ctcdn.com.br/6ebUI5PFg_m7GJpeJpnbdSZ3YQI=/0x0/filters:format(webp):quality(85)/4f3b2e3a-9e91-4126-903d-84953a04fe25.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-26T11:06:10+00:00"
+    },
+    {
+      "id": "55000dbc066e5e26",
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+      "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-26T11:00:00+00:00"
+    },
+    {
+      "id": "f9ac3e57b5bb66cf",
+      "title": "Bill Gates alerta que a IA é mais perigosa do que a indústria tecnológica admite",
+      "summary": "Bill Gates warns in an essay and an NYT interview about mass unemployment and easier bioterrorism through AI, and he accuses his own industry of deliberately hiding the risks…",
+      "link": "https://the-decoder.com/bill-gates-warns-ai-is-more-dangerous-than-the-tech-industry-will-admit/",
+      "image": "https://the-decoder.com/wp-content/uploads/2023/10/bill_gates_gates_foundation.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-26T10:50:34+00:00"
+    },
+    {
+      "id": "d19888441f4cf52e",
+      "title": "IBM lança família Granite 4.2 de peso aberto com recursos de agente integrados no Apache 2.0",
+      "summary": "A IBM está lançando seus modelos de linguagem Granite 4.2 nos tamanhos 3B, 8B e 30B, treinados em cerca de 15 trilhões de tokens com uma janela de contexto de até 512.000 tokens. Os modelos maiores usam…",
+      "link": "https://the-decoder.com/ibm-drops-open-weight-granite-4-2-family-with-built-in-agentic-capabilities-under-apache-2-0/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/10/ibm_logl_neural_network.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-26T10:37:56+00:00"
+    },
+    {
+      "id": "46f968b969025f77",
+      "title": "Anthropic sees a market opportunity of more than $30 trillion ahead of its IPO",
+      "summary": "A Anthropic quer vender aos investidores uma oportunidade de mercado teórica avaliada em mais de US$ 30 trilhões antes de seu planejado IPO. O artigo Antrópico vê oportunidade de mercado de…",
+      "link": "https://the-decoder.com/anthropic-sees-a-market-opportunity-of-more-than-30-trillion-ahead-of-its-ipo/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-26T10:02:39+00:00"
+    },
+    {
+      "id": "ffbaae684dd5d43e",
+      "title": "Criado com IA",
+      "summary": "Quando meu filho mais velho nasceu, configurei imediatamente contas do Gmail e do Twitter em nome dela. Anunciei amplamente seu nascimento online e comecei a colar sua foto em todos…",
+      "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2025/06/mat_debrief.png?w=840",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-26T09:00:00+00:00"
+    },
+    {
+      "id": "ed3fcbbbde771c98",
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "summary": "Quebra-cabeças e jogos têm sido fundamentais para o desenvolvimento da IA ​​desde o início. Assim como nós, humanos, gostamos de testar nossa inteligência com palavras cruzadas ou quebra-cabeças lógicos, os desenvolvedores podem testar como…",
+      "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-26T09:00:00+00:00"
+    },
+    {
+      "id": "19637493f6c521db",
+      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+      "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of…",
+      "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-26T07:01:00+00:00"
+    },
     {
       "id": "4cfd2750e2cfd784",
       "title": "IBM Releases Granite 4.2: Bringing Native Reasoning and Agentic RL to Open Enterprise Models",
@@ -78,6 +243,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-26T00:06:20+00:00"
+    },
+    {
+      "id": "76c95cd852987031",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "link": "https://openai.com/index/loveholidays",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-26T00:00:00+00:00"
     },
     {
       "id": "e702be06b8494848",
@@ -815,182 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-24T15:24:18+00:00"
-    },
-    {
-      "id": "f81c4ee05f944f1b",
-      "title": "Linus Torvalds usou IA para corrigir um bug “infernal” no Linux",
-      "summary": "Linus Torvalds usou IA para resolver uma falha em um driver gráfico da Intel. Ele teve que insistir, pois a IA afirmou várias vezes que o problema era impossível de resolver…",
-      "link": "https://tecnoblog.net/noticias/linus-torvalds-usou-ia-para-corrigir-um-bug-infernal-no-linux/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/04/linux-linus-torvalds-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-24T15:16:16+00:00"
-    },
-    {
-      "id": "c7eebd61d7b38367",
-      "title": "\"Manobra\" do Windows 11 vai liberar mais de 90 GB de VRAM para IAs; veja como",
-      "summary": "A Microsoft está desenvolvendo um novo recurso nativo no Windows 11 que permitirá aos usuários escolher exatamente quanta memória RAM do sistema será dedicada às tarefas do chip…",
-      "link": "https://canaltech.com.br/hardware/manobra-do-windows-11-vai-liberar-mais-de-90-gb-de-vram-para-ias-veja-como/",
-      "image": "https://tl.ctcdn.com.br/1OE8mWxJHUczaTL4schnXOpq3c8=/0x0/filters:format(webp):quality(85)/076ed3ac-9d38-4437-bc8a-31403ae992d7.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-24T15:13:00+00:00"
-    },
-    {
-      "id": "a8a77e4504265570",
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-24T15:00:00+00:00"
-    },
-    {
-      "id": "2e46f869fa2d7268",
-      "title": "Rogue AI agent used fake accounts and a staged apology to push malware into an open-source project",
-      "summary": "A rogue AI agent staged a public apology as a deception tactic while quietly slipping fresh malware into its pull request. The article Rogue AI agent used fake accounts and a…",
-      "link": "https://the-decoder.com/rogue-ai-agent-used-fake-accounts-and-a-staged-apology-to-push-malware-into-an-open-source-project/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic-claude-for-teachers-book-apple-teaser.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-24T14:23:55+00:00"
-    },
-    {
-      "id": "84b8bf2811e5934e",
-      "title": "How to encourage smarter AI use in the classroom",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here…",
-      "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-24T14:20:19+00:00"
-    },
-    {
-      "id": "9c264944d0be25a2",
-      "title": "Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo",
-      "summary": "Generalist AI has released GEN-1.5, a robot foundation model that learns a new physical task from a single demonstration. Drop 3–12 seconds of sensorimotor data into its 30-second…",
-      "link": "https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-24T14:17:01+00:00"
-    },
-    {
-      "id": "be05bc45de2545e9",
-      "title": "Google Research Introduces ME-POIs: A Mobility-Informed Framework that Adds “How a Place Is Used” to Text-Based POI Embeddings",
-      "summary": "framework that folds aggregate human movement into text-based place embeddings. Language models describe what a place is; they miss how it is used. ME-POIs encodes each visit as a…",
-      "link": "https://www.marktechpost.com/2026/08/24/google-research-introduces-me-pois-a-mobility-informed-framework-that-adds-how-a-place-is-used-to-text-based-poi-embeddings/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-24T13:56:59+00:00"
-    },
-    {
-      "id": "31b723a5435bb55d",
-      "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic",
-      "summary": "Thomson Reuters is launching \"Thomson,\" its own language model built on Alibaba's Qwen, at a cost of about $40 million over two years. But the benchmarks only show top marks when…",
-      "link": "https://the-decoder.com/thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Thomson-Reuters-title.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-24T12:59:43+00:00"
-    },
-    {
-      "id": "dc898ad9320d57e1",
-      "title": "Do PC tradicional ao AI PC: a arquitetura entra em uma nova era",
-      "summary": "Ao analisarmos a evolução dos computadores pessoais nas últimas décadas, vemos que ela foi pautada por ganhos de velocidade, gráficos mais avançados nos games, telas melhores e…",
-      "link": "https://canaltech.com.br/hardware/do-pc-tradicional-ao-ai-pc-a-arquitetura-entra-em-uma-nova-era/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-24T12:27:01+00:00"
-    },
-    {
-      "id": "abd52c9f1dde403e",
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "link": "https://openai.com/index/gpt-5-6-in-kiro",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-24T12:00:00+00:00"
-    },
-    {
-      "id": "048c953ae8c5cd90",
-      "title": "IA brasileira para processos judiciais já vale US$ 1,2 bilhão",
-      "summary": "A startup brasileira Enter chegou a US$ 1,2 bilhão em valor após captar mais de US$ 100 milhões para aplicar IA no setor jurídico O post IA brasileira para processos judiciais já…",
-      "link": "https://olhardigital.com.br/2026/08/24/inteligencia-artificial/ia-brasileira-para-processos-judiciais-ja-vale-us-12-bilhao/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/ia_justica-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-24T11:14:45+00:00"
-    },
-    {
-      "id": "5708dad57428fd18",
-      "title": "Anel inteligente mede sono errado? Criadora da categoria, Oura é processada",
-      "summary": "Uma ação coletiva proposta nos Estados Unidos acusa a Oura de exagerar a precisão dos recursos de monitoramento do sono de seus anéis inteligentes. A empresa conhecida por…",
-      "link": "https://canaltech.com.br/produtos/anel-inteligente-mede-sono-errado-criadora-da-categoria-oura-e-processada/",
-      "image": "https://tl.ctcdn.com.br/HyayxuDwWKl5RVcF0m52sQ7B4tA=/0x0/filters:format(webp):quality(85)/2fa881d5-bd87-4f7a-b879-e56bcae83fae.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-24T10:54:30+00:00"
-    },
-    {
-      "id": "ce26459763373629",
-      "title": "Cerebras unveils CS-4 with double the performance on the same chip",
-      "summary": "Cerebras has introduced its CS-4 AI accelerator, which CEO Andrew Feldman calls the fastest system in the industry. The article Cerebras unveils CS-4 with double the performance…",
-      "link": "https://the-decoder.com/cerebras-unveils-cs-4-with-double-the-performance-on-the-same-chip/",
-      "image": "https://the-decoder.com/wp-content/uploads/2024/03/WSE-3-title.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-24T10:16:06+00:00"
-    },
-    {
-      "id": "58c1322da332d1eb",
-      "title": "AI chatbots regularly link pregnant users to anti-abortion websites without disclosure",
-      "summary": "Quando questionados sobre gravidezes não planeadas, os chatbots de IA ligam-se regularmente a grupos anti-aborto sem revelar a sua posição. Em uma investigação do AlgorithmWatch de 270 respostas…",
-      "link": "https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/search_trash_ai.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-24T10:00:51+00:00"
-    },
-    {
-      "id": "baf89b9624bd1b24",
-      "title": "As crianças aprendem mais que a IA – e ainda não sabemos porquê",
-      "summary": "As pessoas conversam entre si há pelo menos 100 mil anos, até onde podemos dizer. E em todo esse tempo, só houve uma coisa no mundo que poderia aprender um humano…",
-      "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/2_Mobile.jpg?w=840",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-24T09:00:00+00:00"
-    },
-    {
-      "id": "3c707179b44a8588",
-      "title": "Nvidia em negociações para investir na Perplexity com avaliação de mais de US$ 30 bilhões",
-      "summary": "A Nvidia está negociando um investimento na Perplexity com uma avaliação acima de US$ 30 bilhões, mais de 50% superior à sua última rodada de financiamento, relata The Information. Perplexidade…",
-      "link": "https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-24T08:44:48+00:00"
     }
   ]
 }
