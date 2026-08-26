@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-08-26T01:11:19.176047+00:00",
+  "generated_at": "2026-08-26T06:44:55.253352+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "4cfd2750e2cfd784",
+      "title": "IBM Releases Granite 4.2: Bringing Native Reasoning and Agentic RL to Open Enterprise Models",
+      "summary": "IBM has released Granite 4.2, a family of open reasoning language models in 3B, 8B, and 30B sizes, all under Apache 2.0. Every model exposes a thinking / low-effort / non-thinking…",
+      "link": "https://www.marktechpost.com/2026/08/25/ibm-releases-granite-4-2-bringing-native-reasoning-and-agentic-rl-to-open-enterprise-models/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-26T05:48:10+00:00"
+    },
+    {
+      "id": "355d8aee33bd32ed",
+      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+      "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-26T03:30:00+00:00"
+    },
+    {
+      "id": "f4f7178bb4038037",
+      "title": "Elon Musk quer tirar a IA da Terra — entenda por quê",
+      "summary": "A SpaceX pretende lançar seus primeiros satélites de inteligência artificial com chips da Nvidia em 2027 O post Elon Musk quer tirar a IA da Terra — entenda por quê apareceu…",
+      "link": "https://olhardigital.com.br/2026/08/25/colunistas/elon-musk-quer-tirar-a-ia-da-terra-entenda-por-que/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-26T01:55:36+00:00"
+    },
+    {
+      "id": "d752da9e7a3a0101",
+      "title": "Fala AI: olimpíadas de humanoides consolidam liderança chinesa na robótica",
+      "summary": "A China tem dado um verdadeiro show na segunda edição dos Jogos Mundiais de Robôs Humanoides O post Fala AI: olimpíadas de humanoides consolidam liderança chinesa na robótica…",
+      "link": "https://olhardigital.com.br/2026/08/25/colunistas/fala-ai-olimpiadas-de-humanoides-consolidam-lideranca-chinesa-na-robotica/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-26T01:53:56+00:00"
+    },
+    {
+      "id": "1d248f646935a1c5",
+      "title": "OpenAI perde mais um executivo",
+      "summary": "Chris Malone, responsável pela área de data centers da empresa, deixou a companhia na semana passada O post OpenAI perde mais um executivo apareceu primeiro em Olhar Digital .",
+      "link": "https://olhardigital.com.br/2026/08/25/pro/openai-perde-mais-um-executivo/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/openai-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-26T01:08:25+00:00"
+    },
     {
       "id": "03b16224233a8746",
       "title": "Robotics startup Generalist reaches $3B valuation, sources say",
@@ -936,61 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-24T08:44:48+00:00"
-    },
-    {
-      "id": "55e74b5fda95ec78",
-      "title": "Melhores GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe e Groq classificados por preço publicado e energia contratada",
-      "summary": "As cinco maiores neoclouds de GPU agora rodam em modelos muito diferentes. CoreWeave e Nebius reportam à SEC; Lambda e Crusoe são privadas e caminham para IPOs; Groq se reconstruiu…",
-      "link": "https://www.marktechpost.com/2026/08/23/best-gpu-neoclouds-2026/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-24T05:26:43+00:00"
-    },
-    {
-      "id": "680a57c91764fc26",
-      "title": "Análise de dados científicos com LabPlot em Python: processamento de sinal, ajuste de pico espectral, visualização e automação de lote",
-      "summary": "Neste tutorial, exploramos um fluxo de trabalho de análise de dados científicos inspirado no LabPlot em Python, preservando a estrutura e a terminologia da árvore de aspectos do LabPlot, análise…",
-      "link": "https://www.marktechpost.com/2026/08/23/scientific-data-analysis-with-labplot-in-python-signal-processing-spectral-peak-fitting-visualization-and-batch-automation/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-24T03:32:30+00:00"
-    },
-    {
-      "id": "f5a235b4aec9b01d",
-      "title": "5 filmes de 2026 que todo mundo sabia que ia flopar e flopou",
-      "summary": "Enquanto Homem-Aranha: Um Novo Dia e A Odisseia batem recordes surpreendentes de bilheteria nas telonas, outros filmes lançados em 2026 não tiveram a mesma sorte, tornando-se…",
-      "link": "https://canaltech.com.br/entretenimento/filmes-maiores-flops-2026/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-23T21:00:00+00:00"
-    },
-    {
-      "id": "51491c877ef7428f",
-      "title": "IA freia crescimento salarial antes de cortar vagas",
-      "summary": "Trabalhadores mais expostos à IA viram aumento nos salários desacelerar, veja o ranking das profissões mais afetadas O post IA freia crescimento salarial antes de cortar vagas…",
-      "link": "https://olhardigital.com.br/2026/08/23/pro/ia-freia-crescimento-salarial-antes-de-cortar-vagas/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-23T20:39:37+00:00"
-    },
-    {
-      "id": "1538fb9c10b7b42c",
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-23T20:01:36+00:00"
     }
   ]
 }
