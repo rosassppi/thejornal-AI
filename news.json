@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-08-26T19:46:03.709946+00:00",
+  "generated_at": "2026-08-27T07:23:09.228430+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "619c1684ab8d35ba",
+      "title": "Nvidia compra Hugging Face por US$ 12,9 bilhões à medida que laboratórios fechados de IA se afastam",
+      "summary": "A Nvidia está comprando a plataforma de IA de código aberto Hugging Face por US$ 12,9 bilhões, cerca de 80 vezes sua receita anual de US$ 150 milhões. O acordo se enquadra no esforço da Nvidia para investir bilhões em IA aberta…",
+      "link": "https://the-decoder.com/nvidia-snaps-up-hugging-face-for-12-9-billion-as-closed-ai-labs-pull-away/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/hugging_face_security.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-27T07:14:38+00:00"
+    },
+    {
+      "id": "48f9521226b49ebc",
+      "title": "Nvidia se aproxima da aquisição da Hugging Face",
+      "summary": "A Nvidia teria concordado em comprar o Hugging Face, o popular centro de IA de código aberto, por US$ 12,9 bilhões, em um movimento que permitiria à Nvidia proteger seu império de chips e voltar para…",
+      "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-27T06:32:51+00:00"
+    },
+    {
+      "id": "6c980620a1850530",
+      "title": "Google Research apresenta GlucoFM: um modelo de base de fluxo duplo com parâmetro de 0,72M para monitoramento contínuo de glicose",
+      "summary": "O Google Research e a UNSW Sydney lançaram o GlucoFM, um modelo básico auto-supervisionado que divide um traço CGM em um fluxo fisiológico lento e um fluxo de eventos transitórios…",
+      "link": "https://www.marktechpost.com/2026/08/26/google-research-introduces-glucofm-a-0-72m-parameter-dual-stream-foundation-model-for-continuous-glucose-monitoring/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-27T04:13:44+00:00"
+    },
+    {
+      "id": "745d673f45eb476d",
+      "title": "A startup de IA viral Instinct arrecadou US$ 350 milhões com uma avaliação de US$ 2,5 bilhões",
+      "summary": "A startup tem apenas um ano, mas já gerou uma enorme quantidade de entusiasmo (e dinheiro), ao mesmo tempo que estimulou preocupações com a privacidade.",
+      "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-27T00:24:57+00:00"
+    },
+    {
+      "id": "113b9124930fb9ca",
+      "title": "Inteligência artificial em cinco números que revelam sua escala",
+      "summary": "Investimento, usuários, consumo de energia, impacto no trabalho e adoção corporativa: os números que dimensionam a corrida da IA no mundo O post Inteligência artificial em cinco…",
+      "link": "https://olhardigital.com.br/2026/08/26/pro/inteligencia-artificial-em-cinco-numeros-que-revelam-sua-escala/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-27T00:00:00+00:00"
+    },
+    {
+      "id": "d949d26fe8757800",
+      "title": "A Amazon acaba de triplicar seu pedido de chips Nvidia devido à ‘demanda crescente’",
+      "summary": "A Amazon adicionará mais 2 milhões de chips GPU Nvidia aos seus data centers nos próximos dois anos. Mas esta parceria ampliada vai além da compra de mais chips.",
+      "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-26T23:47:18+00:00"
+    },
+    {
+      "id": "70e27c4a6951354c",
+      "title": "União Europeia força Big Techs a rotularem conteúdo feito por IA",
+      "summary": "A União Europeia começou a aplicar novas regras de transparência para conteúdos criados ou modificados por inteligência artificial (IA). O Artigo 50 do AI Act, que entrou em vigor…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/uniao-europeia-forca-big-techs-a-rotularem-conteudo-feito-por-ia/",
+      "image": "https://tl.ctcdn.com.br/1X764xPDI_Wv1XBAouqSibiohoE=/0x0/filters:format(webp):quality(85)/3b5477d1-a3ad-4864-ae4a-9fe2c4e4f72d.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-26T22:03:00+00:00"
+    },
+    {
+      "id": "b9ce01e97ba793c8",
+      "title": "A Nvidia está prestes a ser uma empresa de cem bilhões de dólares por trimestre",
+      "summary": "A Nvidia prevê que obterá receitas de US$ 108 bilhões em apenas alguns meses. Não seria a primeira empresa a arrecadar mais de US$ 100 bilhões em receita trimestral - Amazon…",
+      "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-26T21:40:53+00:00"
+    },
+    {
+      "id": "e518d876024c9185",
+      "title": "Anthropic continua onda de consumo de computação em acordo de US$ 45 bilhões com a Nscale",
+      "summary": "O novo acordo com o fornecedor de infraestrutura é o exemplo mais recente da onda de devoração de computação da Anthropic.",
+      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-26T21:37:39+00:00"
+    },
+    {
+      "id": "1d6661841b379093",
+      "title": "O incidente do modelo de IA desonesto da OpenAI foi pior do que pensávamos",
+      "summary": "Em julho, um modelo OpenAI inédito saiu de um ambiente restrito, descobriu como obter acesso à internet, permitiu que agentes de IA conversassem entre si usando um segredo…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-26T21:36:06+00:00"
+    },
+    {
+      "id": "b3133ca7ccf1f882",
+      "title": "Z.ai lança GLM-5.3-Flash: um MoE nativamente multimodal 320B-A18B com um contexto de token de 1M",
+      "summary": "Z.ai lançou GLM-5.3-Flash, o primeiro modelo nativamente multimodal da série GLM-5 - um MoE total de 320B / 18B ativo com uma janela de contexto de 1.048.576 tokens, licenciado pelo MIT…",
+      "link": "https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-26T21:33:23+00:00"
+    },
+    {
+      "id": "33551649b5338a91",
+      "title": "Agentes de IA destinados a substituir trabalhadores Meta realizaram “ações disruptivas em grande escala”",
+      "summary": "Relatório mostra os desafios da Meta em substituir pessoas por agentes de IA.",
+      "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-26T21:25:27+00:00"
+    },
     {
       "id": "0d6db5e26a89fbbd",
       "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
@@ -102,6 +234,17 @@
       "published_at": "2026-08-26T17:05:00+00:00"
     },
     {
+      "id": "153ea7996c620ba3",
+      "title": "Capital F fecha fundo de estreia de US$ 17 milhões com objetivo de apoiar o futuro da ‘economia feminina’",
+      "summary": "A empresa apoia empresas que constroem a “economia feminina”, ou os mercados onde as mulheres impulsionam a procura – saúde da mulher, comércio digital e ferramentas de IA.",
+      "link": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-26T17:00:00+00:00"
+    },
+    {
       "id": "b9b7e9271a29b3a2",
       "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
       "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new…",
@@ -133,6 +276,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-26T15:47:28+00:00"
+    },
+    {
+      "id": "06e64728eba78e7b",
+      "title": "A equipe Qwen do Alibaba lança Qwen3.8-Flash-Next: um MoE multimodal de 125B com parâmetros ativos de 6B, visualizando a arquitetura Qwen4",
+      "summary": "Analisamos o Qwen3.8-Flash-Next, o modelo multimodal de mistura de especialistas de peso aberto do Alibaba e uma prévia da arquitetura Qwen4. Detalhamos onde estão os parâmetros 180B…",
+      "link": "https://www.marktechpost.com/2026/08/26/alibabas-qwen-team-releases-qwen3-8-flash-next-a-125b-multimodal-moe-with-6b-active-parameters-previewing-the-qwen4-architecture/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-8.19.31-AM-1.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-26T15:20:00+00:00"
     },
     {
       "id": "d412f804d0e5fb51",
@@ -199,6 +353,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-26T14:30:00+00:00"
+    },
+    {
+      "id": "72d9a675161583ad",
+      "title": "O que deveria ser verdade para que a codificação Agentic substituísse os engenheiros juniores",
+      "summary": "Quatro condições falsificáveis ​​para codificação de agente substituindo juniores, testadas contra evidências de fonte primária METR, OpenAI, DORA e Stanford A postagem O que teria que ser verdade para…",
+      "link": "https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-26T14:20:35+00:00"
     },
     {
       "id": "c5fcdc890274653f",
@@ -509,6 +674,17 @@
       "published_at": "2026-08-26T00:06:20+00:00"
     },
     {
+      "id": "34e62ff4c7cf4def",
+      "title": "O incidente do Hugging Face e o caminho a seguir",
+      "summary": "A OpenAI compartilha as descobertas do incidente de segurança Hugging Face e as etapas que estamos tomando para fortalecer a segurança, o monitoramento e o alinhamento do modelo de IA.",
+      "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-26T00:00:00+00:00"
+    },
+    {
       "id": "76c95cd852987031",
       "title": "How loveholidays is making everyone a builder with Codex",
       "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
@@ -815,182 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-25T13:43:40+00:00"
-    },
-    {
-      "id": "12cea9588a55c56d",
-      "title": "Apple's new desktop computers are designed specifically for local AI development",
-      "summary": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
-      "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Mac-Studio-2026-500x500-1787611186.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-25T13:00:11+00:00"
-    },
-    {
-      "id": "79f6641c4618a997",
-      "title": "Keenable, apoiado pela Accel, está indexando a web para agentes de IA",
-      "summary": "Agora saindo do modo furtivo com uma rodada inicial de US$ 26 milhões, a Keenable vem construindo um vasto índice de pesquisa na web para agentes de IA.",
-      "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-25T13:00:00+00:00"
-    },
-    {
-      "id": "eb9f63f8cab83393",
-      "title": "Nvidia says its Groq 3 LPX is four times faster than Cerebras, but the math is more complicated",
-      "summary": "Nvidia is moving its Groq 3 LPX inference chip into full production and reports 3,400 tokens per second on Gemma 4 31B, four times faster than Cerebras. But the numbers don't tell…",
-      "link": "https://the-decoder.com/nvidia-says-its-groq-3-lpx-is-four-times-faster-than-cerebras-but-the-math-is-more-complicated/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/09/NVIDIA-Vera-Rubin-NVL144-with-Tray.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-25T12:27:57+00:00"
-    },
-    {
-      "id": "2bf0cea60f291fe5",
-      "title": "Ukraine opens its massive labeled battlefield dataset to British firms in a landmark AI weapons partnership",
-      "summary": "The UK becomes the first country to get access to Avengers Labs, Ukraine's platform holding roughly five million annotated combat images for training military AI. Three British…",
-      "link": "https://the-decoder.com/ukraine-opens-its-massive-labeled-battlefield-dataset-to-british-firms-in-a-landmark-ai-weapons-partnership/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Prime_Minister_Andy_Burnham_meets_Ukrainian_President_Volodymyr_Zelenskyy-scaled.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-25T12:16:41+00:00"
-    },
-    {
-      "id": "172b9cf85a26d986",
-      "title": "Amazon e Twitch são processadas por usar lives sem permissão para treinar IA",
-      "summary": "Amazon e Twitch foram alvo de uma ação coletiva movida por um streamer que acusa as empresas de usar transmissões ao vivo para treinar modelos de inteligência artificial sem…",
-      "link": "https://canaltech.com.br/mercado/amazon-e-twitch-sao-processadas-por-usar-lives-sem-permissao-para-treinar-ia/",
-      "image": "https://tl.ctcdn.com.br/TA6JI7KUY2d-MYm_mQbAUcm7hcQ=/0x0/filters:format(webp):quality(85)/c5a67a5e-3628-4eaf-aa75-1e5dcff524d5.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-25T12:04:54+00:00"
-    },
-    {
-      "id": "ee865b3ef8334b72",
-      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-      "summary": "TechCrunch conversa com agentes, UX e relatórios para Greg Brockman com o chefe de produto da OpenAI.",
-      "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-25T12:00:00+00:00"
-    },
-    {
-      "id": "f1c76f23a788b688",
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "summary": "",
-      "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-25T11:39:24+00:00"
-    },
-    {
-      "id": "af0bc438b5c8cb0f",
-      "title": "Defesa antiaérea doméstica: laser caça mosquitos no ar",
-      "summary": "Aparelho da Photon Matrix usa laser, IA e LiDAR para caçar mosquitos, com bateria de até quatro horas e versão interna também O post Defesa antiaérea doméstica: laser caça…",
-      "link": "https://olhardigital.com.br/2026/08/25/olha-isso/defesa-antiaerea-domestica-laser-caca-mosquitos-no-ar/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/laser-mosquito-1-1024x693.webp",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-25T11:20:56+00:00"
-    },
-    {
-      "id": "f39627622f1712e7",
-      "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems",
-      "summary": "Alabama Attorney General Steve Marshall is investigating OpenAI over what he calls an \"AI lab leak.\" The probe follows the July 2026 Hugging Face incident, where an OpenAI agent…",
-      "link": "https://the-decoder.com/alabama-is-investigating-openai-following-an-uncontrolled-ai-agent-hack/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/cybersecurity-kraken-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-25T10:24:13+00:00"
-    },
-    {
-      "id": "6c2861183e872b5c",
-      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-      "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-25T09:15:03+00:00"
-    },
-    {
-      "id": "ab5c691f4b17a605",
-      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology…",
-      "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/map.jpg?w=840",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-25T09:00:00+00:00"
-    },
-    {
-      "id": "cbdfe5abb45f27c3",
-      "title": "Taiwanese cybersecurity firm warns that AI tools have more than doubled Chinese state-backed cyberattacks",
-      "summary": "Chinese state-backed hacking groups have more than doubled their attacks since they started using AI models like DeepSeek to write exploit code and scan networks, according to…",
-      "link": "https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/china_flag_visual-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-25T08:40:14+00:00"
-    },
-    {
-      "id": "51cfe3db04ed0bd3",
-      "title": "A pilha completa por trás da inteligência abundante",
-      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-      "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-25T07:05:00+00:00"
-    },
-    {
-      "id": "b9406ae170bd9133",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "summary": "Jalapeño é um chip de inferência personalizado da OpenAI que oferece inferência de IA mais rápida e eficiente em termos de energia, com maior rendimento e menor latência para modelos modernos.",
-      "link": "https://openai.com/index/jalapeno-first-results",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-25T07:00:00+00:00"
-    },
-    {
-      "id": "fca9bf5a36c4ef89",
-      "title": "Folha de S.Paulo entra com processo contra Perplexity",
-      "summary": "Processo também pede indenização pelo uso indevido das reportagens no treinamento dos modelos de IA e pela entrega de resumos e cópias de matérias jornalísticas aos internautas O…",
-      "link": "https://olhardigital.com.br/2026/08/24/pro/folha-de-s-paulo-entra-com-processo-contra-perplexity/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/12/Navegador-Comet-da-Perplexity-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-25T01:40:01+00:00"
-    },
-    {
-      "id": "fc86cf3e9da11a7b",
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-      "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-25T00:23:12+00:00"
     }
   ]
 }
