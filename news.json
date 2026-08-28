@@ -1,7 +1,293 @@
 {
-  "generated_at": "2026-08-28T09:37:26.676603+00:00",
+  "generated_at": "2026-08-28T21:43:49.680886+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "601d1fa91d0fd347",
+      "title": "O que você fala com o ChatGPT pode ser usado contra você?",
+      "summary": "Conversas com inteligência artificial não têm o mesmo sigilo de uma relação entre advogado e cliente, mas são protegidas por regras de privacidade e podem ser acessadas em…",
+      "link": "https://olhardigital.com.br/2026/08/28/inteligencia-artificial/o-que-voce-fala-com-o-chatgpt-pode-ser-usado-contra-voce/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/08/chatgpt-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-28T20:36:23+00:00"
+    },
+    {
+      "id": "7f0374631f4fcd05",
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-28T20:24:11+00:00"
+    },
+    {
+      "id": "50a4da63e2d691ae",
+      "title": "Óculos com câmera podem ganhar trava física contra gravações escondidas",
+      "summary": "A Meta estuda uma nova forma de impedir o uso escondido das câmeras de óculos inteligentes. Uma patente concedida recentemente à empresa apresenta um interruptor físico capaz de…",
+      "link": "https://canaltech.com.br/produtos/oculos-com-camera-podem-ganhar-trava-fisica-contra-gravacoes-escondidas/",
+      "image": "https://tl.ctcdn.com.br/BQFX92m-eH_G63M5SgMl-5IXCro=/0x0/filters:format(webp):quality(85)/eec11305-7612-42c9-9bf1-11056fff2f71.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-28T20:23:30+00:00"
+    },
+    {
+      "id": "a75f9d8e6d4ec390",
+      "title": "Claude apagou 700 GB de dados de usuário por engano",
+      "summary": "IA da Anthropic falhou ao criar um script e deletou uma semana inteira de trabalho de um desenvolvedor. Claude apagou 700 GB de dados de usuário por engano",
+      "link": "https://tecnoblog.net/noticias/claude-apagou-700-gb-de-dados-de-um-usuario-por-engano/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-7-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-28T19:53:46+00:00"
+    },
+    {
+      "id": "f577c801f64eeaa2",
+      "title": "Google muda limites de uso do Gemini Notebook; veja como ficou",
+      "summary": "Google anunciou que Gemini Notebook terá limites de uso baseados na complexidade e extensão das tarefas a partir de 2 de setembro. Google muda limites de uso do Gemini Notebook…",
+      "link": "https://tecnoblog.net/noticias/google-muda-limites-de-uso-do-gemini-notebook-veja-como-ficou/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/google-gemini-notebook-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-28T19:36:44+00:00"
+    },
+    {
+      "id": "8152c5575eb2f621",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-28T19:30:38+00:00"
+    },
+    {
+      "id": "c118559786195696",
+      "title": "GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture",
+      "summary": "Z.ai and Qwen independently shipped near-identical architectures: 3:1 linear hybrids, compressed indexers, gated residuals, and Muon training. The post GLM-5.3-Flash vs…",
+      "link": "https://www.marktechpost.com/2026/08/28/glm-5-3-flash-vs-qwen3-8-flash-next-two-chinese-ai-labs-independently-converge-on-the-same-model-architecture/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-28T19:12:21+00:00"
+    },
+    {
+      "id": "66eb1d41289d4e7f",
+      "title": "Meta fecha brecha que permitia gravações escondidas com óculos inteligentes",
+      "summary": "Smart Glasses da Meta deixarão de gravar se o usuário cobrir o LED durante a filmagem. Meta fecha brecha que permitia gravações escondidas com óculos inteligentes",
+      "link": "https://tecnoblog.net/noticias/meta-fecha-brecha-que-permitia-gravacoes-escondidas-com-oculos-inteligentes/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/m6ua1qq5290.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-28T19:07:55+00:00"
+    },
+    {
+      "id": "935efc0a6948f550",
+      "title": "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers",
+      "summary": "Google Deepmind has expanded Co-Scientist from a hypothesis generator into a research system that's integrated into the lab. Across three disciplines, from materials synthesis to…",
+      "link": "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/gemini_ai_scientist.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-28T18:46:27+00:00"
+    },
+    {
+      "id": "fea5f6e87ebd6823",
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "summary": "There's a lot of capital pouring into the business of giving models away.",
+      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-28T18:19:40+00:00"
+    },
+    {
+      "id": "a1395b4e087f2545",
+      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+      "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-500x500-1773164045.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-28T18:07:55+00:00"
+    },
+    {
+      "id": "56c90591ffa8fe70",
+      "title": "Vercel AI Open-Sources vgpu: A TypeScript WebGPU Library for AI Agent Shaders",
+      "summary": "Vercel has open-sourced vgpu, the WebGPU library it built to ship the shaders on vercel.com. It treats .wgsl files as importable TypeScript modules, runs the same shader in the…",
+      "link": "https://www.marktechpost.com/2026/08/28/vercel-vgpu-webgpu-library-open-source/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/vgpu-comparison-table.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-28T17:28:47+00:00"
+    },
+    {
+      "id": "7750fe415e7d78b5",
+      "title": "Trump’s EPA wants to let data centers hide their air pollution",
+      "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-28T16:28:40+00:00"
+    },
+    {
+      "id": "d35873ce5df7b503",
+      "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+      "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
+      "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2235448062-500x500-1787929400.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-28T15:42:24+00:00"
+    },
+    {
+      "id": "ffa26d2d107e1758",
+      "title": "Empresas de IA alertam: o prazo para se preparar contra ataques é curto",
+      "summary": "OpenAI, Anthropic e Microsoft defendem mais financiamento governamental, acesso antecipado a tecnologias de defesa e estratégias coordenadas de resposta. Empresas de IA alertam: o…",
+      "link": "https://tecnoblog.net/noticias/empresas-de-ia-alertam-o-prazo-para-se-preparar-contra-ataques-e-curto/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/capas-iasartboard-2-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-28T15:31:51+00:00"
+    },
+    {
+      "id": "d3a3ec4e109e63ee",
+      "title": "Esqueceu de pagar o boleto? IA do C6 Bank agora cria lembretes no app",
+      "summary": "O C6 Bank estreou a função Lembretes no C6 Assistant , assistente de IA da fintech. Anunciado nesta sexta-feira (28) em primeira mão ao Canaltech , o recurso permite criar avisos…",
+      "link": "https://canaltech.com.br/apps/esqueceu-de-pagar-o-boleto-ia-do-c6-bank-agora-cria-lembretes-no-app/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-28T15:03:51+00:00"
+    },
+    {
+      "id": "3341c9c252af7e0e",
+      "title": "Anthropic obtém vitória contra Pentágono na Justiça dos EUA",
+      "summary": "Juíza considera que sanções impostas são ilegais, arbitrárias e movidas por caprichos. Empresa não quis liberar uso de IA para vigilância e armas autônomas. Anthropic obtém…",
+      "link": "https://tecnoblog.net/noticias/anthropic-obtem-vitoria-contra-pentagono-na-justica-dos-eua/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-1-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-28T14:25:31+00:00"
+    },
+    {
+      "id": "5de4c8c1126e2f03",
+      "title": "Google tira time de segurança de IA do DeepMind",
+      "summary": "Cerca de 90 funcionários que apontam riscos no desenvolvimento de inteligência artificial passam a integrar setor de Assuntos Globais. Google tira time de segurança de IA do…",
+      "link": "https://tecnoblog.net/noticias/google-tira-time-de-seguranca-de-ia-do-deepmind/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-2-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-28T13:53:12+00:00"
+    },
+    {
+      "id": "378023989f4b29de",
+      "title": "Galaxy S25 Plus com Snapdragon tem oferta em até 12x sem juros",
+      "summary": "Galaxy S25 Plus de 256 GB com processador avançado, tela de 120 Hz e Galaxy AI chega perto da metade do preço com cupom e pagamento parcelado na Amazon Galaxy S25 Plus com…",
+      "link": "https://tecnoblog.net/achados/galaxy-s25-plus-com-snapdragon-tem-oferta-em-ate-12x-sem-juros/",
+      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/amz.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-28T13:34:21+00:00"
+    },
+    {
+      "id": "8a14d245e71cac4e",
+      "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
+      "summary": "The firm, known for its focus on software, is going to start throwing more money at the hardware behind AI.",
+      "link": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-28T13:24:43+00:00"
+    },
+    {
+      "id": "ce5d705130e67e7a",
+      "title": "Startup lança fones com IA que gravam e resumem reuniões",
+      "summary": "Plaud One Explorer Edition tem 4G e armazenamento próprios para registrar áudios sem depender do celular. Startup lança fones com IA que gravam e resumem reuniões",
+      "link": "https://tecnoblog.net/noticias/startup-lanca-fones-com-ia-que-gravam-e-resumem-reunioes/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/tdybommnwa0.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-28T13:21:11+00:00"
+    },
+    {
+      "id": "9cafa9fd4dc1f6ae",
+      "title": "AI benchmarks have a trust problem and Google wants to fix it",
+      "summary": "Google Deepmind is testing a double-blind evaluation of a frontier AI model for the first time. Cryptographic protection through Confidential Space is meant to keep Google from…",
+      "link": "https://the-decoder.com/ai-benchmarks-have-a-trust-problem-and-google-wants-to-fix-it/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-28T13:15:10+00:00"
+    },
+    {
+      "id": "ca50f3998f6e2919",
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in…",
+      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-28T12:46:12+00:00"
+    },
+    {
+      "id": "1b0375ab2430808e",
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-28T12:21:06+00:00"
+    },
+    {
+      "id": "c99bc48722e3e1ff",
+      "title": "U.S. court rules Pentagon's blacklisting of Anthropic was unlawful",
+      "summary": "A federal court in San Francisco has ruled that the Pentagon unlawfully classified Anthropic as a supply chain risk. The Department of Defense blacklisted the company in…",
+      "link": "https://the-decoder.com/u-s-court-rules-pentagons-blacklisting-of-anthropic-was-unlawful/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/02/anthropic_pentagon-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-28T11:43:41+00:00"
+    },
+    {
+      "id": "ad7bdd1d0b7bf05d",
+      "title": "Beatport blocks fully AI-generated music from its DJ marketplace",
+      "summary": "Effective immediately, the DJ marketplace Beatport is banning music that is entirely or largely generated by AI. The article Beatport blocks fully AI-generated music from its DJ…",
+      "link": "https://the-decoder.com/beatport-blocks-fully-ai-generated-music-from-its-dj-marketplace/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Beatport-Beatdapp-AI-Detection.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-28T11:20:27+00:00"
+    },
     {
       "id": "71a97af40c765cf7",
       "title": "Always-on and self-starting AI agents might be OpenAI's next big play",
@@ -89,6 +375,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-28T01:07:00+00:00"
+    },
+    {
+      "id": "4d3b17a749f42c95",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "summary": "",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-28T00:00:00+00:00"
     },
     {
       "id": "edabaffd84062cd2",
@@ -366,17 +663,6 @@
       "published_at": "2026-08-27T16:15:52+00:00"
     },
     {
-      "id": "44945c70744e4749",
-      "title": "O modo AI do Google agora pode rastrear preços de voos, ajudar a reservar hotéis e muito mais",
-      "summary": "As atualizações indicam que o Google está procurando posicionar o AI Mode como uma espécie de agente de viagens de IA, já que está indo além de simplesmente ajudar os usuários a encontrar informações para realmente lidar com…",
-      "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-27T16:00:00+00:00"
-    },
-    {
       "id": "a1c9c66d73112465",
       "title": "Três novas maneiras de planejar e reservar viagens na Pesquisa",
       "summary": "Gráfico representando novos recursos de viagem para o Modo AI na Pesquisa",
@@ -385,6 +671,17 @@
       "source": "Google AI Blog",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-08-27T16:00:00+00:00"
+    },
+    {
+      "id": "44945c70744e4749",
+      "title": "O modo AI do Google agora pode rastrear preços de voos, ajudar a reservar hotéis e muito mais",
+      "summary": "As atualizações indicam que o Google está procurando posicionar o AI Mode como uma espécie de agente de viagens de IA, já que está indo além de simplesmente ajudar os usuários a encontrar informações para realmente lidar com…",
+      "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-08-27T16:00:00+00:00"
     },
     {
@@ -694,303 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-26T22:03:00+00:00"
-    },
-    {
-      "id": "b9ce01e97ba793c8",
-      "title": "A Nvidia está prestes a ser uma empresa de cem bilhões de dólares por trimestre",
-      "summary": "A Nvidia prevê que obterá receitas de US$ 108 bilhões em apenas alguns meses. Não seria a primeira empresa a arrecadar mais de US$ 100 bilhões em receita trimestral - Amazon…",
-      "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-26T21:40:53+00:00"
-    },
-    {
-      "id": "e518d876024c9185",
-      "title": "Anthropic continua onda de consumo de computação em acordo de US$ 45 bilhões com a Nscale",
-      "summary": "O novo acordo com o fornecedor de infraestrutura é o exemplo mais recente da onda de devoração de computação da Anthropic.",
-      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-26T21:37:39+00:00"
-    },
-    {
-      "id": "1d6661841b379093",
-      "title": "O incidente do modelo de IA desonesto da OpenAI foi pior do que pensávamos",
-      "summary": "Em julho, um modelo OpenAI inédito saiu de um ambiente restrito, descobriu como obter acesso à internet, permitiu que agentes de IA conversassem entre si usando um segredo…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-26T21:36:06+00:00"
-    },
-    {
-      "id": "b3133ca7ccf1f882",
-      "title": "Z.ai lança GLM-5.3-Flash: um MoE nativamente multimodal 320B-A18B com um contexto de token de 1M",
-      "summary": "Z.ai lançou GLM-5.3-Flash, o primeiro modelo nativamente multimodal da série GLM-5 - um MoE total de 320B / 18B ativo com uma janela de contexto de 1.048.576 tokens, licenciado pelo MIT…",
-      "link": "https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-26T21:33:23+00:00"
-    },
-    {
-      "id": "33551649b5338a91",
-      "title": "Agentes de IA destinados a substituir trabalhadores Meta realizaram “ações disruptivas em grande escala”",
-      "summary": "Relatório mostra os desafios da Meta em substituir pessoas por agentes de IA.",
-      "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-26T21:25:27+00:00"
-    },
-    {
-      "id": "0d6db5e26a89fbbd",
-      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
-      "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-26T19:37:34+00:00"
-    },
-    {
-      "id": "6e750eaece602786",
-      "title": "ChatGPT pode ter anúncios que colocam você para conversar com marcas",
-      "summary": "Novo formato permitiria interações de usuários com agentes de IA criados pelos patrocinadores. ChatGPT pode ter anúncios que colocam você para conversar com marcas",
-      "link": "https://tecnoblog.net/noticias/chatgpt-pode-ter-anuncios-que-colocam-voce-para-conversar-com-marcas/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/02/chatgpt-anuncios-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-26T19:34:44+00:00"
-    },
-    {
-      "id": "5a1bb02faa3fad42",
-      "title": "How do we explain OpenAI’s executive exodus?",
-      "summary": "Was Greg Brockman the right executive all along?",
-      "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-26T19:34:04+00:00"
-    },
-    {
-      "id": "091c9e89402f5f60",
-      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-      "summary": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
-      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-26T19:19:22+00:00"
-    },
-    {
-      "id": "a5c3f4d5e36b158a",
-      "title": "OpenAI releases its official report on the Hugging Face breach",
-      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
-      "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-26T19:05:22+00:00"
-    },
-    {
-      "id": "be20cc599a8c7b47",
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical…",
-      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-26T19:00:00+00:00"
-    },
-    {
-      "id": "22fb0b49fcecf900",
-      "title": "Hora de renovar o home office: impressoras em promoção na Amazon",
-      "summary": "Se você está pensando em trocar aquela impressora antiga ou finalmente adquirir um modelo mais econômico e eficiente, este é o momento certo. Reunimos três opções de impressoras…",
-      "link": "https://olhardigital.com.br/2026/08/26/reviews/hora-de-renovar-o-home-office-impressoras-em-promocao-na-amazon-2/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-26T18:40:00+00:00"
-    },
-    {
-      "id": "e31a67bfc71cbb62",
-      "title": "Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition",
-      "summary": "OpenAI's leadership believes AGI is within reach, according to a TIME report. The company's upcoming model Astra already works as an automated research intern, according to chief…",
-      "link": "https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_vis-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-26T17:30:29+00:00"
-    },
-    {
-      "id": "7ffb9254e832b118",
-      "title": "Como resgatar o Google AI Plus grátis para estudantes",
-      "summary": "O Google lançou uma oferta que dá 12 meses gratuitos do Google AI Plus para estudantes universitários. A iniciativa reúne recursos de inteligência artificial do Gemini e…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-resgatar-o-google-ai-plus-gratis-para-estudantes/",
-      "image": "https://tl.ctcdn.com.br/5Q8jm-cpysPTmmTb3lh8WA6o3mk=/0x0/filters:format(webp):quality(85)/6443c25f-47bf-4a8a-968f-87ac6aa5a8bf.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-26T17:05:00+00:00"
-    },
-    {
-      "id": "153ea7996c620ba3",
-      "title": "Capital F fecha fundo de estreia de US$ 17 milhões com objetivo de apoiar o futuro da ‘economia feminina’",
-      "summary": "A empresa apoia empresas que constroem a “economia feminina”, ou os mercados onde as mulheres impulsionam a procura – saúde da mulher, comércio digital e ferramentas de IA.",
-      "link": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-26T17:00:00+00:00"
-    },
-    {
-      "id": "b9b7e9271a29b3a2",
-      "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
-      "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new…",
-      "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-26T17:00:00+00:00"
-    },
-    {
-      "id": "a87f5927d9da0352",
-      "title": "Quem a IA vai substituir primeiro? Bill Gates lista profissões em risco e alerta para jovens",
-      "summary": "Vendedores, atendentes, desenvolvedores de software e advogados em início de carreira devem estar entre os primeiros afetados pelo avanço da inteligência artificial no mercado de…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/quem-a-ia-vai-substituir-primeiro-bill-gates-lista-profissoes-em-risco-e-alerta-para-jovens/",
-      "image": "https://tl.ctcdn.com.br/yXv6MbuKj9iY1UjsexAGjKQ3Y6A=/0x0/filters:format(webp):quality(85)/03626ba5-7f54-428a-9f66-839a3822c09b.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-26T16:02:00+00:00"
-    },
-    {
-      "id": "6bddd388692a55d8",
-      "title": "Radar makes podcasts searchable — and usable by AI agents",
-      "summary": "A nova plataforma de inteligência de podcast da Particle transcreve e analisa mais de 130.000 podcasts, tornando suas conversas pesquisáveis ​​na web e acessíveis aos agentes de IA…",
-      "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-26T15:47:28+00:00"
-    },
-    {
-      "id": "06e64728eba78e7b",
-      "title": "A equipe Qwen do Alibaba lança Qwen3.8-Flash-Next: um MoE multimodal de 125B com parâmetros ativos de 6B, visualizando a arquitetura Qwen4",
-      "summary": "Analisamos o Qwen3.8-Flash-Next, o modelo multimodal de mistura de especialistas de peso aberto do Alibaba e uma prévia da arquitetura Qwen4. Detalhamos onde estão os parâmetros 180B…",
-      "link": "https://www.marktechpost.com/2026/08/26/alibabas-qwen-team-releases-qwen3-8-flash-next-a-125b-multimodal-moe-with-6b-active-parameters-previewing-the-qwen4-architecture/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-8.19.31-AM-1.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-26T15:20:00+00:00"
-    },
-    {
-      "id": "d412f804d0e5fb51",
-      "title": "Controle total: ChatGPT agora faz login em sites para fazer tarefas por você",
-      "summary": "A OpenAI atualizou o ChatGPT Work para que o assistente consiga fazer login em sites protegidos por senha e concluir tarefas sem interromper o processo no meio do caminho . A…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/controle-total-chatgpt-agora-faz-login-em-sites-para-fazer-tarefas-por-voce/",
-      "image": "https://tl.ctcdn.com.br/28DMqV8TGvohJkaqdqNGus4tvko=/0x0/filters:format(webp):quality(85)/c0894921-89f1-4bcc-a078-5f7449ea56f6.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-26T15:00:01+00:00"
-    },
-    {
-      "id": "e4ac4d425bd6719c",
-      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
-      "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-26T15:00:00+00:00"
-    },
-    {
-      "id": "e7074e7d27d93c8c",
-      "title": "Bill Gates diz que indústria esconde riscos da IA para proteger lucros",
-      "summary": "Cofundador da Microsoft afirma que empresas de tecnologia minimizam os perigos da inteligência artificial para evitar prejuízos e proteger investimentos. Bill Gates diz que…",
-      "link": "https://tecnoblog.net/noticias/bill-gates-diz-que-industria-esconde-riscos-da-ia-para-proteger-lucros/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/03/4352209207_bf62662b48_b-e1615400072635-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-26T14:46:20+00:00"
-    },
-    {
-      "id": "1a1243af28cb11ea",
-      "title": "Alibaba releases Qwen3.8-Flash-Next, targeting \"ultimate cost efficiency\"",
-      "summary": "Alibaba's Qwen team is previewing the Qwen4 architecture with Qwen3.8-Flash-Next, a mixture-of-experts model that activates just 6 out of 125 billion parameters per token. At…",
-      "link": "https://the-decoder.com/alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/qwen_logo-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-26T14:40:09+00:00"
-    },
-    {
-      "id": "5f8c614f846ae530",
-      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
-      "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
-      "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-26T14:37:01+00:00"
-    },
-    {
-      "id": "ca54be2f354839cf",
-      "title": "Orquestração é o novo desafio para CX na era dos agentes de IA",
-      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to…",
-      "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1RK5pjHAxWRLsDy5iAC3Iy/4f9c39b5925645c365440e487ffe2157/Tata_hero.jpg?w=300&q=30",
-      "source": "VentureBeat",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-26T14:30:00+00:00"
-    },
-    {
-      "id": "72d9a675161583ad",
-      "title": "O que deveria ser verdade para que a codificação Agentic substituísse os engenheiros juniores",
-      "summary": "Quatro condições falsificáveis ​​para codificação de agente substituindo juniores, testadas contra evidências de fonte primária METR, OpenAI, DORA e Stanford A postagem O que teria que ser verdade para…",
-      "link": "https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-26T14:20:35+00:00"
-    },
-    {
-      "id": "c5fcdc890274653f",
-      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-      "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
-      "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-26T14:19:29+00:00"
     }
   ]
 }
