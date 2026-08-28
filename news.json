@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-08-27T21:47:25.480552+00:00",
+  "generated_at": "2026-08-28T09:37:26.676603+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "71a97af40c765cf7",
+      "title": "Always-on and self-starting AI agents might be OpenAI's next big play",
+      "summary": "OpenAI is building a \"Persistent Mode\" for its AI agent Codex that stays active indefinitely and generates its own follow-up tasks. WIRED found the relevant code, and OpenAI…",
+      "link": "https://the-decoder.com/always-on-and-self-starting-ai-agents-might-be-openais-next-big-play/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_large_right.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-28T08:03:22+00:00"
+    },
+    {
+      "id": "5b2a42c18edc8784",
+      "title": "Resumo do OD: eclipse no Brasil, lançamento histórico da NASA e o caso Meta",
+      "summary": "E mais: empresas de tecnologia assinaram uma carta pedindo prioridade à cibersegurança diante do avanço das IAs O post Resumo do OD: eclipse no Brasil, lançamento histórico da…",
+      "link": "https://olhardigital.com.br/2026/08/28/pro/resumo-do-od-eclipse-no-brasil-lancamento-historico-da-nasa-e-o-caso-meta/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Captura-de-Tela-2026-08-28-as-08.14.33-1024x564.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-28T05:39:30+00:00"
+    },
+    {
+      "id": "a85ab74c368eb11e",
+      "title": "Google AI Releases Gemini 3.5 Transcribe: A Speech-to-Text Model Reporting 2.6% Average WER Across 85+ Languages",
+      "summary": "Google has released Gemini 3.5 Transcribe, a speech-to-text model that ships as two separate endpoints rather than one. The streaming endpoint delivers sub-second transcription…",
+      "link": "https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-28T05:00:38+00:00"
+    },
+    {
+      "id": "06a4d38d1bd65b9b",
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-28T03:14:06+00:00"
+    },
+    {
+      "id": "14be0f889ee73b43",
+      "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
+      "summary": "A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh —…",
+      "link": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-28T02:02:44+00:00"
+    },
+    {
+      "id": "cb1db0d5c74b6e9e",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-28T02:00:00+00:00"
+    },
+    {
+      "id": "eb0251663e8dea39",
+      "title": "Samsung Galaxy S26 FE chega com processador mais potente e preço maior",
+      "summary": "Novo celular da linha Fan Edition mantém tela e câmeras do antecessor, mas traz Exynos 2500, Android 17 e novos recursos de IA O post Samsung Galaxy S26 FE chega com processador…",
+      "link": "https://olhardigital.com.br/2026/08/27/reviews/samsung-galaxy-s26-fe-chega-com-processador-mais-potente-e-preco-maior/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/galaxy_s26_fe.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-28T01:24:15+00:00"
+    },
+    {
+      "id": "8b76b76009f98291",
+      "title": "Anthropic deve divulgar prospecto de IPO no mês que vem",
+      "summary": "Empresa de IA pode estrear na bolsa entre o fim de setembro e o início de outubro, segundo reportagem O post Anthropic deve divulgar prospecto de IPO no mês que vem apareceu…",
+      "link": "https://olhardigital.com.br/2026/08/27/pro/anthropic-deve-divulgar-prospecto-de-ipo-no-mes-que-vem/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/anthropic-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-28T01:07:00+00:00"
+    },
+    {
+      "id": "edabaffd84062cd2",
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "summary": "No TechCrunch Disrupt 2026, o AI Stage está de volta para se aprofundar no tópico mais quente da comunidade nos últimos anos, apresentado pelo Google for Startups.",
+      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-27T23:16:45+00:00"
+    },
+    {
+      "id": "b6648a2b1e87f345",
+      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+      "summary": "Standardized driver interface aims to let devices talk to AI and each other.",
+      "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsdemo-500x500.png",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-27T22:15:43+00:00"
+    },
+    {
+      "id": "4be8656aff9997b1",
+      "title": "Meta atualiza óculos com IA para interromper gravação se LED for coberto",
+      "summary": "A Meta começou a distribuir nesta semana uma atualização que interrompe a gravação dos óculos com inteligência artificial caso o usuário cubra o LED indicador depois de iniciar a…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/meta-atualiza-oculos-com-ia-para-interromper-gravacao-se-led-for-coberto/",
+      "image": "https://tl.ctcdn.com.br/CIdCpUVtIgiOuBibgQi8kkb9-cY=/0x0/filters:format(webp):quality(85)/38117a3f-3bb9-435f-8d94-298eeaf0875c.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-27T22:00:01+00:00"
+    },
     {
       "id": "314cbfb7eba18c50",
       "title": "A xAI de Elon Musk usou pornografia infantil para treinar modelos Grok, diz o processo",
@@ -388,17 +509,6 @@
       "published_at": "2026-08-27T13:11:23+00:00"
     },
     {
-      "id": "99cc84f9dfaddb48",
-      "title": "Os novos fones de ouvido da Plaud vêm com um case habilitado para eSIM para conversar com agentes de IA",
-      "summary": "Chamados de Plaud One, eles adotam o estilo simples dos AirPods da Apple e podem gravar chamadas, enquanto seu case pode ser usado para gravar conversas pessoais ou fazer anotações.",
-      "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-27T13:00:00+00:00"
-    },
-    {
       "id": "adc17ded0689e328",
       "title": "Adobe está adicionando mais IA ao Photoshop",
       "summary": "A Adobe está lançando uma atualização pesada de IA para o Photoshop que inclui uma nova interface “opcional” dedicada às suas ferramentas de IA. Lançada em versão beta, a visualização \"AI Assisted Editor\" irá…",
@@ -407,6 +517,17 @@
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
+      "published_at": "2026-08-27T13:00:00+00:00"
+    },
+    {
+      "id": "99cc84f9dfaddb48",
+      "title": "Os novos fones de ouvido da Plaud vêm com um case habilitado para eSIM para conversar com agentes de IA",
+      "summary": "Chamados de Plaud One, eles adotam o estilo simples dos AirPods da Apple e podem gravar chamadas, enquanto seu case pode ser usado para gravar conversas pessoais ou fazer anotações.",
+      "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-08-27T13:00:00+00:00"
     },
     {
@@ -870,127 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-26T14:19:29+00:00"
-    },
-    {
-      "id": "591edace09f96e91",
-      "title": "Samsung lança Galaxy Book 6 no Brasil e reforça aposta no segmento premium",
-      "summary": "Nova geração de notebooks chega ao país com processadores Intel Core Ultra Série 3, recursos de IA e integração com o ecossistema Galaxy; preços começam em R$ 8.199 Samsung lança…",
-      "link": "https://tecnoblog.net/noticias/samsung-lanca-galaxy-book-6-no-brasil-e-reforca-aposta-no-segmento-premium/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/20260826_080206-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-26T14:00:00+00:00"
-    },
-    {
-      "id": "adcfa86139bf3c93",
-      "title": "Robot brain builders are pushing out of their GPT-2 era",
-      "summary": "Robot bodies are waiting for their AI brains to catch up.",
-      "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-26T13:30:00+00:00"
-    },
-    {
-      "id": "e11614d226fbd9e0",
-      "title": "Employee revolt and failing agents forced Meta to scrap its AI layoff plan",
-      "summary": "A Meta queria substituir muito mais de sua força de trabalho por IA do que se sabia anteriormente, de acordo com a Reuters, mas o plano fracassou sob o comando de funcionários e agentes rebeldes que não conseguiram…",
-      "link": "https://the-decoder.com/employee-revolt-and-failing-agents-forced-meta-to-scrap-its-ai-layoff-plan/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/Meta-AI-Agents.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-26T13:09:04+00:00"
-    },
-    {
-      "id": "153fa2e9730816fe",
-      "title": "Deepfakes pró-Kremlin colocam retórica de rendição na boca dos legisladores ucranianos",
-      "summary": "Pro-Kremlin Telegram channels are spreading AI-generated deepfake videos of two Ukrainian lawmakers who appear to call for peace talks. The clips racked up 130,000 views in two…",
-      "link": "https://the-decoder.com/pro-kremlin-deepfakes-put-surrender-rhetoric-in-the-mouths-of-ukrainian-lawmakers/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/deepfake_puppet_editorial.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-26T12:36:24+00:00"
-    },
-    {
-      "id": "a995b3464ba44113",
-      "title": "Testamos! Confira o review completo do Galaxy Watch 9",
-      "summary": "Novo smartwatch da Samsung mantém o design conhecido da linha e vem com novo processador e integração com IA O post Testamos! Confira o review completo do Galaxy Watch 9 apareceu…",
-      "link": "https://olhardigital.com.br/2026/08/26/reviews/testamos-confira-o-review-completo-do-galaxy-watch-9/",
-      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/08/watch91.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-26T12:15:00+00:00"
-    },
-    {
-      "id": "be2b47efe7b1915e",
-      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-      "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
-      "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-26T12:00:00+00:00"
-    },
-    {
-      "id": "37e010b17222a405",
-      "title": "Chinese Moonshot AI negocia acordos de hospedagem com Microsoft, Amazon e Google",
-      "summary": "A Chinese AI company could land its model on major US cloud platforms for the first time, taking a cut of the revenue. The article Chinese Moonshot AI negotiates hosting deals…",
-      "link": "https://the-decoder.com/chinese-moonshot-ai-negotiates-hosting-deals-with-microsoft-amazon-and-google/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/moonshot_ai_logos.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-26T11:54:17+00:00"
-    },
-    {
-      "id": "8a9934845bd8de0d",
-      "title": "Apple: quais serão os preços do Mac Mini e do Mac Studio no Brasil?",
-      "summary": "Apple atualiza Mac mini e Mac Studio com novos chips, mais memória e recursos para executar inteligência artificial localmente O post Apple: quais serão os preços do Mac Mini e do…",
-      "link": "https://olhardigital.com.br/2026/08/26/reviews/apple-quais-serao-os-precos-do-mac-mini-e-do-mac-studio-no-brasil/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Apple-Mac-Studio-DaVinci-Resolve-Studio-Houdini-and-Maxon-Redshift-260825_big.jpg.large_2x-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-26T11:15:30+00:00"
-    },
-    {
-      "id": "bccc41e585b95514",
-      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
-      "summary": "The focus is on agentic capability and predictable enterprise deployment.",
-      "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ollama-granite-500x500-1787698921.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-26T11:10:49+00:00"
-    },
-    {
-      "id": "83b416b43d924603",
-      "title": "Bill Gates está profundamente preocupado com a IA e não fica mais quieto",
-      "summary": "Bill Gates tem refletido muito sobre IA ultimamente, e o processo desencadeou um forte despertar. Outrora um firme otimista em IA, o cofundador da Microsoft agora está profundamente pessimista…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2095072875.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-26T11:07:40+00:00"
-    },
-    {
-      "id": "464d8fed05a70ff4",
-      "title": "Ar-condicionado portátil da Xiaomi usa IA para economizar energia",
-      "summary": "A Xiaomi lançou na China um novo ar-condicionado portátil que combina alta potência de refrigeração e aquecimento com recursos de inteligência artificial para economizar energia …",
-      "link": "https://canaltech.com.br/eletro/ar-condicionado-portatil-da-xiaomi-usa-ia-para-economizar-energia/",
-      "image": "https://tl.ctcdn.com.br/6ebUI5PFg_m7GJpeJpnbdSZ3YQI=/0x0/filters:format(webp):quality(85)/4f3b2e3a-9e91-4126-903d-84953a04fe25.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-26T11:06:10+00:00"
     }
   ]
 }
