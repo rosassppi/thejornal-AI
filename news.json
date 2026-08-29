@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-08-29T05:42:07.511696+00:00",
+  "generated_at": "2026-08-29T12:18:42.927528+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "86ee5b396cbb9320",
+      "title": "5 coisas que o Claude faz melhor que o Gemini",
+      "summary": "Atualmente, o Gemini, do Google, e o Claude, da Anthropic, estão entre as principais inteligências artificiais do mercado, mas seguem caminhos diferentes . O Gemini aposta na…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-claude-faz-melhor-que-gemini/",
+      "image": "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-29T11:00:01+00:00"
+    },
+    {
+      "id": "77d07dfa198412ae",
+      "title": "A IA precisa ser testada por quem pensa como um invasor",
+      "summary": "Especialista em cibersegurança da Core AI explica por que testar modelos de IA como um atacante testaria é hoje parte essencial do desenvolvimento seguro O post A IA precisa ser…",
+      "link": "https://olhardigital.com.br/2026/08/29/colunistas/a-ia-precisa-ser-testada-por-quem-pensa-como-um-invasor/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-29T10:00:00+00:00"
+    },
+    {
+      "id": "7aa56fc0b9a4e162",
+      "title": "LAION lança enorme conjunto de dados de vídeo aberto com 10 milhões de horas de filmagem para pesquisa de IA",
+      "summary": "O Big Video Dataset (BVD) da LAION é um dos maiores conjuntos de dados de vídeo abertos para pesquisa de IA, com 80 milhões de vídeos, 10 milhões de horas de execução e 55 milhões de descrições automáticas…",
+      "link": "https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/",
+      "image": "https://the-decoder.com/wp-content/uploads/2024/08/images_database_ai_generated_data_files_online_storage-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-29T09:36:48+00:00"
+    },
+    {
+      "id": "29f51850ae0ac0a7",
+      "title": "A Anthropic quer fazer pelo hardware físico o que seu Model Context Protocol fez pelo software",
+      "summary": "O Model Hardware Standard (MHS) da Anthropic oferece aos agentes de IA uma interface unificada para dispositivos físicos, como braços robóticos e instrumentos de laboratório. Nos primeiros testes, o tempo de integração caiu…",
+      "link": "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/mhs-ki-hardware-labore-fabriken.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-29T09:14:30+00:00"
+    },
+    {
+      "id": "8404bb29c92e9185",
+      "title": "OpenAI corta Cursor após aquisição da SpaceX, citando o histórico de quebra de contratos de Musk",
+      "summary": "A OpenAI está cortando a ferramenta de codificação de IA Cursor depois que a SpaceX adquiriu a empresa, citando o histórico de quebra de contratos de Elon Musk. O cofundador do Cursor, Michael Truell…",
+      "link": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-29T08:15:35+00:00"
+    },
+    {
+      "id": "39e4cdda6c550e1f",
+      "title": "Hugging Face revela Microduck: um bípede de 25 cm de código aberto de US$ 399 que você treina com aprendizado por reforço",
+      "summary": "Pollen Robotics, a equipe de robótica de Bordeaux da Hugging Face, abriu pré-encomendas do Microduck - um robô bípede de 25 cm onde cada movimento é uma política neural treinada em MuJoCo e…",
+      "link": "https://www.marktechpost.com/2026/08/28/pollen-robotics-hugging-face-microduck-399-open-source-rl-biped-robot/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-29T05:25:16+00:00"
+    },
     {
       "id": "e7e4a15e0ac52dc9",
       "title": "Meta corrige falha de privacidade em óculos inteligentes e tenta impedir gravação indevida",
@@ -925,72 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-08-27T09:00:00+00:00"
-    },
-    {
-      "id": "619c1684ab8d35ba",
-      "title": "Nvidia compra Hugging Face por US$ 12,9 bilhões à medida que laboratórios fechados de IA se afastam",
-      "summary": "A Nvidia está comprando a plataforma de IA de código aberto Hugging Face por US$ 12,9 bilhões, cerca de 80 vezes sua receita anual de US$ 150 milhões. O acordo se enquadra no esforço da Nvidia para investir bilhões em IA aberta…",
-      "link": "https://the-decoder.com/nvidia-snaps-up-hugging-face-for-12-9-billion-as-closed-ai-labs-pull-away/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/hugging_face_security.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T07:14:38+00:00"
-    },
-    {
-      "id": "48f9521226b49ebc",
-      "title": "Nvidia se aproxima da aquisição da Hugging Face",
-      "summary": "A Nvidia teria concordado em comprar o Hugging Face, o popular centro de IA de código aberto, por US$ 12,9 bilhões, em um movimento que permitiria à Nvidia proteger seu império de chips e voltar para…",
-      "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-27T06:32:51+00:00"
-    },
-    {
-      "id": "6c980620a1850530",
-      "title": "Google Research apresenta GlucoFM: um modelo de base de fluxo duplo com parâmetro de 0,72M para monitoramento contínuo de glicose",
-      "summary": "O Google Research e a UNSW Sydney lançaram o GlucoFM, um modelo básico auto-supervisionado que divide um traço CGM em um fluxo fisiológico lento e um fluxo de eventos transitórios…",
-      "link": "https://www.marktechpost.com/2026/08/26/google-research-introduces-glucofm-a-0-72m-parameter-dual-stream-foundation-model-for-continuous-glucose-monitoring/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-27T04:13:44+00:00"
-    },
-    {
-      "id": "fe23f369e01db08d",
-      "title": "Expandindo a presença da OpenAI no Brasil",
-      "summary": "A OpenAI está expandindo sua presença no Brasil, aprofundando o envolvimento com desenvolvedores, empresas e comunidades para apoiar a adoção de IA em todo o país.",
-      "link": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-27T03:00:00+00:00"
-    },
-    {
-      "id": "745d673f45eb476d",
-      "title": "A startup de IA viral Instinct arrecadou US$ 350 milhões com uma avaliação de US$ 2,5 bilhões",
-      "summary": "A startup tem apenas um ano, mas já gerou uma enorme quantidade de entusiasmo (e dinheiro), ao mesmo tempo que estimulou preocupações com a privacidade.",
-      "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-27T00:24:57+00:00"
-    },
-    {
-      "id": "113b9124930fb9ca",
-      "title": "Inteligência artificial em cinco números que revelam sua escala",
-      "summary": "Investimento, usuários, consumo de energia, impacto no trabalho e adoção corporativa: os números que dimensionam a corrida da IA no mundo O post Inteligência artificial em cinco…",
-      "link": "https://olhardigital.com.br/2026/08/26/pro/inteligencia-artificial-em-cinco-numeros-que-revelam-sua-escala/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-27T00:00:00+00:00"
     }
   ]
 }
