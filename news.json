@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-08-29T12:18:42.927528+00:00",
+  "generated_at": "2026-08-29T20:25:48.036880+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "5689ed0485f9e45d",
+      "title": "7 prompts para transformar o novo Google Maps no guia de turismo perfeito",
+      "summary": "O Google Maps recebeu uma atualização que amplia o uso do aplicativo durante viagens. Com a integração do Gemini, o recurso Ask Maps (Pergunte ao Maps) entende perguntas feitas em…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/prompts-para-transformar-google-maps-guia-de-turismo/",
+      "image": "https://tl.ctcdn.com.br/z1zuxMeYK4cHrHEqgHOcgBzOaK0=/0x0/filters:format(webp):quality(85)/a1420573-3a46-4ee9-ba20-9297dce01005.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-29T19:00:00+00:00"
+    },
+    {
+      "id": "d750556c657fba21",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-29T18:41:59+00:00"
+    },
+    {
+      "id": "261965a737e60981",
+      "title": "Hora de imprimir mais gastando menos: veja impressoras em promoção na Amazon",
+      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é um bom momento para conferir o que está disponível na Amazon. Reunimos três opções multifuncionais…",
+      "link": "https://olhardigital.com.br/2026/08/29/reviews/hora-de-imprimir-mais-gastando-menos-veja-impressoras-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-29T18:40:00+00:00"
+    },
+    {
+      "id": "3fe1ee4b5de036dc",
+      "title": "OpenAI corta acesso de empresa comprada por SpaceX e alfineta Musk",
+      "summary": "A OpenAI anunciou que vai encerrar o acesso da plataforma Cursor aos seus modelos de inteligência artificial O post OpenAI corta acesso de empresa comprada por SpaceX e alfineta…",
+      "link": "https://olhardigital.com.br/2026/08/29/inteligencia-artificial/openai-corta-acesso-de-empresa-comprada-por-spacex-e-alfineta-musk/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-29T18:23:19+00:00"
+    },
+    {
+      "id": "f593ff968abe8d62",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\"…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-29T18:19:53+00:00"
+    },
+    {
+      "id": "b1084d73e30ce32d",
+      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-29T17:51:10+00:00"
+    },
+    {
+      "id": "1c359d226297b79b",
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "summary": "Vijay Pande - que deixou a prática de biotecnologia de cerca de US $ 4 bilhões da a16z no ano passado para iniciar o VZVC, muito menor e nativo de IA - fala sobre por que a biologia está finalmente mudando de um…",
+      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-29T17:36:47+00:00"
+    },
+    {
+      "id": "6d2414e5aa127510",
+      "title": "IA pode salvar os games em tempos de crise de hardware; entenda",
+      "summary": "Quando os recursos de IA chegaram para auxiliar os jogos de PC, principalmente com o lançamento da primeira versão do NVIDIA DLSS em 2019, grande parte da comunidade torceu o…",
+      "link": "https://canaltech.com.br/hardware/ia-pode-salvar-games-em-tempos-de-crise/",
+      "image": "https://tl.ctcdn.com.br/jvC70fohAwmPoZiD3eAZqOE2vG8=/0x0/filters:format(webp):quality(85)/8cb80b8b-de74-4fab-8f4f-fd2466ffca76.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-29T16:30:00+00:00"
+    },
+    {
+      "id": "b9f06acf9b221f71",
+      "title": "Gemini tem acesso a todos os dados da sua empresa; veja como desativar",
+      "summary": "O Google Workspace permite que o Gemini use informações corporativas de serviços como Gmail, Drive, Docs, Agenda e Chat para gerar respostas contextualizadas. Essa integração vem…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-tem-acesso-a-todos-os-dados-da-sua-empresa-veja-como-desativar/",
+      "image": "https://tl.ctcdn.com.br/2EyuqhmZaLK-QAejIMGN0_3cdSw=/0x0/filters:format(webp):quality(85)/895b88d2-a897-4e5e-9b32-b24dbcb48fb2.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-29T14:30:00+00:00"
+    },
+    {
+      "id": "8404bb29c92e9185",
+      "title": "OpenAI corta Cursor após aquisição da SpaceX, citando o histórico de quebra de contratos de Musk",
+      "summary": "A OpenAI está cortando a ferramenta de codificação de IA Cursor depois que a SpaceX adquiriu a empresa, citando o histórico de quebra de contratos de Elon Musk. O cofundador do Cursor, Michael Truell…",
+      "link": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-29T13:33:35+00:00"
+    },
+    {
+      "id": "e536c3c3795d22bb",
+      "title": "AI-generated videos are already displacing actors and livestreamers across China's entertainment industry",
+      "summary": "In China, 95 percent of the 128,000 short dramas released in Q1 2026 were AI-generated. Some actors are being forced to hand over their voice and likeness to AI tools before…",
+      "link": "https://the-decoder.com/ai-generated-videos-are-already-displacing-actors-and-livestreamers-across-chinas-entertainment-industry/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/china_flag_visual-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-29T13:25:56+00:00"
+    },
+    {
+      "id": "9297e8ada755491f",
+      "title": "Casa de 2050: 12 eletrodomésticos geniais que você não conhecia",
+      "summary": "Uma casa futurista não precisa ter uma inteligência artificial em cada cômodo ou dezenas de aparelhos conectados ao Wi-Fi. Algumas tecnologias impressionam justamente porque…",
+      "link": "https://canaltech.com.br/eletro/casa-de-2050-x-eletrodomesticos-geniais-que-voce-nao-conhecia/",
+      "image": "https://tl.ctcdn.com.br/II5NQi4e8whyefqzLEOURGEu-xA=/0x0/filters:format(webp):quality(85)/ef97a3fd-2afe-4287-9fff-3e9e67eba925.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-29T13:00:01+00:00"
+    },
+    {
+      "id": "a85aa69b831be69c",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "summary": "A nova geração de sistemas de data center está aumentando a eficiência com um controle de tráfego mais inteligente, em vez de apenas mais ciclos de processador.",
+      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-29T13:00:00+00:00"
+    },
+    {
+      "id": "502f0407e7a8f241",
+      "title": "O WikiSkill do Google oferece aos agentes de IA uma memória persistente de erros passados ​​para aprimorar o desempenho futuro",
+      "summary": "Google Research has introduced WikiSkill, a framework that gives AI agents a persistent knowledge base. Instead of discarding what they learned after each run, agents document…",
+      "link": "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/aigent_skills_generation.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-29T12:51:24+00:00"
+    },
+    {
+      "id": "e4668613f9987f83",
+      "title": "8 filmes e séries que já abordaram IA generativa como a conhecemos hoje",
+      "summary": "A inteligência artificial é tratada em filmes e séries há décadas e teve previsões certeiras em meio a cenários apocalípticos. Por outro lado, a ascensão da IA generativa e de…",
+      "link": "https://canaltech.com.br/entretenimento/filmes-e-series-com-ia-generativa/",
+      "image": "https://tl.ctcdn.com.br/LXjpNkTzewv8xYoZ5U7h0oeMdZQ=/0x0/filters:format(webp):quality(85)/28b8e068-3551-4780-a15e-4bd3ab390db8.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-29T12:30:03+00:00"
+    },
+    {
+      "id": "4ed9a280c24da513",
+      "title": "Músicos que viraram detetives estão caçando vigaristas de IA",
+      "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are…",
+      "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,85.33125,89.314310632479",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-29T12:00:00+00:00"
+    },
     {
       "id": "86ee5b396cbb9320",
       "title": "5 coisas que o Claude faz melhor que o Gemini",
@@ -45,17 +221,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-29T09:14:30+00:00"
-    },
-    {
-      "id": "8404bb29c92e9185",
-      "title": "OpenAI corta Cursor após aquisição da SpaceX, citando o histórico de quebra de contratos de Musk",
-      "summary": "A OpenAI está cortando a ferramenta de codificação de IA Cursor depois que a SpaceX adquiriu a empresa, citando o histórico de quebra de contratos de Elon Musk. O cofundador do Cursor, Michael Truell…",
-      "link": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-29T08:15:35+00:00"
     },
     {
       "id": "39e4cdda6c550e1f",
@@ -826,171 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-27T14:01:42+00:00"
-    },
-    {
-      "id": "2fae6436e2ead8e9",
-      "title": "O risco real da IA ​​empresarial não são os agentes autônomos. É a complexidade entre eles.",
-      "summary": "Apresentada pela complexidade do Agente Gravitee, está a sombra insidiosa que se esconde dentro das empresas neste momento e que precisa de uma luz sobre ela. Isso ocorre porque as empresas não implantam um…",
-      "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5ScHW6mZ2rQr3EvsxrwooK/43df8725b6e12cd4bcf550bb7b3b1cb4/Gravitee_hero.jpg?w=300&q=30",
-      "source": "VentureBeat",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-27T14:01:00+00:00"
-    },
-    {
-      "id": "e94f9b29d3f640d1",
-      "title": "Claude, Codex e Hermes instalaram código não proprietário dentro de redes corporativas",
-      "summary": "227 comandos de instalação foram encontrados em documentos corporativos apontando para códigos que ninguém possui.",
-      "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T14:00:13+00:00"
-    },
-    {
-      "id": "99c07b5e58f4379e",
-      "title": "O êxodo executivo da OpenAI tem um grande vencedor",
-      "summary": "Hoje no Decoder, estou conversando com o repórter sênior de IA da Verge, Hayden Field, sobre algumas iscas puras do Decoder: as mudanças aparentemente infinitas no organograma da OpenAI e como todas elas parecem…",
-      "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_082726_site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T14:00:00+00:00"
-    },
-    {
-      "id": "9d852b5416bae283",
-      "title": "Quão problemático é o uso da água pela IA?",
-      "summary": "A pegada hídrica da IA ​​está a crescer, mas a localização e a tecnologia de refrigeração fazem a diferença.",
-      "link": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T13:57:08+00:00"
-    },
-    {
-      "id": "60eee81c5fca939c",
-      "title": "O novo robô do Hugging Face é um adorável pato patinador",
-      "summary": "A Pollen Robotics da Hugging Face lançou seu segundo lindo robô de IA, o Microduck, um bípede caolho com pouco menos de 25 centímetros de altura. Já está disponível para pré-encomenda por US$ 399…",
-      "link": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/microduck-kickabout.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T13:44:00+00:00"
-    },
-    {
-      "id": "58b7bb6f4dbd3b9e",
-      "title": "Plaud está lançando fones de ouvido com IA",
-      "summary": "Plaud introduziu um novo wearable de IA projetado para gravar, transcrever e resumir suas conversas, só que desta vez parecem fones de ouvido em vez de um alfinete. A plaude…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Plaud-One-earbuds-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T13:11:23+00:00"
-    },
-    {
-      "id": "adc17ded0689e328",
-      "title": "Adobe está adicionando mais IA ao Photoshop",
-      "summary": "A Adobe está lançando uma atualização pesada de IA para o Photoshop que inclui uma nova interface “opcional” dedicada às suas ferramentas de IA. Lançada em versão beta, a visualização \"AI Assisted Editor\" irá…",
-      "link": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/AI-Assisted-Editor_Static.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T13:00:00+00:00"
-    },
-    {
-      "id": "99cc84f9dfaddb48",
-      "title": "Os novos fones de ouvido da Plaud vêm com um case habilitado para eSIM para conversar com agentes de IA",
-      "summary": "Chamados de Plaud One, eles adotam o estilo simples dos AirPods da Apple e podem gravar chamadas, enquanto seu case pode ser usado para gravar conversas pessoais ou fazer anotações.",
-      "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-27T13:00:00+00:00"
-    },
-    {
-      "id": "1d378fad4f288475",
-      "title": "Como a OpenAI permitiu que uma multidão de agentes LLM fizesse um teste e saqueasse o Hugging Face",
-      "summary": "Sem autorização, 1.200 agentes OpenAI conspiraram entre si para realizar um teste.",
-      "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-500x500-1784927028.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T12:58:59+00:00"
-    },
-    {
-      "id": "3196165a5b2f91d2",
-      "title": "Perplexity lança sistema de IA que roda tudo no seu PC",
-      "summary": "Portable Computer executa agentes de IA localmente, mas exige placas de vídeo Nvidia RTX 3090 ou superior. Perplexity lança sistema de IA que roda tudo no seu PC",
-      "link": "https://tecnoblog.net/noticias/perplexity-lanca-sistema-de-ia-que-roda-tudo-no-seu-pc/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/12/tbr-perplexity-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-27T12:47:41+00:00"
-    },
-    {
-      "id": "46214c108a235874",
-      "title": "Quando os agentes agem por conta própria, a governança precisa residir na camada de dados",
-      "summary": "Apresentado pela EDB À medida que as empresas dão mais autonomia aos agentes de IA – a capacidade de planejar, decidir e agir em sistemas sem a aprovação humana de cada etapa – uma questão difícil passa para…",
-      "link": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/9VRh8KJhBqcFviSV8ClXc/feea8ec8fe76ffa0bc5cdb3dd95e1492/EDB_hero.jpeg?w=300&q=30",
-      "source": "VentureBeat",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-27T12:01:00+00:00"
-    },
-    {
-      "id": "3bb1627b9437e6f0",
-      "title": "Anthropic fecha acordo de computação de 45 bilhões de dólares com a Nscale antes do IPO",
-      "summary": "A Anthropic fechou um acordo no valor de cerca de 45 bilhões de dólares com a startup britânica de nuvem Nscale, relata a Bloomberg. O artigo Anthropic fecha acordo de computação de 45 bilhões de dólares…",
-      "link": "https://the-decoder.com/anthropic-locks-in-45-billion-dollar-compute-deal-with-nscale-ahead-of-ipo/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/10/claude_anthropic_tpu_google.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T10:49:35+00:00"
-    },
-    {
-      "id": "cc644640e575a3e7",
-      "title": "O Gemini 3.5 Transcribe do Google transforma fala em texto em 85 idiomas enquanto corrige automaticamente seus tropeços verbais",
-      "summary": "O novo Gemini 3.5 Transcribe do Google reconhece mais de 85 idiomas, elimina palavras de preenchimento e corrige lapsos de língua em tempo real. Atinge uma taxa de erro de palavras de 4,0% em…",
-      "link": "https://the-decoder.com/googles-gemini-3-5-transcribe-turns-speech-to-text-in-85-languages-while-auto-correcting-your-verbal-stumbles/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T10:40:08+00:00"
-    },
-    {
-      "id": "83ca17f27030b1b7",
-      "title": "GLM-5.3-Flash combina com os principais modelos por uma fração do custo e funciona sem Nvidia",
-      "summary": "Z.ai lança GLM-5.3-Flash, um modelo de código aberto com 320 bilhões de parâmetros que fica apenas três pontos atrás do maior GLM-5.3 no Índice de Inteligência de Análise Artificial…",
-      "link": "https://the-decoder.com/the-chinese-ai-model-glm-5-3-flash-runs-without-nvidia-and-costs-a-fraction-of-what-the-competition-does/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/04/zhipu-ai-logo-wall.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T10:24:49+00:00"
-    },
-    {
-      "id": "5c8d75ef9c12c059",
-      "title": "Melhores respostas, pensamento mais amplo: o que os alunos ganham com o ChatGPT e o treinamento de pensamento crítico",
-      "summary": "Um estudo randomizado com mais de 1.000 alunos examina o ChatGPT, o pensamento crítico, a originalidade e o desempenho dos alunos em um trabalho universitário do mundo real.",
-      "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-27T09:00:00+00:00"
     }
   ]
 }
