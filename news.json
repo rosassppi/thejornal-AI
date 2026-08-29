@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-28T21:43:49.680886+00:00",
+  "generated_at": "2026-08-29T05:42:07.511696+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "e7e4a15e0ac52dc9",
+      "title": "Meta corrige falha de privacidade em óculos inteligentes e tenta impedir gravação indevida",
+      "summary": "Empresa identificou e está corrigindo uma brecha que permitia contornar uma das principais proteções de privacidade dos óculos O post Meta corrige falha de privacidade em óculos…",
+      "link": "https://olhardigital.com.br/2026/08/28/reviews/meta-corrige-falha-de-privacidade-em-oculos-inteligentes-e-tenta-impedir-gravacao-indevida/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/meta_platforms-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-29T01:30:07+00:00"
+    },
     {
       "id": "601d1fa91d0fd347",
       "title": "O que você fala com o ChatGPT pode ser usado contra você?",
@@ -298,6 +309,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-28T08:03:22+00:00"
+    },
+    {
+      "id": "b42ac281ecaf56c0",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-28T06:00:00+00:00"
     },
     {
       "id": "5b2a42c18edc8784",
@@ -969,28 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-27T00:00:00+00:00"
-    },
-    {
-      "id": "d949d26fe8757800",
-      "title": "A Amazon acaba de triplicar seu pedido de chips Nvidia devido à ‘demanda crescente’",
-      "summary": "A Amazon adicionará mais 2 milhões de chips GPU Nvidia aos seus data centers nos próximos dois anos. Mas esta parceria ampliada vai além da compra de mais chips.",
-      "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-26T23:47:18+00:00"
-    },
-    {
-      "id": "70e27c4a6951354c",
-      "title": "União Europeia força Big Techs a rotularem conteúdo feito por IA",
-      "summary": "A União Europeia começou a aplicar novas regras de transparência para conteúdos criados ou modificados por inteligência artificial (IA). O Artigo 50 do AI Act, que entrou em vigor…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/uniao-europeia-forca-big-techs-a-rotularem-conteudo-feito-por-ia/",
-      "image": "https://tl.ctcdn.com.br/1X764xPDI_Wv1XBAouqSibiohoE=/0x0/filters:format(webp):quality(85)/3b5477d1-a3ad-4864-ae4a-9fe2c4e4f72d.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-26T22:03:00+00:00"
     }
   ]
 }
