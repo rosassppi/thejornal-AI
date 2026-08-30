@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-08-30T11:17:31.234008+00:00",
+  "generated_at": "2026-08-30T16:03:52.485679+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "e9155cfa28a1673b",
+      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "summary": "Bem-vindo de volta ao TechCrunch Mobility, seu centro para o futuro do transporte e agora, mais do que nunca, o papel que a IA desempenha nele.",
+      "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-30T16:03:00+00:00"
+    },
+    {
+      "id": "6bfed2ab471f8cf4",
+      "title": "Governador do Texas, Abbott, bloqueia financiamento para mais câmeras Flock",
+      "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-30T15:35:10+00:00"
+    },
+    {
+      "id": "4bd72d31944298ee",
+      "title": "Casos de IA enganando usuários crescem e preocupam pesquisadores",
+      "summary": "Mais de 300 casos de perda de controle de IAs foram registrados em julho, quase o dobro do mês anterior, segundo pesquisa O post Casos de IA enganando usuários crescem e preocupam…",
+      "link": "https://olhardigital.com.br/2026/08/30/inteligencia-artificial/casos-de-ia-enganando-usuarios-crescem-e-preocupam-pesquisadores/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/inteligencia-artificial-IA-1024x592.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-30T15:12:25+00:00"
+    },
+    {
+      "id": "80d0eae02fda2662",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-30T15:00:00+00:00"
+    },
+    {
+      "id": "a03a364ce48e1e35",
+      "title": "O sentimento sobre a IA está piorando à medida que as avaliações dos funcionários revelam frustração crescente em toda a força de trabalho",
+      "summary": "Uma análise das análises do Glassdoor mostra que os comentários positivos sobre IA caíram de 81 para 43 por cento desde 2019. Os executivos avaliam a IA em sua maioria positiva, enquanto os trabalhadores de sinistros de seguros…",
+      "link": "https://the-decoder.com/ai-sentiment-is-turning-sour-as-employee-reviews-reveal-growing-frustration-across-the-workforce/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/chatgpt_office_woman.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-30T13:12:19+00:00"
+    },
     {
       "id": "022402303394d12b",
       "title": "Por dentro do esforço da Meta para colocar robôs para trabalhar em data centers",
@@ -936,61 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-27T18:53:16+00:00"
-    },
-    {
-      "id": "6e4e25ed3da4a5d1",
-      "title": "Os agentes de compras de IA não estão prontos para comprar em seu nome, segundo estudo",
-      "summary": "Deixar uma IA fazer suas compras pode não lhe trazer o melhor negócio. Pesquisadores da Wharton School mostram como os agentes de compras de IA realmente são erráticos: uma única fonte externa como…",
-      "link": "https://the-decoder.com/ai-shopping-agents-arent-ready-to-buy-on-your-behalf-study-finds/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/ai_agent_commerce_watch.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T18:24:20+00:00"
-    },
-    {
-      "id": "47cca7a080bcb361",
-      "title": "OpenAI reúne mais de 100 empresas para assinar carta aberta alertando que ataques cibernéticos alimentados por IA em infraestruturas críticas são iminentes",
-      "summary": "A OpenAI, juntamente com mais de 100 empresas, incluindo Microsoft, Google, Anthropic, Deutsche Telekom e SAP, publicou uma carta aberta sobre defesa cibernética alimentada por IA. O…",
-      "link": "https://the-decoder.com/openai-rallies-100-companies-to-sign-open-letter-warning-ai-powered-cyberattacks-on-critical-infrastructure-are-imminent/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/generated-image-1-14.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T18:15:46+00:00"
-    },
-    {
-      "id": "f42e6eca6bd7e06d",
-      "title": "IA montou e coordenou equipes sozinha em ataque hacker ao Hugging Face",
-      "summary": "O ataque autônomo feita por IAs da OpenAI contra a plataforma Hugging Face contou com um quadro secreto de mensagens e atuação de cerca de 700 agentes ao mesmo tempo . Os agentes…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-montou-e-coordenou-equipes-sozinha-em-ataque-hacker-ao-hugging-face/",
-      "image": "https://tl.ctcdn.com.br/ghD2z0XVzSdNKsk1aaAohcKqEJA=/0x0/filters:format(webp):quality(85)/6de05839-f89f-4e11-9241-bf65e6e6c8d6.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-27T17:57:19+00:00"
-    },
-    {
-      "id": "d8544dddaa7c28ef",
-      "title": "OpenAI, Anthropic, Google e 100 outras empresas pedem ação para se defender contra IA desonesta",
-      "summary": "Algumas das maiores empresas de tecnologia e startups de IA do mundo se uniram para criticar o estado atual da segurança cibernética e para anunciar uma nova solução que, segundo eles, pode proteger…",
-      "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-27T17:43:24+00:00"
-    },
-    {
-      "id": "f06370ed18331d41",
-      "title": "A vitrine do e-commerce agora também precisa convencer a inteligência artificial",
-      "summary": "* Por Jeff Strauss O caminho até uma compra está mudando, e isso começa antes mesmo de o consumidor ver o produto . Em algum lugar do Brasil, alguém pode estar pedindo ao…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/a-vitrine-do-e-commerce-agora-tambem-precisa-convencer-a-inteligencia-artificial/",
-      "image": "https://tl.ctcdn.com.br/gNxFMcNzzSzGeABxFSl29uWXeNI=/0x0/filters:format(webp):quality(85)/5af5fa10-8189-4284-b3a4-582b260ebe7a.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-27T17:27:20+00:00"
     }
   ]
 }
