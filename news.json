@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-08-30T03:43:26.371522+00:00",
+  "generated_at": "2026-08-30T11:17:31.234008+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "022402303394d12b",
+      "title": "Por dentro do esforço da Meta para colocar robôs para trabalhar em data centers",
+      "summary": "A empresa está testando robôs em tarefas que podem ser executadas por técnicos.",
+      "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-30T11:03:47+00:00"
+    },
+    {
+      "id": "e6a3f586011c1e3f",
+      "title": "5 dicas para treinar a memória do ChatGPT e melhorar as respostas",
+      "summary": "A memória do ChatGPT ajuda a IA a manter informações relevantes sobre o usuário entre diferentes conversas. Com o recurso ativado, o chatbot pode levar em conta preferências de…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/dicas-como-treinar-memoria-do-chatgpt/",
+      "image": "https://tl.ctcdn.com.br/M97dFogcb8WuR352m8LixgtgapI=/0x0/filters:format(webp):quality(85)/483c949e-c9ea-41be-b2a9-e0fcfe03b894.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-30T11:00:00+00:00"
+    },
+    {
+      "id": "b0ce6f48da63d25e",
+      "title": "Os agentes de IA não têm noção do tempo e não estão cientes disso",
+      "summary": "Assistentes de codificação de IA como Claude Code e Codex não têm noção do tempo, de acordo com um novo estudo. Ambos superestimam sistematicamente quanto tempo as tarefas levarão. Codex está tão errado…",
+      "link": "https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/KI-Agents-lost-time.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-30T10:41:36+00:00"
+    },
+    {
+      "id": "b914b29e467f6392",
+      "title": "As habilidades que obtêm as melhores notas são aquelas que a IA consegue falsificar melhor",
+      "summary": "O GPT-4o aumentou as notas em um trabalho de marketing em quase um ponto completo em uma escala de cinco pontos em um experimento com 1.053 estudantes da Universidade Bocconi. Se eles realmente aprenderam…",
+      "link": "https://the-decoder.com/the-skills-that-earn-top-grades-are-the-ones-ai-can-fake-best/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/student-ai-assisted-assignment-illustration.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-30T10:34:09+00:00"
+    },
+    {
+      "id": "a2928c0da1acf674",
+      "title": "Por que alianças como a Open Secure AI Alliance importam para quem usa IA no dia a dia",
+      "summary": "A importância de uma parceria como essa está justamente na capacidade de reunir diferentes atores do ecossistema de tecnologia em torno de um objetivo comum O post Por que…",
+      "link": "https://olhardigital.com.br/2026/08/30/colunistas/por-que-aliancas-como-a-open-secure-ai-alliance-importam-para-quem-usa-ia-no-dia-a-dia/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-30T10:00:00+00:00"
+    },
+    {
+      "id": "daf9d244af68624b",
+      "title": "OpenAI, dona do ChatGPT, abre vagas de engenharia de IA em São Paulo; veja como se inscrever",
+      "summary": "Duas posições de Applied AI Engineer estão abertas no escritório brasileiro: uma voltada a empresas de tecnologia como Stripe e Uber; outra para grandes corporações O post OpenAI…",
+      "link": "https://olhardigital.com.br/2026/08/30/pro/openai-dona-do-chatgpt-abre-vagas-de-engenharia-de-ia-em-sao-paulo-veja-como-se-inscrever/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-30T09:30:00+00:00"
+    },
+    {
+      "id": "fbe891bd0b0722b7",
+      "title": "A mudança de limite do Código Claude da Anthropic é um aumento no papel, mas um corte na prática",
+      "summary": "A Anthropic está efetivamente reduzindo os limites de uso semanal do Claude Code em 17%. Um aumento temporário de 50 por cento expira em 14 de setembro e será substituído por um aumento permanente de 25…",
+      "link": "https://the-decoder.com/anthropics-claude-code-limit-change-is-a-raise-on-paper-but-a-cut-in-practice/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-30T09:05:19+00:00"
+    },
+    {
+      "id": "3fcf0ae9156eb96f",
+      "title": "Sony e Warner processam a Anthropic por “um dos maiores e mais flagrantes roubos contínuos de propriedade intelectual da história”",
+      "summary": "Sony Music, Warner Music e outras editoras estão processando pessoalmente a Anthropic e o CEO Dario Amodei por supostamente usar dezenas de milhares de composições musicais protegidas por direitos autorais para…",
+      "link": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_music.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-30T08:50:20+00:00"
+    },
+    {
+      "id": "9df4dd3c01164758",
+      "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices",
+      "summary": "A Anthropic abriu uma prévia da pesquisa do Model Hardware Standard (MHS), uma especificação de driver compartilhada que permite que agentes de IA descubram e operem dispositivos físicos com segurança…",
+      "link": "https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-30T06:12:21+00:00"
+    },
+    {
+      "id": "d88d7da276777ad9",
+      "title": "Conheça ‘Code-as-World’: um loop agente que reescreve vídeos reais em programas executáveis ​​​​de física MuJoCo",
+      "summary": "Code-as-World recupera código de cena MuJoCo editável de vídeo real e, em seguida, usa esses mundos verificados para treinar o raciocínio físico. A postagem Conheça ‘Code-as-World’: um loop agente que…",
+      "link": "https://www.marktechpost.com/2026/08/29/mirros-code-as-world-executable-world-representations/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-30T01:35:02+00:00"
+    },
     {
       "id": "2ff14a59d7b7b18c",
       "title": "Gigantes da música acusam Anthropic de pirataria para treinar IA",
@@ -23,6 +133,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-29T19:00:00+00:00"
+    },
+    {
+      "id": "79c30e10cc43fb61",
+      "title": "Building Custom Batched Ensemble Weather Forecasting with NVIDIA Earth2Studio",
+      "summary": "Neste tutorial, construímos um fluxo de trabalho conjunto de previsão do tempo com NVIDIA Earth2Studio. Instalamos os componentes necessários do Earth2Studio enquanto preservamos os recursos existentes do Colab…",
+      "link": "https://www.marktechpost.com/2026/08/29/building-custom-batched-ensemble-weather-forecasting-with-nvidia-earth2studio/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-29T18:57:26+00:00"
     },
     {
       "id": "d750556c657fba21",
@@ -100,6 +221,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-29T16:30:00+00:00"
+    },
+    {
+      "id": "15e25a0de4809b61",
+      "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling",
+      "summary": "Analisamos o Gemini Omni 1.1 Flash, a atualização de produção do Google para seu modelo nativo de geração e edição de vídeo multimodal. Detalhamos o que mudou: a extensão da cena agora aparece…",
+      "link": "https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-29T14:30:44+00:00"
     },
     {
       "id": "b9f06acf9b221f71",
@@ -859,138 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-27T17:27:20+00:00"
-    },
-    {
-      "id": "bc08a9f60167e260",
-      "title": "Melhores sandboxes de agente em 2026: inicialização a frio, preços por segundo e política de rede em E2B, Daytona, Modal, Cloudflare e Vercel",
-      "summary": "Todo agente que escreve código precisa de um lugar para executá-lo, e não há dois fornecedores que citem as mesmas unidades. Esta comparação mede a inicialização a frio intermitente em E2B, Daytona, Modal, Cloudflare…",
-      "link": "https://www.marktechpost.com/2026/08/27/best-agent-sandboxes-2026-cold-start-pricing-network-policy/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-27T17:04:49+00:00"
-    },
-    {
-      "id": "0d0b62b035f1a4bf",
-      "title": "O Gemini Omni 1.1 Flash do Google torna a geração de vídeo de IA mais barata e mais flexível",
-      "summary": "O modelo de vídeo Flash Gemini Omni 1.1 do Google agora analisa até dez segundos de filmagem existente, em vez de apenas o último segundo, para extensões de cena mais consistentes. As cenas podem ser…",
-      "link": "https://the-decoder.com/googles-gemini-omni-1-1-flash-makes-ai-video-generation-cheaper-and-more-flexible/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_optical_trick.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T17:01:28+00:00"
-    },
-    {
-      "id": "7e80fe9b8154b297",
-      "title": "Hoomanely está construindo uma tigela de alimentação inteligente e uma plataforma de IA para ajudar os proprietários a identificar quando seu filhote está doente",
-      "summary": "Hoomanely desenvolveu uma tigela inteligente para medir e registrar os dados de alimentação dos cães e, em seguida, informar aos proprietários se o comportamento mudar.",
-      "link": "https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-27T16:53:50+00:00"
-    },
-    {
-      "id": "c7cd04d678d4e33c",
-      "title": "Nvidia fecha acordo para comprar Hugging Face por US$ 12,9 bilhões, diz site",
-      "summary": "Aquisição tem importância estratégica para defender IA de código aberto e se proteger contra concorrência de chips próprios de grandes desenvolvedoras. Nvidia fecha acordo para…",
-      "link": "https://tecnoblog.net/noticias/nvidia-fecha-acordo-para-comprar-hugging-face-por-us-129-bilhoes-diz-site/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/05/nvidia-video_capa-1_tb-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-27T16:31:22+00:00"
-    },
-    {
-      "id": "7e749c2035c16214",
-      "title": "O coletivo desonesto de IA da OpenAI foi inteligente o suficiente para sair das sandboxes, mas burro o suficiente para lutar contra um fantasma",
-      "summary": "Cerca de 1.200 agentes isolados da OpenAI se organizaram em um coletivo por meio de um registro interno de pacotes durante um teste de segurança, invadiram os sistemas Hugging Face e…",
-      "link": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/OpenAI-HuggingFace-Incident-DQ.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T16:19:46+00:00"
-    },
-    {
-      "id": "92832207d3d2bf83",
-      "title": "Jensen Huang diz que a Nvidia alcançou AGI novamente – não que isso importe",
-      "summary": "Na teleconferência de resultados da Nvidia na quarta-feira, o CEO Jensen Huang anunciou casualmente que a empresa havia \"alcançado AGI\", um dos objetivos finais da indústria de tecnologia que alguns de seus maiores players têm...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T16:15:52+00:00"
-    },
-    {
-      "id": "a1c9c66d73112465",
-      "title": "Três novas maneiras de planejar e reservar viagens na Pesquisa",
-      "summary": "Gráfico representando novos recursos de viagem para o Modo AI na Pesquisa",
-      "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-27T16:00:00+00:00"
-    },
-    {
-      "id": "44945c70744e4749",
-      "title": "O modo AI do Google agora pode rastrear preços de voos, ajudar a reservar hotéis e muito mais",
-      "summary": "As atualizações indicam que o Google está procurando posicionar o AI Mode como uma espécie de agente de viagens de IA, já que está indo além de simplesmente ajudar os usuários a encontrar informações para realmente lidar com…",
-      "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-27T16:00:00+00:00"
-    },
-    {
-      "id": "e96f449629af7b0a",
-      "title": "Do In-Silico ao Wet-Lab: avaliando o desempenho do AI Protein Design",
-      "summary": "Neste tutorial, analisamos o conjunto de dados de 1.440 ligantes de proteínas projetados por IA da Anthropic para avaliar 10 principais preditores de estrutura. Descubra como a identidade do alvo, os títulos de expressão…",
-      "link": "https://www.marktechpost.com/2026/08/27/from-in-silico-to-wet-lab-evaluating-ai-protein-design-performance/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-27T15:36:29+00:00"
-    },
-    {
-      "id": "b6de1b516fd796aa",
-      "title": "Pesquisador da OpenAI alerta que IA ultrarrápida pode deixar as equipes de segurança comendo poeira",
-      "summary": "Um pesquisador da OpenAI alerta que modelos de IA de última geração executados 50 vezes mais rápido podem se infiltrar nos sistemas antes que as equipes humanas possam reagir. O simples monitoramento não resolverá mais…",
-      "link": "https://the-decoder.com/openai-researcher-warns-ultrafast-ai-could-leave-security-teams-in-the-dust/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/kraken_fast_openai_cybersecurity-scaled.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T15:04:20+00:00"
-    },
-    {
-      "id": "8733257d4bfd2c41",
-      "title": "A polícia australiana prende dois por hacks do TeamPCP visando Mercor, OpenAI e outros",
-      "summary": "As prisões ocorrem após uma onda de ataques cibernéticos no início deste ano contra empresas de tecnologia que dependem de software de código aberto amplamente utilizado e de alto perfil.",
-      "link": "https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-27T14:27:52+00:00"
-    },
-    {
-      "id": "61b131d55df07bc0",
-      "title": "A crise de memória da IA ​​​​está chegando para aplicativos Android",
-      "summary": "O Google está estabelecendo novos limites de uso de memória para aplicativos Android, à medida que os data centers de IA contribuem para a escassez de hardware que pode deixar os telefones de baixo custo com menos memória.",
-      "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-27T14:27:04+00:00"
     }
   ]
 }
