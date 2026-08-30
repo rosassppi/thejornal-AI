@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-29T20:25:48.036880+00:00",
+  "generated_at": "2026-08-30T03:43:26.371522+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "2ff14a59d7b7b18c",
+      "title": "Gigantes da música acusam Anthropic de pirataria para treinar IA",
+      "summary": "A Sony Music e a Warner Music entraram com uma ação judicial conjunta contra a Anthropic. O post Gigantes da música acusam Anthropic de pirataria para treinar IA apareceu primeiro…",
+      "link": "https://olhardigital.com.br/2026/08/29/inteligencia-artificial/gigantes-da-musica-acusam-anthropic-de-pirataria-para-treinar-ia/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-29T20:30:00+00:00"
+    },
     {
       "id": "5689ed0485f9e45d",
       "title": "7 prompts para transformar o novo Google Maps no guia de turismo perfeito",
@@ -980,17 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-27T14:27:04+00:00"
-    },
-    {
-      "id": "4a929b2ed40a09f5",
-      "title": "Aqui estão todas as vezes em que a IA se tornou desonesta e hackeou outras empresas",
-      "summary": "Uma recapitulação de todos os incidentes envolvendo LLMs feitos pela Anthropic, Meta e OpenAI, que se tornaram desonestos e atacaram empresas e indivíduos reais na internet.",
-      "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-27T14:01:42+00:00"
     }
   ]
 }
