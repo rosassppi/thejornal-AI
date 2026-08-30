@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-30T16:03:52.485679+00:00",
+  "generated_at": "2026-08-30T20:35:32.038180+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "e54313735c37698c",
+      "title": "Google AI apresenta EnvHarness: uma camada programável que transforma ambientes de agentes estáticos em mundos de treinamento adaptativos",
+      "summary": "O Google Cloud AI Research, com a Washington University em St. Louis e UNC Chapel Hill, lançou o EnvHarness, uma camada Apache-2.0 que transforma um benchmark de agente estático em um…",
+      "link": "https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/Screenshot-2026-08-30-at-1.22.31-PM.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-30T20:23:46+00:00"
+    },
+    {
+      "id": "ea26370baaeaf6b2",
+      "title": "O que é um roteador de IA? Veja como usar e economizar tokens",
+      "summary": "O roteador de IA é uma ferramenta que analisa automaticamente qual modelo de inteligência artificial deve ser escolhido para resolver um pedido específico. É possível alternar…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-e-um-roteador-de-ia-veja-como-usar/",
+      "image": "https://tl.ctcdn.com.br/P2v2SiN5puh8DnvDa_FZEGJHgRg=/0x0/filters:format(webp):quality(85)/0178f6ae-ed74-450a-ba0a-5251de1b0158.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-30T19:00:00+00:00"
+    },
+    {
+      "id": "094542d75833d38d",
+      "title": "Hora de renovar o home office: impressoras em promoção na Amazon",
+      "summary": "Se você está pensando em trocar ou adquirir uma impressora, este é um bom momento para pesquisar. Reunimos três modelos multifuncionais em oferta na Amazon, com opções para…",
+      "link": "https://olhardigital.com.br/2026/08/30/reviews/hora-de-renovar-o-home-office-impressoras-em-promocao-na-amazon-3/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-30T18:40:00+00:00"
+    },
     {
       "id": "e9155cfa28a1673b",
       "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
@@ -958,39 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-27T19:52:52+00:00"
-    },
-    {
-      "id": "e056252ba19a5071",
-      "title": "O aplicativo de anotações de IA do Google agora permite que você interaja com livros",
-      "summary": "O aplicativo de anotações de IA do Google, Gemini Notebook, agora pode extrair informações dos livros que você comprou. O novo recurso “Expert Intelligence” permite trazer títulos de…",
-      "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Expert-Intelligence-Hero.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T19:30:00+00:00"
-    },
-    {
-      "id": "90f25f2079aae447",
-      "title": "A indústria de IA diz que Trump planeja tributar chips da “maneira mais estúpida que se possa imaginar”",
-      "summary": "A indústria tecnológica está perplexa com o plano de Trump de vencer a corrida da IA ​​ao taxar os centros de dados.",
-      "link": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2281424431-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T18:57:08+00:00"
-    },
-    {
-      "id": "6e852f237c1e25d0",
-      "title": "Ligações falsas usam voz de IA para destravar iPhones roubados no Brasil",
-      "summary": "A empresa de cibersegurança SOCRadar identificou um golpe para desbloquear iPhones roubados no Brasil . Uma ligação que se diz passar pela equipe de suporte da Apple usa uma voz…",
-      "link": "https://canaltech.com.br/seguranca/ligacoes-falsas-usam-voz-de-ia-para-destravar-iphones-roubados-no-brasil/",
-      "image": "https://tl.ctcdn.com.br/gPLJdpQxihnjwePfc0tL_fAtYH0=/0x0/filters:format(webp):quality(85)/5e6a0815-3cd7-4700-9704-4c3a60f0e52a.webp",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-27T18:53:16+00:00"
     }
   ]
 }
