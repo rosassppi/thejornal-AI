@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-08-31T03:44:34.875175+00:00",
+  "generated_at": "2026-08-31T12:44:09.887144+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "ee4bde07253bb9f3",
+      "title": "Nova lâmpada da Xiaomi usa Bluetooth para não ocupar sua rede Wi-Fi",
+      "summary": "Uma nova lâmpada inteligente da Xiaomi usa o Bluetooth para evitar que mais um dispositivo se conecte à rede Wi-Fi de casa. Trata-se da Mijia LED Smart Bulb Bluetooth Mesh Edition…",
+      "link": "https://canaltech.com.br/casa-conectada/nova-lampada-da-xiaomi-usa-bluetooth-para-nao-ocupar-sua-rede-wi-fi/",
+      "image": "https://tl.ctcdn.com.br/cuoNz67lw99CJ59yb97PhQYB51M=/0x0/filters:format(webp):quality(85)/4645288c-6c16-49ae-a262-8e4b771f4353.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-31T12:18:47+00:00"
+    },
+    {
+      "id": "07f31a049549e6a4",
+      "title": "Gemini Notebook agora pode puxar informações de livros que você comprou",
+      "summary": "Antigo NotebookLM agora pode extrair trechos diretamente de obras compradas via Google Play Livros. Gemini Notebook agora pode puxar informações de livros que você comprou",
+      "link": "https://tecnoblog.net/noticias/gemini-notebook-agora-pode-puxar-informacoes-de-livros-que-voce-comprou/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/gemini-notebook-app-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-31T11:41:23+00:00"
+    },
+    {
+      "id": "9daff824351d5c2f",
+      "title": "Erro faz Claude e Codex executarem código malicioso em redes corporativas",
+      "summary": "Arquivos mal configurados enganam assistentes de programação, permitindo a entrada de malwares em sistemas grandes de empresas. Erro faz Claude e Codex executarem código malicioso…",
+      "link": "https://tecnoblog.net/noticias/erro-faz-claude-e-codex-executarem-codigo-malicioso-em-redes-corporativas/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/06/tbr-malware-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-31T11:39:37+00:00"
+    },
+    {
+      "id": "a4c1953e4b4011fa",
+      "title": "Casa inteligente da LG ganha IA que entende planos do usuário",
+      "summary": "ThinQ Claw é a nova IA da LG que usa chat para entender a rotina e coordenar aparelhos e serviços conectados dentro de casa O post Casa inteligente da LG ganha IA que entende…",
+      "link": "https://olhardigital.com.br/2026/08/31/inteligencia-artificial/casa-inteligente-da-lg-ganha-ia-que-entende-planos-do-usuario/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/LG-logo-1024x650.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-31T11:19:31+00:00"
+    },
+    {
+      "id": "5d69e66b302c45cd",
+      "title": "OpenClaw 2.0 traz configuração simplificada, um aplicativo de navegador reconstruído e sessões multijogador",
+      "summary": "A OpenClaw Foundation lançou a versão 2.0 de sua plataforma de IA de código aberto, seu maior lançamento até o momento, com mais de 16.000 solicitações pull. Novos recursos incluem sessões na nuvem em…",
+      "link": "https://the-decoder.com/openclaw-2-0-brings-simplified-setup-a-rebuilt-browser-app-and-multiplayer-sessions/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/openclaw_logo_threepart.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-31T10:46:04+00:00"
+    },
+    {
+      "id": "0eca9e056acddd67",
+      "title": "A IA do Pocket tornou minhas ideias de jogos reais. Agora Meta controla os resultados.",
+      "summary": "\"Gizmos\" móveis interativos são fáceis de fazer, mas difíceis de compartilhar fora da plataforma Meta.",
+      "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/pocketsling-500x500-1787932285.png",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-31T10:00:34+00:00"
+    },
+    {
+      "id": "72a0ae9724f0c4ca",
+      "title": "OpenAI e laboratórios rivais de IA estão comprando dezenas de milhares de Mac minis para treinar agentes de uso de computador",
+      "summary": "De acordo com The Information, a OpenAI comprou dezenas de milhares de Mac minis e Mac Studios para treinar agentes de informática. A Anthropic também depende de hardware da Apple. A demanda é tão…",
+      "link": "https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/06/apple_iphone_illustration-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-08-31T08:55:12+00:00"
+    },
+    {
+      "id": "f24da1a98c0b8bfe",
+      "title": "OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway",
+      "summary": "The OpenClaw Foundation has released v2026.8.1, which the project calls OpenClaw 2.0: 933 contributors, 569 first-timers, and more than 16,000 pull requests, roughly half of every…",
+      "link": "https://www.marktechpost.com/2026/08/30/openclaw-releases-openclaw-2-0-guided-model-setup-575-ms-control-ui-startup-and-one-trust-boundary-per-gateway/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-31T05:04:10+00:00"
+    },
     {
       "id": "fcdf647822e072d0",
       "title": "Grindr quer ser o aplicativo de tudo para gays; os investidores ainda estão decidindo se isso pode acontecer",
@@ -12,6 +100,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-08-31T02:18:57+00:00"
+    },
+    {
+      "id": "aa034e2886f7028f",
+      "title": "APIs de inferência de menor latência para agentes de voz e em tempo real: o tempo para o primeiro token TTFT-First Benchmark",
+      "summary": "Os agentes de voz falham na latência muito antes de falharem na inteligência. O tempo até o primeiro token é a métrica que a maioria das equipes usa para escolher uma API de inferência e é o ponto de partida certo…",
+      "link": "https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-30T21:24:38+00:00"
     },
     {
       "id": "bd57cc2ffd857363",
@@ -892,105 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-08-28T00:00:00+00:00"
-    },
-    {
-      "id": "edabaffd84062cd2",
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "summary": "No TechCrunch Disrupt 2026, o AI Stage está de volta para se aprofundar no tópico mais quente da comunidade nos últimos anos, apresentado pelo Google for Startups.",
-      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-27T23:16:45+00:00"
-    },
-    {
-      "id": "b6648a2b1e87f345",
-      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-      "summary": "Standardized driver interface aims to let devices talk to AI and each other.",
-      "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsdemo-500x500.png",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T22:15:43+00:00"
-    },
-    {
-      "id": "4be8656aff9997b1",
-      "title": "Meta atualiza óculos com IA para interromper gravação se LED for coberto",
-      "summary": "A Meta começou a distribuir nesta semana uma atualização que interrompe a gravação dos óculos com inteligência artificial caso o usuário cubra o LED indicador depois de iniciar a…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/meta-atualiza-oculos-com-ia-para-interromper-gravacao-se-led-for-coberto/",
-      "image": "https://tl.ctcdn.com.br/CIdCpUVtIgiOuBibgQi8kkb9-cY=/0x0/filters:format(webp):quality(85)/38117a3f-3bb9-435f-8d94-298eeaf0875c.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-27T22:00:01+00:00"
-    },
-    {
-      "id": "314cbfb7eba18c50",
-      "title": "A xAI de Elon Musk usou pornografia infantil para treinar modelos Grok, diz o processo",
-      "summary": "xAI acusado de treinar Grok em pornografia infantil real e gerada por IA.",
-      "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2280412936-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T20:52:31+00:00"
-    },
-    {
-      "id": "bc8b0401f7faba39",
-      "title": "OpenAI ignorou sinais de que havia algo errado com IA que fugiu de teste",
-      "summary": "Relatórios mostram que, meses antes do ataque à Hugging Face, a desenvolvedora descobriu que os agentes de IA trocavam mensagens e acessavam a internet. OpenAI ignorou sinais de…",
-      "link": "https://tecnoblog.net/noticias/openai-ignorou-sinais-de-que-havia-algo-errado-com-ia-que-fugiu-de-teste/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/08/openai-4_capa-edited-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-27T20:48:54+00:00"
-    },
-    {
-      "id": "11577d3e7bd33d6d",
-      "title": "Preço de smartwatch da Huawei derrete no Mercado Livre",
-      "summary": "Quem procura uma pulseira inteligente completa para exercícios e monitoramento de saúde pode aproveitar uma promoção forte no Mercado Livre. A HUAWEI Band 11 Pro está saindo por…",
-      "link": "https://canaltech.com.br/smartwatch/preco-de-smartwatch-da-huawei-derrete-no-mercado-livre/",
-      "image": "https://tl.ctcdn.com.br/2veHPBmsPbti4wvMz3ZmtD3oNV0=/0x0/filters:format(webp):quality(85)/95581167-931d-4850-898f-c7839a8e8e6d.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-27T20:34:35+00:00"
-    },
-    {
-      "id": "42d031adc0ea92b3",
-      "title": "OpenAI, Google e outras empresas pedem ação urgente contra ataques de IA",
-      "summary": "Carta assinada por 116 organizações alerta que empresas e governos têm janela limitada para reforçar defesas antes que sistemas de IA ampliem ainda mais a capacidade de ataques…",
-      "link": "https://olhardigital.com.br/2026/08/27/inteligencia-artificial/openai-google-e-outras-empresas-pedem-acao-urgente-contra-ataques-de-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/microsoft-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-27T20:30:04+00:00"
-    },
-    {
-      "id": "4831a0fd8bf922ce",
-      "title": "Cohere lança Parse 5 (parse-v5.0): um modelo de linguagem de visão 2.3B que transforma documentos empresariais em descontos",
-      "summary": "Cohere lançou o Parse (parse-v5.0), um modelo de linguagem de visão com parâmetros de 2,3B que converte PDFs, slides e imagens em Markdown com tabelas HTML, caixas delimitadoras e imagens…",
-      "link": "https://www.marktechpost.com/2026/08/27/cohere-releases-parse-5-parse-v5-0-a-2-3b-vision-language-model-that-turns-enterprise-documents-into-markdown/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-27T20:05:49+00:00"
-    },
-    {
-      "id": "bc7fe88bc20e651d",
-      "title": "Alibaba abre 2 data centers no Brasil para desafiar Microsoft, Google e AWS em IA",
-      "summary": "A Alibaba Cloud lançou nesta quinta-feira (27) sua primeira região de nuvem no Brasil, com dois novos data centers dedicados a empresas, startups, desenvolvedores e instituições…",
-      "link": "https://canaltech.com.br/mercado/alibaba-abre-2-data-centers-no-brasil-para-desafiar-microsoft-google-e-aws-em-ia/",
-      "image": "https://tl.ctcdn.com.br/BR3HSOloLE5mopecHKTT-LOm4PU=/0x0/filters:format(webp):quality(85)/bd8495a4-85da-443e-b181-bef01f192d5f.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-27T20:00:00+00:00"
     }
   ]
 }
