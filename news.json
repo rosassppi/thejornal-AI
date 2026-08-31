@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-30T20:35:32.038180+00:00",
+  "generated_at": "2026-08-31T03:44:34.875175+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "fcdf647822e072d0",
+      "title": "Grindr quer ser o aplicativo de tudo para gays; os investidores ainda estão decidindo se isso pode acontecer",
+      "summary": "George Arison deixou de deixar o \"desconto Grindr\" de Wall Street permanecer incontestado - em uma ampla sessão de perguntas e respostas, o CEO nos mostra como a IA, um polêmico nível EDGE de mais de US$ 350 e um…",
+      "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-08-31T02:18:57+00:00"
+    },
+    {
+      "id": "bd57cc2ffd857363",
+      "title": "Qual é a diferença entre assistente e agente de IA?",
+      "summary": "O avanço da inteligência artificial popularizou vários termos, como “assistente” e “agente”, que muitas vezes são usados como sinônimos. Embora os dois possam conversar com os…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/qual-e-a-diferenca-entre-assistente-e-agente-de-ia/",
+      "image": "https://tl.ctcdn.com.br/GuHlIeHlJF65Bn9SHhUgVZ5n7Pk=/0x0/filters:format(webp):quality(85)/1846c6a3-4788-41d5-9a18-a48a3f18c13d.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-08-30T21:00:00+00:00"
+    },
     {
       "id": "e54313735c37698c",
       "title": "Google AI apresenta EnvHarness: uma camada programável que transforma ambientes de agentes estáticos em mundos de treinamento adaptativos",
@@ -969,28 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-27T20:00:00+00:00"
-    },
-    {
-      "id": "5a23fc1d611ca03e",
-      "title": "Relatório: Nvidia adquirirá repositório de modelos de IA Hugging Face por US$ 13 bilhões",
-      "summary": "A Nvidia está adquirindo infraestrutura crítica para modelos abertos à medida que o interesse aumenta.",
-      "link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-27T19:55:22+00:00"
-    },
-    {
-      "id": "d0b5a5cfadd98fe4",
-      "title": "Barret Zoph, o cofundador da Thinking Machines demitido antes de ingressar na OpenAI, está agora no Google",
-      "summary": "Zoph, que cofundou o Thinking Machines Lab ao lado de Mira Murati e também atuou como CTO da startup, liderou uma breve passagem pela OpenAI e agora está no Google.",
-      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-27T19:52:52+00:00"
     }
   ]
 }
