@@ -1,7 +1,172 @@
 {
-  "generated_at": "2026-09-01T16:05:53.187972+00:00",
+  "generated_at": "2026-09-01T20:34:58.790996+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "bbcd53f99d9a121b",
+      "title": "Claude Fable 5.1 da Anthropic promete melhor codificação e pesquisa com até 45% menos",
+      "summary": "Anthropic lança Claude Fable 5.1 e Mythos 5.1, seus modelos de IA mais capazes até agora. Fable 5.1 dobra a pontuação de seu antecessor no Terminal-Bench-Science e melhora a codificação agente…",
+      "link": "https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_5_series.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-01T20:32:55+00:00"
+    },
+    {
+      "id": "fc0348dff78c905a",
+      "title": "Anthropic lança Claude Fable 5.1 e Claude Mythos 5.1: 52,6% em Terminal-Bench-Science e leituras de cache 75% mais baratas",
+      "summary": "A Anthropic lançou Claude Fable 5.1 e Claude Mythos 5.1, o mesmo modelo por trás de duas camadas de proteção diferentes. Fable 5.1 está geralmente disponível na API Claude, AWS…",
+      "link": "https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-01T20:30:21+00:00"
+    },
+    {
+      "id": "8d62290e7ba60756",
+      "title": "NVIDIA DLSS 5 estreia com salto gráfico, mas derruba até 60% do FPS real",
+      "summary": "A NVIDIA confirmou nesta terça-feira (1º) a data de lançamento do controverso DLSS 5 . E, ao contrário do que muita gente imaginava, o novo recurso já está logo ali: sua estreia…",
+      "link": "https://canaltech.com.br/hardware/nvidia-dlss-5-data-lancamento-desempenho/",
+      "image": "https://tl.ctcdn.com.br/yKZjS5S6bcBgIUa78N-x2Ts9vMg=/0x0/filters:format(webp):quality(85)/b46e18f2-4323-4148-84e8-5c58caafc7dc.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-01T19:50:24+00:00"
+    },
+    {
+      "id": "a3461c8cef17985d",
+      "title": "O novo lançamento do Fable da Anthropic é mais barato e menos restritivo",
+      "summary": "Fable 5.1 inclui mudanças destinadas a reduzir o custo do token e restrições de falsos positivos das salvaguardas do modelo.",
+      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-01T19:39:22+00:00"
+    },
+    {
+      "id": "25383ebf9c04522c",
+      "title": "Nvidia oficializa DLSS 5 para deixar jogos mais realistas com IA",
+      "summary": "Tecnologia vai estreiar com o game NBA 2K27. Recurso gerou polêmica sobre a direção artística dos jogos. Nvidia oficializa DLSS 5 para deixar jogos mais realistas com IA",
+      "link": "https://tecnoblog.net/noticias/nvidia-oficializa-dlss-5-para-deixar-jogos-mais-realistas-com-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/dlss5-nvidia-1-340x191.webp",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-01T19:06:38+00:00"
+    },
+    {
+      "id": "78f5b18132c56f69",
+      "title": "A ascensão das ‘civilizações’ de IA e a queda da responsabilidade corporativa",
+      "summary": "Dependendo de quem você perguntar, a plataforma de desenvolvimento Hugging Face foi recentemente atacada pela OpenAI – depois de perder o controle de suas próprias ferramentas de IA – ou por uma sucessão de “civilizações” de IA…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-01T19:02:54+00:00"
+    },
+    {
+      "id": "b97ce9772af9112d",
+      "title": "GTA 6 não terá microtransações no lançamento nem uso de IA generativa, diz reportagem",
+      "summary": "Rockstar também destacou o trabalho humano por trás do desenvolvimento, que inclui mais de 600 mil animações O post GTA 6 não terá microtransações no lançamento nem uso de IA…",
+      "link": "https://olhardigital.com.br/2026/09/01/games-e-consoles/gta-6-nao-tera-microtransacoes-no-lancamento-nem-ia-generativa/",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/09/GTA-6-Kotaku.webp",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-01T18:43:23+00:00"
+    },
+    {
+      "id": "e5b0a196edd01228",
+      "title": "GoPro dispara após aposta milionária de youtuber e entrada em data centers de IA",
+      "summary": "Markiplier adquiriu participação de 8,5% na fabricante de câmeras, enquanto a companhia anuncia fusão de R$ 1,53 bilhão com empresa de fotônica para entrar em mercados de…",
+      "link": "https://olhardigital.com.br/2026/09/01/pro/gopro-dispara-apos-aposta-milionaria-de-youtuber-e-entrada-em-data-centers-de-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/11/camera-gopro-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-01T18:42:37+00:00"
+    },
+    {
+      "id": "defbd5e75152a3fc",
+      "title": "Impressora boa não precisa custar caro — veja opções em promoção na Amazon",
+      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três modelos multifuncionais em oferta na Amazon — todos com…",
+      "link": "https://olhardigital.com.br/2026/09/01/reviews/impressora-boa-nao-precisa-custar-caro-veja-opcoes-em-promocao-na-amazon-2/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-01T18:40:00+00:00"
+    },
+    {
+      "id": "7680bcf78a62aeae",
+      "title": "Apple acusa OpenAI de destruir evidências",
+      "summary": "A Apple está pressionando por uma “descoberta rápida” em sua batalha legal contra a OpenAI devido a preocupações de que a empresa esteja destruindo ativamente evidências, conforme relatado anteriormente pela Bloomberg. Em um…",
+      "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKS531_APPLE_V_OPEN_AI2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-01T18:19:26+00:00"
+    },
+    {
+      "id": "49d8f8bb06ff56af",
+      "title": "A resposta do Google ao Canva é uma ferramenta de IA onde você solicita em vez de projetar",
+      "summary": "Com o Google Pics, o Google está se aprofundando no mercado de software criativo dominado pelo Canva e pela Adobe, mas com uma abordagem claramente centrada na IA.",
+      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-01T17:35:37+00:00"
+    },
+    {
+      "id": "57158382d753eba0",
+      "title": "ChatGPT Health adiciona integração Epic para médicos importar dados de pacientes",
+      "summary": "A OpenAI disse que a integração fornece acesso somente leitura aos registros de saúde para os médicos.",
+      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-01T17:00:00+00:00"
+    },
+    {
+      "id": "b0cbef382238cdd5",
+      "title": "Como as empresas nativas de IA transformam fluxos de trabalho em capacidade operacional",
+      "summary": "Basis, Clay e Exa Labs usam agentes de IA para melhorar a integração, o gerenciamento de contas e as integrações de desenvolvedores. Veja o que os líderes empresariais podem aplicar.",
+      "link": "https://openai.com/index/ai-native-company-workflows",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-01T17:00:00+00:00"
+    },
+    {
+      "id": "08ce711fdb2cec04",
+      "title": "Waymo ataca antes do lançamento do Cybercab da Tesla",
+      "summary": "Waymo argumentou que veículos totalmente autônomos não são possíveis sem o uso de uma combinação de sensores e alertou que sistemas puros de IA de ponta a ponta não são seguros o suficiente.",
+      "link": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-01T16:49:12+00:00"
+    },
+    {
+      "id": "cd13a1c1f6ffc385",
+      "title": "O novo chefe do Google Deepmind diz que a liderança de IA de fronteira é a única coisa que importa",
+      "summary": "O chefe do Google Deepmind, Koray Kavukcuoglu, admite que os modelos atuais do Google estão “um pouco abaixo da fronteira”, mas diz que está “100% certo de que estaremos na fronteira”. Ele…",
+      "link": "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/google_logo_wall-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-01T16:49:11+00:00"
+    },
     {
       "id": "ef6608ff2871a404",
       "title": "John Deere lançou um chatbot de IA para agricultores",
@@ -124,9 +289,20 @@
       "published_at": "2026-09-01T13:00:00+00:00"
     },
     {
+      "id": "f2694bfa96c49e91",
+      "title": "Caminho para o Astra: capacidades críticas e salvaguardas de fronteira",
+      "summary": "O Astra é o primeiro modelo OpenAI a atingir o limite crítico de capacidade de segurança cibernética no âmbito do Quadro de Preparação, com salvaguardas mais fortes para a libertação.",
+      "link": "https://openai.com/index/path-to-astra",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-01T13:00:00+00:00"
+    },
+    {
       "id": "44b762639120e539",
       "title": "Rockstar garante GTA 6 sem microtransações e IA",
-      "summary": "Empresa afirmou que game não terá compras em dinheiro real,. Rockstar garante GTA 6 sem microtransações e IA",
+      "summary": "Empresa afirmou que game não terá compras em dinheiro real. Rockstar garante GTA 6 sem microtransações e IA",
       "link": "https://tecnoblog.net/noticias/rockstar-garante-gta-6-sem-microtransacoes-e-ia/",
       "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/ultimate_edition_saras_salon_01-340x191.jpg",
       "source": "Tecnoblog",
@@ -166,6 +342,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-01T12:12:21+00:00"
+    },
+    {
+      "id": "c0364833b41073ca",
+      "title": "As organizações de saúde agora podem conectar EHR e dados adicionais do setor ao ChatGPT",
+      "summary": "O ChatGPT agora pode se conectar a dados confiáveis ​​de saúde, ajudando os médicos a acessar com segurança o contexto do paciente, pesquisas médicas e muito mais.",
+      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-01T12:00:00+00:00"
     },
     {
       "id": "ac93e3246abc7ef0",
@@ -804,193 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-30T18:40:00+00:00"
-    },
-    {
-      "id": "e9155cfa28a1673b",
-      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
-      "summary": "Bem-vindo de volta ao TechCrunch Mobility, seu centro para o futuro do transporte e agora, mais do que nunca, o papel que a IA desempenha nele.",
-      "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-30T16:03:00+00:00"
-    },
-    {
-      "id": "6bfed2ab471f8cf4",
-      "title": "Governador do Texas, Abbott, bloqueia financiamento para mais câmeras Flock",
-      "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2291175333.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-30T15:35:10+00:00"
-    },
-    {
-      "id": "4bd72d31944298ee",
-      "title": "Casos de IA enganando usuários crescem e preocupam pesquisadores",
-      "summary": "Mais de 300 casos de perda de controle de IAs foram registrados em julho, quase o dobro do mês anterior, segundo pesquisa O post Casos de IA enganando usuários crescem e preocupam…",
-      "link": "https://olhardigital.com.br/2026/08/30/inteligencia-artificial/casos-de-ia-enganando-usuarios-crescem-e-preocupam-pesquisadores/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/inteligencia-artificial-IA-1024x592.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-30T15:12:25+00:00"
-    },
-    {
-      "id": "80d0eae02fda2662",
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-30T15:00:00+00:00"
-    },
-    {
-      "id": "a03a364ce48e1e35",
-      "title": "O sentimento sobre a IA está piorando à medida que as avaliações dos funcionários revelam frustração crescente em toda a força de trabalho",
-      "summary": "Uma análise das análises do Glassdoor mostra que os comentários positivos sobre IA caíram de 81 para 43 por cento desde 2019. Os executivos avaliam a IA em sua maioria positiva, enquanto os trabalhadores de sinistros de seguros…",
-      "link": "https://the-decoder.com/ai-sentiment-is-turning-sour-as-employee-reviews-reveal-growing-frustration-across-the-workforce/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/chatgpt_office_woman.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-30T13:12:19+00:00"
-    },
-    {
-      "id": "022402303394d12b",
-      "title": "Por dentro do esforço da Meta para colocar robôs para trabalhar em data centers",
-      "summary": "A empresa está testando robôs em tarefas que podem ser executadas por técnicos.",
-      "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-30T11:03:47+00:00"
-    },
-    {
-      "id": "e6a3f586011c1e3f",
-      "title": "5 dicas para treinar a memória do ChatGPT e melhorar as respostas",
-      "summary": "A memória do ChatGPT ajuda a IA a manter informações relevantes sobre o usuário entre diferentes conversas. Com o recurso ativado, o chatbot pode levar em conta preferências de…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/dicas-como-treinar-memoria-do-chatgpt/",
-      "image": "https://tl.ctcdn.com.br/M97dFogcb8WuR352m8LixgtgapI=/0x0/filters:format(webp):quality(85)/483c949e-c9ea-41be-b2a9-e0fcfe03b894.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-30T11:00:00+00:00"
-    },
-    {
-      "id": "b0ce6f48da63d25e",
-      "title": "Os agentes de IA não têm noção do tempo e não estão cientes disso",
-      "summary": "Assistentes de codificação de IA como Claude Code e Codex não têm noção do tempo, de acordo com um novo estudo. Ambos superestimam sistematicamente quanto tempo as tarefas levarão. Codex está tão errado…",
-      "link": "https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/KI-Agents-lost-time.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-30T10:41:36+00:00"
-    },
-    {
-      "id": "b914b29e467f6392",
-      "title": "As habilidades que obtêm as melhores notas são aquelas que a IA consegue falsificar melhor",
-      "summary": "O GPT-4o aumentou as notas em um trabalho de marketing em quase um ponto completo em uma escala de cinco pontos em um experimento com 1.053 estudantes da Universidade Bocconi. Se eles realmente aprenderam…",
-      "link": "https://the-decoder.com/the-skills-that-earn-top-grades-are-the-ones-ai-can-fake-best/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/student-ai-assisted-assignment-illustration.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-30T10:34:09+00:00"
-    },
-    {
-      "id": "a2928c0da1acf674",
-      "title": "Por que alianças como a Open Secure AI Alliance importam para quem usa IA no dia a dia",
-      "summary": "A importância de uma parceria como essa está justamente na capacidade de reunir diferentes atores do ecossistema de tecnologia em torno de um objetivo comum O post Por que…",
-      "link": "https://olhardigital.com.br/2026/08/30/colunistas/por-que-aliancas-como-a-open-secure-ai-alliance-importam-para-quem-usa-ia-no-dia-a-dia/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-30T10:00:00+00:00"
-    },
-    {
-      "id": "daf9d244af68624b",
-      "title": "OpenAI, dona do ChatGPT, abre vagas de engenharia de IA em São Paulo; veja como se inscrever",
-      "summary": "Duas posições de Applied AI Engineer estão abertas no escritório brasileiro: uma voltada a empresas de tecnologia como Stripe e Uber; outra para grandes corporações O post OpenAI…",
-      "link": "https://olhardigital.com.br/2026/08/30/pro/openai-dona-do-chatgpt-abre-vagas-de-engenharia-de-ia-em-sao-paulo-veja-como-se-inscrever/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-30T09:30:00+00:00"
-    },
-    {
-      "id": "fbe891bd0b0722b7",
-      "title": "A mudança de limite do Código Claude da Anthropic é um aumento no papel, mas um corte na prática",
-      "summary": "A Anthropic está efetivamente reduzindo os limites de uso semanal do Claude Code em 17%. Um aumento temporário de 50 por cento expira em 14 de setembro e será substituído por um aumento permanente de 25…",
-      "link": "https://the-decoder.com/anthropics-claude-code-limit-change-is-a-raise-on-paper-but-a-cut-in-practice/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-30T09:05:19+00:00"
-    },
-    {
-      "id": "3fcf0ae9156eb96f",
-      "title": "Sony e Warner processam a Anthropic por “um dos maiores e mais flagrantes roubos contínuos de propriedade intelectual da história”",
-      "summary": "Sony Music, Warner Music e outras editoras estão processando pessoalmente a Anthropic e o CEO Dario Amodei por supostamente usar dezenas de milhares de composições musicais protegidas por direitos autorais para…",
-      "link": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_music.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-30T08:50:20+00:00"
-    },
-    {
-      "id": "9df4dd3c01164758",
-      "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices",
-      "summary": "A Anthropic abriu uma prévia da pesquisa do Model Hardware Standard (MHS), uma especificação de driver compartilhada que permite que agentes de IA descubram e operem dispositivos físicos com segurança…",
-      "link": "https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-30T06:12:21+00:00"
-    },
-    {
-      "id": "d88d7da276777ad9",
-      "title": "Conheça ‘Code-as-World’: um loop agente que reescreve vídeos reais em programas executáveis ​​​​de física MuJoCo",
-      "summary": "Code-as-World recupera código de cena MuJoCo editável de vídeo real e, em seguida, usa esses mundos verificados para treinar o raciocínio físico. A postagem Conheça ‘Code-as-World’: um loop agente que…",
-      "link": "https://www.marktechpost.com/2026/08/29/mirros-code-as-world-executable-world-representations/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-30T01:35:02+00:00"
-    },
-    {
-      "id": "2ff14a59d7b7b18c",
-      "title": "Gigantes da música acusam Anthropic de pirataria para treinar IA",
-      "summary": "A Sony Music e a Warner Music entraram com uma ação judicial conjunta contra a Anthropic. O post Gigantes da música acusam Anthropic de pirataria para treinar IA apareceu primeiro…",
-      "link": "https://olhardigital.com.br/2026/08/29/inteligencia-artificial/gigantes-da-musica-acusam-anthropic-de-pirataria-para-treinar-ia/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-29T20:30:00+00:00"
-    },
-    {
-      "id": "5689ed0485f9e45d",
-      "title": "7 prompts para transformar o novo Google Maps no guia de turismo perfeito",
-      "summary": "O Google Maps recebeu uma atualização que amplia o uso do aplicativo durante viagens. Com a integração do Gemini, o recurso Ask Maps (Pergunte ao Maps) entende perguntas feitas em…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/prompts-para-transformar-google-maps-guia-de-turismo/",
-      "image": "https://tl.ctcdn.com.br/z1zuxMeYK4cHrHEqgHOcgBzOaK0=/0x0/filters:format(webp):quality(85)/a1420573-3a46-4ee9-ba20-9297dce01005.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-29T19:00:00+00:00"
     }
   ]
 }
