@@ -1,7 +1,172 @@
 {
-  "generated_at": "2026-09-01T11:07:37.823026+00:00",
+  "generated_at": "2026-09-01T16:05:53.187972+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "ef6608ff2871a404",
+      "title": "John Deere lançou um chatbot de IA para agricultores",
+      "summary": "A John Deere está testando um novo assistente de IA \"JD\" que, segundo ela, pode ajudar os agricultores a ganhar mais dinheiro, com respostas sobre as melhores práticas e tendências históricas baseadas em suas próprias…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/john-deere-jd-ai-featured.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-01T16:00:52+00:00"
+    },
+    {
+      "id": "8b4ab8a3a41cf18d",
+      "title": "O Google Pics é como o Canva, mas com ainda mais IA",
+      "summary": "O Google tem um novo conjunto de ferramentas de design criativo para usuários do Workspace chamado Google Pics, que visa tornar a edição e geração de imagens de IA de “nível profissional” menos complicada…",
+      "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Google-Pics-rollout-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-01T16:00:00+00:00"
+    },
+    {
+      "id": "7415c6bcd9dd29da",
+      "title": "Experimente o Google Pics: fácil criação e edição de imagens no Google Workspace",
+      "summary": "Colagem de imagens criadas pelo Google Pics, com o texto “Diga olá ao Google Pics” na parte superior",
+      "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-01T16:00:00+00:00"
+    },
+    {
+      "id": "0f6757b0518c5569",
+      "title": "GoPro será adquirida por US$ 285 milhões e continuará sendo uma empresa pública",
+      "summary": "A GoPro está se fundindo com uma empresa que constrói infraestrutura de IA e continuará oferecendo suporte aos produtos de consumo existentes.",
+      "link": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-01T15:57:23+00:00"
+    },
+    {
+      "id": "487f6c7b872ab7a7",
+      "title": "Pesquisadores de Princeton, Ant Group e Stanford apresentam AQuA: uma estrutura de agência em duas partes para descoberta autônoma de fatores e desenvolvimento de modelos em finanças quantitativas",
+      "summary": "Agentes de pesquisa quantitativa que escrevem seus próprios experimentos podem corromper as evidências com as quais aprenderão mais tarde. Um recurso vazado com boa pontuação é armazenado como um sucesso…",
+      "link": "https://www.marktechpost.com/2026/09/01/aqua-a-two-part-agentic-framework-for-autonomous-factor-discovery/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-01T15:54:14+00:00"
+    },
+    {
+      "id": "c6d1166e74facffc",
+      "title": "AIR arrecada US$ 50 milhões para ajudar as empresas a avaliar as habilidades e complementos que os agentes de IA usam",
+      "summary": "A plataforma do AIR pode descobrir agentes que trabalham em uma empresa, examinar continuamente quaisquer habilidades e complementos que eles usam e bloquear qualquer comportamento indesejado.",
+      "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-01T15:45:51+00:00"
+    },
+    {
+      "id": "f7e091e284fd07cb",
+      "title": "Fambot apresenta um ‘chefe de gabinete de IA’ para famílias",
+      "summary": "A Fambot está construindo um “chefe de gabinete” de IA para ajudar as famílias a gerenciar e-mails, calendários, atualizações escolares, horários esportivos e outras logísticas de criação dos filhos.",
+      "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-01T15:10:58+00:00"
+    },
+    {
+      "id": "e7484aa6cdfe0dc7",
+      "title": "Startup relança Twitter com checagem por IA e \"pedágio\" de entrada; conheça",
+      "summary": "Para a alegria de saudosistas de plantão, o Twitter voltou com direito a ícone de passarinho e tema azul claro. O resultado é o Twitter.now , nova rede social criada pela startup…",
+      "link": "https://canaltech.com.br/apps/startup-relanca-twitter-com-checagem-por-ia-e-pedagio-de-entrada-conheca/",
+      "image": "https://tl.ctcdn.com.br/6c1jWUaT2bBx_jrtJNNtOb1-9Fg=/0x0/filters:format(webp):quality(85)/6e7f4a68-5abe-4789-9f00-e6499218ad42.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-01T15:09:00+00:00"
+    },
+    {
+      "id": "d892228b7b13bc54",
+      "title": "Galaxy Watch 8 LTE cai mais de 60% para quem busca smartwatch premium",
+      "summary": "Galaxy Watch 8 de 44 mm com tela AMOLED, Galaxy AI e bateria de até 40 horas sai por menos da metade do preço com pagamento via Pix na Amazon Galaxy Watch 8 LTE cai mais de 60%…",
+      "link": "https://tecnoblog.net/achados/galaxy-watch-8-lte-cai-mais-de-60-para-quem-busca-smartwatch-premium/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/ukunaxh68o.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-01T13:17:41+00:00"
+    },
+    {
+      "id": "7b98086e5582e84c",
+      "title": "As visões gerais de IA eleitoral do Google são opacas, dependem de poucas fontes e às vezes tomam partido",
+      "summary": "Usando o acesso concedido pela Lei de Serviços Digitais da UE, o grupo de defesa alemão AlgorithmWatch executou 4.480 consultas de pesquisa relacionadas a eleições no Google e analisou a IA…",
+      "link": "https://the-decoder.com/googles-election-ai-overviews-are-opaque-rely-on-few-sources-and-sometimes-take-sides/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/AlgorithmWatch-LTW_KI-Ubersicht_Studie_Website_Titelbild-1.webp",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-01T13:03:17+00:00"
+    },
+    {
+      "id": "a9cc7a6dadebb10f",
+      "title": "O polêmico DLSS 5 da Nvidia chega em 3 de setembro e requer grande potência de GPU",
+      "summary": "A Nvidia está lançando oficialmente o DLSS 5 esta semana, após um anúncio polêmico em março, onde comparamos a tecnologia de upscaling de IA a um “filtro de IA generativo em tempo real para vídeo…",
+      "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/nba-2k-image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-01T13:00:00+00:00"
+    },
+    {
+      "id": "44b762639120e539",
+      "title": "Rockstar garante GTA 6 sem microtransações e IA",
+      "summary": "Empresa afirmou que game não terá compras em dinheiro real,. Rockstar garante GTA 6 sem microtransações e IA",
+      "link": "https://tecnoblog.net/noticias/rockstar-garante-gta-6-sem-microtransacoes-e-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/ultimate_edition_saras_salon_01-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-01T12:56:38+00:00"
+    },
+    {
+      "id": "1fbf74bc9f208c04",
+      "title": "Solaris da Runway é um sistema de IA que gera interfaces de software em tempo real",
+      "summary": "A empresa de IA Runway revelou o Solaris, o primeiro modelo em uma nova categoria que chama de “Modelos Mundiais de Interface”. Em vez de executar o código, o sistema gera o quadro da interface do usuário…",
+      "link": "https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/Runway-Solaris-title.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-01T12:53:46+00:00"
+    },
+    {
+      "id": "ef99a5899815b12b",
+      "title": "A pesquisa de IA do Google abandonou seu conselho de chamadas de emergência sobre nacionalidades, mas ainda sinaliza pessoas do Facebook",
+      "summary": "“Por favor, vá para um local seguro ou ligue para os serviços de emergência”: esse é o conselho que a pesquisa de IA do Google deu aos usuários que digitaram que estavam sozinhos com um africano, indiano ou paquistanês. O…",
+      "link": "https://the-decoder.com/googles-ai-search-dropped-its-emergency-call-advice-over-nationalities-but-still-flags-people-from-facebook/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-01T12:44:11+00:00"
+    },
+    {
+      "id": "384b7f56a1bfdb52",
+      "title": "Instagram tem plano para barrar influenciadores de IA; veja se regra afeta o seu perfil",
+      "summary": "O Instagram adotou um novo rótulo para perfis de pessoas geradas por IA e promete limitar o alcance das contas que não adotarem a nova medida . O objetivo é trazer mais…",
+      "link": "https://canaltech.com.br/apps/instagram-tem-plano-para-barrar-influenciadores-de-ia-veja-se-regra-afeta-o-seu-perfil/",
+      "image": "https://tl.ctcdn.com.br/LboEWGyy1Hfqfn7nabkkG_ydQDg=/0x0/filters:format(webp):quality(85)/fb523c34-16f2-477f-bf83-3550f7cbd936.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-01T12:12:21+00:00"
+    },
     {
       "id": "ac93e3246abc7ef0",
       "title": "Oracle abre inscrições para curso gratuito de IA para negócios; veja como se inscrever",
@@ -89,6 +254,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-01T00:13:00+00:00"
+    },
+    {
+      "id": "91dad0068ec24e5b",
+      "title": "Apresentando @huggingface/kernels: mais de 200 kernels WebGPU para IA local",
+      "summary": "",
+      "link": "https://huggingface.co/blog/webgpu-kernels",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-01T00:00:00+00:00"
     },
     {
       "id": "9a7e59b27fc2b4e2",
@@ -815,182 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-29T19:00:00+00:00"
-    },
-    {
-      "id": "79c30e10cc43fb61",
-      "title": "Building Custom Batched Ensemble Weather Forecasting with NVIDIA Earth2Studio",
-      "summary": "Neste tutorial, construímos um fluxo de trabalho conjunto de previsão do tempo com NVIDIA Earth2Studio. Instalamos os componentes necessários do Earth2Studio enquanto preservamos os recursos existentes do Colab…",
-      "link": "https://www.marktechpost.com/2026/08/29/building-custom-batched-ensemble-weather-forecasting-with-nvidia-earth2studio/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-29T18:57:26+00:00"
-    },
-    {
-      "id": "d750556c657fba21",
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-29T18:41:59+00:00"
-    },
-    {
-      "id": "261965a737e60981",
-      "title": "Hora de imprimir mais gastando menos: veja impressoras em promoção na Amazon",
-      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é um bom momento para conferir o que está disponível na Amazon. Reunimos três opções multifuncionais…",
-      "link": "https://olhardigital.com.br/2026/08/29/reviews/hora-de-imprimir-mais-gastando-menos-veja-impressoras-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-29T18:40:00+00:00"
-    },
-    {
-      "id": "3fe1ee4b5de036dc",
-      "title": "OpenAI corta acesso de empresa comprada por SpaceX e alfineta Musk",
-      "summary": "A OpenAI anunciou que vai encerrar o acesso da plataforma Cursor aos seus modelos de inteligência artificial O post OpenAI corta acesso de empresa comprada por SpaceX e alfineta…",
-      "link": "https://olhardigital.com.br/2026/08/29/inteligencia-artificial/openai-corta-acesso-de-empresa-comprada-por-spacex-e-alfineta-musk/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-29T18:23:19+00:00"
-    },
-    {
-      "id": "f593ff968abe8d62",
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
-      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\"…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-29T18:19:53+00:00"
-    },
-    {
-      "id": "b1084d73e30ce32d",
-      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
-      "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
-      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-29T17:51:10+00:00"
-    },
-    {
-      "id": "1c359d226297b79b",
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-      "summary": "Vijay Pande - que deixou a prática de biotecnologia de cerca de US $ 4 bilhões da a16z no ano passado para iniciar o VZVC, muito menor e nativo de IA - fala sobre por que a biologia está finalmente mudando de um…",
-      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-29T17:36:47+00:00"
-    },
-    {
-      "id": "6d2414e5aa127510",
-      "title": "IA pode salvar os games em tempos de crise de hardware; entenda",
-      "summary": "Quando os recursos de IA chegaram para auxiliar os jogos de PC, principalmente com o lançamento da primeira versão do NVIDIA DLSS em 2019, grande parte da comunidade torceu o…",
-      "link": "https://canaltech.com.br/hardware/ia-pode-salvar-games-em-tempos-de-crise/",
-      "image": "https://tl.ctcdn.com.br/jvC70fohAwmPoZiD3eAZqOE2vG8=/0x0/filters:format(webp):quality(85)/8cb80b8b-de74-4fab-8f4f-fd2466ffca76.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-29T16:30:00+00:00"
-    },
-    {
-      "id": "15e25a0de4809b61",
-      "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling",
-      "summary": "Analisamos o Gemini Omni 1.1 Flash, a atualização de produção do Google para seu modelo nativo de geração e edição de vídeo multimodal. Detalhamos o que mudou: a extensão da cena agora aparece…",
-      "link": "https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-29T14:30:44+00:00"
-    },
-    {
-      "id": "b9f06acf9b221f71",
-      "title": "Gemini tem acesso a todos os dados da sua empresa; veja como desativar",
-      "summary": "O Google Workspace permite que o Gemini use informações corporativas de serviços como Gmail, Drive, Docs, Agenda e Chat para gerar respostas contextualizadas. Essa integração vem…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-tem-acesso-a-todos-os-dados-da-sua-empresa-veja-como-desativar/",
-      "image": "https://tl.ctcdn.com.br/2EyuqhmZaLK-QAejIMGN0_3cdSw=/0x0/filters:format(webp):quality(85)/895b88d2-a897-4e5e-9b32-b24dbcb48fb2.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-29T14:30:00+00:00"
-    },
-    {
-      "id": "8404bb29c92e9185",
-      "title": "OpenAI corta Cursor após aquisição da SpaceX, citando o histórico de quebra de contratos de Musk",
-      "summary": "A OpenAI está cortando a ferramenta de codificação de IA Cursor depois que a SpaceX adquiriu a empresa, citando o histórico de quebra de contratos de Elon Musk. O cofundador do Cursor, Michael Truell…",
-      "link": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-29T13:33:35+00:00"
-    },
-    {
-      "id": "e536c3c3795d22bb",
-      "title": "AI-generated videos are already displacing actors and livestreamers across China's entertainment industry",
-      "summary": "In China, 95 percent of the 128,000 short dramas released in Q1 2026 were AI-generated. Some actors are being forced to hand over their voice and likeness to AI tools before…",
-      "link": "https://the-decoder.com/ai-generated-videos-are-already-displacing-actors-and-livestreamers-across-chinas-entertainment-industry/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/china_flag_visual-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-29T13:25:56+00:00"
-    },
-    {
-      "id": "9297e8ada755491f",
-      "title": "Casa de 2050: 12 eletrodomésticos geniais que você não conhecia",
-      "summary": "Uma casa futurista não precisa ter uma inteligência artificial em cada cômodo ou dezenas de aparelhos conectados ao Wi-Fi. Algumas tecnologias impressionam justamente porque…",
-      "link": "https://canaltech.com.br/eletro/casa-de-2050-x-eletrodomesticos-geniais-que-voce-nao-conhecia/",
-      "image": "https://tl.ctcdn.com.br/II5NQi4e8whyefqzLEOURGEu-xA=/0x0/filters:format(webp):quality(85)/ef97a3fd-2afe-4287-9fff-3e9e67eba925.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-29T13:00:01+00:00"
-    },
-    {
-      "id": "a85aa69b831be69c",
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "summary": "A nova geração de sistemas de data center está aumentando a eficiência com um controle de tráfego mais inteligente, em vez de apenas mais ciclos de processador.",
-      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-29T13:00:00+00:00"
-    },
-    {
-      "id": "502f0407e7a8f241",
-      "title": "O WikiSkill do Google oferece aos agentes de IA uma memória persistente de erros passados ​​para aprimorar o desempenho futuro",
-      "summary": "Google Research has introduced WikiSkill, a framework that gives AI agents a persistent knowledge base. Instead of discarding what they learned after each run, agents document…",
-      "link": "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/aigent_skills_generation.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-29T12:51:24+00:00"
-    },
-    {
-      "id": "e4668613f9987f83",
-      "title": "8 filmes e séries que já abordaram IA generativa como a conhecemos hoje",
-      "summary": "A inteligência artificial é tratada em filmes e séries há décadas e teve previsões certeiras em meio a cenários apocalípticos. Por outro lado, a ascensão da IA generativa e de…",
-      "link": "https://canaltech.com.br/entretenimento/filmes-e-series-com-ia-generativa/",
-      "image": "https://tl.ctcdn.com.br/LXjpNkTzewv8xYoZ5U7h0oeMdZQ=/0x0/filters:format(webp):quality(85)/28b8e068-3551-4780-a15e-4bd3ab390db8.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-29T12:30:03+00:00"
     }
   ]
 }
