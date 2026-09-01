@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-08-31T22:28:10.680496+00:00",
+  "generated_at": "2026-09-01T03:38:46.885697+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "722c0c94a7c70eb1",
+      "title": "EUA alertam para riscos imprevisíveis e de alto impacto ligados à IA",
+      "summary": "Relatório afirma que sistemas avançados de IA podem facilitar o desenvolvimento de armas perigosas e ataques mais destrutivos por terroristas e outros grupos O post EUA alertam…",
+      "link": "https://olhardigital.com.br/2026/08/31/inteligencia-artificial/eua-alertam-para-riscos-imprevisiveis-e-de-alto-impacto-ligados-a-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/seguranca-ia-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-01T01:58:16+00:00"
+    },
+    {
+      "id": "7431219f1e584da1",
+      "title": "Anthropic fecha acordo bilionário com empresa de nuvem apoiada pela Nvidia",
+      "summary": "Nvidia fornecerá chips para data center no Texas e ficará com o contrato de locação; estrutura mostra como a empresa tem usado sua força financeira para ampliar o acesso de…",
+      "link": "https://olhardigital.com.br/2026/08/31/pro/anthropic-fecha-acordo-bilionario-com-empresa-de-nuvem-apoiada-pela-nvidia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/nvidia_chip-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-01T01:11:56+00:00"
+    },
+    {
+      "id": "fde0b71df88460da",
+      "title": "Instagram vai punir perfis gerados por IA que não se identificarem",
+      "summary": "Plataforma vai trocar rótulo “Criador de conteúdo de IA” por “Perfil gerado por IA” e poderá reduzir alcance de contas que não informarem uso da tecnologia O post Instagram vai…",
+      "link": "https://olhardigital.com.br/2026/08/31/internet-e-redes-sociais/instagram-vai-punir-perfis-gerados-por-ia-que-nao-se-identificarem/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/instagram_perfis_ia.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-01T00:17:58+00:00"
+    },
+    {
+      "id": "b0ee4c6fde08a42b",
+      "title": "Apple compartilha ‘evidências chocantes’ contra ex-funcionário acusado de roubar dados da empresa para OpenAI",
+      "summary": "A Apple afirma ter evidências de que um ex-funcionário destruiu evidências de roubo de dados após saber que estava sob investigação.",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-01T00:13:00+00:00"
+    },
     {
       "id": "591ca98d87dd0116",
       "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
@@ -419,6 +463,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-31T08:55:12+00:00"
+    },
+    {
+      "id": "0b5a688ac44522d6",
+      "title": "Polimill constrói infraestrutura pública de IA de próxima geração do Japão",
+      "summary": "A Polimill usa modelos OpenAI GPT e Codex para ajudar os municípios a pesquisar e usar o conhecimento administrativo enquanto aceleram o desenvolvimento.",
+      "link": "https://openai.com/index/polimill",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-31T07:00:00+00:00"
     },
     {
       "id": "f24da1a98c0b8bfe",
@@ -936,61 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-08-29T05:25:16+00:00"
-    },
-    {
-      "id": "e7e4a15e0ac52dc9",
-      "title": "Meta corrige falha de privacidade em óculos inteligentes e tenta impedir gravação indevida",
-      "summary": "Empresa identificou e está corrigindo uma brecha que permitia contornar uma das principais proteções de privacidade dos óculos O post Meta corrige falha de privacidade em óculos…",
-      "link": "https://olhardigital.com.br/2026/08/28/reviews/meta-corrige-falha-de-privacidade-em-oculos-inteligentes-e-tenta-impedir-gravacao-indevida/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/meta_platforms-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-29T01:30:07+00:00"
-    },
-    {
-      "id": "601d1fa91d0fd347",
-      "title": "O que você fala com o ChatGPT pode ser usado contra você?",
-      "summary": "Conversas com inteligência artificial não têm o mesmo sigilo de uma relação entre advogado e cliente, mas são protegidas por regras de privacidade e podem ser acessadas em…",
-      "link": "https://olhardigital.com.br/2026/08/28/inteligencia-artificial/o-que-voce-fala-com-o-chatgpt-pode-ser-usado-contra-voce/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/08/chatgpt-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-28T20:36:23+00:00"
-    },
-    {
-      "id": "7f0374631f4fcd05",
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-28T20:24:11+00:00"
-    },
-    {
-      "id": "50a4da63e2d691ae",
-      "title": "Óculos com câmera podem ganhar trava física contra gravações escondidas",
-      "summary": "A Meta estuda uma nova forma de impedir o uso escondido das câmeras de óculos inteligentes. Uma patente concedida recentemente à empresa apresenta um interruptor físico capaz de…",
-      "link": "https://canaltech.com.br/produtos/oculos-com-camera-podem-ganhar-trava-fisica-contra-gravacoes-escondidas/",
-      "image": "https://tl.ctcdn.com.br/BQFX92m-eH_G63M5SgMl-5IXCro=/0x0/filters:format(webp):quality(85)/eec11305-7612-42c9-9bf1-11056fff2f71.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-28T20:23:30+00:00"
-    },
-    {
-      "id": "a75f9d8e6d4ec390",
-      "title": "Claude apagou 700 GB de dados de usuário por engano",
-      "summary": "IA da Anthropic falhou ao criar um script e deletou uma semana inteira de trabalho de um desenvolvedor. Claude apagou 700 GB de dados de usuário por engano",
-      "link": "https://tecnoblog.net/noticias/claude-apagou-700-gb-de-dados-de-um-usuario-por-engano/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-7-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-28T19:53:46+00:00"
     }
   ]
 }
