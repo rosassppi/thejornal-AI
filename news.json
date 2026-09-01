@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-01T03:38:46.885697+00:00",
+  "generated_at": "2026-09-01T11:07:37.823026+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "ac93e3246abc7ef0",
+      "title": "Oracle abre inscrições para curso gratuito de IA para negócios; veja como se inscrever",
+      "summary": "A Oracle abre nesta terça-feira (1º) as inscrições para o ONE AI for Business, nova formação gratuita em Inteligência Artificial (IA) do programa Oracle Next Education (ONE). O…",
+      "link": "https://canaltech.com.br/mercado/oracle-abre-inscricoes-para-curso-gratuito-de-ia-para-negocios-veja-como-se-inscrever/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-01T11:03:00+00:00"
+    },
+    {
+      "id": "3958943c6c155e41",
+      "title": "Nova \"escova de dentes tech\" tem câmera, IA e jato de água para limpar a boca",
+      "summary": "A empresa Dyson lançou uma escova de dentes com câmera , inteligência artificial, jatos de água e aplicativo para reunir escovação, fio dental e enxágue em um único aparelho…",
+      "link": "https://canaltech.com.br/produtos/nova-escova-de-dentes-tech-tem-camera-ia-e-jato-de-agua-para-limpar-a-boca/",
+      "image": "https://tl.ctcdn.com.br/1Yxt95Ssl5LeCkIwu7FymZfvYtY=/0x0/filters:format(webp):quality(85)/05a4ddb3-773e-40fd-ac91-25b751b094e1.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-01T10:11:58+00:00"
+    },
+    {
+      "id": "e42f6001fd99e991",
+      "title": "Fim de uma era: o legado de Tim Cook na Apple",
+      "summary": "Sob a gestão de Tim Cook, a Apple se tornou a empresa mais valiosa do mundo – mas o avanço da IA ameaça o domínio da empresa O post Fim de uma era: o legado de Tim Cook na Apple…",
+      "link": "https://olhardigital.com.br/2026/09/01/pro/fim-de-uma-era-o-legado-de-tim-cook-na-apple/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/Infografico-Produtos-da-Apple-da-era-Tim-Cook-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-01T07:02:00+00:00"
+    },
+    {
+      "id": "7a5dc308de08fa20",
+      "title": "Gradium AI Releases New Default TTS Model: 81.0% Hard-Case Pass Rate at 216 ms Time-to-First-Audio",
+      "summary": "Speed and accuracy usually pull against each other in text-to-speech. Gradium AI's new default model reports both: an 81.0% human-rated pass rate on 500 hard sentences across five…",
+      "link": "https://www.marktechpost.com/2026/08/31/gradium-ai-releases-new-default-tts-model-81-0-hard-case-pass-rate-at-216-ms-time-to-first-audio/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-01T03:39:05+00:00"
+    },
     {
       "id": "722c0c94a7c70eb1",
       "title": "EUA alertam para riscos imprevisíveis e de alto impacto ligados à IA",
@@ -45,6 +89,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-01T00:13:00+00:00"
+    },
+    {
+      "id": "9a7e59b27fc2b4e2",
+      "title": "Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour",
+      "summary": "How do you benchmark a web search API when the thing being tested can read the answer key? A search agent has a fetch tool. If the gold labels sit in a public dataset, the agent…",
+      "link": "https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-08-31T23:43:26+00:00"
     },
     {
       "id": "591ca98d87dd0116",
@@ -463,6 +518,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-31T08:55:12+00:00"
+    },
+    {
+      "id": "4862f3d2c68fb1ad",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-08-31T07:00:00+00:00"
     },
     {
       "id": "0b5a688ac44522d6",
@@ -925,72 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-29T12:30:03+00:00"
-    },
-    {
-      "id": "4ed9a280c24da513",
-      "title": "Músicos que viraram detetives estão caçando vigaristas de IA",
-      "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are…",
-      "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,85.33125,89.314310632479",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-29T12:00:00+00:00"
-    },
-    {
-      "id": "86ee5b396cbb9320",
-      "title": "5 coisas que o Claude faz melhor que o Gemini",
-      "summary": "Atualmente, o Gemini, do Google, e o Claude, da Anthropic, estão entre as principais inteligências artificiais do mercado, mas seguem caminhos diferentes . O Gemini aposta na…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-claude-faz-melhor-que-gemini/",
-      "image": "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-29T11:00:01+00:00"
-    },
-    {
-      "id": "77d07dfa198412ae",
-      "title": "A IA precisa ser testada por quem pensa como um invasor",
-      "summary": "Especialista em cibersegurança da Core AI explica por que testar modelos de IA como um atacante testaria é hoje parte essencial do desenvolvimento seguro O post A IA precisa ser…",
-      "link": "https://olhardigital.com.br/2026/08/29/colunistas/a-ia-precisa-ser-testada-por-quem-pensa-como-um-invasor/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-29T10:00:00+00:00"
-    },
-    {
-      "id": "7aa56fc0b9a4e162",
-      "title": "LAION lança enorme conjunto de dados de vídeo aberto com 10 milhões de horas de filmagem para pesquisa de IA",
-      "summary": "O Big Video Dataset (BVD) da LAION é um dos maiores conjuntos de dados de vídeo abertos para pesquisa de IA, com 80 milhões de vídeos, 10 milhões de horas de execução e 55 milhões de descrições automáticas…",
-      "link": "https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/",
-      "image": "https://the-decoder.com/wp-content/uploads/2024/08/images_database_ai_generated_data_files_online_storage-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-29T09:36:48+00:00"
-    },
-    {
-      "id": "29f51850ae0ac0a7",
-      "title": "A Anthropic quer fazer pelo hardware físico o que seu Model Context Protocol fez pelo software",
-      "summary": "O Model Hardware Standard (MHS) da Anthropic oferece aos agentes de IA uma interface unificada para dispositivos físicos, como braços robóticos e instrumentos de laboratório. Nos primeiros testes, o tempo de integração caiu…",
-      "link": "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/mhs-ki-hardware-labore-fabriken.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-29T09:14:30+00:00"
-    },
-    {
-      "id": "39e4cdda6c550e1f",
-      "title": "Hugging Face revela Microduck: um bípede de 25 cm de código aberto de US$ 399 que você treina com aprendizado por reforço",
-      "summary": "Pollen Robotics, a equipe de robótica de Bordeaux da Hugging Face, abriu pré-encomendas do Microduck - um robô bípede de 25 cm onde cada movimento é uma política neural treinada em MuJoCo e…",
-      "link": "https://www.marktechpost.com/2026/08/28/pollen-robotics-hugging-face-microduck-399-open-source-rl-biped-robot/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-29T05:25:16+00:00"
     }
   ]
 }
