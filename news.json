@@ -1,7 +1,249 @@
 {
-  "generated_at": "2026-09-02T10:40:11.236816+00:00",
+  "generated_at": "2026-09-02T15:58:57.618638+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "306913a85ad8186c",
+      "title": "O Google está enviando MrBeast para o deserto, armado com IA",
+      "summary": "MrBeast apresentará Gemini, Google Health e Fitbit Air nos próximos vídeos como parte de uma parceria plurianual com o Google. O negócio começará com um vídeo apresentando…",
+      "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2255012715.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-02T15:47:03+00:00"
+    },
+    {
+      "id": "5eb2aa71a90a9c91",
+      "title": "Defesa cibernética proativa para governos e empresas",
+      "summary": "Apresentando o Programa Fairwind",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-02T15:40:00+00:00"
+    },
+    {
+      "id": "d9ce3ecdee9c0ae1",
+      "title": "HiddenLayer arrecada US$ 100 milhões enquanto as empresas correm para proteger suas implantações de IA",
+      "summary": "HiddenLayer levantou uma Série B de US$ 100 milhões da Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, M12 da Microsoft, Booz Allen Hamilton e outros.",
+      "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-02T15:01:23+00:00"
+    },
+    {
+      "id": "5ce4a0196c7f5aaf",
+      "title": "PSA: a IA de compras da Amazon agora pode dizer se essa mensagem é uma farsa",
+      "summary": "A Amazon está adicionando um recurso de detecção de golpes ao Alexa for Shopping que pode verificar se e-mails, textos e outras mensagens suspeitas realmente vieram do varejista.",
+      "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-02T14:56:34+00:00"
+    },
+    {
+      "id": "a36edc65fd6f0523",
+      "title": "Militares dos EUA adicionam ChatGPT e Grok à plataforma de IA GenAI.mil",
+      "summary": "O Pentágono está expandindo sua plataforma de IA com dois novos modelos, ChatGPT Mil da OpenAI e Grok for Government da xAI. O artigo Militares dos EUA adicionam ChatGPT e Grok à plataforma de IA…",
+      "link": "https://the-decoder.com/us-military-adds-chatgpt-and-grok-to-ai-platform-genai-mil/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/pentagon_chatgpt_grok.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-02T14:40:51+00:00"
+    },
+    {
+      "id": "59bc04e962d53379",
+      "title": "Echo Dot em destaque: confira uma seleção de Smart Speakers com Alexa em promoção na Amazon",
+      "summary": "Se você quer deixar a casa mais inteligente sem complicação, o Echo Dot continua sendo uma das opções mais acessíveis e práticas do mercado. A Amazon reúne na sua plataforma…",
+      "link": "https://olhardigital.com.br/2026/09/02/reviews/echo-dot-em-destaque-confira-uma-selecao-de-smart-speakers-com-alexa-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-02T14:40:00+00:00"
+    },
+    {
+      "id": "c6bad388c0417685",
+      "title": "OpenAI acusada de ‘ajudar e encorajar’ tiroteio em massa em Tumbler Ridge em dezenas de novos processos",
+      "summary": "A OpenAI e seu CEO Sam Altman estão enfrentando 30 novos processos que os acusam de fornecer “assistência e incentivo substancial” ao suspeito na escola Tumbler Ridge, no Canadá…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2261008686.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-02T14:35:03+00:00"
+    },
+    {
+      "id": "4a90a93cc5891125",
+      "title": "Nova York proíbe o uso de IA para estudantes até que cheguem ao ensino médio",
+      "summary": "O prefeito da cidade de Nova York, Zohran Mamdani, anunciou hoje uma nova política que proibirá crianças em idade escolar de usar IA nas salas de aula. A moratória de um ano, em vigor no…",
+      "link": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-02T14:30:00+00:00"
+    },
+    {
+      "id": "727cec436016d1ec",
+      "title": "Protestos contra data centers de IA jogam a favor da China, diz Trump",
+      "summary": "O Presidente Trump tem resistido fortemente à crescente oposição aos centros de dados de IA nos EUA. O artigo Protestos contra data centers de IA fazem o jogo da China, diz Trump…",
+      "link": "https://the-decoder.com/protests-against-ai-data-centers-play-into-chinas-hands-trump-says/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/konkurrenz_usa_china.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-02T14:23:51+00:00"
+    },
+    {
+      "id": "537b34ea2a147140",
+      "title": "A OpenAI chama o Astra de seu modelo mais perigoso até agora – observar o que ele faz está cada vez mais difícil",
+      "summary": "A OpenAI está classificando oficialmente seu próximo modelo Astra como o primeiro sistema com capacidades cibernéticas “críticas”. A empresa planeja mantê-lo sob controle monitorando a cadeia de…",
+      "link": "https://the-decoder.com/openai-calls-astra-its-most-dangerous-model-yet-watching-what-it-does-is-only-getting-harder/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/Astra-Chain-of-Thought.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-02T14:20:28+00:00"
+    },
+    {
+      "id": "8109919b0a51382e",
+      "title": "Governo pode proibir uso de IA para corrigir redações nas escolas; entenda as regras",
+      "summary": "Diretrizes aprovadas pelo CNE ainda precisam de homologação do MEC. Se forem confirmadas, instituições terão 12 meses para se adaptar. Governo pode proibir uso de IA para corrigir…",
+      "link": "https://tecnoblog.net/noticias/cne-proibe-ia-para-corrigir-redacoes-nas-escolas-veja-o-que-muda/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/12/escola-publica-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-02T14:18:33+00:00"
+    },
+    {
+      "id": "59aa377f580111c6",
+      "title": "Adobe adquire startup indiana de inteligência de mercado Rilo",
+      "summary": "Esta é a segunda aquisição da Adobe fora da Índia depois da Rephrase.ai em 2023",
+      "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-02T14:03:57+00:00"
+    },
+    {
+      "id": "dae7e21339af7494",
+      "title": "Parece que faremos uma viagem de 80 mil anos até outro sistema solar",
+      "summary": "Uma IA encontrou uma rota inédita para uma missão que pode levar 80 mil anos até Alpha Centauri, com lançamento previsto para 2029 O post Parece que faremos uma viagem de 80 mil…",
+      "link": "https://olhardigital.com.br/2026/09/02/ciencia-e-espaco/ia-resolve-quebra-cabeca-para-enviar-nave-ate-alpha-centauri/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/fermi-explorer-mission-1024x576.webp",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-02T14:01:37+00:00"
+    },
+    {
+      "id": "8cee6b788bd82636",
+      "title": "Novo Claude Fable 5.1 é mais poderoso, mais barato e tem menos restrições",
+      "summary": "A Anthropic lançou nesta semana o Claude Fable 5.1 e o Claude Mythos 5.1 , novas versões do seu modelo mais avançado de inteligência artificial. Os dois compartilham o mesmo…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/novo-claude-fable-51-e-mais-poderoso-mais-barato-e-tem-menos-restricoes/",
+      "image": "https://tl.ctcdn.com.br/V_m3L7PCGu1dxxWPI7PkOEJWOA8=/0x0/filters:format(webp):quality(85)/4ef463f1-605c-4ee7-be94-35fafeebbf38.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-02T14:01:00+00:00"
+    },
+    {
+      "id": "f87bb394d39e63b8",
+      "title": "Facilitando a integração de IA com simplicidade em escala",
+      "summary": "À medida que as empresas crescem, a tecnologia que suporta as operações pode tornar-se um passivo tão rapidamente como se torna um activo. Sistemas desconectados, ferramentas específicas do local, planilhas…",
+      "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-02T14:00:00+00:00"
+    },
+    {
+      "id": "eba1d6d56bc796bf",
+      "title": "Anthropic lança Fable 5.1 com menos restrições e promessa de economia",
+      "summary": "Desenvolvedora também anuncia Mythos 5.1, que segue restrito a grupo de organizações confiáveis. Anthropic lança Fable 5.1 com menos restrições e promessa de economia",
+      "link": "https://tecnoblog.net/noticias/anthropic-lanca-fable-5-1-com-menos-restricoes-e-promessa-de-economia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-2-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-02T13:50:21+00:00"
+    },
+    {
+      "id": "8c10bd00da2e478d",
+      "title": "Inteligência em tempo real com modelos IBM Time Series no Confluent",
+      "summary": "",
+      "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-02T13:49:14+00:00"
+    },
+    {
+      "id": "15589cbf2a7d29b5",
+      "title": "Google faz aulão grátis para o Enem com professores famosos e simulados do Gemini",
+      "summary": "O Google vai realizar, entre 10 e 30 de setembro, o \"Aulão Grátis do Gemini para o Enem\" , transmitido de forma contínua no canal oficial do YouTube Brasil. A masterclass será…",
+      "link": "https://canaltech.com.br/mercado/google-faz-aulao-gratis-para-o-enem-com-professores-famosos-e-simulados-do-gemini/",
+      "image": "https://tl.ctcdn.com.br/aNoxLK2HygLmbL_wQ6jn3yS5-14=/0x0/filters:format(webp):quality(85)/a2754d1c-f100-49c9-8370-372612b6b312.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-02T12:35:28+00:00"
+    },
+    {
+      "id": "1121026d2dec5fc4",
+      "title": "World Labs revela Atlas, um modelo único de IA que gera, reconstrói e simula mundos 3D a partir de apenas algumas fotos",
+      "summary": "O World Labs, cofundado pelo pesquisador de IA Fei-Fei Li, anunciou o Atlas, um modelo mundial que gera, reconstrói e simula cenas 3D a partir de apenas algumas imagens. A empresa…",
+      "link": "https://the-decoder.com/world-labs-unveils-atlas-a-single-ai-model-that-generates-reconstructs-and-simulates-3d-worlds-from-just-a-few-photos/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/world-labs-atlas-01-hero.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-02T12:28:36+00:00"
+    },
+    {
+      "id": "c97a93594a644c67",
+      "title": "Lâmpada da Xiaomi tem bateria para 8 meses e serve como luz noturna por R$ 60",
+      "summary": "A Xiaomi apresentou uma nova opção para quem precisa de uma iluminação discreta durante a noite com a Mijia Night Light 4 , uma lâmpada inteligente com sensor de movimento …",
+      "link": "https://canaltech.com.br/produtos/lampada-da-xiaomi-tem-bateria-para-8-meses-e-serve-como-luz-noturna-por-r-60/",
+      "image": "https://tl.ctcdn.com.br/HnBSdNv5LfAbVQ8ql4qr5sf-7YY=/0x0/filters:format(webp):quality(85)/24d1fd67-1d0d-4042-b2cd-8499d2368953.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-02T12:21:43+00:00"
+    },
+    {
+      "id": "fcdab9cd36245eef",
+      "title": "Redata: Senado aprova incentivo bilionário para data centers no Brasil",
+      "summary": "O Redata isenta tributos sobre equipamentos para infraestrutura de IA e nuvem e prevê R$ 7,2 bilhões em renúncia fiscal. Redata: Senado aprova incentivo bilionário para data…",
+      "link": "https://tecnoblog.net/noticias/senado-aprova-incentivo-bilionario-para-data-centers-no-brasil/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capa_tbr-supercomputador-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-02T12:14:52+00:00"
+    },
+    {
+      "id": "e6bc571c24cbf34d",
+      "title": "OpenAI enfrenta mais 30 ações judiciais relacionadas ao tiroteio em Tumbler Ridge",
+      "summary": "Edelson PC está entrando com 30 novos processos contra a OpenAI por causa do tiroteio em Tumbler Ridge, aumentando as alegações de ajuda e cumplicidade e nomeando Chris Lehane, embora as evidências permaneçam…",
+      "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-02T12:09:42+00:00"
+    },
     {
       "id": "540de2e1188eef61",
       "title": "Cole este prompt gratuito para tornar sua IA mais transparente e crítica",
@@ -333,17 +575,6 @@
       "published_at": "2026-09-01T17:35:37+00:00"
     },
     {
-      "id": "57158382d753eba0",
-      "title": "ChatGPT Health adiciona integração Epic para médicos importar dados de pacientes",
-      "summary": "A OpenAI disse que a integração fornece acesso somente leitura aos registros de saúde para os médicos.",
-      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-01T17:00:00+00:00"
-    },
-    {
       "id": "b0cbef382238cdd5",
       "title": "Como as empresas nativas de IA transformam fluxos de trabalho em capacidade operacional",
       "summary": "Basis, Clay e Exa Labs usam agentes de IA para melhorar a integração, o gerenciamento de contas e as integrações de desenvolvedores. Veja o que os líderes empresariais podem aplicar.",
@@ -352,6 +583,17 @@
       "source": "OpenAI",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-09-01T17:00:00+00:00"
+    },
+    {
+      "id": "57158382d753eba0",
+      "title": "ChatGPT Health adiciona integração Epic para médicos importar dados de pacientes",
+      "summary": "A OpenAI disse que a integração fornece acesso somente leitura aos registros de saúde para os médicos.",
+      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-09-01T17:00:00+00:00"
     },
     {
@@ -388,17 +630,6 @@
       "published_at": "2026-09-01T16:00:52+00:00"
     },
     {
-      "id": "8b4ab8a3a41cf18d",
-      "title": "O Google Pics é como o Canva, mas com ainda mais IA",
-      "summary": "O Google tem um novo conjunto de ferramentas de design criativo para usuários do Workspace chamado Google Pics, que visa tornar a edição e geração de imagens de IA de “nível profissional” menos complicada…",
-      "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Google-Pics-rollout-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-01T16:00:00+00:00"
-    },
-    {
       "id": "7415c6bcd9dd29da",
       "title": "Experimente o Google Pics: fácil criação e edição de imagens no Google Workspace",
       "summary": "Colagem de imagens criadas pelo Google Pics, com o texto “Diga olá ao Google Pics” na parte superior",
@@ -407,6 +638,17 @@
       "source": "Google AI Blog",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-09-01T16:00:00+00:00"
+    },
+    {
+      "id": "8b4ab8a3a41cf18d",
+      "title": "O Google Pics é como o Canva, mas com ainda mais IA",
+      "summary": "O Google tem um novo conjunto de ferramentas de design criativo para usuários do Workspace chamado Google Pics, que visa tornar a edição e geração de imagens de IA de “nível profissional” menos complicada…",
+      "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Google-Pics-rollout-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
       "published_at": "2026-09-01T16:00:00+00:00"
     },
     {
@@ -487,17 +729,6 @@
       "published_at": "2026-09-01T13:03:17+00:00"
     },
     {
-      "id": "a9cc7a6dadebb10f",
-      "title": "O polêmico DLSS 5 da Nvidia chega em 3 de setembro e requer grande potência de GPU",
-      "summary": "A Nvidia está lançando oficialmente o DLSS 5 esta semana, após um anúncio polêmico em março, onde comparamos a tecnologia de upscaling de IA a um “filtro de IA generativo em tempo real para vídeo…",
-      "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/nba-2k-image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-01T13:00:00+00:00"
-    },
-    {
       "id": "f2694bfa96c49e91",
       "title": "Caminho para o Astra: capacidades críticas e salvaguardas de fronteira",
       "summary": "O Astra é o primeiro modelo OpenAI a atingir o limite crítico de capacidade de segurança cibernética no âmbito do Quadro de Preparação, com salvaguardas mais fortes para a libertação.",
@@ -506,6 +737,17 @@
       "source": "OpenAI",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-09-01T13:00:00+00:00"
+    },
+    {
+      "id": "a9cc7a6dadebb10f",
+      "title": "O polêmico DLSS 5 da Nvidia chega em 3 de setembro e requer grande potência de GPU",
+      "summary": "A Nvidia está lançando oficialmente o DLSS 5 esta semana, após um anúncio polêmico em março, onde comparamos a tecnologia de upscaling de IA a um “filtro de IA generativo em tempo real para vídeo…",
+      "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/nba-2k-image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
       "published_at": "2026-09-01T13:00:00+00:00"
     },
     {
@@ -749,248 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-31T19:23:26+00:00"
-    },
-    {
-      "id": "ba23b444bdf635c9",
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-31T19:16:59+00:00"
-    },
-    {
-      "id": "1a0e767ddab65902",
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
-      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-31T18:35:11+00:00"
-    },
-    {
-      "id": "4c2a16cfb43fc006",
-      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-      "summary": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
-      "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-172575622-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-31T18:10:45+00:00"
-    },
-    {
-      "id": "7630dc00c45aaa95",
-      "title": "Agentes de IA mal configurados instalam malware em redes de empresas",
-      "summary": "Agentes de inteligência artificial voltados à programação, como o Claude, o Codex e o Hermes, instalaram pacotes de código não registrados dentro de redes corporativas ao seguir…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/agentes-de-ia-mal-configurados-instalam-malware-em-redes-de-empresas/",
-      "image": "https://tl.ctcdn.com.br/85WVbN-4pDCt4gAl00mcSd9Gnt0=/0x0/filters:format(webp):quality(85)/ff5b2ca2-e45b-4d37-b435-70e8c580f852.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-31T18:03:00+00:00"
-    },
-    {
-      "id": "a0830198bbf446f1",
-      "title": "Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis",
-      "summary": "Andrew Bailey warns G20 finance ministers about inflated AI valuations, growing leverage across markets, and cyber risks from frontier AI models. Cross-investments between AI…",
-      "link": "https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis/",
-      "image": "https://the-decoder.com/wp-content/uploads/2024/02/Throwing-money-at-AI.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-31T18:01:21+00:00"
-    },
-    {
-      "id": "5e194712572c623b",
-      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last…",
-      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-31T18:00:00+00:00"
-    },
-    {
-      "id": "e618cb0ae69f35ca",
-      "title": "Instagram admits users often can't tell AI profiles from real people",
-      "summary": "Instagram is replacing its \"AI creator\" tag with a new \"AI-generated profile\" label because users can't tell AI profiles from real people. Singularity, defined by Instagram user…",
-      "link": "https://the-decoder.com/instagram-admits-users-often-cant-tell-ai-profiles-from-real-people/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/meta_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-31T17:27:43+00:00"
-    },
-    {
-      "id": "c711428de14f3d36",
-      "title": "ChatGPT volta a funcionar após falha nesta segunda (31)",
-      "summary": "Problema técnico impedia assinantes de começarem ou continuarem tarefas no ChatGPT Work. ChatGPT volta a funcionar após falha nesta segunda (31)",
-      "link": "https://tecnoblog.net/noticias/chatgpt-fora-do-ar-falha-deixa-usuarios-sem-acesso-nesta-segunda-31/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-31T16:59:38+00:00"
-    },
-    {
-      "id": "bc52c97a0e40a243",
-      "title": "Coreia do Sul prepara programa nacional de IA gratuita integrada a serviços públicos",
-      "summary": "Programa \"AI for All\" pretende aumentar acesso a modelos locais e integrá-los a serviços públicos. Coreia do Sul prepara programa nacional de IA gratuita integrada a serviços…",
-      "link": "https://tecnoblog.net/noticias/coreia-do-sul-prepara-programa-nacional-de-ia-gratuita-integrada-a-servicos-publicos/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/10/ai-inteligencia-articial-edited-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-31T16:44:50+00:00"
-    },
-    {
-      "id": "5f206288640d795d",
-      "title": "Instagram promete combater influenciadores fakes criados com IA",
-      "summary": "Rede social vai limitar alcance de perfis gerados com auxílio da tecnologia se eles não usarem selo de identificação. Instagram promete combater influenciadores fakes criados com…",
-      "link": "https://tecnoblog.net/noticias/instagram-promete-combater-influenciadores-fakes-criados-com-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/03/instagram-capa-3-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-31T16:15:12+00:00"
-    },
-    {
-      "id": "7157992a3ad391ea",
-      "title": "IA do Google agora puxa informações dos livros que você comprou; veja utilidade",
-      "summary": "O Google lançou o Expert Intelligence, um recurso que permite ao Gemini Notebook puxar informações diretamente de livros comprados na Google Play Books. A novidade foi anunciada…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-do-google-agora-puxa-informacoes-dos-livros-que-voce-comprou-veja-utilidade/",
-      "image": "https://tl.ctcdn.com.br/aNoxLK2HygLmbL_wQ6jn3yS5-14=/0x0/filters:format(webp):quality(85)/a2754d1c-f100-49c9-8370-372612b6b312.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-31T16:01:00+00:00"
-    },
-    {
-      "id": "badf236d9d67021f",
-      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
-      "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-31T16:00:00+00:00"
-    },
-    {
-      "id": "35875a421ff9d602",
-      "title": "Debian won’t ban AI code from its Linux distribution",
-      "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI…",
-      "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-31T15:34:58+00:00"
-    },
-    {
-      "id": "1a8cd9a77a606195",
-      "title": "OpenAI says its ChatGPT ad business hits a $1 billion annual run rate",
-      "summary": "OpenAI's advertising business has reached an annualized revenue run rate of $1 billion, according to the company. The article OpenAI says its ChatGPT ad business hits a $1 billion…",
-      "link": "https://the-decoder.com/openai-says-its-chatgpt-ad-business-hits-a-1-billion-annual-run-rate/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/01/openai_chatgpt_werbung-e1768589138614.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-31T15:24:59+00:00"
-    },
-    {
-      "id": "fd3a51ee66e8112b",
-      "title": "How AI could make it harder for governments to use hacking tools",
-      "summary": "AI is proving effective at finding and exploiting vulnerabilities. Some say this will make it harder for governments to use hacking tools and spyware and could reignite calls to…",
-      "link": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-31T15:19:32+00:00"
-    },
-    {
-      "id": "ae354001d96ab4fb",
-      "title": "China's CXMT makes its first HBM3E chips, closing the AI memory gap",
-      "summary": "China's top memory maker ChangXin Memory Technologies (CXMT) is producing HBM3E for the first time in small quantities, a fast memory found in many current AI processors. The…",
-      "link": "https://the-decoder.com/chinas-cxmt-makes-its-first-hbm3e-chips-closing-the-ai-memory-gap/",
-      "image": "https://the-decoder.com/wp-content/uploads/2024/09/ai_chip_china_illustration.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-31T15:17:31+00:00"
-    },
-    {
-      "id": "493a177a82af08d6",
-      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
-      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-31T15:15:25+00:00"
-    },
-    {
-      "id": "d0b1e2c74f2fe6c6",
-      "title": "Debian Linux aprova uso de IA no projeto, mas com “responsabilidade”",
-      "summary": "Em votação, a comunidade Debian aprovou o uso \"responsável\" de IA na distribuição Linux. Os desenvolvedores deverão validar todo o código gerado. Debian Linux aprova uso de IA no…",
-      "link": "https://tecnoblog.net/noticias/debian-linux-aprova-uso-de-ia-no-projeto-mas-com-responsabilidade/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/07/distro-debian-linux-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-31T15:03:26+00:00"
-    },
-    {
-      "id": "04959a05fa771dfe",
-      "title": "Twitter volta em nova rede social com IA, mas cobra R$ 100 por acesso",
-      "summary": "Twitter.now resgata nome e identidade visual da antiga rede. Startup ainda disputa a marca com o X na Justiça. Twitter volta em nova rede social com IA, mas cobra R$ 100 por acesso",
-      "link": "https://tecnoblog.net/noticias/twitter-volta-em-nova-rede-social-com-ia-mas-cobra-r-100-por-acesso/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/03/twitter_capa-3_tb-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-31T14:36:47+00:00"
-    },
-    {
-      "id": "85fa49da1fb1e720",
-      "title": "ChatGPT now faces stricter EU oversight as a very large search engine",
-      "summary": "The EU Commission is classifying ChatGPT as a very large search engine under the Digital Services Act for the first time, with at least 45 million monthly EU users. By the end of…",
-      "link": "https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/05/openai_mouse_cursor.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-31T14:31:37+00:00"
-    },
-    {
-      "id": "4aaeecc011570d7b",
-      "title": "OpenAI starts charging some customers only when its AI actually works",
-      "summary": "OpenAI is offering some large customers outcome-based pricing, where they pay only once the AI actually finishes a task. Salesforce, Adobe, and several startups are also moving…",
-      "link": "https://the-decoder.com/openai-starts-charging-some-customers-only-when-its-ai-actually-works/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_large_right.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-31T14:28:14+00:00"
-    },
-    {
-      "id": "1ba2d1aad50f660a",
-      "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
-      "summary": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech…",
-      "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_Hochul.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-31T14:00:00+00:00"
     }
   ]
 }
