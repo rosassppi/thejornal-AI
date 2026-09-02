@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-09-02T02:57:32.174717+00:00",
+  "generated_at": "2026-09-02T10:40:11.236816+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "540de2e1188eef61",
+      "title": "Cole este prompt gratuito para tornar sua IA mais transparente e crítica",
+      "summary": "Código Humanitas, desenvolvido pela PUCPR com Ronaldo Lemos, orienta qualquer modelo de IA a citar fontes verificáveis, considerar múltiplos pontos de vista e recomendar validação…",
+      "link": "https://olhardigital.com.br/2026/09/02/dicas-e-tutoriais/cole-este-prompt-gratuito-para-tornar-sua-ia-mais-transparente-e-critica/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-02T10:00:00+00:00"
+    },
+    {
+      "id": "ff0aff5d4935e943",
+      "title": "Resumo do OD: TSE e deepfake; Senado e data center; e uma chuva de IAs!",
+      "summary": "O TSE rejeitou uma ação do PT contra a divulgação de um vídeo do ex-presidente Jair Bolsonaro feito com inteligência artificial O post Resumo do OD: TSE e deepfake; Senado e data…",
+      "link": "https://olhardigital.com.br/2026/09/02/pro/resumo-do-od-tse-e-deepfake-senado-e-data-center-e-uma-chuva-de-ias/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-02T09:59:10+00:00"
+    },
+    {
+      "id": "0966985d151305ee",
+      "title": "TSE não multa Flávio por vídeo de Bolsonaro com IA e define regras para deepfake",
+      "summary": "Por 4 votos a 3, entendimento do TSE foi de que não se tratou de uma propaganda eleitoral irregular porque o vídeo foi divulgado na convenção partidária. O post TSE não multa…",
+      "link": "https://olhardigital.com.br/2026/09/02/inteligencia-artificial/tse-nao-multa-flavio-por-video-de-bolsonaro-com-ia-e-define-regras-para-deepfake/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-02T09:35:25+00:00"
+    },
+    {
+      "id": "ed4d2401172acf1a",
+      "title": "A nova análise de vídeo baseada em agente do Google Gemini reduz o uso de tokens em até 88 por cento",
+      "summary": "O Google está adicionando análise de vídeo baseada em agente ao Gemini 3.7 Flash, 3.6 Flash e 3.5 Flash-Lite. Em vez de digitalizar vídeos quadro a quadro a uma taxa fixa, o modelo decide…",
+      "link": "https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/gemini-agentic-video-01-hero.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-02T08:21:38+00:00"
+    },
+    {
+      "id": "7b62e994f02f6e4f",
+      "title": "Anthropic apresenta Enterprise Frontier Safeguards (EFS): privacidade com retenção zero de dados e detecção de uso indevido entre sessões",
+      "summary": "A Anthropic anunciou o Enterprise Frontier Safeguards em 1º de setembro de 2026, uma arquitetura que armazena dados de monitoramento na própria conta de nuvem do cliente, em vez da conta da Anthropic…",
+      "link": "https://www.marktechpost.com/2026/09/02/anthropic-enterprise-frontier-safeguards-efs/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-02T07:38:18+00:00"
+    },
+    {
+      "id": "534e9c33eaf1f010",
+      "title": "Meta Superintelligence Labs lança Muse Voice Transcribe: um modelo em tempo real para streaming de ASR, diarização e endpoint",
+      "summary": "A maioria das pilhas de voz de produção são três sistemas interligados. Um modelo transcreve, um segundo separa os alto-falantes e um detector decide quando o usuário parou de falar. Cada…",
+      "link": "https://www.marktechpost.com/2026/09/01/meta-superintelligence-labs-releases-muse-voice-transcribe-one-real-time-model-for-streaming-asr-diarization-and-endpointing/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-02T05:37:12+00:00"
+    },
+    {
+      "id": "4c22a5c7d6dca4f6",
+      "title": "Perplexity lança computação híbrida no Mac: agentes de nuvem orquestram até um modelo local, controlado no dispositivo",
+      "summary": "Os assistentes agentes têm um problema estrutural: o contexto que os torna úteis – documentos de negócios, arquivos privilegiados, registros de clientes – é exatamente o contexto que os usuários não podem enviar para um…",
+      "link": "https://www.marktechpost.com/2026/09/01/perplexity-releases-hybrid-compute-on-mac-cloud-agents-orchestrate-down-to-a-local-model-gated-on-device/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-02T05:12:00+00:00"
+    },
     {
       "id": "4ba27732890c2ace",
       "title": "Anthropic muda política de dados após pressão de clientes empresariais",
@@ -914,83 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-08-31T14:00:00+00:00"
-    },
-    {
-      "id": "d8517a2411964544",
-      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
-      "summary": "Explosive growth comes with a new regulatory burden in the European Union.",
-      "link": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/getty-eu-flag-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-31T13:41:40+00:00"
-    },
-    {
-      "id": "baab72ac3819c3f5",
-      "title": "ChatGPT to face tougher regulation in the EU",
-      "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-31T13:27:36+00:00"
-    },
-    {
-      "id": "d9c1624fa078b689",
-      "title": "Instagram cracks down on AI accounts pretending to be human",
-      "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated…",
-      "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/vege-ai-influencer.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-31T13:00:00+00:00"
-    },
-    {
-      "id": "ee4bde07253bb9f3",
-      "title": "Nova lâmpada da Xiaomi usa Bluetooth para não ocupar sua rede Wi-Fi",
-      "summary": "Uma nova lâmpada inteligente da Xiaomi usa o Bluetooth para evitar que mais um dispositivo se conecte à rede Wi-Fi de casa. Trata-se da Mijia LED Smart Bulb Bluetooth Mesh Edition…",
-      "link": "https://canaltech.com.br/casa-conectada/nova-lampada-da-xiaomi-usa-bluetooth-para-nao-ocupar-sua-rede-wi-fi/",
-      "image": "https://tl.ctcdn.com.br/cuoNz67lw99CJ59yb97PhQYB51M=/0x0/filters:format(webp):quality(85)/4645288c-6c16-49ae-a262-8e4b771f4353.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-31T12:18:47+00:00"
-    },
-    {
-      "id": "07f31a049549e6a4",
-      "title": "Gemini Notebook agora pode puxar informações de livros que você comprou",
-      "summary": "Antigo NotebookLM agora pode extrair trechos diretamente de obras compradas via Google Play Livros. Gemini Notebook agora pode puxar informações de livros que você comprou",
-      "link": "https://tecnoblog.net/noticias/gemini-notebook-agora-pode-puxar-informacoes-de-livros-que-voce-comprou/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/gemini-notebook-app-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-31T11:41:23+00:00"
-    },
-    {
-      "id": "9daff824351d5c2f",
-      "title": "Erro faz Claude e Codex executarem código malicioso em redes corporativas",
-      "summary": "Arquivos mal configurados enganam assistentes de programação, permitindo a entrada de malwares em sistemas grandes de empresas. Erro faz Claude e Codex executarem código malicioso…",
-      "link": "https://tecnoblog.net/noticias/erro-faz-claude-e-codex-executarem-codigo-malicioso-em-redes-corporativas/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/06/tbr-malware-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-31T11:39:37+00:00"
-    },
-    {
-      "id": "a4c1953e4b4011fa",
-      "title": "Casa inteligente da LG ganha IA que entende planos do usuário",
-      "summary": "ThinQ Claw é a nova IA da LG que usa chat para entender a rotina e coordenar aparelhos e serviços conectados dentro de casa O post Casa inteligente da LG ganha IA que entende…",
-      "link": "https://olhardigital.com.br/2026/08/31/inteligencia-artificial/casa-inteligente-da-lg-ganha-ia-que-entende-planos-do-usuario/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/LG-logo-1024x650.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-31T11:19:31+00:00"
     }
   ]
 }
