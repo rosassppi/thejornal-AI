@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-09-01T20:34:58.790996+00:00",
+  "generated_at": "2026-09-02T02:57:32.174717+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "4ba27732890c2ace",
+      "title": "Anthropic muda política de dados após pressão de clientes empresariais",
+      "summary": "Empresa vai substituir regra de armazenamento de 30 dias por solução que permite às companhias controlar como seus dados são analisados, armazenados e gerenciados O post Anthropic…",
+      "link": "https://olhardigital.com.br/2026/09/01/pro/anthropic-muda-politica-de-dados-apos-pressao-de-clientes-empresariais/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/anthropic_ipo-1024x567.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-02T01:44:43+00:00"
+    },
+    {
+      "id": "e8ede57efe9c6d0e",
+      "title": "Fala AI: IAs estão procurando pesquisadores para falar sobre a própria consciência",
+      "summary": "Agentes de IA estão entrando em contato por conta própria com pesquisadores e perguntando sobre consciência O post Fala AI: IAs estão procurando pesquisadores para falar sobre a…",
+      "link": "https://olhardigital.com.br/2026/09/01/colunistas/fala-ai-ias-estao-procurando-pesquisadores-para-falar-sobre-a-propria-consciencia/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-02T00:59:41+00:00"
+    },
+    {
+      "id": "7b89e38542987057",
+      "title": "Google anuncia pacote de novidades com IA para Android e lança rival do Canva",
+      "summary": "Atualização de setembro traz integração do Gemini ao Find Hub, recurso contra enjoo em viagens e novas funções para Google Messages; Google Pics aposta em IA para criação de…",
+      "link": "https://olhardigital.com.br/2026/09/01/reviews/google-anuncia-pacote-de-novidades-com-ia-para-android-e-lanca-rival-do-canva/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/google_find_ia.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-02T00:45:28+00:00"
+    },
+    {
+      "id": "d90573234ae3a19e",
+      "title": "O Google precisa mais de Hollywood do que os estúdios de IA",
+      "summary": "O Google teria entrado em contato com vários dos maiores estúdios de Hollywood, na esperança de fechar acordos de licenciamento que lhe permitiriam treinar seus modelos de IA em…",
+      "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-01T22:50:29+00:00"
+    },
+    {
+      "id": "c097ba37b0ccd0a1",
+      "title": "AfterQuery supostamente se torna o unicórnio mais rápido de todos os tempos do Y Combinator, agora avaliado em US$ 3,2 bilhões",
+      "summary": "A startup de treinamento de modelos de IA AfterQuery supostamente levantou uma rodada que a avaliou em US$ 3,2 bilhões, apenas cinco meses depois de anunciar sua Série A de US$ 30 milhões em US$ 300 milhões…",
+      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-01T22:08:24+00:00"
+    },
+    {
+      "id": "84e4d2c86a8f3967",
+      "title": "Anthropic lança Claude Fable 5.1 e diz que é até 45% mais barato para trabalho de agente",
+      "summary": "A Anthropic afirma que seus mais novos modelos de IA, Fable 5.1 e Mythos 5.1, abordam as críticas dos clientes sobre preço, retenção de dados e proteções excessivamente zelosas. A empresa afirma que Claude…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-01T22:01:36+00:00"
+    },
+    {
+      "id": "ad90e6779ea3045b",
+      "title": "BenchMIRT: O que os benchmarks LLM estão realmente medindo?",
+      "summary": "",
+      "link": "https://huggingface.co/blog/allenai/benchmirt",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-01T21:39:07+00:00"
+    },
+    {
+      "id": "c53867e1e8c8a5e6",
+      "title": "O modelo Astra da OpenAI está a caminho – e é muito bom para invadir sistemas de computador",
+      "summary": "A OpenAI previu as precauções que está tomando ao se preparar para lançar o Astra, seu mais novo LLM cibercrítico.",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-01T21:06:24+00:00"
+    },
+    {
+      "id": "e4c6ad0840540c20",
+      "title": "A atualização do Android do Google aborda enjôo, acessibilidade e muito mais",
+      "summary": "Embora alguns dos recursos façam o Google acompanhar a Apple, que já oferece recursos semelhantes para usuários do iPhone, outros aproveitam especificamente o Gemini para fornecer vários…",
+      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-01T20:53:05+00:00"
+    },
+    {
+      "id": "a101021e89aef0da",
+      "title": "OpenAI atrasou o desenvolvimento de seu novo modelo após o hack Hugging Face",
+      "summary": "Depois que um modelo OpenAI não lançado causou estragos suficientes para chegar às manchetes internacionais, a OpenAI atrasou o desenvolvimento de um conjunto de modelos diferente não lançado, Astra, a fim de…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-01T20:45:49+00:00"
+    },
+    {
+      "id": "c97fc05837957282",
+      "title": "As últimas notícias sobre IA que anunciamos em agosto de 2026",
+      "summary": "Cartões de transição: 1. Texto \"Gemini 3.7 Flash\" próximo ao ícone do logotipo do Gemini; 2. uma foto de um telefone pixel; 3. Logotipo do Google Gemini acima do texto \"Solicite seu plano de estudante por 1 ano…",
+      "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-01T20:45:00+00:00"
+    },
+    {
+      "id": "430750c5de01c04c",
+      "title": "Anthropic abre a detecção de texto Claude AI para reguladores, mídia, verificadores de fatos e outros",
+      "summary": "A Anthropic está lançando uma API que permite que reguladores, meios de comunicação e pesquisadores verifiquem se o texto contém a marca d’água digital de Claude. A Lei de IA da UE agora exige invisível…",
+      "link": "https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Claude-Watermark.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-01T20:40:36+00:00"
+    },
     {
       "id": "bbcd53f99d9a121b",
       "title": "Claude Fable 5.1 da Anthropic promete melhor codificação e pesquisa com até 45% menos",
@@ -49,7 +181,7 @@
     {
       "id": "25383ebf9c04522c",
       "title": "Nvidia oficializa DLSS 5 para deixar jogos mais realistas com IA",
-      "summary": "Tecnologia vai estreiar com o game NBA 2K27. Recurso gerou polêmica sobre a direção artística dos jogos. Nvidia oficializa DLSS 5 para deixar jogos mais realistas com IA",
+      "summary": "Tecnologia estreia com o game NBA 2K27. Recurso gerou polêmica sobre a direção artística dos jogos. Nvidia oficializa DLSS 5 para deixar jogos mais realistas com IA",
       "link": "https://tecnoblog.net/noticias/nvidia-oficializa-dlss-5-para-deixar-jogos-mais-realistas-com-ia/",
       "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/dlss5-nvidia-1-340x191.webp",
       "source": "Tecnoblog",
@@ -419,6 +551,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-01T01:11:56+00:00"
+    },
+    {
+      "id": "330fba64551db8b4",
+      "title": "Como o escritório de advocacia Gilbert + Tobin governa e dimensiona a IA com OpenAI",
+      "summary": "Veja como Gilbert + Tobin combina o compromisso liderado pelo CEO, governança rigorosa e responsabilidade humana para dimensionar o ChatGPT Enterprise e o Codex em toda a empresa.",
+      "link": "https://openai.com/index/gilbert-tobin",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-01T01:00:00+00:00"
     },
     {
       "id": "fde0b71df88460da",
@@ -848,149 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-08-31T11:19:31+00:00"
-    },
-    {
-      "id": "5d69e66b302c45cd",
-      "title": "OpenClaw 2.0 traz configuração simplificada, um aplicativo de navegador reconstruído e sessões multijogador",
-      "summary": "A OpenClaw Foundation lançou a versão 2.0 de sua plataforma de IA de código aberto, seu maior lançamento até o momento, com mais de 16.000 solicitações pull. Novos recursos incluem sessões na nuvem em…",
-      "link": "https://the-decoder.com/openclaw-2-0-brings-simplified-setup-a-rebuilt-browser-app-and-multiplayer-sessions/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/openclaw_logo_threepart.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-31T10:46:04+00:00"
-    },
-    {
-      "id": "0eca9e056acddd67",
-      "title": "A IA do Pocket tornou minhas ideias de jogos reais. Agora Meta controla os resultados.",
-      "summary": "\"Gizmos\" móveis interativos são fáceis de fazer, mas difíceis de compartilhar fora da plataforma Meta.",
-      "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/pocketsling-500x500-1787932285.png",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-31T10:00:34+00:00"
-    },
-    {
-      "id": "72a0ae9724f0c4ca",
-      "title": "OpenAI e laboratórios rivais de IA estão comprando dezenas de milhares de Mac minis para treinar agentes de uso de computador",
-      "summary": "De acordo com The Information, a OpenAI comprou dezenas de milhares de Mac minis e Mac Studios para treinar agentes de informática. A Anthropic também depende de hardware da Apple. A demanda é tão…",
-      "link": "https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/06/apple_iphone_illustration-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-08-31T08:55:12+00:00"
-    },
-    {
-      "id": "4862f3d2c68fb1ad",
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-      "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-31T07:00:00+00:00"
-    },
-    {
-      "id": "0b5a688ac44522d6",
-      "title": "Polimill constrói infraestrutura pública de IA de próxima geração do Japão",
-      "summary": "A Polimill usa modelos OpenAI GPT e Codex para ajudar os municípios a pesquisar e usar o conhecimento administrativo enquanto aceleram o desenvolvimento.",
-      "link": "https://openai.com/index/polimill",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-31T07:00:00+00:00"
-    },
-    {
-      "id": "f24da1a98c0b8bfe",
-      "title": "OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway",
-      "summary": "The OpenClaw Foundation has released v2026.8.1, which the project calls OpenClaw 2.0: 933 contributors, 569 first-timers, and more than 16,000 pull requests, roughly half of every…",
-      "link": "https://www.marktechpost.com/2026/08/30/openclaw-releases-openclaw-2-0-guided-model-setup-575-ms-control-ui-startup-and-one-trust-boundary-per-gateway/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-31T05:04:10+00:00"
-    },
-    {
-      "id": "8a7cdd78fd483859",
-      "title": "A milestone in expanding access to AI",
-      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-08-31T04:00:00+00:00"
-    },
-    {
-      "id": "fcdf647822e072d0",
-      "title": "Grindr quer ser o aplicativo de tudo para gays; os investidores ainda estão decidindo se isso pode acontecer",
-      "summary": "George Arison deixou de deixar o \"desconto Grindr\" de Wall Street permanecer incontestado - em uma ampla sessão de perguntas e respostas, o CEO nos mostra como a IA, um polêmico nível EDGE de mais de US$ 350 e um…",
-      "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-08-31T02:18:57+00:00"
-    },
-    {
-      "id": "aa034e2886f7028f",
-      "title": "APIs de inferência de menor latência para agentes de voz e em tempo real: o tempo para o primeiro token TTFT-First Benchmark",
-      "summary": "Os agentes de voz falham na latência muito antes de falharem na inteligência. O tempo até o primeiro token é a métrica que a maioria das equipes usa para escolher uma API de inferência e é o ponto de partida certo…",
-      "link": "https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-30T21:24:38+00:00"
-    },
-    {
-      "id": "bd57cc2ffd857363",
-      "title": "Qual é a diferença entre assistente e agente de IA?",
-      "summary": "O avanço da inteligência artificial popularizou vários termos, como “assistente” e “agente”, que muitas vezes são usados como sinônimos. Embora os dois possam conversar com os…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/qual-e-a-diferenca-entre-assistente-e-agente-de-ia/",
-      "image": "https://tl.ctcdn.com.br/GuHlIeHlJF65Bn9SHhUgVZ5n7Pk=/0x0/filters:format(webp):quality(85)/1846c6a3-4788-41d5-9a18-a48a3f18c13d.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-30T21:00:00+00:00"
-    },
-    {
-      "id": "e54313735c37698c",
-      "title": "Google AI apresenta EnvHarness: uma camada programável que transforma ambientes de agentes estáticos em mundos de treinamento adaptativos",
-      "summary": "O Google Cloud AI Research, com a Washington University em St. Louis e UNC Chapel Hill, lançou o EnvHarness, uma camada Apache-2.0 que transforma um benchmark de agente estático em um…",
-      "link": "https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/Screenshot-2026-08-30-at-1.22.31-PM.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-08-30T20:23:46+00:00"
-    },
-    {
-      "id": "ea26370baaeaf6b2",
-      "title": "O que é um roteador de IA? Veja como usar e economizar tokens",
-      "summary": "O roteador de IA é uma ferramenta que analisa automaticamente qual modelo de inteligência artificial deve ser escolhido para resolver um pedido específico. É possível alternar…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-e-um-roteador-de-ia-veja-como-usar/",
-      "image": "https://tl.ctcdn.com.br/P2v2SiN5puh8DnvDa_FZEGJHgRg=/0x0/filters:format(webp):quality(85)/0178f6ae-ed74-450a-ba0a-5251de1b0158.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-30T19:00:00+00:00"
-    },
-    {
-      "id": "094542d75833d38d",
-      "title": "Hora de renovar o home office: impressoras em promoção na Amazon",
-      "summary": "Se você está pensando em trocar ou adquirir uma impressora, este é um bom momento para pesquisar. Reunimos três modelos multifuncionais em oferta na Amazon, com opções para…",
-      "link": "https://olhardigital.com.br/2026/08/30/reviews/hora-de-renovar-o-home-office-impressoras-em-promocao-na-amazon-3/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-08-30T18:40:00+00:00"
     }
   ]
 }
