@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-03T03:00:11.444033+00:00",
+  "generated_at": "2026-09-03T10:41:38.426452+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "aea527bc5c661ea7",
+      "title": "Anthropic amplia infraestrutura Claude com acordo Lambda de US$ 35 bilhões",
+      "summary": "A Anthropic assinou um acordo de computação em nuvem de US$ 35 bilhões com a Lambda, um provedor de nuvem apoiado pela Nvidia. O artigo Anthropic aumenta a infraestrutura de Claude com US$ 35 bilhões em Lambda…",
+      "link": "https://the-decoder.com/anthropic-ramps-up-claude-infrastructure-with-35-billion-lambda-deal/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-03T08:22:02+00:00"
+    },
     {
       "id": "9bc5251bb9b328de",
       "title": "Nova técnica da OpenAI pode tornar seus modelos mais difíceis de monitorar",
@@ -23,6 +34,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-03T00:00:11+00:00"
+    },
+    {
+      "id": "b5500bc6503561c6",
+      "title": "Treinando um modelo de codificação para pintar aquarelas com TRL e OpenEnv",
+      "summary": "",
+      "link": "https://huggingface.co/blog/train-to-paint-with-code",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-03T00:00:00+00:00"
     },
     {
       "id": "a0814b455f8039a5",
@@ -969,28 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-01T15:57:23+00:00"
-    },
-    {
-      "id": "487f6c7b872ab7a7",
-      "title": "Pesquisadores de Princeton, Ant Group e Stanford apresentam AQuA: uma estrutura de agência em duas partes para descoberta autônoma de fatores e desenvolvimento de modelos em finanças quantitativas",
-      "summary": "Agentes de pesquisa quantitativa que escrevem seus próprios experimentos podem corromper as evidências com as quais aprenderão mais tarde. Um recurso vazado com boa pontuação é armazenado como um sucesso…",
-      "link": "https://www.marktechpost.com/2026/09/01/aqua-a-two-part-agentic-framework-for-autonomous-factor-discovery/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-01T15:54:14+00:00"
-    },
-    {
-      "id": "c6d1166e74facffc",
-      "title": "AIR arrecada US$ 50 milhões para ajudar as empresas a avaliar as habilidades e complementos que os agentes de IA usam",
-      "summary": "A plataforma do AIR pode descobrir agentes que trabalham em uma empresa, examinar continuamente quaisquer habilidades e complementos que eles usam e bloquear qualquer comportamento indesejado.",
-      "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-01T15:45:51+00:00"
     }
   ]
 }
