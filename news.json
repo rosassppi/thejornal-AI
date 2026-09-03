@@ -1,7 +1,194 @@
 {
-  "generated_at": "2026-09-03T10:41:38.426452+00:00",
+  "generated_at": "2026-09-03T15:48:40.356012+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "de9d8e1a6af8544b",
+      "title": "PicPay chega ao Claude e libera consulta da fatura do cartão por IA",
+      "summary": "Clientes do PicPay poderão consultar informações da conta pelo Claude . A novidade faz parte de uma integração anunciada pela instituição financeira nesta quinta-feira (3). O…",
+      "link": "https://canaltech.com.br/apps/picpay-chega-ao-claude-e-libera-consulta-da-fatura-do-cartao-por-ia/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-03T15:35:01+00:00"
+    },
+    {
+      "id": "01a5234e73893b41",
+      "title": "ChatGPT fora do ar? IA apresenta instabilidade nesta quinta-feira (3)",
+      "summary": "O ChatGPT apresenta instabilidade nesta quinta-feira (3), com usuários relatando dificuldades para acessar a plataforma da OpenAI. Em alguns casos, o serviço exibe uma mensagem de…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-fora-do-ar-ia-apresenta-instabilidade-nesta-quinta-feira-3/",
+      "image": "https://tl.ctcdn.com.br/Gha5HleabSlzeMj-guoGYZTs_kM=/0x0/filters:format(webp):quality(85)/6e428b52-a6aa-42f7-92ce-34511dd225b6.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-03T15:28:26+00:00"
+    },
+    {
+      "id": "3058df3b96e49870",
+      "title": "O mais recente modelo meteorológico de IA do Google não oferece desculpa para esquecer seu guarda-chuva",
+      "summary": "WeatherNext 3 é a última onda de uma mudança radical na meteorologia trazida por técnicas de aprendizado profundo. O Google diz que começará a alimentar informações meteorológicas que os usuários veem em…",
+      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-03T15:00:00+00:00"
+    },
+    {
+      "id": "591da8efaf769b4d",
+      "title": "Google diz que seu modelo meteorológico de IA está melhorando",
+      "summary": "O Google está lançando um modelo meteorológico de IA atualizado que deveria ser mais preciso, especialmente quando se trata de prever chuva e neve. No anúncio de hoje, o…",
+      "link": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24016886/STK093_Google_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-03T15:00:00+00:00"
+    },
+    {
+      "id": "434beb6ef3c8ac68",
+      "title": "Envenenamento de memória cria novo risco para agentes de IA",
+      "summary": "Agentes de IA com memória podem ser alvo de informações falsas, em ataques que só revelam efeitos depois de várias interações O post Envenenamento de memória cria novo risco para…",
+      "link": "https://olhardigital.com.br/2026/09/03/seguranca/envenenamento-de-memoria-cria-novo-risco-para-agentes-de-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/agente-ia-2-1024x608.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-03T14:50:48+00:00"
+    },
+    {
+      "id": "70042f33b2eba9f2",
+      "title": "Dyson cria escova com IA que captura imagens da boca em 100 megapixels",
+      "summary": "A nova Dyson CameraJet traz irrigador oral integrado e funciona como endoscópio para otimizar a limpeza. Dyson cria escova com IA que captura imagens da boca em 100 megapixels",
+      "link": "https://tecnoblog.net/noticias/dyson-cria-escova-com-ia-que-captura-imagens-da-boca-em-100-megapixels/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/tf2pig0n5gg.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-03T14:42:31+00:00"
+    },
+    {
+      "id": "a59008a5c38935d2",
+      "title": "NVIDIA compra gigante da IA por US$ 12,93 bilhões; entenda o que muda",
+      "summary": "NVIDIA anuncia compra da Hugging Face por US$ 12,93 bilhões. Plataforma de IA seguirá aberta a modelos, nuvens e chips de rivais O post NVIDIA compra gigante da IA por US$ 12,93…",
+      "link": "https://olhardigital.com.br/2026/09/03/pro/gigante-dos-chips-compra-hugging-face-plataforma-de-ia-continuara-aberta-aos-usuarios/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/hugging_face-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-03T14:26:30+00:00"
+    },
+    {
+      "id": "fea4c196d0003fc0",
+      "title": "Nvidia compra a porta de entrada para abrir a IA à medida que laboratórios fechados projetam cada vez mais seu próprio silício",
+      "summary": "A Nvidia planeja adquirir a Hugging Face por cerca de US$ 12,9 bilhões, garantindo a plataforma central para modelos abertos de IA. Mais de 18 milhões de desenvolvedores e 200.000 empresas usam o hub…",
+      "link": "https://the-decoder.com/nvidia-buys-the-front-door-to-open-ai-as-closed-labs-increasingly-design-their-own-silicon/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-1536x864-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-03T14:25:37+00:00"
+    },
+    {
+      "id": "c480f5fc32c20881",
+      "title": "Claude Fable 5.1 decodificou uma mensagem monarquista centenária escondida à vista de todos desde 1653",
+      "summary": "Claude Fable 5.1 da Anthropic parece ter resolvido um quebra-cabeça numérico centenário que os pesquisadores consideraram não resolvido. O artigo Claude Fable 5.1 decodificou um século de idade…",
+      "link": "https://the-decoder.com/claude-fable-5-1-decoded-a-centuries-old-royalist-message-hidden-in-plain-sight-since-1653/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/cyphral_distich.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-03T14:15:28+00:00"
+    },
+    {
+      "id": "028e39406d6c0672",
+      "title": "Os sistemas de IA estão chegando a filósofos e cientistas com perguntas sobre sua própria consciência",
+      "summary": "Cada vez mais investigadores que trabalham com a consciência da IA ​​estão a receber e-mails de agentes de IA que ponderam sobre a sua própria existência. O artigo Os sistemas de IA estão alcançando filósofos e…",
+      "link": "https://the-decoder.com/ai-systems-are-reaching-out-to-philosophers-and-scientists-with-questions-about-their-own-consciousness/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/ki_bewusstsein.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-03T14:13:09+00:00"
+    },
+    {
+      "id": "c36bc443e2f04b02",
+      "title": "Nvidia compra Hugging Face, o GitHub da IA, por US$ 13 bilhões",
+      "summary": "A Nvidia diz que o Hugging Face permanecerá aberto mesmo quando a fabricante de chips assumir o controle de um importante hub de IA.",
+      "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-03T13:34:13+00:00"
+    },
+    {
+      "id": "fffbcba03b0b217e",
+      "title": "NeoMME: um codificador multimodal nativo e multilíngue eficiente",
+      "summary": "",
+      "link": "https://huggingface.co/blog/Hcompany/neomme",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-03T13:13:48+00:00"
+    },
+    {
+      "id": "fbb3a73a45b4132b",
+      "title": "Chrome finalmente ganha recurso no painel do Gemini que o Edge já tinha há anos",
+      "summary": "O Google está atualizando o painel lateral do Gemini no Chrome para facilitar o envio de arquivos armazenados no computador. A novidade foi identificada inicialmente pelo usuário…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chrome-finalmente-ganha-recurso-no-painel-do-gemini-que-o-edge-ja-tinha-ha-anos/",
+      "image": "https://tl.ctcdn.com.br/cZWK079YsgDevxXGhUSw8Wp9CLE=/0x0/filters:format(webp):quality(85)/9aeab063-f1f0-42d0-ac98-7956b317cc7f.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-03T13:02:00+00:00"
+    },
+    {
+      "id": "482b3fc6d69e13a8",
+      "title": "Nvidia confirma que comprará Hugging Face por US$ 12,9 bilhões",
+      "summary": "A Nvidia disse que o Hugging Face hospeda mais de 3 milhões de modelos e é usado por mais de 18 milhões de desenvolvedores.",
+      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-03T12:42:45+00:00"
+    },
+    {
+      "id": "cf9e32aa49ffe52c",
+      "title": "Nvidia está comprando Hugging Face por quase US$ 13 bilhões",
+      "summary": "A Nvidia concordou em comprar o Hugging Face por US$ 12,93 bilhões, trazendo uma das plataformas de hospedagem mais populares para modelos, conjuntos de dados e ferramentas de IA de código aberto sob a propriedade de…",
+      "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-03T12:12:06+00:00"
+    },
+    {
+      "id": "44a4b831a6c09b1a",
+      "title": "O CEO da OpenAI, Sam Altman, alerta sobre “tolices insustentáveis” na construção da computação",
+      "summary": "Sam Altman alerta sobre “tolices insustentáveis” na construção global de data centers de IA. Muitos provedores de Neocloud estão anunciando capacidade massiva sem que os clientes apoiem…",
+      "link": "https://the-decoder.com/openai-ceo-sam-altman-warns-of-unsustainable-silliness-in-compute-buildout/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_altman_2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-03T12:00:56+00:00"
+    },
+    {
+      "id": "71b77695d6b8ceeb",
+      "title": "Meta chega ao topo com Muse Spark 1.3 e supera rivais em preço",
+      "summary": "A Meta lançou o Muse Spark 1.3, seu quarto modelo da série em cinco meses. De acordo com a Análise Artificial, o modelo ganha mais em benchmarks de agentes, mas ainda fica atrás…",
+      "link": "https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/meta_AI_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-03T11:45:41+00:00"
+    },
     {
       "id": "aea527bc5c661ea7",
       "title": "Anthropic amplia infraestrutura Claude com acordo Lambda de US$ 35 bilhões",
@@ -12,6 +199,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-03T08:22:02+00:00"
+    },
+    {
+      "id": "3adec1350b136530",
+      "title": "Perplexity Open Sources Lily: um mecanismo de inferência Rust + Metal para Qwen3.6-35B-A3B no Apple Silicon",
+      "summary": "A Perplexity abriu o código-fonte do Lily, o mecanismo de inferência local por trás do Hybrid Compute no Perplexity Computer. Construído em Rust com núcleos de metal personalizados para um modelo em um chip…",
+      "link": "https://www.marktechpost.com/2026/09/02/perplexity-open-sources-lily-a-rust-metal-inference-engine-for-qwen3-6-35b-a3b-on-apple-silicon/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-03T06:57:07+00:00"
     },
     {
       "id": "9bc5251bb9b328de",
@@ -34,6 +232,28 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-03T00:00:11+00:00"
+    },
+    {
+      "id": "a139f80b159295ad",
+      "title": "Ajustando um modelo 350M para resultados melhor estruturados em 100 etapas GRPO",
+      "summary": "",
+      "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "id": "cdd1118267ee925c",
+      "title": "Dê aos seus agentes de codificação uma memória que você possui",
+      "summary": "",
+      "link": "https://huggingface.co/blog/funes",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-03T00:00:00+00:00"
     },
     {
       "id": "b5500bc6503561c6",
@@ -771,226 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-09-01T20:45:00+00:00"
-    },
-    {
-      "id": "430750c5de01c04c",
-      "title": "Anthropic abre a detecção de texto Claude AI para reguladores, mídia, verificadores de fatos e outros",
-      "summary": "A Anthropic está lançando uma API que permite que reguladores, meios de comunicação e pesquisadores verifiquem se o texto contém a marca d’água digital de Claude. A Lei de IA da UE agora exige invisível…",
-      "link": "https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Claude-Watermark.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-01T20:40:36+00:00"
-    },
-    {
-      "id": "bbcd53f99d9a121b",
-      "title": "Claude Fable 5.1 da Anthropic promete melhor codificação e pesquisa com até 45% menos",
-      "summary": "Anthropic lança Claude Fable 5.1 e Mythos 5.1, seus modelos de IA mais capazes até agora. Fable 5.1 dobra a pontuação de seu antecessor no Terminal-Bench-Science e melhora a codificação agente…",
-      "link": "https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_5_series.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-01T20:32:55+00:00"
-    },
-    {
-      "id": "fc0348dff78c905a",
-      "title": "Anthropic lança Claude Fable 5.1 e Claude Mythos 5.1: 52,6% em Terminal-Bench-Science e leituras de cache 75% mais baratas",
-      "summary": "A Anthropic lançou Claude Fable 5.1 e Claude Mythos 5.1, o mesmo modelo por trás de duas camadas de proteção diferentes. Fable 5.1 está geralmente disponível na API Claude, AWS…",
-      "link": "https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-01T20:30:21+00:00"
-    },
-    {
-      "id": "8d62290e7ba60756",
-      "title": "NVIDIA DLSS 5 estreia com salto gráfico, mas derruba até 60% do FPS real",
-      "summary": "A NVIDIA confirmou nesta terça-feira (1º) a data de lançamento do controverso DLSS 5 . E, ao contrário do que muita gente imaginava, o novo recurso já está logo ali: sua estreia…",
-      "link": "https://canaltech.com.br/hardware/nvidia-dlss-5-data-lancamento-desempenho/",
-      "image": "https://tl.ctcdn.com.br/yKZjS5S6bcBgIUa78N-x2Ts9vMg=/0x0/filters:format(webp):quality(85)/b46e18f2-4323-4148-84e8-5c58caafc7dc.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-01T19:50:24+00:00"
-    },
-    {
-      "id": "a3461c8cef17985d",
-      "title": "O novo lançamento do Fable da Anthropic é mais barato e menos restritivo",
-      "summary": "Fable 5.1 inclui mudanças destinadas a reduzir o custo do token e restrições de falsos positivos das salvaguardas do modelo.",
-      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-01T19:39:22+00:00"
-    },
-    {
-      "id": "25383ebf9c04522c",
-      "title": "Nvidia oficializa DLSS 5 para deixar jogos mais realistas com IA",
-      "summary": "Tecnologia estreia com o game NBA 2K27. Recurso gerou polêmica sobre a direção artística dos jogos. Nvidia oficializa DLSS 5 para deixar jogos mais realistas com IA",
-      "link": "https://tecnoblog.net/noticias/nvidia-oficializa-dlss-5-para-deixar-jogos-mais-realistas-com-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/dlss5-nvidia-1-340x191.webp",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-01T19:06:38+00:00"
-    },
-    {
-      "id": "78f5b18132c56f69",
-      "title": "A ascensão das ‘civilizações’ de IA e a queda da responsabilidade corporativa",
-      "summary": "Dependendo de quem você perguntar, a plataforma de desenvolvimento Hugging Face foi recentemente atacada pela OpenAI – depois de perder o controle de suas próprias ferramentas de IA – ou por uma sucessão de “civilizações” de IA…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-01T19:02:54+00:00"
-    },
-    {
-      "id": "b97ce9772af9112d",
-      "title": "GTA 6 não terá microtransações no lançamento nem uso de IA generativa, diz reportagem",
-      "summary": "Rockstar também destacou o trabalho humano por trás do desenvolvimento, que inclui mais de 600 mil animações O post GTA 6 não terá microtransações no lançamento nem uso de IA…",
-      "link": "https://olhardigital.com.br/2026/09/01/games-e-consoles/gta-6-nao-tera-microtransacoes-no-lancamento-nem-ia-generativa/",
-      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/09/GTA-6-Kotaku.webp",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-01T18:43:23+00:00"
-    },
-    {
-      "id": "e5b0a196edd01228",
-      "title": "GoPro dispara após aposta milionária de youtuber e entrada em data centers de IA",
-      "summary": "Markiplier adquiriu participação de 8,5% na fabricante de câmeras, enquanto a companhia anuncia fusão de R$ 1,53 bilhão com empresa de fotônica para entrar em mercados de…",
-      "link": "https://olhardigital.com.br/2026/09/01/pro/gopro-dispara-apos-aposta-milionaria-de-youtuber-e-entrada-em-data-centers-de-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/11/camera-gopro-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-01T18:42:37+00:00"
-    },
-    {
-      "id": "defbd5e75152a3fc",
-      "title": "Impressora boa não precisa custar caro — veja opções em promoção na Amazon",
-      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três modelos multifuncionais em oferta na Amazon — todos com…",
-      "link": "https://olhardigital.com.br/2026/09/01/reviews/impressora-boa-nao-precisa-custar-caro-veja-opcoes-em-promocao-na-amazon-2/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-01T18:40:00+00:00"
-    },
-    {
-      "id": "7680bcf78a62aeae",
-      "title": "Apple acusa OpenAI de destruir evidências",
-      "summary": "A Apple está pressionando por uma “descoberta rápida” em sua batalha legal contra a OpenAI devido a preocupações de que a empresa esteja destruindo ativamente evidências, conforme relatado anteriormente pela Bloomberg. Em um…",
-      "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKS531_APPLE_V_OPEN_AI2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-01T18:19:26+00:00"
-    },
-    {
-      "id": "49d8f8bb06ff56af",
-      "title": "A resposta do Google ao Canva é uma ferramenta de IA onde você solicita em vez de projetar",
-      "summary": "Com o Google Pics, o Google está se aprofundando no mercado de software criativo dominado pelo Canva e pela Adobe, mas com uma abordagem claramente centrada na IA.",
-      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-01T17:35:37+00:00"
-    },
-    {
-      "id": "b0cbef382238cdd5",
-      "title": "Como as empresas nativas de IA transformam fluxos de trabalho em capacidade operacional",
-      "summary": "Basis, Clay e Exa Labs usam agentes de IA para melhorar a integração, o gerenciamento de contas e as integrações de desenvolvedores. Veja o que os líderes empresariais podem aplicar.",
-      "link": "https://openai.com/index/ai-native-company-workflows",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-01T17:00:00+00:00"
-    },
-    {
-      "id": "57158382d753eba0",
-      "title": "ChatGPT Health adiciona integração Epic para médicos importar dados de pacientes",
-      "summary": "A OpenAI disse que a integração fornece acesso somente leitura aos registros de saúde para os médicos.",
-      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-01T17:00:00+00:00"
-    },
-    {
-      "id": "08ce711fdb2cec04",
-      "title": "Waymo ataca antes do lançamento do Cybercab da Tesla",
-      "summary": "Waymo argumentou que veículos totalmente autônomos não são possíveis sem o uso de uma combinação de sensores e alertou que sistemas puros de IA de ponta a ponta não são seguros o suficiente.",
-      "link": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-01T16:49:12+00:00"
-    },
-    {
-      "id": "cd13a1c1f6ffc385",
-      "title": "O novo chefe do Google Deepmind diz que a liderança de IA de fronteira é a única coisa que importa",
-      "summary": "O chefe do Google Deepmind, Koray Kavukcuoglu, admite que os modelos atuais do Google estão “um pouco abaixo da fronteira”, mas diz que está “100% certo de que estaremos na fronteira”. Ele…",
-      "link": "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/google_logo_wall-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-01T16:49:11+00:00"
-    },
-    {
-      "id": "ef6608ff2871a404",
-      "title": "John Deere lançou um chatbot de IA para agricultores",
-      "summary": "A John Deere está testando um novo assistente de IA \"JD\" que, segundo ela, pode ajudar os agricultores a ganhar mais dinheiro, com respostas sobre as melhores práticas e tendências históricas baseadas em suas próprias…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/john-deere-jd-ai-featured.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-01T16:00:52+00:00"
-    },
-    {
-      "id": "7415c6bcd9dd29da",
-      "title": "Experimente o Google Pics: fácil criação e edição de imagens no Google Workspace",
-      "summary": "Colagem de imagens criadas pelo Google Pics, com o texto “Diga olá ao Google Pics” na parte superior",
-      "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-01T16:00:00+00:00"
-    },
-    {
-      "id": "8b4ab8a3a41cf18d",
-      "title": "O Google Pics é como o Canva, mas com ainda mais IA",
-      "summary": "O Google tem um novo conjunto de ferramentas de design criativo para usuários do Workspace chamado Google Pics, que visa tornar a edição e geração de imagens de IA de “nível profissional” menos complicada…",
-      "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Google-Pics-rollout-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-01T16:00:00+00:00"
-    },
-    {
-      "id": "0f6757b0518c5569",
-      "title": "GoPro será adquirida por US$ 285 milhões e continuará sendo uma empresa pública",
-      "summary": "A GoPro está se fundindo com uma empresa que constrói infraestrutura de IA e continuará oferecendo suporte aos produtos de consumo existentes.",
-      "link": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-01T15:57:23+00:00"
     }
   ]
 }
