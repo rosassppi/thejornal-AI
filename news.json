@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-09-04T10:37:20.361900+00:00",
+  "generated_at": "2026-09-04T15:47:01.294609+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "98ffc1f2eaf4b049",
+      "title": "Microsoft revela Windows 11 para rodar IA pesada direto no PC",
+      "summary": "Project Zenith traz uma versão do sistema modificada para desenvolvedores. Primeiro dispositivo com a plataforma é um mini PC da AMD. Microsoft revela Windows 11 para rodar IA…",
+      "link": "https://tecnoblog.net/noticias/microsoft-revela-windows-11-para-rodar-ia-pesada-direto-no-pc/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/projectzenith2-340x191.webp",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-04T14:51:27+00:00"
+    },
+    {
+      "id": "3bdf29cbf5f7fbfc",
+      "title": "Gemini Spark do Google agora pode gerenciar sua biblioteca do Google Fotos",
+      "summary": "Gemini Spark pode editar e selecionar álbuns de fotos, criar coleções compartilhadas, transformar fotos em eventos de calendário e realizar outras tarefas do Google Fotos para assinantes AI Pro e Ultra.",
+      "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-04T14:47:11+00:00"
+    },
+    {
+      "id": "86100a11164b602d",
+      "title": "Deepseek planeja o maior cluster de chips Huawei conhecido com 160.000 processadores na Mongólia Interior",
+      "summary": "A Deepseek quer colocar 160.000 chips Huawei Ascend-950DT em um data center da Mongólia Interior apenas para inferência, não para treinamento. Seria o maior cluster de chips Huawei conhecido. Mas…",
+      "link": "https://the-decoder.com/deepseek-plans-the-largest-known-huawei-chip-cluster-with-160000-processors-in-inner-mongolia/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/china_flag_visual-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-04T14:19:14+00:00"
+    },
+    {
+      "id": "3efd59247e97803a",
+      "title": "TV LG QNED 55″ tem 25% OFF em até 12x sem juros na Amazon",
+      "summary": "LG QNED70BSA traz painel com tecnologia Mini LED e IA que recomenda conteúdos; smart TV 4K QNED da LG pode ser parcelada em até 12x de R$ 249,92 na Amazon TV LG QNED 55″ tem 25%…",
+      "link": "https://tecnoblog.net/achados/tv-lg-qned-55-tem-25-off-em-ate-12x-sem-juros-na-amazon/",
+      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/amz.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-04T13:58:06+00:00"
+    },
+    {
+      "id": "f60d7bb6db5c87d1",
+      "title": "Agentes desonestos da OpenAI parecem ter organizado outro ataque usando um wiki alemão",
+      "summary": "Um enxame de agentes desonestos de IA da OpenAI supostamente monopolizou um site alemão e o transformou em um quadro de mensagens para outros agentes, com as autoridades permanecendo caladas sobre o…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-04T13:34:12+00:00"
+    },
+    {
+      "id": "b13d606d253ae434",
+      "title": "Agentes da OpenAI sequestraram um wiki alemão de 25 anos para trapacear em suas tarefas e compartilhar explorações de sandbox",
+      "summary": "De acordo com uma análise da collusion.wiki, agentes autônomos de IA que se identificaram como sistemas OpenAI deixaram cerca de 18.000 postagens em um wiki alemão de 25 anos entre maio…",
+      "link": "https://the-decoder.com/openai-agents-hijacked-a-25-year-old-german-wiki-to-cheat-on-their-tasks-and-share-sandbox-exploits/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/OpenAI-prowiki-hack.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-04T13:24:24+00:00"
+    },
+    {
+      "id": "596a6a9921052195",
+      "title": "Interruptor da Xiaomi permite acender a mesma lâmpada de dois lugares",
+      "summary": "A Xiaomi lançou na China o Smart Switch 2 , novo interruptor inteligente que permite fiação paralela para controle da mesma lâmpada a partir de dois pontos diferentes do cômodo. O…",
+      "link": "https://canaltech.com.br/produtos/interruptor-da-xiaomi-permite-acender-a-mesma-lampada-de-dois-lugares/",
+      "image": "https://tl.ctcdn.com.br/vTpsZvkcgr5xQ7P5n3nj54OVrJc=/0x0/filters:format(webp):quality(85)/a5b34aad-4641-4bed-b4f5-f60998d2629c.webp",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-04T12:51:50+00:00"
+    },
+    {
+      "id": "77f7b348bf8c9dc5",
+      "title": "Hugging Face continuará aberto depois da compra pela NVIDIA?",
+      "summary": "A Hugging Face continuará sendo uma plataforma aberta depois de ser adquirida pela NVIDIA, segundo os compromissos anunciados pela fabricante de chips nesta quinta-feira (3). A…",
+      "link": "https://canaltech.com.br/mercado/hugging-face-continuara-aberto-depois-da-compra-pela-nvidia/",
+      "image": "https://tl.ctcdn.com.br/Z1zZQzYR2ysv9YubGatifOAUQPY=/0x0/filters:format(webp):quality(85)/8a78d06f-a31c-40eb-b591-5ab816bef361.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-04T12:30:01+00:00"
+    },
+    {
+      "id": "a7aac8df7489002e",
+      "title": "De Chaves a LLMs: como a programação chegou à linguagem natural",
+      "summary": "Hoje, parece uma verdade incontestável da natureza que computadores sejam máquinas destinadas a executar programas . Compramos um pedaço de hardware, instalamos diferentes…",
+      "link": "https://canaltech.com.br/software/de-chaves-a-llms-como-a-programacao-chegou-a-linguagem-natural/",
+      "image": "https://tl.ctcdn.com.br/glsjVNWV6KF2FjbWIagkfvHSgX0=/0x0/filters:format(webp):quality(85)/8a5613e9-d1bc-421b-b562-f2c0018fb145.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-04T12:25:43+00:00"
+    },
+    {
+      "id": "39ef2b5157f89d47",
+      "title": "A detecção de IA do Instagram é uma bagunça (de novo)",
+      "summary": "Os rótulos visíveis de IA do Instagram devem ajudar as pessoas a identificar rapidamente o conteúdo gerado sinteticamente. Nas últimas semanas, no entanto, os usuários têm relatado…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268439_ai_art_label_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-04T12:00:00+00:00"
+    },
+    {
+      "id": "00cea8369954dd7b",
+      "title": "IA da China apontou milhares de bugs no Linux",
+      "summary": "Modelo GLM-5.3 encontra falhas no Linux kernel em outros projetos de código aberto. IA da China apontou milhares de bugs no Linux",
+      "link": "https://tecnoblog.net/noticias/ia-da-china-apontou-milhares-de-bugs-no-linux/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/04/linux-tux-2-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-04T11:14:18+00:00"
+    },
+    {
+      "id": "9024d6d13c331504",
+      "title": "Os benchmarks discordam sobre o GPT-6 Astra, mas sua eficiência de superação humana no ARC-AGI-3 impulsiona a previsão AGI de Chollet",
+      "summary": "O GPT-6 Astra da OpenAI está obtendo veredictos de benchmark contraditórios. A Epoch AI o coloca na frente com 169 pontos, enquanto a Análise Artificial não o classifica melhor do que seu antecessor…",
+      "link": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-04T11:07:36+00:00"
+    },
+    {
+      "id": "5597b0d13607de29",
+      "title": "Por que a comida de IA é assim",
+      "summary": "Há uma torrente de resíduos pouco apetitosos provenientes de restaurantes, cafés e marcas que recorrem cada vez mais à IA para gerar imagens que promovam os seus alimentos. O resultado…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268722_Why_does_AI_food_look_like_that_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-04T11:00:00+00:00"
+    },
+    {
+      "id": "f24bdcbc61ac28fe",
+      "title": "O Project Zenith da Microsoft é uma ‘experiência Windows sem distrações’ para desenvolvedores",
+      "summary": "A Microsoft está dando um nome à sua experiência Windows otimizada para desenvolvedores: Projeto Zenith. Embora o fabricante do software tenha anunciado originalmente um esforço semelhante do Windows otimizado para desenvolvedores…",
+      "link": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/projectzenith.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-04T10:44:15+00:00"
+    },
+    {
+      "id": "46893d79734da48d",
+      "title": "Sam Altman pede desculpas pelo lançamento ‘bagunçado’ do GPT-6 Astra que bloqueou usuários pagantes",
+      "summary": "Poucas horas depois que a OpenAI lançou o GPT-6 Astra, o CEO Sam Altman já estava se desculpando pelo que descreve como um \"lançamento confuso\" depois de usuários pagantes esperarem acesso ao novo…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285138968.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-04T10:41:48+00:00"
+    },
+    {
+      "id": "906b9e6788bbd685",
+      "title": "Esta empresa NAS deseja administrar sua casa inteligente local",
+      "summary": "A Ugreen, conhecida por seus bancos de energia para telefones, carregadores e soluções de armazenamento NAS, está migrando para a casa inteligente – em grande estilo. Esta semana, na feira de tecnologia IFA, a empresa lançou…",
+      "link": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5640.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-04T09:41:44+00:00"
+    },
     {
       "id": "921e13342509c1cc",
       "title": "Resumo do OD: robotáxi de Musk; demissões na VW; OpenAI falando em AGI e mais!",
@@ -59,8 +235,8 @@
     },
     {
       "id": "c102e887e0485508",
-      "title": "GPT-6 Astra chega em meio a promessas de AGI e polêmicas de segurança",
-      "summary": "Novo modelo da OpenAI foi treinado com mais de 100 mil GPUs e usa técnica que pode dificultar monitoramento GPT-6 Astra chega em meio a promessas de AGI e polêmicas de segurança",
+      "title": "OpenAI anuncia o GPT-6 Astra; modelo chega ao ChatGPT em breve",
+      "summary": "Novo modelo da OpenAI foi treinado com mais de 100 mil GPUs e usa técnica que pode dificultar monitoramento OpenAI anuncia o GPT-6 Astra; modelo chega ao ChatGPT em breve",
       "link": "https://tecnoblog.net/noticias/gpt-6-astra-chega-em-meio-a-promessas-de-agi-e-polemicas-de-seguranca/",
       "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-1_capa-340x191.png",
       "source": "Tecnoblog",
@@ -355,17 +531,6 @@
       "published_at": "2026-09-03T16:04:00+00:00"
     },
     {
-      "id": "cc631cbb5158a4ea",
-      "title": "Google lança recursos de voz de IA no Gmail, Docs e Keep",
-      "summary": "Os usuários podem pesquisar e-mails ou rascunhos de documentos usando o novo recurso de conversação.",
-      "link": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-03T16:00:00+00:00"
-    },
-    {
       "id": "90c599e2da9dd5b7",
       "title": "Nvidia lança ferramenta gratuita que conecta computadores ociosos a um data center pessoal de IA",
       "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio…",
@@ -374,6 +539,17 @@
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
+      "published_at": "2026-09-03T16:00:00+00:00"
+    },
+    {
+      "id": "cc631cbb5158a4ea",
+      "title": "Google lança recursos de voz de IA no Gmail, Docs e Keep",
+      "summary": "Os usuários podem pesquisar e-mails ou rascunhos de documentos usando o novo recurso de conversação.",
+      "link": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-09-03T16:00:00+00:00"
     },
     {
@@ -815,182 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-02T18:17:34+00:00"
-    },
-    {
-      "id": "3c7768e75ebe5872",
-      "title": "Google lança Gemini 3.8 Flash, seu terceiro modelo Flash em seis semanas",
-      "summary": "As atualizações do modelo Pro do Google estão aparentemente pausadas, mas há mais um Gemini Flash hoje.",
-      "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-02T18:13:54+00:00"
-    },
-    {
-      "id": "5f228341826686f0",
-      "title": "Conheça Switchyard: um proxy e biblioteca Rust que roteia e traduz o tráfego LLM em APIs OpenAI e Anthropic",
-      "summary": "A NVIDIA lançou o Switchyard, um proxy Apache-2.0 Rust e uma biblioteca para tráfego LLM. Ele decodifica solicitações em tipos neutros de provedor, roteia-as com passagem, aleatória…",
-      "link": "https://www.marktechpost.com/2026/09/02/nvidia-releases-switchyard-rust-proxy-llm-traffic-openai-anthropic-api-translation/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-02T18:05:52+00:00"
-    },
-    {
-      "id": "552acf6b4dd4ac1e",
-      "title": "Trump pode ser forçado a revelar regras secretas usadas pelos federais para testes de segurança de IA",
-      "summary": "As análises secretas de Trump sobre modelos de IA de fronteira podem esconder a corrupção, diz o processo.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2250714805-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-02T17:58:33+00:00"
-    },
-    {
-      "id": "5833f9323c8b82e5",
-      "title": "Modo IA do Google mostra preços 21,6% maiores em teste que a pesquisa tradicional",
-      "summary": "Estudo da Productrise encontrou preços 21,6% maiores no Google AI Mode, mas não prova que a empresa manipula os valores O post Modo IA do Google mostra preços 21,6% maiores em…",
-      "link": "https://olhardigital.com.br/2026/09/02/inteligencia-artificial/modo-ia-do-google-mostra-precos-216-maiores-em-teste-que-a-pesquisa-tradicional/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/comparacao-precos-1024x855.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-02T17:57:18+00:00"
-    },
-    {
-      "id": "07dde70d40fe6e8f",
-      "title": "O assistente de IA da Amazon agora pode detectar e-mails falsos da empresa",
-      "summary": "A Amazon está tentando combater golpes de falsificação de identidade com um novo recurso que permite usar seu assistente de IA para determinar se um e-mail, mensagem de texto ou telefonema realmente chegou…",
-      "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alexa-shopping-ai-hero-lm.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-02T17:52:56+00:00"
-    },
-    {
-      "id": "d57f712927ef4ffc",
-      "title": "Gemini 3.8 Flash chega só 3 semanas após antecessor e ganha versão para cibersegurança",
-      "summary": "O Google lançou nesta quarta-feira (2) o Gemini 3.8 Flash , novo modelo da família Gemini 3 voltado para programação, agentes de inteligência artificial e tarefas que exigem…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-38-flash-chega-so-3-semanas-apos-antecessor-e-ganha-versao-para-ciberseguranca/",
-      "image": "https://tl.ctcdn.com.br/bdmHvi05hRfx8oHMnETDk1nVsc8=/0x0/filters:format(webp):quality(85)/b92fa583-0522-43cb-909b-96b77ee2ee8c.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-02T17:46:04+00:00"
-    },
-    {
-      "id": "ccfcb8314ab31fec",
-      "title": "Google DeepMind lança Gemini 3.8 Flash e Gemini 3.8 Flash Cyber: um modelo central, dois envelopes de acesso",
-      "summary": "O Google lançou Gemini 3.8 Flash e Gemini 3.8 Flash Cyber ​​em 2 de setembro de 2026. Ambas as variantes funcionam com a mesma inteligência fundamental, divididas por mitigações de segurança em vez de…",
-      "link": "https://www.marktechpost.com/2026/09/02/google-deepmind-releases-gemini-3-8-flash-and-gemini-3-8-flash-cyber-one-core-model-two-access-envelopes/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-10.19.36-AM-1.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-02T17:20:24+00:00"
-    },
-    {
-      "id": "669b37e434059ef8",
-      "title": "Max Spero da Pangram explica por que a detecção de IA é mais difícil do que ‘Real ou Falso’",
-      "summary": "A Internet tem um problema de confiança, e não é apenas porque os feeds das redes sociais estão cheios de resíduos de IA. Textos e imagens gerados por IA agora estão chegando ao trabalho…",
-      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-02T17:18:13+00:00"
-    },
-    {
-      "id": "61be402eb5f2f6df",
-      "title": "O governo dos EUA apoia a OpenAI na questão do treinamento de LLMs em material protegido por direitos autorais",
-      "summary": "\"Os Estados Unidos têm um forte interesse em continuar a desenvolver uma indústria de inteligência artificial robusta e competitiva que estabeleça o padrão para a prática e o procedimento...",
-      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-02T17:09:06+00:00"
-    },
-    {
-      "id": "66fd5c76a42d8583",
-      "title": "Astra: OpenAI pede ajuda às gigantes da segurança para conter nova IA",
-      "summary": "A OpenAI prepara o lançamento do Astra , novo modelo de inteligência artificial que atingiu pela primeira vez o nível de “capacidade cibernética crítica” definido pela própria…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/astra-openai-pede-ajuda-as-gigantes-da-seguranca-para-conter-nova-ia/",
-      "image": "https://tl.ctcdn.com.br/x3e2UIq6q2dzmq5zkNkMejX-6Yg=/0x0/filters:format(webp):quality(85)/ae94cce1-33ac-4ac3-b820-caa7da676545.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-02T17:03:00+00:00"
-    },
-    {
-      "id": "5382a38a62a9f67f",
-      "title": "Gemini 3.8 Flash é o terceiro modelo de orçamento do Google em seis semanas, enquanto os modelos de fronteira permanecem desaparecidos",
-      "summary": "O Gemini 3.8 Flash do Google, o terceiro modelo Flash em seis semanas, iguala Claude Opus 5 em alguns benchmarks de codificação de agentes a um custo mais baixo. Mas o seu raciocínio de “trabalhar mais” queima…",
-      "link": "https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_flash_fast.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-02T16:59:29+00:00"
-    },
-    {
-      "id": "b72dc2155f8b26f1",
-      "title": "Geotérmica aprimorada obtém outra vitória com o Google comprando 400 MW da Fervo",
-      "summary": "O acordo da Fervo com o Google poderia se expandir para 1 gigawatt de energia geotérmica, o suficiente para abastecer um grande data center de IA em Utah.",
-      "link": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-02T16:54:23+00:00"
-    },
-    {
-      "id": "ae9276eb506fc752",
-      "title": "Pesquisadores temem desastre de segurança antes do lançamento do Astra da OpenAI",
-      "summary": "A OpenAI está prestes a lançar seu modelo de IA mais poderoso, o Astra, após semanas de atrasos para reforçar os protocolos de segurança depois que seus agentes atacaram alvos reais durante…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2287521404.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-02T16:40:50+00:00"
-    },
-    {
-      "id": "16174673e5def518",
-      "title": "A administração Trump está apoiando a OpenAI no processo de direitos autorais do NYT",
-      "summary": "A administração Trump interveio no processo de direitos autorais do The New York Times contra a OpenAI, apresentando um argumento a favor do laboratório de IA. O processo histórico, aberto em dezembro…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-02T16:12:25+00:00"
-    },
-    {
-      "id": "17bdd852a1819d21",
-      "title": "O homem mais rico da Índia agora quer transformar computadores antigos em PCs prontos para IA",
-      "summary": "Jio está apostando que pode transformar um computador antigo em um PC pronto para IA por apenas US$ 11 por dois meses.",
-      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-02T16:01:48+00:00"
-    },
-    {
-      "id": "306913a85ad8186c",
-      "title": "O Google está enviando MrBeast para o deserto, armado com IA",
-      "summary": "MrBeast apresentará Gemini, Google Health e Fitbit Air nos próximos vídeos como parte de uma parceria plurianual com o Google. O negócio começará com um vídeo apresentando…",
-      "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2255012715.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-02T15:47:03+00:00"
     }
   ]
 }
