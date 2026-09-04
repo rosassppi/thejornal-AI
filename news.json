@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-04T02:59:04.113732+00:00",
+  "generated_at": "2026-09-04T10:37:20.361900+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "921e13342509c1cc",
+      "title": "Resumo do OD: robotáxi de Musk; demissões na VW; OpenAI falando em AGI e mais!",
+      "summary": "No Brasil, o Senado aprovou nesta quinta-feira (3) a medida provisória que acaba com a chamada “taxa das blusinhas” O post Resumo do OD: robotáxi de Musk; demissões na VW; OpenAI…",
+      "link": "https://olhardigital.com.br/2026/09/04/pro/resumo-do-od-robotaxi-de-musk-demissoes-na-vw-openai-falando-em-agi-e-mais/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-04T09:35:13+00:00"
+    },
+    {
+      "id": "772ec013400f9e75",
+      "title": "Dados de drones na Ucrânia estão alimentando um novo mercado do Velho Oeste",
+      "summary": "Os campos de batalha na Ucrânia estão repletos de restos de drones, que estão agora firmemente estabelecidos como uma arma crítica da guerra moderna. Mas por trás de todos esses destroços, há um…",
+      "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-04T09:25:19+00:00"
+    },
+    {
+      "id": "b1fab1d15a8f3bca",
+      "title": "A Nvidia quer que sua rede doméstica funcione como um mini data center para IA local",
+      "summary": "O PAIR (Personal AI Router) da Nvidia distribui automaticamente solicitações locais de IA por todos os dispositivos disponíveis em uma rede doméstica, reduzindo o tempo de espera para tarefas de agentes paralelos. O artigo…",
+      "link": "https://the-decoder.com/nvidia-wants-your-home-network-to-work-like-a-mini-data-center-for-local-ai/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-04T08:06:15+00:00"
+    },
+    {
+      "id": "9ce8a043bb77d0e8",
+      "title": "O problema da mesmice por trás daqueles menus pouco apetitosos gerados por IA",
+      "summary": "Embora os proprietários de restaurantes possam olhar para a IA generativa como um atalho para melhorar o seu menu, os clientes podem sentir visceralmente que algo está errado com a comida.",
+      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-04T04:21:03+00:00"
+    },
     {
       "id": "6922c055d0a4e805",
       "title": "WeatherNext 3 do Google DeepMind treina observações de estações meteorológicas para fornecer previsões globais de 5 km, atualizadas a cada hora",
@@ -377,17 +421,6 @@
       "published_at": "2026-09-03T15:28:26+00:00"
     },
     {
-      "id": "3058df3b96e49870",
-      "title": "O mais recente modelo meteorológico de IA do Google não oferece desculpa para esquecer seu guarda-chuva",
-      "summary": "WeatherNext 3 é a última onda de uma mudança radical na meteorologia trazida por técnicas de aprendizado profundo. O Google diz que começará a alimentar informações meteorológicas que os usuários veem em…",
-      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-03T15:00:00+00:00"
-    },
-    {
       "id": "591da8efaf769b4d",
       "title": "Google diz que seu modelo meteorológico de IA está melhorando",
       "summary": "O Google está lançando um modelo meteorológico de IA atualizado que deveria ser mais preciso, especialmente quando se trata de prever chuva e neve. No anúncio de hoje, o…",
@@ -396,6 +429,17 @@
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
+      "published_at": "2026-09-03T15:00:00+00:00"
+    },
+    {
+      "id": "3058df3b96e49870",
+      "title": "O mais recente modelo meteorológico de IA do Google não oferece desculpa para esquecer seu guarda-chuva",
+      "summary": "WeatherNext 3 é a última onda de uma mudança radical na meteorologia trazida por técnicas de aprendizado profundo. O Google diz que começará a alimentar informações meteorológicas que os usuários veem em…",
+      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-09-03T15:00:00+00:00"
     },
     {
@@ -947,50 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-02T15:47:03+00:00"
-    },
-    {
-      "id": "5eb2aa71a90a9c91",
-      "title": "Defesa cibernética proativa para governos e empresas",
-      "summary": "Apresentando o Programa Fairwind",
-      "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-02T15:40:00+00:00"
-    },
-    {
-      "id": "d9ce3ecdee9c0ae1",
-      "title": "HiddenLayer arrecada US$ 100 milhões enquanto as empresas correm para proteger suas implantações de IA",
-      "summary": "HiddenLayer levantou uma Série B de US$ 100 milhões da Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, M12 da Microsoft, Booz Allen Hamilton e outros.",
-      "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-02T15:01:23+00:00"
-    },
-    {
-      "id": "5ce4a0196c7f5aaf",
-      "title": "PSA: a IA de compras da Amazon agora pode dizer se essa mensagem é uma farsa",
-      "summary": "A Amazon está adicionando um recurso de detecção de golpes ao Alexa for Shopping que pode verificar se e-mails, textos e outras mensagens suspeitas realmente vieram do varejista.",
-      "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-02T14:56:34+00:00"
-    },
-    {
-      "id": "a36edc65fd6f0523",
-      "title": "Militares dos EUA adicionam ChatGPT e Grok à plataforma de IA GenAI.mil",
-      "summary": "O Pentágono está expandindo sua plataforma de IA com dois novos modelos, ChatGPT Mil da OpenAI e Grok for Government da xAI. O artigo Militares dos EUA adicionam ChatGPT e Grok à plataforma de IA…",
-      "link": "https://the-decoder.com/us-military-adds-chatgpt-and-grok-to-ai-platform-genai-mil/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/pentagon_chatgpt_grok.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-02T14:40:51+00:00"
     }
   ]
 }
