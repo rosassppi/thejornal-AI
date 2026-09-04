@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-09-03T20:31:36.951398+00:00",
+  "generated_at": "2026-09-04T02:59:04.113732+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "6922c055d0a4e805",
+      "title": "WeatherNext 3 do Google DeepMind treina observações de estações meteorológicas para fornecer previsões globais de 5 km, atualizadas a cada hora",
+      "summary": "WeatherNext 3 ingere mosaicos de satélites geoestacionários ao vivo, atualiza de hora em hora e gera previsões de 5 km em Search, Gemini, Maps. A postagem WeatherNext 3 do Google DeepMind…",
+      "link": "https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-04T01:21:49+00:00"
+    },
+    {
+      "id": "c102e887e0485508",
+      "title": "GPT-6 Astra chega em meio a promessas de AGI e polêmicas de segurança",
+      "summary": "Novo modelo da OpenAI foi treinado com mais de 100 mil GPUs e usa técnica que pode dificultar monitoramento GPT-6 Astra chega em meio a promessas de AGI e polêmicas de segurança",
+      "link": "https://tecnoblog.net/noticias/gpt-6-astra-chega-em-meio-a-promessas-de-agi-e-polemicas-de-seguranca/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-1_capa-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-03T23:12:30+00:00"
+    },
+    {
+      "id": "f5529b55fab20f4c",
+      "title": "SpaceXAI se desculpa por falha que derrubou Grok por horas",
+      "summary": "Problema aparentemente também afetou outras empresas de IA que utilizam a infraestrutura de computação da companhia O post SpaceXAI se desculpa por falha que derrubou Grok por…",
+      "link": "https://olhardigital.com.br/2026/09/03/pro/spacexai-se-desculpa-por-falha-que-derrubou-grok-por-horas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/grok-1024x681.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-03T23:02:50+00:00"
+    },
+    {
+      "id": "b02ea5b5bb5e70aa",
+      "title": "\"Lixo de IA\": criadores do emulador de PS3 detonam novo DLSS 5 da NVIDIA",
+      "summary": "Os desenvolvedores do emulador de PlayStation 3, RPCS3, criticaram o DLSS 5 após modders testarem uma versão vazada da DLL da tecnologia no renderizador do emulador. A equipe…",
+      "link": "https://canaltech.com.br/games/lixo-de-ia-criadores-do-emulador-de-ps3-detonam-novo-dlss-5-da-nvidia/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-03T21:18:00+00:00"
+    },
+    {
+      "id": "d5897f84f2019a39",
+      "title": "OpenAI lança GPT-6 Astra: um modelo de uso de computador com contexto de 1,05 milhões atrás de um limite cibernético “crítico”",
+      "summary": "A OpenAI lançou o GPT-6 Astra em 3 de setembro de 2026, posicionando-o como um carro-chefe para uso em computador, em vez de um modelo de bate-papo. Ele reporta 72,6% no OSWorld V2-Offline, substitui o Codex…",
+      "link": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-03T21:16:11+00:00"
+    },
+    {
+      "id": "b267dcd4ed4ee8b0",
+      "title": "Startup ARR está menos seguro do que nunca, mostra nova pesquisa",
+      "summary": "A era da IA ​​quebrou completamente os padrões de compra das empresas e as startups ainda não descobriram como navegar.",
+      "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-03T20:59:23+00:00"
+    },
+    {
+      "id": "755bb78a97a17513",
+      "title": "OpenAI lança GPT-6 Astra, modelo que atingiu nível \"crítico\" de cibersegurança",
+      "summary": "A OpenAI lançou nesta quinta-feira (3) o GPT-6 Astra , modelo que a empresa apresenta como o mais inteligente já desenvolvido. A nova geração foi projetada para executar tarefas…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/openai-lanca-gpt-6-astra-seu-modelo-mais-inteligente-e-tambem-mais-critico/",
+      "image": "https://tl.ctcdn.com.br/bFoizkPGk9qkHYpZyLijcXPEzU0=/0x0/filters:format(webp):quality(85)/3d0163b8-3f97-4763-9750-441b5e832531.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-03T20:53:17+00:00"
+    },
     {
       "id": "6466accaf4e36a85",
       "title": "NVIDIA dá R$ 66 bilhões à Hugging Face e vira dona do maior polo de IA do mundo",
@@ -172,7 +249,7 @@
       "title": "O próximo grande modelo de IA da OpenAI ‘entrou na era AGI’",
       "summary": "O próximo grande modelo da OpenAI está aqui: GPT-6 Astra. A empresa chama isso de “salto geracional em capacidade” para áreas como segurança cibernética, trabalho profissional, engenharia de software…",
       "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
@@ -399,6 +476,17 @@
       "published_at": "2026-09-03T13:34:13+00:00"
     },
     {
+      "id": "fc40ddafdd41e0cc",
+      "title": "Alvorada para Defensores da Linha de Frente: US$ 1 bilhão para proteger serviços essenciais",
+      "summary": "OpenAI apresenta Daybreak para Frontline Defenders. Um compromisso de US$ 1 bilhão expande o acesso à IA cibernética de ponta, treinamento e suporte para serviços essenciais.",
+      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-03T13:15:00+00:00"
+    },
+    {
       "id": "fffbcba03b0b217e",
       "title": "NeoMME: um codificador multimodal nativo e multilíngue eficiente",
       "summary": "",
@@ -454,6 +542,28 @@
       "published_at": "2026-09-03T12:00:56+00:00"
     },
     {
+      "id": "9281d6906e8350b6",
+      "title": "Legora revisou 41 documentos em minutos com GPT-6 Astra",
+      "summary": "A Legora usou o GPT-6 Astra para revisar 41 documentos em minutos, encontrar todos os quatro erros plantados e melhorar o desempenho em quase 40% neste fluxo de trabalho de revisão financeira.",
+      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-03T12:00:00+00:00"
+    },
+    {
+      "id": "325e9dcd840a97e9",
+      "title": "Manual de corte da Playco corrige 50% de prototipagem de jogos com GPT-6 Astra",
+      "summary": "Usando o GPT-6 Astra, a Playco construiu três protótipos de jogos temáticos a partir de uma base de caixa cinza e relatou 50% menos correções manuais do que o modelo anterior.",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-03T12:00:00+00:00"
+    },
+    {
       "id": "71b77695d6b8ceeb",
       "title": "Meta chega ao topo com Muse Spark 1.3 e supera rivais em preço",
       "summary": "A Meta lançou o Muse Spark 1.3, seu quarto modelo da série em cinco meses. De acordo com a Análise Artificial, o modelo ganha mais em benchmarks de agentes, mas ainda fica atrás…",
@@ -507,6 +617,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-03T00:00:11+00:00"
+    },
+    {
+      "id": "39210f987919e80e",
+      "title": "Visão geral de segurança: GPT-6 Astra",
+      "summary": "O GPT-6 Astra é o nosso modelo amplamente implantado com maior capacidade e o primeiro a atingir o nível Crítico de capacidade de segurança cibernética no âmbito do nosso Quadro de Preparação.",
+      "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-03T00:00:00+00:00"
     },
     {
       "id": "a139f80b159295ad",
@@ -870,127 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-02T14:40:51+00:00"
-    },
-    {
-      "id": "59bc04e962d53379",
-      "title": "Echo Dot em destaque: confira uma seleção de Smart Speakers com Alexa em promoção na Amazon",
-      "summary": "Se você quer deixar a casa mais inteligente sem complicação, o Echo Dot continua sendo uma das opções mais acessíveis e práticas do mercado. A Amazon reúne na sua plataforma…",
-      "link": "https://olhardigital.com.br/2026/09/02/reviews/echo-dot-em-destaque-confira-uma-selecao-de-smart-speakers-com-alexa-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-02T14:40:00+00:00"
-    },
-    {
-      "id": "c6bad388c0417685",
-      "title": "OpenAI acusada de ‘ajudar e encorajar’ tiroteio em massa em Tumbler Ridge em dezenas de novos processos",
-      "summary": "A OpenAI e seu CEO Sam Altman estão enfrentando 30 novos processos que os acusam de fornecer “assistência e incentivo substancial” ao suspeito na escola Tumbler Ridge, no Canadá…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2261008686.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-02T14:35:03+00:00"
-    },
-    {
-      "id": "4a90a93cc5891125",
-      "title": "Nova York proíbe o uso de IA para estudantes até que cheguem ao ensino médio",
-      "summary": "O prefeito da cidade de Nova York, Zohran Mamdani, anunciou hoje uma nova política que proibirá crianças em idade escolar de usar IA nas salas de aula. A moratória de um ano, em vigor no…",
-      "link": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-02T14:30:00+00:00"
-    },
-    {
-      "id": "727cec436016d1ec",
-      "title": "Protestos contra data centers de IA jogam a favor da China, diz Trump",
-      "summary": "O Presidente Trump tem resistido fortemente à crescente oposição aos centros de dados de IA nos EUA. O artigo Protestos contra data centers de IA fazem o jogo da China, diz Trump…",
-      "link": "https://the-decoder.com/protests-against-ai-data-centers-play-into-chinas-hands-trump-says/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/konkurrenz_usa_china.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-02T14:23:51+00:00"
-    },
-    {
-      "id": "537b34ea2a147140",
-      "title": "A OpenAI chama o Astra de seu modelo mais perigoso até agora – observar o que ele faz está cada vez mais difícil",
-      "summary": "A OpenAI está classificando oficialmente seu próximo modelo Astra como o primeiro sistema com capacidades cibernéticas “críticas”. A empresa planeja mantê-lo sob controle monitorando a cadeia de…",
-      "link": "https://the-decoder.com/openai-calls-astra-its-most-dangerous-model-yet-watching-what-it-does-is-only-getting-harder/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/Astra-Chain-of-Thought.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-02T14:20:28+00:00"
-    },
-    {
-      "id": "8109919b0a51382e",
-      "title": "Governo pode proibir uso de IA para corrigir redações nas escolas; entenda as regras",
-      "summary": "Diretrizes aprovadas pelo CNE ainda precisam de homologação do MEC. Se forem confirmadas, instituições terão 12 meses para se adaptar. Governo pode proibir uso de IA para corrigir…",
-      "link": "https://tecnoblog.net/noticias/cne-proibe-ia-para-corrigir-redacoes-nas-escolas-veja-o-que-muda/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/12/escola-publica-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-02T14:18:33+00:00"
-    },
-    {
-      "id": "59aa377f580111c6",
-      "title": "Adobe adquire startup indiana de inteligência de mercado Rilo",
-      "summary": "Esta é a segunda aquisição da Adobe fora da Índia depois da Rephrase.ai em 2023",
-      "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-02T14:03:57+00:00"
-    },
-    {
-      "id": "dae7e21339af7494",
-      "title": "Parece que faremos uma viagem de 80 mil anos até outro sistema solar",
-      "summary": "Uma IA encontrou uma rota inédita para uma missão que pode levar 80 mil anos até Alpha Centauri, com lançamento previsto para 2029 O post Parece que faremos uma viagem de 80 mil…",
-      "link": "https://olhardigital.com.br/2026/09/02/ciencia-e-espaco/ia-resolve-quebra-cabeca-para-enviar-nave-ate-alpha-centauri/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/fermi-explorer-mission-1024x576.webp",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-02T14:01:37+00:00"
-    },
-    {
-      "id": "8cee6b788bd82636",
-      "title": "Novo Claude Fable 5.1 é mais poderoso, mais barato e tem menos restrições",
-      "summary": "A Anthropic lançou nesta semana o Claude Fable 5.1 e o Claude Mythos 5.1 , novas versões do seu modelo mais avançado de inteligência artificial. Os dois compartilham o mesmo…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/novo-claude-fable-51-e-mais-poderoso-mais-barato-e-tem-menos-restricoes/",
-      "image": "https://tl.ctcdn.com.br/V_m3L7PCGu1dxxWPI7PkOEJWOA8=/0x0/filters:format(webp):quality(85)/4ef463f1-605c-4ee7-be94-35fafeebbf38.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-02T14:01:00+00:00"
-    },
-    {
-      "id": "f87bb394d39e63b8",
-      "title": "Facilitando a integração de IA com simplicidade em escala",
-      "summary": "À medida que as empresas crescem, a tecnologia que suporta as operações pode tornar-se um passivo tão rapidamente como se torna um activo. Sistemas desconectados, ferramentas específicas do local, planilhas…",
-      "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-02T14:00:00+00:00"
-    },
-    {
-      "id": "eba1d6d56bc796bf",
-      "title": "Anthropic lança Fable 5.1 com menos restrições e promessa de economia",
-      "summary": "Desenvolvedora também anuncia Mythos 5.1, que segue restrito a grupo de organizações confiáveis. Anthropic lança Fable 5.1 com menos restrições e promessa de economia",
-      "link": "https://tecnoblog.net/noticias/anthropic-lanca-fable-5-1-com-menos-restricoes-e-promessa-de-economia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-2-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-02T13:50:21+00:00"
     }
   ]
 }
