@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-09-05T14:37:07.138057+00:00",
+  "generated_at": "2026-09-05T19:56:56.142615+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "3e972ea9f95354cd",
+      "title": "GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI",
+      "summary": "We look at Project HydraFusion, GitHub's research preview that treats workflow selection as an optimization problem rather than a model picker. We break down the three execution…",
+      "link": "https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-05T19:40:11+00:00"
+    },
+    {
+      "id": "6ef2aef9012f0dd0",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-05T19:35:24+00:00"
+    },
+    {
+      "id": "b5317a5d9e5cd91e",
+      "title": "Nous Research Adds One-Click Local Model Setup to Hermes Desktop",
+      "summary": "Nous Research has collapsed local model setup into a single click in Hermes Desktop. The app reads your hardware, fit-checks the catalog against your GPU, picks the…",
+      "link": "https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-05T19:12:02+00:00"
+    },
+    {
+      "id": "5d12877031aa63ff",
+      "title": "7 prompts do ChatGPT que melhoram qualquer texto sem criar palavras por você",
+      "summary": "Quando você usa o ChatGPT para escrever um texto inteiro, o resultado nem sempre fica com a sua cara. Muitas vezes, aparecem frases genéricas, ideias previsíveis e aquele tom que…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/prompts-chatgpt-para-melhorar-qualquer-texto/",
+      "image": "https://tl.ctcdn.com.br/vfHYXeNOBRgQUmYKf3-erxzT0BE=/0x0/filters:format(webp):quality(85)/a2f5608b-828b-404b-9143-f74eedc59325.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-05T19:00:01+00:00"
+    },
+    {
+      "id": "3448089f47d7e7cb",
+      "title": "Hora de renovar seu home office: impressoras em oferta na Amazon",
+      "summary": "Seja para trabalhar em casa, imprimir documentos escolares ou ter mais praticidade no dia a dia, uma boa impressora faz toda a diferença. Separamos três modelos multifuncionais em…",
+      "link": "https://olhardigital.com.br/2026/09/05/reviews/hora-de-renovar-seu-home-office-impressoras-em-oferta-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-05T18:40:00+00:00"
+    },
+    {
+      "id": "418487b456978fe4",
+      "title": "IPO da Anthropic é adiado para outubro com avaliação de US$ 2 tri",
+      "summary": "Oferta pública, que pode avaliar a empresa de inteligência artificial em US$ 2 trilhões, deve ser concluída dias antes das eleições nos EUA O post IPO da Anthropic é adiado para…",
+      "link": "https://olhardigital.com.br/2026/09/05/pro/ipo-da-anthropic-e-adiado-para-outubro-com-avaliacao-de-us-2-tri/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-05T18:37:21+00:00"
+    },
+    {
+      "id": "529a241aa37ae633",
+      "title": "A Análise Artificial revisa seu Índice de Inteligência depois que a pontuação do GPT-6 Astra atraiu ceticismo",
+      "summary": "Artificial Analysis has released version 4.2 of its Intelligence Index, likely in response to criticism that its benchmarks failed to capture GPT-6 Astra's actual progress. Astra…",
+      "link": "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_dark_gpt6_stars.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-05T18:21:02+00:00"
+    },
+    {
+      "id": "b86b5015c5da7a40",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-05T18:05:27+00:00"
+    },
+    {
+      "id": "658c50088a35101f",
+      "title": "Magalu Cloud debate soberania de dados, IA e segurança no Cloud Futures 2026",
+      "summary": "Soberania de dados e os rumos da computação em nuvem no Brasil serão alguns dos temas abordados na quarta edição do Cloud Futures , evento promovido pela Magalu Cloud na próxima…",
+      "link": "https://canaltech.com.br/mercado/magalu-cloud-debate-soberania-de-dados-ia-e-seguranca-no-cloud-futures-2026/",
+      "image": "https://tl.ctcdn.com.br/TdLm4CrOzZjw6rgL4OEWzq4v3S0=/0x0/filters:format(webp):quality(85)/73b2e605-e36b-494a-bc1c-b6562cda3e6e.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-05T15:25:31+00:00"
+    },
+    {
+      "id": "8f6ff2a364edd7d6",
+      "title": "6 coisas que o Gemini faz melhor que o Claude",
+      "summary": "O Gemini, desenvolvido pelo Google, e o Claude, da Anthropic, estão entre as principais inteligências artificiais disponíveis atualmente. As duas plataformas oferecem recursos…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-gemini-faz-melhor-que-claude/",
+      "image": "https://tl.ctcdn.com.br/WoNzw_SBjAYVNOuI-byP6qDqS8Q=/0x0/filters:format(webp):quality(85)/bfcdb6d7-f4c9-46ff-b12d-ec0e1295173a.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-05T15:00:00+00:00"
+    },
     {
       "id": "3b4dcb5d3c3302cb",
       "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
@@ -881,116 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-03T16:09:01+00:00"
-    },
-    {
-      "id": "a42f02e65e442165",
-      "title": "OpenAI cria \"botão de emergência\" para desligar IAs após elas se rebelarem",
-      "summary": "A OpenAI informou a congressistas dos Estados Unidos que está desenvolvendo recursos de desligamento automatizado para seus sistemas de inteligência artificial. A medida foi…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/openai-cria-botao-de-emergencia-para-desligar-ias-apos-elas-se-rebelarem/",
-      "image": "https://tl.ctcdn.com.br/ghD2z0XVzSdNKsk1aaAohcKqEJA=/0x0/filters:format(webp):quality(85)/6de05839-f89f-4e11-9241-bf65e6e6c8d6.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-03T16:04:00+00:00"
-    },
-    {
-      "id": "90c599e2da9dd5b7",
-      "title": "Nvidia lança ferramenta gratuita que conecta computadores ociosos a um data center pessoal de IA",
-      "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.02-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-03T16:00:00+00:00"
-    },
-    {
-      "id": "cc631cbb5158a4ea",
-      "title": "Google lança recursos de voz de IA no Gmail, Docs e Keep",
-      "summary": "Os usuários podem pesquisar e-mails ou rascunhos de documentos usando o novo recurso de conversação.",
-      "link": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-03T16:00:00+00:00"
-    },
-    {
-      "id": "24310dd0bfe4be1a",
-      "title": "Google now lets you chat with Gmail, Docs, and Keep",
-      "summary": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities…",
-      "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Gmail-Docs-and-Keep-Live.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-03T16:00:00+00:00"
-    },
-    {
-      "id": "eb1104274464bbfa",
-      "title": "ChatGPT, Grok e Claude caíram ao mesmo tempo",
-      "summary": "ChatGPT da OpenAI, Grok da xAI e Claude da Anthropic estão online novamente depois que todos começaram a ter problemas na mesma hora na quinta-feira. Por volta das 11h ET, o ChatGPT começou…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-03T15:35:14+00:00"
-    },
-    {
-      "id": "de9d8e1a6af8544b",
-      "title": "PicPay chega ao Claude e libera consulta da fatura do cartão por IA",
-      "summary": "Clientes do PicPay poderão consultar informações da conta pelo Claude . A novidade faz parte de uma integração anunciada pela instituição financeira nesta quinta-feira (3). O…",
-      "link": "https://canaltech.com.br/apps/picpay-chega-ao-claude-e-libera-consulta-da-fatura-do-cartao-por-ia/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-03T15:35:01+00:00"
-    },
-    {
-      "id": "01a5234e73893b41",
-      "title": "ChatGPT fora do ar? IA apresenta instabilidade nesta quinta-feira (3)",
-      "summary": "O ChatGPT apresenta instabilidade nesta quinta-feira (3), com usuários relatando dificuldades para acessar a plataforma da OpenAI. Em alguns casos, o serviço exibe uma mensagem de…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-fora-do-ar-ia-apresenta-instabilidade-nesta-quinta-feira-3/",
-      "image": "https://tl.ctcdn.com.br/Gha5HleabSlzeMj-guoGYZTs_kM=/0x0/filters:format(webp):quality(85)/6e428b52-a6aa-42f7-92ce-34511dd225b6.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-03T15:28:26+00:00"
-    },
-    {
-      "id": "591da8efaf769b4d",
-      "title": "Google diz que seu modelo meteorológico de IA está melhorando",
-      "summary": "O Google está lançando um modelo meteorológico de IA atualizado que deveria ser mais preciso, especialmente quando se trata de prever chuva e neve. No anúncio de hoje, o…",
-      "link": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24016886/STK093_Google_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-03T15:00:00+00:00"
-    },
-    {
-      "id": "3058df3b96e49870",
-      "title": "O mais recente modelo meteorológico de IA do Google não oferece desculpa para esquecer seu guarda-chuva",
-      "summary": "WeatherNext 3 é a última onda de uma mudança radical na meteorologia trazida por técnicas de aprendizado profundo. O Google diz que começará a alimentar informações meteorológicas que os usuários veem em…",
-      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-03T15:00:00+00:00"
-    },
-    {
-      "id": "434beb6ef3c8ac68",
-      "title": "Envenenamento de memória cria novo risco para agentes de IA",
-      "summary": "Agentes de IA com memória podem ser alvo de informações falsas, em ataques que só revelam efeitos depois de várias interações O post Envenenamento de memória cria novo risco para…",
-      "link": "https://olhardigital.com.br/2026/09/03/seguranca/envenenamento-de-memoria-cria-novo-risco-para-agentes-de-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/agente-ia-2-1024x608.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-03T14:50:48+00:00"
     }
   ]
 }
