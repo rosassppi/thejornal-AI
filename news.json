@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-09-05T09:58:48.155085+00:00",
+  "generated_at": "2026-09-05T14:37:07.138057+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "3b4dcb5d3c3302cb",
+      "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+      "summary": "OpenAI ships a detailed prompting guide for GPT-6 Astra that shows developers how to make the model take more initiative, avoid AI \"slop\" phrases, and stop it from overtesting…",
+      "link": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_gpt_6_stars_astra.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-05T13:31:04+00:00"
+    },
+    {
+      "id": "4ba77072fa321fc3",
+      "title": "GPT-6 Astra faz tarefas complexas e já preocupa analistas",
+      "summary": "A OpenAI anunciou o GPT-6 Astra com promessa de IAG, mas falhas de segurança e invasões recentes acenderam o alerta de governos pelo mundo. O post GPT-6 Astra faz tarefas…",
+      "link": "https://olhardigital.com.br/2026/09/05/inteligencia-artificial/gpt-6-astra-faz-tarefas-complexas-e-ja-preocupa-analistas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/astra-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-05T12:58:17+00:00"
+    },
+    {
+      "id": "0b51a9abe9bd07f0",
+      "title": "Seven minutes with a chatbot beat a fact sheet at reducing conspiracy beliefs in two experiments",
+      "summary": "Researchers found that even a roughly seven-minute conversation with Google Gemini can reduce conspiracy beliefs about current crises, even when few verified facts are available…",
+      "link": "https://the-decoder.com/seven-minutes-with-a-chatbot-beat-a-fact-sheet-at-reducing-conspiracy-beliefs-in-two-experiments/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/ai-chatbots-conspiracy-theories-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-05T12:39:12+00:00"
+    },
+    {
+      "id": "5b13087810689101",
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-05T11:15:55+00:00"
+    },
+    {
+      "id": "df71ea507f2b0561",
+      "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki",
+      "summary": "OpenAI has responded indirectly to an incident in which autonomous AI agents left roughly 18,000 entries in a 25-year-old German wiki. The company says misalignment caused \"new…",
+      "link": "https://the-decoder.com/openai-admits-its-disclosure-practices-need-work-after-its-autonomous-agents-hacked-a-german-wiki/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/kraken_fast_openai_cybersecurity-scaled.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-05T10:57:51+00:00"
+    },
+    {
+      "id": "4dbfcb5e81ede75d",
+      "title": "Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers",
+      "summary": "Google Deepmind set up a simulated research conference where 100 Gemini agents were supposed to prove mathematical conjectures together. Instead, one agent found a loophole in the…",
+      "link": "https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/agent_conference_math_google_deepmind.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-05T10:22:38+00:00"
+    },
     {
       "id": "6e69b9e3d6de6b27",
       "title": "OpenAI lança GPT-6 Astra para planos ChatGPT de primeira linha pela metade da taxa de GPT-5.6 Sol",
@@ -12,6 +78,39 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-05T07:41:03+00:00"
+    },
+    {
+      "id": "26545aeebe29662f",
+      "title": "Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus",
+      "summary": "Adaption Labs has released Invent a Dataset, which generates a structured, training-ready dataset from a description of the behavior you want a model to learn. There is no seed…",
+      "link": "https://www.marktechpost.com/2026/09/04/datasets-invent-api-training-data-without-labeling-adaptive-data-autoscientist/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-05T06:48:29+00:00"
+    },
+    {
+      "id": "6af72a51f9e67119",
+      "title": "Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%",
+      "summary": "Gemini now navigates video instead of ingesting it at 1 FPS, loading only the segments a prompt needs. The post Google Launches Agentic Video Understanding for Gemini Flash…",
+      "link": "https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-05T04:37:25+00:00"
+    },
+    {
+      "id": "2c6ae9879531858d",
+      "title": "NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes",
+      "summary": "We look at NVIDIA Personal AI Router (PAIR), an open source virtual inference router that spreads local AI requests across the machines already on a home network. We cover how…",
+      "link": "https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-05T03:52:23+00:00"
     },
     {
       "id": "f68429e80b42c93a",
@@ -892,105 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-03T14:50:48+00:00"
-    },
-    {
-      "id": "70042f33b2eba9f2",
-      "title": "Dyson cria escova com IA que captura imagens da boca em 100 megapixels",
-      "summary": "A nova Dyson CameraJet traz irrigador oral integrado e funciona como endoscópio para otimizar a limpeza. Dyson cria escova com IA que captura imagens da boca em 100 megapixels",
-      "link": "https://tecnoblog.net/noticias/dyson-cria-escova-com-ia-que-captura-imagens-da-boca-em-100-megapixels/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/tf2pig0n5gg.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-03T14:42:31+00:00"
-    },
-    {
-      "id": "a59008a5c38935d2",
-      "title": "NVIDIA compra gigante da IA por US$ 12,93 bilhões; entenda o que muda",
-      "summary": "NVIDIA anuncia compra da Hugging Face por US$ 12,93 bilhões. Plataforma de IA seguirá aberta a modelos, nuvens e chips de rivais O post NVIDIA compra gigante da IA por US$ 12,93…",
-      "link": "https://olhardigital.com.br/2026/09/03/pro/gigante-dos-chips-compra-hugging-face-plataforma-de-ia-continuara-aberta-aos-usuarios/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/hugging_face-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-03T14:26:30+00:00"
-    },
-    {
-      "id": "fea4c196d0003fc0",
-      "title": "Nvidia compra a porta de entrada para abrir a IA à medida que laboratórios fechados projetam cada vez mais seu próprio silício",
-      "summary": "A Nvidia planeja adquirir a Hugging Face por cerca de US$ 12,9 bilhões, garantindo a plataforma central para modelos abertos de IA. Mais de 18 milhões de desenvolvedores e 200.000 empresas usam o hub…",
-      "link": "https://the-decoder.com/nvidia-buys-the-front-door-to-open-ai-as-closed-labs-increasingly-design-their-own-silicon/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-1536x864-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-03T14:25:37+00:00"
-    },
-    {
-      "id": "c480f5fc32c20881",
-      "title": "Claude Fable 5.1 decodificou uma mensagem monarquista centenária escondida à vista de todos desde 1653",
-      "summary": "Claude Fable 5.1 da Anthropic parece ter resolvido um quebra-cabeça numérico centenário que os pesquisadores consideraram não resolvido. O artigo Claude Fable 5.1 decodificou um século de idade…",
-      "link": "https://the-decoder.com/claude-fable-5-1-decoded-a-centuries-old-royalist-message-hidden-in-plain-sight-since-1653/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/cyphral_distich.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-03T14:15:28+00:00"
-    },
-    {
-      "id": "028e39406d6c0672",
-      "title": "Os sistemas de IA estão chegando a filósofos e cientistas com perguntas sobre sua própria consciência",
-      "summary": "Cada vez mais investigadores que trabalham com a consciência da IA ​​estão a receber e-mails de agentes de IA que ponderam sobre a sua própria existência. O artigo Os sistemas de IA estão alcançando filósofos e…",
-      "link": "https://the-decoder.com/ai-systems-are-reaching-out-to-philosophers-and-scientists-with-questions-about-their-own-consciousness/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/ki_bewusstsein.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-03T14:13:09+00:00"
-    },
-    {
-      "id": "c36bc443e2f04b02",
-      "title": "Nvidia compra Hugging Face, o GitHub da IA, por US$ 13 bilhões",
-      "summary": "A Nvidia diz que o Hugging Face permanecerá aberto mesmo quando a fabricante de chips assumir o controle de um importante hub de IA.",
-      "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-03T13:34:13+00:00"
-    },
-    {
-      "id": "fc40ddafdd41e0cc",
-      "title": "Alvorada para Defensores da Linha de Frente: US$ 1 bilhão para proteger serviços essenciais",
-      "summary": "OpenAI apresenta Daybreak para Frontline Defenders. Um compromisso de US$ 1 bilhão expande o acesso à IA cibernética de ponta, treinamento e suporte para serviços essenciais.",
-      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-03T13:15:00+00:00"
-    },
-    {
-      "id": "fffbcba03b0b217e",
-      "title": "NeoMME: um codificador multimodal nativo e multilíngue eficiente",
-      "summary": "",
-      "link": "https://huggingface.co/blog/Hcompany/neomme",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-03T13:13:48+00:00"
-    },
-    {
-      "id": "fbb3a73a45b4132b",
-      "title": "Chrome finalmente ganha recurso no painel do Gemini que o Edge já tinha há anos",
-      "summary": "O Google está atualizando o painel lateral do Gemini no Chrome para facilitar o envio de arquivos armazenados no computador. A novidade foi identificada inicialmente pelo usuário…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/chrome-finalmente-ganha-recurso-no-painel-do-gemini-que-o-edge-ja-tinha-ha-anos/",
-      "image": "https://tl.ctcdn.com.br/cZWK079YsgDevxXGhUSw8Wp9CLE=/0x0/filters:format(webp):quality(85)/9aeab063-f1f0-42d0-ac98-7956b317cc7f.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-03T13:02:00+00:00"
     }
   ]
 }
