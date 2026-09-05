@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-04T20:17:30.460336+00:00",
+  "generated_at": "2026-09-05T03:00:58.427722+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "f68429e80b42c93a",
+      "title": "Anthropic adia lançamento de IPO e pode chegar à Bolsa com valor de R$ 10,7 trilhões",
+      "summary": "Empresa de IA deve iniciar campanha para oferta pública de ações em meados de outubro, segundo fontes; listagem pode ocorrer pouco antes das eleições de meio de mandato nos EUA O…",
+      "link": "https://olhardigital.com.br/2026/09/04/pro/anthropic-adia-lancamento-de-ipo-e-pode-chegar-a-bolsa-com-valor-de-r-10-7-trilhoes/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/claude_anthropic-1024x632.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-05T00:40:20+00:00"
+    },
+    {
+      "id": "c7bac135042a53c6",
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their…",
+      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-04T23:15:11+00:00"
+    },
+    {
+      "id": "d49918ef8c049537",
+      "title": "NVIDIA garante que DLSS 5 também chegará às placas antigas",
+      "summary": "Um representante da NVIDIA revelou na última quinta-feira (3) que a ferramenta de upscaling DLSS 5 não estará “presa” às placas de vídeo GeForce RTX 50 . De acordo com a mensagem…",
+      "link": "https://canaltech.com.br/hardware/nvidia-garante-que-dlss-5-tambem-chegara-as-placas-antigas/",
+      "image": "https://tl.ctcdn.com.br/xMmnKn6Iv9a5T45uyBHg2O7m-M0=/0x0/filters:format(webp):quality(85)/69929e0c-646d-49ee-84fb-98ed79161337.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-04T22:34:00+00:00"
+    },
+    {
+      "id": "742cf6e98adedcf1",
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "summary": "Ao todo, 3,7 mil agentes internos postaram 18 mil mensagens discutindo trapaça em uma prova.",
+      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-04T22:17:36+00:00"
+    },
+    {
+      "id": "ac4ec989a2a725db",
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "summary": "A Nscale, que recentemente fechou um acordo de US$ 45 bilhões com a Anthropic, está em negociações para levantar fundos adicionais em antecipação a um próximo IPO.",
+      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-04T21:12:11+00:00"
+    },
     {
       "id": "e8d2146843a3ae62",
       "title": "Virou bagunça: detector de IA do Instagram rotula fotos reais e ignora imagens 100% falsas",
@@ -936,61 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-03T12:42:45+00:00"
-    },
-    {
-      "id": "cf9e32aa49ffe52c",
-      "title": "Nvidia está comprando Hugging Face por quase US$ 13 bilhões",
-      "summary": "A Nvidia concordou em comprar o Hugging Face por US$ 12,93 bilhões, trazendo uma das plataformas de hospedagem mais populares para modelos, conjuntos de dados e ferramentas de IA de código aberto sob a propriedade de…",
-      "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-03T12:12:06+00:00"
-    },
-    {
-      "id": "44a4b831a6c09b1a",
-      "title": "O CEO da OpenAI, Sam Altman, alerta sobre “tolices insustentáveis” na construção da computação",
-      "summary": "Sam Altman alerta sobre “tolices insustentáveis” na construção global de data centers de IA. Muitos provedores de Neocloud estão anunciando capacidade massiva sem que os clientes apoiem…",
-      "link": "https://the-decoder.com/openai-ceo-sam-altman-warns-of-unsustainable-silliness-in-compute-buildout/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_altman_2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-03T12:00:56+00:00"
-    },
-    {
-      "id": "325e9dcd840a97e9",
-      "title": "Manual de corte da Playco corrige 50% de prototipagem de jogos com GPT-6 Astra",
-      "summary": "Usando o GPT-6 Astra, a Playco construiu três protótipos de jogos temáticos a partir de uma base de caixa cinza e relatou 50% menos correções manuais do que o modelo anterior.",
-      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-03T12:00:00+00:00"
-    },
-    {
-      "id": "9281d6906e8350b6",
-      "title": "Legora revisou 41 documentos em minutos com GPT-6 Astra",
-      "summary": "A Legora usou o GPT-6 Astra para revisar 41 documentos em minutos, encontrar todos os quatro erros plantados e melhorar o desempenho em quase 40% neste fluxo de trabalho de revisão financeira.",
-      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-03T12:00:00+00:00"
-    },
-    {
-      "id": "71b77695d6b8ceeb",
-      "title": "Meta chega ao topo com Muse Spark 1.3 e supera rivais em preço",
-      "summary": "A Meta lançou o Muse Spark 1.3, seu quarto modelo da série em cinco meses. De acordo com a Análise Artificial, o modelo ganha mais em benchmarks de agentes, mas ainda fica atrás…",
-      "link": "https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/meta_AI_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-03T11:45:41+00:00"
     }
   ]
 }
