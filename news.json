@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-06T14:56:52.662937+00:00",
+  "generated_at": "2026-09-06T20:00:23.938078+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "c905bb660401f673",
+      "title": "Hora de imprimir mais gastando menos: veja estas ofertas de impressoras na Amazon",
+      "summary": "Se você está precisando de uma impressora nova — seja para o home office, para os estudos ou para o dia a dia em casa —, a Amazon reúne agora uma seleção de modelos…",
+      "link": "https://olhardigital.com.br/2026/09/06/reviews/hora-de-imprimir-mais-gastando-menos-veja-estas-ofertas-de-impressoras-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-06T18:40:00+00:00"
+    },
+    {
+      "id": "d98b246e565ef5b6",
+      "title": "OpenAI encara novo processo nos EUA por uso de conteúdo sem autorização",
+      "summary": "Dois novos veículos de empresa decidiram levar a OpenAI para os tribunais; empresas alegam uso indevido de reportagens no treinamento de IA O post OpenAI encara novo processo nos…",
+      "link": "https://olhardigital.com.br/2026/09/06/inteligencia-artificial/openai-encara-novo-processo-nos-eua-por-uso-de-conteudo-sem-autorizacao/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/openai-3-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-06T18:04:00+00:00"
+    },
+    {
+      "id": "7a98b49af7c5b21c",
+      "title": "Mobilidade TechCrunch: Tesla Cybercab chega à estrada – e um obstáculo",
+      "summary": "Bem-vindo de volta ao TechCrunch Mobility, seu centro para o futuro do transporte e agora, mais do que nunca, o papel que a IA desempenha nele.",
+      "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-06T16:08:00+00:00"
+    },
     {
       "id": "6b1cc33e537c31a7",
       "title": "Como criar um assistente pessoal de IA que entende suas regras",
@@ -69,6 +102,17 @@
       "published_at": "2026-09-06T09:45:18+00:00"
     },
     {
+      "id": "e0f75446731d598c",
+      "title": "Uma Mente Alienígena",
+      "summary": "Jakub Pachocki reflete sobre a IA cada vez mais capaz e o desafio de mantê-la alinhada. Ele apela a salvaguardas mais fortes e à coordenação internacional.",
+      "link": "https://openai.com/index/an-alien-mind",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-06T09:00:00+00:00"
+    },
+    {
       "id": "27d8bb2c44bb649d",
       "title": "Stripping safety guardrails from open-weight AI models is now a turnkey commercial service",
       "summary": "Abliteration.ai sells access to modified open-weight models with their trained safety mechanisms stripped out, currently based on Z.AI's GLM-5.3. The startup markets the service…",
@@ -78,6 +122,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-06T08:55:56+00:00"
+    },
+    {
+      "id": "3784d7aba9718af9",
+      "title": "Aceleração da pesquisa: a visão dentro do OpenAI",
+      "summary": "Dentro da OpenAI, os agentes de codificação estão remodelando a pesquisa em IA. Explore dados iniciais sobre uso de agentes, velocidade de experimentos, complexidade de tarefas e aceleração de pesquisas.",
+      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-06T08:00:00+00:00"
     },
     {
       "id": "e85e2a5242d27365",
@@ -936,61 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-03T19:31:58+00:00"
-    },
-    {
-      "id": "40af2551a3992848",
-      "title": "40% dos projetos de IA agêntica serão cancelados até o fim de 2027, mas o problema não é a IA",
-      "summary": "*Por Zé Lima A previsão da Gartner, de mais de 40% dos projetos de IA agêntica serem cancelados até o fim de 2027, chama atenção porque parece contradizer o entusiasmo em torno…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/40-dos-projetos-de-ia-agentica-serao-cancelados-ate-o-fim-de-2027-mas-o-problema-nao-e-a-ia/",
-      "image": "https://tl.ctcdn.com.br/iXXt6ATMHMGt7ij_Weyx6Xhdul4=/0x0/filters:format(webp):quality(85)/51bfe583-a79b-422f-9980-db9ed4e9fccd.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-03T19:30:47+00:00"
-    },
-    {
-      "id": "4106ca3c45782743",
-      "title": "As concessionárias estão correndo para se conectar com startups de fusão, sendo a Realta Fusion a mais recente a se beneficiar",
-      "summary": "A rede tem estado sob pressão sob o peso dos novos data centers de IA, e isso faz com que as concessionárias cortejem startups de fusão.",
-      "link": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-03T19:29:16+00:00"
-    },
-    {
-      "id": "ffd1704275dc1590",
-      "title": "GPT-6 Astra é o primeiro modelo que faz a OpenAI disposta a declarar a \"era AGI\"",
-      "summary": "A OpenAI lançou o GPT-6 Astra, seu modelo mais capaz até agora. O presidente Greg Brockman diz que isso marca o início da “era AGI”. Astra lidera benchmarks em matemática, codificação e…",
-      "link": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-03T19:25:40+00:00"
-    },
-    {
-      "id": "840bd72cba9a4dc1",
-      "title": "Amazon usa IA para evitar desperdício de 785 milhões de litros de água por ano no Brasil",
-      "summary": "Dois novos projetos anunciados no AWS Summit São Paulo atuam na detecção de vazamentos em São Paulo e na eficiência de irrigação em Minas Gerais O post Amazon usa IA para evitar…",
-      "link": "https://olhardigital.com.br/2026/09/03/inteligencia-artificial/amazon-usa-ia-para-evitar-desperdicio-de-785-milhoes-de-litros-de-agua-por-ano-no-brasil/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-03T19:19:04+00:00"
-    },
-    {
-      "id": "5cc559510a414127",
-      "title": "Senado zera tributos para incentivar construção de data centers de IA no Brasil",
-      "summary": "O Senado Federal aprovou, na terça-feira (1º), o Projeto de Lei 278/2026, que cria o Regime Especial de Tributação para Serviços de Datacenter ( Redata ). A proposta reduz a carga…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/senado-zera-tributos-para-incentivar-construcao-de-data-centers-de-ia-no-brasil/",
-      "image": "https://tl.ctcdn.com.br/4J4J5M6MI1lrl95gD8cvHPF6qhA=/0x0/filters:format(webp):quality(85)/b42d5592-7a12-45f6-ad2b-f6790f13def1.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-03T19:00:37+00:00"
     }
   ]
 }
