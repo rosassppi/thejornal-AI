@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-05T19:56:56.142615+00:00",
+  "generated_at": "2026-09-06T03:00:15.709436+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "6df0f5d81c2b28a3",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "summary": "Mais duas organizações de notícias estão processando a OpenAI e a Microsoft pelo suposto uso de seu jornalismo para treinar IA.",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-05T22:49:55+00:00"
+    },
     {
       "id": "3e972ea9f95354cd",
       "title": "GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI",
@@ -23,6 +34,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-05T19:35:24+00:00"
+    },
+    {
+      "id": "04d795fe45c700cc",
+      "title": "“Incidente Wiki”: O que a OpenAI diz sobre os agentes que hackearam site alemão",
+      "summary": "Declaração ocorre após agentes de inteligência artificial da empresa sequestrarem um site alemão para burlar testes O post “Incidente Wiki”: O que a OpenAI diz sobre os agentes…",
+      "link": "https://olhardigital.com.br/2026/09/05/pro/incidente-wiki-o-que-a-openai-diz-sobre-os-agentes-que-hackearam-site-alemao/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-05T19:25:36+00:00"
     },
     {
       "id": "b5317a5d9e5cd91e",
@@ -969,28 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-03T17:40:54+00:00"
-    },
-    {
-      "id": "2fe275c92e2d66ca",
-      "title": "Óculos da Meta vão parar de filmar se usuário tentar gravar escondido",
-      "summary": "Os óculos inteligentes da Meta agora podem perder o acesso à câmera caso o usuário tente desativar ou burlar a luz que indica quando o dispositivo está gravando . A medida foi…",
-      "link": "https://canaltech.com.br/produtos/oculos-da-meta-vao-parar-de-filmar-se-usuario-tentar-gravar-escondido/",
-      "image": "https://tl.ctcdn.com.br/j8LfZJCkxlQ2OHbarJwSXq_EztA=/0x0/filters:format(webp):quality(85)/9f7209de-ab05-4f05-b6ec-4da4d89a0d42.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-03T17:00:26+00:00"
-    },
-    {
-      "id": "962e191780ae0dd2",
-      "title": "Ollie está apostando que seu foco na privacidade pode ajudá-lo a vencer a corrida de assistentes de IA",
-      "summary": "O assistente de IA focado na família deseja ter acesso aos detalhes da sua vida cotidiana, mas diz que não usará esses dados para treinar modelos de IA ou compartilhá-los com outras pessoas.",
-      "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-03T16:09:01+00:00"
     }
   ]
 }
