@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-07T02:58:26.895846+00:00",
+  "generated_at": "2026-09-07T11:37:21.344103+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "de7505a40002ae4f",
+      "title": "A complexa web corporativa por trás de um data center de IA de US$ 3,2 bilhões",
+      "summary": "Quando várias empresas estão por trás de um projeto, quem é o responsável pelos problemas?",
+      "link": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-500x500.png",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-07T11:00:03+00:00"
+    },
+    {
+      "id": "80eeb5154057065f",
+      "title": "Resumo do OD: regulamentação das IAs, iPhone 18, IPO da Anthropic e mais!",
+      "summary": "Regular a IA não significa simplesmente proibir usos problemáticos. A ideia é estabelecer níveis de proteção de acordo com o impacto de cada aplicação O post Resumo do OD…",
+      "link": "https://olhardigital.com.br/2026/09/07/pro/resumo-do-od-regulamentacao-das-ias-iphone-18-ipo-da-anthropic-e-mais/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-07T10:24:29+00:00"
+    },
+    {
+      "id": "6386f7d89ba824b4",
+      "title": "IFM lança K2 Horizon: seis modelos Apache 2.0 de 0,9B a 375B",
+      "summary": "A maioria dos lançamentos de modelos abertos libera um ponto de verificação e uma tabela de benchmark. O Institute of Foundation Models (IFM) divulgou algo mais amplo na semana passada. IFM é o laboratório de fronteira…",
+      "link": "https://www.marktechpost.com/2026/09/06/ifm-releases-k2-horizon-six-apache-2-0-models-from-0-9b-to-375b/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-07T05:00:37+00:00"
+    },
+    {
+      "id": "073b13b14ae0138b",
+      "title": "Apoiar o jornalismo independente na Ucrânia",
+      "summary": "OpenAI, AIRPPU e WAN-IFRA lançam um programa de IA para ajudar as organizações de notícias ucranianas a fortalecer a inovação, a resiliência e o jornalismo independente.",
+      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-07T00:00:00+00:00"
+    },
     {
       "id": "d5c736f2ff6288d2",
       "title": "Seattle Times e Newsday processam OpenAI e Microsoft por violação",
@@ -14,6 +58,17 @@
       "published_at": "2026-09-06T23:36:04+00:00"
     },
     {
+      "id": "d1eafcbe5b9296c4",
+      "title": "H Company lança NeoMME: uma família de codificadores multimodais de torre única de 260M e 800M que eliminam a torre de visão e o decodificador causal",
+      "summary": "Analisamos o NeoMME, uma família de codificadores bidirecionais de 260M e 800M da H Company. Ao contrário dos recuperadores estilo ColPali, ele processa tokens de texto multilíngue e imagens brutas de 32×32…",
+      "link": "https://www.marktechpost.com/2026/09/06/h-company-releases-neomme-a-family-of-260m-and-800m-single-tower-multimodal-encoders-that-drop-the-vision-tower-and-causal-decoder/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/09/Screenshot-2026-09-06-at-2.06.00-PM.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-06T21:06:41+00:00"
+    },
+    {
       "id": "973d060680473f7c",
       "title": "Autores recuam enquanto editores e agentes fazem reivindicações sobre o assentamento antrópico",
       "summary": "Os autores dizem que os editores parecem estar reivindicando mais do que sua parcela justa nos pagamentos de liquidação.",
@@ -23,6 +78,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-06T20:47:37+00:00"
+    },
+    {
+      "id": "881e2bb83ddecb63",
+      "title": "Meta FAIR apresenta modelos de preferência de pesquisa de IA (RPMs): classificando experimentos de ML antes de gastar horas de GPU",
+      "summary": "Os agentes de pesquisa em IA podem propor muito mais experimentos do que podem realizar. Meta FAIR, Oxford e UCL apresentam modelos de preferência de pesquisa de IA - juízes LLM congelados com classificação 15…",
+      "link": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-06T20:25:17+00:00"
     },
     {
       "id": "a5383b5a4fc9987b",
@@ -925,72 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-03T23:12:30+00:00"
-    },
-    {
-      "id": "f5529b55fab20f4c",
-      "title": "SpaceXAI se desculpa por falha que derrubou Grok por horas",
-      "summary": "Problema aparentemente também afetou outras empresas de IA que utilizam a infraestrutura de computação da companhia O post SpaceXAI se desculpa por falha que derrubou Grok por…",
-      "link": "https://olhardigital.com.br/2026/09/03/pro/spacexai-se-desculpa-por-falha-que-derrubou-grok-por-horas/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/grok-1024x681.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-03T23:02:50+00:00"
-    },
-    {
-      "id": "b02ea5b5bb5e70aa",
-      "title": "\"Lixo de IA\": criadores do emulador de PS3 detonam novo DLSS 5 da NVIDIA",
-      "summary": "Os desenvolvedores do emulador de PlayStation 3, RPCS3, criticaram o DLSS 5 após modders testarem uma versão vazada da DLL da tecnologia no renderizador do emulador. A equipe…",
-      "link": "https://canaltech.com.br/games/lixo-de-ia-criadores-do-emulador-de-ps3-detonam-novo-dlss-5-da-nvidia/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-03T21:18:00+00:00"
-    },
-    {
-      "id": "d5897f84f2019a39",
-      "title": "OpenAI lança GPT-6 Astra: um modelo de uso de computador com contexto de 1,05 milhões atrás de um limite cibernético “crítico”",
-      "summary": "A OpenAI lançou o GPT-6 Astra em 3 de setembro de 2026, posicionando-o como um carro-chefe para uso em computador, em vez de um modelo de bate-papo. Ele reporta 72,6% no OSWorld V2-Offline, substitui o Codex…",
-      "link": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-03T21:16:11+00:00"
-    },
-    {
-      "id": "b267dcd4ed4ee8b0",
-      "title": "Startup ARR está menos seguro do que nunca, mostra nova pesquisa",
-      "summary": "A era da IA ​​quebrou completamente os padrões de compra das empresas e as startups ainda não descobriram como navegar.",
-      "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-03T20:59:23+00:00"
-    },
-    {
-      "id": "755bb78a97a17513",
-      "title": "OpenAI lança GPT-6 Astra, modelo que atingiu nível \"crítico\" de cibersegurança",
-      "summary": "A OpenAI lançou nesta quinta-feira (3) o GPT-6 Astra , modelo que a empresa apresenta como o mais inteligente já desenvolvido. A nova geração foi projetada para executar tarefas…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/openai-lanca-gpt-6-astra-seu-modelo-mais-inteligente-e-tambem-mais-critico/",
-      "image": "https://tl.ctcdn.com.br/bFoizkPGk9qkHYpZyLijcXPEzU0=/0x0/filters:format(webp):quality(85)/3d0163b8-3f97-4763-9750-441b5e832531.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-03T20:53:17+00:00"
-    },
-    {
-      "id": "6466accaf4e36a85",
-      "title": "NVIDIA dá R$ 66 bilhões à Hugging Face e vira dona do maior polo de IA do mundo",
-      "summary": "A NVIDIA anunciou nesta quinta-feira (3) a compra da Hugging Face por US$ 12,93 bilhões (cerca de R$ 66 bilhões) . O negócio coloca sob o controle da fabricante de chips uma das…",
-      "link": "https://canaltech.com.br/mercado/nvidia-da-r-66-bilhoes-a-hugging-face-e-vira-dona-do-maior-polo-de-ia-do-mundo/",
-      "image": "https://tl.ctcdn.com.br/Z1zZQzYR2ysv9YubGatifOAUQPY=/0x0/filters:format(webp):quality(85)/8a78d06f-a31c-40eb-b591-5ab816bef361.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-03T20:00:02+00:00"
     }
   ]
 }
