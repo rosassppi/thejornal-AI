@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-06T20:00:23.938078+00:00",
+  "generated_at": "2026-09-07T02:58:26.895846+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "d5c736f2ff6288d2",
+      "title": "Seattle Times e Newsday processam OpenAI e Microsoft por violação",
+      "summary": "O Seattle Times e o Newsday são apenas os últimos demandantes a levar a OpenAI a tribunal, alegando violação de direitos autorais. Os dois veículos dizem que a empresa usou seu jornalismo como…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-06T23:36:04+00:00"
+    },
+    {
+      "id": "973d060680473f7c",
+      "title": "Autores recuam enquanto editores e agentes fazem reivindicações sobre o assentamento antrópico",
+      "summary": "Os autores dizem que os editores parecem estar reivindicando mais do que sua parcela justa nos pagamentos de liquidação.",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-06T20:47:37+00:00"
+    },
+    {
+      "id": "a5383b5a4fc9987b",
+      "title": "Smartwatch bom e bonito: veja uma seleção de relógios inteligentes em promoção na Amazon",
+      "summary": "Se você está pensando em investir em um smartwatch — seja para monitorar a saúde, acompanhar treinos ou simplesmente receber notificações no pulso —, a Amazon reúne agora algumas…",
+      "link": "https://olhardigital.com.br/2026/09/06/reviews/smartwatch-bom-e-bonito-veja-uma-selecao-de-relogios-inteligentes-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-06T19:40:00+00:00"
+    },
     {
       "id": "c905bb660401f673",
       "title": "Hora de imprimir mais gastando menos: veja estas ofertas de impressoras na Amazon",
@@ -958,39 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-03T20:00:02+00:00"
-    },
-    {
-      "id": "65874481090df0d7",
-      "title": "Falta de talentos é barreira para escalar IA, avalia executiva da AWS",
-      "summary": "A escassez de profissionais preparados para trabalhar com IA pode dificultar a adoção da tecnologia em escala . A avaliação foi feita pela vice-presidente da AWS na América…",
-      "link": "https://canaltech.com.br/mercado/falta-de-talentos-e-barreira-para-escalar-ia-avalia-executiva-da-aws/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-03T19:49:17+00:00"
-    },
-    {
-      "id": "e651c980386d1434",
-      "title": "Anthropic lançou agentes Claude Commerce: um modelo Apache-2.0 para agentes de compras e comerciantes em varejo, viagens, telecomunicações e entretenimento",
-      "summary": "A maioria das equipes que constroem um assistente de compras ou agente reconstroem a mesma estrutura: um loop de agente, uma camada de ferramentas sobre o catálogo, uma porta de aprovação e um conjunto de avaliações. Antrópico tem…",
-      "link": "https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprint-for-shopping-and-merchant-agents-across-retail-travel-telecom-and-entertainment/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-03T19:46:59+00:00"
-    },
-    {
-      "id": "4eaad1259bdf4510",
-      "title": "Google transforma Gmail, Docs e Keep em assistentes de IA que entendem sua voz",
-      "summary": "Chamados de Gmail Live, Docs Live e Keep Live, recursos foram apresentados inicialmente em maio, durante o Google I/O 2026 O post Google transforma Gmail, Docs e Keep em…",
-      "link": "https://olhardigital.com.br/2026/09/03/reviews/google-transforma-gmail-docs-e-keep-em-assistentes-de-ia-que-entendem-sua-voz/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Gmail-Live-Docs-Live-Keep-Live-1024x576.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-03T19:31:58+00:00"
     }
   ]
 }
