@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-09-07T11:37:21.344103+00:00",
+  "generated_at": "2026-09-07T17:16:16.096970+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "65f93ff4e3d8a34d",
+      "title": "ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades",
+      "summary": "ChatGPT has pushed its share of AI chatbot website traffic back up to 55.5 percent, according to Similarweb. Year-over-year, though, its lead shrank sharply from 73.3 percent as…",
+      "link": "https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/05/chatgpt_website_stats.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-07T16:54:12+00:00"
+    },
+    {
+      "id": "116d94269b68356d",
+      "title": "Droga projetada por IA parece atrasar o relógio biológico do corpo nos primeiros testes",
+      "summary": "Um estudo da Nature Biotechnology sugere que o rentosertib, um medicamento desenvolvido com IA pela Insilico Medicine, pode reverter os marcadores do envelhecimento biológico. Seis relógios de envelhecimento independentes…",
+      "link": "https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/ai_pill_medicine.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-07T16:34:20+00:00"
+    },
+    {
+      "id": "bd4c7e42de0ae838",
+      "title": "Regulação da IA pode definir se Brasil será produtor ou consumidor de tecnologia",
+      "summary": "Países adotam estratégias diferentes para controlar os riscos da inteligência artificial, e Brasil tenta equilibrar proteção de direitos, inovação e desenvolvimento tecnológico O…",
+      "link": "https://olhardigital.com.br/2026/09/07/inteligencia-artificial/regulacao-da-ia-pode-definir-se-brasil-sera-produtor-ou-consumidor-de-tecnologia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/justica_ia-1024x620.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-07T16:30:39+00:00"
+    },
+    {
+      "id": "33fe2ab1a9c89af0",
+      "title": "Frio e energia abundante fazem Patagônia virar alvo de data centers",
+      "summary": "Patagônia argentina atrai investidores para mega data centers, impulsionados por clima frio, energia e projetos ligados à IA O post Frio e energia abundante fazem Patagônia virar…",
+      "link": "https://olhardigital.com.br/2026/09/07/pro/frio-e-energia-abundante-fazem-patagonia-virar-alvo-de-data-centers/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/shutterstock_2477239261-1024x540.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-07T15:08:08+00:00"
+    },
+    {
+      "id": "8a0b46dcfad8b4ba",
+      "title": "How AI wiped out an entire industry in Nairobi",
+      "summary": "In Kenya, ChatGPT wiped out an entire business model: writing academic papers for foreign students. The article How AI wiped out an entire industry in Nairobi appeared first on…",
+      "link": "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_chatgpt-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-07T13:18:57+00:00"
+    },
+    {
+      "id": "0307c4d9dbc191e0",
+      "title": "No UBS, as habilidades de IA são agora uma condição para conseguir um emprego",
+      "summary": "O gigante bancário suíço UBS está tornando as habilidades de IA uma qualificação obrigatória a partir de 2027 para graduados e estagiários em bancos e mercados globais, com os candidatos tendo que comprovar em…",
+      "link": "https://the-decoder.com/at-ubs-ai-skills-are-now-a-condition-for-landing-a-job/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/ai_jobs_young_people_cognitive_decline.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-07T13:13:38+00:00"
+    },
+    {
+      "id": "c222f8862fc425cd",
+      "title": "OpenAI reports AI \"research interns\" and warns about its own pace at the same time",
+      "summary": "OpenAI reports that AI agents in its own research already handle 3.1 workdays for every human workday, and it says it has reached its goal of an \"automated research intern.\" But…",
+      "link": "https://the-decoder.com/openai-reports-ai-research-interns-and-warns-about-its-own-pace-at-the-same-time/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_gpt_6_stars_astra.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-07T13:05:22+00:00"
+    },
+    {
+      "id": "22b464b814340b79",
+      "title": "New York City bans AI tools from public schools through eighth grade",
+      "summary": "A cidade de Nova York proíbe o uso de IA em escolas públicas até o final do ensino médio. O artigo A cidade de Nova York proíbe ferramentas de IA em escolas públicas até a oitava série apareceu pela primeira vez em…",
+      "link": "https://the-decoder.com/new-york-city-bans-ai-tools-from-public-schools-through-eighth-grade/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/ai_schools_new_york.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-07T13:00:03+00:00"
+    },
+    {
+      "id": "c95388b870c68dde",
+      "title": "Qwen-Drive 1.0 tells you why it brakes, just don't expect the explanation to match the maneuver",
+      "summary": "Alibaba's research arm has released Qwen-Drive 1.0, an AI model that handles environmental perception, traffic Q&A, and route planning in one system. The researchers show that…",
+      "link": "https://the-decoder.com/qwen-drive-1-0-tells-you-why-it-brakes-just-dont-expect-the-explanation-to-match-the-maneuver/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/qwen-drive-1.0-blog_banner.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-07T12:15:54+00:00"
+    },
+    {
+      "id": "6592f699f635f344",
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
+      "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-500x500.png",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-07T11:00:03+00:00"
+    },
     {
       "id": "de7505a40002ae4f",
       "title": "A complexa web corporativa por trás de um data center de IA de US$ 3,2 bilhões",
@@ -881,116 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-04T11:07:36+00:00"
-    },
-    {
-      "id": "5597b0d13607de29",
-      "title": "Por que a comida de IA é assim",
-      "summary": "Há uma torrente de resíduos pouco apetitosos provenientes de restaurantes, cafés e marcas que recorrem cada vez mais à IA para gerar imagens que promovam os seus alimentos. O resultado…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268722_Why_does_AI_food_look_like_that_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-04T11:00:00+00:00"
-    },
-    {
-      "id": "f24bdcbc61ac28fe",
-      "title": "O Project Zenith da Microsoft é uma ‘experiência Windows sem distrações’ para desenvolvedores",
-      "summary": "A Microsoft está dando um nome à sua experiência Windows otimizada para desenvolvedores: Projeto Zenith. Embora o fabricante do software tenha anunciado originalmente um esforço semelhante do Windows otimizado para desenvolvedores…",
-      "link": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/projectzenith.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-04T10:44:15+00:00"
-    },
-    {
-      "id": "46893d79734da48d",
-      "title": "Sam Altman pede desculpas pelo lançamento ‘bagunçado’ do GPT-6 Astra que bloqueou usuários pagantes",
-      "summary": "Poucas horas depois que a OpenAI lançou o GPT-6 Astra, o CEO Sam Altman já estava se desculpando pelo que descreve como um \"lançamento confuso\" depois de usuários pagantes esperarem acesso ao novo…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285138968.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-04T10:41:48+00:00"
-    },
-    {
-      "id": "906b9e6788bbd685",
-      "title": "Esta empresa NAS deseja administrar sua casa inteligente local",
-      "summary": "A Ugreen, conhecida por seus bancos de energia para telefones, carregadores e soluções de armazenamento NAS, está migrando para a casa inteligente – em grande estilo. Esta semana, na feira de tecnologia IFA, a empresa lançou…",
-      "link": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5640.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-04T09:41:44+00:00"
-    },
-    {
-      "id": "921e13342509c1cc",
-      "title": "Resumo do OD: robotáxi de Musk; demissões na VW; OpenAI falando em AGI e mais!",
-      "summary": "No Brasil, o Senado aprovou nesta quinta-feira (3) a medida provisória que acaba com a chamada “taxa das blusinhas” O post Resumo do OD: robotáxi de Musk; demissões na VW; OpenAI…",
-      "link": "https://olhardigital.com.br/2026/09/04/pro/resumo-do-od-robotaxi-de-musk-demissoes-na-vw-openai-falando-em-agi-e-mais/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-04T09:35:13+00:00"
-    },
-    {
-      "id": "772ec013400f9e75",
-      "title": "Dados de drones na Ucrânia estão alimentando um novo mercado do Velho Oeste",
-      "summary": "Os campos de batalha na Ucrânia estão repletos de restos de drones, que estão agora firmemente estabelecidos como uma arma crítica da guerra moderna. Mas por trás de todos esses destroços, há um…",
-      "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-04T09:25:19+00:00"
-    },
-    {
-      "id": "b1fab1d15a8f3bca",
-      "title": "A Nvidia quer que sua rede doméstica funcione como um mini data center para IA local",
-      "summary": "O PAIR (Personal AI Router) da Nvidia distribui automaticamente solicitações locais de IA por todos os dispositivos disponíveis em uma rede doméstica, reduzindo o tempo de espera para tarefas de agentes paralelos. O artigo…",
-      "link": "https://the-decoder.com/nvidia-wants-your-home-network-to-work-like-a-mini-data-center-for-local-ai/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-04T08:06:15+00:00"
-    },
-    {
-      "id": "9ce8a043bb77d0e8",
-      "title": "O problema da mesmice por trás daqueles menus pouco apetitosos gerados por IA",
-      "summary": "Embora os proprietários de restaurantes possam olhar para a IA generativa como um atalho para melhorar o seu menu, os clientes podem sentir visceralmente que algo está errado com a comida.",
-      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-04T04:21:03+00:00"
-    },
-    {
-      "id": "6922c055d0a4e805",
-      "title": "WeatherNext 3 do Google DeepMind treina observações de estações meteorológicas para fornecer previsões globais de 5 km, atualizadas a cada hora",
-      "summary": "WeatherNext 3 ingere mosaicos de satélites geoestacionários ao vivo, atualiza de hora em hora e gera previsões de 5 km em Search, Gemini, Maps. A postagem WeatherNext 3 do Google DeepMind…",
-      "link": "https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-04T01:21:49+00:00"
-    },
-    {
-      "id": "c102e887e0485508",
-      "title": "OpenAI anuncia o GPT-6 Astra; modelo chega ao ChatGPT em breve",
-      "summary": "Novo modelo da OpenAI foi treinado com mais de 100 mil GPUs e usa técnica que pode dificultar monitoramento OpenAI anuncia o GPT-6 Astra; modelo chega ao ChatGPT em breve",
-      "link": "https://tecnoblog.net/noticias/gpt-6-astra-chega-em-meio-a-promessas-de-agi-e-polemicas-de-seguranca/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-1_capa-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-03T23:12:30+00:00"
     }
   ]
 }
