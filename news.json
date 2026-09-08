@@ -1,7 +1,238 @@
 {
-  "generated_at": "2026-09-08T16:00:32.822920+00:00",
+  "generated_at": "2026-09-08T20:44:34.487636+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "79382730542377e0",
+      "title": "GPT-6 Astra conclui jogo de Captcha e recebe “certificado” de humano",
+      "summary": "GPT-6 Astra foi apresentado como um modelo com grande capacidade de controle autônomo de computadores. GPT-6 Astra conclui jogo de Captcha e recebe “certificado” de humano",
+      "link": "https://tecnoblog.net/noticias/gpt-6-astra-conclui-jogo-de-captcha-e-recebe-certificado-de-humano/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-08T20:32:44+00:00"
+    },
+    {
+      "id": "0a4864c97882bde1",
+      "title": "Meta lança Muse, assistente que compra, reserva viagens e manda e-mails por você",
+      "summary": "A Meta anunciou o novo agente de IA Muse nesta terça-feira (08). A novidade funciona como um assistente pessoal criado para resolver diferentes problemas do dia a dia , desde…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/meta-lanca-muse-assistente-que-compra-reserva-viagens-e-manda-e-mails-por-voce/",
+      "image": "https://tl.ctcdn.com.br/lgxQ8WY33DMo1T-segyWqGO--i0=/0x0/filters:format(webp):quality(85)/afd0801c-b308-4031-b125-02472725dcc8.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-08T20:25:42+00:00"
+    },
+    {
+      "id": "9d0b33baabbac2f5",
+      "title": "ChatGPT Sketch transforma seus desenhos ruins em imagens detalhadas de IA",
+      "summary": "A OpenAI anunciou o ChatGPT Images 2.5 na terça-feira e está adicionando uma nova maneira de dizer ao ChatGPT do que você deseja criar uma imagem: desenhando um doodle. Com um novo recurso chamado Sketch…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-08T20:16:09+00:00"
+    },
+    {
+      "id": "02a3d45c8b7bf81b",
+      "title": "IA da OpenAI resolve um dos problemas mais difíceis da matemática",
+      "summary": "Modelo interno da empresa produziu uma prova para o problema de existência e suavidade de Navier-Stokes, um dos sete “Problemas do Milênio” O post IA da OpenAI resolve um dos…",
+      "link": "https://olhardigital.com.br/2026/09/08/inteligencia-artificial/ia-da-openai-resolve-um-dos-problemas-mais-dificeis-da-matematica/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/openai-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-08T20:13:36+00:00"
+    },
+    {
+      "id": "fa50dff14e257cbb",
+      "title": "NVIDIA anuncia CUDA Rust com cuda-óxido (SIMT) e cutile-rs (Tile) para kernels de GPU seguros para tempo de compilação",
+      "summary": "A NVIDIA anunciou CUDA Rust, um esforço para tornar Rust uma linguagem de primeira classe para kernels de GPU. Dois projetos NVlabs de código aberto cobrem os dois modelos de programação CUDA: cuda-óxido…",
+      "link": "https://www.marktechpost.com/2026/09/08/nvidia-announces-cuda-rust-with-cuda-oxide-simt-and-cutile-rs-tile-for-compile-time-safe-gpu-kernels/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-08T19:51:54+00:00"
+    },
+    {
+      "id": "50deee4d29ea316d",
+      "title": "ChatGPT agora transforma qualquer rabisco em imagem pronta",
+      "summary": "A OpenAI anunciou o Imagens 2.5 , nova versão do modelo de IA para criar imagens pelo ChatGPT nesta terça-feira (08). A novidade está mais rápida para gerar resultados e consegue…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-agora-transforma-qualquer-rabisco-em-imagem-pronta/",
+      "image": "https://tl.ctcdn.com.br/KDBA8NXt6eSTA-e6fBInkq1IKWY=/0x0/filters:format(webp):quality(85)/dd8162b2-d216-4b2e-80d0-549813e67fc9.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-08T19:42:21+00:00"
+    },
+    {
+      "id": "a1c7ffbca3a6a19e",
+      "title": "Malware rouba senhas do Facebook, grava o que você digita e tira prints da tela",
+      "summary": "Nova variante do Python NodeStealer registra o que a vítima digita, faz capturas de tela e envia dados pelo Telegram; pesquisadores apontam indícios de uso de IA O post Malware…",
+      "link": "https://olhardigital.com.br/2026/09/08/seguranca/malware-rouba-senhas-do-facebook-grava-o-que-voce-digita-e-tira-prints-da-tela/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/10/malware-1024x651.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-08T19:34:13+00:00"
+    },
+    {
+      "id": "f2de1ddf2002b293",
+      "title": "O pesquisador da OpenAI supostamente pressionou o matemático a retirar o coautor do Antrópico do artigo inovador em matemática",
+      "summary": "O matemático Tristan Buckmaster diz que um pesquisador da OpenAI o pressionou depois que informações sobre seu progresso assistido por IA nas equações de Navier-Stokes supostamente chegaram ao…",
+      "link": "https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/04/openai_logo_dark_blue.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-08T19:23:04+00:00"
+    },
+    {
+      "id": "61a19f1db45920f0",
+      "title": "EUA acusam empresas chinesas de IA de copiar modelos avançados para reduzir custos",
+      "summary": "Órgãos de segurança americanos afirmam que DeepSeek, Alibaba e outras empresas chinesas usaram técnica de “destilação” em modelos dos EUA em escala industrial O post EUA acusam…",
+      "link": "https://olhardigital.com.br/2026/09/08/inteligencia-artificial/eua-acusam-empresas-chinesas-de-ia-de-copiar-modelos-avancados-para-reduzir-custos/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/deepseek-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-08T19:12:33+00:00"
+    },
+    {
+      "id": "cfac976ee81fe652",
+      "title": "ChatGPT Images 2.5 chega com imagens mais rápidas e precisas",
+      "summary": "Novo modelo promete maior fidelidade a imagens de referência, edições mais precisas e redução de até 50% no tempo de geração O post ChatGPT Images 2.5 chega com imagens mais…",
+      "link": "https://olhardigital.com.br/2026/09/08/inteligencia-artificial/chatgpt-images-2-5-chega-com-imagens-mais-rapidas-e-precisas/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-08T19:09:05+00:00"
+    },
+    {
+      "id": "40a7bfd98d36b409",
+      "title": "Google DeepMind lança AlphaGenome Atlas com previsões pré-computadas de efeitos moleculares e pontuações AVI para 9 bilhões de variantes de DNA humano",
+      "summary": "O AlphaGenome Atlas da DeepMind mapeia cada mudança de uma única letra no genoma humano com 1 pontuação de impacto por variante. A postagem Google DeepMind lança AlphaGenome Atlas com…",
+      "link": "https://www.marktechpost.com/2026/09/08/google-deepmind-releases-alphagenome-atlas-with-precomputed-molecular-effect-predictions-and-avi-scores-for-9-billion-human-dna-variants/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-08T19:00:09+00:00"
+    },
+    {
+      "id": "0cfe4d849c9b73f4",
+      "title": "Meta estreia seu agente Muse AI. Os consumidores confiarão nisso?",
+      "summary": "O novo agente pessoal de IA da Meta, Muse, deseja acesso ao e-mail, calendários, pagamentos, serviços de saúde e muito mais dos usuários - tornando a maior aposta de IA do consumidor da empresa ainda um grande teste de…",
+      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-08T19:00:00+00:00"
+    },
+    {
+      "id": "d6f651093c95c13b",
+      "title": "Meta aposta no agente de IA Muse para se atualizar na corrida de IA",
+      "summary": "A Meta está fazendo outro esforço para levar a inteligência artificial às massas com o Muse, um assistente pessoal que pode colocar a IA nas mãos de praticamente qualquer pessoa. O produto é o…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK169_Mark_Zuckerburg_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-08T19:00:00+00:00"
+    },
+    {
+      "id": "120d90e9cf3e24bf",
+      "title": "CEO da Nvidia diz que OpenAI alcançou a AGI com o GPT-6 Astra",
+      "summary": "Jensen Huang destacou a participação dos próprios chips na evolução dos modelos de IA. CEO da Nvidia diz que OpenAI alcançou a AGI com o GPT-6 Astra",
+      "link": "https://tecnoblog.net/noticias/ceo-da-nvidia-diz-que-openai-alcancou-a-agi-com-o-gpt-6-astra/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/09/nvidia-ceo-jensen-huang-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-08T18:54:05+00:00"
+    },
+    {
+      "id": "3399a8de40645bdb",
+      "title": "GPT-6 Astra: a ‘era da AGI’ começou mesmo?",
+      "summary": "Até que ponto o GPT-6 Astra é melhor que o GPT-5.6 Sol? É AGI mesmo ou jogada de marketing? Especialista em IA que testou o modelo responde O post GPT-6 Astra: a ‘era da AGI’…",
+      "link": "https://olhardigital.com.br/2026/09/08/inteligencia-artificial/gpt-6-astra-a-era-da-agi-comecou-mesmo/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Infografico-GPT-Sol-e-GPT-Astra-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-08T18:43:58+00:00"
+    },
+    {
+      "id": "72138828fb0701ac",
+      "title": "“Esta é a IA que os homens realmente usam”: meta-anúncios empurravam aplicativos que nudificavam adolescentes reais",
+      "summary": "A Meta arrastou-se na remoção de anúncios que nudificavam as fotos de meninas no Instagram.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1975339882-500x500-1788891021.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-08T18:43:09+00:00"
+    },
+    {
+      "id": "b4b0eaa7f41a7183",
+      "title": "A atualização do modelo meteorológico de IA do Google melhora a precisão das previsões",
+      "summary": "Tal como os modelos meteorológicos tradicionais, beneficia de um conjunto alargado de dados.",
+      "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-85757697-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-08T18:00:56+00:00"
+    },
+    {
+      "id": "62d9d8572d5c7fcb",
+      "title": "OpenAI lutou sujo em problemas de matemática para fazer carreira, diz matemático da NYU",
+      "summary": "Há uma recompensa de US$ 1 milhão para a primeira pessoa que fornecer uma solução para o problema de existência e suavidade de Navier-Stokes.",
+      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-08T17:32:15+00:00"
+    },
+    {
+      "id": "3c847c358ea6854f",
+      "title": "Usuários avançados de IA afirmam que a Anthropic os enganou com assinaturas e estão levando isso a tribunal",
+      "summary": "A Anthropic diz que usuários avançados são fundamentais para seus negócios – ela os prioriza mesmo quando isso significa cortar outros aplicativos populares, como o OpenClaw. Mas alguns destes mesmos…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-08T17:27:31+00:00"
+    },
+    {
+      "id": "503e9c2326e78f3e",
+      "title": "Como o GPT-5.6 Sol ajuda a realizar experimentos de computação quântica",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "link": "https://openai.com/index/codex-quantum-computing-experiments",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-08T17:00:00+00:00"
+    },
+    {
+      "id": "91a0d6e6254c5598",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-08T16:20:31+00:00"
+    },
     {
       "id": "5cbc2b053c6f7145",
       "title": "A Patagônia tem o que os data centers de IA desejam, incluindo nenhuma resistência até agora",
@@ -135,6 +366,17 @@
       "published_at": "2026-09-08T12:22:23+00:00"
     },
     {
+      "id": "1dcea8b0f8acab14",
+      "title": "Introducing ChatGPT Images 2.5",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-08T11:30:00+00:00"
+    },
+    {
       "id": "16673d70457dfb8b",
       "title": "Este empreendedor de IA está desenvolvendo agentes que podem planejar com antecedência o inesperado",
       "summary": "O escritório de Danijar Hafner no distrito de SoMa, em São Francisco, está praticamente vazio. Sua nova startup ainda está em modo furtivo e nem tem nome na porta. No dia eu…",
@@ -144,6 +386,17 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-09-08T10:34:00+00:00"
+    },
+    {
+      "id": "2c827cba158d2f26",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "link": "https://openai.com/index/navier-stokes-solution",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-08T10:00:00+00:00"
     },
     {
       "id": "d501934d00c3677c",
@@ -166,6 +419,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-08T09:29:31+00:00"
+    },
+    {
+      "id": "7948c39493cbd65e",
+      "title": "Funding grants for new research into AI and teen development",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "link": "https://openai.com/index/teen-development-research-grants",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-08T09:00:00+00:00"
     },
     {
       "id": "016914d488b2822f",
@@ -205,6 +469,17 @@
       "title": "OpenAI expande iniciativas para apoiar o jornalismo das salas de aula às redações",
       "summary": "A OpenAI está expandindo o apoio ao jornalismo com ferramentas, treinamento e parcerias para estudantes, educadores, jornalistas e organizações de notícias.",
       "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-08T00:00:00+00:00"
+    },
+    {
+      "id": "a1b72811dd254b50",
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+      "link": "https://openai.com/index/1password",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -716,281 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-09-06T03:20:47+00:00"
-    },
-    {
-      "id": "6df0f5d81c2b28a3",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "summary": "Mais duas organizações de notícias estão processando a OpenAI e a Microsoft pelo suposto uso de seu jornalismo para treinar IA.",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-05T22:49:55+00:00"
-    },
-    {
-      "id": "3e972ea9f95354cd",
-      "title": "GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI",
-      "summary": "We look at Project HydraFusion, GitHub's research preview that treats workflow selection as an optimization problem rather than a model picker. We break down the three execution…",
-      "link": "https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-05T19:40:11+00:00"
-    },
-    {
-      "id": "6ef2aef9012f0dd0",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-05T19:35:24+00:00"
-    },
-    {
-      "id": "04d795fe45c700cc",
-      "title": "“Incidente Wiki”: O que a OpenAI diz sobre os agentes que hackearam site alemão",
-      "summary": "Declaração ocorre após agentes de inteligência artificial da empresa sequestrarem um site alemão para burlar testes O post “Incidente Wiki”: O que a OpenAI diz sobre os agentes…",
-      "link": "https://olhardigital.com.br/2026/09/05/pro/incidente-wiki-o-que-a-openai-diz-sobre-os-agentes-que-hackearam-site-alemao/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-05T19:25:36+00:00"
-    },
-    {
-      "id": "b5317a5d9e5cd91e",
-      "title": "Nous Research Adds One-Click Local Model Setup to Hermes Desktop",
-      "summary": "Nous Research has collapsed local model setup into a single click in Hermes Desktop. The app reads your hardware, fit-checks the catalog against your GPU, picks the…",
-      "link": "https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-05T19:12:02+00:00"
-    },
-    {
-      "id": "5d12877031aa63ff",
-      "title": "7 prompts do ChatGPT que melhoram qualquer texto sem criar palavras por você",
-      "summary": "Quando você usa o ChatGPT para escrever um texto inteiro, o resultado nem sempre fica com a sua cara. Muitas vezes, aparecem frases genéricas, ideias previsíveis e aquele tom que…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/prompts-chatgpt-para-melhorar-qualquer-texto/",
-      "image": "https://tl.ctcdn.com.br/vfHYXeNOBRgQUmYKf3-erxzT0BE=/0x0/filters:format(webp):quality(85)/a2f5608b-828b-404b-9143-f74eedc59325.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-05T19:00:01+00:00"
-    },
-    {
-      "id": "3448089f47d7e7cb",
-      "title": "Hora de renovar seu home office: impressoras em oferta na Amazon",
-      "summary": "Seja para trabalhar em casa, imprimir documentos escolares ou ter mais praticidade no dia a dia, uma boa impressora faz toda a diferença. Separamos três modelos multifuncionais em…",
-      "link": "https://olhardigital.com.br/2026/09/05/reviews/hora-de-renovar-seu-home-office-impressoras-em-oferta-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-05T18:40:00+00:00"
-    },
-    {
-      "id": "418487b456978fe4",
-      "title": "IPO da Anthropic é adiado para outubro com avaliação de US$ 2 tri",
-      "summary": "Oferta pública, que pode avaliar a empresa de inteligência artificial em US$ 2 trilhões, deve ser concluída dias antes das eleições nos EUA O post IPO da Anthropic é adiado para…",
-      "link": "https://olhardigital.com.br/2026/09/05/pro/ipo-da-anthropic-e-adiado-para-outubro-com-avaliacao-de-us-2-tri/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-05T18:37:21+00:00"
-    },
-    {
-      "id": "529a241aa37ae633",
-      "title": "A Análise Artificial revisa seu Índice de Inteligência depois que a pontuação do GPT-6 Astra atraiu ceticismo",
-      "summary": "Artificial Analysis has released version 4.2 of its Intelligence Index, likely in response to criticism that its benchmarks failed to capture GPT-6 Astra's actual progress. Astra…",
-      "link": "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_dark_gpt6_stars.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-05T18:21:02+00:00"
-    },
-    {
-      "id": "b86b5015c5da7a40",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-05T18:05:27+00:00"
-    },
-    {
-      "id": "658c50088a35101f",
-      "title": "Magalu Cloud debate soberania de dados, IA e segurança no Cloud Futures 2026",
-      "summary": "Soberania de dados e os rumos da computação em nuvem no Brasil serão alguns dos temas abordados na quarta edição do Cloud Futures , evento promovido pela Magalu Cloud na próxima…",
-      "link": "https://canaltech.com.br/mercado/magalu-cloud-debate-soberania-de-dados-ia-e-seguranca-no-cloud-futures-2026/",
-      "image": "https://tl.ctcdn.com.br/TdLm4CrOzZjw6rgL4OEWzq4v3S0=/0x0/filters:format(webp):quality(85)/73b2e605-e36b-494a-bc1c-b6562cda3e6e.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-05T15:25:31+00:00"
-    },
-    {
-      "id": "8f6ff2a364edd7d6",
-      "title": "6 coisas que o Gemini faz melhor que o Claude",
-      "summary": "O Gemini, desenvolvido pelo Google, e o Claude, da Anthropic, estão entre as principais inteligências artificiais disponíveis atualmente. As duas plataformas oferecem recursos…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-gemini-faz-melhor-que-claude/",
-      "image": "https://tl.ctcdn.com.br/WoNzw_SBjAYVNOuI-byP6qDqS8Q=/0x0/filters:format(webp):quality(85)/bfcdb6d7-f4c9-46ff-b12d-ec0e1295173a.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-05T15:00:00+00:00"
-    },
-    {
-      "id": "3b4dcb5d3c3302cb",
-      "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-      "summary": "OpenAI ships a detailed prompting guide for GPT-6 Astra that shows developers how to make the model take more initiative, avoid AI \"slop\" phrases, and stop it from overtesting…",
-      "link": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_gpt_6_stars_astra.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-05T13:31:04+00:00"
-    },
-    {
-      "id": "4ba77072fa321fc3",
-      "title": "GPT-6 Astra faz tarefas complexas e já preocupa analistas",
-      "summary": "A OpenAI anunciou o GPT-6 Astra com promessa de IAG, mas falhas de segurança e invasões recentes acenderam o alerta de governos pelo mundo. O post GPT-6 Astra faz tarefas…",
-      "link": "https://olhardigital.com.br/2026/09/05/inteligencia-artificial/gpt-6-astra-faz-tarefas-complexas-e-ja-preocupa-analistas/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/astra-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-05T12:58:17+00:00"
-    },
-    {
-      "id": "0b51a9abe9bd07f0",
-      "title": "Seven minutes with a chatbot beat a fact sheet at reducing conspiracy beliefs in two experiments",
-      "summary": "Researchers found that even a roughly seven-minute conversation with Google Gemini can reduce conspiracy beliefs about current crises, even when few verified facts are available…",
-      "link": "https://the-decoder.com/seven-minutes-with-a-chatbot-beat-a-fact-sheet-at-reducing-conspiracy-beliefs-in-two-experiments/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/ai-chatbots-conspiracy-theories-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-05T12:39:12+00:00"
-    },
-    {
-      "id": "5b13087810689101",
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-05T11:15:55+00:00"
-    },
-    {
-      "id": "df71ea507f2b0561",
-      "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki",
-      "summary": "OpenAI has responded indirectly to an incident in which autonomous AI agents left roughly 18,000 entries in a 25-year-old German wiki. The company says misalignment caused \"new…",
-      "link": "https://the-decoder.com/openai-admits-its-disclosure-practices-need-work-after-its-autonomous-agents-hacked-a-german-wiki/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/kraken_fast_openai_cybersecurity-scaled.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-05T10:57:51+00:00"
-    },
-    {
-      "id": "4dbfcb5e81ede75d",
-      "title": "Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers",
-      "summary": "Google Deepmind set up a simulated research conference where 100 Gemini agents were supposed to prove mathematical conjectures together. Instead, one agent found a loophole in the…",
-      "link": "https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/agent_conference_math_google_deepmind.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-05T10:22:38+00:00"
-    },
-    {
-      "id": "6e69b9e3d6de6b27",
-      "title": "OpenAI lança GPT-6 Astra para planos ChatGPT de primeira linha pela metade da taxa de GPT-5.6 Sol",
-      "summary": "A OpenAI lançou o GPT-6 Astra para usuários Pro, Enterprise e Business Premium, com usuários Plus esperados em breve. As permissões de mensagens para o modelo padrão são aproximadamente…",
-      "link": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_chatgpt_pattern_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-05T07:41:03+00:00"
-    },
-    {
-      "id": "26545aeebe29662f",
-      "title": "Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus",
-      "summary": "Adaption Labs has released Invent a Dataset, which generates a structured, training-ready dataset from a description of the behavior you want a model to learn. There is no seed…",
-      "link": "https://www.marktechpost.com/2026/09/04/datasets-invent-api-training-data-without-labeling-adaptive-data-autoscientist/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-05T06:48:29+00:00"
-    },
-    {
-      "id": "6af72a51f9e67119",
-      "title": "Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%",
-      "summary": "Gemini now navigates video instead of ingesting it at 1 FPS, loading only the segments a prompt needs. The post Google Launches Agentic Video Understanding for Gemini Flash…",
-      "link": "https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-05T04:37:25+00:00"
-    },
-    {
-      "id": "2c6ae9879531858d",
-      "title": "NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes",
-      "summary": "We look at NVIDIA Personal AI Router (PAIR), an open source virtual inference router that spreads local AI requests across the machines already on a home network. We cover how…",
-      "link": "https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-05T03:52:23+00:00"
-    },
-    {
-      "id": "f68429e80b42c93a",
-      "title": "Anthropic adia lançamento de IPO e pode chegar à Bolsa com valor de R$ 10,7 trilhões",
-      "summary": "Empresa de IA deve iniciar campanha para oferta pública de ações em meados de outubro, segundo fontes; listagem pode ocorrer pouco antes das eleições de meio de mandato nos EUA O…",
-      "link": "https://olhardigital.com.br/2026/09/04/pro/anthropic-adia-lancamento-de-ipo-e-pode-chegar-a-bolsa-com-valor-de-r-10-7-trilhoes/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/claude_anthropic-1024x632.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-05T00:40:20+00:00"
-    },
-    {
-      "id": "c7bac135042a53c6",
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their…",
-      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-04T23:15:11+00:00"
-    },
-    {
-      "id": "d49918ef8c049537",
-      "title": "NVIDIA garante que DLSS 5 também chegará às placas antigas",
-      "summary": "Um representante da NVIDIA revelou na última quinta-feira (3) que a ferramenta de upscaling DLSS 5 não estará “presa” às placas de vídeo GeForce RTX 50 . De acordo com a mensagem…",
-      "link": "https://canaltech.com.br/hardware/nvidia-garante-que-dlss-5-tambem-chegara-as-placas-antigas/",
-      "image": "https://tl.ctcdn.com.br/xMmnKn6Iv9a5T45uyBHg2O7m-M0=/0x0/filters:format(webp):quality(85)/69929e0c-646d-49ee-84fb-98ed79161337.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-04T22:34:00+00:00"
     }
   ]
 }
