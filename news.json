@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-08T03:08:13.144948+00:00",
+  "generated_at": "2026-09-08T10:36:32.421287+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "d501934d00c3677c",
+      "title": "Resumo do OD: estudante brasileiro aprende com IA; guerra de dobráveis; novo iPhone e mais!",
+      "summary": "Ao menos uma vez por semana, quase metade dos alunos brasileiros de 15 anos usa chatbots de IA, como o ChatGPT, para estudar O post Resumo do OD: estudante brasileiro aprende com…",
+      "link": "https://olhardigital.com.br/2026/09/08/pro/resumo-do-od-estudante-brasileiro-aprende-com-ia-guerra-de-dobraveis-novo-iphone-e-mais/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/brasil-ocde-1024x512.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-08T09:48:38+00:00"
+    },
+    {
+      "id": "12a5534dc426ee46",
+      "title": "IA no Brasil: quase metade dos alunos usa tecnologia para estudar",
+      "summary": "A Organização para a Cooperação e Desenvolvimento Econômico (OCDE) divulgou nesta terça-feira (8) o Pisa 2025 O post IA no Brasil: quase metade dos alunos usa tecnologia para…",
+      "link": "https://olhardigital.com.br/2026/09/08/inteligencia-artificial/ia-no-brasil-quase-metade-dos-alunos-usa-tecnologia-para-estudar/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/brasil-ocde-1024x512.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-08T09:29:31+00:00"
+    },
+    {
+      "id": "016914d488b2822f",
+      "title": "Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals",
+      "summary": "Three years after launch, Mistral AI has closed a 3 billion euro Series D round, pushing its valuation past 21 billion euros. The article Mistral AI raises 3 billion euros in…",
+      "link": "https://the-decoder.com/mistral-ai-raises-3-billion-euros-in-europes-largest-ever-tech-funding-round-despite-lagging-behind-rivals/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/mistral-logo-wall-nano-banana-pro-scaled.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-08T07:45:41+00:00"
+    },
     {
       "id": "ebaa7464c937738d",
       "title": "Reducto Releases r-1: A Single Pass Document Parsing Model That Cuts Errors 20% at 1 Cent Per Page",
@@ -958,39 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-04T17:14:46+00:00"
-    },
-    {
-      "id": "c52aa6b26a988651",
-      "title": "O que é AGI e por que ela representa uma \"nova era mundial\" na IA",
-      "summary": "Termo popular em cada lançamento de IA, AGI é a sigla em inglês para Inteligência Artificial Geral . O conceito representa uma evolução na inteligência artificial na qual a…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-e-agi-e-por-que-ela-representa-uma-nova-era-mundial-na-ia/",
-      "image": "https://tl.ctcdn.com.br/GuHlIeHlJF65Bn9SHhUgVZ5n7Pk=/0x0/filters:format(webp):quality(85)/1846c6a3-4788-41d5-9a18-a48a3f18c13d.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-04T17:13:00+00:00"
-    },
-    {
-      "id": "cdf05ffa8554c89f",
-      "title": "Anel francês faz o que faltou ao Galaxy Ring: paga por aproximação e vibra",
-      "summary": "A Circular trouxe à IFA 2026 os novos Ring 3 Slim e Ring 3 Pro , anéis inteligentes que chegam com dois recursos pouco comuns na categoria: pagamentos por aproximação e alertas…",
-      "link": "https://canaltech.com.br/produtos/anel-frances-faz-o-que-faltou-ao-galaxy-ring-paga-por-aproximacao-e-vibra/",
-      "image": "https://tl.ctcdn.com.br/44OCPRRbhbKsvCGWBU_rAIQ4yBA=/0x0/filters:format(webp):quality(85)/c1301cf5-96af-480a-94ae-9ef007c48517.webp",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-04T16:50:02+00:00"
-    },
-    {
-      "id": "1b8415738489174e",
-      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-      "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
-      "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-04T16:22:18+00:00"
     }
   ]
 }
