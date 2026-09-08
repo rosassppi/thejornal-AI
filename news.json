@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-09-08T10:36:32.421287+00:00",
+  "generated_at": "2026-09-08T16:00:32.822920+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "5cbc2b053c6f7145",
+      "title": "A Patagônia tem o que os data centers de IA desejam, incluindo nenhuma resistência até agora",
+      "summary": "A Patagônia argentina está chamando a atenção como um possível local para grandes data centers de IA. O artigo A Patagônia tem o que os data centers de IA desejam, incluindo nenhuma resistência até agora…",
+      "link": "https://the-decoder.com/patagonia-has-what-ai-data-centers-want-including-no-resistance-so-far/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/Patagonia-Datacenter.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-08T15:16:47+00:00"
+    },
+    {
+      "id": "f5e00b02f1403855",
+      "title": "Trend dos anos 80: aprenda a criar sua foto com visual da época",
+      "summary": "Já imaginou como seria uma foto sua nos anos 80 ? É justamente isso que a nova trend das redes sociais tenta recriar com ajuda da inteligência artificial (IA). A partir de uma…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/trend-dos-anos-80-aprenda-a-criar-sua-foto-com-visual-da-epoca/",
+      "image": "https://tl.ctcdn.com.br/6ioFb2zkcroG1yWpakHwP8wglTI=/0x0/filters:format(webp):quality(85)/6083c388-d408-47a4-9a09-e16594183c26.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-08T15:13:00+00:00"
+    },
+    {
+      "id": "c3c381b2ec68ab9c",
+      "title": "ASML bloqueia TSMC, Samsung e Intel enquanto a Huawei corre para quebrar seu controle",
+      "summary": "ASML conquistou Samsung, TSMC e Intel para mudar para máscaras fotográficas maiores, o que deve aumentar o rendimento de suas mais novas máquinas EUV em 40%. Enquanto isso, a Huawei está…",
+      "link": "https://the-decoder.com/asml-locks-in-tsmc-samsung-and-intel-while-huawei-races-to-break-its-grip/",
+      "image": "https://the-decoder.com/wp-content/uploads/2024/08/asml_highna_cleanroom_veldhoven_067.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-08T15:11:59+00:00"
+    },
+    {
+      "id": "47690fe8e1050277",
+      "title": "O Chrome agora envia atualizações a cada 2 semanas, à medida que a IA muda o cenário de segurança",
+      "summary": "O Google está acelerando o cronograma de lançamento do Chrome para enviar patches de segurança e novos recursos com mais rapidez.",
+      "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-08T15:04:09+00:00"
+    },
+    {
+      "id": "b09701b740e1a4c4",
+      "title": "Meta descarta o uso de IA das avaliações de desempenho dos engenheiros após o tiro sair pela culatra \"tokenmaxxing\"",
+      "summary": "A Meta não julgará mais seus engenheiros pelo quanto eles usam ferramentas de IA. O artigo Meta elimina o uso de IA das análises de desempenho dos engenheiros depois que o tiro saiu pela culatra de \"tokenmaxxing\"…",
+      "link": "https://the-decoder.com/meta-drops-ai-usage-from-engineer-performance-reviews-after-tokenmaxxing-backfires/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/meta_AI_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-08T14:27:40+00:00"
+    },
+    {
+      "id": "5cbcf08e288841ac",
+      "title": "Segurança para quem? Recusando o subconjunto correto de um tópico, não o tópico inteiro",
+      "summary": "",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-08T14:23:07+00:00"
+    },
+    {
+      "id": "ccfcc745e9666eec",
+      "title": "Uso diário de IA pode afetar o desempenho escolar, diz OCDE",
+      "summary": "Estudo da OCDE revela que usar IA diariamente nas tarefas escolares reduz as notas no Pisa e afeta o aprendizado dos estudantes O post Uso diário de IA pode afetar o desempenho…",
+      "link": "https://olhardigital.com.br/2026/09/08/inteligencia-artificial/uso-diario-de-ia-pode-afetar-o-desempenho-escolar-diz-ocde/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/05/iStock-1254051142-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-08T14:20:40+00:00"
+    },
+    {
+      "id": "eb5fea936a5e290a",
+      "title": "Mistral levanta 3 mil milhões de euros à medida que a IA soberana se torna um grande negócio",
+      "summary": "O laboratório francês de IA arrecadou 3 mil milhões de euros numa avaliação de 21 mil milhões de euros numa ronda da Série D liderada pela Samsung, Scaleup Europe e PSG Equity.",
+      "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-08T14:17:48+00:00"
+    },
+    {
+      "id": "1a956c25f3b2e61c",
+      "title": "O Atlas do genoma humano do Google pode abrir caminho para novos tratamentos",
+      "summary": "O Google DeepMind revelou uma ferramenta de IA que seus cientistas afirmam poder ajudar a desvendar os mistérios do genoma humano e transformar nossa compreensão da biologia, acelerando…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-08T14:00:00+00:00"
+    },
+    {
+      "id": "df01e054bbeb985b",
+      "title": "Adobe está tentando tornar seus geradores de IA à prova de idiotas no Premiere",
+      "summary": "A Adobe está reformulando a forma como os editores interagem com a IA em seu software de edição de vídeo profissional Premiere. Sua nova ferramenta Generative Media facilita a geração de vídeo, som…",
+      "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Premiere_Gen-Media-Tool-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-08T13:00:00+00:00"
+    },
+    {
+      "id": "a00fc889a2dd293b",
+      "title": "O trabalho agora ao seu alcance",
+      "summary": "Explore como uma IA mais capaz e acessível pode expandir o trabalho que as pessoas e as empresas podem realizar e tornar o crescimento mais económico.",
+      "link": "https://openai.com/index/the-work-now-within-reach",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-08T13:00:00+00:00"
+    },
+    {
+      "id": "72b574993b54c6a1",
+      "title": "Com riscos de segurança, quem pode usar o GPT-6 Astra da OpenAI?",
+      "summary": "O GPT-6 Astra é o modelo mais recente e mais poderoso da OpenAI, lançado em setembro deste ano. A ferramenta precisou passar por revisões adicionais de segurança devido ao…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/com-riscos-de-seguranca-quem-pode-usar-o-gpt-6-astra-da-openai/",
+      "image": "https://tl.ctcdn.com.br/j6S0md4xF0orJk9wsNCmtjII1G0=/0x0/filters:format(webp):quality(85)/951ba2b0-05a9-4d99-b31c-2c49bdf170b6.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-08T12:22:23+00:00"
+    },
+    {
+      "id": "16673d70457dfb8b",
+      "title": "Este empreendedor de IA está desenvolvendo agentes que podem planejar com antecedência o inesperado",
+      "summary": "O escritório de Danijar Hafner no distrito de SoMa, em São Francisco, está praticamente vazio. Sua nova startup ainda está em modo furtivo e nem tem nome na porta. No dia eu…",
+      "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-08T10:34:00+00:00"
+    },
     {
       "id": "d501934d00c3677c",
       "title": "Resumo do OD: estudante brasileiro aprende com IA; guerra de dobráveis; novo iPhone e mais!",
@@ -56,6 +199,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-08T02:16:39+00:00"
+    },
+    {
+      "id": "4a36ea7ba6bb268a",
+      "title": "OpenAI expande iniciativas para apoiar o jornalismo das salas de aula às redações",
+      "summary": "A OpenAI está expandindo o apoio ao jornalismo com ferramentas, treinamento e parcerias para estudantes, educadores, jornalistas e organizações de notícias.",
+      "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-08T00:00:00+00:00"
     },
     {
       "id": "61bb926728de742e",
@@ -837,160 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-04T22:34:00+00:00"
-    },
-    {
-      "id": "742cf6e98adedcf1",
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "summary": "Ao todo, 3,7 mil agentes internos postaram 18 mil mensagens discutindo trapaça em uma prova.",
-      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-04T22:17:36+00:00"
-    },
-    {
-      "id": "ac4ec989a2a725db",
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "summary": "A Nscale, que recentemente fechou um acordo de US$ 45 bilhões com a Anthropic, está em negociações para levantar fundos adicionais em antecipação a um próximo IPO.",
-      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-04T21:12:11+00:00"
-    },
-    {
-      "id": "e8d2146843a3ae62",
-      "title": "Virou bagunça: detector de IA do Instagram rotula fotos reais e ignora imagens 100% falsas",
-      "summary": "O sistema de rotulagem de inteligência artificial da Meta está gerando situações contraditórias no Instagram. Fotografias reais que receberam apenas pequenas edições ou foram…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/virou-bagunca-detector-de-ia-do-instagram-rotula-fotos-reais-e-ignora-imagens-100-falsas/",
-      "image": "https://tl.ctcdn.com.br/spqUwbqNye5C5uAy8DgnVFDDjts=/0x0/filters:format(webp):quality(85)/8385be82-bbe0-43ef-8a44-4089749b1af0.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-04T20:07:00+00:00"
-    },
-    {
-      "id": "3d91709e43948eaa",
-      "title": "Espelho inteligente mede sinais vitais do corpo usando apenas uma câmera",
-      "summary": "Um espelho inteligente desenvolvido por pesquisadores do Inatel consegue analisar sinais vitais sem precisar encostar no corpo do usuário . O equipamento utiliza uma câmera para…",
-      "link": "https://canaltech.com.br/produtos/espelho-inteligente-mede-sinais-vitais-do-corpo-usando-apenas-uma-camera/",
-      "image": "https://tl.ctcdn.com.br/uOU0UmDkLj5iyx-HE71bUWeujOs=/0x0/filters:format(webp):quality(85)/71264433-26da-4541-a33e-c5ac38a073bb.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-04T20:03:04+00:00"
-    },
-    {
-      "id": "2f7e1f560644cc75",
-      "title": "Meta oferece 95% de desconto em IA para quem compartilhar dados",
-      "summary": "Novo plano do Muse Spark reduz preço por token para desenvolvedores que aceitarem ceder dados à Meta para treinamento. Meta oferece 95% de desconto em IA para quem compartilhar…",
-      "link": "https://tecnoblog.net/noticias/meta-oferece-95-de-desconto-em-ia-para-quem-compartilhar-dados/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-03-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-04T19:27:13+00:00"
-    },
-    {
-      "id": "2c5a2bf1c8f9ee86",
-      "title": "Google Fotos ganha IA que edita, organiza e compartilha fotos sozinha",
-      "summary": "O Google começou a integrar o Gemini Spark ao Google Fotos para editar, organizar e compartilhar imagens com inteligência artificial. A ferramenta executa várias tarefas a partir…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/google-fotos-ganha-ia-que-edita-organiza-e-compartilha-fotos-sozinha/",
-      "image": "https://tl.ctcdn.com.br/B4x4A5Z2EG9hZxosfggoZxZ2hqU=/0x0/filters:format(webp):quality(85)/49db81da-45e4-47e7-812d-3c413da4b22d.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-04T19:08:00+00:00"
-    },
-    {
-      "id": "65a4ca946b9eaa6a",
-      "title": "O que a decisão contra a xAI muda para as leis de nudes falsos de IA nos EUA",
-      "summary": "Juiz manteve em vigor uma das primeiras leis americanas contra ferramentas que criam imagens íntimas falsas de pessoas reais; disputa constitucional ainda não terminou O post O…",
-      "link": "https://olhardigital.com.br/2026/09/04/pro/o-que-a-decisao-contra-a-xai-muda-para-as-leis-de-nudes-falsos-de-ia-nos-eua/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/xai-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-04T18:59:17+00:00"
-    },
-    {
-      "id": "5deada0724e2d2f0",
-      "title": "Hora de imprimir com mais qualidade: selecionamos ótimas impressoras em promoção",
-      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é o momento certo. Reunimos três opções de impressoras multifuncionais em oferta na Amazon — com…",
-      "link": "https://olhardigital.com.br/2026/09/04/reviews/hora-de-imprimir-com-mais-qualidade-selecionamos-otimas-impressoras-em-promocao/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-04T18:40:00+00:00"
-    },
-    {
-      "id": "817537e6d0579ab2",
-      "title": "Architecting memory and storage in the AI era",
-      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent…",
-      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/iStock-2239372581.jpg?w=840",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-04T18:39:19+00:00"
-    },
-    {
-      "id": "7ece2d636db3b590",
-      "title": "Novo detector de golpes do Google está chegando a mais celulares; o seu vai receber?",
-      "summary": "O Google prepara uma nova expansão do Scam Detection , recurso que usa inteligência artificial para identificar possíveis golpes durante ligações telefônicas. Depois de chegar aos…",
-      "link": "https://canaltech.com.br/software/novo-detector-de-golpes-do-google-esta-chegando-a-mais-celulares-o-seu-vai-receber/",
-      "image": "https://tl.ctcdn.com.br/uUjJgNveUx7EBTb8mPuJetewCc4=/0x0/filters:format(webp):quality(85)/9c87a6ed-7446-4acd-ad70-3ee3cd2c3361.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-04T18:00:01+00:00"
-    },
-    {
-      "id": "d7da0fb3d5ff6a40",
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Melody_Flip_Palettes-Fav.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-04T17:51:35+00:00"
-    },
-    {
-      "id": "14e863daf7d51d4e",
-      "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-      "summary": "OpenAI's GPT-6 Astra hallucinates less than its predecessor and blocks 99.99 percent of direct prompt injections. But when attacks are hidden inside documents the AI reads, the…",
-      "link": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/11/openai_logo_wall-3.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-04T17:23:35+00:00"
-    },
-    {
-      "id": "e703320cbb435bbd",
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
-      "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-04T17:18:12+00:00"
-    },
-    {
-      "id": "61caa8182616a324",
-      "title": "Wikipédia perdeu acessos após resumos de IA do Google, diz estudo",
-      "summary": "Autores de artigo estimam que enciclopédia passou a ter 100 milhões de visitas mensais a menos. Google alega inconsistências nos dados da pesquisa. Wikipédia perdeu acessos após…",
-      "link": "https://tecnoblog.net/noticias/wikipedia-perdeu-acessos-apos-resumos-de-ia-do-google-diz-estudo/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/planet-volumes-a5l-mowfhxu-unsplash-edited-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-04T17:14:46+00:00"
     }
   ]
 }
