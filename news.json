@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-07T21:07:48.182251+00:00",
+  "generated_at": "2026-09-08T03:08:13.144948+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "ebaa7464c937738d",
+      "title": "Reducto Releases r-1: A Single Pass Document Parsing Model That Cuts Errors 20% at 1 Cent Per Page",
+      "summary": "We look at r-1, the document parsing model Reducto released on September 1, 2026. We walk through how it folds OCR, layout detection, tables, formatting and grounding into one…",
+      "link": "https://www.marktechpost.com/2026/09/07/reducto-releases-r-1-a-single-pass-document-parsing-model-that-cuts-errors-20-at-1-cent-per-page/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-08T03:07:15+00:00"
+    },
+    {
+      "id": "fe6c53252f4c1cc6",
+      "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+      "summary": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction…",
+      "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-08T02:16:39+00:00"
+    },
+    {
+      "id": "61bb926728de742e",
+      "title": "IA pode encontrar cura para o câncer, mas chips são desafio, diz CEO da Arm",
+      "summary": "Executivo afirma que modelos de IA poderão resolver problemas complexos da doença, mas alerta que falta de chips limita expansão da tecnologia O post IA pode encontrar cura para o…",
+      "link": "https://olhardigital.com.br/2026/09/07/inteligencia-artificial/ia-pode-encontrar-cura-para-o-cancer-mas-chips-sao-desafio-diz-ceo-da-arm/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-07T23:53:27+00:00"
+    },
+    {
+      "id": "5ac5a229cc5a41f5",
+      "title": "Cientista-chefe da OpenAI pede cautela com avanço da IA",
+      "summary": "Jakub Pachocki afirma que sistemas estão evoluindo a ponto de impulsionar o próprio desenvolvimento e defende limites de segurança para o avanço da tecnologia O post…",
+      "link": "https://olhardigital.com.br/2026/09/07/inteligencia-artificial/cientista-chefe-da-openai-pede-cautela-com-avanco-da-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/ia_seguranca-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-07T20:48:50+00:00"
+    },
     {
       "id": "085a9f1aac3b1459",
       "title": "Trend dos anos 80 viraliza na web; veja como fazer no ChatGPT",
@@ -947,50 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-04T16:22:18+00:00"
-    },
-    {
-      "id": "85ed079974755641",
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-04T16:21:11+00:00"
-    },
-    {
-      "id": "70d9a07f92e25458",
-      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-      "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in…",
-      "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK259_MICROSOFT_COPILOT_2__B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-04T16:05:57+00:00"
-    },
-    {
-      "id": "4f51515f4167479f",
-      "title": "Atualização do Google muda o jeito que você usa o Gmail, Docs e Keep no celular",
-      "summary": "O Google começou a liberar globalmente o Gmail Live, Docs Live e Keep Live , novos recursos de voz com inteligência artificial que levam uma experiência de conversa para os…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/atualizacao-do-google-muda-o-jeito-que-voce-usa-o-gmail-docs-e-keep-no-celular/",
-      "image": "https://tl.ctcdn.com.br/w55IadoXyJ-YVLv36y7V_CKd4tA=/0x0/filters:format(webp):quality(85)/279674b0-7fca-4a55-bfeb-a84912926b23.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-04T16:02:01+00:00"
-    },
-    {
-      "id": "98ffc1f2eaf4b049",
-      "title": "Microsoft revela Windows 11 para rodar IA pesada direto no PC",
-      "summary": "Project Zenith traz uma versão do sistema modificada para desenvolvedores. Primeiro dispositivo com a plataforma é um mini PC da AMD. Microsoft revela Windows 11 para rodar IA…",
-      "link": "https://tecnoblog.net/noticias/microsoft-revela-windows-11-para-rodar-ia-pesada-direto-no-pc/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/projectzenith2-340x191.webp",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-04T14:51:27+00:00"
     }
   ]
 }
