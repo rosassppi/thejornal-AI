@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-09T03:09:50.294792+00:00",
+  "generated_at": "2026-09-09T10:46:58.063379+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "b59bd85906ce194e",
+      "title": "O novo estagiário de ML da Hugging Face permite que qualquer pessoa execute experimentos de aprendizado de máquina por meio de um simples bate-papo",
+      "summary": "A Hugging Face lançou o \"ML Intern\", um assistente de IA integrado ao seu chatbot que permite aos usuários executar experimentos de aprendizado de máquina sem qualquer conhecimento de ML. O artigo Abraçando o novo rosto…",
+      "link": "https://the-decoder.com/hugging-faces-new-ml-intern-lets-anyone-run-machine-learning-experiments-through-a-simple-chat/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/hugging_face_blue.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-09T10:38:41+00:00"
+    },
+    {
+      "id": "2e81ca3065ac7fc1",
+      "title": "A disputa à prova do milênio da OpenAI levanta a questão de saber se os pesquisadores podem confiar nos laboratórios de IA",
+      "summary": "A controvérsia sobre a prova gerada pela IA de um problema do milénio está a aumentar. O matemático Tristan Buckmaster acusa OpenAI de fraude acadêmica. O CEO Sam Altman rejeita o…",
+      "link": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/math_llm.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-09T10:27:37+00:00"
+    },
+    {
+      "id": "4c2384d2d8e09704",
+      "title": "Pesquisadores antrópicos preocupados alertam que a IA ‘poderia matar todos os humanos’",
+      "summary": "Um pesquisador sênior de segurança da Antrópica disse que há mais de 10 por cento de chance de a inteligência artificial “poder matar todos os humanos” até o final da década, poucas horas depois de…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK269_ANTHROPIC_2_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-09T09:56:28+00:00"
+    },
+    {
+      "id": "a215f088faaaddd2",
+      "title": "Ex-alunos do Google DeepMind estão construindo ferramentas para acelerar a energia de fusão para a rede",
+      "summary": "A Fusionality está desenvolvendo sistemas de controle e ambientes de simulação para ajudar as startups de energia de fusão a se moverem mais rapidamente.",
+      "link": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-09T06:00:00+00:00"
+    },
+    {
+      "id": "0a4b07bbaef556bc",
+      "title": "O que a última controvérsia da OpenAI nos diz sobre o futuro da matemática",
+      "summary": "O mais recente marco matemático da OpenAI rapidamente ficou atolado em controvérsia. Hoje, a empresa anunciou que os seus agentes resolveram um dos problemas do Prémio Milénio, alguns…",
+      "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-09T03:10:08+00:00"
+    },
     {
       "id": "6b0ee72d66c04098",
       "title": "Hackers roubam tokens de usuários do Claude e usam contas sem autorização",
@@ -936,61 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-06T19:40:00+00:00"
-    },
-    {
-      "id": "c905bb660401f673",
-      "title": "Hora de imprimir mais gastando menos: veja estas ofertas de impressoras na Amazon",
-      "summary": "Se você está precisando de uma impressora nova — seja para o home office, para os estudos ou para o dia a dia em casa —, a Amazon reúne agora uma seleção de modelos…",
-      "link": "https://olhardigital.com.br/2026/09/06/reviews/hora-de-imprimir-mais-gastando-menos-veja-estas-ofertas-de-impressoras-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-06T18:40:00+00:00"
-    },
-    {
-      "id": "d98b246e565ef5b6",
-      "title": "OpenAI encara novo processo nos EUA por uso de conteúdo sem autorização",
-      "summary": "Dois novos veículos de empresa decidiram levar a OpenAI para os tribunais; empresas alegam uso indevido de reportagens no treinamento de IA O post OpenAI encara novo processo nos…",
-      "link": "https://olhardigital.com.br/2026/09/06/inteligencia-artificial/openai-encara-novo-processo-nos-eua-por-uso-de-conteudo-sem-autorizacao/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/openai-3-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-06T18:04:00+00:00"
-    },
-    {
-      "id": "7a98b49af7c5b21c",
-      "title": "Mobilidade TechCrunch: Tesla Cybercab chega à estrada – e um obstáculo",
-      "summary": "Bem-vindo de volta ao TechCrunch Mobility, seu centro para o futuro do transporte e agora, mais do que nunca, o papel que a IA desempenha nele.",
-      "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-06T16:08:00+00:00"
-    },
-    {
-      "id": "6b1cc33e537c31a7",
-      "title": "Como criar um assistente pessoal de IA que entende suas regras",
-      "summary": "Ter um assistente de IA com as próprias regras é uma ótima opção para extrair o melhor da tecnologia. É possível criar versões personalizadas dos chatbots para atender a objetivos…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-criar-assistente-pessoal-de-ia/",
-      "image": "https://tl.ctcdn.com.br/ju7wFg7Gk_uvzIE-rabgeGefK3g=/0x0/filters:format(webp):quality(85)/cbe4a562-fe57-4419-a759-84aae969c754.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-06T12:30:01+00:00"
-    },
-    {
-      "id": "421ce34f740ae5b5",
-      "title": "Os chatbots construíram uma “câmara de eco de um” e agora a psiquiatria tem que decidir se existe “psicose de IA”",
-      "summary": "Pesquisadores do King's College London e de outras instituições estão examinando se a “psicose associada à IA” deveria se tornar um diagnóstico clínico. Pelo próprio relato da OpenAI…",
-      "link": "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/ai_hypnosis_syco.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-06T11:57:12+00:00"
     }
   ]
 }
