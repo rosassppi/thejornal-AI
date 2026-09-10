@@ -1,7 +1,172 @@
 {
-  "generated_at": "2026-09-10T15:51:36.165795+00:00",
+  "generated_at": "2026-09-10T20:27:13.529430+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "17e434cbaab32a98",
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "summary": "O mais novo aplicativo da Meta, Muse, teve um início mais lento do que outros aplicativos da empresa, como Meta AI ou Threads.",
+      "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-10T19:50:04+00:00"
+    },
+    {
+      "id": "36170847786106c4",
+      "title": "As escolas estão seguindo o manual da Big Tech",
+      "summary": "É a novidade em tecnologia e é onde estão todos os empregos. Os alunos que não aprendem a usá-lo ficam para trás. E para ajudá-los a recuperar o atraso, seus criadores são gentilmente…",
+      "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-10T19:44:20+00:00"
+    },
+    {
+      "id": "996e3d09d80a1d70",
+      "title": "Galaxy Tab S11 Ultra despenca 31% com cupom exclusivo Tecnoblog",
+      "summary": "Galaxy Tab S11 Ultra com 512 GB, tela AMOLED e Galaxy AI surge em uma das melhores ofertas já vistas pelo TB Galaxy Tab S11 Ultra despenca 31% com cupom exclusivo Tecnoblog",
+      "link": "https://tecnoblog.net/achados/galaxy-tab-s11-ultra-despenca-31-com-cupom-exclusivo-tecnoblog/",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-tab-s11-ultra-achado-do-dia-1060x596.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-10T18:54:30+00:00"
+    },
+    {
+      "id": "cb09479f61d6b4a4",
+      "title": "Gemini agora tem app oficial para Windows",
+      "summary": "Gemini para Windows 11 e 10 chega meses depois do lançamento da versão para Mac. Novidade é similar à versão web. Gemini agora tem app oficial para Windows",
+      "link": "https://tecnoblog.net/noticias/gemini-agora-tem-app-oficial-para-windows/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/gemini-windows-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-10T18:43:50+00:00"
+    },
+    {
+      "id": "22f8293edd23b58f",
+      "title": "Hora de imprimir sem dor de cabeça: veja uma seleção de impressoras em promoção na Amazon",
+      "summary": "Se a sua impressora está dando trabalho ou você simplesmente quer trocar por um modelo mais moderno, este é um bom momento para pesquisar. Reunimos três opções de impressoras…",
+      "link": "https://olhardigital.com.br/2026/09/10/reviews/hora-de-imprimir-sem-dor-de-cabeca-veja-uma-selecao-de-impressoras-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-10T18:40:00+00:00"
+    },
+    {
+      "id": "f780a43e194f8339",
+      "title": "Anthropic identifica tentativas de usar IA em pesquisas biológicas perigosas",
+      "summary": "Anthropic bloqueou cientistas após identificar pesquisas com IA que poderiam contribuir para o desenvolvimento de armas biológicas O post Anthropic identifica tentativas de usar…",
+      "link": "https://olhardigital.com.br/2026/09/10/inteligencia-artificial/anthropic-identifica-tentativas-de-usar-ia-em-pesquisas-biologicas-perigosas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/claude-anthropic-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-10T18:37:57+00:00"
+    },
+    {
+      "id": "4161d3fb324594fc",
+      "title": "O pânico aumenta com a iminente venda de dados da falida Spirit para o Google",
+      "summary": "“A falência não pode se tornar a nova apropriação de terras para a IA.”",
+      "link": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2271644469-500x500-1789059550.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-10T18:14:14+00:00"
+    },
+    {
+      "id": "51b37025f16db40e",
+      "title": "Anthropic revela que agentes de IA desonestos odeiam CAPTCHAs, assim como você",
+      "summary": "Entre na mente de um bot tentando convencer a internet de que ele é humano.",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-10T17:54:44+00:00"
+    },
+    {
+      "id": "a9b542ec72fec293",
+      "title": "A API GPT-Live-1 da OpenAI permite que os desenvolvedores criem aplicativos que falam e ouvem ao mesmo tempo",
+      "summary": "OpenAI lança GPT-Live-1 como uma API de desenvolvedor. O modelo de fala full-duplex obteve 80,1% em testes de interatividade, acima dos 45,4% de seu antecessor. Por US$ 0,05 por…",
+      "link": "https://the-decoder.com/openais-gpt-live-1-api-lets-developers-build-apps-that-talk-and-listen-at-the-same-time/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_chatgpt_voice.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-10T17:47:35+00:00"
+    },
+    {
+      "id": "da1eeb0d17fa864f",
+      "title": "A Pocket FM da Índia dobra a taxa de receita para US$ 500 milhões, já que a IA alimenta 93% do conteúdo de áudio",
+      "summary": "A Pocket FM usa IA para produzir 99% de seu novo conteúdo, ajudando a tornar a produção de conteúdo cerca de 80 vezes mais barata.",
+      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-10T17:45:00+00:00"
+    },
+    {
+      "id": "faff06aaae2103a7",
+      "title": "Caçadores de enxames caçam agentes desonestos, a Anthropic investiga a si mesma e a trilha que ambos seguem está escurecendo",
+      "summary": "Investigadores independentes encontraram agora vestígios de agentes suspeitos da OpenAI em mais de 30 serviços públicos, desde wikis a RubyGems. Ao mesmo tempo, Anthropic mostra como Claude…",
+      "link": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/05/Anthropic-Natural-language-autoencoders.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-10T16:33:44+00:00"
+    },
+    {
+      "id": "1a81cebeee1fa7f2",
+      "title": "Ex-funcionário de relações públicas da Deepmind diz que o laboratório já proibiu a discussão pública sobre o risco de extinção da IA",
+      "summary": "Um ex-porta-voz do Google DeepMind disse que falar sobre a extinção humana causada pela IA era “a comunicação externa sobre a possibilidade de extinção humana não foi permitida, por ninguém…",
+      "link": "https://the-decoder.com/former-deepmind-pr-staffer-says-the-lab-once-banned-public-discussion-of-ai-extinction-risk/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/google_deepmind-scaled.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-10T16:31:02+00:00"
+    },
+    {
+      "id": "42778b925e09673e",
+      "title": "Hotmart FIRE 2026: com Launchpad, plataforma aposta em IA que cria aplicativos e vira \"equipe\" do empreendedor",
+      "summary": "O mercado de produtos digitais deixou de ser apenas sobre vender cursos em vídeo ou e-books. Agora, a corrida é para transformar conteúdo em software . Foi com essa visão que João…",
+      "link": "https://canaltech.com.br/mercado/hotmart-fire-2026-com-launchpad-plataforma-aposta-em-ia-que-cria-aplicativos-e-vira-equipe-do-empreendedor/",
+      "image": "https://tl.ctcdn.com.br/08Af1zm_7rxobDaqEXed1iwuKeo=/0x0/filters:format(webp):quality(85)/1be1b0fc-a662-4a82-be27-496dccd3c76e.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-10T16:15:54+00:00"
+    },
+    {
+      "id": "39842fa0b34b37cb",
+      "title": "Como um pesquisador usa Codex e ChatGPT para procurar novas moléculas antimicrobianas",
+      "summary": "O laboratório de César de la Fuente usa Codex e ChatGPT para pesquisar genomas vivos e extintos em busca de candidatos antimicrobianos para combater infecções resistentes a medicamentos.",
+      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-10T16:00:00+00:00"
+    },
+    {
+      "id": "ceadd21f5d3a2d65",
+      "title": "Três maneiras de se preparar para sua próxima grande corrida com a Pesquisa",
+      "summary": "Ilustração sobre um fundo azul de corredores em tecnicolor com uma lupa e uma faísca de Gêmeos sobreposta",
+      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-10T16:00:00+00:00"
+    },
     {
       "id": "325b5817277a009d",
       "title": "Universal Music está lançando uma plataforma musical de IA com ElevenLabs",
@@ -234,6 +399,17 @@
       "published_at": "2026-09-10T07:31:01+00:00"
     },
     {
+      "id": "0bb946f0c4215389",
+      "title": "Apresentando ChatGPT para serviços financeiros",
+      "summary": "Apresentando o ChatGPT para serviços financeiros, combinando dados financeiros integrados e GPT-6 Astra para pesquisa, modelagem e materiais prontos para o cliente.",
+      "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
       "id": "3802aa15c4b6ae22",
       "title": "Expandindo o acesso à IA e a defesa cibernética para governos federais, estaduais, locais e tribais",
       "summary": "OpenAI e GSA oferecerão aos governos federais, estaduais, locais e tribais elegíveis taxas de licença de US$ 0, 50% de desconto no uso e suporte expandido de defesa cibernética.",
@@ -276,6 +452,28 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-10T00:00:37+00:00"
+    },
+    {
+      "id": "b8a75fb67d817922",
+      "title": "Crie experiências de voz mais naturais com GPT‑Live‑1 na API",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-10T00:00:00+00:00"
+    },
+    {
+      "id": "b32e9b8471353987",
+      "title": "Introducing the Agents API",
+      "summary": "Crie e inicie agentes em nuvem com a API Agents, um serviço gerenciado desenvolvido pelo Codex para orquestração, sessões de longa duração e uso de ferramentas.",
+      "link": "https://openai.com/index/introducing-the-agents-api",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-10T00:00:00+00:00"
     },
     {
       "id": "075fed980e67c694",
@@ -793,204 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-09T13:00:00+00:00"
-    },
-    {
-      "id": "0853b7237e632743",
-      "title": "Sequoia aposta no Cymphony à medida que agentes de IA criam novos riscos de segurança empresarial",
-      "summary": "Cymphony foi avaliada em mais de US$ 100 milhões em uma Série A de US$ 25 milhões co-liderada pela Sequoia e SMBC Fin Atlas Beyond Fund.",
-      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-09T13:00:00+00:00"
-    },
-    {
-      "id": "29084c2e591f3ec9",
-      "title": "Cientista antrópico coloca as chances de a IA destruir a humanidade acima de dez por cento nesta década",
-      "summary": "Jacob Coxon, ex-pesquisador de pré-treinamento da OpenAI e da Anthropic, pediu demissão e acusa ambas as empresas de arriscarem conscientemente a extinção humana. Colega antrópico Evan Hubinger…",
-      "link": "https://the-decoder.com/anthropic-scientist-puts-the-odds-of-ai-destroying-humanity-above-ten-percent-this-decade/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/claude_laser.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-09T12:48:41+00:00"
-    },
-    {
-      "id": "a5fea77e04b6cd75",
-      "title": "Trailer do filme sobre a OpenAI é chocante e traz Andrew Garfield como Sam Altman",
-      "summary": "A primeira prévia de Artificial , aguardado filme do diretor Luca Guadagnino (Me Chame Pelo Seu Nome), já está entre nós. Divulgado pela Neon, o trailer traz imagens inéditas de…",
-      "link": "https://canaltech.com.br/entretenimento/trailer-do-filme-sobre-a-openai-e-chocante-e-traz-andrew-garfield-como-sam-altman/",
-      "image": "https://tl.ctcdn.com.br/rGOS7kKPHT-vpVBFZvElmmB8Kfs=/0x0/filters:format(webp):quality(85)/815b0d27-321d-4a1e-87d6-943bdfb6c34b.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-09T12:31:00+00:00"
-    },
-    {
-      "id": "ab5225ac1611b78d",
-      "title": "A AWS está usando a Qualcomm para inferência de IA, enquanto a Qualcomm usa o AWS Bedrock para projetar os chips",
-      "summary": "A Qualcomm está projetando chips personalizados para AWS em várias gerações de produtos, com foco na inferência de IA. O artigo AWS está usando Qualcomm para inferência de IA enquanto Qualcomm…",
-      "link": "https://the-decoder.com/aws-is-using-qualcomm-for-ai-inference-while-qualcomm-uses-aws-bedrock-to-design-the-chips/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/Qualcomm-Logo-Wall-GPT-Images-2.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-09T12:27:42+00:00"
-    },
-    {
-      "id": "eeb4d746b047db06",
-      "title": "Meta Muse: Zuckerberg apresenta agente de IA que roda 24 horas por dia",
-      "summary": "Agente pessoal pode organizar atividades, ajustar rotina e até realizar pagamentos. Meta garante segurança com computador ‘próprio’ para cada usuário. Meta Muse: Zuckerberg…",
-      "link": "https://tecnoblog.net/noticias/meta-muse-zuckerberg-apresenta-agente-de-ia-que-roda-24-horas-por-dia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/image-15-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-09T12:22:02+00:00"
-    },
-    {
-      "id": "a485248b28d56f70",
-      "title": "Imagens ChatGPT 2.5: mais rápidas, mais precisas, mas não iguais para todos",
-      "summary": "OpenAI está lançando dois novos modelos de imagem com ChatGPT Images 2.5. Flare lida com geração mais rápida, Sunburst oferece edições mais precisas. Ainda não está claro qual modelo ChatGPT…",
-      "link": "https://the-decoder.com/chatgpt-images-2-5-faster-more-precise-but-not-the-same-for-everyone/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/OpenAI-ChatGPT-images-2.5-retrofuturism.webp",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-09T12:17:58+00:00"
-    },
-    {
-      "id": "606e9bc7b6ea8e2a",
-      "title": "Suno substitui seus modelos de IA por um novo treinado em música licenciada à medida que os processos de direitos autorais se acumulam",
-      "summary": "Enquanto enfrenta uma série de ações judiciais, a Suno disse que seu novo modelo, Suno v6, não é treinado com a música usada para treinar versões anteriores do modelo de IA.",
-      "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-09T12:05:34+00:00"
-    },
-    {
-      "id": "f165b33b514aacd5",
-      "title": "Os alunos que usam IA geralmente têm pior desempenho na escola",
-      "summary": "Os alunos que utilizam a IA para os ajudar a estudar tendem a ter um desempenho escolar pior do que aqueles que não a utilizam, de acordo com dados de um relatório educacional global da OCDE. A situação é mais complexa…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25584700/STK483_EDUCATION_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-09T12:05:01+00:00"
-    },
-    {
-      "id": "acb2d72dca9f0103",
-      "title": "OpenAI usou mil robôs para decifrar equação centenária dos fluidos",
-      "summary": "A OpenAI afirma ter encontrado uma solução gerada por inteligência artificial para um dos problemas mais difíceis da matemática: as equações de Navier-Stokes . O conjunto de…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/openai-usou-mil-robos-para-decifrar-equacao-centenaria-dos-fluidos/",
-      "image": "https://tl.ctcdn.com.br/28DMqV8TGvohJkaqdqNGus4tvko=/0x0/filters:format(webp):quality(85)/c0894921-89f1-4bcc-a078-5f7449ea56f6.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-09T11:02:00+00:00"
-    },
-    {
-      "id": "716ba068c7ce8da8",
-      "title": "O homem disse ao ChatGPT que estava delirando. ChatGPT insistiu que ele era Jesus.",
-      "summary": "Homem com transtorno bipolar processou a OpenAI após sobreviver a uma tentativa de suicídio ligada ao ChatGPT.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-jesus2-1-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-09T11:00:10+00:00"
-    },
-    {
-      "id": "333ccaae81484d3a",
-      "title": "GPT-6 Astra: A próxima geração em inteligência para o trabalho",
-      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-09T11:00:00+00:00"
-    },
-    {
-      "id": "b59bd85906ce194e",
-      "title": "O novo estagiário de ML da Hugging Face permite que qualquer pessoa execute experimentos de aprendizado de máquina por meio de um simples bate-papo",
-      "summary": "A Hugging Face lançou o \"ML Intern\", um assistente de IA integrado ao seu chatbot que permite aos usuários executar experimentos de aprendizado de máquina sem qualquer conhecimento de ML. O artigo Abraçando o novo rosto…",
-      "link": "https://the-decoder.com/hugging-faces-new-ml-intern-lets-anyone-run-machine-learning-experiments-through-a-simple-chat/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/hugging_face_blue.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-09T10:38:41+00:00"
-    },
-    {
-      "id": "2e81ca3065ac7fc1",
-      "title": "A disputa à prova do milênio da OpenAI levanta a questão de saber se os pesquisadores podem confiar nos laboratórios de IA",
-      "summary": "A controvérsia sobre a prova gerada pela IA de um problema do milénio está a aumentar. O matemático Tristan Buckmaster acusa OpenAI de fraude acadêmica. O CEO Sam Altman rejeita o…",
-      "link": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/math_llm.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-09T10:27:37+00:00"
-    },
-    {
-      "id": "4c2384d2d8e09704",
-      "title": "Pesquisadores antrópicos preocupados alertam que a IA ‘poderia matar todos os humanos’",
-      "summary": "Um pesquisador sênior de segurança da Antrópica disse que há mais de 10 por cento de chance de a inteligência artificial “poder matar todos os humanos” até o final da década, poucas horas depois de…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK269_ANTHROPIC_2_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-09T09:56:28+00:00"
-    },
-    {
-      "id": "d8eb0fdeca30721a",
-      "title": "Gradium lança design de voz: escreva um prompt e obtenha uma nova voz sintética em segundos",
-      "summary": "As equipes de agentes de voz continuam enfrentando o mesmo obstáculo. O catálogo contém 400 vozes e o resumo pede aquela que não está nele: uma recepcionista quebequense de uma concessionária de Montreal, um…",
-      "link": "https://www.marktechpost.com/2026/09/09/gradium-launches-voice-design-write-a-prompt-get-a-brand-new-synthetic-voice-in-seconds/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-09T07:29:13+00:00"
-    },
-    {
-      "id": "a215f088faaaddd2",
-      "title": "Ex-alunos do Google DeepMind estão construindo ferramentas para acelerar a energia de fusão para a rede",
-      "summary": "A Fusionality está desenvolvendo sistemas de controle e ambientes de simulação para ajudar as startups de energia de fusão a se moverem mais rapidamente.",
-      "link": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-09T06:00:00+00:00"
-    },
-    {
-      "id": "6a575420b5d02ce4",
-      "title": "Meta apresenta Muse, um agente pessoal de IA que roda em seu próprio computador em nuvem seguro e dedicado",
-      "summary": "Hoje, a Meta apresentou o Muse, um agente pessoal de IA que realiza ações em vez de apenas responder a perguntas. O Muse pode enviar e-mails, reservar viagens, negociar contas e buscar por muito tempo…",
-      "link": "https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-09T04:38:13+00:00"
-    },
-    {
-      "id": "0a4b07bbaef556bc",
-      "title": "O que a última controvérsia da OpenAI nos diz sobre o futuro da matemática",
-      "summary": "O mais recente marco matemático da OpenAI rapidamente ficou atolado em controvérsia. Hoje, a empresa anunciou que os seus agentes resolveram um dos problemas do Prémio Milénio, alguns…",
-      "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-09T03:10:08+00:00"
     }
   ]
 }
