@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-10T03:10:17.506642+00:00",
+  "generated_at": "2026-09-10T10:38:54.489493+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "dc17b9e7df1b11a3",
+      "title": "O pânico com a segurança da IA ​​se torna popular depois que os avisos do pesquisador da Anthropic chegam à CNN e à Fox News",
+      "summary": "Jacob Coxon, um pesquisador antrópico que está de partida, alertou na CNN que o autoaperfeiçoamento da IA ​​representa uma ameaça existencial para a humanidade. Pesquisadores de segurança da Anthropic e OpenAI compartilham seu…",
+      "link": "https://the-decoder.com/ai-safety-panic-goes-mainstream-after-anthropic-researchers-warnings-land-on-cnn-and-fox-news/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/anthropic_claude_clone.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-10T10:31:20+00:00"
+    },
+    {
+      "id": "8ff9aac8f5683479",
+      "title": "Xiaomi cria fogão com IA que desliga o gás se você esquecer a panela",
+      "summary": "A Xiaomi abriu a pré-venda do Mijia Smart Gas Stove 3 Max na China, um fogão que usa inteligência artificial para aumentar a segurança durante o preparo das refeições e consegue…",
+      "link": "https://canaltech.com.br/eletro/xiaomi-cria-fogao-com-ia-que-desliga-o-gas-se-voce-esquecer-a-panela/",
+      "image": "https://tl.ctcdn.com.br/kwvQRNLeu7MHcCbmZolOlhjn4nY=/0x0/filters:format(webp):quality(85)/5aef1e24-fc64-4c00-99a9-772c9c8b3b2c.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-10T10:11:44+00:00"
+    },
+    {
+      "id": "d47e1da583d2ba30",
+      "title": "Os maiores gastadores em IA reduziram os custos por funcionário em quase 10% em agosto",
+      "summary": "O Índice Ramp AI de setembro de 2026 mostra que os gastos com IA por funcionário entre o 1% das principais empresas dos EUA caíram quase 10% em agosto. O preço por milhão de tokens tem…",
+      "link": "https://the-decoder.com/top-ai-spenders-cut-per-employee-costs-by-nearly-10-percent-in-august/",
+      "image": "https://the-decoder.com/wp-content/uploads/2024/10/money_neural_network.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-10T09:34:21+00:00"
+    },
+    {
+      "id": "a15977216d23e5e0",
+      "title": "DeepSeek AI lançou DeepSeek-V4.1-Flash com contexto de 1M, cache KV FP4 e reutilização de atenção em camadas cruzadas",
+      "summary": "Agentes de longo horizonte transformaram o serviço LLM em uma carga de trabalho com muitas entradas. Pré-preenchimentos repetidos e contextos de milhões de tokens deixam caches KV que sobrecarregam o HBM, a capacidade do SSD e…",
+      "link": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-10T07:31:01+00:00"
+    },
     {
       "id": "767a97a7cb7f0b75",
       "title": "LandingAI lança extração de documentos Agentic Gen2 com DPT-3 Pro e DPT-3 Verity",
@@ -947,50 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-08T19:09:05+00:00"
-    },
-    {
-      "id": "40a7bfd98d36b409",
-      "title": "Google DeepMind lança AlphaGenome Atlas com previsões pré-computadas de efeitos moleculares e pontuações AVI para 9 bilhões de variantes de DNA humano",
-      "summary": "O AlphaGenome Atlas da DeepMind mapeia cada mudança de uma única letra no genoma humano com 1 pontuação de impacto por variante. A postagem Google DeepMind lança AlphaGenome Atlas com…",
-      "link": "https://www.marktechpost.com/2026/09/08/google-deepmind-releases-alphagenome-atlas-with-precomputed-molecular-effect-predictions-and-avi-scores-for-9-billion-human-dna-variants/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-08T19:00:09+00:00"
-    },
-    {
-      "id": "d6f651093c95c13b",
-      "title": "Meta aposta no agente de IA Muse para se atualizar na corrida de IA",
-      "summary": "A Meta está fazendo outro esforço para levar a inteligência artificial às massas com o Muse, um assistente pessoal que pode colocar a IA nas mãos de praticamente qualquer pessoa. O produto é o…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK169_Mark_Zuckerburg_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-08T19:00:00+00:00"
-    },
-    {
-      "id": "0cfe4d849c9b73f4",
-      "title": "Meta estreia seu agente Muse AI. Os consumidores confiarão nisso?",
-      "summary": "O novo agente pessoal de IA da Meta, Muse, deseja acesso ao e-mail, calendários, pagamentos, serviços de saúde e muito mais dos usuários - tornando a maior aposta de IA do consumidor da empresa ainda um grande teste de…",
-      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-08T19:00:00+00:00"
-    },
-    {
-      "id": "120d90e9cf3e24bf",
-      "title": "CEO da Nvidia diz que OpenAI alcançou a AGI com o GPT-6 Astra",
-      "summary": "Jensen Huang destacou a participação dos próprios chips na evolução dos modelos de IA. CEO da Nvidia diz que OpenAI alcançou a AGI com o GPT-6 Astra",
-      "link": "https://tecnoblog.net/noticias/ceo-da-nvidia-diz-que-openai-alcancou-a-agi-com-o-gpt-6-astra/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/09/nvidia-ceo-jensen-huang-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-08T18:54:05+00:00"
     }
   ]
 }
