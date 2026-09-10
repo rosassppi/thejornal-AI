@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-09-09T20:26:16.769482+00:00",
+  "generated_at": "2026-09-10T03:10:17.506642+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "767a97a7cb7f0b75",
+      "title": "LandingAI lança extração de documentos Agentic Gen2 com DPT-3 Pro e DPT-3 Verity",
+      "summary": "LandingAI lançou Agentic Document Extraction Gen2, uma reconstrução de sua pilha de documentos na família de modelos DPT-3. Os pedaços são retirados em favor de uma árvore de documentos, páginas e blocos…",
+      "link": "https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-10T02:13:12+00:00"
+    },
+    {
+      "id": "c406464f39244d7a",
+      "title": "Suno lança IA musical treinada com apoio de gravadoras; veja o que mudou",
+      "summary": "Nova versão do gerador musical promete mais controle e compreensão de gêneros, mas ainda não consegue reproduzir as “imperfeições naturais” da música humana O post Suno lança IA…",
+      "link": "https://olhardigital.com.br/2026/09/09/inteligencia-artificial/suno-lanca-ia-musical-treinada-com-apoio-de-gravadoras-veja-o-que-mudou/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/iStock-2265185320-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-10T00:47:15+00:00"
+    },
+    {
+      "id": "0286b52989ae7567",
+      "title": "A startup de pesquisa de IA Listen Labs eliminou uma rodada de financiamento de US$ 1,5 bilhão para palestras sobre Salesforce",
+      "summary": "A Listen Labs abandonou um termo de compromisso da Série C assinado pela Menlo Ventures, dizem as fontes.",
+      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-10T00:00:37+00:00"
+    },
+    {
+      "id": "66861ddfa3ac397e",
+      "title": "Pesquisadores questionam método da OpenAI para resolver problema matemático",
+      "summary": "Matemático teria sido questionado por funcionários da empresa sobre seu trabalho relacionado ao problema O post Pesquisadores questionam método da OpenAI para resolver problema…",
+      "link": "https://olhardigital.com.br/2026/09/09/inteligencia-artificial/pesquisadores-questionam-metodo-da-openai-para-resolver-problema-matematico/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/matematica_ia-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-09T23:25:26+00:00"
+    },
+    {
+      "id": "d381c45bb1c6be2b",
+      "title": "Mantis de código aberto do Google: um kit de ferramentas de habilidades modulares que permite que agentes de codificação encontrem, reproduzam e corrijam vulnerabilidades",
+      "summary": "O Google abriu o Mantis, um kit de ferramentas independente de pilha de habilidades de revisão de segurança para agentes de codificação de IA. Ele executa todo o ciclo de vida da vulnerabilidade: varre o código, filtra falsos…",
+      "link": "https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-09T22:58:29+00:00"
+    },
+    {
+      "id": "b6092dd06175561c",
+      "title": "OpenAI adiciona um proeminente AI Doomer ao seu conselho de administração",
+      "summary": "Paul Christiano, um influente pesquisador de IA focado em alinhamento, está ingressando na OpenAI Foundation como membro de seu conselho.",
+      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-09T22:25:22+00:00"
+    },
+    {
+      "id": "22ee95369db321cf",
+      "title": "Sem assinatura: Gemini libera recurso que lê e-mails e oferece resumo diário de graça",
+      "summary": "O Google começou a liberar gratuitamente o Daily Brief , recurso do Gemini que analisa informações pessoais do usuário e prepara um resumo diário com tarefas, compromissos e…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/sem-assinatura-gemini-libera-recurso-que-le-e-mails-e-oferece-resumo-diario-de-graca/",
+      "image": "https://tl.ctcdn.com.br/kp79Puv6SsAE4qsU1GYOFblNKGw=/0x0/filters:format(webp):quality(85)/2869f2d3-594c-4989-aa91-f7ceac6bedd0.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-09T22:02:00+00:00"
+    },
+    {
+      "id": "cb6883475c7deaa3",
+      "title": "Suno lança seu primeiro modelo musical de IA feito com ajuda da indústria fonográfica",
+      "summary": "O novo modelo musical v6 AI da Suno é o primeiro feito com o apoio da indústria fonográfica. Jack Brody, da Suno, disse ao The Verge que a v6 foi \"treinada desde o início, com um novo conjunto de…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Suno_v6_Main.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-09T21:42:19+00:00"
+    },
+    {
+      "id": "ed4c714c44aa7564",
+      "title": "A descoberta matemática astuta da OpenAI causa arrepios na academia",
+      "summary": "O anúncio da OpenAI na terça-feira de que resolveu um dos lendários problemas do Prémio Milénio da matemática deveria ter sido um momento de triunfo. O resultado é inegável…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292626872.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-09T21:16:34+00:00"
+    },
+    {
+      "id": "4ba6303c5d66d7f9",
+      "title": "Ladrões de IA: hackers roubam contas do Claude e drenam assinaturas no sigilo",
+      "summary": "Criminosos estão usando malwares do tipo infostealer para roubar sessões de usuários do Claude, IA da Anthropic, e gastar os créditos de assinaturas pagas sem que as vítimas…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/ladroes-de-ia-hackers-roubam-contas-do-claude-e-drenam-assinaturas-no-sigilo/",
+      "image": "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-09T21:06:00+00:00"
+    },
+    {
+      "id": "89425ac7ba0804d1",
+      "title": "Arm revela nova CPU e GPU para rodar IA e jogos no celular",
+      "summary": "CSS for Mobile 2 combina novos componentes de hardware com acelerados de inteligência artificial para melhorar gráficos e desempenho. Arm revela nova CPU e GPU para rodar IA e…",
+      "link": "https://tecnoblog.net/noticias/arm-revela-nova-cpu-e-gpu-para-rodar-ia-e-jogos-no-celular/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/css-for-mobile-2-1400x788-1-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-09T20:48:59+00:00"
+    },
+    {
+      "id": "7991d7bc4b787f58",
+      "title": "Read the Apple document explaining how new listening features still protect your privacy",
+      "summary": "No evento de lançamento do iPhone Duo na quarta-feira, a Apple anunciou vários novos recursos Siri AI Audio Intelligence, incluindo Siri Recap, Live Rewind, Sound Recognition e Music…",
+      "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-audio-intelligence-recap-wide.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-09T20:44:43+00:00"
+    },
     {
       "id": "b50c82066bb72ad7",
       "title": "Os novos recursos de IA do Apple Watch estão normalizando a ideia de que a tecnologia está sempre ouvindo",
@@ -388,6 +520,17 @@
       "published_at": "2026-09-09T13:00:00+00:00"
     },
     {
+      "id": "a7c183de5112de47",
+      "title": "A janela da política de IA está aberta. Precisamos agir.",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "link": "https://openai.com/index/ai-policy-window",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-09T13:00:00+00:00"
+    },
+    {
       "id": "209e9ecb3c6a604f",
       "title": "Instacart lança um assistente de compras de supermercado com IA chamado Clementine",
       "summary": "Instacart é o aplicativo mais recente a incorporar um assistente de IA conversacional em sua plataforma.",
@@ -507,6 +650,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-09T11:00:10+00:00"
+    },
+    {
+      "id": "333ccaae81484d3a",
+      "title": "GPT-6 Astra: A próxima geração em inteligência para o trabalho",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-09T11:00:00+00:00"
     },
     {
       "id": "b59bd85906ce194e",
@@ -837,160 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-08T18:54:05+00:00"
-    },
-    {
-      "id": "3399a8de40645bdb",
-      "title": "GPT-6 Astra: a ‘era da AGI’ começou mesmo?",
-      "summary": "Até que ponto o GPT-6 Astra é melhor que o GPT-5.6 Sol? É AGI mesmo ou jogada de marketing? Especialista em IA que testou o modelo responde O post GPT-6 Astra: a ‘era da AGI’…",
-      "link": "https://olhardigital.com.br/2026/09/08/inteligencia-artificial/gpt-6-astra-a-era-da-agi-comecou-mesmo/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Infografico-GPT-Sol-e-GPT-Astra-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-08T18:43:58+00:00"
-    },
-    {
-      "id": "72138828fb0701ac",
-      "title": "“Esta é a IA que os homens realmente usam”: meta-anúncios empurravam aplicativos que nudificavam adolescentes reais",
-      "summary": "A Meta arrastou-se na remoção de anúncios que nudificavam as fotos de meninas no Instagram.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1975339882-500x500-1788891021.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-08T18:43:09+00:00"
-    },
-    {
-      "id": "b4b0eaa7f41a7183",
-      "title": "A atualização do modelo meteorológico de IA do Google melhora a precisão das previsões",
-      "summary": "Tal como os modelos meteorológicos tradicionais, beneficia de um conjunto alargado de dados.",
-      "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-85757697-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-08T18:00:56+00:00"
-    },
-    {
-      "id": "62d9d8572d5c7fcb",
-      "title": "OpenAI lutou sujo em problemas de matemática para fazer carreira, diz matemático da NYU",
-      "summary": "Há uma recompensa de US$ 1 milhão para a primeira pessoa que fornecer uma solução para o problema de existência e suavidade de Navier-Stokes.",
-      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-08T17:32:15+00:00"
-    },
-    {
-      "id": "3c847c358ea6854f",
-      "title": "Usuários avançados de IA afirmam que a Anthropic os enganou com assinaturas e estão levando isso a tribunal",
-      "summary": "A Anthropic diz que usuários avançados são fundamentais para seus negócios – ela os prioriza mesmo quando isso significa cortar outros aplicativos populares, como o OpenClaw. Mas alguns destes mesmos…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-08T17:27:31+00:00"
-    },
-    {
-      "id": "503e9c2326e78f3e",
-      "title": "Como o GPT-5.6 Sol ajuda a realizar experimentos de computação quântica",
-      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "link": "https://openai.com/index/codex-quantum-computing-experiments",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-08T17:00:00+00:00"
-    },
-    {
-      "id": "91a0d6e6254c5598",
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-08T16:20:31+00:00"
-    },
-    {
-      "id": "5cbc2b053c6f7145",
-      "title": "A Patagônia tem o que os data centers de IA desejam, incluindo nenhuma resistência até agora",
-      "summary": "A Patagônia argentina está chamando a atenção como um possível local para grandes data centers de IA. O artigo A Patagônia tem o que os data centers de IA desejam, incluindo nenhuma resistência até agora…",
-      "link": "https://the-decoder.com/patagonia-has-what-ai-data-centers-want-including-no-resistance-so-far/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/Patagonia-Datacenter.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-08T15:16:47+00:00"
-    },
-    {
-      "id": "f5e00b02f1403855",
-      "title": "Trend dos anos 80: aprenda a criar sua foto com visual da época",
-      "summary": "Já imaginou como seria uma foto sua nos anos 80 ? É justamente isso que a nova trend das redes sociais tenta recriar com ajuda da inteligência artificial (IA). A partir de uma…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/trend-dos-anos-80-aprenda-a-criar-sua-foto-com-visual-da-epoca/",
-      "image": "https://tl.ctcdn.com.br/6ioFb2zkcroG1yWpakHwP8wglTI=/0x0/filters:format(webp):quality(85)/6083c388-d408-47a4-9a09-e16594183c26.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-08T15:13:00+00:00"
-    },
-    {
-      "id": "c3c381b2ec68ab9c",
-      "title": "ASML bloqueia TSMC, Samsung e Intel enquanto a Huawei corre para quebrar seu controle",
-      "summary": "ASML conquistou Samsung, TSMC e Intel para mudar para máscaras fotográficas maiores, o que deve aumentar o rendimento de suas mais novas máquinas EUV em 40%. Enquanto isso, a Huawei está…",
-      "link": "https://the-decoder.com/asml-locks-in-tsmc-samsung-and-intel-while-huawei-races-to-break-its-grip/",
-      "image": "https://the-decoder.com/wp-content/uploads/2024/08/asml_highna_cleanroom_veldhoven_067.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-08T15:11:59+00:00"
-    },
-    {
-      "id": "47690fe8e1050277",
-      "title": "O Chrome agora envia atualizações a cada 2 semanas, à medida que a IA muda o cenário de segurança",
-      "summary": "O Google está acelerando o cronograma de lançamento do Chrome para enviar patches de segurança e novos recursos com mais rapidez.",
-      "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-08T15:04:09+00:00"
-    },
-    {
-      "id": "b09701b740e1a4c4",
-      "title": "Meta descarta o uso de IA das avaliações de desempenho dos engenheiros após o tiro sair pela culatra \"tokenmaxxing\"",
-      "summary": "A Meta não julgará mais seus engenheiros pelo quanto eles usam ferramentas de IA. O artigo Meta elimina o uso de IA das análises de desempenho dos engenheiros depois que o tiro saiu pela culatra de \"tokenmaxxing\"…",
-      "link": "https://the-decoder.com/meta-drops-ai-usage-from-engineer-performance-reviews-after-tokenmaxxing-backfires/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/meta_AI_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-08T14:27:40+00:00"
-    },
-    {
-      "id": "5cbcf08e288841ac",
-      "title": "Segurança para quem? Recusando o subconjunto correto de um tópico, não o tópico inteiro",
-      "summary": "",
-      "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-08T14:23:07+00:00"
-    },
-    {
-      "id": "ccfcc745e9666eec",
-      "title": "Uso diário de IA pode afetar o desempenho escolar, diz OCDE",
-      "summary": "Estudo da OCDE revela que usar IA diariamente nas tarefas escolares reduz as notas no Pisa e afeta o aprendizado dos estudantes O post Uso diário de IA pode afetar o desempenho…",
-      "link": "https://olhardigital.com.br/2026/09/08/inteligencia-artificial/uso-diario-de-ia-pode-afetar-o-desempenho-escolar-diz-ocde/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/05/iStock-1254051142-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-08T14:20:40+00:00"
     }
   ]
 }
