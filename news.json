@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-09-10T20:27:13.529430+00:00",
+  "generated_at": "2026-09-11T03:05:01.930792+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "ebce633ca0ec1195",
+      "title": "Pentágono negocia empréstimo de R$ 26,25 bilhões para infraestrutura de IA",
+      "summary": "Fluidstack pode receber o maior financiamento já considerado pelo Office of Strategic Capital, em movimento que aproxima ainda mais o governo dos investimentos necessários para…",
+      "link": "https://olhardigital.com.br/2026/09/10/pro/pentagono-negocia-emprestimo-de-r-26-25-bilhoes-para-infraestrutura-de-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/servidor-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-11T01:48:36+00:00"
+    },
+    {
+      "id": "9c6bf9481979f92c",
+      "title": "Califórnia aprova novas leis para proteger crianças na internet",
+      "summary": "Gavin Newsom sancionou 13 projetos voltados à segurança de menores, incluindo restrições a recursos considerados “viciantes” nas redes sociais e novas regras para chatbots de IA O…",
+      "link": "https://olhardigital.com.br/2026/09/10/pro/california-aprova-novas-leis-para-proteger-criancas-na-internet/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/crianca_celular-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-11T01:27:17+00:00"
+    },
+    {
+      "id": "978a7c9b25ccbbd2",
+      "title": "OpenAI pede regras obrigatórias de segurança para IA nos EUA",
+      "summary": "Empresa quer testes, avaliações independentes, proteção contra ataques e comunicação obrigatória de incidentes graves; mudança ocorre após agentes de IA apresentarem…",
+      "link": "https://olhardigital.com.br/2026/09/10/inteligencia-artificial/openai-pede-regras-obrigatorias-de-seguranca-para-ia-nos-eua/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-OpenAI-AGI-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-11T01:06:26+00:00"
+    },
+    {
+      "id": "20a1af01355d809b",
+      "title": "Pesquisadores da Anthropic fazem alerta assustador: IA pode levar à extinção humana",
+      "summary": "Funcionários da empresa dizem que o desenvolvimento está rápido demais e que não existe plano científico capaz de lidar com riscos de uma IA que possa se autoaperfeiçoar; Elon…",
+      "link": "https://olhardigital.com.br/2026/09/10/inteligencia-artificial/pesquisadores-da-anthropic-fazem-alerta-assustador-ia-pode-levar-a-extincao-humana/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/elon_musk-scaled-e1778030209365-1024x658.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-11T00:28:01+00:00"
+    },
+    {
+      "id": "7495ccdd53a1febf",
+      "title": "Oracle supera expectativas com boom da IA e vê ações subirem 7% após balanço",
+      "summary": "Receita cresceu 30% no trimestre e carteira de contratos chegou a US$ 664 bilhões, enquanto demanda por computação para IA impulsiona negócios de nuvem O post Oracle supera…",
+      "link": "https://olhardigital.com.br/2026/09/10/pro/oracle-supera-expectativas-com-boom-da-ia-e-ve-acoes-subirem-7-apos-balanco/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/oracle_financ-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-10T23:39:06+00:00"
+    },
+    {
+      "id": "f29eb4c00a380da9",
+      "title": "Microsoft quer triplicar capacidade de data centers para dar conta da IA",
+      "summary": "Empresa planeja elevar capacidade global de cerca de 12 para mais de 38 gigawatts em seis anos após falta de servidores fazê-la perder negócios de IA e computação em nuvem O post…",
+      "link": "https://olhardigital.com.br/2026/09/10/pro/microsoft-quer-triplicar-capacidade-de-data-centers-para-dar-conta-da-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/servidor-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-10T23:03:26+00:00"
+    },
+    {
+      "id": "38ab7e9c634a8b9b",
+      "title": "Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster",
+      "summary": "Production LLM applications rarely receive a question nobody has asked before. Support assistants and RAG pipelines field the same intents thousands of times a day, each phrased…",
+      "link": "https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-10T22:34:48+00:00"
+    },
+    {
+      "id": "1016f62edefb27e8",
+      "title": "NVIDIA Details BioNeMo Inference Runtime (BioIR): 2.90x Higher Boltz-2 Folding Throughput and 58.5K Residues per GPU-Hour on 8xH100",
+      "summary": "NVIDIA has detailed BioNeMo Inference Runtime (BioIR), a Python library that accelerates biomolecular structure-prediction models on NVIDIA GPUs while staying in plain PyTorch. In…",
+      "link": "https://www.marktechpost.com/2026/09/10/nvidia-details-bionemo-inference-runtime-bioir-2-90x-higher-boltz-2-folding-throughput-and-58-5k-residues-per-gpu-hour-on-8xh100/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-10T21:57:06+00:00"
+    },
+    {
+      "id": "ab2afd5299068837",
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-10T21:51:59+00:00"
+    },
+    {
+      "id": "3fd4da93fbe84f4d",
+      "title": "Por que os brasileiros estão trocando os aplicativos de lojas por conversas no WhatsApp?",
+      "summary": "Esqueça a ideia de que o WhatsApp é apenas um canal de atendimento ou uma ferramenta para disparar cupons de desconto. Impulsionado pela Inteligência Artificial, o aplicativo está…",
+      "link": "https://canaltech.com.br/mercado/por-que-os-brasileiros-estao-trocando-os-aplicativos-de-lojas-por-conversas-no-whatsapp/",
+      "image": "https://tl.ctcdn.com.br/insPvsqIqe3qkh6_bOIvHr_-Wr8=/0x0/filters:format(webp):quality(85)/572b6547-c077-4c3c-9d0c-8c08fe8cb597.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-10T21:43:19+00:00"
+    },
+    {
+      "id": "ff9487323f0f680e",
+      "title": "OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call",
+      "summary": "OpenAI has released the Agents API in public beta. It gives developers the same harness and infrastructure that run Codex. OpenAI hosts and maintains the harness. Developers run…",
+      "link": "https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-10T21:21:58+00:00"
+    },
+    {
+      "id": "54827c4e6e1210d7",
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-10T20:59:51+00:00"
+    },
+    {
+      "id": "69775b3cf315b902",
+      "title": "O que é SynthID? Conheça a marca d’água para conteúdos de IA",
+      "summary": "O SynthID permite que softwares identifiquem conteúdos gerados por inteligência artificial com precisão, mesmo após alterações O que é SynthID? Conheça a marca d’água para…",
+      "link": "https://tecnoblog.net/responde/o-que-e-synthid-conheca-a-marca-dagua-para-conteudos-de-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/synthid-01-edited-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-10T20:58:51+00:00"
+    },
+    {
+      "id": "43169485cbc70755",
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space…",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-10T20:57:30+00:00"
+    },
     {
       "id": "17e434cbaab32a98",
       "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
@@ -454,10 +608,10 @@
       "published_at": "2026-09-10T00:00:37+00:00"
     },
     {
-      "id": "b8a75fb67d817922",
-      "title": "Crie experiências de voz mais naturais com GPT‑Live‑1 na API",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "id": "b32e9b8471353987",
+      "title": "Introducing the Agents API",
+      "summary": "Crie e inicie agentes em nuvem com a API Agents, um serviço gerenciado desenvolvido pelo Codex para orquestração, sessões de longa duração e uso de ferramentas.",
+      "link": "https://openai.com/index/introducing-the-agents-api",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -465,10 +619,10 @@
       "published_at": "2026-09-10T00:00:00+00:00"
     },
     {
-      "id": "b32e9b8471353987",
-      "title": "Introducing the Agents API",
-      "summary": "Crie e inicie agentes em nuvem com a API Agents, um serviço gerenciado desenvolvido pelo Codex para orquestração, sessões de longa duração e uso de ferramentas.",
-      "link": "https://openai.com/index/introducing-the-agents-api",
+      "id": "b8a75fb67d817922",
+      "title": "Crie experiências de voz mais naturais com GPT‑Live‑1 na API",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -837,160 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-09-09T16:00:00+00:00"
-    },
-    {
-      "id": "82b8bf7db8ec7233",
-      "title": "Recriando uma história de amor de 70 anos quadro a quadro",
-      "summary": "Um casal de idosos sentado em uma sala de cinema. Sobrepostos estão \"Teulluride Film Festival\" e \"Love, Rendered\"",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-09T16:00:00+00:00"
-    },
-    {
-      "id": "46660cb2ea4362f6",
-      "title": "IBM lança modelo SOTA Granite Time Series PatchTST-FM-r2 com licença comercial",
-      "summary": "",
-      "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-09T15:36:24+00:00"
-    },
-    {
-      "id": "6ec8837149a4a9d4",
-      "title": "Comida criada por algoritmo: a IA já está na indústria de alimentos",
-      "summary": "A inteligência artificial já testa novas combinações de ingredientes e até tenta reproduzir sabores conhecidos, como o do Big Mac O post Comida criada por algoritmo: a IA já está…",
-      "link": "https://olhardigital.com.br/2026/09/09/inteligencia-artificial/comida-criada-por-algoritmo-a-ia-ja-esta-na-industria-de-alimentos/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/receitas-geradas-por-IA-1024x559.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-09T15:18:41+00:00"
-    },
-    {
-      "id": "c0b0be2741530cbb",
-      "title": "O assistente de IA viral Instinct agora tem seu próprio endereço de e-mail",
-      "summary": "O novo recurso de e-mail do Instinct permite que o agente de IA crie e gerencie contas, entre em contato com empresas, lide com solicitações de suporte e faça mais em nome dos usuários.",
-      "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-09T15:13:12+00:00"
-    },
-    {
-      "id": "59cd89448bb04161",
-      "title": "‘Jogando com nossas vidas’: pesquisador antrópico desiste e alerta contra o autoaperfeiçoamento da IA",
-      "summary": "O pesquisador antrópico Jacob Coxon renunciou devido aos temores de extinção da IA, pedindo acordos de ritmo entre laboratórios.",
-      "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-09T15:02:47+00:00"
-    },
-    {
-      "id": "6a1091af6b077294",
-      "title": "Aquecedor da Xiaomi quer acabar com os segundos de água fria no banho",
-      "summary": "Sabe quando você vai tomar banho e precisa esperar um tempo de água fria antes de a temperatura ideal chegar? A Xiaomi apresentou na China um novo aquecedor a gás inteligente que…",
-      "link": "https://canaltech.com.br/produtos/aquecedor-da-xiaomi-quer-acabar-com-os-segundos-de-agua-fria-no-banho/",
-      "image": "https://tl.ctcdn.com.br/q28Fjbt50TFJIHKnUIPjjoWjaB4=/0x0/filters:format(webp):quality(85)/86548f39-bd5a-4804-9c5f-2a75ca6c779f.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-09T15:00:59+00:00"
-    },
-    {
-      "id": "9aea9dc83ca674cd",
-      "title": "Shipt se torna o mais recente aplicativo de entrega com um assistente de compras de IA",
-      "summary": "Os usuários podem pedir ao assistente para fazer coisas como \"Criar um carrinho para minha porta traseira de sábado para 25 pessoas e incluir alguns itens de brunch\" ou \"Construir um carrinho para merenda escolar fácil e…",
-      "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-09T14:51:45+00:00"
-    },
-    {
-      "id": "d1ea6002b0157062",
-      "title": "Os gastos com IA por funcionário caíram nas principais empresas em agosto – crise de verão ou um sinal de alerta?",
-      "summary": "Queda nos custos dos tokens, modelos mais baratos e menos gastos por funcionário: a adoção da IA ​​não está acontecendo como os hiperescaladores esperavam.",
-      "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-09T14:18:34+00:00"
-    },
-    {
-      "id": "792d1cdaf8c14ce9",
-      "title": "Brasil dá passo para ter novo \"WhatsApp do Governo\": conheça mensageiro oficial",
-      "summary": "A Associação Brasileira de Inteligência (Abin) publicou a regulamentação para uso do Msg Gov , aplicativo estatal de mensagens para servidores públicos federais e integrado ao…",
-      "link": "https://canaltech.com.br/apps/brasil-cria-regras-para-novo-whatsapp-do-governo-conheca-mensageiro-oficial/",
-      "image": "https://tl.ctcdn.com.br/C_M-1PcFHQBstjRXr6r6R_PwBko=/0x0/filters:format(webp):quality(85)/3a6ebabb-8e8f-4bb9-b82d-258e2095cf1e.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-09T14:18:00+00:00"
-    },
-    {
-      "id": "e0f1542255284880",
-      "title": "Suno lança modelos musicais v6 desenvolvidos com Warner, BMG e Believe",
-      "summary": "Suno revelou uma nova geração de modelos musicais de IA, v6, em três versões, construída em conjunto com Warner Music Group, BMG e Believe. Todos os modelos mais antigos estão sendo desligados. As músicas podem…",
-      "link": "https://the-decoder.com/suno-launches-v6-music-models-built-with-warner-bmg-and-believe/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/Suno_v6_Main.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-09T14:06:57+00:00"
-    },
-    {
-      "id": "e54f18cd5720cf55",
-      "title": "O AlphaGenome Atlas da Deepmind mapeia todas as possíveis alterações de DNA no genoma humano",
-      "summary": "O Google Deepmind usou o AlphaGenome Atlas para prever o que cada uma das cerca de nove bilhões de possíveis alterações de uma única letra no genoma humano poderia fazer. O conjunto de dados abrange um ...",
-      "link": "https://the-decoder.com/deepminds-alphagenome-atlas-maps-every-possible-dna-change-in-the-human-genome/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/AlphaGenome-Atlas-title-scaled.webp",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-09T13:40:40+00:00"
-    },
-    {
-      "id": "a7c183de5112de47",
-      "title": "A janela da política de IA está aberta. Precisamos agir.",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-      "link": "https://openai.com/index/ai-policy-window",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-09T13:00:00+00:00"
-    },
-    {
-      "id": "2a9fa3a0339a5263",
-      "title": "A nova tecnologia de IA do Amazon Prime Video combina lábios com áudio dublado",
-      "summary": "O Prime Video da Amazon está lançando um novo recurso alimentado por IA que alinha a boca de um ator com áudio “dublado por humanos”. O recurso está disponível apenas com a dublagem em inglês do…",
-      "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/maxton-hall.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-09T13:00:00+00:00"
-    },
-    {
-      "id": "209e9ecb3c6a604f",
-      "title": "Instacart lança um assistente de compras de supermercado com IA chamado Clementine",
-      "summary": "Instacart é o aplicativo mais recente a incorporar um assistente de IA conversacional em sua plataforma.",
-      "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-09T13:00:00+00:00"
     }
   ]
 }
