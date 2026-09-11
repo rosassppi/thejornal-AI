@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-09-11T10:38:00.380365+00:00",
+  "generated_at": "2026-09-11T15:53:07.935135+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "9b4ddc9e50ca3ef1",
+      "title": "Por dentro do Launchpad: como a Hotmart usou time enxuto e IA para criar plataforma de apps com checkout global",
+      "summary": "Criar um aplicativo com Inteligência Artificial generativa tornou-se uma tarefa simples em 2026. O verdadeiro gargalo tecnológico, no entanto, está em transformar essa linha de…",
+      "link": "https://canaltech.com.br/mercado/por-dentro-do-launchpad-como-a-hotmart-usou-time-enxuto-e-ia-para-criar-plataforma-de-apps-com-checkout-global/",
+      "image": "https://tl.ctcdn.com.br/hlKZGLv4XiJ5dPFs4WK0n6jkbGM=/0x0/filters:format(webp):quality(85)/20fc476c-0af7-47bd-9926-85c2c0e8d2a8.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-11T15:45:03+00:00"
+    },
+    {
+      "id": "4f33cb2d4aa2df21",
+      "title": "Meta diz que está mudando as sugestões de IA após fazer perguntas pessoais invasivas",
+      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as…",
+      "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta-invasive-qs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-11T14:25:21+00:00"
+    },
+    {
+      "id": "1c03e66a15c38a2b",
+      "title": "Anthropic identifica uso do Claude em armas e ciberataques e treinamento de IAs chinesas",
+      "summary": "Anthropic bloqueou usos do Claude ligados a armas biológicas, ataques à Ucrânia e tentativas chinesas de extrair capacidades O post Anthropic identifica uso do Claude em armas e…",
+      "link": "https://olhardigital.com.br/2026/09/11/inteligencia-artificial/anthropic-identifica-uso-do-claude-em-armas-e-ciberataques-e-treinamento-de-ias-chinesas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/ia-consciente-1024x428.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-11T14:24:47+00:00"
+    },
+    {
+      "id": "55d99e8368144aac",
+      "title": "Claude “dedura” países que tentaram usar IA para criar armas biológicas",
+      "summary": "A Anthropic identificou cinco casos em que pesquisadores usaram o Claude para atividades de pesquisa biológica que poderiam contribuir para o desenvolvimento de armas biológicas …",
+      "link": "https://canaltech.com.br/inteligencia-artificial/claude-dedura-paises-que-tentaram-usar-ia-para-criar-armas-biologicas/",
+      "image": "https://tl.ctcdn.com.br/gHCvOfhTjnp7FGh19KCRapwJsQE=/0x0/filters:format(webp):quality(85)/a09dc384-06e9-4eb4-812f-d841448b3bb0.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-11T14:00:02+00:00"
+    },
+    {
+      "id": "38d5a59c78de047c",
+      "title": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
+      "summary": "Anthropic's new threat intelligence report documents eight months of Claude abuse. Chinese AI labs like Alibaba's Qwen team, DeepSeek, and Moonshot AI relayed requests en masse or…",
+      "link": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/04/anthropic_Cybersecurity-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-11T13:50:28+00:00"
+    },
+    {
+      "id": "762f1911d5427611",
+      "title": "Claude users found ways around safeguards for bioweapons research",
+      "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
+      "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-500x500-1773164045.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-11T13:02:35+00:00"
+    },
+    {
+      "id": "e3c6c4ef909558f6",
+      "title": "Seu próximo personal shopper pode ser uma IA e o varejo já está se preparando",
+      "summary": "*Por Letícia Souza Durante mais de duas décadas, a jornada de compra no e-commerce seguiu um roteiro previsível: o consumidor digitava uma palavra-chave no buscador, navegava por…",
+      "link": "https://canaltech.com.br/mercado/seu-proximo-personal-shopper-pode-ser-uma-ia-e-o-varejo-ja-esta-se-preparando/",
+      "image": "https://tl.ctcdn.com.br/o8XRcCNB48Er06nVoJdhRelJnZM=/0x0/filters:format(webp):quality(85)/85ef6a81-574a-4e4e-8301-52962924ed1b.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-11T12:29:39+00:00"
+    },
+    {
+      "id": "c7381370e93085a3",
+      "title": "Novo tablet top da Samsung pode ficar mais caro por causa da IA",
+      "summary": "O Galaxy Tab S12 Ultra pode ficar mais caro por causa da alta nos preços das memórias, cenário que vem sendo associado ao avanço da inteligência artificial e à maior demanda por…",
+      "link": "https://canaltech.com.br/tablet/novo-tablet-top-da-samsung-pode-ficar-mais-caro-por-causa-da-ia/",
+      "image": "https://tl.ctcdn.com.br/dw8FyXqOgYswwsT5YyNlWESFzr0=/0x0/filters:format(webp):quality(85)/86fd3b0c-c380-4d37-bf2a-1444eb910f2d.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-11T12:26:39+00:00"
+    },
+    {
+      "id": "77ad8bbabb6c0e81",
+      "title": "Igual o ChatGPT, Gemini agora também tem um app para Windows",
+      "summary": "O Google lançou oficialmente o aplicativo Gemini para Windows, levando o assistente de inteligência artificial para uma experiência nativa no computador. O app já está disponível…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/igual-o-chatgpt-gemini-agora-tambem-tem-um-app-para-windows/",
+      "image": "https://tl.ctcdn.com.br/bdmHvi05hRfx8oHMnETDk1nVsc8=/0x0/filters:format(webp):quality(85)/b92fa583-0522-43cb-909b-96b77ee2ee8c.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-11T12:19:43+00:00"
+    },
+    {
+      "id": "aa1b2af38d6959ad",
+      "title": "OpenAI floats a shared AI slowdown, takes it to Congress",
+      "summary": "OpenAI wants to know from members of Congress whether an industry-wide slowdown in AI development would be legal, according to several people familiar with the matter. The article…",
+      "link": "https://the-decoder.com/openai-floats-a-shared-ai-slowdown-takes-it-to-congress/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_ceo_sam_altman_at_stanford_talk-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-11T11:59:19+00:00"
+    },
+    {
+      "id": "4a0f687dcd991f6c",
+      "title": "Anthropic diz que bloqueou possível criação de arma biológica com Claude",
+      "summary": "Informação consta no último relatório de riscos da empresa. Medida é anunciada após críticas de ex-funcionário, que aponta irresponsabilidade no desenvolvimento de IA. Anthropic…",
+      "link": "https://tecnoblog.net/noticias/anthropic-diz-que-bloqueou-possivel-criacao-de-arma-biologica-com-claude/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2018/10/capa-tbr-ia-2-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-11T10:36:38+00:00"
+    },
     {
       "id": "ff9377a3aac85d55",
       "title": "Resumo do OD: 11 de setembro; alerta da Anthropic; duendes vermelhos no céu",
@@ -870,127 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-09T20:01:00+00:00"
-    },
-    {
-      "id": "208efcf9ed53e94d",
-      "title": "A Anthropic construiu um modelo econômico que enquadra as previsões de emprego mais sombrias de seu CEO como um cenário atípico",
-      "summary": "A Anthropic publicou um modelo econômico com três cenários para a economia dos EUA até 2030. No cenário extremo, a produção dobra a cada 4,5 anos e os trabalhadores do conhecimento…",
-      "link": "https://the-decoder.com/anthropic-built-an-economic-model-that-frames-its-ceos-bleakest-job-forecasts-as-an-outlier-scenario/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-09T19:39:27+00:00"
-    },
-    {
-      "id": "ff5257d65fbddcf3",
-      "title": "AirPods 5 trazem cancelamento de ruído melhorado e IA",
-      "summary": "Novos fones de ouvido da Apple aprimoram a reprodução de som com tecnologias de ANC. Preços partem de R$ 1.499. AirPods 5 trazem cancelamento de ruído melhorado e IA",
-      "link": "https://tecnoblog.net/noticias/apple-anuncia-airpods-5-com-cancelamento-de-ruido-melhorado-e-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/apple-event-september-9-37-31-screenshot-1-340x191-1.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-09T19:33:49+00:00"
-    },
-    {
-      "id": "9fd1a6e5e387549c",
-      "title": "iOS 27 e versão da Siri com IA chegam em 14 de setembro",
-      "summary": "Update traz assistente reformulada em parceria com o Google, app próprio, recursos de visão computacional na câmera e mais. iOS 27 e versão da Siri com IA chegam em 14 de setembro",
-      "link": "https://tecnoblog.net/noticias/novo-ios-27-e-siri-ai-chegam-em-14-de-setembro/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/12/capas-apple-06-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-09T19:31:45+00:00"
-    },
-    {
-      "id": "97571935d7c661c2",
-      "title": "O novo modo de câmera do iPhone da Apple promete provar que sua foto não é IA",
-      "summary": "A Apple está lançando uma nova maneira de provar que a foto que você tirou não foi manipulada pela IA. Um novo recurso, chamado “Imagem de referência”, chegará com a linha do iPhone 18 Pro mais tarde…",
-      "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0023.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-09T19:30:12+00:00"
-    },
-    {
-      "id": "4dad6c76fb4e3f92",
-      "title": "Magalu Cloud anuncia IA mais barata e parceria com Alibaba Cloud",
-      "summary": "A Magalu Cloud registrou crescimento de mais de dez vezes na receita obtida com clientes externos desde o início de 2025 e anunciou novos produtos voltados a inteligência…",
-      "link": "https://canaltech.com.br/mercado/magalu-cloud-anuncia-ia-mais-barata-e-parceria-com-alibaba-cloud/",
-      "image": "https://tl.ctcdn.com.br/tHFfIAYL97ri6PdZjwf7g9t_zN8=/0x0/filters:format(webp):quality(85)/6efc32dd-283f-4ee0-96ae-19e58e6e9300.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-09T19:30:04+00:00"
-    },
-    {
-      "id": "0502e68d1aca1aeb",
-      "title": "A dobradiça do novo telefone dobrável da Apple foi construída com IA",
-      "summary": "A Apple diz que usou IA e impressão 3D no processo de fabricação de seu tão aguardado telefone dobrável.",
-      "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-09T19:21:48+00:00"
-    },
-    {
-      "id": "3ae60be41887c3ff",
-      "title": "Hora de renovar o escritório: veja uma seleção de impressoras em promoção na Amazon",
-      "summary": "Se você está precisando de uma impressora nova — seja para o home office, para os estudos ou para o dia a dia em casa —, a Amazon reúne agora algumas opções interessantes com boa…",
-      "link": "https://olhardigital.com.br/2026/09/09/reviews/hora-de-renovar-o-escritorio-veja-uma-selecao-de-impressoras-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-09T18:40:00+00:00"
-    },
-    {
-      "id": "85966a77f4af9b27",
-      "title": "Harvey atinge avaliação de US$ 15,5 bilhões, meses depois de atingir US$ 11 bilhões",
-      "summary": "A startup legal de IA e queridinha do capital de risco quase dobrou sua avaliação em nove meses.",
-      "link": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-09T18:34:24+00:00"
-    },
-    {
-      "id": "af23826afbbd4e46",
-      "title": "Apple lança Watch Series 12 e Watch Ultra 4 com uma atualização de IA que pode recapitular o seu dia",
-      "summary": "Mais notavelmente, a Apple está mirando na onda crescente de wearables de IA com novos recursos de “Inteligência de Áudio” que permitem retroceder momentos e lembrar detalhes do dia a dia…",
-      "link": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-09T18:08:46+00:00"
-    },
-    {
-      "id": "ebf88cd57f03a10c",
-      "title": "A Apple tem uma nova maneira de provar que as fotos do seu iPhone não são lixo de IA",
-      "summary": "A Apple introduziu a imagem de referência da Apple para ajudar os usuários a determinar se as fotos foram editadas, incluindo alterações feitas pela IA.",
-      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-09T18:08:35+00:00"
-    },
-    {
-      "id": "3157b30d57211b51",
-      "title": "Apple mostra AirPods 5 com cancelamento de ruído ativo aprimorado",
-      "summary": "Os AirPods 5 suportam melhor cancelamento de ruído, Siri AI e oferecem controles de volume na haste.",
-      "link": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-09T18:06:40+00:00"
     }
   ]
 }
