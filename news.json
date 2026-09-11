@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-09-11T03:05:01.930792+00:00",
+  "generated_at": "2026-09-11T10:38:00.380365+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "ff9377a3aac85d55",
+      "title": "Resumo do OD: 11 de setembro; alerta da Anthropic; duendes vermelhos no céu",
+      "summary": "2.977 drones iluminaram o céu de Nova York, nos Estados Unidos, nesta quarta-feira (9) em homenagem às vítimas do 11/09/2001 O post Resumo do OD: 11 de setembro; alerta da…",
+      "link": "https://olhardigital.com.br/2026/09/11/pro/resumo-do-od-11-de-setembro-alerta-da-anthropic-duendes-vermelhos-no-ceu/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/meteoro-e-sprites-santa-maria-1024x539.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-11T10:04:01+00:00"
+    },
+    {
+      "id": "810ae5f0fe4696ef",
+      "title": "Class action lawsuit accuses Anthropic of overselling Claude subscriptions with deceptive usage multipliers",
+      "summary": "A class action lawsuit accuses Anthropic of misrepresenting how much Claude subscribers actually get to use the service. The article Class action lawsuit accuses Anthropic of…",
+      "link": "https://the-decoder.com/class-action-lawsuit-accuses-anthropic-of-overselling-claude-subscriptions-with-deceptive-usage-multipliers/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/anthropic_lawsuit.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-11T09:45:58+00:00"
+    },
+    {
+      "id": "fef215671e5c31b9",
+      "title": "The Mathematical AI Safety Institute wants to prove AI is safe the way cryptographers prove codes are unbreakable",
+      "summary": "Canadian mathematician Jacob Tsimerman, a fresh Fields Medal recipient, has announced the founding of the Mathematical A.I. Safety Institute (MAISI). The article The Mathematical…",
+      "link": "https://the-decoder.com/the-mathematical-ai-safety-institute-wants-to-prove-ai-is-safe-the-way-cryptographers-prove-codes-are-unbreakable/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/maisi.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-11T09:15:10+00:00"
+    },
+    {
+      "id": "714a56ccae247b18",
+      "title": "O acordo de livro de US$ 1,5 bilhão da Anthropic se transforma em caos enquanto autores e editores brigam para ver quem será pago",
+      "summary": "Authors and publishers fight over how to split Anthropic's $1.5 billion settlement, the largest copyright deal in US history. The article Anthropic's $1.5 billion book settlement…",
+      "link": "https://the-decoder.com/anthropics-1-5-billion-book-settlement-descends-into-chaos-as-authors-and-publishers-fight-over-who-gets-paid/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/anthropic_head_pattern.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-11T08:40:01+00:00"
+    },
+    {
+      "id": "5d825217b92188b8",
+      "title": "OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT",
+      "summary": "OpenAI is releasing the Agents API as a public beta. It lets developers build cloud agents that run autonomously for hours, execute code, and hand off tasks to sub-agents. There…",
+      "link": "https://the-decoder.com/openais-new-agents-api-gives-developers-the-infrastructure-behind-codex-and-chatgpt/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-11T08:11:46+00:00"
+    },
+    {
+      "id": "279b64b3a2273d04",
+      "title": "Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages",
+      "summary": "Cohere has released North Small Translate, an open-weight Mixture-of-Experts model built for machine translation across 50 languages. It uses 25B of its 218B parameters per token…",
+      "link": "https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-11T06:57:22+00:00"
+    },
+    {
+      "id": "e8b42945dec87c60",
+      "title": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration",
+      "summary": "Sakana AI has released Fugu Max and Fugu Ultra v2, 2 models built on the same learned orchestration architecture. Fugu Max routes tasks to lean open and specialized models…",
+      "link": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-11T06:34:39+00:00"
+    },
+    {
+      "id": "683d935c3022b513",
+      "title": "Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation",
+      "summary": "Google Research has released ToolGrad, an ACL 2026 Findings framework that inverts tool-use dataset generation: it builds a verified API chain first, then writes the matching user…",
+      "link": "https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-11T06:01:25+00:00"
+    },
     {
       "id": "ebce633ca0ec1195",
       "title": "Pentágono negocia empréstimo de R$ 26,25 bilhões para infraestrutura de IA",
@@ -111,6 +199,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-10T21:43:19+00:00"
+    },
+    {
+      "id": "baa39032259715dd",
+      "title": "Slack can now vibe-code interactive charts and reports inside chats",
+      "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce…",
+      "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-10T21:25:21+00:00"
     },
     {
       "id": "ff9487323f0f680e",
@@ -608,10 +707,10 @@
       "published_at": "2026-09-10T00:00:37+00:00"
     },
     {
-      "id": "b32e9b8471353987",
-      "title": "Introducing the Agents API",
-      "summary": "Crie e inicie agentes em nuvem com a API Agents, um serviço gerenciado desenvolvido pelo Codex para orquestração, sessões de longa duração e uso de ferramentas.",
-      "link": "https://openai.com/index/introducing-the-agents-api",
+      "id": "b8a75fb67d817922",
+      "title": "Crie experiências de voz mais naturais com GPT‑Live‑1 na API",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -619,10 +718,10 @@
       "published_at": "2026-09-10T00:00:00+00:00"
     },
     {
-      "id": "b8a75fb67d817922",
-      "title": "Crie experiências de voz mais naturais com GPT‑Live‑1 na API",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "id": "b32e9b8471353987",
+      "title": "Introducing the Agents API",
+      "summary": "Crie e inicie agentes em nuvem com a API Agents, um serviço gerenciado desenvolvido pelo Codex para orquestração, sessões de longa duração e uso de ferramentas.",
+      "link": "https://openai.com/index/introducing-the-agents-api",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -892,105 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-09T18:06:40+00:00"
-    },
-    {
-      "id": "3b97056609a31ec2",
-      "title": "Apple leva uma das maiores frustrações do ChatGPT para a IA do iPhone",
-      "summary": "A Apple confirmou nesta quarta-feira (9) que alguns recursos da Apple Intelligence terão limites de uso diário . A restrição vale para funções que dependem de modelos de IA…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/apple-leva-uma-das-maiores-frustracoes-do-chatgpt-para-a-ia-do-iphone/",
-      "image": "https://tl.ctcdn.com.br/stOAacogPuLsjpNs9Ohp2cn_WVQ=/0x0/filters:format(webp):quality(85)/55ecfd7d-e4c6-40cd-ba11-bc860fd3cb6a.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-09T18:05:48+00:00"
-    },
-    {
-      "id": "fca8fb5f5707f263",
-      "title": "Shopee derruba preço do Galaxy Fit3 e pulseira inteligente sai por R$ 176",
-      "summary": "A Samsung Galaxy Fit3 voltou a aparecer em uma faixa de preço bastante agressiva. A smartband está disponível por R$ 176,32 na Shopee, com o cupom exclusivo C4N4LT3CH0909PB . A…",
-      "link": "https://canaltech.com.br/smartwatch/shopee-derruba-preco-do-galaxy-fit3-e-pulseira-inteligente-sai-por-r-176/",
-      "image": "https://tl.ctcdn.com.br/dOv2SfoA-aXwmruHpFa-5uvFvdg=/0x0/filters:format(webp):quality(85)/8c7bc74b-1770-4365-961d-52f5a7fb756c.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-09T18:05:20+00:00"
-    },
-    {
-      "id": "cbea4f900ee4302f",
-      "title": "O CEO da Apple, John Ternus, diz que o melhor dispositivo de IA ainda é o iPhone",
-      "summary": "A empresa também argumentou que seus modelos no dispositivo oferecem mais privacidade aos consumidores.",
-      "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-09T17:36:05+00:00"
-    },
-    {
-      "id": "be07e88e346dd80a",
-      "title": "Microsoft tem novas regras de privacidade de IA para escolas",
-      "summary": "A Microsoft concordou com um conjunto de princípios de segurança e privacidade para IA nas escolas uma semana depois que dois grandes sistemas escolares anunciaram a proibição da IA ​​voltada para os alunos. Em um novo acordo com…",
-      "link": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332715/STK419_DEEPFAKE_CVIRGINIA_J.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-09T17:07:48+00:00"
-    },
-    {
-      "id": "3eb3e9557eb7038e",
-      "title": "Paul Christiano junta-se ao conselho da OpenAI Foundation",
-      "summary": "Paul Christiano se junta ao Conselho da Fundação OpenAI e ao seu Comitê de Segurança e Proteção, trazendo experiência em alinhamento, segurança e padrões de IA.",
-      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-09T17:00:00+00:00"
-    },
-    {
-      "id": "a579fccc1aba1528",
-      "title": "Pesquisador antrópico desiste com um aviso: o autoaperfeiçoamento da IA ​​poderia “matar todos nós”",
-      "summary": "“Nós realmente acreditamos sinceramente que a IA poderia matar todos os humanos!”",
-      "link": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-504013302-500x500-1788971361.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-09T16:59:40+00:00"
-    },
-    {
-      "id": "3e3015af9daa7691",
-      "title": "O sistema de genoma de IA do Google avalia todas as mudanças possíveis em uma base",
-      "summary": "A maioria das mudanças de base única no genoma humano não faz nada, mas algumas são significativas.",
-      "link": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2201567552-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-09T16:34:18+00:00"
-    },
-    {
-      "id": "a97299207117c9ae",
-      "title": "A superinteligência está chegando. Deveríamos permitir?",
-      "summary": "As empresas de IA têm falado sobre IA superinteligente como se fosse inevitável, mas incidentes de segurança recentes como a violação Hugging Face da OpenAI estão demonstrando o potencial…",
-      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-09T16:05:35+00:00"
-    },
-    {
-      "id": "73af7527f82e0ada",
-      "title": "Prepare-se para o jogo com novos recursos de futebol na Pesquisa",
-      "summary": "Um gráfico ilustrado contra um fundo verde vibrante com elementos do futebol americano, incluindo um troféu de ouro, um capacete azul, um apito prateado, uma bola de futebol, um mini…",
-      "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-09T16:00:00+00:00"
     }
   ]
 }
