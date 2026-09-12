@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-09-11T20:28:26.361575+00:00",
+  "generated_at": "2026-09-12T03:11:54.137772+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "968c32634dc2a1cb",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-14T00:00:00+00:00"
+    },
+    {
+      "id": "a3b847d833a63320",
+      "title": "Oracle vai gastar mais R$ 3,7 bilhões com cortes de funcionários",
+      "summary": "Empresa elevou para cerca de R$ 14,8 bilhões o custo previsto de seu plano de reestruturação, enquanto amplia investimentos para atender à demanda por IA O post Oracle vai gastar…",
+      "link": "https://olhardigital.com.br/2026/09/11/pro/oracle-vai-gastar-mais-r-3-7-bilhoes-com-cortes-de-funcionarios/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/12/oracle2-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-12T01:05:50+00:00"
+    },
+    {
+      "id": "619b81a6e8130b86",
+      "title": "Nvidia estuda investir R$ 53 bilhões no IPO da Anthropic",
+      "summary": "Fabricante de chips pode se tornar investidora-âncora da oferta, que pretende levantar até R$ 530 bilhões e avaliar a dona do Claude em cerca de R$ 10,6 trilhões O post Nvidia…",
+      "link": "https://olhardigital.com.br/2026/09/11/pro/nvidia-estuda-investir-r-53-bilhoes-no-ipo-da-anthropic/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/nvidia_logo-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-12T00:43:19+00:00"
+    },
+    {
+      "id": "ab983aa2b847ed80",
+      "title": "IAs acabando com a humanidade? Marketing ou risco real?",
+      "summary": "Pesquisadores das principais empresas e IA estão alertando para o risco cada vez maior de perdermos o controle da tecnologia O post IAs acabando com a humanidade? Marketing ou…",
+      "link": "https://olhardigital.com.br/2026/09/11/colunistas/ias-acabando-com-a-humanidade-marketing-ou-risco-real/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-12T00:19:23+00:00"
+    },
+    {
+      "id": "01148e207257a2b4",
+      "title": "Fora de controle? Agentes de IA da OpenAI teriam atacado outra plataforma antes do Hugging Face",
+      "summary": "Incidente de maio fez agentes criarem centenas de contas e enviarem arquivos em massa; pesquisadores dizem que ataque pode ter sido realizado durante um treinamento O post Fora de…",
+      "link": "https://olhardigital.com.br/2026/09/11/inteligencia-artificial/fora-de-controle-agentes-de-ia-da-openai-teriam-atacado-outra-plataforma-antes-do-hugging-face/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-OpenAI-AGI-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-11T23:34:13+00:00"
+    },
+    {
+      "id": "7f452d3805d7ed7a",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-11T22:58:17+00:00"
+    },
+    {
+      "id": "b3f6dacab6fd3f6e",
+      "title": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize",
+      "summary": "ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather than the answer it returns…",
+      "link": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-11T22:01:08+00:00"
+    },
+    {
+      "id": "48c327918174b15c",
+      "title": "Investigação revela fotos de abuso infantil no X e falhas graves no Grok",
+      "summary": "Uma investigação do jornal The New York Times identificou que o X ainda mostra imagens sexuais de menores de idade geradas por inteligência artificial , incluindo criações feitas…",
+      "link": "https://canaltech.com.br/internet-e-redes-sociais/investigacao-revela-fotos-de-abuso-infantil-no-x-e-falhas-graves-no-grok/",
+      "image": "https://tl.ctcdn.com.br/a1rbSjGNng-j7lT3LgnIGHDsFk8=/0x0/filters:format(webp):quality(85)/c7faf469-02ca-47c0-b586-2cf4f9f54895.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-11T22:00:00+00:00"
+    },
+    {
+      "id": "f5d30baf92301a7e",
+      "title": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills",
+      "summary": "Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades what Claude produced, and…",
+      "link": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-11T21:05:55+00:00"
+    },
+    {
+      "id": "2e05d244d39ddcf2",
+      "title": "Gemini chega ao Planilhas no celular para decifrar tabelas gigantes para você",
+      "summary": "O Google começou a liberar o Gemini no aplicativo Google Planilhas para Android. A ferramenta usa inteligência artificial para analisar grandes volumes de dados pelo celular, com…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-chega-ao-planilhas-no-celular-para-decifrar-tabelas-gigantes-para-voce/",
+      "image": "https://tl.ctcdn.com.br/x67sn5oyNL9JN9d2OS9Gut_qsOE=/0x0/filters:format(webp):quality(85)/53747657-4b3e-49ae-be7b-48177bbae2ef.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-11T21:02:00+00:00"
+    },
+    {
+      "id": "a061c44f7783dde2",
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options…",
+      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-11T20:59:47+00:00"
+    },
+    {
+      "id": "2084a3d93fa9f28f",
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-11T20:57:36+00:00"
+    },
+    {
+      "id": "136a4de1f8b5907b",
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25384193/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-11T20:44:02+00:00"
+    },
     {
       "id": "70d2b5e1fab497fa",
       "title": "Roundtables: Will AI really kill us all?",
@@ -177,6 +320,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-11T16:01:00+00:00"
+    },
+    {
+      "id": "4aeb82da9975e2f5",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-11T16:00:00+00:00"
     },
     {
       "id": "9b4ddc9e50ca3ef1",
@@ -837,160 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-10T13:45:32+00:00"
-    },
-    {
-      "id": "491264be95f25839",
-      "title": "Meat Proxy: porque usar IA todos os dias não significa maturidade para trabalhar com ela",
-      "summary": "Uma expressão provocativa começou a circular recentemente entre profissionais de tecnologia: meat proxy . O termo descreve a pessoa que recebe uma pergunta, leva essa pergunta a…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/meat-proxy-porque-usar-ia-todos-os-dias-nao-significa-maturidade-para-trabalhar-com-ela/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-10T13:05:18+00:00"
-    },
-    {
-      "id": "ed85932005214e6c",
-      "title": "O novo modelo Deepseek V4.1-Flash reduz as necessidades de memória para agentes de IA",
-      "summary": "Deepseek lança V4.1-Flash, um modelo multimodal com 552 bilhões de parâmetros que reduz a memória cache KV para um quarto de seu antecessor. No benchmark de codificação DeepSWE,…",
-      "link": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/deepseek_red_whale.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-10T12:40:51+00:00"
-    },
-    {
-      "id": "04a9b520aa88a3e8",
-      "title": "Muse pode comprar, escrever e-mails e negociar preços para usuários, tudo através do WhatsApp",
-      "summary": "Meta revela Muse, um agente de IA que reserva viagens, faz compras e envia e-mails pelo WhatsApp, completo com um recurso de pagamento que funciona por meio do Stripe's Link. Isso coloca…",
-      "link": "https://the-decoder.com/muse-can-shop-write-emails-and-negotiate-prices-for-users-all-through-whatsapp/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/muse-01-hero.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-10T12:27:18+00:00"
-    },
-    {
-      "id": "bd9c77298cb45e26",
-      "title": "Nvidia e Palantir se unem para administrar cadeias de suprimentos com IA, começando com a operação de um milhão de peças da própria Nvidia",
-      "summary": "Nvidia e Palantir querem administrar cadeias de suprimentos com IA. O artigo Nvidia e Palantir se unem para administrar cadeias de suprimentos com IA, começando com a operação de um milhão de peças da própria Nvidia…",
-      "link": "https://the-decoder.com/nvidia-and-palantir-team-up-to-run-supply-chains-with-ai-starting-with-nvidias-own-million-part-operation/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/palantir-nvidia-logo-teaser.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-10T12:23:16+00:00"
-    },
-    {
-      "id": "e29cd346e532312e",
-      "title": "Os matemáticos querem provas de que a OpenAI não usou seu trabalho",
-      "summary": "Outro pesquisador está desafiando a OpenAI sobre os dados que impulsionam sua gama cada vez mais impressionante de descobertas matemáticas. Poucos dias depois de surgir uma discussão acirrada sobre se…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236544323.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-10T11:00:57+00:00"
-    },
-    {
-      "id": "321672b4ff708a9d",
-      "title": "Alimentar a IA é um problema de arquitetura",
-      "summary": "Em 22 de julho de 2026, uma falha na linha de transmissão em Ashburn, Virgínia – o coração do maior cluster de data center do mundo – derrubou mais de 3 gigawatts de carga da rede em…",
-      "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ON-contributed-image.jpg?w=840",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-10T11:00:00+00:00"
-    },
-    {
-      "id": "a4abbbc2ebefabd6",
-      "title": "Desenvolvedor da Anthropic pede demissão e alerta para perigos da IA",
-      "summary": "Jacob Coxon publica carta aberta onde fala sobre irresponsabilidade das big techs sobre o tema. Outros devs republicam mensagem e reforçam críticas à tecnologia. Desenvolvedor da…",
-      "link": "https://tecnoblog.net/noticias/desenvolvedor-da-anthropic-pede-demissao-e-alerta-para-perigos-da-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/capa-freelas-perde-emprego-pra-ia-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-10T10:58:12+00:00"
-    },
-    {
-      "id": "dc17b9e7df1b11a3",
-      "title": "O pânico com a segurança da IA ​​se torna popular depois que os avisos do pesquisador da Anthropic chegam à CNN e à Fox News",
-      "summary": "Jacob Coxon, um pesquisador antrópico que está de partida, alertou na CNN que o autoaperfeiçoamento da IA ​​representa uma ameaça existencial para a humanidade. Pesquisadores de segurança da Anthropic e OpenAI compartilham seu…",
-      "link": "https://the-decoder.com/ai-safety-panic-goes-mainstream-after-anthropic-researchers-warnings-land-on-cnn-and-fox-news/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/anthropic_claude_clone.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-10T10:31:20+00:00"
-    },
-    {
-      "id": "8ff9aac8f5683479",
-      "title": "Xiaomi cria fogão com IA que desliga o gás se você esquecer a panela",
-      "summary": "A Xiaomi abriu a pré-venda do Mijia Smart Gas Stove 3 Max na China, um fogão que usa inteligência artificial para aumentar a segurança durante o preparo das refeições e consegue…",
-      "link": "https://canaltech.com.br/eletro/xiaomi-cria-fogao-com-ia-que-desliga-o-gas-se-voce-esquecer-a-panela/",
-      "image": "https://tl.ctcdn.com.br/kwvQRNLeu7MHcCbmZolOlhjn4nY=/0x0/filters:format(webp):quality(85)/5aef1e24-fc64-4c00-99a9-772c9c8b3b2c.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-10T10:11:44+00:00"
-    },
-    {
-      "id": "d47e1da583d2ba30",
-      "title": "Os maiores gastadores em IA reduziram os custos por funcionário em quase 10% em agosto",
-      "summary": "O Índice Ramp AI de setembro de 2026 mostra que os gastos com IA por funcionário entre o 1% das principais empresas dos EUA caíram quase 10% em agosto. O preço por milhão de tokens tem…",
-      "link": "https://the-decoder.com/top-ai-spenders-cut-per-employee-costs-by-nearly-10-percent-in-august/",
-      "image": "https://the-decoder.com/wp-content/uploads/2024/10/money_neural_network.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-10T09:34:21+00:00"
-    },
-    {
-      "id": "a15977216d23e5e0",
-      "title": "DeepSeek AI lançou DeepSeek-V4.1-Flash com contexto de 1M, cache KV FP4 e reutilização de atenção em camadas cruzadas",
-      "summary": "Agentes de longo horizonte transformaram o serviço LLM em uma carga de trabalho com muitas entradas. Pré-preenchimentos repetidos e contextos de milhões de tokens deixam caches KV que sobrecarregam o HBM, a capacidade do SSD e…",
-      "link": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-10T07:31:01+00:00"
-    },
-    {
-      "id": "0bb946f0c4215389",
-      "title": "Apresentando ChatGPT para serviços financeiros",
-      "summary": "Apresentando o ChatGPT para serviços financeiros, combinando dados financeiros integrados e GPT-6 Astra para pesquisa, modelagem e materiais prontos para o cliente.",
-      "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "id": "3802aa15c4b6ae22",
-      "title": "Expandindo o acesso à IA e a defesa cibernética para governos federais, estaduais, locais e tribais",
-      "summary": "OpenAI e GSA oferecerão aos governos federais, estaduais, locais e tribais elegíveis taxas de licença de US$ 0, 50% de desconto no uso e suporte expandido de defesa cibernética.",
-      "link": "https://openai.com/index/expanding-ai-access-us-government",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "id": "767a97a7cb7f0b75",
-      "title": "LandingAI lança extração de documentos Agentic Gen2 com DPT-3 Pro e DPT-3 Verity",
-      "summary": "LandingAI lançou Agentic Document Extraction Gen2, uma reconstrução de sua pilha de documentos na família de modelos DPT-3. Os pedaços são retirados em favor de uma árvore de documentos, páginas e blocos…",
-      "link": "https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-10T02:13:12+00:00"
     }
   ]
 }
