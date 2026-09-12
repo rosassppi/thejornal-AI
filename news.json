@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T03:11:54.137772+00:00",
+  "generated_at": "2026-09-12T10:07:44.353215+00:00",
   "total": 90,
   "items": [
     {
@@ -12,6 +12,28 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-09-14T00:00:00+00:00"
+    },
+    {
+      "id": "a7dbe35f895302ba",
+      "title": "Google's new AI model predicts the future from sales data, weather, and discount schedules",
+      "summary": "Google Research has released TimesFM-3, a forecasting model that analyzes time series alongside related data and known future events like sales promotions or weather forecasts…",
+      "link": "https://the-decoder.com/googles-new-ai-model-predicts-the-future-from-sales-data-weather-and-discount-schedules/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/google-timesfm-3-ice-cream-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-12T09:26:05+00:00"
+    },
+    {
+      "id": "0f36fbcbd331f608",
+      "title": "Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next",
+      "summary": "In a joint statement, 25 Fields Medal winners warn that the goals of the AI industry and mathematics are \"severely misaligned.\" They argue that mass-producing solved problems with…",
+      "link": "https://the-decoder.com/leading-mathematicians-fear-ai-is-making-their-field-dumber-and-warn-the-rest-of-us-is-next/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/millenium_math.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-12T08:28:53+00:00"
     },
     {
       "id": "a3b847d833a63320",
@@ -969,28 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-10T14:26:36+00:00"
-    },
-    {
-      "id": "548edb3d91eeb629",
-      "title": "Por que a atual reação tecnológica parece diferente",
-      "summary": "Esta entrevista foi levemente editada para maior extensão e clareza. Nick Statt: Olá e bem-vindo ao Decoder, o programa de Nilay sobre grandes ideias e outros problemas. Este é Nick Statt…",
-      "link": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_Mailbag.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-10T14:00:00+00:00"
-    },
-    {
-      "id": "86bd74a446a7310f",
-      "title": "GPT-6 Astra dá uma pausa aos matemáticos, e OpenAI diz que isso é intencional",
-      "summary": "O GPT-6 Astra da OpenAI lidera o ErdosBench para problemas matemáticos abertos, embora o cientista-chefe Jakub Pachocki diga que a matemática deliberadamente não era uma prioridade. Em vez disso, OpenAI está derramando…",
-      "link": "https://the-decoder.com/gpt-6-astra-gives-mathematicians-a-breather-and-openai-says-thats-by-design/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_gpt6_astra.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-10T13:45:32+00:00"
     }
   ]
 }
