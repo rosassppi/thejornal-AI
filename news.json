@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T20:11:52.727096+00:00",
+  "generated_at": "2026-09-13T03:15:02.229424+00:00",
   "total": 90,
   "items": [
     {
@@ -12,6 +12,61 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-09-14T00:00:00+00:00"
+    },
+    {
+      "id": "c9c72d77ec474be7",
+      "title": "Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference",
+      "summary": "This practical tutorial demonstrates how to build and accelerate machine learning workflows using NVIDIA cuML and RAPIDS. It covers GPU environment setup, zero-code scikit-learn…",
+      "link": "https://www.marktechpost.com/2026/09/12/implementation-of-machine-learning-workflows-with-nvidia-cuml-rapids-gpu-benchmarking-explainability-clustering-and-model-inference/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-13T01:42:58+00:00"
+    },
+    {
+      "id": "4b7f94263a547388",
+      "title": "Cognition Releases SWE-2: A Kimi K3 Post-Trained Coding Model That Matches Fable 5.1 on FrontierCode at 64% Lower Cost",
+      "summary": "Cognition, the company behind the Devin coding agent, has released SWE-2, its most capable coding model to date. SWE-2 is post-trained with reinforcement learning from Kimi K3…",
+      "link": "https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable-5-1-on-frontiercode-at-64-lower-cost/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-12T23:56:03+00:00"
+    },
+    {
+      "id": "593440c97619d82b",
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-12T21:41:36+00:00"
+    },
+    {
+      "id": "b10d7fa5e19ae5db",
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-12T21:16:28+00:00"
+    },
+    {
+      "id": "adaebe0c9002dee8",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-12T20:19:16+00:00"
     },
     {
       "id": "b7b4c6f0444c06e5",
@@ -34,6 +89,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-12T19:00:04+00:00"
+    },
+    {
+      "id": "cdae9e4f4634dc40",
+      "title": "Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help",
+      "summary": "The Fly Language Model (FLM) drives all 166,700 retained neurons and 25.6 million edges of the MaleCNS fruit fly connectome with token embeddings, then adds a small learned…",
+      "link": "https://www.marktechpost.com/2026/09/12/fly-language-model-flm-wires-the-full-fruit-fly-connectome-into-a-frozen-1-2b-llm-and-its-own-controls-show-the-wiring-does-not-help/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-12T18:51:24+00:00"
     },
     {
       "id": "5c441ebce438f95e",
@@ -925,72 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-10T20:59:51+00:00"
-    },
-    {
-      "id": "69775b3cf315b902",
-      "title": "O que é SynthID? Conheça a marca d’água para conteúdos de IA",
-      "summary": "O SynthID permite que softwares identifiquem conteúdos gerados por inteligência artificial com precisão, mesmo após alterações O que é SynthID? Conheça a marca d’água para…",
-      "link": "https://tecnoblog.net/responde/o-que-e-synthid-conheca-a-marca-dagua-para-conteudos-de-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/synthid-01-edited-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-10T20:58:51+00:00"
-    },
-    {
-      "id": "43169485cbc70755",
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space…",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-10T20:57:30+00:00"
-    },
-    {
-      "id": "17e434cbaab32a98",
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-      "summary": "O mais novo aplicativo da Meta, Muse, teve um início mais lento do que outros aplicativos da empresa, como Meta AI ou Threads.",
-      "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-10T19:50:04+00:00"
-    },
-    {
-      "id": "36170847786106c4",
-      "title": "As escolas estão seguindo o manual da Big Tech",
-      "summary": "É a novidade em tecnologia e é onde estão todos os empregos. Os alunos que não aprendem a usá-lo ficam para trás. E para ajudá-los a recuperar o atraso, seus criadores são gentilmente…",
-      "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-10T19:44:20+00:00"
-    },
-    {
-      "id": "996e3d09d80a1d70",
-      "title": "Galaxy Tab S11 Ultra despenca 31% com cupom exclusivo Tecnoblog",
-      "summary": "Galaxy Tab S11 Ultra com 512 GB, tela AMOLED e Galaxy AI surge em uma das melhores ofertas já vistas pelo TB Galaxy Tab S11 Ultra despenca 31% com cupom exclusivo Tecnoblog",
-      "link": "https://tecnoblog.net/achados/galaxy-tab-s11-ultra-despenca-31-com-cupom-exclusivo-tecnoblog/",
-      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-tab-s11-ultra-achado-do-dia-1060x596.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-10T18:54:30+00:00"
-    },
-    {
-      "id": "cb09479f61d6b4a4",
-      "title": "Gemini agora tem app oficial para Windows",
-      "summary": "Gemini para Windows 11 e 10 chega meses depois do lançamento da versão para Mac. Novidade é similar à versão web. Gemini agora tem app oficial para Windows",
-      "link": "https://tecnoblog.net/noticias/gemini-agora-tem-app-oficial-para-windows/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/gemini-windows-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-10T18:43:50+00:00"
     }
   ]
 }
