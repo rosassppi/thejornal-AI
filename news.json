@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T15:38:28.330439+00:00",
+  "generated_at": "2026-09-13T20:20:46.029311+00:00",
   "total": 90,
   "items": [
     {
@@ -12,6 +12,83 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-09-14T00:00:00+00:00"
+    },
+    {
+      "id": "e0113061db68e4a9",
+      "title": "Hierarchical NeRF with JAX3D for Volumetric Rendering, Novel-View Synthesis, and 3D Reconstruction",
+      "summary": "In this tutorial, we build an end-to-end hierarchical Neural Radiance Field (NeRF) using JAX, Flax, Optax, and the volume-rendering primitives provided by jax3d. We first…",
+      "link": "https://www.marktechpost.com/2026/09/13/hierarchical-nerf-with-jax3d-for-volumetric-rendering-novel-view-synthesis-and-3d-reconstruction/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-13T19:46:38+00:00"
+    },
+    {
+      "id": "395acc6e88d3562e",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-13T19:41:48+00:00"
+    },
+    {
+      "id": "e2ee54bd5ffca4b9",
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-13T19:40:15+00:00"
+    },
+    {
+      "id": "962b33fae86e6b89",
+      "title": "Hora de imprimir mais gastando menos: veja as melhores impressoras em promoção",
+      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é o momento certo. Reunimos três modelos multifuncionais em oferta na Amazon — todos com conectividade…",
+      "link": "https://olhardigital.com.br/2026/09/13/reviews/hora-de-imprimir-mais-gastando-menos-veja-as-melhores-impressoras-em-promocao/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-13T18:40:00+00:00"
+    },
+    {
+      "id": "22bdbbba9f845cff",
+      "title": "A Princeton Researcher Proposes Recurrent Looped Transformer (RLT) that Carries Decoder State across Every Token, Fixing 96 Blocks per Token with Unbounded Temporal Depth",
+      "summary": "Yifan Zhang's Recurrent Looped Transformer (RLT) technical report proposes a causal encoder paired with a recurrent decoder that carries its final hidden state and layerwise…",
+      "link": "https://www.marktechpost.com/2026/09/13/a-princeton-researcher-proposes-recurrent-looped-transformer-rlt/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-13T17:02:26+00:00"
+    },
+    {
+      "id": "6118181b33088941",
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s…",
+      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-13T16:30:00+00:00"
+    },
+    {
+      "id": "44cdc58c805a295b",
+      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-13T16:04:00+00:00"
     },
     {
       "id": "b05c693eb0cc3dbd",
@@ -122,6 +199,28 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-13T08:53:00+00:00"
+    },
+    {
+      "id": "31051cb2d27a45de",
+      "title": "AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents",
+      "summary": "Pizza Bot is an open source, self-hosted inbox for AI agents built on DeepAgents and LangGraph. It combines persistent task state, MCP integrations, configurable approvals, and…",
+      "link": "https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-13T08:10:51+00:00"
+    },
+    {
+      "id": "218dfd73c2e3f974",
+      "title": "Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+      "summary": "A shallow agent is an LLM calling tools in a loop, and on long tasks it fails in 2 ways: context overflow and goal loss. This article opens the harness layer that fixes both, with…",
+      "link": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-13T05:56:03+00:00"
     },
     {
       "id": "c9c72d77ec474be7",
@@ -892,105 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-11T09:45:58+00:00"
-    },
-    {
-      "id": "fef215671e5c31b9",
-      "title": "The Mathematical AI Safety Institute wants to prove AI is safe the way cryptographers prove codes are unbreakable",
-      "summary": "Canadian mathematician Jacob Tsimerman, a fresh Fields Medal recipient, has announced the founding of the Mathematical A.I. Safety Institute (MAISI). The article The Mathematical…",
-      "link": "https://the-decoder.com/the-mathematical-ai-safety-institute-wants-to-prove-ai-is-safe-the-way-cryptographers-prove-codes-are-unbreakable/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/maisi.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-11T09:15:10+00:00"
-    },
-    {
-      "id": "714a56ccae247b18",
-      "title": "O acordo de livro de US$ 1,5 bilhão da Anthropic se transforma em caos enquanto autores e editores brigam para ver quem será pago",
-      "summary": "Authors and publishers fight over how to split Anthropic's $1.5 billion settlement, the largest copyright deal in US history. The article Anthropic's $1.5 billion book settlement…",
-      "link": "https://the-decoder.com/anthropics-1-5-billion-book-settlement-descends-into-chaos-as-authors-and-publishers-fight-over-who-gets-paid/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/anthropic_head_pattern.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-11T08:40:01+00:00"
-    },
-    {
-      "id": "5d825217b92188b8",
-      "title": "OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT",
-      "summary": "OpenAI is releasing the Agents API as a public beta. It lets developers build cloud agents that run autonomously for hours, execute code, and hand off tasks to sub-agents. There…",
-      "link": "https://the-decoder.com/openais-new-agents-api-gives-developers-the-infrastructure-behind-codex-and-chatgpt/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-11T08:11:46+00:00"
-    },
-    {
-      "id": "279b64b3a2273d04",
-      "title": "Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages",
-      "summary": "Cohere has released North Small Translate, an open-weight Mixture-of-Experts model built for machine translation across 50 languages. It uses 25B of its 218B parameters per token…",
-      "link": "https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-11T06:57:22+00:00"
-    },
-    {
-      "id": "e8b42945dec87c60",
-      "title": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration",
-      "summary": "Sakana AI has released Fugu Max and Fugu Ultra v2, 2 models built on the same learned orchestration architecture. Fugu Max routes tasks to lean open and specialized models…",
-      "link": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-11T06:34:39+00:00"
-    },
-    {
-      "id": "683d935c3022b513",
-      "title": "Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation",
-      "summary": "Google Research has released ToolGrad, an ACL 2026 Findings framework that inverts tool-use dataset generation: it builds a verified API chain first, then writes the matching user…",
-      "link": "https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-11T06:01:25+00:00"
-    },
-    {
-      "id": "ebce633ca0ec1195",
-      "title": "Pentágono negocia empréstimo de R$ 26,25 bilhões para infraestrutura de IA",
-      "summary": "Fluidstack pode receber o maior financiamento já considerado pelo Office of Strategic Capital, em movimento que aproxima ainda mais o governo dos investimentos necessários para…",
-      "link": "https://olhardigital.com.br/2026/09/10/pro/pentagono-negocia-emprestimo-de-r-26-25-bilhoes-para-infraestrutura-de-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/servidor-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-11T01:48:36+00:00"
-    },
-    {
-      "id": "9c6bf9481979f92c",
-      "title": "Califórnia aprova novas leis para proteger crianças na internet",
-      "summary": "Gavin Newsom sancionou 13 projetos voltados à segurança de menores, incluindo restrições a recursos considerados “viciantes” nas redes sociais e novas regras para chatbots de IA O…",
-      "link": "https://olhardigital.com.br/2026/09/10/pro/california-aprova-novas-leis-para-proteger-criancas-na-internet/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/crianca_celular-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-11T01:27:17+00:00"
-    },
-    {
-      "id": "978a7c9b25ccbbd2",
-      "title": "OpenAI pede regras obrigatórias de segurança para IA nos EUA",
-      "summary": "Empresa quer testes, avaliações independentes, proteção contra ataques e comunicação obrigatória de incidentes graves; mudança ocorre após agentes de IA apresentarem…",
-      "link": "https://olhardigital.com.br/2026/09/10/inteligencia-artificial/openai-pede-regras-obrigatorias-de-seguranca-para-ia-nos-eua/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-OpenAI-AGI-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-11T01:06:26+00:00"
     }
   ]
 }
