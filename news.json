@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T03:15:02.229424+00:00",
+  "generated_at": "2026-09-13T11:06:43.625436+00:00",
   "total": 90,
   "items": [
     {
@@ -12,6 +12,50 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-09-14T00:00:00+00:00"
+    },
+    {
+      "id": "1087273cce6461ea",
+      "title": "GPT-6 Astra pilots a surveillance drone and runs a business on its own",
+      "summary": "GPT-6 Astra earns nearly three times as much as Claude Fable 5.1 on Andon Labs' Vending-Bench agent benchmark and refuses illegal price-fixing deals that Fable agrees to. On drone…",
+      "link": "https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_drone_gpt6_astra.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-13T10:52:16+00:00"
+    },
+    {
+      "id": "56585c97619841c0",
+      "title": "Sua empresa sabe quantos agentes de IA estão trabalhando de forma governada, orquestrada e segura?",
+      "summary": "Acredito que saber criar agentes de IA será uma competência tecnológica, mas governá-los será uma competência de negócio O post Sua empresa sabe quantos agentes de IA estão…",
+      "link": "https://olhardigital.com.br/2026/09/13/colunistas/sua-empresa-sabe-quantos-agentes-de-ia-estao-trabalhando-de-forma-governada-orquestrada-e-segura/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-13T10:05:00+00:00"
+    },
+    {
+      "id": "2358dc9e76c91758",
+      "title": "Two-year university study finds banning AI from classrooms leaves students worse off",
+      "summary": "A law professor spent two years testing how an AI ban, unguided AI use, and structured training affect student performance. The group without AI finished last both years. \"I was…",
+      "link": "https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/ai-classroom-law-students-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-13T09:27:01+00:00"
+    },
+    {
+      "id": "3710fa1c12312f03",
+      "title": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight",
+      "summary": "Sam Altman, Elon Musk, and Demis Hassabis back Dario Amodei's call to slow down AI development, at least in part. Altman says OpenAI is pushing its IPO to 2027 over safety…",
+      "link": "https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/RSI_recursive_self_improvement.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-13T08:53:00+00:00"
     },
     {
       "id": "c9c72d77ec474be7",
@@ -947,50 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-10T21:51:59+00:00"
-    },
-    {
-      "id": "3fd4da93fbe84f4d",
-      "title": "Por que os brasileiros estão trocando os aplicativos de lojas por conversas no WhatsApp?",
-      "summary": "Esqueça a ideia de que o WhatsApp é apenas um canal de atendimento ou uma ferramenta para disparar cupons de desconto. Impulsionado pela Inteligência Artificial, o aplicativo está…",
-      "link": "https://canaltech.com.br/mercado/por-que-os-brasileiros-estao-trocando-os-aplicativos-de-lojas-por-conversas-no-whatsapp/",
-      "image": "https://tl.ctcdn.com.br/insPvsqIqe3qkh6_bOIvHr_-Wr8=/0x0/filters:format(webp):quality(85)/572b6547-c077-4c3c-9d0c-8c08fe8cb597.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-10T21:43:19+00:00"
-    },
-    {
-      "id": "baa39032259715dd",
-      "title": "Slack can now vibe-code interactive charts and reports inside chats",
-      "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce…",
-      "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-10T21:25:21+00:00"
-    },
-    {
-      "id": "ff9487323f0f680e",
-      "title": "OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call",
-      "summary": "OpenAI has released the Agents API in public beta. It gives developers the same harness and infrastructure that run Codex. OpenAI hosts and maintains the harness. Developers run…",
-      "link": "https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-10T21:21:58+00:00"
-    },
-    {
-      "id": "54827c4e6e1210d7",
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
-      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-10T20:59:51+00:00"
     }
   ]
 }
