@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T11:06:43.625436+00:00",
+  "generated_at": "2026-09-13T15:38:28.330439+00:00",
   "total": 90,
   "items": [
     {
@@ -12,6 +12,72 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-09-14T00:00:00+00:00"
+    },
+    {
+      "id": "b05c693eb0cc3dbd",
+      "title": "Como são os semáforos inteligentes que usam algoritmos e IA para acabar com o trânsito",
+      "summary": "Quem dirige nas grandes cidades conhece bem o incômodo de passar longos períodos no trânsito. É aqui que entram os chamados semáforos inteligentes , tecnologia já adotada em…",
+      "link": "https://canaltech.com.br/carros/como-sao-os-semaforos-inteligentes-que-usam-algoritmos-e-ia-para-acabar-com-o-transito/",
+      "image": "https://tl.ctcdn.com.br/RhSxT-I-L7g4avQmydTPdLWzVpQ=/0x0/filters:format(webp):quality(85)/f6361648-a255-4af8-8417-895d2bdc2610.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-13T14:30:00+00:00"
+    },
+    {
+      "id": "3c42354728fe403a",
+      "title": "Elevenlabs makes Music v2.5 available via app and API with free and pro tier options",
+      "summary": "ElevenLabs has released Music v2.5 for its AI music generator. In a blind test with nearly 48,000 comparison pairs, listeners preferred the new version over its predecessor. The…",
+      "link": "https://the-decoder.com/elevenlabs-makes-music-v2-5-available-via-app-and-api-with-free-and-pro-tier-options/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/elevenlabs_music_25.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-13T13:40:36+00:00"
+    },
+    {
+      "id": "82c6163bc331bdf9",
+      "title": "7 vezes que a ficção científica acertou sobre IA",
+      "summary": "A ficção científica imagina há décadas como computadores e máquinas poderiam transformar a sociedade. Antes de existir um chatbot capaz de manter uma conversa fluida, roteiristas…",
+      "link": "https://canaltech.com.br/entretenimento/vezes-que-ficcao-cientifica-acertou-sobre-ia/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-13T13:30:00+00:00"
+    },
+    {
+      "id": "3e04de6d8e1f9e23",
+      "title": "Iris-mini and Iris-pro are the strongest open-weight search agents in their class",
+      "summary": "The AllSpark team has released Iris-mini and Iris-pro, two open-source search agents built on Qwen models that lead benchmarks among open-weight models in their size classes…",
+      "link": "https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/search-agents-allspark-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-13T12:58:18+00:00"
+    },
+    {
+      "id": "1cd934f4258c4613",
+      "title": "Motorola em promoção: veja uma seleção de smartphones com 5G, câmera com IA e bateria robusta",
+      "summary": "A Motorola segue sendo uma das marcas mais populares no Brasil quando o assunto é custo-benefício em smartphones. Reunimos três opções em oferta na Amazon para quem quer renovar o…",
+      "link": "https://olhardigital.com.br/2026/09/13/reviews/motorola-em-promocao-veja-uma-selecao-de-smartphones-com-5g-camera-com-ia-e-bateria-robusta/",
+      "image": "https://m.media-amazon.com/images/I/41uVEXHuhUL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-13T12:40:00+00:00"
+    },
+    {
+      "id": "cfc8d717ebec6b9f",
+      "title": "7 dicas para economizar e não gastar os créditos do seu plano de IA",
+      "summary": "É frustrante notar que os limites do plano de IA foram atingidos durante uma tarefa, o que força a pessoa a esperar, assinar outro plano ou mudar de serviço. Por outro lado…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/dicas-para-economizar-nao-gastar-tokens-plano-de-ia/",
+      "image": "https://tl.ctcdn.com.br/rG7rZ8kyzp2SPh9N-r2Nx0KpSJs=/0x0/filters:format(webp):quality(85)/ee141753-8429-4f56-9af2-c2fd632fc4a4.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-13T12:30:00+00:00"
     },
     {
       "id": "1087273cce6461ea",
@@ -925,72 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-11T01:06:26+00:00"
-    },
-    {
-      "id": "20a1af01355d809b",
-      "title": "Pesquisadores da Anthropic fazem alerta assustador: IA pode levar à extinção humana",
-      "summary": "Funcionários da empresa dizem que o desenvolvimento está rápido demais e que não existe plano científico capaz de lidar com riscos de uma IA que possa se autoaperfeiçoar; Elon…",
-      "link": "https://olhardigital.com.br/2026/09/10/inteligencia-artificial/pesquisadores-da-anthropic-fazem-alerta-assustador-ia-pode-levar-a-extincao-humana/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/elon_musk-scaled-e1778030209365-1024x658.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-11T00:28:01+00:00"
-    },
-    {
-      "id": "7495ccdd53a1febf",
-      "title": "Oracle supera expectativas com boom da IA e vê ações subirem 7% após balanço",
-      "summary": "Receita cresceu 30% no trimestre e carteira de contratos chegou a US$ 664 bilhões, enquanto demanda por computação para IA impulsiona negócios de nuvem O post Oracle supera…",
-      "link": "https://olhardigital.com.br/2026/09/10/pro/oracle-supera-expectativas-com-boom-da-ia-e-ve-acoes-subirem-7-apos-balanco/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/oracle_financ-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-10T23:39:06+00:00"
-    },
-    {
-      "id": "f29eb4c00a380da9",
-      "title": "Microsoft quer triplicar capacidade de data centers para dar conta da IA",
-      "summary": "Empresa planeja elevar capacidade global de cerca de 12 para mais de 38 gigawatts em seis anos após falta de servidores fazê-la perder negócios de IA e computação em nuvem O post…",
-      "link": "https://olhardigital.com.br/2026/09/10/pro/microsoft-quer-triplicar-capacidade-de-data-centers-para-dar-conta-da-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/servidor-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-10T23:03:26+00:00"
-    },
-    {
-      "id": "38ab7e9c634a8b9b",
-      "title": "Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster",
-      "summary": "Production LLM applications rarely receive a question nobody has asked before. Support assistants and RAG pipelines field the same intents thousands of times a day, each phrased…",
-      "link": "https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-10T22:34:48+00:00"
-    },
-    {
-      "id": "1016f62edefb27e8",
-      "title": "NVIDIA Details BioNeMo Inference Runtime (BioIR): 2.90x Higher Boltz-2 Folding Throughput and 58.5K Residues per GPU-Hour on 8xH100",
-      "summary": "NVIDIA has detailed BioNeMo Inference Runtime (BioIR), a Python library that accelerates biomolecular structure-prediction models on NVIDIA GPUs while staying in plain PyTorch. In…",
-      "link": "https://www.marktechpost.com/2026/09/10/nvidia-details-bionemo-inference-runtime-bioir-2-90x-higher-boltz-2-folding-throughput-and-58-5k-residues-per-gpu-hour-on-8xh100/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-10T21:57:06+00:00"
-    },
-    {
-      "id": "ab2afd5299068837",
-      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
-      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-10T21:51:59+00:00"
     }
   ]
 }
