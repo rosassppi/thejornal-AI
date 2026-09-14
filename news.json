@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-14T03:27:42.394443+00:00",
+  "generated_at": "2026-09-14T11:51:05.159916+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "f0aac2512e2780ff",
+      "title": "Alerta sobre segurança da IA derruba ações de chips e tecnologia",
+      "summary": "Ações de IA recuam após CEOs alertarem sobre riscos do avanço acelerado e defenderem um ritmo mais lento de desenvolvimento da tecnologia O post Alerta sobre segurança da IA…",
+      "link": "https://olhardigital.com.br/2026/09/14/pro/alerta-sobre-seguranca-da-ia-derruba-acoes-de-chips-e-tecnologia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/anthropic-2-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-14T10:44:10+00:00"
+    },
+    {
+      "id": "82b95adbb8d2ee96",
+      "title": "Como gravar, transcrever e resumir reuniões com IA",
+      "summary": "As plataformas de videoconferência incorporaram recursos de inteligência artificial para automatizar o registro de reuniões de trabalho. Atualmente, ferramentas como Google Meet…",
+      "link": "https://canaltech.com.br/apps/como-gravar-transcrever-e-resumir-reunioes-com-ia/",
+      "image": "https://tl.ctcdn.com.br/MKxVfPDnxBIa6RHOUaYSW4rtdsA=/0x0/filters:format(webp):quality(85)/76b1fa6e-0830-42a8-aedb-90efbac7b4d3.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-14T10:00:03+00:00"
+    },
+    {
+      "id": "7b314f3ea2669164",
+      "title": "Resumo do OD: IApocalipse? IPO da OpenAI adiado? Entenda!",
+      "summary": "Devemos nos preocupar com os rumos das IAs? O post Resumo do OD: IApocalipse? IPO da OpenAI adiado? Entenda! apareceu primeiro em Olhar Digital .",
+      "link": "https://olhardigital.com.br/2026/09/14/inteligencia-artificial/resumo-do-od-iapocalipse-ipo-da-openai-adiado-entenda/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-14T09:54:16+00:00"
+    },
+    {
+      "id": "63f0637e85964878",
+      "title": "Sam Altman calls for pacing AI development but promises rapid progress will continue",
+      "summary": "Sam Altman is doubling down on slowing AI development. OpenAI now runs safety checks before major training runs, and according to The Information, the company has been talking…",
+      "link": "https://the-decoder.com/sam-altman-calls-for-pacing-ai-development-but-promises-rapid-progress-will-continue/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_Altman.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-14T09:39:59+00:00"
+    },
     {
       "id": "6f521c9d53343e60",
       "title": "Anthropic’s 3-Step ‘Pace the Frontier’ Plan Wins OpenAI, xAI and Microsoft Support: Is It Too Late to Slow AI Down?",
@@ -947,50 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-11T12:29:39+00:00"
-    },
-    {
-      "id": "c7381370e93085a3",
-      "title": "Novo tablet top da Samsung pode ficar mais caro por causa da IA",
-      "summary": "O Galaxy Tab S12 Ultra pode ficar mais caro por causa da alta nos preços das memórias, cenário que vem sendo associado ao avanço da inteligência artificial e à maior demanda por…",
-      "link": "https://canaltech.com.br/tablet/novo-tablet-top-da-samsung-pode-ficar-mais-caro-por-causa-da-ia/",
-      "image": "https://tl.ctcdn.com.br/dw8FyXqOgYswwsT5YyNlWESFzr0=/0x0/filters:format(webp):quality(85)/86fd3b0c-c380-4d37-bf2a-1444eb910f2d.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-11T12:26:39+00:00"
-    },
-    {
-      "id": "77ad8bbabb6c0e81",
-      "title": "Igual o ChatGPT, Gemini agora também tem um app para Windows",
-      "summary": "O Google lançou oficialmente o aplicativo Gemini para Windows, levando o assistente de inteligência artificial para uma experiência nativa no computador. O app já está disponível…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/igual-o-chatgpt-gemini-agora-tambem-tem-um-app-para-windows/",
-      "image": "https://tl.ctcdn.com.br/bdmHvi05hRfx8oHMnETDk1nVsc8=/0x0/filters:format(webp):quality(85)/b92fa583-0522-43cb-909b-96b77ee2ee8c.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-11T12:19:43+00:00"
-    },
-    {
-      "id": "aa1b2af38d6959ad",
-      "title": "OpenAI floats a shared AI slowdown, takes it to Congress",
-      "summary": "OpenAI wants to know from members of Congress whether an industry-wide slowdown in AI development would be legal, according to several people familiar with the matter. The article…",
-      "link": "https://the-decoder.com/openai-floats-a-shared-ai-slowdown-takes-it-to-congress/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_ceo_sam_altman_at_stanford_talk-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-11T11:59:19+00:00"
-    },
-    {
-      "id": "4a0f687dcd991f6c",
-      "title": "Anthropic diz que bloqueou possível criação de arma biológica com Claude",
-      "summary": "Informação consta no último relatório de riscos da empresa. Medida é anunciada após críticas de ex-funcionário, que aponta irresponsabilidade no desenvolvimento de IA. Anthropic…",
-      "link": "https://tecnoblog.net/noticias/anthropic-diz-que-bloqueou-possivel-criacao-de-arma-biologica-com-claude/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2018/10/capa-tbr-ia-2-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-11T10:36:38+00:00"
     }
   ]
 }
