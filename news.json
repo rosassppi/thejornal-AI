@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-13T20:20:46.029311+00:00",
+  "generated_at": "2026-09-14T03:27:42.394443+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "6f521c9d53343e60",
+      "title": "Anthropic’s 3-Step ‘Pace the Frontier’ Plan Wins OpenAI, xAI and Microsoft Support: Is It Too Late to Slow AI Down?",
+      "summary": "Dario Amodei published \"We Must Pace the Frontier,\" and Sam Altman, Elon Musk and Satya Nadella endorsed it within a day. The trigger was a July incident in which roughly 1,200…",
+      "link": "https://www.marktechpost.com/2026/09/13/anthropics-3-step-pace-the-frontier-plan-wins-openai-xai-and-microsoft-support-is-it-too-late-to-slow-ai-down/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-14T01:44:01+00:00"
+    },
     {
       "id": "968c32634dc2a1cb",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -12,6 +23,17 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-09-14T00:00:00+00:00"
+    },
+    {
+      "id": "50f42e00f3ab1a5d",
+      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI…",
+      "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-13T21:30:00+00:00"
     },
     {
       "id": "e0113061db68e4a9",
@@ -45,6 +67,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-13T19:40:15+00:00"
+    },
+    {
+      "id": "dfc7704368da1dae",
+      "title": "Smartwatch bom e bonito: veja uma seleção de relógios inteligentes em promoção na Amazon",
+      "summary": "Se você está pensando em adquirir um smartwatch ou presentear alguém especial, este é o momento certo. Reunimos três ótimas opções de relógios inteligentes em oferta na Amazon…",
+      "link": "https://olhardigital.com.br/2026/09/13/reviews/smartwatch-bom-e-bonito-veja-uma-selecao-de-relogios-inteligentes-em-promocao-na-amazon-3/",
+      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-13T19:40:00+00:00"
     },
     {
       "id": "962b33fae86e6b89",
@@ -958,39 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-11T10:36:38+00:00"
-    },
-    {
-      "id": "ff9377a3aac85d55",
-      "title": "Resumo do OD: 11 de setembro; alerta da Anthropic; duendes vermelhos no céu",
-      "summary": "2.977 drones iluminaram o céu de Nova York, nos Estados Unidos, nesta quarta-feira (9) em homenagem às vítimas do 11/09/2001 O post Resumo do OD: 11 de setembro; alerta da…",
-      "link": "https://olhardigital.com.br/2026/09/11/pro/resumo-do-od-11-de-setembro-alerta-da-anthropic-duendes-vermelhos-no-ceu/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/meteoro-e-sprites-santa-maria-1024x539.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-11T10:04:01+00:00"
-    },
-    {
-      "id": "46fcf5bb7b99520f",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "summary": "Saiba como a OpenAI evoluiu o Habitat de uma biblioteca Python para uma plataforma de armazenamento distribuída globalmente que atende 1 bilhão de usuários ChatGPT e 22 milhões de solicitações por segundo.",
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-11T10:00:00+00:00"
-    },
-    {
-      "id": "810ae5f0fe4696ef",
-      "title": "Class action lawsuit accuses Anthropic of overselling Claude subscriptions with deceptive usage multipliers",
-      "summary": "A class action lawsuit accuses Anthropic of misrepresenting how much Claude subscribers actually get to use the service. The article Class action lawsuit accuses Anthropic of…",
-      "link": "https://the-decoder.com/class-action-lawsuit-accuses-anthropic-of-overselling-claude-subscriptions-with-deceptive-usage-multipliers/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/anthropic_lawsuit.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-11T09:45:58+00:00"
     }
   ]
 }
