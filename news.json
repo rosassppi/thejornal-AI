@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-09-15T03:29:22.729648+00:00",
+  "generated_at": "2026-09-15T11:06:30.988868+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "d58bd548e3ee688c",
+      "title": "Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU",
+      "summary": "Apple is shipping its rebuilt \"Siri AI\" after years of delay, built on Google's Gemini models and running partly on the device, partly through Private Cloud Compute. Early testers…",
+      "link": "https://the-decoder.com/apple-brings-a-fully-revamped-siri-built-on-googles-gemini-but-not-to-the-eu/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/apple_logo_neon_green.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-15T10:33:03+00:00"
+    },
+    {
+      "id": "fab235f4c1bfa4ae",
+      "title": "Microsoft adota “manual” e garante que suas IAs não vão resistir a desligamento",
+      "summary": "A Microsoft publicou nesta segunda-feira (14) um código de conduta para orientar o desenvolvimento de seus próprios modelos de inteligência artificial (IA). Entre as regras está a…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/microsoft-adota-manual-e-garante-que-suas-ias-nao-vao-resistir-a-desligamento/",
+      "image": "https://tl.ctcdn.com.br/1D1OUHDNk1uMhmD8ACVhNApK2O0=/0x0/filters:format(webp):quality(85)/811ab34a-84d1-4994-a149-438ac07b5b95.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-15T10:30:00+00:00"
+    },
+    {
+      "id": "78db0f3b5384c1fe",
+      "title": "What must happen for AI’s trillion-dollar gamble to pay off",
+      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long…",
+      "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/h_16492684.jpg?w=840",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-15T10:00:00+00:00"
+    },
+    {
+      "id": "b494c40e7b7390fc",
+      "title": "Resumo do OD: IAs dominando o mundo; surpresa nos confins do Sistema Solar e mais!",
+      "summary": "No noticiário, também tiveram destaque investigações de fraude no Brasil, novidades em jogos e avanços na exploração espacial O post Resumo do OD: IAs dominando o mundo; surpresa…",
+      "link": "https://olhardigital.com.br/2026/09/15/pro/resumo-do-od-ias-dominando-o-mundo-surpresa-nos-confins-do-sistema-solar-e-mais/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-15T09:42:59+00:00"
+    },
+    {
+      "id": "b74edcc054ac25f9",
+      "title": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+      "summary": "OpenAI, Anthropic, and Google want to slow down frontier AI development, citing safety concerns. But critics from across the industry and politics are pushing back. Cohere CEO…",
+      "link": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_anthropic_white_house.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-15T09:04:36+00:00"
+    },
+    {
+      "id": "3183829397490190",
+      "title": "Meta Introduces ZGateway: A Stateless Proxy Tier That Unifies ZippyDB Traffic and Handles Over 1 Billion Operations Per Second",
+      "summary": "Meta engineering team introduced ZGateway, a proxy tier that now sits between client applications and ZippyDB, the Meta’s most widely used key value store. ZippyDB backs product…",
+      "link": "https://www.marktechpost.com/2026/09/14/meta-introduces-zgateway-a-stateless-proxy-tier-that-unifies-zippydb-traffic-and-handles-over-1-billion-operations-per-second/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-15T04:28:29+00:00"
+    },
+    {
+      "id": "f0b27d6091dd3357",
+      "title": "Agent-net Open Sources Webagent: A Go Harness That Turns Any Website into a Guarded AI Agent",
+      "summary": "Agent-net, the team building an agent-to-agent marketplace where AI agents discover, trust, and pay each other, has released Webagent, an open source harness for standing up…",
+      "link": "https://www.marktechpost.com/2026/09/14/agent-net-open-sources-webagent-a-go-harness-that-turns-any-website-into-a-guarded-ai-agent/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-15T04:03:20+00:00"
+    },
     {
       "id": "bc7bec39373e2244",
       "title": "Nvidia sob pressão? Samsung banca startup que quer mudar arquitetura dos chips de IA",
@@ -67,6 +144,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-14T22:06:00+00:00"
+    },
+    {
+      "id": "688a4f7f530009a3",
+      "title": "Agent Harness vs Agent Framework vs MCP: Which Layer Owns the Loop, State, Tools, Permissions, and Recovery",
+      "summary": "A practitioner's map of the 3 layers in a modern agent stack, with verified sources and an overlap analysis. The post Agent Harness vs Agent Framework vs MCP: Which Layer Owns the…",
+      "link": "https://www.marktechpost.com/2026/09/14/agent-harness-vs-agent-framework-vs-mcp-which-layer-owns-the-loop-state-tools-permissions-and-recovery/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-14T21:54:22+00:00"
     },
     {
       "id": "cfce7ca956ec5884",
@@ -903,94 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-09-13T05:56:03+00:00"
-    },
-    {
-      "id": "c9c72d77ec474be7",
-      "title": "Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference",
-      "summary": "This practical tutorial demonstrates how to build and accelerate machine learning workflows using NVIDIA cuML and RAPIDS. It covers GPU environment setup, zero-code scikit-learn…",
-      "link": "https://www.marktechpost.com/2026/09/12/implementation-of-machine-learning-workflows-with-nvidia-cuml-rapids-gpu-benchmarking-explainability-clustering-and-model-inference/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-13T01:42:58+00:00"
-    },
-    {
-      "id": "4b7f94263a547388",
-      "title": "Cognition Releases SWE-2: A Kimi K3 Post-Trained Coding Model That Matches Fable 5.1 on FrontierCode at 64% Lower Cost",
-      "summary": "Cognition, the company behind the Devin coding agent, has released SWE-2, its most capable coding model to date. SWE-2 is post-trained with reinforcement learning from Kimi K3…",
-      "link": "https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable-5-1-on-frontiercode-at-64-lower-cost/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-12T23:56:03+00:00"
-    },
-    {
-      "id": "593440c97619d82b",
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-12T21:41:36+00:00"
-    },
-    {
-      "id": "b10d7fa5e19ae5db",
-      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-12T21:16:28+00:00"
-    },
-    {
-      "id": "adaebe0c9002dee8",
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-12T20:19:16+00:00"
-    },
-    {
-      "id": "b7b4c6f0444c06e5",
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-12T19:34:44+00:00"
-    },
-    {
-      "id": "1452d6f5f5d025cf",
-      "title": "Como a IA pode impactar negativamente as Eleições 2026",
-      "summary": "A inteligência artificial é um ponto de atenção muito importante nas Eleições Gerais de 2026 no Brasil. Cada vez mais enraizada na rotina digital dos brasileiros, a tecnologia é…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-a-ia-pode-impactar-negativamente-as-eleicoes-2026/",
-      "image": "https://tl.ctcdn.com.br/j6S0md4xF0orJk9wsNCmtjII1G0=/0x0/filters:format(webp):quality(85)/951ba2b0-05a9-4d99-b31c-2c49bdf170b6.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-12T19:00:04+00:00"
-    },
-    {
-      "id": "cdae9e4f4634dc40",
-      "title": "Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help",
-      "summary": "The Fly Language Model (FLM) drives all 166,700 retained neurons and 25.6 million edges of the MaleCNS fruit fly connectome with token embeddings, then adds a small learned…",
-      "link": "https://www.marktechpost.com/2026/09/12/fly-language-model-flm-wires-the-full-fruit-fly-connectome-into-a-frozen-1-2b-llm-and-its-own-controls-show-the-wiring-does-not-help/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-12T18:51:24+00:00"
     }
   ]
 }
