@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-09-14T21:30:31.482161+00:00",
+  "generated_at": "2026-09-15T03:29:22.729648+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "bc7bec39373e2244",
+      "title": "Nvidia sob pressão? Samsung banca startup que quer mudar arquitetura dos chips de IA",
+      "summary": "Startup holandesa Euclyd recebeu R$ 1,2 bilhão em rodada liderada pela Samsung e outros investidores; empresa pretende começar a lançar seus sistemas de chips em 2028 O post…",
+      "link": "https://olhardigital.com.br/2026/09/14/pro/nvidia-sob-pressao-samsung-banca-startup-que-quer-mudar-arquitetura-dos-chips-de-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/nvidia_chip-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-15T01:23:22+00:00"
+    },
+    {
+      "id": "dafaacd5d2a19785",
+      "title": "O real motivo por trás do pedido de empresas para desacelerar a IA",
+      "summary": "Os governos dos EUA e da China reagiram aos pedidos para desacelerar a IA e chamaram os alertas de \"alarmismo\" O post O real motivo por trás do pedido de empresas para desacelerar…",
+      "link": "https://olhardigital.com.br/2026/09/14/videos/o-real-motivo-por-tras-do-pedido-de-empresas-para-desacelerar-a-ia/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-15T01:23:14+00:00"
+    },
+    {
+      "id": "07352eb42e5c73bc",
+      "title": "Nova York derruba sites usados para criar deepfakes sexuais de famosas",
+      "summary": "Plataformas usavam IA para criar imagens e vídeos sexuais falsos de cerca de 1,2 mil pessoas sem consentimento O post Nova York derruba sites usados para criar deepfakes sexuais…",
+      "link": "https://olhardigital.com.br/2026/09/14/pro/nova-york-derruba-sites-usados-para-criar-deepfakes-sexuais-de-famosas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/ny_deepfake.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-14T23:07:17+00:00"
+    },
+    {
+      "id": "752a4ec6492b7270",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-14T22:59:41+00:00"
+    },
+    {
+      "id": "e451dcded166b5a0",
+      "title": "Trump interrompe palestra de CEO da Nvidia para defender avanço da IA",
+      "summary": "Presidente dos EUA afirmou que “os robôs não vão dominar” e defendeu que o país continue avançando no desenvolvimento da IA O post Trump interrompe palestra de CEO da Nvidia para…",
+      "link": "https://olhardigital.com.br/2026/09/14/pro/trump-interrompe-palestra-de-ceo-da-nvidia-para-defender-avanco-da-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/jensen_huang-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-14T22:50:09+00:00"
+    },
+    {
+      "id": "d2763f8d755631f1",
+      "title": "OpenAI paga humanos para ler suas conversas do ChatGPT; veja como desativar",
+      "summary": "Uma investigação recente revelou que a OpenAI contrata centenas de prestadores de serviços terceirizados para ler, resumir e avaliar conversas reais de usuários com o ChatGPT…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/openai-paga-humanos-para-ler-suas-conversas-do-chatgpt-veja-como-desativar/",
+      "image": "https://tl.ctcdn.com.br/oUMoXDQPn-yOR44vobblskhdmhY=/0x0/filters:format(webp):quality(85)/8342f4ab-4e48-4190-8797-8ab3823ce499.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-14T22:06:00+00:00"
+    },
+    {
+      "id": "cfce7ca956ec5884",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-14T21:51:02+00:00"
+    },
+    {
+      "id": "ab0b67bb40bdb005",
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-14T21:21:42+00:00"
+    },
     {
       "id": "62b0201c61731621",
       "title": "Galaxy Buds 4 Pro atinge 36% OFF na melhor oferta que já encontramos",
@@ -122,6 +210,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-14T20:07:37+00:00"
+    },
+    {
+      "id": "f6599299efeb5a97",
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the…",
+      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292612804.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-14T20:03:37+00:00"
     },
     {
       "id": "f3350931da46761f",
@@ -892,105 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-09-12T18:51:24+00:00"
-    },
-    {
-      "id": "5c441ebce438f95e",
-      "title": "Hora de imprimir mais gastando menos: veja uma seleção de impressoras em promoção na Amazon",
-      "summary": "Se você está pensando em renovar a impressora de casa ou do escritório, este é um bom momento para aproveitar. Reunimos três opções multifuncionais em oferta na Amazon — modelos…",
-      "link": "https://olhardigital.com.br/2026/09/12/reviews/hora-de-imprimir-mais-gastando-menos-veja-uma-selecao-de-impressoras-em-promocao-na-amazon-2/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-12T18:40:00+00:00"
-    },
-    {
-      "id": "ce5999c73d98ded5",
-      "title": "Como editar a memória do Claude?",
-      "summary": "O Claude, chatbot da Anthropic, consegue guardar informações de conversas anteriores para manter o contexto entre diferentes sessões. Com a função de memória, a IA pode lembrar de…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-editar-a-memoria-do-claude/",
-      "image": "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-12T17:00:01+00:00"
-    },
-    {
-      "id": "e35a7bd6c4328533",
-      "title": "Casa inteligente começa pelo som: Echo Dot em promoção na Amazon",
-      "summary": "Se você quer dar um passo rumo à casa inteligente, os smart speakers com Alexa são um ótimo ponto de entrada. A Amazon disponibilizou três versões do Echo Dot — nas cores preta…",
-      "link": "https://olhardigital.com.br/2026/09/12/reviews/casa-inteligente-comeca-pelo-som-echo-dot-em-promocao-na-amazon-3/",
-      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-12T17:00:00+00:00"
-    },
-    {
-      "id": "4bb7ed73f911dcda",
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-12T16:23:40+00:00"
-    },
-    {
-      "id": "7b4cc1d25b146a04",
-      "title": "Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control",
-      "summary": "Anthropic CEO Dario Amodei is calling for a controlled slowdown in AI development. He warns that recursive self-improvement could threaten the entire internet within six to twelve…",
-      "link": "https://the-decoder.com/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/anthropic_amodei.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-12T15:03:21+00:00"
-    },
-    {
-      "id": "664b7c30cd349bfc",
-      "title": "Trump is giving data centers a pass to pollute",
-      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-12T14:41:27+00:00"
-    },
-    {
-      "id": "db121fc249213f4c",
-      "title": "GPT-6 Astra appears to show a \"step change\" in spatial reasoning based on early benchmarks",
-      "summary": "In a new robotics benchmark, GPT-6 Astra shows major gains in spatial understanding. On StationeryBench, the model completed 7 out of 100 tasks with dual-arm robots, while…",
-      "link": "https://the-decoder.com/gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_robot_arms.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-12T14:26:09+00:00"
-    },
-    {
-      "id": "d4a8e4c703ad119d",
-      "title": "Nvidia wants to pour up to $10 billion into Anthropic's record-breaking IPO",
-      "summary": "Nvidia is in talks to invest up to $10 billion in Anthropic's planned IPO, Reuters reports. At a target valuation of $2 trillion, it would be the largest IPO in history. Most of…",
-      "link": "https://the-decoder.com/nvidia-wants-to-pour-up-to-10-billion-into-anthropics-record-breaking-ipo/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-12T14:05:18+00:00"
-    },
-    {
-      "id": "dfeed17eefa4b8cc",
-      "title": "AI models' written reasoning steps correspond to distinct internal patterns, a new study finds",
-      "summary": "Reasoning steps like calculation, formula retrieval, and deduction are clearly separable in a model's internal states, especially in the middle layers. That matters for AI safety…",
-      "link": "https://the-decoder.com/ai-models-written-reasoning-steps-correspond-to-distinct-internal-patterns-a-new-study-finds/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/reasoning-geometry-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-12T13:39:43+00:00"
     }
   ]
 }
