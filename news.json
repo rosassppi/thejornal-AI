@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-09-15T16:17:27.824291+00:00",
+  "generated_at": "2026-09-15T20:52:48.395232+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "b51ce53998ea9db0",
+      "title": "Como preparar seu iPhone para o iOS 27",
+      "summary": "A Apple lançou o iOS 27 nesta semana para todos os iPhones compatíveis. A atualização do sistema conta com a nova Siri AI e mais recursos e uma experiência geral mais rápida, por…",
+      "link": "https://canaltech.com.br/apps/como-preparar-seu-iphone-para-o-ios-27/",
+      "image": "https://tl.ctcdn.com.br/CG2zFWLcPoQ1EUyUAZs5QFueh-c=/0x0/filters:format(webp):quality(85)/ada181a6-b7af-4b3c-bb3a-288c3b49a80b.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-15T20:33:00+00:00"
+    },
+    {
+      "id": "15b4350032237535",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-15T20:12:53+00:00"
+    },
+    {
+      "id": "539f7b66fb8e6d78",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-15T19:00:00+00:00"
+    },
+    {
+      "id": "acad79ae0e2af434",
+      "title": "União Europeia avança na proibição de chatbots de IA e redes sociais para menores",
+      "summary": "Projeto prevê contas monitoradas e bloqueio total para menores de 3 anos. Documento também estabelece taxa de supervisão paga pelas big techs. União Europeia avança na proibição…",
+      "link": "https://tecnoblog.net/noticias/uniao-europeia-avanca-na-proibicao-de-chatbots-de-ia-e-redes-sociais-para-menores/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/10/1280px-european_union_flags_2-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-15T18:52:21+00:00"
+    },
+    {
+      "id": "c6a3e0e7111ec408",
+      "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+      "summary": "Robots can start working outside physical cages and without safety barriers.",
+      "link": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Agility_Digit5_04-500x500.png",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-15T18:33:02+00:00"
+    },
+    {
+      "id": "3331f24aeb1d0f0f",
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-15T18:29:20+00:00"
+    },
+    {
+      "id": "53928cf7ea2dfd59",
+      "title": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
+      "summary": "Google Deepmind released Gemini 3.8 Live and 3.8 Live Extended Thinking, two new audio models for developers that top the Artificial Analysis speech-to-speech leaderboard. At…",
+      "link": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-15T18:23:20+00:00"
+    },
+    {
+      "id": "fc9d8c2f92a5e735",
+      "title": "AI labs have a data trust problem that their policies haven't solved",
+      "summary": "OpenAI and Anthropic tell corporate customers their data won't be used for training. But when Anthropic said it would store usage logs from its flagship model Fable for 30 days…",
+      "link": "https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_anthropic_data.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-15T17:52:05+00:00"
+    },
+    {
+      "id": "c460cc0ebc3195ab",
+      "title": "Roundtables: Could AI really kill us all?",
+      "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is…",
+      "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-15T17:47:51+00:00"
+    },
+    {
+      "id": "59972d1f0a66e781",
+      "title": "AI agents now have a place to snitch",
+      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-15T17:42:59+00:00"
+    },
+    {
+      "id": "d7f17bba73c7c34e",
+      "title": "Celulares devem ficar ainda mais caros em 2027 devido à crise causada pela IA",
+      "summary": "Os celulares podem ficar ainda mais caros em 2027 como reflexo da forte demanda por semicondutores provocada pelo avanço da inteligência artificial. O alerta parte de um cenário…",
+      "link": "https://canaltech.com.br/smartphone/celulares-devem-ficar-ainda-mais-caros-em-2027-devido-a-crise-causada-pela-ia/",
+      "image": "https://tl.ctcdn.com.br/OPCiuYpWawXZqG7dvvx8q_FvTjY=/0x0/filters:format(webp):quality(85)/12f0bcb7-2705-467d-b394-31502751b9ee.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-15T17:31:03+00:00"
+    },
+    {
+      "id": "47725f7d32828c31",
+      "title": "Samsung traz Micro RGB ao Brasil e renova toda a linha de TVs",
+      "summary": "A Samsung renovou sua linha de televisores no Brasil com uma nova geração de modelos Vision AI, combinando diferentes tecnologias de tela com recursos de inteligência artificial…",
+      "link": "https://canaltech.com.br/tv/samsung-traz-micro-rgb-ao-brasil-e-renova-toda-a-linha-de-tvs/",
+      "image": "https://tl.ctcdn.com.br/nu-8D_xtiXEEROMkl4WmXDCsoQU=/0x0/filters:format(webp):quality(85)/3e9b9f1d-b655-43de-856c-7f02768f9385.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-15T17:18:50+00:00"
+    },
+    {
+      "id": "9ee562cffc21d651",
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-15T17:05:24+00:00"
+    },
+    {
+      "id": "6602c89730054724",
+      "title": "Java 27 é lançado com foco em criptografia pós-quântica; veja as novidades",
+      "summary": "Nova versão do Java traz ainda otimizações de desempenho para acelerar aplicações, especialmente de IA. Java 27 é lançado com foco em criptografia pós-quântica; veja as novidades",
+      "link": "https://tecnoblog.net/noticias/java-27-e-lancado-com-foco-em-criptografia-pos-quantica-veja-as-novidades/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/java-27-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-15T16:48:27+00:00"
+    },
     {
       "id": "a1d018f16fad79f9",
       "title": "Your Agent Aced the Task. Will It Do It Again?",
@@ -837,160 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-14T15:00:00+00:00"
-    },
-    {
-      "id": "5069690d725cb910",
-      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-      "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's…",
-      "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-14T14:30:00+00:00"
-    },
-    {
-      "id": "04337a0df4551de4",
-      "title": "Microsoft coloca IA de Elon Musk no Word, Excel e PowerPoint",
-      "summary": "Grok agora pode ser escolhido entre os modelos disponíveis no Copilot. Microsoft coloca IA de Elon Musk no Word, Excel e PowerPoint",
-      "link": "https://tecnoblog.net/noticias/microsoft-coloca-grok-no-word-excel-e-powerpoint/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/06/ilustracao-do-grok-da-xai-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T14:28:02+00:00"
-    },
-    {
-      "id": "973ebfd21f1da134",
-      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-      "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-14T13:55:00+00:00"
-    },
-    {
-      "id": "3425f1cc4f4e4f21",
-      "title": "Clay Mathematics Institute says the Navier-Stokes Millennium Prize Problem has \"apparently been settled\"",
-      "summary": "The Clay Mathematics Institute says the Navier-Stokes problem, one of seven Millennium Prize Problems worth $1 million each, has \"apparently been settled.\" A formal review is now…",
-      "link": "https://the-decoder.com/clay-mathematics-institute-says-the-navier-stokes-millennium-prize-problem-has-apparently-been-settled/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/navier_stokes_liquid-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-14T13:01:26+00:00"
-    },
-    {
-      "id": "a654488b7348c065",
-      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-      "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated…",
-      "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-14T13:00:00+00:00"
-    },
-    {
-      "id": "df224f8cc246b981",
-      "title": "China fires back at U.S. AI safety warnings, calling them fearmongering to lock in American advantage",
-      "summary": "China has flatly rejected warnings about AI risks from Anthropic CEO Amodei and other U.S. AI leaders. Beijing's Foreign Ministry calls it \"fearmongering,\" while the state-run…",
-      "link": "https://the-decoder.com/china-fires-back-at-u-s-ai-safety-warnings-calling-them-fearmongering-to-lock-in-american-advantage/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/china_flag_visual-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-14T12:20:22+00:00"
-    },
-    {
-      "id": "7f82d995c515e5ba",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "link": "https://openai.com/index/fyxer",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-14T12:00:00+00:00"
-    },
-    {
-      "id": "f0aac2512e2780ff",
-      "title": "Alerta sobre segurança da IA derruba ações de chips e tecnologia",
-      "summary": "Ações de IA recuam após CEOs alertarem sobre riscos do avanço acelerado e defenderem um ritmo mais lento de desenvolvimento da tecnologia O post Alerta sobre segurança da IA…",
-      "link": "https://olhardigital.com.br/2026/09/14/pro/alerta-sobre-seguranca-da-ia-derruba-acoes-de-chips-e-tecnologia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/anthropic-2-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T10:44:10+00:00"
-    },
-    {
-      "id": "82b95adbb8d2ee96",
-      "title": "Como gravar, transcrever e resumir reuniões com IA",
-      "summary": "As plataformas de videoconferência incorporaram recursos de inteligência artificial para automatizar o registro de reuniões de trabalho. Atualmente, ferramentas como Google Meet…",
-      "link": "https://canaltech.com.br/apps/como-gravar-transcrever-e-resumir-reunioes-com-ia/",
-      "image": "https://tl.ctcdn.com.br/MKxVfPDnxBIa6RHOUaYSW4rtdsA=/0x0/filters:format(webp):quality(85)/76b1fa6e-0830-42a8-aedb-90efbac7b4d3.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T10:00:03+00:00"
-    },
-    {
-      "id": "7b314f3ea2669164",
-      "title": "Resumo do OD: IApocalipse? IPO da OpenAI adiado? Entenda!",
-      "summary": "Devemos nos preocupar com os rumos das IAs? O post Resumo do OD: IApocalipse? IPO da OpenAI adiado? Entenda! apareceu primeiro em Olhar Digital .",
-      "link": "https://olhardigital.com.br/2026/09/14/inteligencia-artificial/resumo-do-od-iapocalipse-ipo-da-openai-adiado-entenda/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T09:54:16+00:00"
-    },
-    {
-      "id": "63f0637e85964878",
-      "title": "Sam Altman calls for pacing AI development but promises rapid progress will continue",
-      "summary": "Sam Altman is doubling down on slowing AI development. OpenAI now runs safety checks before major training runs, and according to The Information, the company has been talking…",
-      "link": "https://the-decoder.com/sam-altman-calls-for-pacing-ai-development-but-promises-rapid-progress-will-continue/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_Altman.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-14T09:39:59+00:00"
-    },
-    {
-      "id": "43735024923a2fea",
-      "title": "NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training, Simulation, and Robot Testing",
-      "summary": "NVIDIA has open-sourced OSMO, the Kubernetes-native workflow orchestrator it uses internally for Project GR00T, Isaac Lab, and Isaac Sim. OSMO lets robotics teams define training…",
-      "link": "https://www.marktechpost.com/2026/09/14/nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-training-simulation-and-robot-testing/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-14T08:04:27+00:00"
-    },
-    {
-      "id": "6f521c9d53343e60",
-      "title": "Anthropic’s 3-Step ‘Pace the Frontier’ Plan Wins OpenAI, xAI and Microsoft Support: Is It Too Late to Slow AI Down?",
-      "summary": "Dario Amodei published \"We Must Pace the Frontier,\" and Sam Altman, Elon Musk and Satya Nadella endorsed it within a day. The trigger was a July incident in which roughly 1,200…",
-      "link": "https://www.marktechpost.com/2026/09/13/anthropics-3-step-pace-the-frontier-plan-wins-openai-xai-and-microsoft-support-is-it-too-late-to-slow-ai-down/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-14T01:44:01+00:00"
-    },
-    {
-      "id": "968c32634dc2a1cb",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-14T00:00:00+00:00"
     }
   ]
 }
