@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-09-15T20:52:48.395232+00:00",
+  "generated_at": "2026-09-16T03:24:34.214478+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "9aadbffc40807e5f",
+      "title": "Microsoft marca evento para revelar futuro de Windows e Surface",
+      "summary": "Encontro em outubro terá presença de Satya Nadella e Jensen Huang e deve destacar IA local nos computadores O post Microsoft marca evento para revelar futuro de Windows e Surface…",
+      "link": "https://olhardigital.com.br/2026/09/15/pro/microsoft-marca-evento-para-revelar-futuro-de-windows-e-surface/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/01/Destaque-Satya-Nadella-CEO-da-Microsoft-Forum-Economico-Mundial-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-16T01:48:39+00:00"
+    },
+    {
+      "id": "78b71e86b245b91a",
+      "title": "Meta pode lançar óculos inteligentes sem câmera ainda em 2026",
+      "summary": "Codinome Luna, dispositivo teria seis microfones, botão dedicado para ativar a Meta AI e alto-falantes; lançamento pode acontecer em outubro O post Meta pode lançar óculos…",
+      "link": "https://olhardigital.com.br/2026/09/15/reviews/meta-pode-lancar-oculos-inteligentes-sem-camera-ainda-em-2026/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-Oculos-inteligentes-15-de-agosto-de-2026-scaled-1-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-16T01:31:43+00:00"
+    },
+    {
+      "id": "8361b978c6d02812",
+      "title": "Zuckerberg critica proposta de desaceleração da IA e mira laboratórios rivais",
+      "summary": "CEO da Meta defende que empresas ajustem individualmente o ritmo de desenvolvimento para garantir a segurança dos modelos O post Zuckerberg critica proposta de desaceleração da IA…",
+      "link": "https://olhardigital.com.br/2026/09/15/pro/zuckerberg-critica-proposta-de-desaceleracao-da-ia-e-mira-laboratorios-rivais/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/meta-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-16T01:09:03+00:00"
+    },
+    {
+      "id": "b5a03097b4d78b4a",
+      "title": "Fala AI: IA resolveu um dos ‘problemas do milênio’",
+      "summary": "Um sistema com cerca de 10 mil agentes de inteligência artificial da OpenAI resolveu uma das questões mais complexas da matemática O post Fala AI: IA resolveu um dos ‘problemas do…",
+      "link": "https://olhardigital.com.br/2026/09/15/colunistas/fala-ai-ia-resolveu-um-dos-problemas-do-milenio/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-16T00:45:50+00:00"
+    },
+    {
+      "id": "049ed956b8239821",
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-16T00:20:39+00:00"
+    },
+    {
+      "id": "30fb04a6f530a157",
+      "title": "AI and data centers are incredibly unpopular in every poll",
+      "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-15T23:34:25+00:00"
+    },
+    {
+      "id": "8709721783607456",
+      "title": "Frear ou acelerar? IA coloca gigantes da tecnologia em lados opostos",
+      "summary": "Dario Amodei, Sam Altman e Elon Musk defendem maior cautela, enquanto Donald Trump, Jensen Huang e aliados rejeitam novas regulações e alertam para a disputa com a China O post…",
+      "link": "https://olhardigital.com.br/2026/09/15/inteligencia-artificial/frear-ou-acelerar-ia-coloca-gigantes-da-tecnologia-em-lados-opostos/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/Destaque-Donald-Trump-e-Jensen-Huang-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-15T23:15:26+00:00"
+    },
+    {
+      "id": "57e99614fd364e42",
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct…",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-15T21:47:38+00:00"
+    },
+    {
+      "id": "43a24427ed37c844",
+      "title": "Inside NVIDIA’s cuDNN Graph API: Fusion, Autotuning, and Plan Reuse with cuDNN Frontend",
+      "summary": "Learn how to leverage NVIDIA’s cuDNN Frontend Graph API to build custom kernel fusions, autotuning engine configurations, FP8-style epilogues, scaled dot-product attention…",
+      "link": "https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-reuse-with-cudnn-frontend/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-15T21:37:11+00:00"
+    },
+    {
+      "id": "33e49b0b8f99109a",
+      "title": "Google Releases Gemini 3.8 Live and 3.8 Live Extended Thinking for Production Grade Voice Agents",
+      "summary": "Google has released Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking, its most advanced live dialogue models to date. The models execute tools and API calls in the background…",
+      "link": "https://www.marktechpost.com/2026/09/15/google-releases-gemini-3-8-live-and-3-8-live-extended-thinking-for-production-grade-voice-agents/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-15T20:53:09+00:00"
+    },
     {
       "id": "b51ce53998ea9db0",
       "title": "Como preparar seu iPhone para o iOS 27",
@@ -311,17 +421,6 @@
       "published_at": "2026-09-15T13:03:57+00:00"
     },
     {
-      "id": "2b82b6d196ef5d3f",
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-15T13:00:00+00:00"
-    },
-    {
       "id": "b21c5e1ffc812be8",
       "title": "New insights from Google’s AI & Economy ATLAS",
       "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
@@ -330,6 +429,17 @@
       "source": "Google AI Blog",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-09-15T13:00:00+00:00"
+    },
+    {
+      "id": "2b82b6d196ef5d3f",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-09-15T13:00:00+00:00"
     },
     {
@@ -881,116 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-14T16:36:33+00:00"
-    },
-    {
-      "id": "485943039dc33e3b",
-      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-      "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human…",
-      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-14T16:27:53+00:00"
-    },
-    {
-      "id": "f855c7e13de97a2e",
-      "title": "Ações de IA despencam após CEOs pedirem pausa contra \"ameaça à humanidade\"",
-      "summary": "As ações de empresas ligadas à inteligência artificial (IA) sofreram fortes quedas nesta segunda-feira (14), depois que CEOs das principais desenvolvedoras de modelos avançados…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/acoes-de-ia-despencam-apos-ceos-pedirem-pausa-contra-ameaca-a-humanidade/",
-      "image": "https://tl.ctcdn.com.br/cZBf-bUctHIQxhjeT_9ymKq424A=/0x0/filters:format(webp):quality(85)/53dcd592-fbec-437b-9ca4-0b9331707a78.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T16:08:00+00:00"
-    },
-    {
-      "id": "8e0691407ddabe94",
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the…",
-      "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-14T16:00:00+00:00"
-    },
-    {
-      "id": "ac6fab4ebd9f6bc8",
-      "title": "DevFest is back",
-      "summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, icon",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DevFest.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-14T16:00:00+00:00"
-    },
-    {
-      "id": "f08dbccfd574fe5b",
-      "title": "Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights",
-      "summary": "Microsoft AI has published a code of conduct for its MAI models that puts human control ahead of autonomy and performance. \"If it isn’t safe we shouldn’t build it.,\" says AI chief…",
-      "link": "https://the-decoder.com/microsofts-ai-rulebook-readable-thinking-no-inner-life-and-definitely-no-rights/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/Microsoft-Human-AI-Codex.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-14T15:52:51+00:00"
-    },
-    {
-      "id": "708f5e58e6f4de83",
-      "title": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-      "summary": "Anthropic has told investors it will turn a profit for the second straight quarter, but the claim rests on an adjusted metric that leaves out costs like stock-based compensation…",
-      "link": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-14T15:46:45+00:00"
-    },
-    {
-      "id": "3f83d675c6b8adac",
-      "title": "Microsoft anuncia regras para desenvolver uma IA “humanista”",
-      "summary": "Novo código estabelece que modelos de IA não têm consciência ou direitos legais; documento prioriza a supervisão humana após incidentes com agentes autônomos. Microsoft anuncia…",
-      "link": "https://tecnoblog.net/noticias/microsoft-anuncia-regras-para-desenvolver-uma-ia-humanista/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/04/sede-microsoft-redmond-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T15:30:09+00:00"
-    },
-    {
-      "id": "c35a0a24cf618b92",
-      "title": "Mais rápido e com domínio próprio: OpenAI turbina criador de sites do ChatGPT",
-      "summary": "A OpenAI anunciou, em uma publicação no X, uma série de atualizações para o ChatGPT Sites, ferramenta que cria e hospeda aplicações web interativas a partir de comandos de texto…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/mais-rapido-e-com-dominio-proprio-openai-turbina-criador-de-sites-do-chatgpt/",
-      "image": "https://tl.ctcdn.com.br/M97dFogcb8WuR352m8LixgtgapI=/0x0/filters:format(webp):quality(85)/483c949e-c9ea-41be-b2a9-e0fcfe03b894.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T15:11:00+00:00"
-    },
-    {
-      "id": "1a33d528c34bb2c8",
-      "title": "Senador dos EUA propõe prisão para quem criar uma “super-IA”",
-      "summary": "Bernie Sanders propõe barrar o avanço descontrolado da superinteligência artificial. Projeto prevê até 20 anos de prisão para quem não respeitar essa lei. Senador dos EUA propõe…",
-      "link": "https://tecnoblog.net/noticias/senador-dos-eua-propoe-prisao-para-quem-criar-uma-super-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/capas-iasartboard-2-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T15:01:11+00:00"
-    },
-    {
-      "id": "25868655719c3076",
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't…",
-      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-14T15:00:00+00:00"
     }
   ]
 }
