@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-16T03:24:34.214478+00:00",
+  "generated_at": "2026-09-16T10:52:15.040839+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "21470f4f1140d788",
+      "title": "Nearly one in five AI researchers already expected an extinction scenario from AI back in 2024",
+      "summary": "Anthropic researcher Jacob Coxon sparked an intense debate about existential AI risks with a single tweet. OpenAI researcher Daniel Selsam warns of a \"ticking time bomb,\" and a…",
+      "link": "https://the-decoder.com/nearly-one-in-five-ai-researchers-already-expected-an-extinction-scenario-from-ai-back-in-2024/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/robot_scientists_threat.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-16T10:20:02+00:00"
+    },
+    {
+      "id": "d3172e8e69cc717f",
+      "title": "Após críticas de privacidade, Meta prepara óculos inteligentes sem câmera",
+      "summary": "A Meta prepara novos óculos inteligentes sem câmera . O modelo, conhecido internamente como Luna , pode ser apresentado durante a conferência Connect, marcada para 23 e 24 de…",
+      "link": "https://canaltech.com.br/produtos/apos-criticas-de-privacidade-meta-prepara-oculos-inteligentes-sem-camera/",
+      "image": "https://tl.ctcdn.com.br/oBH1th-V-Li4LXVUwTyhIsGEgmw=/0x0/filters:format(webp):quality(85)/9121b1cc-a3cb-4a71-8afa-a3e17c24027e.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-16T09:52:26+00:00"
+    },
+    {
+      "id": "9a1d7c404055dd6c",
+      "title": "Resumo do OD: Europa x redes sociais; Starship voltando; foguete brasileiro decolando",
+      "summary": "E mais: Mark Zuckerberg, CEO da Meta, entrou no debate sobre a velocidade de desenvolvimento da inteligência artificial O post Resumo do OD: Europa x redes sociais; Starship…",
+      "link": "https://olhardigital.com.br/2026/09/16/pro/resumo-do-od-europa-x-redes-sociais-starship-voltando-foguete-brasileiro-decolando/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/02/shutterstock_2534154993-1-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-16T09:48:52+00:00"
+    },
+    {
+      "id": "d842d2fb3395daf6",
+      "title": "Europa vai proibir redes sociais para menores de 15 anos; IA também está na mira",
+      "summary": "Ursula von der Leyen anunciou nesta quarta-feira (16) uma lei proibirá que menores de 13 anos acessem essas plataformas digitais O post Europa vai proibir redes sociais para…",
+      "link": "https://olhardigital.com.br/2026/09/16/internet-e-redes-sociais/europa-vai-proibir-redes-sociais-para-menores-de-15-anos-ia-tambem-esta-na-mira/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/02/shutterstock_2534154993-1-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-16T09:33:16+00:00"
+    },
     {
       "id": "9aadbffc40807e5f",
       "title": "Microsoft marca evento para revelar futuro de Windows e Surface",
@@ -947,50 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-14T17:10:09+00:00"
-    },
-    {
-      "id": "6e1fc219700646d3",
-      "title": "Fãs de Professor Layton criticam Level-5 por uso de IA; estúdio se explica",
-      "summary": "Apresentação da desenvolvedora levantou suspeitas sobre uso de inteligência artificial em novos jogos; presidente afirma que elementos ligados à identidade das obras continuam…",
-      "link": "https://olhardigital.com.br/2026/09/14/games-e-consoles/professor-layton-gera-criticas-a-level-5-por-uso-de-ia/",
-      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/09/Professor-Layton-Level-5.webp",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T17:00:14+00:00"
-    },
-    {
-      "id": "3ece8052e8d02b56",
-      "title": "Casa inteligente começa pelo som: Echo Dot em oferta na Amazon",
-      "summary": "Se você quer dar um upgrade na sua casa inteligente, a Amazon tem ótimas opções de Smart Speakers com Alexa disponíveis agora. Separamos três versões do Echo Dot — a geração mais…",
-      "link": "https://olhardigital.com.br/2026/09/14/reviews/casa-inteligente-comeca-pelo-som-echo-dot-em-oferta-na-amazon-6/",
-      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T17:00:00+00:00"
-    },
-    {
-      "id": "5c789c6d58ec2857",
-      "title": "Trump chama pedido de freio na IA de “conspiração doentia” para favorecer China",
-      "summary": "Presidente dos EUA voltou a atacar apelos de líderes da tecnologia por desaceleração da inteligência artificial e afirmou que país já tem instrumentos para controlar o setor O…",
-      "link": "https://olhardigital.com.br/2026/09/14/inteligencia-artificial/trump-chama-pedido-de-freio-na-ia-de-conspiracao-doentia-para-favorecer-china/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-China-e-EUA-na-corrida-da-IA-scaled-1-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T16:41:43+00:00"
-    },
-    {
-      "id": "8a91a80f527a075d",
-      "title": "Divulgação científica: como trazer o Universo para mais perto de quem nunca olhou por um telescópio",
-      "summary": "Especialistas revisitaram o Astronomia ao Vivo e discutiram os desafios da divulgação científica na era da inteligência artificial O post Divulgação científica: como trazer o…",
-      "link": "https://olhardigital.com.br/2026/09/14/ciencia-e-espaco/divulgacao-cientifica-como-trazer-o-universo-para-mais-perto-de-quem-nunca-olhou-por-um-telescopio/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Olhar-Espacial-11-09-26-1024x468.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T16:36:33+00:00"
     }
   ]
 }
