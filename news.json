@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-09-16T16:10:19.882099+00:00",
+  "generated_at": "2026-09-16T20:53:30.320563+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "46aa3a71d1463843",
+      "title": "The AI data center e-waste problem is huge — and getting bigger",
+      "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-16T20:40:46+00:00"
+    },
+    {
+      "id": "e78eec3a7fca72d3",
+      "title": "EU president warns AI agents \"escaping their environment\" are just a preview of what's coming",
+      "summary": "Ursula von der Leyen plans to invite the major frontier labs to talks and use the AI Act to help set global AI safety standards. She cited autonomous hacking and self-improving…",
+      "link": "https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/europe_EU_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-16T19:02:25+00:00"
+    },
+    {
+      "id": "bb03d390670bf031",
+      "title": "Impressoras em promoção na Amazon: escolha a ideal para o seu dia a dia",
+      "summary": "Seja para uso doméstico, home office ou pequena empresa, uma boa impressora faz toda a diferença na rotina. Reunimos três opções em oferta na Amazon que valem a atenção — com…",
+      "link": "https://olhardigital.com.br/2026/09/16/reviews/impressoras-em-promocao-na-amazon-escolha-a-ideal-para-o-seu-dia-a-dia/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-16T18:40:00+00:00"
+    },
+    {
+      "id": "2aee4c2d587d9af5",
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-16T18:25:25+00:00"
+    },
+    {
+      "id": "11a1462f8f8c53d7",
+      "title": "Apple is reportedly building an enterprise AI server with its own M8 Ultra chips",
+      "summary": "According to The Information, Apple is working on an enterprise server with two or four M8 Ultra chips for the AI inference market, with a possible launch no earlier than 2029…",
+      "link": "https://the-decoder.com/apple-is-reportedly-building-an-enterprise-ai-server-with-its-own-m8-ultra-chips/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/apple_logo_neon_green.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-16T18:16:27+00:00"
+    },
+    {
+      "id": "4a7a36db293def7f",
+      "title": "Novo Gemini raciocina enquanto conversa por voz com usuário",
+      "summary": "O Google anunciou os modelos Gemini 3.8 Live e Gemini 3.8 Live Extended Thinking, que conseguem raciocinar enquanto conversam com o usuário por voz e executar tarefas em segundo…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/novo-gemini-raciocina-enquanto-conversa-por-voz-com-usuario/",
+      "image": "https://tl.ctcdn.com.br/2EyuqhmZaLK-QAejIMGN0_3cdSw=/0x0/filters:format(webp):quality(85)/895b88d2-a897-4e5e-9b32-b24dbcb48fb2.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-16T18:03:00+00:00"
+    },
+    {
+      "id": "07b9c369142a71fc",
+      "title": "Novas placas GeForce RTX 60 ganham janela de lançamento para antes do esperado",
+      "summary": "Um novo vazamento aponta que a NVIDIA prepara o lançamento das placas de vídeo da linha GeForce RTX 60 para o início de 2027 , após o projeto ser adiado. Inicialmente previstos…",
+      "link": "https://canaltech.com.br/hardware/novas-placas-geforce-rtx-60-ganham-janela-de-lancamento-para-antes-do-esperado/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-16T17:57:00+00:00"
+    },
+    {
+      "id": "14a1b53588b2bd7b",
+      "title": "Apple might make servers again to cash in on the AI rush",
+      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and…",
+      "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-16T17:20:29+00:00"
+    },
+    {
+      "id": "17a9e8f353cf5b6f",
+      "title": "Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI",
+      "summary": "Google Deepmind has founded the Deepmind Institute (DMI), an interdisciplinary research platform focused on AGI. Led by Demis Hassabis, Shane Legg, and James Manyika, the…",
+      "link": "https://the-decoder.com/google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/google_deepmind-scaled.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-16T17:00:28+00:00"
+    },
+    {
+      "id": "3f0c679ced8d8862",
+      "title": "Your AI agents can now control your Google Home devices",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries…",
+      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-16T17:00:00+00:00"
+    },
+    {
+      "id": "b229c2cba9991e07",
+      "title": "Google will now let any AI agent run your smart home",
+      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the…",
+      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-16T17:00:00+00:00"
+    },
+    {
+      "id": "a02ed1e3e949de61",
+      "title": "Anthropic merges Claude Chat, Cowork, and more into a single product",
+      "summary": "Anthropic is merging Claude Chat and Cowork into a single product. Instead of users picking between interfaces, Claude now decides on its own whether a task needs a quick answer…",
+      "link": "https://the-decoder.com/anthropic-merges-claude-chat-cowork-and-more-into-a-single-product/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-16T16:31:41+00:00"
+    },
+    {
+      "id": "6e2c10698576e8b7",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-16T16:30:00+00:00"
+    },
+    {
+      "id": "7f73f40ae99d6225",
+      "title": "Claude comes for Gemini with its own take on Docs and Slides",
+      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Claude-Docs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-16T16:30:00+00:00"
+    },
+    {
+      "id": "3078b11f4f8a7ed4",
+      "title": "Zuckerberg rejeita apelos para frear desenvolvimento da IA",
+      "summary": "CEO da Meta argumenta que pressões de mercado e riscos legais já garantem a segurança da inteligência artificial. Zuckerberg rejeita apelos para frear desenvolvimento da IA",
+      "link": "https://tecnoblog.net/noticias/zuckerberg-rejeita-apelos-para-frear-desenvolvimento-da-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-04-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-16T16:22:45+00:00"
+    },
+    {
+      "id": "01bd6b22597c1a8a",
+      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+      "summary": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to…",
+      "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-16T16:00:00+00:00"
+    },
     {
       "id": "b0366f9850a9d166",
       "title": "Helping older adults use AI in everyday life",
@@ -168,6 +344,17 @@
       "published_at": "2026-09-16T12:00:00+00:00"
     },
     {
+      "id": "4410122683c56925",
+      "title": "How to connect AI usage to business value",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-16T12:00:00+00:00"
+    },
+    {
       "id": "21470f4f1140d788",
       "title": "Nearly one in five AI researchers already expected an extinction scenario from AI back in 2024",
       "summary": "Anthropic researcher Jacob Coxon sparked an intense debate about existential AI risks with a single tweet. OpenAI researcher Daniel Selsam warns of a \"ticking time bomb,\" and a…",
@@ -210,6 +397,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-16T09:33:16+00:00"
+    },
+    {
+      "id": "7d2872733a614740",
+      "title": "How workers are unlocking new ways of working",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "link": "https://openai.com/index/unlocking-new-ways-of-working",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-16T09:00:00+00:00"
     },
     {
       "id": "40255816c3e324ac",
@@ -793,204 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-09-15T04:28:29+00:00"
-    },
-    {
-      "id": "f0b27d6091dd3357",
-      "title": "Agent-net Open Sources Webagent: A Go Harness That Turns Any Website into a Guarded AI Agent",
-      "summary": "Agent-net, the team building an agent-to-agent marketplace where AI agents discover, trust, and pay each other, has released Webagent, an open source harness for standing up…",
-      "link": "https://www.marktechpost.com/2026/09/14/agent-net-open-sources-webagent-a-go-harness-that-turns-any-website-into-a-guarded-ai-agent/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-15T04:03:20+00:00"
-    },
-    {
-      "id": "bc7bec39373e2244",
-      "title": "Nvidia sob pressão? Samsung banca startup que quer mudar arquitetura dos chips de IA",
-      "summary": "Startup holandesa Euclyd recebeu R$ 1,2 bilhão em rodada liderada pela Samsung e outros investidores; empresa pretende começar a lançar seus sistemas de chips em 2028 O post…",
-      "link": "https://olhardigital.com.br/2026/09/14/pro/nvidia-sob-pressao-samsung-banca-startup-que-quer-mudar-arquitetura-dos-chips-de-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/nvidia_chip-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-15T01:23:22+00:00"
-    },
-    {
-      "id": "dafaacd5d2a19785",
-      "title": "O real motivo por trás do pedido de empresas para desacelerar a IA",
-      "summary": "Os governos dos EUA e da China reagiram aos pedidos para desacelerar a IA e chamaram os alertas de \"alarmismo\" O post O real motivo por trás do pedido de empresas para desacelerar…",
-      "link": "https://olhardigital.com.br/2026/09/14/videos/o-real-motivo-por-tras-do-pedido-de-empresas-para-desacelerar-a-ia/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-15T01:23:14+00:00"
-    },
-    {
-      "id": "07352eb42e5c73bc",
-      "title": "Nova York derruba sites usados para criar deepfakes sexuais de famosas",
-      "summary": "Plataformas usavam IA para criar imagens e vídeos sexuais falsos de cerca de 1,2 mil pessoas sem consentimento O post Nova York derruba sites usados para criar deepfakes sexuais…",
-      "link": "https://olhardigital.com.br/2026/09/14/pro/nova-york-derruba-sites-usados-para-criar-deepfakes-sexuais-de-famosas/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/ny_deepfake.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T23:07:17+00:00"
-    },
-    {
-      "id": "752a4ec6492b7270",
-      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-14T22:59:41+00:00"
-    },
-    {
-      "id": "e451dcded166b5a0",
-      "title": "Trump interrompe palestra de CEO da Nvidia para defender avanço da IA",
-      "summary": "Presidente dos EUA afirmou que “os robôs não vão dominar” e defendeu que o país continue avançando no desenvolvimento da IA O post Trump interrompe palestra de CEO da Nvidia para…",
-      "link": "https://olhardigital.com.br/2026/09/14/pro/trump-interrompe-palestra-de-ceo-da-nvidia-para-defender-avanco-da-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/jensen_huang-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T22:50:09+00:00"
-    },
-    {
-      "id": "d2763f8d755631f1",
-      "title": "OpenAI paga humanos para ler suas conversas do ChatGPT; veja como desativar",
-      "summary": "Uma investigação recente revelou que a OpenAI contrata centenas de prestadores de serviços terceirizados para ler, resumir e avaliar conversas reais de usuários com o ChatGPT…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/openai-paga-humanos-para-ler-suas-conversas-do-chatgpt-veja-como-desativar/",
-      "image": "https://tl.ctcdn.com.br/oUMoXDQPn-yOR44vobblskhdmhY=/0x0/filters:format(webp):quality(85)/8342f4ab-4e48-4190-8797-8ab3823ce499.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T22:06:00+00:00"
-    },
-    {
-      "id": "688a4f7f530009a3",
-      "title": "Agent Harness vs Agent Framework vs MCP: Which Layer Owns the Loop, State, Tools, Permissions, and Recovery",
-      "summary": "A practitioner's map of the 3 layers in a modern agent stack, with verified sources and an overlap analysis. The post Agent Harness vs Agent Framework vs MCP: Which Layer Owns the…",
-      "link": "https://www.marktechpost.com/2026/09/14/agent-harness-vs-agent-framework-vs-mcp-which-layer-owns-the-loop-state-tools-permissions-and-recovery/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-14T21:54:22+00:00"
-    },
-    {
-      "id": "cfce7ca956ec5884",
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-14T21:51:02+00:00"
-    },
-    {
-      "id": "ab0b67bb40bdb005",
-      "title": "What execs and politicians are saying about slowing down AI development",
-      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-14T21:21:42+00:00"
-    },
-    {
-      "id": "62b0201c61731621",
-      "title": "Galaxy Buds 4 Pro atinge 36% OFF na melhor oferta que já encontramos",
-      "summary": "Galaxy Buds 4 Pro estão em promoção com 36% de desconto no Mercado Livre. Fones topo de linha da Samsung trazem áudio Hi-Fi, diferentes níveis de ANC e recursos do Galaxy AI…",
-      "link": "https://tecnoblog.net/achados/galaxy-buds-4-pro-atinge-36-off-na-melhor-oferta-que-ja-encontramos/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T21:09:24+00:00"
-    },
-    {
-      "id": "b0dbe92ca480fbf0",
-      "title": "Reward AI Releases OM-1: A Robot Policy Trained on Human Demonstrations Only, With No Teleoperation or On-Robot Data",
-      "summary": "Reward AI has released OM-1 (Omnibody Model 1), a general-purpose manipulation policy trained entirely on human demonstrations captured with a 7-DoF wearable glove, with no…",
-      "link": "https://www.marktechpost.com/2026/09/14/reward-ai-releases-om-1-a-robot-policy-trained-on-human-demonstrations-only-with-no-teleoperation-or-on-robot-data/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-14T21:08:17+00:00"
-    },
-    {
-      "id": "0a67bb4610e17cf8",
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-14T21:04:32+00:00"
-    },
-    {
-      "id": "4e51627863f6d9ec",
-      "title": "Sakana AI Researchers Introduce PC-ALM, a Layer-Local Alternative to Backpropagation That Trains 1000-Layer Networks",
-      "summary": "Sakana AI researchers Jeffrey Seely and Julian Gould introduce Augmented Lagrangian Predictive Coding (PC-ALM), a local-learning alternative to backpropagation. By attaching a…",
-      "link": "https://www.marktechpost.com/2026/09/14/sakana-ai-researchers-introduce-pc-alm-a-layer-local-alternative-to-backpropagation-that-trains-1000-layer-networks/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-14T20:46:16+00:00"
-    },
-    {
-      "id": "220ecf78d8352e14",
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-14T20:44:14+00:00"
-    },
-    {
-      "id": "45f14e46cdf31798",
-      "title": "IA pode aumentar risco de corrida por armas biológicas, dizem especialistas",
-      "summary": "Modelos de inteligência artificial voltados à biologia podem ampliar riscos de criação de patógenos, embora chatbots atuais ainda tenham impacto considerado modesto O post IA pode…",
-      "link": "https://olhardigital.com.br/2026/09/14/inteligencia-artificial/ia-pode-aumentar-risco-de-corrida-por-armas-biologicas-dizem-especialistas/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T20:42:12+00:00"
-    },
-    {
-      "id": "a78ff555e796e1bb",
-      "title": "Samsung renova linha de TVs premium com Micro RGB, OLED e Neo QLED",
-      "summary": "Nova geração da linha Vision AI reúne telas de 48 a 85 polegadas, com preços entre R$ 4.749 e R$ 42.499. Samsung renova linha de TVs premium com Micro RGB, OLED e Neo QLED",
-      "link": "https://tecnoblog.net/noticias/samsung-renova-linha-de-tvs-premium-com-micro-rgb-oled-e-neo-qled/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/samsung-r95h-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T20:31:40+00:00"
-    },
-    {
-      "id": "1904b2f35c90b7e7",
-      "title": "OpenAI pode estar preparando câmera de celular com IA para seu dispositivo",
-      "summary": "Glass Imaging desenvolve tecnologia que usa IA para produzir imagens de smartphones com qualidade comparável à de câmeras DSLR O post OpenAI pode estar preparando câmera de…",
-      "link": "https://olhardigital.com.br/2026/09/14/pro/openai-pode-estar-preparando-camera-de-celular-com-ia-para-seu-dispositivo/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/openai-1-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T20:25:05+00:00"
     }
   ]
 }
