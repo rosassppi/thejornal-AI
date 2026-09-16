@@ -1,7 +1,172 @@
 {
-  "generated_at": "2026-09-16T10:52:15.040839+00:00",
+  "generated_at": "2026-09-16T16:10:19.882099+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "b0366f9850a9d166",
+      "title": "Helping older adults use AI in everyday life",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-16T16:00:00+00:00"
+    },
+    {
+      "id": "22355cddf0070406",
+      "title": "Former OpenAI researcher builds an AI model that judges options instead of writing text",
+      "summary": "TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, is releasing a model that deliberately generates no text. Instead of chat responses, \"Jev\" delivers pure…",
+      "link": "https://the-decoder.com/former-openai-researcher-builds-an-ai-model-that-judges-options-instead-of-writing-text/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/TypeSafe-AI.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-16T15:19:19+00:00"
+    },
+    {
+      "id": "3d91fbde00041c50",
+      "title": "Linha do tempo: como IA foi da aliada a ‘ameaça existencial’",
+      "summary": "Onde essa história começa? Muita gente falou sobre isso nos últimos dias. E o Olhar Digital coloca ordem nesse caos O post Linha do tempo: como IA foi da aliada a ‘ameaça…",
+      "link": "https://olhardigital.com.br/2026/09/16/inteligencia-artificial/linha-do-tempo-como-ia-foi-da-aliada-a-ameaca-existencial/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/chatgpt-claude-e1789570405839-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-16T15:12:24+00:00"
+    },
+    {
+      "id": "ff010d6d9a04a252",
+      "title": "Mozilla's new Smart Window assistant runs on Mistral's models",
+      "summary": "Mistral and Mozilla are teaming up to offer AI-powered browsing that puts privacy first. The article Mozilla's new Smart Window assistant runs on Mistral's models appeared first…",
+      "link": "https://the-decoder.com/mozillas-new-smart-window-assistant-runs-on-mistrals-models/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/Linkedin-Partnership-Firefox-copie_1chG4c.webp",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-16T15:01:38+00:00"
+    },
+    {
+      "id": "720bed5a556c3b47",
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before…",
+      "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-16T15:00:00+00:00"
+    },
+    {
+      "id": "13c00ea98211fa0d",
+      "title": "Political opposites unite in Washington to rein in AI",
+      "summary": "From Bernie Sanders to Steve Bannon, political opposites in Washington are jointly demanding hard brakes on artificial intelligence. Sanders wants a construction freeze on data…",
+      "link": "https://the-decoder.com/political-opposites-unite-in-washington-to-rein-in-ai/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/01/Stargate-US-digital-map-title.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-16T14:59:58+00:00"
+    },
+    {
+      "id": "a202e95f743ae1ac",
+      "title": "The sexy AI-powered dating app scams are here",
+      "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268744_Inside_romance_AI_scam_apps_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-16T14:45:00+00:00"
+    },
+    {
+      "id": "9ceefffb0fbfa808",
+      "title": "O que as empresas esperam dos profissionais de tecnologia hoje",
+      "summary": "Especialistas explicam como a inteligência artificial está mudando as exigências das empresas sem deixar de lado conhecimentos técnicos e capacidade de resolver problemas O post O…",
+      "link": "https://olhardigital.com.br/2026/09/16/pro/o-que-as-empresas-esperam-dos-profissionais-de-tecnologia-hoje/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-16T14:38:02+00:00"
+    },
+    {
+      "id": "24d3cc51291c17b8",
+      "title": "Novo Gmail com Gemini responde perguntas exatas sobre seus e-mails",
+      "summary": "O Google começou a liberar globalmente o recurso “AI Overview” na busca do Gmail . A ferramenta usa o Gemini para responder perguntas feitas em linguagem natural e encontrar…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/novo-gmail-com-gemini-responde-perguntas-exatas-sobre-seus-e-mails/",
+      "image": "https://tl.ctcdn.com.br/2vn7YLKS1tdFWoHRaaP_w86RWFs=/0x0/filters:format(webp):quality(85)/5641c454-f9a1-4c77-8b51-7a6f034e7cdc.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-16T14:33:00+00:00"
+    },
+    {
+      "id": "aa2c9f649806863b",
+      "title": "Na era da IA, colaborar será mais importante do que centralizar dados",
+      "summary": "*Por Ronaldo Pedro da Silva Nunca produzimos tantos dados. Ainda assim, uma parcela enorme deles permanece isolada dentro de empresas, hospitais, universidades e centros de…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/na-era-da-ia-colaborar-sera-mais-importante-do-que-centralizar-dados/",
+      "image": "https://tl.ctcdn.com.br/V-vrXtG7T5SzWyOTEIU93KNC7eQ=/0x0/filters:format(webp):quality(85)/aa5a96f6-31ea-4ed0-982e-b36d03bec63f.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-16T13:01:19+00:00"
+    },
+    {
+      "id": "def75ecd4873d016",
+      "title": "Former Infosys chief’s AI startup nabs another $53M",
+      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+      "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-16T13:00:00+00:00"
+    },
+    {
+      "id": "6ac27c68838b29ee",
+      "title": "Reimagining advertising with AI",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "link": "https://openai.com/index/reimagining-advertising-with-ai",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-16T13:00:00+00:00"
+    },
+    {
+      "id": "aa1ce2752544234d",
+      "title": "Building the materials foundation for AI",
+      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms…",
+      "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-16T12:47:34+00:00"
+    },
+    {
+      "id": "fa720084644d9253",
+      "title": "Bill Gates propõe acordo inusitado para evitar caos com IA: \"não estamos preparados\"",
+      "summary": "O cofundador da Microsoft e filantropo Bill Gates alertou, em entrevista à Reuters, que os governos de todo o mundo estão “muito atrás” na preparação para os impactos da…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/bill-gates-propoe-acordo-inusitado-para-evitar-caos-com-ia-nao-estamos-preparados/",
+      "image": "https://tl.ctcdn.com.br/yXv6MbuKj9iY1UjsexAGjKQ3Y6A=/0x0/filters:format(webp):quality(85)/03626ba5-7f54-428a-9f66-839a3822c09b.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-16T12:32:58+00:00"
+    },
+    {
+      "id": "f1145eca1cbd10af",
+      "title": "A brief history of AI executives calling for regulation",
+      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including…",
+      "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/AI_extinction.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-16T12:00:00+00:00"
+    },
     {
       "id": "21470f4f1140d788",
       "title": "Nearly one in five AI researchers already expected an extinction scenario from AI back in 2024",
@@ -45,6 +210,28 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-16T09:33:16+00:00"
+    },
+    {
+      "id": "40255816c3e324ac",
+      "title": "Prior Labs Releases TabPFN-3.5: A Tabular Foundation Model That Beats the Winning Otto Kaggle Solution With Default Settings",
+      "summary": "Prior Labs released TabPFN-3.5, a tabular foundation model pretrained only on synthetic data that beats Otto's winning solution. The post Prior Labs Releases TabPFN-3.5: A Tabular…",
+      "link": "https://www.marktechpost.com/2026/09/15/prior-labs-releases-tabpfn-3-5-a-tabular-foundation-model-that-beats-the-winning-otto-kaggle-solution-with-default-settings/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-16T06:52:18+00:00"
+    },
+    {
+      "id": "f1a2dada20f08388",
+      "title": "Nums AI Releases Causilo: A Tabular Foundation Model That Tops TabArena Among Single Models",
+      "summary": "Nums AI has released Causilo, a pretrained tabular foundation model for classification and regression with a scikit-learn interface. It posts the top TabArena Elo among single…",
+      "link": "https://www.marktechpost.com/2026/09/15/nums-ai-releases-causilo-a-tabular-foundation-model-that-tops-tabarena-among-single-models/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-16T04:59:47+00:00"
     },
     {
       "id": "9aadbffc40807e5f",
@@ -804,193 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-14T20:25:05+00:00"
-    },
-    {
-      "id": "5f8f5af4a062e138",
-      "title": "Galaxy S25 fica 56% mais barato ao cair de preço com cupom no Mercado Livre",
-      "summary": "Galaxy S25 com 256 GB, câmera de 50 MP e Galaxy AI sai por menos da metade do preço combinando cupom e pagamento via Pix Galaxy S25 fica 56% mais barato ao cair de preço com cupom…",
-      "link": "https://tecnoblog.net/achados/galaxy-s25-fica-56-mais-barato-ao-cair-de-preco-com-cupom-no-mercado-livre/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T20:24:15+00:00"
-    },
-    {
-      "id": "a6db815cddf707ce",
-      "title": "O que falta para a OpenAI finalmente abrir capital",
-      "summary": "Sam Altman descartou IPO em 2026 e apontou questões de segurança, alinhamento e o momento da tecnologia como fatores para definir quando empresa estará pronta O post O que falta…",
-      "link": "https://olhardigital.com.br/2026/09/14/pro/openai-adia-ipo-e-nao-vai-abrir-capital-em-2026-diz-sam-altman/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-OpenAI-AGI-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T20:22:29+00:00"
-    },
-    {
-      "id": "f2097a0ee04afd27",
-      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-      "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
-      "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-14T20:07:37+00:00"
-    },
-    {
-      "id": "f6599299efeb5a97",
-      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-      "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the…",
-      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292612804.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-14T20:03:37+00:00"
-    },
-    {
-      "id": "f3350931da46761f",
-      "title": "iOS 27 é liberado para todos: veja como atualizar seu iPhone e ativar a nova Siri AI",
-      "summary": "A Apple liberou nesta segunda-feira (14) o iOS 27 para os iPhones compatíveis. A nova versão do sistema operacional traz mudanças no visual, novos recursos de inteligência…",
-      "link": "https://canaltech.com.br/software/ios-27-e-liberado-para-todos-veja-como-atualizar-seu-iphone-e-ativar-a-nova-siri-ai/",
-      "image": "https://tl.ctcdn.com.br/KoSk4_yUaIlSI0jG1NjsBHLZEVA=/0x0/filters:format(webp):quality(85)/562527df-79c2-4044-8c7b-10bd4228dccd.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T20:01:00+00:00"
-    },
-    {
-      "id": "9cca7ef422ebcebf",
-      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-      "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2256018320-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-14T19:45:13+00:00"
-    },
-    {
-      "id": "aa4187fee3c8bfe9",
-      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
-      "summary": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
-      "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Wang-Xingxing-Unitree-Robotics-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-14T19:38:46+00:00"
-    },
-    {
-      "id": "f4adf3cb8e161bd0",
-      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-      "summary": "This is also the last version of macOS to support Rosetta for Intel apps.",
-      "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-OS-27-500x500-1789411872.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-14T19:28:42+00:00"
-    },
-    {
-      "id": "2e01ab27ca7bb620",
-      "title": "Musk retira processo contra Apple, mas mantém ação contra OpenAI",
-      "summary": "As empresas de Elon Musk retiraram o processo antitruste contra a Apple no Texas, mas mantêm as ações judiciais focadas na OpenAI O post Musk retira processo contra Apple, mas…",
-      "link": "https://olhardigital.com.br/2026/09/14/inteligencia-artificial/musk-retira-processo-contra-apple-mas-mantem-acao-contra-openai/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/12/xai_openai_apple-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T19:13:17+00:00"
-    },
-    {
-      "id": "57947d2c67ddf6c7",
-      "title": "AI leaders want to hit the brakes after years of reckless speed",
-      "summary": "Safety is the watchword, but there could be ulterior benefits for the industry.",
-      "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1482639221-500x500-1789407445.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-14T19:06:13+00:00"
-    },
-    {
-      "id": "6666660dfd652924",
-      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-14T19:00:00+00:00"
-    },
-    {
-      "id": "02d3f94a19960acf",
-      "title": "iOS 27 chega com nova Siri e vários recursos de IA",
-      "summary": "Atualização já está disponível para usuários e traz nova Siri, ferramentas de IA, mais opções para o Liquid Glass e melhorias em aplicativos O post iOS 27 chega com nova Siri e…",
-      "link": "https://olhardigital.com.br/2026/09/14/reviews/ios-27-chega-com-nova-siri-e-varios-recursos-de-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/siri-ai-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T18:57:25+00:00"
-    },
-    {
-      "id": "74aac96083eac257",
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted…",
-      "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-14T17:54:22+00:00"
-    },
-    {
-      "id": "82646c1d09bffc7b",
-      "title": "O que é AI Slop? Entenda a gíria que vai contra o uso desenfreado de inteligência artificial",
-      "summary": "Os tipos de AI Slop, ou lixo de IA, variam de textos automatizados, imagens hiper-realistas bizarras até vídeos e músicas genéricas produzidas em massa O que é AI Slop? Entenda a…",
-      "link": "https://tecnoblog.net/responde/o-que-e-ai-slop-entenda-a-giria-que-vai-contra-o-uso-desenfreado-de-inteligencia-artificial/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/ai-slop-marcela-barsse-getty-image-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T17:54:08+00:00"
-    },
-    {
-      "id": "2c703a6fd5f201a2",
-      "title": "Xiaomi continua invadindo sua casa e agora vende luminária de teto",
-      "summary": "A Xiaomi continua a ampliar seu ecossistema para casa e agora colocou em financiamento coletivo na China a Mijia Ceiling Light C , nova série de luminárias inteligentes de teto. A…",
-      "link": "https://canaltech.com.br/eletro/xiaomi-continua-invadindo-sua-casa-e-agora-vende-luminaria-de-teto/",
-      "image": "https://tl.ctcdn.com.br/tKp3D4hEQL4ooSdMSTfp0g8K8Ks=/0x0/filters:format(webp):quality(85)/398e62f5-4802-4a1d-a719-63e2eddc101b.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-14T17:25:15+00:00"
-    },
-    {
-      "id": "8a6d6dfc5ea335f1",
-      "title": "OpenAI has hundreds of contract workers reading your ChatGPT conversations",
-      "summary": "OpenAI has hundreds of contract workers reading real ChatGPT conversations and rating them on a scale of one to seven, partly to reduce flattery and human-like behavior, 404 Media…",
-      "link": "https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-14T17:15:28+00:00"
-    },
-    {
-      "id": "e36c25198c9b6d99",
-      "title": "macOS 27: new Siri takes on AI productivity apps",
-      "summary": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.",
-      "link": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-14T17:10:09+00:00"
     }
   ]
 }
