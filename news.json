@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-09-17T03:30:30.365515+00:00",
+  "generated_at": "2026-09-17T10:59:34.459935+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "cc2b7970c3304a5f",
+      "title": "OpenRouter's staggering token chart is the AI bubble debate in a single image",
+      "summary": "On OpenRouter, weekly token consumption has surged more than 25,000 percent since January 2025, from 0.5 to 126.2 trillion tokens. The number looks impressive, but it says less…",
+      "link": "https://the-decoder.com/openrouters-staggering-token-chart-is-the-ai-bubble-debate-in-a-single-image/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/tokenization-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-17T10:24:32+00:00"
+    },
+    {
+      "id": "3283776d844ff5a3",
+      "title": "Kingdom Hearts chega ao Fortnite com Sora, Keyblade e evento especial",
+      "summary": "Parceria leva Sora, Riku, Kairi e Roxas ao Fortnite, além de novos itens, Overrides temáticos e períodos especiais em que todos os jogadores poderão começar as partidas com…",
+      "link": "https://olhardigital.com.br/2026/09/17/games-e-consoles/kingdom-hearts-chega-ao-fortnite/",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/09/Kingdom-Hearts-Fortnite-Estadao.avif",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-17T10:00:00+00:00"
+    },
+    {
+      "id": "ac80a7974abff3ef",
+      "title": "OpenAI's GPT-6 Astra decrypts a Nazi radio message in ten hours that went unsolved for 83 years",
+      "summary": "A Bloomberg developer claims to have cracked an 83-year-old Enigma message from the Wehrmacht using OpenAI's GPT-6 Astra. The 82-character radio message from 1941 contains a…",
+      "link": "https://the-decoder.com/openais-gpt-6-astra-decrypts-a-nazi-radio-message-in-ten-hours-that-went-unsolved-for-83-years/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/gpt6_astra_engima.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-17T09:45:55+00:00"
+    },
+    {
+      "id": "21129a59133b7af0",
+      "title": "Resumo do OD: do Vaticano à ONU, IA está no centro do debate",
+      "summary": "Os alertas ocorrem em meio ao aumento das preocupações sobre segurança e controle de sistemas de IA O post Resumo do OD: do Vaticano à ONU, IA está no centro do debate apareceu…",
+      "link": "https://olhardigital.com.br/2026/09/17/pro/resumo-do-od-do-vaticano-a-onu-ia-esta-no-centro-do-debate/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-17T07:59:08+00:00"
+    },
+    {
+      "id": "a3827026bd29cb86",
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-17T05:00:00+00:00"
+    },
+    {
+      "id": "91e8548e920fc960",
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing…",
+      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-17T03:30:00+00:00"
+    },
     {
       "id": "95b0bbd9da70a78e",
       "title": "Sam Altman vai a jantar de Trump com Xi Jinping em meio à disputa global pela IA",
@@ -925,72 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-15T15:00:03+00:00"
-    },
-    {
-      "id": "748ab31264dabb3c",
-      "title": "Meta’s new One subscriptions put a price on social media and AI",
-      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the…",
-      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Meta-One-Bundle-plans-for-individuals.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-15T15:00:00+00:00"
-    },
-    {
-      "id": "92ea157fc34bbbc0",
-      "title": "MediaTek lança seu primeiro chip de 2 nanômetros para celulares",
-      "summary": "Dimensity 9600 Pro é voltado a smartphones topo de linha e foca em recursos para IA. SoC estreia suporte à memória LPDDR6. MediaTek lança seu primeiro chip de 2 nanômetros para…",
-      "link": "https://tecnoblog.net/noticias/mediatek-lanca-seu-primeiro-chip-de-2-nanometros-para-celulares/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/mediatek-dimensity-9600-pro-edited-340x191.webp",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-15T14:52:01+00:00"
-    },
-    {
-      "id": "2ad00fed45619228",
-      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
-      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-15T14:42:37+00:00"
-    },
-    {
-      "id": "fbaff9172668974b",
-      "title": "After warning AI is too dangerous, Bill Gates bets a billion on its upside",
-      "summary": "The Gates Foundation is investing at least a billion dollars over two years to make AI tools more widely available in health, education, and agriculture. Bill Gates warns that…",
-      "link": "https://the-decoder.com/after-warning-ai-is-too-dangerous-bill-gates-bets-a-billion-on-its-upside/",
-      "image": "https://the-decoder.com/wp-content/uploads/2023/10/bill_gates_gates_foundation.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-15T14:26:48+00:00"
-    },
-    {
-      "id": "77bd4010b058dfba",
-      "title": "Brasileiros aceitam IA nas compras, mas querem manter controle, revela estudo",
-      "summary": "Quase três em cada dez brasileiros nunca permitiriam que um agente de IA fizesse uma compra sem supervisão . É o que mostra um estudo da PYMNTS Intelligence feito em colaboração…",
-      "link": "https://canaltech.com.br/mercado/brasileiros-aceitam-ia-nas-compras-mas-querem-manter-controle-revela-estudo/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-15T14:00:03+00:00"
-    },
-    {
-      "id": "6444791fae45e288",
-      "title": "This doorbell camera lets a human security guard watch your front door",
-      "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99…",
-      "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/SimpliSafe-Video-Doorbell-Series-2_06_250844.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-15T13:36:45+00:00"
     }
   ]
 }
