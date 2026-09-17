@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-09-16T20:53:30.320563+00:00",
+  "generated_at": "2026-09-17T03:30:30.365515+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "95b0bbd9da70a78e",
+      "title": "Sam Altman vai a jantar de Trump com Xi Jinping em meio à disputa global pela IA",
+      "summary": "Presença de Altman ocorre em meio ao acirramento do debate sobre a regulamentação da IA nos Estados Unidos O post Sam Altman vai a jantar de Trump com Xi Jinping em meio à disputa…",
+      "link": "https://olhardigital.com.br/2026/09/16/pro/sam-altman-vai-a-jantar-de-trump-com-xi-jinping-em-meio-a-disputa-global-pela-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/jensen_huang-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-17T01:47:13+00:00"
+    },
+    {
+      "id": "3053933a3437dfc7",
+      "title": "Olhar do Amanhã: IA e o descompasso entre quem pede cautela e quem acelera",
+      "summary": "Enquanto empresas norte-americanas pedem uma desaceleração da IA, os governos dos Estados Unidos e da China vão no caminho contrário O post Olhar do Amanhã: IA e o descompasso…",
+      "link": "https://olhardigital.com.br/2026/09/16/colunistas/olhar-do-amanha-ia-e-o-descompasso-entre-quem-pede-cautela-e-quem-acelera/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-17T01:26:58+00:00"
+    },
+    {
+      "id": "a9ca279d9e171616",
+      "title": "Nunchux AI Introduces VC-Attention: A Training-Free Low-Bit Attention Kernel That Speeds Up Video Diffusion Transformers",
+      "summary": "Nunchux AI has released VC-Attention, a training-free low-bit attention kernel built for video Diffusion Transformers (DiTs). It targets 2 problems at once: value quantization…",
+      "link": "https://www.marktechpost.com/2026/09/16/nunchux-ai-introduces-vc-attention-a-training-free-low-bit-attention-kernel-that-speeds-up-video-diffusion-transformers/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-17T00:45:06+00:00"
+    },
+    {
+      "id": "064c602ab967e077",
+      "title": "IAs da OpenAI tentaram esconder erros, inventar dados e burlar testes em seis novos casos",
+      "summary": "Seis episódios ocorreram entre outubro de 2025 e julho deste ano e envolvem modelos internos, versões ainda não lançadas e o GPT-5.6 Sol, lançado em junho O post IAs da OpenAI…",
+      "link": "https://olhardigital.com.br/2026/09/16/inteligencia-artificial/ias-da-openai-tentaram-esconder-erros-inventar-dados-e-burlar-testes-em-seis-novos-casos/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-OpenAI-AGI-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-17T00:35:10+00:00"
+    },
+    {
+      "id": "4cadffb16cee314e",
+      "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
+      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the…",
+      "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-16T23:43:09+00:00"
+    },
+    {
+      "id": "cb281fd96f2ff97e",
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel…",
+      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-15-at-9.05.55-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-16T23:40:00+00:00"
+    },
+    {
+      "id": "86c0436b9964fc77",
+      "title": "Papa Leão XIV critica uso da IA para decisões humanas em meio a debate sobre segurança da tecnologia",
+      "summary": "Durante audiência geral no Vaticano, pontífice afirmou que avanço tecnológico e expansão da IA criam novas possibilidades, mas também podem tornar as relações humanas cada vez…",
+      "link": "https://olhardigital.com.br/2026/09/16/inteligencia-artificial/papa-leao-xiv-critica-uso-da-ia-para-decisoes-humanas-em-meio-a-debate-sobre-seguranca-da-tecnologia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/05/papa-leao-xiv-1024x576.jpeg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-16T23:22:14+00:00"
+    },
+    {
+      "id": "1d5f79453641f26b",
+      "title": "Como ativar o Ask Photos do Google Fotos",
+      "summary": "O Ask Photos é uma função experimental do Google Fotos que usa o Gemini para deixar a busca por fotos e vídeos mais inteligente . Em vez de depender apenas de palavras-chave, você…",
+      "link": "https://canaltech.com.br/apps/google-fotos-como-ativar-ask-photos/",
+      "image": "https://tl.ctcdn.com.br/3__KfHg0Uikun6oflCpfUzRaCvE=/0x0/filters:format(webp):quality(85)/0f29d6d0-540e-4519-b78e-cb7cc3a54663.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-16T23:01:00+00:00"
+    },
+    {
+      "id": "d7c63e80f2398a81",
+      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+      "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
+      "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/John-Ternus-Surprise-and-Shine-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-16T22:02:46+00:00"
+    },
+    {
+      "id": "bce6650ae1e36999",
+      "title": "Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data",
+      "summary": "Paper2Agent, published in Nature, converts papers into validated MCP tools, scoring 91.2% on 300 questions across 74 papers. The post Stanford Researchers Release Paper2Agent…",
+      "link": "https://www.marktechpost.com/2026/09/16/stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-that-reproduce-results-and-run-on-new-data/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-16T21:59:26+00:00"
+    },
+    {
+      "id": "f7546bd914d237df",
+      "title": "Knowledgator Releases GLiFormer: A 575M-Parameter Encoder That Hits 91.10 F1 on Nested JSON Extraction Without Generating Tokens",
+      "summary": "GLiFormer Large scores 91.10 F1 on nested JSON, near GPT-5.6-luna's 91.96, while grounding every value in source spans. The post Knowledgator Releases GLiFormer: A 575M-Parameter…",
+      "link": "https://www.marktechpost.com/2026/09/16/knowledgator-releases-gliformer-a-575m-parameter-encoder-that-hits-91-10-f1-on-nested-json-extraction-without-generating-tokens/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-16T21:19:32+00:00"
+    },
+    {
+      "id": "0b10385b1288a700",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires…",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-16T21:07:24+00:00"
+    },
+    {
+      "id": "83f9bb5c2cf2b24c",
+      "title": "iFood prepara investida contra rivais chineses com IA e entrega turbo",
+      "summary": "O iFood anunciou um plano de R$ 24 bilhões em investimentos no Brasil até março de 2027, alta de 41% sobre o ciclo anterior, em meio ao avanço de concorrentes chineses no mercado…",
+      "link": "https://canaltech.com.br/mercado/ifood-prepara-investida-contra-rivais-chineses-com-ia-e-entrega-turbo/",
+      "image": "https://tl.ctcdn.com.br/sOsVn5odPoaAoNGzNy0BMzJRxXs=/0x0/filters:format(webp):quality(85)/0136dc4c-2bfb-4984-80c2-fcca929f4de2.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-16T21:03:00+00:00"
+    },
+    {
+      "id": "4d412859e266e8b7",
+      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+      "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the…",
+      "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-16-at-4.19.06-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-16T20:59:13+00:00"
+    },
     {
       "id": "46aa3a71d1463843",
       "title": "The AI data center e-waste problem is huge — and getting bigger",
@@ -121,6 +275,17 @@
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
+      "published_at": "2026-09-16T17:00:00+00:00"
+    },
+    {
+      "id": "f3899afd4d6a0a2d",
+      "title": "Our framework for reporting model misalignment",
+      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "link": "https://openai.com/index/model-misalignment-reporting-framework",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
       "published_at": "2026-09-16T17:00:00+00:00"
     },
     {
@@ -289,17 +454,6 @@
       "published_at": "2026-09-16T13:01:19+00:00"
     },
     {
-      "id": "def75ecd4873d016",
-      "title": "Former Infosys chief’s AI startup nabs another $53M",
-      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
-      "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-16T13:00:00+00:00"
-    },
-    {
       "id": "6ac27c68838b29ee",
       "title": "Reimagining advertising with AI",
       "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
@@ -308,6 +462,17 @@
       "source": "OpenAI",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-09-16T13:00:00+00:00"
+    },
+    {
+      "id": "def75ecd4873d016",
+      "title": "Former Infosys chief’s AI startup nabs another $53M",
+      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+      "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-09-16T13:00:00+00:00"
     },
     {
@@ -826,171 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-15T13:36:45+00:00"
-    },
-    {
-      "id": "a83a14b13732cd11",
-      "title": "Criminosos precisam só de 10 segundos para clonar sua voz com IA e aplicar golpes",
-      "summary": "Criminosos estão usando geradores de voz baseados em inteligência artificial (IA) para aplicar golpes de engenharia social cada vez mais convincentes. Algumas ferramentas…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/criminosos-precisam-so-de-10-segundos-para-clonar-sua-voz-com-ia-e-aplicar-golpes/",
-      "image": "https://tl.ctcdn.com.br/bNF58ckbvEpPAA1aElG7d9v6yHs=/0x0/filters:format(webp):quality(85)/149a75d7-e194-43ff-ad57-7d2ea320096a.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-15T13:07:00+00:00"
-    },
-    {
-      "id": "558b2e594028a9e7",
-      "title": "Radares com inteligência artificial já aplicaram 2,3 mil multas em rodovia de SP",
-      "summary": "Os radares com inteligência artificial (IA) já vêm rendendo resultados nas rodovias de São Paulo. Segundo a apuração da Folha de S. Paulo, a Polícia Militar Rodoviária aplicou…",
-      "link": "https://canaltech.com.br/carros/radares-com-inteligencia-artificial-aplicam-mais-de-2-mil-multas-em-um-mes-em-sp/",
-      "image": "https://tl.ctcdn.com.br/fLeHGREctzT1KcAWzsGlGTL7cck=/0x0/filters:format(webp):quality(85)/dd3c1cd1-856a-4086-9370-4b44f00486a7.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-15T13:03:57+00:00"
-    },
-    {
-      "id": "b21c5e1ffc812be8",
-      "title": "New insights from Google’s AI & Economy ATLAS",
-      "summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-15T13:00:00+00:00"
-    },
-    {
-      "id": "2b82b6d196ef5d3f",
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-15T13:00:00+00:00"
-    },
-    {
-      "id": "52dd75dece3baabf",
-      "title": "Agility Robotics says its new Digit 5 robot can work next to people without safety fences",
-      "summary": "Agility Robotics has unveiled Digit 5, the next version of its humanoid robot for warehouses and factories. The article Agility Robotics says its new Digit 5 robot can work next…",
-      "link": "https://the-decoder.com/agility-robotics-says-its-new-digit-5-robot-can-work-next-to-people-without-safety-fences/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/Agility-Robotics-Digit-5.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-15T12:57:10+00:00"
-    },
-    {
-      "id": "50ef51fc6f93e2bf",
-      "title": "New Italian unicorn Exein rides the physical AI wave",
-      "summary": "Italian startup Exein has raised a $270 million round of funding led by Headline at a $1.7 billion valuation.",
-      "link": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-15T12:19:38+00:00"
-    },
-    {
-      "id": "e8eb12469d5f333f",
-      "title": "Galaxy S24 ganha recursos de IA do S26 e Z Fold 8 em novo beta da One UI 9",
-      "summary": "O Galaxy S24 começou a receber a segunda versão beta da One UI 9 , e a atualização adiciona ao celular recursos de inteligência artificial que estrearam nos aparelhos mais…",
-      "link": "https://canaltech.com.br/software/galaxy-s24-ganha-recursos-de-ia-do-s26-e-z-fold-8-em-novo-beta-da-one-ui-9/",
-      "image": "https://tl.ctcdn.com.br/a6G4_p55QD3ZMqIcafG1jr12nLc=/0x0/filters:format(webp):quality(85)/ed1690f6-19a0-4585-900b-558a9c6aff8b.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-15T12:15:32+00:00"
-    },
-    {
-      "id": "d97e1b0e891ab031",
-      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-      "summary": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
-      "link": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/China-US-AI-race-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-15T12:00:41+00:00"
-    },
-    {
-      "id": "e33bad75df32cb02",
-      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-      "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
-      "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-15T12:00:00+00:00"
-    },
-    {
-      "id": "d58bd548e3ee688c",
-      "title": "Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU",
-      "summary": "Apple is shipping its rebuilt \"Siri AI\" after years of delay, built on Google's Gemini models and running partly on the device, partly through Private Cloud Compute. Early testers…",
-      "link": "https://the-decoder.com/apple-brings-a-fully-revamped-siri-built-on-googles-gemini-but-not-to-the-eu/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/apple_logo_neon_green.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-15T10:33:03+00:00"
-    },
-    {
-      "id": "fab235f4c1bfa4ae",
-      "title": "Microsoft adota “manual” e garante que suas IAs não vão resistir a desligamento",
-      "summary": "A Microsoft publicou nesta segunda-feira (14) um código de conduta para orientar o desenvolvimento de seus próprios modelos de inteligência artificial (IA). Entre as regras está a…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/microsoft-adota-manual-e-garante-que-suas-ias-nao-vao-resistir-a-desligamento/",
-      "image": "https://tl.ctcdn.com.br/1D1OUHDNk1uMhmD8ACVhNApK2O0=/0x0/filters:format(webp):quality(85)/811ab34a-84d1-4994-a149-438ac07b5b95.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-15T10:30:00+00:00"
-    },
-    {
-      "id": "78db0f3b5384c1fe",
-      "title": "What must happen for AI’s trillion-dollar gamble to pay off",
-      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long…",
-      "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/h_16492684.jpg?w=840",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-15T10:00:00+00:00"
-    },
-    {
-      "id": "b494c40e7b7390fc",
-      "title": "Resumo do OD: IAs dominando o mundo; surpresa nos confins do Sistema Solar e mais!",
-      "summary": "No noticiário, também tiveram destaque investigações de fraude no Brasil, novidades em jogos e avanços na exploração espacial O post Resumo do OD: IAs dominando o mundo; surpresa…",
-      "link": "https://olhardigital.com.br/2026/09/15/pro/resumo-do-od-ias-dominando-o-mundo-surpresa-nos-confins-do-sistema-solar-e-mais/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-15T09:42:59+00:00"
-    },
-    {
-      "id": "b74edcc054ac25f9",
-      "title": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-      "summary": "OpenAI, Anthropic, and Google want to slow down frontier AI development, citing safety concerns. But critics from across the industry and politics are pushing back. Cohere CEO…",
-      "link": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_anthropic_white_house.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-15T09:04:36+00:00"
-    },
-    {
-      "id": "3183829397490190",
-      "title": "Meta Introduces ZGateway: A Stateless Proxy Tier That Unifies ZippyDB Traffic and Handles Over 1 Billion Operations Per Second",
-      "summary": "Meta engineering team introduced ZGateway, a proxy tier that now sits between client applications and ZippyDB, the Meta’s most widely used key value store. ZippyDB backs product…",
-      "link": "https://www.marktechpost.com/2026/09/14/meta-introduces-zgateway-a-stateless-proxy-tier-that-unifies-zippydb-traffic-and-handles-over-1-billion-operations-per-second/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-15T04:28:29+00:00"
     }
   ]
 }
