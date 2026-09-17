@@ -1,7 +1,282 @@
 {
-  "generated_at": "2026-09-17T16:16:18.454678+00:00",
+  "generated_at": "2026-09-17T20:57:55.041641+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "5db550bd37abd447",
+      "title": "Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop",
+      "summary": "Anthropic redesigned Projects in Claude Code. The old project was a folder: some files plus one chat. The new one is a single ongoing conversation where Claude acts as…",
+      "link": "https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-close-your-laptop/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-17T20:45:04+00:00"
+    },
+    {
+      "id": "b6fa6fac1a59ec3b",
+      "title": "The fix for rogue AI agents could be more AI",
+      "summary": "Y Combinator has funded 106 companies related to AI observability in recent years",
+      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-17T20:34:47+00:00"
+    },
+    {
+      "id": "dd27b544c5238b56",
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as…",
+      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-17T20:34:24+00:00"
+    },
+    {
+      "id": "4987e3a502254109",
+      "title": "Google announces new experimental \"CC\" AI agent for families",
+      "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
+      "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Google-CC-500x500.png",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-17T20:24:34+00:00"
+    },
+    {
+      "id": "3e8472cdb7c0a6cb",
+      "title": "Nvidia quer vender o dobro de chips em 2027 em meio à explosão da demanda por tecnologia para IA",
+      "summary": "Nova previsão ocorre pouco depois de a Nvidia revelar que espera crescimento de 70% no ano fiscal que termina em janeiro de 2028 O post Nvidia quer vender o dobro de chips em 2027…",
+      "link": "https://olhardigital.com.br/2026/09/17/pro/nvidia-quer-vender-o-dobro-de-chips-em-2027-em-meio-a-explosao-da-demanda-por-tecnologia-para-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/jensen_huang-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-17T20:22:30+00:00"
+    },
+    {
+      "id": "18e1b30be3a4ebbb",
+      "title": "Is the AI safety debate about safety or control?",
+      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-17T20:19:37+00:00"
+    },
+    {
+      "id": "b56bbdc0e4d98312",
+      "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+      "summary": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-907415308-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-17T20:10:41+00:00"
+    },
+    {
+      "id": "0f73d188d043bc01",
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-17T20:00:00+00:00"
+    },
+    {
+      "id": "590df77dc8c3726e",
+      "title": "Making global data easier to explore",
+      "summary": "UN System Data Commons Data webpage",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-17T20:00:00+00:00"
+    },
+    {
+      "id": "2ada79cc919c0a2c",
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and…",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-17T19:46:08+00:00"
+    },
+    {
+      "id": "8092c8022d580cab",
+      "title": "The AI Superintelligence Slowdown",
+      "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK_414_5_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-17T19:28:24+00:00"
+    },
+    {
+      "id": "7bc92833f3de7756",
+      "title": "OpenAI vai avisar quando IAs agirem sem autorização",
+      "summary": "Empresa vai investigar e divulgar casos de modelos que ocultem erros, acessem dados indevidamente ou burlem restrições. OpenAI já revelou seis incidentes. OpenAI vai avisar quando…",
+      "link": "https://tecnoblog.net/noticias/openai-vai-avisar-quando-ias-agirem-sem-autorizacao/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-3-capa-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-17T19:26:15+00:00"
+    },
+    {
+      "id": "f5b16b144b30fded",
+      "title": "Pinterest ganha IA que muda a decoração do seu quarto por foto",
+      "summary": "O Pinterest anunciou o Restyle , uma nova ferramenta de inteligência artificial que permite visualizar mudanças na decoração de ambientes a partir de fotos reais. Integrado à…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/pinterest-ganha-ia-que-muda-a-decoracao-do-seu-quarto-por-foto/",
+      "image": "https://tl.ctcdn.com.br/tbPtAaiQD7XCBJf42So1Q3Fpvqo=/0x0/filters:format(webp):quality(85)/34c867cd-15d9-4f15-b43c-722b0beb1f63.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-17T19:14:50+00:00"
+    },
+    {
+      "id": "d6b3befad52ea65d",
+      "title": "Chefe da Microsoft diz que tratar inteligências artificiais como conscientes pode criar uma nova espécie digital perigosa",
+      "summary": "Mustafa Suleyman, da Microsoft, alerta para riscos de tratar IAs como conscientes e dar a elas objetivos e recursos próprios O post Chefe da Microsoft diz que tratar inteligências…",
+      "link": "https://olhardigital.com.br/2026/09/17/inteligencia-artificial/chefe-da-microsoft-diz-que-tratar-inteligencias-artificiais-como-conscientes-pode-criar-uma-nova-especie-digital-perigosa/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2024/10/Mustafa-Suleyman-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-17T19:14:39+00:00"
+    },
+    {
+      "id": "aa32917c59c88df5",
+      "title": "OpenAI reportedly closes in on solving the Hodge conjecture, its second Millennium Prize Problem",
+      "summary": "OpenAI is reportedly tackling the next Millennium Prize Problem. After its still unconfirmed solution to the Navier-Stokes problem, the company is now working on the Hodge…",
+      "link": "https://the-decoder.com/openai-reportedly-closes-in-on-solving-the-hodge-conjecture-its-second-millennium-prize-problem/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/math_geometry_openai_hodge.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-17T19:05:56+00:00"
+    },
+    {
+      "id": "0a3be15b32c0f91d",
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-17T18:58:05+00:00"
+    },
+    {
+      "id": "28e53634f0e230c9",
+      "title": "Suunto Run combina funções esportivas e uso urbano em relógio leve",
+      "summary": "O relógio inteligente Suunto Run combina recursos para monitoramento de atividades físicas e uso na rotina urbana. Projetado com caixa de 46 milímetros e espessura de 11,5…",
+      "link": "https://canaltech.com.br/smartwatch/suunto-run-combina-funcoes-esportivas-e-uso-urbano-em-relogio-leve/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-17T18:41:40+00:00"
+    },
+    {
+      "id": "6ffd7ed7fffcdd9e",
+      "title": "Hora de imprimir com economia: as melhores impressoras multifuncionais em oferta na Amazon",
+      "summary": "Se você está pensando em renovar a impressora de casa ou do escritório, este é o momento certo. Reunimos três ótimas opções de impressoras multifuncionais em promoção na Amazon —…",
+      "link": "https://olhardigital.com.br/2026/09/17/reviews/hora-de-imprimir-com-economia-as-melhores-impressoras-multifuncionais-em-oferta-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-17T18:40:00+00:00"
+    },
+    {
+      "id": "3925d4d7e18c98c3",
+      "title": "Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows",
+      "summary": "Anthropic has rebuilt Projects in Claude Code. A coordinator now splits tasks across parallel cloud threads that independently open pull requests and run tests. All threads share…",
+      "link": "https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/claude_code_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-17T18:35:01+00:00"
+    },
+    {
+      "id": "1ff6d7f6dcfb6f21",
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-17T18:33:13+00:00"
+    },
+    {
+      "id": "6be1855923aac50b",
+      "title": "Even the king of England has his hesitations about AI",
+      "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+      "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-17T17:26:25+00:00"
+    },
+    {
+      "id": "c78d0c6b782c70ca",
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-17T17:15:59+00:00"
+    },
+    {
+      "id": "67388d6277cd414e",
+      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+      "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved…",
+      "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-17T17:15:00+00:00"
+    },
+    {
+      "id": "09f367febad15729",
+      "title": "Smart TV LG QNED 50″ fica quase R$ 1 mil mais barata com cupom",
+      "summary": "LG QNED70 traz painel 4K de 50\" com tecnologia Mini LED e IA que recomenda conteúdos; smart TV da LG sai 28% mais barata com cupom no Mercado Livre Smart TV LG QNED 50″ fica quase…",
+      "link": "https://tecnoblog.net/achados/smart-tv-lg-qned-50-fica-quase-r-1-mil-mais-barata-com-cupom/",
+      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-17T17:00:21+00:00"
+    },
+    {
+      "id": "d361d8ddd979a396",
+      "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+      "summary": "Model maker commits to new framework for reporting misaligned models.",
+      "link": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-875641-001-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-17T16:18:34+00:00"
+    },
     {
       "id": "eba704efd5fbc52e",
       "title": "GPT-6 Astra: Pokemon champion in 18 hours, potato farmer after one Creeper mishap",
@@ -311,6 +586,17 @@
       "published_at": "2026-09-17T00:35:10+00:00"
     },
     {
+      "id": "192794312f979cbd",
+      "title": "Introducing Astra for Law",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "link": "https://openai.com/index/astra-for-law",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-17T00:00:00+00:00"
+    },
+    {
       "id": "4cadffb16cee314e",
       "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
       "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the…",
@@ -520,17 +806,6 @@
       "published_at": "2026-09-16T17:00:28+00:00"
     },
     {
-      "id": "b229c2cba9991e07",
-      "title": "Google will now let any AI agent run your smart home",
-      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the…",
-      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-16T17:00:00+00:00"
-    },
-    {
       "id": "f3899afd4d6a0a2d",
       "title": "Our framework for reporting model misalignment",
       "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
@@ -539,6 +814,17 @@
       "source": "OpenAI",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-09-16T17:00:00+00:00"
+    },
+    {
+      "id": "b229c2cba9991e07",
+      "title": "Google will now let any AI agent run your smart home",
+      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the…",
+      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
       "published_at": "2026-09-16T17:00:00+00:00"
     },
     {
@@ -705,292 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-16T14:33:00+00:00"
-    },
-    {
-      "id": "aa2c9f649806863b",
-      "title": "Na era da IA, colaborar será mais importante do que centralizar dados",
-      "summary": "*Por Ronaldo Pedro da Silva Nunca produzimos tantos dados. Ainda assim, uma parcela enorme deles permanece isolada dentro de empresas, hospitais, universidades e centros de…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/na-era-da-ia-colaborar-sera-mais-importante-do-que-centralizar-dados/",
-      "image": "https://tl.ctcdn.com.br/V-vrXtG7T5SzWyOTEIU93KNC7eQ=/0x0/filters:format(webp):quality(85)/aa5a96f6-31ea-4ed0-982e-b36d03bec63f.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-16T13:01:19+00:00"
-    },
-    {
-      "id": "6ac27c68838b29ee",
-      "title": "Reimagining advertising with AI",
-      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "link": "https://openai.com/index/reimagining-advertising-with-ai",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-16T13:00:00+00:00"
-    },
-    {
-      "id": "def75ecd4873d016",
-      "title": "Former Infosys chief’s AI startup nabs another $53M",
-      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
-      "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-16T13:00:00+00:00"
-    },
-    {
-      "id": "aa1ce2752544234d",
-      "title": "Building the materials foundation for AI",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms…",
-      "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-16T12:47:34+00:00"
-    },
-    {
-      "id": "fa720084644d9253",
-      "title": "Bill Gates propõe acordo inusitado para evitar caos com IA: \"não estamos preparados\"",
-      "summary": "O cofundador da Microsoft e filantropo Bill Gates alertou, em entrevista à Reuters, que os governos de todo o mundo estão “muito atrás” na preparação para os impactos da…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/bill-gates-propoe-acordo-inusitado-para-evitar-caos-com-ia-nao-estamos-preparados/",
-      "image": "https://tl.ctcdn.com.br/yXv6MbuKj9iY1UjsexAGjKQ3Y6A=/0x0/filters:format(webp):quality(85)/03626ba5-7f54-428a-9f66-839a3822c09b.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-16T12:32:58+00:00"
-    },
-    {
-      "id": "4410122683c56925",
-      "title": "How to connect AI usage to business value",
-      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-      "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-16T12:00:00+00:00"
-    },
-    {
-      "id": "f1145eca1cbd10af",
-      "title": "A brief history of AI executives calling for regulation",
-      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including…",
-      "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/AI_extinction.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-16T12:00:00+00:00"
-    },
-    {
-      "id": "21470f4f1140d788",
-      "title": "Nearly one in five AI researchers already expected an extinction scenario from AI back in 2024",
-      "summary": "Anthropic researcher Jacob Coxon sparked an intense debate about existential AI risks with a single tweet. OpenAI researcher Daniel Selsam warns of a \"ticking time bomb,\" and a…",
-      "link": "https://the-decoder.com/nearly-one-in-five-ai-researchers-already-expected-an-extinction-scenario-from-ai-back-in-2024/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/robot_scientists_threat.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-16T10:20:02+00:00"
-    },
-    {
-      "id": "d3172e8e69cc717f",
-      "title": "Após críticas de privacidade, Meta prepara óculos inteligentes sem câmera",
-      "summary": "A Meta prepara novos óculos inteligentes sem câmera . O modelo, conhecido internamente como Luna , pode ser apresentado durante a conferência Connect, marcada para 23 e 24 de…",
-      "link": "https://canaltech.com.br/produtos/apos-criticas-de-privacidade-meta-prepara-oculos-inteligentes-sem-camera/",
-      "image": "https://tl.ctcdn.com.br/oBH1th-V-Li4LXVUwTyhIsGEgmw=/0x0/filters:format(webp):quality(85)/9121b1cc-a3cb-4a71-8afa-a3e17c24027e.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-16T09:52:26+00:00"
-    },
-    {
-      "id": "9a1d7c404055dd6c",
-      "title": "Resumo do OD: Europa x redes sociais; Starship voltando; foguete brasileiro decolando",
-      "summary": "E mais: Mark Zuckerberg, CEO da Meta, entrou no debate sobre a velocidade de desenvolvimento da inteligência artificial O post Resumo do OD: Europa x redes sociais; Starship…",
-      "link": "https://olhardigital.com.br/2026/09/16/pro/resumo-do-od-europa-x-redes-sociais-starship-voltando-foguete-brasileiro-decolando/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/02/shutterstock_2534154993-1-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-16T09:48:52+00:00"
-    },
-    {
-      "id": "d842d2fb3395daf6",
-      "title": "Europa vai proibir redes sociais para menores de 15 anos; IA também está na mira",
-      "summary": "Ursula von der Leyen anunciou nesta quarta-feira (16) uma lei proibirá que menores de 13 anos acessem essas plataformas digitais O post Europa vai proibir redes sociais para…",
-      "link": "https://olhardigital.com.br/2026/09/16/internet-e-redes-sociais/europa-vai-proibir-redes-sociais-para-menores-de-15-anos-ia-tambem-esta-na-mira/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/02/shutterstock_2534154993-1-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-16T09:33:16+00:00"
-    },
-    {
-      "id": "7d2872733a614740",
-      "title": "How workers are unlocking new ways of working",
-      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-      "link": "https://openai.com/index/unlocking-new-ways-of-working",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-16T09:00:00+00:00"
-    },
-    {
-      "id": "40255816c3e324ac",
-      "title": "Prior Labs Releases TabPFN-3.5: A Tabular Foundation Model That Beats the Winning Otto Kaggle Solution With Default Settings",
-      "summary": "Prior Labs released TabPFN-3.5, a tabular foundation model pretrained only on synthetic data that beats Otto's winning solution. The post Prior Labs Releases TabPFN-3.5: A Tabular…",
-      "link": "https://www.marktechpost.com/2026/09/15/prior-labs-releases-tabpfn-3-5-a-tabular-foundation-model-that-beats-the-winning-otto-kaggle-solution-with-default-settings/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-16T06:52:18+00:00"
-    },
-    {
-      "id": "f1a2dada20f08388",
-      "title": "Nums AI Releases Causilo: A Tabular Foundation Model That Tops TabArena Among Single Models",
-      "summary": "Nums AI has released Causilo, a pretrained tabular foundation model for classification and regression with a scikit-learn interface. It posts the top TabArena Elo among single…",
-      "link": "https://www.marktechpost.com/2026/09/15/nums-ai-releases-causilo-a-tabular-foundation-model-that-tops-tabarena-among-single-models/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-16T04:59:47+00:00"
-    },
-    {
-      "id": "9aadbffc40807e5f",
-      "title": "Microsoft marca evento para revelar futuro de Windows e Surface",
-      "summary": "Encontro em outubro terá presença de Satya Nadella e Jensen Huang e deve destacar IA local nos computadores O post Microsoft marca evento para revelar futuro de Windows e Surface…",
-      "link": "https://olhardigital.com.br/2026/09/15/pro/microsoft-marca-evento-para-revelar-futuro-de-windows-e-surface/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/01/Destaque-Satya-Nadella-CEO-da-Microsoft-Forum-Economico-Mundial-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-16T01:48:39+00:00"
-    },
-    {
-      "id": "78b71e86b245b91a",
-      "title": "Meta pode lançar óculos inteligentes sem câmera ainda em 2026",
-      "summary": "Codinome Luna, dispositivo teria seis microfones, botão dedicado para ativar a Meta AI e alto-falantes; lançamento pode acontecer em outubro O post Meta pode lançar óculos…",
-      "link": "https://olhardigital.com.br/2026/09/15/reviews/meta-pode-lancar-oculos-inteligentes-sem-camera-ainda-em-2026/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-Oculos-inteligentes-15-de-agosto-de-2026-scaled-1-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-16T01:31:43+00:00"
-    },
-    {
-      "id": "8361b978c6d02812",
-      "title": "Zuckerberg critica proposta de desaceleração da IA e mira laboratórios rivais",
-      "summary": "CEO da Meta defende que empresas ajustem individualmente o ritmo de desenvolvimento para garantir a segurança dos modelos O post Zuckerberg critica proposta de desaceleração da IA…",
-      "link": "https://olhardigital.com.br/2026/09/15/pro/zuckerberg-critica-proposta-de-desaceleracao-da-ia-e-mira-laboratorios-rivais/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/meta-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-16T01:09:03+00:00"
-    },
-    {
-      "id": "b5a03097b4d78b4a",
-      "title": "Fala AI: IA resolveu um dos ‘problemas do milênio’",
-      "summary": "Um sistema com cerca de 10 mil agentes de inteligência artificial da OpenAI resolveu uma das questões mais complexas da matemática O post Fala AI: IA resolveu um dos ‘problemas do…",
-      "link": "https://olhardigital.com.br/2026/09/15/colunistas/fala-ai-ia-resolveu-um-dos-problemas-do-milenio/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-16T00:45:50+00:00"
-    },
-    {
-      "id": "049ed956b8239821",
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-16T00:20:39+00:00"
-    },
-    {
-      "id": "30fb04a6f530a157",
-      "title": "AI and data centers are incredibly unpopular in every poll",
-      "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-15T23:34:25+00:00"
-    },
-    {
-      "id": "8709721783607456",
-      "title": "Frear ou acelerar? IA coloca gigantes da tecnologia em lados opostos",
-      "summary": "Dario Amodei, Sam Altman e Elon Musk defendem maior cautela, enquanto Donald Trump, Jensen Huang e aliados rejeitam novas regulações e alertam para a disputa com a China O post…",
-      "link": "https://olhardigital.com.br/2026/09/15/inteligencia-artificial/frear-ou-acelerar-ia-coloca-gigantes-da-tecnologia-em-lados-opostos/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/Destaque-Donald-Trump-e-Jensen-Huang-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-15T23:15:26+00:00"
-    },
-    {
-      "id": "57e99614fd364e42",
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct…",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-15T21:47:38+00:00"
-    },
-    {
-      "id": "43a24427ed37c844",
-      "title": "Inside NVIDIA’s cuDNN Graph API: Fusion, Autotuning, and Plan Reuse with cuDNN Frontend",
-      "summary": "Learn how to leverage NVIDIA’s cuDNN Frontend Graph API to build custom kernel fusions, autotuning engine configurations, FP8-style epilogues, scaled dot-product attention…",
-      "link": "https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-reuse-with-cudnn-frontend/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-15T21:37:11+00:00"
-    },
-    {
-      "id": "33e49b0b8f99109a",
-      "title": "Google Releases Gemini 3.8 Live and 3.8 Live Extended Thinking for Production Grade Voice Agents",
-      "summary": "Google has released Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking, its most advanced live dialogue models to date. The models execute tools and API calls in the background…",
-      "link": "https://www.marktechpost.com/2026/09/15/google-releases-gemini-3-8-live-and-3-8-live-extended-thinking-for-production-grade-voice-agents/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-15T20:53:09+00:00"
-    },
-    {
-      "id": "b51ce53998ea9db0",
-      "title": "Como preparar seu iPhone para o iOS 27",
-      "summary": "A Apple lançou o iOS 27 nesta semana para todos os iPhones compatíveis. A atualização do sistema conta com a nova Siri AI e mais recursos e uma experiência geral mais rápida, por…",
-      "link": "https://canaltech.com.br/apps/como-preparar-seu-iphone-para-o-ios-27/",
-      "image": "https://tl.ctcdn.com.br/CG2zFWLcPoQ1EUyUAZs5QFueh-c=/0x0/filters:format(webp):quality(85)/ada181a6-b7af-4b3c-bb3a-288c3b49a80b.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-15T20:33:00+00:00"
-    },
-    {
-      "id": "15b4350032237535",
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-15T20:12:53+00:00"
     }
   ]
 }
