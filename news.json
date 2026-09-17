@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-09-17T10:59:34.459935+00:00",
+  "generated_at": "2026-09-17T16:16:18.454678+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "eba704efd5fbc52e",
+      "title": "GPT-6 Astra: Pokemon champion in 18 hours, potato farmer after one Creeper mishap",
+      "summary": "OpenAI's GPT-6 Astra shows a sharp jump in video games. Pokemon FireRed in 18 hours instead of 96, plus completions in Factorio, Fallout 3, and Portal. Why? The model distills…",
+      "link": "https://the-decoder.com/gpt-6-astra-pokemon-champion-in-18-hours-potato-farmer-after-one-creeper-mishap/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/GPT-6-Astra-Gaming.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-17T14:42:05+00:00"
+    },
+    {
+      "id": "51c91b323bcd8bfc",
+      "title": "Hyundai usa \"sustos\" do trânsito real para ensinar seus carros a dirigir sozinhos com nova IA",
+      "summary": "O grupo Hyundai apresentou sua nova inteligência artificial para condução autônoma. Chamada de Atria AI , a ideia é usá-la junto da estratégia Data Flywheel (ou “volante de…",
+      "link": "https://canaltech.com.br/carros/hyundai-usa-sustos-do-transito-real-para-ensinar-seus-carros-a-dirigir-sozinhos/",
+      "image": "https://tl.ctcdn.com.br/C30gh4XCp-PiFMbydu00PO4HAS8=/0x0/filters:format(webp):quality(85)/278d8735-bbd2-4391-9ece-c454344d07a6.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-17T14:15:01+00:00"
+    },
+    {
+      "id": "d95188870b47d6bc",
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-17T14:06:14+00:00"
+    },
+    {
+      "id": "ed2232adb3d0bb07",
+      "title": "União Europeia propõe barrar menores em redes sociais, jogos online e chatbots",
+      "summary": "A União Europeia prepara uma proposta de lei para restringir o acesso de menores de 15 anos a redes sociais, plataformas de compartilhamento de vídeos, chatbots de inteligência…",
+      "link": "https://canaltech.com.br/mercado/uniao-europeia-propoe-barrar-menores-em-redes-sociais-jogos-online-e-chatbots/",
+      "image": "https://tl.ctcdn.com.br/nAw9rt_ED7cbjLQAvova1Pb4D4U=/0x0/filters:format(webp):quality(85)/be2b06ae-f373-4685-8259-4a28b9621564.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-17T14:02:00+00:00"
+    },
+    {
+      "id": "7e541fc492f5fc2d",
+      "title": "iFood lança IA que ajuda restaurantes a vender mais e envia relatórios pelo WhatsApp",
+      "summary": "O iFood lançou nesta quinta-feira (17) o Toqan, uma inteligência artificial (IA) voltada à gestão de restaurantes. A ferramenta pode analisar dados de vendas e operação, responder…",
+      "link": "https://canaltech.com.br/apps/ifood-lanca-ia-que-ajuda-restaurantes-a-vender-mais-e-envia-relatorios-pelo-whatsapp/",
+      "image": "https://tl.ctcdn.com.br/MYeovthdZsLuDek6ELDH-T4QnJ4=/0x0/filters:format(webp):quality(85)/a8296342-5177-4582-851e-1d7bab01e756.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-17T14:01:02+00:00"
+    },
+    {
+      "id": "203dc7de13cd40bc",
+      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+      "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and…",
+      "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD-Mustafa-Suleyman.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-17T14:00:00+00:00"
+    },
+    {
+      "id": "361d4ca3f8600b04",
+      "title": "AI is feared globally as the destroyer of jobs",
+      "summary": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/pew-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-17T14:00:00+00:00"
+    },
+    {
+      "id": "ce9cca3cc66a513b",
+      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
+      "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-17T13:46:16+00:00"
+    },
+    {
+      "id": "4bf9544d82b0d457",
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+      "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-17T13:38:33+00:00"
+    },
+    {
+      "id": "47336362bbecf823",
+      "title": "An OpenAI model kept slipping prompt injections into its own notes, and researchers still aren't sure why",
+      "summary": "OpenAI is publishing a framework for systematically reporting AI misalignment and launching it with six reports. In one case an unreleased model from the Astra family wrote prompt…",
+      "link": "https://the-decoder.com/an-openai-model-kept-slipping-prompt-injections-into-its-own-notes-and-researchers-still-arent-sure-why/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_large_right.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-17T13:37:55+00:00"
+    },
+    {
+      "id": "97eb20d9851ae114",
+      "title": "Expansão da IA pode provocar “tsunami” de lixo eletrônico, diz relatório",
+      "summary": "Organização afirma que corrida por data centers de inteligência artificial pode triplicar resíduos eletrônicos até 2050. Expansão da IA pode provocar “tsunami” de lixo eletrônico…",
+      "link": "https://tecnoblog.net/noticias/expansao-da-ia-pode-provocar-tsunami-de-lixo-eletronico-diz-relatorio/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/lixo-eletronico-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-17T13:26:54+00:00"
+    },
+    {
+      "id": "60212a0b04662f84",
+      "title": "Claude faz fusão importante de ferramentas para combater Office e Google",
+      "summary": "A Anthropic unificou o Claude Cowork e o chat tradicional do Claude em uma única interface. Ao mesmo tempo, a empresa anunciou duas ferramentas novas de produtividade, o Claude…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/claude-faz-fusao-importante-de-ferramentas-para-combater-office-e-google/",
+      "image": "https://tl.ctcdn.com.br/7e_rpyif-V2yS_RMG1aN-EM9--I=/0x0/filters:format(webp):quality(85)/4c03a197-4217-4ac2-aba7-761c16cb8d12.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-17T13:02:22+00:00"
+    },
+    {
+      "id": "85c090cfabfb5d08",
+      "title": "Siri AI: quais são os novos recursos de IA do iPhone",
+      "summary": "O iOS 27 chegou com uma série de novidades para o iPhone, e a Siri AI está entre os principais destaques da atualização . A nova versão da assistente usa a Apple Intelligence para…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/siri-ai-novos-recursos-ia-iphone/",
+      "image": "https://tl.ctcdn.com.br/7VfeD8t2-LYSyP7iyvkXs_0VV3Q=/0x0/filters:format(webp):quality(85)/2a5cf71f-384b-42a4-afde-e127a2e04a33.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-17T11:39:00+00:00"
+    },
+    {
+      "id": "adcebf01c1d9b13d",
+      "title": "Inside the suddenly explosive world of AI safety",
+      "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\"…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268747_AI_safety_RJIANG3.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-17T11:30:00+00:00"
+    },
+    {
+      "id": "1ccf1ddb08031c07",
+      "title": "AI agent swarms are a massive waste of tokens with zero quality gain, says OpenAI Codex developer",
+      "summary": "OpenAI Codex developer Eric Provencher warns that running more than two parallel sub-agents almost always burns tokens without improving quality because agents don't trust each…",
+      "link": "https://the-decoder.com/ai-agent-swarms-are-a-massive-waste-of-tokens-with-zero-quality-gain-says-openai-codex-developer/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/04/openai_logo_draft.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-17T11:03:32+00:00"
+    },
+    {
+      "id": "c0698ac0a1ea6cbc",
+      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+      "summary": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
+      "link": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-17T11:00:00+00:00"
+    },
     {
       "id": "cc2b7970c3304a5f",
       "title": "OpenRouter's staggering token chart is the AI bubble debate in a single image",
@@ -45,6 +221,28 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-17T07:59:08+00:00"
+    },
+    {
+      "id": "00e29833c4870dd4",
+      "title": "OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training",
+      "summary": "OpenAI can disclose misalignment before fixes exist. Its 6 initial reports include fabricated data and leaked API keys. The post OpenAI Releases a Model Misalignment Disclosure…",
+      "link": "https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-17T07:35:37+00:00"
+    },
+    {
+      "id": "1ac0bea7e7e52e97",
+      "title": "Google Research Introduces Retrieve-for-Train (R4T): An RL-Compiled Diffusion Retriever for 12× to 20× Faster Query Fan-Out",
+      "summary": "Google Research has introduced Retrieve-for-Train (R4T), a framework for search that returns coherent, diverse result sets. It trains a fan-out language model with RL once, using…",
+      "link": "https://www.marktechpost.com/2026/09/16/google-research-introduces-retrieve-for-train-r4t-an-rl-compiled-diffusion-retriever-for-12x-to-20x-faster-query-fan-out/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-17T06:19:38+00:00"
     },
     {
       "id": "a3827026bd29cb86",
@@ -322,17 +520,6 @@
       "published_at": "2026-09-16T17:00:28+00:00"
     },
     {
-      "id": "3f0c679ced8d8862",
-      "title": "Your AI agents can now control your Google Home devices",
-      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries…",
-      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-16T17:00:00+00:00"
-    },
-    {
       "id": "b229c2cba9991e07",
       "title": "Google will now let any AI agent run your smart home",
       "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the…",
@@ -352,6 +539,17 @@
       "source": "OpenAI",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-09-16T17:00:00+00:00"
+    },
+    {
+      "id": "3f0c679ced8d8862",
+      "title": "Your AI agents can now control your Google Home devices",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries…",
+      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-09-16T17:00:00+00:00"
     },
     {
@@ -399,17 +597,6 @@
       "published_at": "2026-09-16T16:22:45+00:00"
     },
     {
-      "id": "01bd6b22597c1a8a",
-      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
-      "summary": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to…",
-      "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-16T16:00:00+00:00"
-    },
-    {
       "id": "b0366f9850a9d166",
       "title": "Helping older adults use AI in everyday life",
       "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
@@ -418,6 +605,17 @@
       "source": "OpenAI",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-09-16T16:00:00+00:00"
+    },
+    {
+      "id": "01bd6b22597c1a8a",
+      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+      "summary": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to…",
+      "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-09-16T16:00:00+00:00"
     },
     {
@@ -564,17 +762,6 @@
       "published_at": "2026-09-16T12:32:58+00:00"
     },
     {
-      "id": "f1145eca1cbd10af",
-      "title": "A brief history of AI executives calling for regulation",
-      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including…",
-      "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/AI_extinction.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-16T12:00:00+00:00"
-    },
-    {
       "id": "4410122683c56925",
       "title": "How to connect AI usage to business value",
       "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
@@ -583,6 +770,17 @@
       "source": "OpenAI",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-09-16T12:00:00+00:00"
+    },
+    {
+      "id": "f1145eca1cbd10af",
+      "title": "A brief history of AI executives calling for regulation",
+      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including…",
+      "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/AI_extinction.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
       "published_at": "2026-09-16T12:00:00+00:00"
     },
     {
@@ -793,204 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-15T20:12:53+00:00"
-    },
-    {
-      "id": "539f7b66fb8e6d78",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-15T19:00:00+00:00"
-    },
-    {
-      "id": "acad79ae0e2af434",
-      "title": "União Europeia avança na proibição de chatbots de IA e redes sociais para menores",
-      "summary": "Projeto prevê contas monitoradas e bloqueio total para menores de 3 anos. Documento também estabelece taxa de supervisão paga pelas big techs. União Europeia avança na proibição…",
-      "link": "https://tecnoblog.net/noticias/uniao-europeia-avanca-na-proibicao-de-chatbots-de-ia-e-redes-sociais-para-menores/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/10/1280px-european_union_flags_2-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-15T18:52:21+00:00"
-    },
-    {
-      "id": "c6a3e0e7111ec408",
-      "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
-      "summary": "Robots can start working outside physical cages and without safety barriers.",
-      "link": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Agility_Digit5_04-500x500.png",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-15T18:33:02+00:00"
-    },
-    {
-      "id": "3331f24aeb1d0f0f",
-      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-15T18:29:20+00:00"
-    },
-    {
-      "id": "53928cf7ea2dfd59",
-      "title": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
-      "summary": "Google Deepmind released Gemini 3.8 Live and 3.8 Live Extended Thinking, two new audio models for developers that top the Artificial Analysis speech-to-speech leaderboard. At…",
-      "link": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-15T18:23:20+00:00"
-    },
-    {
-      "id": "fc9d8c2f92a5e735",
-      "title": "AI labs have a data trust problem that their policies haven't solved",
-      "summary": "OpenAI and Anthropic tell corporate customers their data won't be used for training. But when Anthropic said it would store usage logs from its flagship model Fable for 30 days…",
-      "link": "https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_anthropic_data.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-15T17:52:05+00:00"
-    },
-    {
-      "id": "c460cc0ebc3195ab",
-      "title": "Roundtables: Could AI really kill us all?",
-      "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is…",
-      "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-15T17:47:51+00:00"
-    },
-    {
-      "id": "59972d1f0a66e781",
-      "title": "AI agents now have a place to snitch",
-      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
-      "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-15T17:42:59+00:00"
-    },
-    {
-      "id": "d7f17bba73c7c34e",
-      "title": "Celulares devem ficar ainda mais caros em 2027 devido à crise causada pela IA",
-      "summary": "Os celulares podem ficar ainda mais caros em 2027 como reflexo da forte demanda por semicondutores provocada pelo avanço da inteligência artificial. O alerta parte de um cenário…",
-      "link": "https://canaltech.com.br/smartphone/celulares-devem-ficar-ainda-mais-caros-em-2027-devido-a-crise-causada-pela-ia/",
-      "image": "https://tl.ctcdn.com.br/OPCiuYpWawXZqG7dvvx8q_FvTjY=/0x0/filters:format(webp):quality(85)/12f0bcb7-2705-467d-b394-31502751b9ee.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-15T17:31:03+00:00"
-    },
-    {
-      "id": "47725f7d32828c31",
-      "title": "Samsung traz Micro RGB ao Brasil e renova toda a linha de TVs",
-      "summary": "A Samsung renovou sua linha de televisores no Brasil com uma nova geração de modelos Vision AI, combinando diferentes tecnologias de tela com recursos de inteligência artificial…",
-      "link": "https://canaltech.com.br/tv/samsung-traz-micro-rgb-ao-brasil-e-renova-toda-a-linha-de-tvs/",
-      "image": "https://tl.ctcdn.com.br/nu-8D_xtiXEEROMkl4WmXDCsoQU=/0x0/filters:format(webp):quality(85)/3e9b9f1d-b655-43de-856c-7f02768f9385.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-15T17:18:50+00:00"
-    },
-    {
-      "id": "9ee562cffc21d651",
-      "title": "Meta expands subscription push with new AI-focused plans",
-      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
-      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-15T17:05:24+00:00"
-    },
-    {
-      "id": "6602c89730054724",
-      "title": "Java 27 é lançado com foco em criptografia pós-quântica; veja as novidades",
-      "summary": "Nova versão do Java traz ainda otimizações de desempenho para acelerar aplicações, especialmente de IA. Java 27 é lançado com foco em criptografia pós-quântica; veja as novidades",
-      "link": "https://tecnoblog.net/noticias/java-27-e-lancado-com-foco-em-criptografia-pos-quantica-veja-as-novidades/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/java-27-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-15T16:48:27+00:00"
-    },
-    {
-      "id": "a1d018f16fad79f9",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "summary": "",
-      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-15T16:00:44+00:00"
-    },
-    {
-      "id": "970c94673769027a",
-      "title": "AI for Societal Impact",
-      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-15T16:00:00+00:00"
-    },
-    {
-      "id": "6fff55fdf7cb614f",
-      "title": "Building AI to accelerate science and improve lives",
-      "summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-15T16:00:00+00:00"
-    },
-    {
-      "id": "50f1fa34d3c31e12",
-      "title": "AI for everyone in every language",
-      "summary": "Animation of several words in different languages slowly zooming past",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-15T16:00:00+00:00"
-    },
-    {
-      "id": "cb56e164a4da143b",
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-15T15:47:03+00:00"
-    },
-    {
-      "id": "575b508b29dba006",
-      "title": "WhatsApp poderá silenciar conversas por horário com novo plano pago da Meta",
-      "summary": "A Meta anunciou nesta terça-feira (15) o Meta One , novo serviço de assinaturas que reúne planos pagos para Instagram, Facebook, WhatsApp e Meta AI. Para usuários comuns, as…",
-      "link": "https://canaltech.com.br/apps/whatsapp-podera-silenciar-conversas-por-horario-com-novo-plano-pago-da-meta/",
-      "image": "https://tl.ctcdn.com.br/gJKykp-vv_tszK2kdJ5OW4xSedw=/0x0/filters:format(webp):quality(85)/5865179c-908b-4128-ba58-dd0ae9e58830.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-15T15:00:03+00:00"
     }
   ]
 }
