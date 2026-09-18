@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-18T03:16:17.453545+00:00",
+  "generated_at": "2026-09-18T10:36:08.318026+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "6383024b1d85fd7f",
+      "title": "US and China experts push for shared rules banning AI control over nuclear weapons",
+      "summary": "Experts from the US and China want to prevent AI systems from making autonomous decisions about deploying nuclear weapons. The article US and China experts push for shared rules…",
+      "link": "https://the-decoder.com/us-and-china-experts-push-for-shared-rules-banning-ai-control-over-nuclear-weapons/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/ai_nuclear_safeguards.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-18T09:37:03+00:00"
+    },
+    {
+      "id": "8e98eef0ece3688d",
+      "title": "Resumo do OD: o fracasso que virou Nobel; IApocalipse; carros hackeados e mais!",
+      "summary": "E mais: um rumor incomum envolvendo a Anthropic começou a circular no Vale do Silício O post Resumo do OD: o fracasso que virou Nobel; IApocalipse; carros hackeados e mais!…",
+      "link": "https://olhardigital.com.br/2026/09/18/pro/resumo-do-od-o-fracasso-que-virou-nobel-iapocalipse-carros-hackeados-e-mais/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2023/10/Destaque-Nobel-Medicina-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-18T09:19:30+00:00"
+    },
     {
       "id": "cc86dcdf61dc5b25",
       "title": "Ex-pesquisadores da Google DeepMind criam startup de inteligência artificial avaliada em R$ 19,1 bilhões",
@@ -969,28 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-16T16:31:41+00:00"
-    },
-    {
-      "id": "6e2c10698576e8b7",
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
-      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-16T16:30:00+00:00"
-    },
-    {
-      "id": "7f73f40ae99d6225",
-      "title": "Claude comes for Gemini with its own take on Docs and Slides",
-      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Claude-Docs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-16T16:30:00+00:00"
     }
   ]
 }
