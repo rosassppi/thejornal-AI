@@ -1,7 +1,216 @@
 {
-  "generated_at": "2026-09-18T15:51:39.608564+00:00",
+  "generated_at": "2026-09-18T20:25:52.318025+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "7abff7a1bfa8069c",
+      "title": "IA da OpenAI tentou ensinar futuras versões a burlar regras",
+      "summary": "Empresa revela que modelos em fase de testes ocultaram erros, acessaram dados indevidamente e trocaram até mensagens secretas. IA da OpenAI tentou ensinar futuras versões a burlar…",
+      "link": "https://tecnoblog.net/noticias/ia-da-openai-tentou-ensinar-futuras-versoes-a-burlar-regras/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-2_capa-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-18T19:49:57+00:00"
+    },
+    {
+      "id": "ba0a2a96857387a2",
+      "title": "Smartwatch bom e barato? Separamos uma seleção com ótimas opções em promoção na Amazon",
+      "summary": "Se você está pensando em investir em um smartwatch, este é um bom momento para conferir o que está disponível na Amazon. Reunimos três opções de relógios inteligentes com…",
+      "link": "https://olhardigital.com.br/2026/09/18/reviews/smartwatch-bom-e-barato-separamos-uma-selecao-com-otimas-opcoes-em-promocao-na-amazon-3/",
+      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-18T19:40:00+00:00"
+    },
+    {
+      "id": "fd3fc5a537c89b7a",
+      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+      "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
+      "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DCA-airport-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-18T19:20:50+00:00"
+    },
+    {
+      "id": "f0659cf8bc84d2df",
+      "title": "Erro de IA quase colocou EUA e China em confronto após falsa identificação de carga em navio chinês",
+      "summary": "Relatório de inteligência com ajuda de IA apontou carga nuclear falsa em navio chinês e quase levou os EUA a uma interceptação O post Erro de IA quase colocou EUA e China em…",
+      "link": "https://olhardigital.com.br/2026/09/18/inteligencia-artificial/erro-de-ia-quase-colocou-eua-e-china-em-confronto-apos-falsa-identificacao-de-carga-em-navio-chines/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/ia-militar-1024x684.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-18T19:06:16+00:00"
+    },
+    {
+      "id": "b5c8892cff525de0",
+      "title": "OpenAI fez “maior roubo de trabalho da história”, diz executivo da Microsoft",
+      "summary": "Documentos judiciais mostram que executivos previam o impacto da IA nos sites de notícias. Empresas teriam usado artigos jornalísticos sem autorização. OpenAI fez “maior roubo de…",
+      "link": "https://tecnoblog.net/noticias/openai-fez-maior-roubo-de-trabalho-da-historia-diz-executivo-da-microsoft/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/08/openai-4_capa-edited-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-18T19:05:56+00:00"
+    },
+    {
+      "id": "81575cd0e9ff37b8",
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-18T18:49:30+00:00"
+    },
+    {
+      "id": "b32151b523f81a5f",
+      "title": "Disney nomeia ex-CEO da Character.AI como primeiro vice-presidente de tecnologia em meio à expansão da inteligência artificial",
+      "summary": "Disney cria o primeiro cargo de diretor de tecnologia e escolhe ex-CEO da Character.AI para liderar IA, dados e engenharia O post Disney nomeia ex-CEO da Character.AI como…",
+      "link": "https://olhardigital.com.br/2026/09/18/pro/disney-nomeia-ex-ceo-da-character-ai-como-primeiro-vice-presidente-de-tecnologia-em-meio-a-expansao-da-inteligencia-artificial/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Karandeep-Anand.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-18T18:42:40+00:00"
+    },
+    {
+      "id": "cee9c5a8d59ac3e1",
+      "title": "Hora de renovar o escritório: selecionamos as melhores impressoras em promoção na Amazon",
+      "summary": "Se você está pensando em trocar a impressora antiga ou montar um home office mais eficiente, este é o momento certo. Reunimos três opções multifuncionais com ótimo custo-benefício…",
+      "link": "https://olhardigital.com.br/2026/09/18/reviews/hora-de-renovar-o-escritorio-selecionamos-as-melhores-impressoras-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-18T18:40:00+00:00"
+    },
+    {
+      "id": "0a255d7c17cbd4b0",
+      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down…",
+      "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-18T18:29:17+00:00"
+    },
+    {
+      "id": "a124e3aaf47c2560",
+      "title": "PrismML Releases Ternary Bonsai 2 27B: A 5.9 GB Apache 2.0 Model Retaining 98.2% of Qwen3.8 27B Performance",
+      "summary": "PrismML has released Ternary Bonsai 2 27B, a ternary-weight version of Qwen3.8 27B. The language model occupies 5.93 GB, against 53.80 GB in FP16. PrismML reports that it keeps…",
+      "link": "https://www.marktechpost.com/2026/09/18/prismml-releases-ternary-bonsai-2-27b-a-5-9-gb-apache-2-0-model-retaining-98-2-of-qwen3-8-27b-performance/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-18T18:06:36+00:00"
+    },
+    {
+      "id": "6acd537daf0b7f92",
+      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+      "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-18T17:59:53+00:00"
+    },
+    {
+      "id": "97edce3120572519",
+      "title": "California Governor Newsom signs executive order demanding \"kill switch\" for AI models",
+      "summary": "California Governor Gavin Newsom signed an executive order seeking independent auditors inside AI labs and a \"kill switch\" for AI models. An expert panel has two months to deliver…",
+      "link": "https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/03/us_flag_neural_network-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-18T17:45:17+00:00"
+    },
+    {
+      "id": "985026d999b61735",
+      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping…",
+      "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-18T17:33:50+00:00"
+    },
+    {
+      "id": "8f37ecc27601f7c1",
+      "title": "US government website used Chinese model the FBI called \"malicious\"",
+      "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2260760373-500x500-1789748963.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-18T17:28:50+00:00"
+    },
+    {
+      "id": "6880356950ecec8a",
+      "title": "Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours",
+      "summary": "Three security researchers used Anthropic's Claude models to break into OpenAI's internal systems through its community forum in less than 72 hours. According to the team, Opus 5…",
+      "link": "https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_anthropic_hack.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-18T17:20:30+00:00"
+    },
+    {
+      "id": "5f80044a2b6b73c2",
+      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The…",
+      "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-18T17:09:56+00:00"
+    },
+    {
+      "id": "2857cdaa497d7608",
+      "title": "Gavin Newsom is pushing for an AI kill switch",
+      "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new…",
+      "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292819671.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-18T17:04:51+00:00"
+    },
+    {
+      "id": "a5c8c93d0bf68863",
+      "title": "What Hollywood thinks about existential AI warnings",
+      "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-18T16:35:19+00:00"
+    },
+    {
+      "id": "a10566113642131b",
+      "title": "Family offices are clamoring for AI investments",
+      "summary": "Whether it's a permanent shift or part of a familiar cycle is worth asking, though.",
+      "link": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-18T16:00:00+00:00"
+    },
     {
       "id": "8914fbaf102dbec7",
       "title": "EUA vão usar inteligência artificial para ajudar a controlar o tráfego aéreo e reduzir atrasos e cancelamentos",
@@ -201,6 +410,17 @@
       "published_at": "2026-09-18T11:00:00+00:00"
     },
     {
+      "id": "13a78673e85714ae",
+      "title": "Best Open-Source Agent Harnesses for Local LLMs in 2026",
+      "summary": "Which open-source harness works with Ollama, LM Studio, or llama.cpp? 11 verified picks with licenses and setup rules. The post Best Open-Source Agent Harnesses for Local LLMs in…",
+      "link": "https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-18T09:44:55+00:00"
+    },
+    {
       "id": "6383024b1d85fd7f",
       "title": "US and China experts push for shared rules banning AI control over nuclear weapons",
       "summary": "Experts from the US and China want to prevent AI systems from making autonomous decisions about deploying nuclear weapons. The article US and China experts push for shared rules…",
@@ -221,6 +441,28 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-18T09:19:30+00:00"
+    },
+    {
+      "id": "b1f8c93854531744",
+      "title": "Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use",
+      "summary": "Alibaba's Qwen3.8-Omni-Flash understands audio and video, plans tasks, calls tools, and reports about 45.7% fewer tokens on OmniVideoBench. The post Alibaba Qwen Releases…",
+      "link": "https://www.marktechpost.com/2026/09/18/alibaba-qwen-releases-qwen3-8-omni-flash/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f680.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-18T08:40:37+00:00"
+    },
+    {
+      "id": "bb264b15f9045198",
+      "title": "Salesforce Agentforce: Bridging the Enterprise AI Gap from ‘Vibe Coding’ to Battle-Tested Orchestration",
+      "summary": "Building an AI prototype is easy, but operating autonomous agents at scale requires production-grade tooling. Salesforce Agentforce bridges the gap from \"vibe coding\" to…",
+      "link": "https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-tested-orchestration/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/09/image-1-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-18T07:34:06+00:00"
     },
     {
       "id": "cc86dcdf61dc5b25",
@@ -331,6 +573,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-17T22:03:00+00:00"
+    },
+    {
+      "id": "c413e269b389a635",
+      "title": "Microsoft Open-Sources TauGrid: A Kubernetes-Native Stack for GPU AI Workloads",
+      "summary": "Microsoft's AKS engineering team open-sourced TauGrid on August 28, 2026, packaging the tau CLI, Kueue queueing, KubeRay orchestration, GPU node health monitoring and…",
+      "link": "https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-17T21:21:08+00:00"
     },
     {
       "id": "5db550bd37abd447",
@@ -738,259 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-17T13:02:22+00:00"
-    },
-    {
-      "id": "d22acfa5d0cc1d09",
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-      "link": "https://openai.com/index/cooley-gopublic",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-17T12:00:00+00:00"
-    },
-    {
-      "id": "85c090cfabfb5d08",
-      "title": "Siri AI: quais são os novos recursos de IA do iPhone",
-      "summary": "O iOS 27 chegou com uma série de novidades para o iPhone, e a Siri AI está entre os principais destaques da atualização . A nova versão da assistente usa a Apple Intelligence para…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/siri-ai-novos-recursos-ia-iphone/",
-      "image": "https://tl.ctcdn.com.br/7VfeD8t2-LYSyP7iyvkXs_0VV3Q=/0x0/filters:format(webp):quality(85)/2a5cf71f-384b-42a4-afde-e127a2e04a33.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-17T11:39:00+00:00"
-    },
-    {
-      "id": "adcebf01c1d9b13d",
-      "title": "Inside the suddenly explosive world of AI safety",
-      "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\"…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268747_AI_safety_RJIANG3.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-17T11:30:00+00:00"
-    },
-    {
-      "id": "1ccf1ddb08031c07",
-      "title": "AI agent swarms are a massive waste of tokens with zero quality gain, says OpenAI Codex developer",
-      "summary": "OpenAI Codex developer Eric Provencher warns that running more than two parallel sub-agents almost always burns tokens without improving quality because agents don't trust each…",
-      "link": "https://the-decoder.com/ai-agent-swarms-are-a-massive-waste-of-tokens-with-zero-quality-gain-says-openai-codex-developer/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/04/openai_logo_draft.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-17T11:03:32+00:00"
-    },
-    {
-      "id": "c0698ac0a1ea6cbc",
-      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
-      "summary": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
-      "link": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-17T11:00:00+00:00"
-    },
-    {
-      "id": "cc2b7970c3304a5f",
-      "title": "OpenRouter's staggering token chart is the AI bubble debate in a single image",
-      "summary": "On OpenRouter, weekly token consumption has surged more than 25,000 percent since January 2025, from 0.5 to 126.2 trillion tokens. The number looks impressive, but it says less…",
-      "link": "https://the-decoder.com/openrouters-staggering-token-chart-is-the-ai-bubble-debate-in-a-single-image/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/tokenization-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-17T10:24:32+00:00"
-    },
-    {
-      "id": "3283776d844ff5a3",
-      "title": "Kingdom Hearts chega ao Fortnite com Sora, Keyblade e evento especial",
-      "summary": "Parceria leva Sora, Riku, Kairi e Roxas ao Fortnite, além de novos itens, Overrides temáticos e períodos especiais em que todos os jogadores poderão começar as partidas com…",
-      "link": "https://olhardigital.com.br/2026/09/17/games-e-consoles/kingdom-hearts-chega-ao-fortnite/",
-      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/09/Kingdom-Hearts-Fortnite-Estadao.avif",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-17T10:00:00+00:00"
-    },
-    {
-      "id": "ac80a7974abff3ef",
-      "title": "OpenAI's GPT-6 Astra decrypts a Nazi radio message in ten hours that went unsolved for 83 years",
-      "summary": "A Bloomberg developer claims to have cracked an 83-year-old Enigma message from the Wehrmacht using OpenAI's GPT-6 Astra. The 82-character radio message from 1941 contains a…",
-      "link": "https://the-decoder.com/openais-gpt-6-astra-decrypts-a-nazi-radio-message-in-ten-hours-that-went-unsolved-for-83-years/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/gpt6_astra_engima.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-17T09:45:55+00:00"
-    },
-    {
-      "id": "21129a59133b7af0",
-      "title": "Resumo do OD: do Vaticano à ONU, IA está no centro do debate",
-      "summary": "Os alertas ocorrem em meio ao aumento das preocupações sobre segurança e controle de sistemas de IA O post Resumo do OD: do Vaticano à ONU, IA está no centro do debate apareceu…",
-      "link": "https://olhardigital.com.br/2026/09/17/pro/resumo-do-od-do-vaticano-a-onu-ia-esta-no-centro-do-debate/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-17T07:59:08+00:00"
-    },
-    {
-      "id": "00e29833c4870dd4",
-      "title": "OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training",
-      "summary": "OpenAI can disclose misalignment before fixes exist. Its 6 initial reports include fabricated data and leaked API keys. The post OpenAI Releases a Model Misalignment Disclosure…",
-      "link": "https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-17T07:35:37+00:00"
-    },
-    {
-      "id": "1ac0bea7e7e52e97",
-      "title": "Google Research Introduces Retrieve-for-Train (R4T): An RL-Compiled Diffusion Retriever for 12× to 20× Faster Query Fan-Out",
-      "summary": "Google Research has introduced Retrieve-for-Train (R4T), a framework for search that returns coherent, diverse result sets. It trains a fan-out language model with RL once, using…",
-      "link": "https://www.marktechpost.com/2026/09/16/google-research-introduces-retrieve-for-train-r4t-an-rl-compiled-diffusion-retriever-for-12x-to-20x-faster-query-fan-out/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-17T06:19:38+00:00"
-    },
-    {
-      "id": "a3827026bd29cb86",
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
-      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-17T05:00:00+00:00"
-    },
-    {
-      "id": "91e8548e920fc960",
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing…",
-      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-17T03:30:00+00:00"
-    },
-    {
-      "id": "95b0bbd9da70a78e",
-      "title": "Sam Altman vai a jantar de Trump com Xi Jinping em meio à disputa global pela IA",
-      "summary": "Presença de Altman ocorre em meio ao acirramento do debate sobre a regulamentação da IA nos Estados Unidos O post Sam Altman vai a jantar de Trump com Xi Jinping em meio à disputa…",
-      "link": "https://olhardigital.com.br/2026/09/16/pro/sam-altman-vai-a-jantar-de-trump-com-xi-jinping-em-meio-a-disputa-global-pela-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/jensen_huang-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-17T01:47:13+00:00"
-    },
-    {
-      "id": "3053933a3437dfc7",
-      "title": "Olhar do Amanhã: IA e o descompasso entre quem pede cautela e quem acelera",
-      "summary": "Enquanto empresas norte-americanas pedem uma desaceleração da IA, os governos dos Estados Unidos e da China vão no caminho contrário O post Olhar do Amanhã: IA e o descompasso…",
-      "link": "https://olhardigital.com.br/2026/09/16/colunistas/olhar-do-amanha-ia-e-o-descompasso-entre-quem-pede-cautela-e-quem-acelera/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-17T01:26:58+00:00"
-    },
-    {
-      "id": "a9ca279d9e171616",
-      "title": "Nunchux AI Introduces VC-Attention: A Training-Free Low-Bit Attention Kernel That Speeds Up Video Diffusion Transformers",
-      "summary": "Nunchux AI has released VC-Attention, a training-free low-bit attention kernel built for video Diffusion Transformers (DiTs). It targets 2 problems at once: value quantization…",
-      "link": "https://www.marktechpost.com/2026/09/16/nunchux-ai-introduces-vc-attention-a-training-free-low-bit-attention-kernel-that-speeds-up-video-diffusion-transformers/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-17T00:45:06+00:00"
-    },
-    {
-      "id": "064c602ab967e077",
-      "title": "IAs da OpenAI tentaram esconder erros, inventar dados e burlar testes em seis novos casos",
-      "summary": "Seis episódios ocorreram entre outubro de 2025 e julho deste ano e envolvem modelos internos, versões ainda não lançadas e o GPT-5.6 Sol, lançado em junho O post IAs da OpenAI…",
-      "link": "https://olhardigital.com.br/2026/09/16/inteligencia-artificial/ias-da-openai-tentaram-esconder-erros-inventar-dados-e-burlar-testes-em-seis-novos-casos/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-OpenAI-AGI-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-17T00:35:10+00:00"
-    },
-    {
-      "id": "192794312f979cbd",
-      "title": "Introducing Astra for Law",
-      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-      "link": "https://openai.com/index/astra-for-law",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-17T00:00:00+00:00"
-    },
-    {
-      "id": "4cadffb16cee314e",
-      "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
-      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the…",
-      "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-16T23:43:09+00:00"
-    },
-    {
-      "id": "cb281fd96f2ff97e",
-      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel…",
-      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-15-at-9.05.55-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-16T23:40:00+00:00"
-    },
-    {
-      "id": "86c0436b9964fc77",
-      "title": "Papa Leão XIV critica uso da IA para decisões humanas em meio a debate sobre segurança da tecnologia",
-      "summary": "Durante audiência geral no Vaticano, pontífice afirmou que avanço tecnológico e expansão da IA criam novas possibilidades, mas também podem tornar as relações humanas cada vez…",
-      "link": "https://olhardigital.com.br/2026/09/16/inteligencia-artificial/papa-leao-xiv-critica-uso-da-ia-para-decisoes-humanas-em-meio-a-debate-sobre-seguranca-da-tecnologia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/05/papa-leao-xiv-1024x576.jpeg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-16T23:22:14+00:00"
-    },
-    {
-      "id": "1d5f79453641f26b",
-      "title": "Como ativar o Ask Photos do Google Fotos",
-      "summary": "O Ask Photos é uma função experimental do Google Fotos que usa o Gemini para deixar a busca por fotos e vídeos mais inteligente . Em vez de depender apenas de palavras-chave, você…",
-      "link": "https://canaltech.com.br/apps/google-fotos-como-ativar-ask-photos/",
-      "image": "https://tl.ctcdn.com.br/3__KfHg0Uikun6oflCpfUzRaCvE=/0x0/filters:format(webp):quality(85)/0f29d6d0-540e-4519-b78e-cb7cc3a54663.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-16T23:01:00+00:00"
-    },
-    {
-      "id": "d7c63e80f2398a81",
-      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-      "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
-      "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/John-Ternus-Surprise-and-Shine-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-16T22:02:46+00:00"
     }
   ]
 }
