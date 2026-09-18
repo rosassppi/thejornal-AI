@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-09-18T10:36:08.318026+00:00",
+  "generated_at": "2026-09-18T15:51:39.608564+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "8914fbaf102dbec7",
+      "title": "EUA vão usar inteligência artificial para ajudar a controlar o tráfego aéreo e reduzir atrasos e cancelamentos",
+      "summary": "Estados Unidos preparam estreia de sistema de IA de US$ 875 milhões para otimizar o controle de tráfego aéreo na região de Washington O post EUA vão usar inteligência artificial…",
+      "link": "https://olhardigital.com.br/2026/09/18/inteligencia-artificial/eua-vao-usar-inteligencia-artificial-para-ajudar-a-controlar-o-trafego-aereo-e-reduzir-atrasos-e-cancelamentos/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/washington-dc-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-18T15:38:42+00:00"
+    },
+    {
+      "id": "88391dbee63d2157",
+      "title": "Security researchers used Claude to help them hack into OpenAI",
+      "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-18T15:30:16+00:00"
+    },
+    {
+      "id": "82f9ebd94448956c",
+      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+      "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-18T15:30:00+00:00"
+    },
+    {
+      "id": "24a3040cf9015110",
+      "title": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+      "summary": "Internal emails and sworn testimony undercut OpenAI and Microsoft's fair use defense. A Microsoft director described the practice as the \"largest theft of labor in human history,\"…",
+      "link": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_vacuum_internet_data.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-18T15:27:29+00:00"
+    },
+    {
+      "id": "e194e480bc8772d4",
+      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+      "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
+      "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-18T15:22:48+00:00"
+    },
+    {
+      "id": "98224f313ba9e91c",
+      "title": "I’m so mad that I love Orion’s $2,195 AI mattress pad",
+      "summary": "Sleeping on the Orion is like flipping your pillow to find “the cool side,” except that your whole entire bed is the cool side.",
+      "link": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-18T15:22:16+00:00"
+    },
+    {
+      "id": "ff87e0037dae5449",
+      "title": "Onde a inteligência artificial realmente está mudando o varejo",
+      "summary": "* Por Flávia Zeni Nos últimos anos, as discussões sobre inteligência artificial no varejo foram dominadas por anúncios chamativos e demonstrações conceituais. No entanto, por trás…",
+      "link": "https://canaltech.com.br/mercado/onde-a-inteligencia-artificial-realmente-esta-mudando-o-varejo/",
+      "image": "https://tl.ctcdn.com.br/LP7feRkiEwNvGp4ELdgOTOEFy1w=/0x0/filters:format(webp):quality(85)/20b064c4-5dc9-4926-891b-046b973c428d.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-18T14:46:56+00:00"
+    },
+    {
+      "id": "bc4d0502f5df3de5",
+      "title": "Visible chains of thought are a safety advantage for AI, but that transparency is slipping away",
+      "summary": "AI models think out loud today, but Google Deepmind says that transparency is at risk. The article Visible chains of thought are a safety advantage for AI, but that transparency…",
+      "link": "https://the-decoder.com/visible-chains-of-thought-are-a-safety-advantage-for-ai-but-that-transparency-is-slipping-away/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/reasoning_transparency.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-18T14:32:49+00:00"
+    },
+    {
+      "id": "eed67d86f88e63f9",
+      "title": "Anthropic wants you to know Claude leads a quarter of its research, but \"lead\" doesn't mean what you think",
+      "summary": "For the first time, Anthropic is releasing metrics on how it builds its own AI. Claude already \"leads\" 26 percent of the work on future models, up from under one percent in…",
+      "link": "https://the-decoder.com/anthropic-wants-you-to-know-claude-leads-a-quarter-of-its-research-but-lead-doesnt-mean-what-you-think/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/anthropic_claude_clone.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-18T14:06:50+00:00"
+    },
+    {
+      "id": "deaa594637f7b306",
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before…",
+      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-18T14:00:14+00:00"
+    },
+    {
+      "id": "d92122e53ec9d4f7",
+      "title": "New experts join Google’s AI & Economy team",
+      "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-18T14:00:00+00:00"
+    },
+    {
+      "id": "93f17fa46ff0fbef",
+      "title": "OpenAI takes aim at the legal market with Astra for Law",
+      "summary": "OpenAI has introduced Astra for Law, a version of its GPT-6 Astra model built for legal work. The article OpenAI takes aim at the legal market with Astra for Law appeared first on…",
+      "link": "https://the-decoder.com/openai-takes-aim-at-the-legal-market-with-astra-for-law/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_gpt6_astra.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-18T13:42:43+00:00"
+    },
+    {
+      "id": "0d07d819dbcfe52a",
+      "title": "Researchers used Claude to hack OpenAI",
+      "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
+      "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ailogos-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-18T13:30:12+00:00"
+    },
+    {
+      "id": "44ec3a3d6fdc7de7",
+      "title": "Co-creating the future of fashion with Google",
+      "summary": "Jane Wade and Sergio Hudson",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-18T13:00:00+00:00"
+    },
+    {
+      "id": "e4798b2bac6e1830",
+      "title": "“Mi Band da Samsung” vazou: Galaxy Fit 4 ganha primeiros detalhes",
+      "summary": "A Samsung está perto de renovar sua linha de pulseiras inteligentes. A nova integrante da linha de \"Mi Bands\" da fabricante sul-coreana deve ser a Galaxy Fit 4 , acessório que…",
+      "link": "https://canaltech.com.br/smartwatch/mi-band-da-samsung-vazou-galaxy-fit-4-ganha-primeiros-detalhes/",
+      "image": "https://tl.ctcdn.com.br/XPAl22o21mzoMVI2MHfKDcmp93I=/0x0/filters:format(webp):quality(85)/82e4c376-f7c4-4356-b2b9-4ced394b4d1a.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-18T12:23:29+00:00"
+    },
+    {
+      "id": "2f3ad60c2c0a3950",
+      "title": "42 leading mathematicians warn that AI existential risk is real and urgent",
+      "summary": "42 Fellows of the Royal Society, including Fields Medal winners Martin Hairer and Peter Scholze, warn of existential AI risks in an open letter. Leading models have solved open…",
+      "link": "https://the-decoder.com/42-leading-mathematicians-warn-that-ai-existential-risk-is-real-and-urgent/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/robot_scientists_threat.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-18T11:41:16+00:00"
+    },
+    {
+      "id": "b491d63c1a336d84",
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees…",
+      "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-18T11:29:22+00:00"
+    },
+    {
+      "id": "084a8ea6d1f7cd39",
+      "title": "Flash floods can strike without warning — this new technology could change that",
+      "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call…",
+      "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-18T11:00:00+00:00"
+    },
     {
       "id": "6383024b1d85fd7f",
       "title": "US and China experts push for shared rules banning AI control over nuclear weapons",
@@ -212,17 +410,6 @@
       "published_at": "2026-09-17T20:10:41+00:00"
     },
     {
-      "id": "0f73d188d043bc01",
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
-      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-17T20:00:00+00:00"
-    },
-    {
       "id": "590df77dc8c3726e",
       "title": "Making global data easier to explore",
       "summary": "UN System Data Commons Data webpage",
@@ -231,6 +418,17 @@
       "source": "Google AI Blog",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-09-17T20:00:00+00:00"
+    },
+    {
+      "id": "0f73d188d043bc01",
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-09-17T20:00:00+00:00"
     },
     {
@@ -793,204 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-16T22:02:46+00:00"
-    },
-    {
-      "id": "bce6650ae1e36999",
-      "title": "Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data",
-      "summary": "Paper2Agent, published in Nature, converts papers into validated MCP tools, scoring 91.2% on 300 questions across 74 papers. The post Stanford Researchers Release Paper2Agent…",
-      "link": "https://www.marktechpost.com/2026/09/16/stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-that-reproduce-results-and-run-on-new-data/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-16T21:59:26+00:00"
-    },
-    {
-      "id": "f7546bd914d237df",
-      "title": "Knowledgator Releases GLiFormer: A 575M-Parameter Encoder That Hits 91.10 F1 on Nested JSON Extraction Without Generating Tokens",
-      "summary": "GLiFormer Large scores 91.10 F1 on nested JSON, near GPT-5.6-luna's 91.96, while grounding every value in source spans. The post Knowledgator Releases GLiFormer: A 575M-Parameter…",
-      "link": "https://www.marktechpost.com/2026/09/16/knowledgator-releases-gliformer-a-575m-parameter-encoder-that-hits-91-10-f1-on-nested-json-extraction-without-generating-tokens/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-16T21:19:32+00:00"
-    },
-    {
-      "id": "0b10385b1288a700",
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires…",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-16T21:07:24+00:00"
-    },
-    {
-      "id": "83f9bb5c2cf2b24c",
-      "title": "iFood prepara investida contra rivais chineses com IA e entrega turbo",
-      "summary": "O iFood anunciou um plano de R$ 24 bilhões em investimentos no Brasil até março de 2027, alta de 41% sobre o ciclo anterior, em meio ao avanço de concorrentes chineses no mercado…",
-      "link": "https://canaltech.com.br/mercado/ifood-prepara-investida-contra-rivais-chineses-com-ia-e-entrega-turbo/",
-      "image": "https://tl.ctcdn.com.br/sOsVn5odPoaAoNGzNy0BMzJRxXs=/0x0/filters:format(webp):quality(85)/0136dc4c-2bfb-4984-80c2-fcca929f4de2.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-16T21:03:00+00:00"
-    },
-    {
-      "id": "4d412859e266e8b7",
-      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-      "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the…",
-      "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-16-at-4.19.06-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-16T20:59:13+00:00"
-    },
-    {
-      "id": "46aa3a71d1463843",
-      "title": "The AI data center e-waste problem is huge — and getting bigger",
-      "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-16T20:40:46+00:00"
-    },
-    {
-      "id": "e78eec3a7fca72d3",
-      "title": "EU president warns AI agents \"escaping their environment\" are just a preview of what's coming",
-      "summary": "Ursula von der Leyen plans to invite the major frontier labs to talks and use the AI Act to help set global AI safety standards. She cited autonomous hacking and self-improving…",
-      "link": "https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/europe_EU_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-16T19:02:25+00:00"
-    },
-    {
-      "id": "bb03d390670bf031",
-      "title": "Impressoras em promoção na Amazon: escolha a ideal para o seu dia a dia",
-      "summary": "Seja para uso doméstico, home office ou pequena empresa, uma boa impressora faz toda a diferença na rotina. Reunimos três opções em oferta na Amazon que valem a atenção — com…",
-      "link": "https://olhardigital.com.br/2026/09/16/reviews/impressoras-em-promocao-na-amazon-escolha-a-ideal-para-o-seu-dia-a-dia/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-16T18:40:00+00:00"
-    },
-    {
-      "id": "2aee4c2d587d9af5",
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-16T18:25:25+00:00"
-    },
-    {
-      "id": "11a1462f8f8c53d7",
-      "title": "Apple is reportedly building an enterprise AI server with its own M8 Ultra chips",
-      "summary": "According to The Information, Apple is working on an enterprise server with two or four M8 Ultra chips for the AI inference market, with a possible launch no earlier than 2029…",
-      "link": "https://the-decoder.com/apple-is-reportedly-building-an-enterprise-ai-server-with-its-own-m8-ultra-chips/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/apple_logo_neon_green.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-16T18:16:27+00:00"
-    },
-    {
-      "id": "4a7a36db293def7f",
-      "title": "Novo Gemini raciocina enquanto conversa por voz com usuário",
-      "summary": "O Google anunciou os modelos Gemini 3.8 Live e Gemini 3.8 Live Extended Thinking, que conseguem raciocinar enquanto conversam com o usuário por voz e executar tarefas em segundo…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/novo-gemini-raciocina-enquanto-conversa-por-voz-com-usuario/",
-      "image": "https://tl.ctcdn.com.br/2EyuqhmZaLK-QAejIMGN0_3cdSw=/0x0/filters:format(webp):quality(85)/895b88d2-a897-4e5e-9b32-b24dbcb48fb2.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-16T18:03:00+00:00"
-    },
-    {
-      "id": "07b9c369142a71fc",
-      "title": "Novas placas GeForce RTX 60 ganham janela de lançamento para antes do esperado",
-      "summary": "Um novo vazamento aponta que a NVIDIA prepara o lançamento das placas de vídeo da linha GeForce RTX 60 para o início de 2027 , após o projeto ser adiado. Inicialmente previstos…",
-      "link": "https://canaltech.com.br/hardware/novas-placas-geforce-rtx-60-ganham-janela-de-lancamento-para-antes-do-esperado/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-16T17:57:00+00:00"
-    },
-    {
-      "id": "14a1b53588b2bd7b",
-      "title": "Apple might make servers again to cash in on the AI rush",
-      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and…",
-      "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-16T17:20:29+00:00"
-    },
-    {
-      "id": "17a9e8f353cf5b6f",
-      "title": "Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI",
-      "summary": "Google Deepmind has founded the Deepmind Institute (DMI), an interdisciplinary research platform focused on AGI. Led by Demis Hassabis, Shane Legg, and James Manyika, the…",
-      "link": "https://the-decoder.com/google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/google_deepmind-scaled.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-16T17:00:28+00:00"
-    },
-    {
-      "id": "f3899afd4d6a0a2d",
-      "title": "Our framework for reporting model misalignment",
-      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-      "link": "https://openai.com/index/model-misalignment-reporting-framework",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-16T17:00:00+00:00"
-    },
-    {
-      "id": "b229c2cba9991e07",
-      "title": "Google will now let any AI agent run your smart home",
-      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the…",
-      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-16T17:00:00+00:00"
-    },
-    {
-      "id": "3f0c679ced8d8862",
-      "title": "Your AI agents can now control your Google Home devices",
-      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries…",
-      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-16T17:00:00+00:00"
-    },
-    {
-      "id": "a02ed1e3e949de61",
-      "title": "Anthropic merges Claude Chat, Cowork, and more into a single product",
-      "summary": "Anthropic is merging Claude Chat and Cowork into a single product. Instead of users picking between interfaces, Claude now decides on its own whether a task needs a quick answer…",
-      "link": "https://the-decoder.com/anthropic-merges-claude-chat-cowork-and-more-into-a-single-product/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-16T16:31:41+00:00"
     }
   ]
 }
