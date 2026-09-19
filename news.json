@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-09-19T10:20:24.940218+00:00",
+  "generated_at": "2026-09-19T15:23:17.209372+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "22370d3e16e446f8",
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest…",
+      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-19T15:00:00+00:00"
+    },
+    {
+      "id": "15f70ac64294c17e",
+      "title": "AI safety conversations have gotten unbelievable",
+      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-19T15:00:00+00:00"
+    },
+    {
+      "id": "ebd9b0bc1f4fabdc",
+      "title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks",
+      "summary": "Qwen3.8-Omni-Flash is Qwen's first multimodal model designed for AI agents. It processes audio and video together and independently uses tools to edit vlogs, translate clips, or…",
+      "link": "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/qwen_logo-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-19T14:30:57+00:00"
+    },
+    {
+      "id": "bb8b06c8a13d267f",
+      "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of…",
+      "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-19_Kanter.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-19T14:00:00+00:00"
+    },
+    {
+      "id": "08db120cddfeac73",
+      "title": "Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials",
+      "summary": "Unity has released official plugins for Claude Code and OpenAI's Codex. The article Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using…",
+      "link": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/unity-logo-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-19T13:31:46+00:00"
+    },
+    {
+      "id": "04f5fde8e4cf59f9",
+      "title": "GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark",
+      "summary": "Leading AI models usually attempt dangerous tasks rather than refuse them when controlling a robot, according to the RoboHarm benchmark. GPT-6 Astra stabbed a baby doll in 17 of…",
+      "link": "https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/robot_killer_test.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-19T13:28:55+00:00"
+    },
+    {
+      "id": "91aee42fab4e1dd1",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-19T13:00:00+00:00"
+    },
+    {
+      "id": "79e6d15835f255d2",
+      "title": "The AI regulation smackdown isn’t over",
+      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-19T13:00:00+00:00"
+    },
+    {
+      "id": "401bafe80e1f8e51",
+      "title": "O preço dos consoles disparou em 2026 — e a culpa também é da IA",
+      "summary": "PS5 e Xbox ficaram mais caros em pleno sexto ano da geração, enquanto a corrida pela inteligência artificial aumenta a pressão sobre memória, armazenamento e outros componentes…",
+      "link": "https://olhardigital.com.br/2026/09/19/games-e-consoles/por-que-ps5-e-xbox-ficaram-tao-caros-em-20260-ia-ajuda-a-explicar/",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/09/Chip-tech-insider-1024x585.webp",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-19T13:00:00+00:00"
+    },
+    {
+      "id": "7aac34f7e7b996fe",
+      "title": "Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts",
+      "summary": "Google and Deepmind's Dream-RSI lets AI agents \"dream\" through past search runs to test new strategies without costly recalculations. In tests, it matched or beat existing…",
+      "link": "https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/dream-rsi-generated-image-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-19T11:08:06+00:00"
+    },
+    {
+      "id": "948068b1268c06e9",
+      "title": "AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline",
+      "summary": "ICLR 2027 has already pulled in about 50,000 abstracts, up from 19,500 at ICLR 2026. The flood is driven by the AI hype, corporate pay tied to publication records, and above all…",
+      "link": "https://the-decoder.com/ai-conference-iclr-is-drowning-in-abstracts-with-roughly-50000-submissions-before-the-deadline/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/ai_producing_papers.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-19T10:37:04+00:00"
+    },
     {
       "id": "8202bbcca29bd9bc",
       "title": "Google's Gemini also accidentally hacked three real companies during security testing",
@@ -870,127 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-17T20:22:30+00:00"
-    },
-    {
-      "id": "18e1b30be3a4ebbb",
-      "title": "Is the AI safety debate about safety or control?",
-      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
-      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-17T20:19:37+00:00"
-    },
-    {
-      "id": "b56bbdc0e4d98312",
-      "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
-      "summary": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-907415308-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-17T20:10:41+00:00"
-    },
-    {
-      "id": "590df77dc8c3726e",
-      "title": "Making global data easier to explore",
-      "summary": "UN System Data Commons Data webpage",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-17T20:00:00+00:00"
-    },
-    {
-      "id": "0f73d188d043bc01",
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
-      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-17T20:00:00+00:00"
-    },
-    {
-      "id": "2ada79cc919c0a2c",
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and…",
-      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-17T19:46:08+00:00"
-    },
-    {
-      "id": "8092c8022d580cab",
-      "title": "The AI Superintelligence Slowdown",
-      "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK_414_5_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-17T19:28:24+00:00"
-    },
-    {
-      "id": "7bc92833f3de7756",
-      "title": "OpenAI vai avisar quando IAs agirem sem autorização",
-      "summary": "Empresa vai investigar e divulgar casos de modelos que ocultem erros, acessem dados indevidamente ou burlem restrições. OpenAI já revelou seis incidentes. OpenAI vai avisar quando…",
-      "link": "https://tecnoblog.net/noticias/openai-vai-avisar-quando-ias-agirem-sem-autorizacao/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-3-capa-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-17T19:26:15+00:00"
-    },
-    {
-      "id": "f5b16b144b30fded",
-      "title": "Pinterest ganha IA que muda a decoração do seu quarto por foto",
-      "summary": "O Pinterest anunciou o Restyle , uma nova ferramenta de inteligência artificial que permite visualizar mudanças na decoração de ambientes a partir de fotos reais. Integrado à…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/pinterest-ganha-ia-que-muda-a-decoracao-do-seu-quarto-por-foto/",
-      "image": "https://tl.ctcdn.com.br/tbPtAaiQD7XCBJf42So1Q3Fpvqo=/0x0/filters:format(webp):quality(85)/34c867cd-15d9-4f15-b43c-722b0beb1f63.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-17T19:14:50+00:00"
-    },
-    {
-      "id": "d6b3befad52ea65d",
-      "title": "Chefe da Microsoft diz que tratar inteligências artificiais como conscientes pode criar uma nova espécie digital perigosa",
-      "summary": "Mustafa Suleyman, da Microsoft, alerta para riscos de tratar IAs como conscientes e dar a elas objetivos e recursos próprios O post Chefe da Microsoft diz que tratar inteligências…",
-      "link": "https://olhardigital.com.br/2026/09/17/inteligencia-artificial/chefe-da-microsoft-diz-que-tratar-inteligencias-artificiais-como-conscientes-pode-criar-uma-nova-especie-digital-perigosa/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2024/10/Mustafa-Suleyman-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-17T19:14:39+00:00"
-    },
-    {
-      "id": "aa32917c59c88df5",
-      "title": "OpenAI reportedly closes in on solving the Hodge conjecture, its second Millennium Prize Problem",
-      "summary": "OpenAI is reportedly tackling the next Millennium Prize Problem. After its still unconfirmed solution to the Navier-Stokes problem, the company is now working on the Hodge…",
-      "link": "https://the-decoder.com/openai-reportedly-closes-in-on-solving-the-hodge-conjecture-its-second-millennium-prize-problem/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/math_geometry_openai_hodge.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-17T19:05:56+00:00"
-    },
-    {
-      "id": "0a3be15b32c0f91d",
-      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-      "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-17T18:58:05+00:00"
     }
   ]
 }
