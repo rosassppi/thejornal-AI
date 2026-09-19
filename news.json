@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-09-19T15:23:17.209372+00:00",
+  "generated_at": "2026-09-19T20:03:58.656422+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "f2a5cd60bc834c24",
+      "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-19T19:57:47+00:00"
+    },
+    {
+      "id": "a58488bf53ea6007",
+      "title": "Como usar Agentes de IA para automatizar pesquisas e planilhas em segundo plano",
+      "summary": "Agentes de IA podem facilitar a criação de planilhas com base em pesquisas ou formulários. É possível configurar um bot para analisar todas as buscas por um produto e separar os…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-agentes-de-ia-pesquisas-planilhas/",
+      "image": "https://tl.ctcdn.com.br/J3f5EItiiIZAo6nwxiypi60o5VI=/0x0/filters:format(webp):quality(85)/c20c4b3c-e2a5-4678-af70-b6b1d80eb4e5.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-19T19:30:00+00:00"
+    },
+    {
+      "id": "fc897dcb9bbacca4",
+      "title": "Trump anuncia criação de “Força de IA” nos EUA e promete nomear um “czar” para acompanhar a tecnologia",
+      "summary": "Presidente dos Estados Unidos anuncia criação de uma “Força de IA” para acompanhar a regulamentação da tecnologia O post Trump anuncia criação de “Força de IA” nos EUA e promete…",
+      "link": "https://olhardigital.com.br/2026/09/19/inteligencia-artificial/trump-anuncia-criacao-de-forca-de-ia-nos-eua-e-promete-nomear-um-czar-para-acompanhar-a-tecnologia/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-19T19:04:36+00:00"
+    },
+    {
+      "id": "de585f3ad6a433dd",
+      "title": "Hora de imprimir com mais economia: veja uma seleção de impressoras em promoção na Amazon",
+      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções multifuncionais em oferta na Amazon, com modelos…",
+      "link": "https://olhardigital.com.br/2026/09/19/reviews/hora-de-imprimir-com-mais-economia-veja-uma-selecao-de-impressoras-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-19T18:40:00+00:00"
+    },
+    {
+      "id": "e0b8e6e014e2a30e",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-19T17:30:00+00:00"
+    },
+    {
+      "id": "711add04ff77572d",
+      "title": "Inteligência superior? Extrema? Suprema? Trump abre enquete para trocar o nome da inteligência artificial",
+      "summary": "Trump questionou o nome “inteligência artificial” e abriu uma enquete com três alternativas para batizar a tecnologia O post Inteligência superior? Extrema? Suprema? Trump abre…",
+      "link": "https://olhardigital.com.br/2026/09/19/inteligencia-artificial/inteligencia-superior-extrema-suprema-trump-abre-enquete-para-trocar-o-nome-da-inteligencia-artificial/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-19T17:25:49+00:00"
+    },
+    {
+      "id": "fd29565670e26ee4",
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-19T15:25:03+00:00"
+    },
     {
       "id": "22370d3e16e446f8",
       "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
@@ -914,83 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-17T22:12:58+00:00"
-    },
-    {
-      "id": "edb59e1062a3e8be",
-      "title": "Claude Code atualiza Projetos para executar tarefas com múltiplos agentes de IA",
-      "summary": "A Anthropic relançou, neste quinta-feira (17), o recurso Projetos no Claude Code como um centro de comando para gerenciar múltiplos agentes de IA trabalhando simultaneamente na…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/claude-code-atualiza-projetos-para-executar-tarefas-com-multiplos-agentes-de-ia/",
-      "image": "https://tl.ctcdn.com.br/GeVucxq2cxWTFjBgDumBlE70oYY=/0x0/filters:format(webp):quality(85)/60c53e74-9ff4-4239-b082-6c5431dd3005.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-17T22:03:00+00:00"
-    },
-    {
-      "id": "c413e269b389a635",
-      "title": "Microsoft Open-Sources TauGrid: A Kubernetes-Native Stack for GPU AI Workloads",
-      "summary": "Microsoft's AKS engineering team open-sourced TauGrid on August 28, 2026, packaging the tau CLI, Kueue queueing, KubeRay orchestration, GPU node health monitoring and…",
-      "link": "https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-17T21:21:08+00:00"
-    },
-    {
-      "id": "5db550bd37abd447",
-      "title": "Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop",
-      "summary": "Anthropic redesigned Projects in Claude Code. The old project was a folder: some files plus one chat. The new one is a single ongoing conversation where Claude acts as…",
-      "link": "https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-close-your-laptop/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-17T20:45:04+00:00"
-    },
-    {
-      "id": "b6fa6fac1a59ec3b",
-      "title": "The fix for rogue AI agents could be more AI",
-      "summary": "Y Combinator has funded 106 companies related to AI observability in recent years",
-      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-17T20:34:47+00:00"
-    },
-    {
-      "id": "dd27b544c5238b56",
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as…",
-      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-17T20:34:24+00:00"
-    },
-    {
-      "id": "4987e3a502254109",
-      "title": "Google announces new experimental \"CC\" AI agent for families",
-      "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
-      "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Google-CC-500x500.png",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-17T20:24:34+00:00"
-    },
-    {
-      "id": "3e8472cdb7c0a6cb",
-      "title": "Nvidia quer vender o dobro de chips em 2027 em meio à explosão da demanda por tecnologia para IA",
-      "summary": "Nova previsão ocorre pouco depois de a Nvidia revelar que espera crescimento de 70% no ano fiscal que termina em janeiro de 2028 O post Nvidia quer vender o dobro de chips em 2027…",
-      "link": "https://olhardigital.com.br/2026/09/17/pro/nvidia-quer-vender-o-dobro-de-chips-em-2027-em-meio-a-explosao-da-demanda-por-tecnologia-para-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/jensen_huang-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-17T20:22:30+00:00"
     }
   ]
 }
