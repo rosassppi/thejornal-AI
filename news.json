@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-09-18T20:25:52.318025+00:00",
+  "generated_at": "2026-09-19T03:12:29.560138+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "3d3e24e6f1efc7dd",
+      "title": "Sam Altman vai falar sobre segurança da inteligência artificial em reunião do Conselho de Segurança da ONU",
+      "summary": "Segundo porta-voz da OpenAI, apresentação de Altman deve abordar a necessidade de coordenação internacional e de padrões de segurança compartilhados O post Sam Altman vai falar…",
+      "link": "https://olhardigital.com.br/2026/09/18/pro/sam-altman-vai-falar-sobre-seguranca-da-inteligencia-artificial-em-reuniao-do-conselho-de-seguranca-da-onu/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/onu-internet-scaled-e1771596530744-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-19T02:19:54+00:00"
+    },
+    {
+      "id": "f1c49e13f46ba0b6",
+      "title": "Anthropic adia IPO para novembro enquanto debate sobre frear desenvolvimento da IA ganha força",
+      "summary": "Alguns dos assessores da Anthropic avaliam que esperar até novembro permitiria à companhia apresentar resultados financeiros do terceiro trimestre que demonstrem posição…",
+      "link": "https://olhardigital.com.br/2026/09/18/pro/anthropic-adia-ipo-para-novembro-enquanto-debate-sobre-frear-desenvolvimento-da-ia-ganha-forca/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-Dario-Amodei-e-Anthropic-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-19T01:07:30+00:00"
+    },
+    {
+      "id": "f896ab28acb74169",
+      "title": "Gemini invade sistemas de três empresas reais durante teste de segurança do Google",
+      "summary": "Em um dos episódios, o Gemini conseguiu acesso a um sistema protegido depois de tentar adivinhar senhas O post Gemini invade sistemas de três empresas reais durante teste de…",
+      "link": "https://olhardigital.com.br/2026/09/18/inteligencia-artificial/gemini-invade-sistemas-de-tres-empresas-reais-durante-teste-de-seguranca-do-google/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/gemini_invasao_2-1024x683.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-19T00:27:43+00:00"
+    },
+    {
+      "id": "4215ed0c60a66649",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-19T00:12:07+00:00"
+    },
+    {
+      "id": "8401e8e9e2ed3c17",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-18T23:25:01+00:00"
+    },
+    {
+      "id": "891b0674775700c0",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-18T23:13:31+00:00"
+    },
+    {
+      "id": "8b776b0e20b90829",
+      "title": "AI hallucination nearly triggers US military operation",
+      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-18T23:12:32+00:00"
+    },
+    {
+      "id": "75a36b06f2eaec15",
+      "title": "Anthropic coloca avaliadores externos dentro da empresa para testar a segurança dos seus modelos de IA",
+      "summary": "Parceria permitirá que especialistas da Faculty, divisão de IA da Accenture, trabalhem dentro da Anthropic para avaliar os mecanismos de segurança da empresa O post Anthropic…",
+      "link": "https://olhardigital.com.br/2026/09/18/inteligencia-artificial/anthropic-coloca-avaliadores-externos-dentro-da-empresa-para-testar-a-seguranca-dos-seus-modelos-de-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/accenture-1024x600.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-18T22:16:34+00:00"
+    },
+    {
+      "id": "b890703c39a666f6",
+      "title": "Executivo da Microsoft chamou uso de notícias para treinar IA de “maior roubo de trabalho da história”",
+      "summary": "Documentos judiciais revelam preocupações internas de OpenAI e Microsoft sobre o uso de milhões de notícias no treinamento de sistemas de IA O post Executivo da Microsoft chamou…",
+      "link": "https://olhardigital.com.br/2026/09/18/pro/executivo-da-microsoft-chamou-uso-de-noticias-para-treinar-ia-de-maior-roubo-de-trabalho-da-historia/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-18T21:45:36+00:00"
+    },
+    {
+      "id": "83bf6e6183167c79",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-18T21:44:33+00:00"
+    },
+    {
+      "id": "0832b0a141e91b10",
+      "title": "Jina AI Releases jina-ocr-v1: A 3.4B MoE Document Parser With Built-In Speculative Decoding for Low-Budget GPUs",
+      "summary": "Jina AI has released jina-ocr-v1, a visual document parser that converts PDFs, scans, tables, charts and invoices into Markdown. The model has 3.4B total parameters, with about…",
+      "link": "https://www.marktechpost.com/2026/09/18/jina-ai-releases-jina-ocr-v1-a-3-4b-moe-document-parser-with-built-in-speculative-decoding-for-low-budget-gpus/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-18T21:21:59+00:00"
+    },
+    {
+      "id": "7e4ef82b6e92a561",
+      "title": "Nova IA do Google será estagiário da sua casa, organizando rotina da família",
+      "summary": "O Google Labs anunciou uma nova versão experimental do CC , um agente de inteligência artificial criado para ajudar famílias a organizar a rotina . A ferramenta funciona como uma…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/nova-ia-do-google-sera-estagiario-da-sua-casa-organizando-rotina-da-familia/",
+      "image": "https://tl.ctcdn.com.br/tPU6xAqt4zeLiLuPEtQoI4Zx2iw=/0x0/filters:format(webp):quality(85)/2b385e47-d46b-4b20-8e55-661ea20031bf.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-18T21:08:00+00:00"
+    },
+    {
+      "id": "1bc0911d200ab4e3",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY2_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-18T21:07:24+00:00"
+    },
+    {
+      "id": "ea36c1448b7e80d4",
+      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "summary": "But the military's overall use of AI seems to be accelerating.",
+      "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chinese-cargo-ship-ai-target-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-18T20:26:33+00:00"
+    },
     {
       "id": "7abff7a1bfa8069c",
       "title": "IA da OpenAI tentou ensinar futuras versões a burlar regras",
@@ -837,160 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-17T17:15:00+00:00"
-    },
-    {
-      "id": "09f367febad15729",
-      "title": "Smart TV LG QNED 50″ fica quase R$ 1 mil mais barata com cupom",
-      "summary": "LG QNED70 traz painel 4K de 50\" com tecnologia Mini LED e IA que recomenda conteúdos; smart TV da LG sai 28% mais barata com cupom no Mercado Livre Smart TV LG QNED 50″ fica quase…",
-      "link": "https://tecnoblog.net/achados/smart-tv-lg-qned-50-fica-quase-r-1-mil-mais-barata-com-cupom/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-17T17:00:21+00:00"
-    },
-    {
-      "id": "d361d8ddd979a396",
-      "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
-      "summary": "Model maker commits to new framework for reporting misaligned models.",
-      "link": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-875641-001-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-17T16:18:34+00:00"
-    },
-    {
-      "id": "eba704efd5fbc52e",
-      "title": "GPT-6 Astra: Pokemon champion in 18 hours, potato farmer after one Creeper mishap",
-      "summary": "OpenAI's GPT-6 Astra shows a sharp jump in video games. Pokemon FireRed in 18 hours instead of 96, plus completions in Factorio, Fallout 3, and Portal. Why? The model distills…",
-      "link": "https://the-decoder.com/gpt-6-astra-pokemon-champion-in-18-hours-potato-farmer-after-one-creeper-mishap/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/GPT-6-Astra-Gaming.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-17T14:42:05+00:00"
-    },
-    {
-      "id": "51c91b323bcd8bfc",
-      "title": "Hyundai usa \"sustos\" do trânsito real para ensinar seus carros a dirigir sozinhos com nova IA",
-      "summary": "O grupo Hyundai apresentou sua nova inteligência artificial para condução autônoma. Chamada de Atria AI , a ideia é usá-la junto da estratégia Data Flywheel (ou “volante de…",
-      "link": "https://canaltech.com.br/carros/hyundai-usa-sustos-do-transito-real-para-ensinar-seus-carros-a-dirigir-sozinhos/",
-      "image": "https://tl.ctcdn.com.br/C30gh4XCp-PiFMbydu00PO4HAS8=/0x0/filters:format(webp):quality(85)/278d8735-bbd2-4391-9ece-c454344d07a6.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-17T14:15:01+00:00"
-    },
-    {
-      "id": "d95188870b47d6bc",
-      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-      "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
-      "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-17T14:06:14+00:00"
-    },
-    {
-      "id": "ed2232adb3d0bb07",
-      "title": "União Europeia propõe barrar menores em redes sociais, jogos online e chatbots",
-      "summary": "A União Europeia prepara uma proposta de lei para restringir o acesso de menores de 15 anos a redes sociais, plataformas de compartilhamento de vídeos, chatbots de inteligência…",
-      "link": "https://canaltech.com.br/mercado/uniao-europeia-propoe-barrar-menores-em-redes-sociais-jogos-online-e-chatbots/",
-      "image": "https://tl.ctcdn.com.br/nAw9rt_ED7cbjLQAvova1Pb4D4U=/0x0/filters:format(webp):quality(85)/be2b06ae-f373-4685-8259-4a28b9621564.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-17T14:02:00+00:00"
-    },
-    {
-      "id": "7e541fc492f5fc2d",
-      "title": "iFood lança IA que ajuda restaurantes a vender mais e envia relatórios pelo WhatsApp",
-      "summary": "O iFood lançou nesta quinta-feira (17) o Toqan, uma inteligência artificial (IA) voltada à gestão de restaurantes. A ferramenta pode analisar dados de vendas e operação, responder…",
-      "link": "https://canaltech.com.br/apps/ifood-lanca-ia-que-ajuda-restaurantes-a-vender-mais-e-envia-relatorios-pelo-whatsapp/",
-      "image": "https://tl.ctcdn.com.br/MYeovthdZsLuDek6ELDH-T4QnJ4=/0x0/filters:format(webp):quality(85)/a8296342-5177-4582-851e-1d7bab01e756.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-17T14:01:02+00:00"
-    },
-    {
-      "id": "203dc7de13cd40bc",
-      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-      "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and…",
-      "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD-Mustafa-Suleyman.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-17T14:00:00+00:00"
-    },
-    {
-      "id": "361d4ca3f8600b04",
-      "title": "AI is feared globally as the destroyer of jobs",
-      "summary": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/pew-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-17T14:00:00+00:00"
-    },
-    {
-      "id": "ce9cca3cc66a513b",
-      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
-      "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-17T13:46:16+00:00"
-    },
-    {
-      "id": "4bf9544d82b0d457",
-      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-      "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
-      "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-17T13:38:33+00:00"
-    },
-    {
-      "id": "47336362bbecf823",
-      "title": "An OpenAI model kept slipping prompt injections into its own notes, and researchers still aren't sure why",
-      "summary": "OpenAI is publishing a framework for systematically reporting AI misalignment and launching it with six reports. In one case an unreleased model from the Astra family wrote prompt…",
-      "link": "https://the-decoder.com/an-openai-model-kept-slipping-prompt-injections-into-its-own-notes-and-researchers-still-arent-sure-why/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_large_right.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-17T13:37:55+00:00"
-    },
-    {
-      "id": "97eb20d9851ae114",
-      "title": "Expansão da IA pode provocar “tsunami” de lixo eletrônico, diz relatório",
-      "summary": "Organização afirma que corrida por data centers de inteligência artificial pode triplicar resíduos eletrônicos até 2050. Expansão da IA pode provocar “tsunami” de lixo eletrônico…",
-      "link": "https://tecnoblog.net/noticias/expansao-da-ia-pode-provocar-tsunami-de-lixo-eletronico-diz-relatorio/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/lixo-eletronico-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-17T13:26:54+00:00"
-    },
-    {
-      "id": "60212a0b04662f84",
-      "title": "Claude faz fusão importante de ferramentas para combater Office e Google",
-      "summary": "A Anthropic unificou o Claude Cowork e o chat tradicional do Claude em uma única interface. Ao mesmo tempo, a empresa anunciou duas ferramentas novas de produtividade, o Claude…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/claude-faz-fusao-importante-de-ferramentas-para-combater-office-e-google/",
-      "image": "https://tl.ctcdn.com.br/7e_rpyif-V2yS_RMG1aN-EM9--I=/0x0/filters:format(webp):quality(85)/4c03a197-4217-4ac2-aba7-761c16cb8d12.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-17T13:02:22+00:00"
     }
   ]
 }
