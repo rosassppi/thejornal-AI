@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-09-19T03:12:29.560138+00:00",
+  "generated_at": "2026-09-19T10:20:24.940218+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "8202bbcca29bd9bc",
+      "title": "Google's Gemini also accidentally hacked three real companies during security testing",
+      "summary": "During a security test run by the firm Irregular, Google's AI model Gemini escaped into the open internet and hacked three real companies, guessing passwords and pulling login…",
+      "link": "https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_logo_kraken_cybersecurity.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-19T09:31:03+00:00"
+    },
+    {
+      "id": "0fa460efa3dc795f",
+      "title": "U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report",
+      "summary": "In the spring of 2026, the U.S. military came within minutes of boarding a Chinese ship because an AI chatbot falsely flagged its cargo as nuclear weapons components. Armed…",
+      "link": "https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/china_usa_flag_AI.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-19T08:10:55+00:00"
+    },
+    {
+      "id": "2ff0f002c21ca15b",
+      "title": "Linkup Research Releases SPARSEUP: A 149M-Parameter Open-Source Sparse Embedding Model",
+      "summary": "Linkup Research has released SPARSEUP, an open-source sparse embedding model built on a 149M-parameter ModernBERT backbone. It scores 56.4 nDCG@10 on BEIR-13, which Linkup calls…",
+      "link": "https://www.marktechpost.com/2026/09/19/linkup-research-releases-sparseup/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-19T07:48:38+00:00"
+    },
+    {
+      "id": "d99784b964f49739",
+      "title": "Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mail, Messages, Calendar and Notes",
+      "summary": "Meta has released Muse for Mac, the first version of Muse that can complete things on a user’s computer. The agent works with local files and native apps, where your data already…",
+      "link": "https://www.marktechpost.com/2026/09/19/meta-launches-muse-for-mac/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-19T07:22:16+00:00"
+    },
+    {
+      "id": "0e7409a6a44284a0",
+      "title": "GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)",
+      "summary": "GGUF, GPTQ, AWQ, EXL2, and EXL3 solve the same problem in different ways. This guide separates file containers from quantization methods. It explains bits per weight, calibration…",
+      "link": "https://www.marktechpost.com/2026/09/18/gguf-vs-gptq-vs-awq-vs-exl2-llm-model-formats-explained-2026/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-19T04:04:06+00:00"
+    },
+    {
+      "id": "4ffea08f2eb01b1b",
+      "title": "SpaceXAI Releases Grok Voice Transcribe 2.0: A Speech-to-Text API Claiming 2x Accuracy Over 1.0 at $0.10 per Hour",
+      "summary": "SpaceXAI has released Grok Voice Transcribe 2.0, its newest speech-to-text model for batch and streaming audio. The company says it is twice as accurate as version 1.0 at the same…",
+      "link": "https://www.marktechpost.com/2026/09/18/spacexai-releases-grok-voice-transcribe-2-0/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-19T03:42:24+00:00"
+    },
     {
       "id": "3d3e24e6f1efc7dd",
       "title": "Sam Altman vai falar sobre segurança da inteligência artificial em reunião do Conselho de Segurança da ONU",
@@ -531,6 +597,17 @@
       "published_at": "2026-09-18T12:23:29+00:00"
     },
     {
+      "id": "a00923bf4ddda715",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "link": "https://openai.com/index/australian-youth-safety-blueprint",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-18T12:00:00+00:00"
+    },
+    {
       "id": "2f3ad60c2c0a3950",
       "title": "42 leading mathematicians warn that AI existential risk is real and urgent",
       "summary": "42 Fellows of the Royal Society, including Fields Medal winners Martin Hairer and Peter Scholze, warn of existential AI risks in an open letter. Leading models have solved open…",
@@ -914,83 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-17T18:58:05+00:00"
-    },
-    {
-      "id": "28e53634f0e230c9",
-      "title": "Suunto Run combina funções esportivas e uso urbano em relógio leve",
-      "summary": "O relógio inteligente Suunto Run combina recursos para monitoramento de atividades físicas e uso na rotina urbana. Projetado com caixa de 46 milímetros e espessura de 11,5…",
-      "link": "https://canaltech.com.br/smartwatch/suunto-run-combina-funcoes-esportivas-e-uso-urbano-em-relogio-leve/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-17T18:41:40+00:00"
-    },
-    {
-      "id": "6ffd7ed7fffcdd9e",
-      "title": "Hora de imprimir com economia: as melhores impressoras multifuncionais em oferta na Amazon",
-      "summary": "Se você está pensando em renovar a impressora de casa ou do escritório, este é o momento certo. Reunimos três ótimas opções de impressoras multifuncionais em promoção na Amazon —…",
-      "link": "https://olhardigital.com.br/2026/09/17/reviews/hora-de-imprimir-com-economia-as-melhores-impressoras-multifuncionais-em-oferta-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-17T18:40:00+00:00"
-    },
-    {
-      "id": "3925d4d7e18c98c3",
-      "title": "Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows",
-      "summary": "Anthropic has rebuilt Projects in Claude Code. A coordinator now splits tasks across parallel cloud threads that independently open pull requests and run tests. All threads share…",
-      "link": "https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/claude_code_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-17T18:35:01+00:00"
-    },
-    {
-      "id": "1ff6d7f6dcfb6f21",
-      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
-      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-17T18:33:13+00:00"
-    },
-    {
-      "id": "6be1855923aac50b",
-      "title": "Even the king of England has his hesitations about AI",
-      "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
-      "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-17T17:26:25+00:00"
-    },
-    {
-      "id": "c78d0c6b782c70ca",
-      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-      "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
-      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-17T17:15:59+00:00"
-    },
-    {
-      "id": "67388d6277cd414e",
-      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-      "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved…",
-      "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-17T17:15:00+00:00"
     }
   ]
 }
