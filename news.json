@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-09-20T15:28:30.224503+00:00",
+  "generated_at": "2026-09-20T20:20:55.652316+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "5d51f937d1bb88da",
+      "title": "Estados Unidos e China discutem IA, terras raras e comércio antes de encontro entre Trump e Xi Jinping",
+      "summary": "Conversas ocorrem na sede do JPMorgan Chase e também contam com a participação do representante comercial dos EUA, Jamieson Greer O post Estados Unidos e China discutem IA, terras…",
+      "link": "https://olhardigital.com.br/2026/09/20/pro/estados-unidos-e-china-discutem-ia-terras-raras-e-comercio-antes-de-encontro-entre-trump-e-xi-jinping/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/china_eua_espaco-1024x768.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-20T19:38:46+00:00"
+    },
+    {
+      "id": "78a528244d9bd873",
+      "title": "Is the AI industry really ready to slow down?",
+      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-20T18:56:04+00:00"
+    },
+    {
+      "id": "a24da9b4fbe345bc",
+      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+      "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-20T18:50:18+00:00"
+    },
+    {
+      "id": "b78ef0e0a6ad840c",
+      "title": "Hora de imprimir com inteligência: veja as melhores impressoras em promoção na Amazon",
+      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é o momento certo. Reunimos três opções de impressoras multifuncionais em oferta na Amazon, com modelos…",
+      "link": "https://olhardigital.com.br/2026/09/20/reviews/hora-de-imprimir-com-inteligencia-veja-as-melhores-impressoras-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-20T18:40:00+00:00"
+    },
+    {
+      "id": "4e2b37973921f6f4",
+      "title": "Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters",
+      "summary": "Alibaba's Qwen team has released Qwen-Image-2.1, an open-weight model that generates and edits images on powerful consumer GPUs, with support for transparency and up to ten…",
+      "link": "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/qwen_logo-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-20T16:10:52+00:00"
+    },
+    {
+      "id": "cc88ee8aeea04030",
+      "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for…",
+      "link": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-20T16:02:00+00:00"
+    },
+    {
+      "id": "c1ffc7ee01d52dc2",
+      "title": "Tencent's Gander aims to keep talking while it works in the background",
+      "summary": "Tencent's Gander processes speech, images, and text while handling tasks in the background. A \"cerebellum\" keeps the conversation going, while a swappable \"brain\" searches files…",
+      "link": "https://the-decoder.com/tencents-gander-aims-to-keep-talking-while-it-works-in-the-background/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/tencent.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-20T15:41:30+00:00"
+    },
+    {
+      "id": "fab6808c5ea27235",
+      "title": "Trump now says he wants to form an ‘AI Force’",
+      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334825/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-20T15:39:22+00:00"
+    },
     {
       "id": "b7302fd94cfdc01e",
       "title": "CEO da Nvidia ganha espaço com Trump enquanto gigantes da IA pedem mais regras para a tecnologia",
@@ -903,94 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-18T14:32:49+00:00"
-    },
-    {
-      "id": "eed67d86f88e63f9",
-      "title": "Anthropic wants you to know Claude leads a quarter of its research, but \"lead\" doesn't mean what you think",
-      "summary": "For the first time, Anthropic is releasing metrics on how it builds its own AI. Claude already \"leads\" 26 percent of the work on future models, up from under one percent in…",
-      "link": "https://the-decoder.com/anthropic-wants-you-to-know-claude-leads-a-quarter-of-its-research-but-lead-doesnt-mean-what-you-think/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/anthropic_claude_clone.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-18T14:06:50+00:00"
-    },
-    {
-      "id": "deaa594637f7b306",
-      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before…",
-      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-18T14:00:14+00:00"
-    },
-    {
-      "id": "d92122e53ec9d4f7",
-      "title": "New experts join Google’s AI & Economy team",
-      "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-18T14:00:00+00:00"
-    },
-    {
-      "id": "93f17fa46ff0fbef",
-      "title": "OpenAI takes aim at the legal market with Astra for Law",
-      "summary": "OpenAI has introduced Astra for Law, a version of its GPT-6 Astra model built for legal work. The article OpenAI takes aim at the legal market with Astra for Law appeared first on…",
-      "link": "https://the-decoder.com/openai-takes-aim-at-the-legal-market-with-astra-for-law/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_gpt6_astra.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-18T13:42:43+00:00"
-    },
-    {
-      "id": "0d07d819dbcfe52a",
-      "title": "Researchers used Claude to hack OpenAI",
-      "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
-      "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ailogos-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-18T13:30:12+00:00"
-    },
-    {
-      "id": "44ec3a3d6fdc7de7",
-      "title": "Co-creating the future of fashion with Google",
-      "summary": "Jane Wade and Sergio Hudson",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-18T13:00:00+00:00"
-    },
-    {
-      "id": "e4798b2bac6e1830",
-      "title": "“Mi Band da Samsung” vazou: Galaxy Fit 4 ganha primeiros detalhes",
-      "summary": "A Samsung está perto de renovar sua linha de pulseiras inteligentes. A nova integrante da linha de \"Mi Bands\" da fabricante sul-coreana deve ser a Galaxy Fit 4 , acessório que…",
-      "link": "https://canaltech.com.br/smartwatch/mi-band-da-samsung-vazou-galaxy-fit-4-ganha-primeiros-detalhes/",
-      "image": "https://tl.ctcdn.com.br/XPAl22o21mzoMVI2MHfKDcmp93I=/0x0/filters:format(webp):quality(85)/82e4c376-f7c4-4356-b2b9-4ced394b4d1a.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-18T12:23:29+00:00"
-    },
-    {
-      "id": "a00923bf4ddda715",
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "link": "https://openai.com/index/australian-youth-safety-blueprint",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-18T12:00:00+00:00"
     }
   ]
 }
