@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-09-20T03:29:23.607417+00:00",
+  "generated_at": "2026-09-20T10:39:39.384764+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "fe6599df5bb52132",
+      "title": "Daily AI usage in the U.S. has more than doubled in just six months",
+      "summary": "Surveys by Epoch AI and Ipsos suggest AI is becoming part of everyday life for more Americans. The share of US adults using AI almost daily more than doubled between March and…",
+      "link": "https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/chatgpt_office-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-20T10:03:29+00:00"
+    },
+    {
+      "id": "8d7f081486421e94",
+      "title": "Quem decide o que a sua avó compartilha?",
+      "summary": "A inteligência artificial rebaixou o custo de fabricar desinformação a ponto de tornar artesanal o antigo boato de esquina O post Quem decide o que a sua avó compartilha? apareceu…",
+      "link": "https://olhardigital.com.br/2026/09/20/colunistas/quem-decide-o-que-a-sua-avo-compartilha/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-20T10:00:00+00:00"
+    },
+    {
+      "id": "da3bcd6c6782424c",
+      "title": "Simulated students that make realistic mistakes help AI tutors learn faster",
+      "summary": "Microsoft and the University of Illinois built StudentSim to replicate individual students from limited data and give AI tutors fast, low-cost feedback. In tests covering 60…",
+      "link": "https://the-decoder.com/simulated-students-that-make-realistic-mistakes-help-ai-tutors-learn-faster/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/ai-tutors-microsoft-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-20T09:50:32+00:00"
+    },
+    {
+      "id": "8a2567aab5c8227e",
+      "title": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth",
+      "summary": "Trump announces an \"AI Force\" modeled after the Space Force and plans to appoint an \"AI czar\" with a \"high IQ.\" He claims AI could reach 25 percent of US economic output, rejects…",
+      "link": "https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth/",
+      "image": "https://the-decoder.com/wp-content/uploads/2024/04/us_flag_neural_network.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-20T08:52:06+00:00"
+    },
+    {
+      "id": "ee3d851e8aa087d7",
+      "title": "Following OpenAI, Anthropic is also reportedly postponing its IPO",
+      "summary": "Anthropic is reportedly delaying its IPO from October to November 2026 to present strong Q3 results. Investors expect a roughly $2 trillion valuation, but rising infrastructure…",
+      "link": "https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo_money.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-20T08:35:25+00:00"
+    },
+    {
+      "id": "0688419211453d7e",
+      "title": "Alibaba Qwen Team Releases Qwen3.8-LiveTranslate: A Real-Time Interpretation Model That Cuts Average Lag to 2.3 Seconds Across 60 Languages",
+      "summary": "Qwen has released Qwen3.8-LiveTranslate, a real-time simultaneous interpretation model built on a new Interleave architecture. It cuts average lagging (LAAL) from 2.8 seconds to…",
+      "link": "https://www.marktechpost.com/2026/09/19/alibaba-qwen-team-releases-qwen3-8-livetranslate/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-20T06:46:08+00:00"
+    },
     {
       "id": "be2302e0667d3eb5",
       "title": "OpenAI prevê “queimar” US$ 280 bilhões até 2030 para financiar expansão da infraestrutura de IA",
@@ -925,72 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-09-18T09:44:55+00:00"
-    },
-    {
-      "id": "6383024b1d85fd7f",
-      "title": "US and China experts push for shared rules banning AI control over nuclear weapons",
-      "summary": "Experts from the US and China want to prevent AI systems from making autonomous decisions about deploying nuclear weapons. The article US and China experts push for shared rules…",
-      "link": "https://the-decoder.com/us-and-china-experts-push-for-shared-rules-banning-ai-control-over-nuclear-weapons/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/ai_nuclear_safeguards.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-18T09:37:03+00:00"
-    },
-    {
-      "id": "8e98eef0ece3688d",
-      "title": "Resumo do OD: o fracasso que virou Nobel; IApocalipse; carros hackeados e mais!",
-      "summary": "E mais: um rumor incomum envolvendo a Anthropic começou a circular no Vale do Silício O post Resumo do OD: o fracasso que virou Nobel; IApocalipse; carros hackeados e mais!…",
-      "link": "https://olhardigital.com.br/2026/09/18/pro/resumo-do-od-o-fracasso-que-virou-nobel-iapocalipse-carros-hackeados-e-mais/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2023/10/Destaque-Nobel-Medicina-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-18T09:19:30+00:00"
-    },
-    {
-      "id": "b1f8c93854531744",
-      "title": "Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use",
-      "summary": "Alibaba's Qwen3.8-Omni-Flash understands audio and video, plans tasks, calls tools, and reports about 45.7% fewer tokens on OmniVideoBench. The post Alibaba Qwen Releases…",
-      "link": "https://www.marktechpost.com/2026/09/18/alibaba-qwen-releases-qwen3-8-omni-flash/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f680.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-18T08:40:37+00:00"
-    },
-    {
-      "id": "bb264b15f9045198",
-      "title": "Salesforce Agentforce: Bridging the Enterprise AI Gap from ‘Vibe Coding’ to Battle-Tested Orchestration",
-      "summary": "Building an AI prototype is easy, but operating autonomous agents at scale requires production-grade tooling. Salesforce Agentforce bridges the gap from \"vibe coding\" to…",
-      "link": "https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-tested-orchestration/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/09/image-1-150x150.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-18T07:34:06+00:00"
-    },
-    {
-      "id": "cc86dcdf61dc5b25",
-      "title": "Ex-pesquisadores da Google DeepMind criam startup de inteligência artificial avaliada em R$ 19,1 bilhões",
-      "summary": "Empresa, chamada Emulate, está em negociações avançadas com potenciais investidores O post Ex-pesquisadores da Google DeepMind criam startup de inteligência artificial avaliada em…",
-      "link": "https://olhardigital.com.br/2026/09/17/pro/ex-pesquisadores-da-google-deepmind-criam-startup-de-inteligencia-artificial-avaliada-em-r-19-1-bilhoes/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/11/google-deepmind-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-18T01:52:51+00:00"
-    },
-    {
-      "id": "3bef80924263e282",
-      "title": "Pesquisadores usam Claude para invadir OpenAI e acessar sistema de código interno da empresa",
-      "summary": "Ataque permitiu que a equipe acessasse a conta de funcionário da empresa no ChatGPT e, a partir dela, lesse arquivos e sugerisse alterações em repositório privado de software O…",
-      "link": "https://olhardigital.com.br/2026/09/17/inteligencia-artificial/pesquisadores-usam-claude-para-invadir-openai-e-acessar-sistema-de-codigo-interno-da-empresa/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/openai-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-18T01:33:03+00:00"
     }
   ]
 }
