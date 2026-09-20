@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-20T10:39:39.384764+00:00",
+  "generated_at": "2026-09-20T15:28:30.224503+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "b7302fd94cfdc01e",
+      "title": "CEO da Nvidia ganha espaço com Trump enquanto gigantes da IA pedem mais regras para a tecnologia",
+      "summary": "Especialistas afirmam que Jensen Huang se aproximou de Trump durante seu segundo mandato e passou a exercer influência considerada desproporcional na Casa Branca O post CEO da…",
+      "link": "https://olhardigital.com.br/2026/09/20/pro/ceo-da-nvidia-ganha-espaco-com-trump-enquanto-gigantes-da-ia-pedem-mais-regras-para-a-tecnologia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/iStock-1141488976-1024x672.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-20T13:52:41+00:00"
+    },
+    {
+      "id": "9ea97c2857a0153c",
+      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is…",
+      "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-20T12:00:00+00:00"
+    },
+    {
+      "id": "ab1a4735205d64d7",
+      "title": "Runway wants to turn AI video generation into a live stream you control in real time",
+      "summary": "Runway wants to stream AI video as users prompt it, rather than make them wait for finished clips. The approach builds on GWM-1, its world model that generates video frame by…",
+      "link": "https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/runway-logo-wall-gpt-image-2-5.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-20T11:56:59+00:00"
+    },
+    {
+      "id": "c1dfb1150208a7b0",
+      "title": "Veja como desativar o Google Gemini no seu Gmail, Docs e Drive de uma só vez",
+      "summary": "Nem todo mundo se adapta aos recursos de inteligência artificial (IA) adicionados aos aplicativos do Google Workspace. Para quem prefere uma experiência mais tradicional no Gmail…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-desativar-google-gemini-do-gmail-docs-drive/",
+      "image": "https://tl.ctcdn.com.br/JccRfSuozv2JjJrdpgUwephPeCU=/0x0/filters:format(webp):quality(85)/057f4ca3-a315-4d81-96ee-a9842e2c23db.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-20T11:00:00+00:00"
+    },
     {
       "id": "fe6599df5bb52132",
       "title": "Daily AI usage in the U.S. has more than doubled in just six months",
@@ -947,50 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-09-18T12:00:00+00:00"
-    },
-    {
-      "id": "2f3ad60c2c0a3950",
-      "title": "42 leading mathematicians warn that AI existential risk is real and urgent",
-      "summary": "42 Fellows of the Royal Society, including Fields Medal winners Martin Hairer and Peter Scholze, warn of existential AI risks in an open letter. Leading models have solved open…",
-      "link": "https://the-decoder.com/42-leading-mathematicians-warn-that-ai-existential-risk-is-real-and-urgent/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/robot_scientists_threat.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-18T11:41:16+00:00"
-    },
-    {
-      "id": "b491d63c1a336d84",
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees…",
-      "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-18T11:29:22+00:00"
-    },
-    {
-      "id": "084a8ea6d1f7cd39",
-      "title": "Flash floods can strike without warning — this new technology could change that",
-      "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call…",
-      "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-18T11:00:00+00:00"
-    },
-    {
-      "id": "13a78673e85714ae",
-      "title": "Best Open-Source Agent Harnesses for Local LLMs in 2026",
-      "summary": "Which open-source harness works with Ollama, LM Studio, or llama.cpp? 11 verified picks with licenses and setup rules. The post Best Open-Source Agent Harnesses for Local LLMs in…",
-      "link": "https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-18T09:44:55+00:00"
     }
   ]
 }
