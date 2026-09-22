@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-22T03:23:16.700969+00:00",
+  "generated_at": "2026-09-22T10:59:32.976326+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "57b5925ff4c853a2",
+      "title": "Medo da IA no Brasil supera média global, diz pesquisa",
+      "summary": "Pesquisa aponta 52% da população receosa com o futuro da tecnologia, mas um quarto da população nunca nem ouviu falar. Medo da IA no Brasil supera média global, diz pesquisa",
+      "link": "https://tecnoblog.net/noticias/medo-da-ia-no-brasil-supera-media-global-diz-pesquisa/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/capa-freelas-perde-emprego-pra-ia-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-22T10:18:44+00:00"
+    },
+    {
+      "id": "b292f7bea94fa6d9",
+      "title": "Austrália bane óculos inteligentes de locais públicos por medo de gravações",
+      "summary": "A Austrália está aumentando as restrições contra óculos inteligentes em locais públicos por medo de gravações sem consentimento. A cidade de Sydney passou a proibir os…",
+      "link": "https://canaltech.com.br/produtos/australia-bane-oculos-inteligentes-de-locais-publicos-por-medo-de-gravacoes/",
+      "image": "https://tl.ctcdn.com.br/oBH1th-V-Li4LXVUwTyhIsGEgmw=/0x0/filters:format(webp):quality(85)/9121b1cc-a3cb-4a71-8afa-a3e17c24027e.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-22T10:05:39+00:00"
+    },
+    {
+      "id": "513280a1dfdf684a",
+      "title": "Anthropic is setting up a biology lab where Claude guides robots through drug experiments",
+      "summary": "Anthropic is building its own biology lab to push AI-driven drug development beyond computer simulations. The article Anthropic is setting up a biology lab where Claude guides…",
+      "link": "https://the-decoder.com/anthropic-is-setting-up-a-biology-lab-where-claude-guides-robots-through-drug-experiments/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/anthropic_bio_lab.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-22T09:27:16+00:00"
+    },
     {
       "id": "8f2f5d4e887f3f76",
       "title": "Trump, Xi Jinping, ONU e Vale do Silício: a semana que pode definir o futuro da IA",
@@ -12,6 +45,28 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-22T00:25:50+00:00"
+    },
+    {
+      "id": "689d78c6e007ab8e",
+      "title": "Transformers now runs llama.cpp quants",
+      "summary": "",
+      "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-22T00:00:00+00:00"
+    },
+    {
+      "id": "6b3083011aeb49b1",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "summary": "",
+      "link": "https://huggingface.co/blog/omlx",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-22T00:00:00+00:00"
     },
     {
       "id": "48beea3950d566fb",
@@ -936,61 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-19T17:25:49+00:00"
-    },
-    {
-      "id": "fd29565670e26ee4",
-      "title": "Gemini went rogue, hacked three companies, and Google hid it",
-      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-19T15:25:03+00:00"
-    },
-    {
-      "id": "22370d3e16e446f8",
-      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest…",
-      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-19T15:00:00+00:00"
-    },
-    {
-      "id": "15f70ac64294c17e",
-      "title": "AI safety conversations have gotten unbelievable",
-      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-19T15:00:00+00:00"
-    },
-    {
-      "id": "ebd9b0bc1f4fabdc",
-      "title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks",
-      "summary": "Qwen3.8-Omni-Flash is Qwen's first multimodal model designed for AI agents. It processes audio and video together and independently uses tools to edit vlogs, translate clips, or…",
-      "link": "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/qwen_logo-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-19T14:30:57+00:00"
-    },
-    {
-      "id": "bb8b06c8a13d267f",
-      "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
-      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of…",
-      "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-19_Kanter.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-19T14:00:00+00:00"
     }
   ]
 }
