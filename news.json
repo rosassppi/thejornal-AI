@@ -1,7 +1,271 @@
 {
-  "generated_at": "2026-09-23T10:47:58.461587+00:00",
+  "generated_at": "2026-09-23T16:08:45.611575+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "f7c19fbaa5aba414",
+      "title": "Google libera cadernos de estudo com IA para todos os alunos",
+      "summary": "O Google ampliou o acesso aos cadernos de estudo do Gemini , ferramenta que transforma materiais escolares em conteúdos personalizados para ajudar nos estudos. A novidade chegou a…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/google-libera-cadernos-de-estudo-com-ia-para-todos-os-alunos/",
+      "image": "https://tl.ctcdn.com.br/U75SLWSekmUd1GiGI4SGG63MNRc=/0x0/filters:format(webp):quality(85)/91d1635b-15e4-4706-8c68-86032e250499.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-23T16:05:01+00:00"
+    },
+    {
+      "id": "52e46e8371e1f699",
+      "title": "Two years of OpenAI Academy",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "link": "https://openai.com/index/two-years-of-openai-academy",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-23T16:00:00+00:00"
+    },
+    {
+      "id": "e0a04425fac4d69c",
+      "title": "YouTube’s conversational video editing tool lets creators make edits in natural language",
+      "summary": "Creators will be able to use AI in a conversational chat interface to help them edit videos.",
+      "link": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-23T15:46:57+00:00"
+    },
+    {
+      "id": "113d126fd2d5809f",
+      "title": "YouTube Music gets more conversational with new AI features",
+      "summary": "YouTube is adding new AI-powered features to YouTube Music that aim to make it easier for listeners to discover music, explore artists, and find podcasts they may otherwise miss…",
+      "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-23T15:19:30+00:00"
+    },
+    {
+      "id": "25c53dbddd71c505",
+      "title": "Anthropic engineer explains why Claude's writing got worse although the model got smarter",
+      "summary": "Anthropic employee Jackson Kernion explains why newer Claude models write so oddly. Optimizing for math, code, and technical explanations aimed at other AI models has created a…",
+      "link": "https://the-decoder.com/anthropic-engineer-explains-why-claudes-writing-got-worse-although-the-model-got-smarter/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude_design.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-23T15:14:34+00:00"
+    },
+    {
+      "id": "ac401f05eb675c38",
+      "title": "Nvidia-backed Nscale keeps its biggest customer, Bytedance, out of its IPO filing",
+      "summary": "Nscale, the Nvidia-backed AI cloud provider, leaves its most important customer, Bytedance, out of the main prospectus for its planned US IPO. The article Nvidia-backed Nscale…",
+      "link": "https://the-decoder.com/nvidia-backed-nscale-keeps-its-biggest-customer-bytedance-out-of-its-ipo-filing/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/03/Datacenter-Remote.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-23T14:44:22+00:00"
+    },
+    {
+      "id": "5c8357f4c741cfe7",
+      "title": "Meta's AI agent Muse draws 500,000 users in a week along with claims it copied OpenClaw",
+      "summary": "Meta's AI agent Muse picked up more than 500,000 users in its first week and hit number one in Apple's App Store. But Meta admits the product is \"heavily inspired\" by the…",
+      "link": "https://the-decoder.com/metas-ai-agent-muse-draws-500000-users-in-a-week-along-with-claims-it-copied-openclaw/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/muse-01-hero.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-23T14:42:38+00:00"
+    },
+    {
+      "id": "a529286a88da04f3",
+      "title": "Conheça o Muse: assistente de IA da Meta que lidera downloads e gera impasse com a Amazon",
+      "summary": "A chegada do Muse mostra como agentes de IA podem executar tarefas, enquanto Meta enfrenta limites de outras plataformas e novos rivais. O post Conheça o Muse: assistente de IA da…",
+      "link": "https://olhardigital.com.br/2026/09/23/inteligencia-artificial/conheca-o-muse-assistente-de-ia-da-meta-que-lidera-downloads-e-gera-impasse-com-a-amazon/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/10/Destaque-Compras-online-no-celular-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-23T14:39:00+00:00"
+    },
+    {
+      "id": "34a3cd0d7fc200b3",
+      "title": "Governo quer investigar IAs de \"companhia\" para crianças por risco de dependência",
+      "summary": "O Ministério da Justiça e Segurança Pública pediu que a Agência Nacional de Proteção de Dados (ANPD) investigue 13 aplicativos de inteligência artificial que simulam amizade…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/governo-quer-investigar-ias-de-companhia-para-criancas-por-risco-de-dependencia/",
+      "image": "https://tl.ctcdn.com.br/hbxh3WbCTRkiLbGic6YofAj2OM0=/0x0/filters:format(webp):quality(85)/7d144d4f-feff-4b1a-b7a5-6c52ed6460d5.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-23T14:32:00+00:00"
+    },
+    {
+      "id": "4266e9d9fbc7751c",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-23T14:30:00+00:00"
+    },
+    {
+      "id": "cbdad602b16830df",
+      "title": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
+      "summary": "Many of these tools hinge on using generative AI to try out a variety of different tactics on a video to find what works best.",
+      "link": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-23T14:30:00+00:00"
+    },
+    {
+      "id": "0f47fbb0da8ec950",
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25…",
+      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-23T14:30:00+00:00"
+    },
+    {
+      "id": "3b2c227ed3dc231f",
+      "title": "YouTube will let you build your own algorithm with AI",
+      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-23T14:30:00+00:00"
+    },
+    {
+      "id": "da45c264092a8f14",
+      "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
+      "summary": "YouTube's AI feature can now help you compare products as you shop.",
+      "link": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-23T14:30:00+00:00"
+    },
+    {
+      "id": "7f3dc7d8b5f4df0a",
+      "title": "YouTube is building AI creator tools that do almost everything for them",
+      "summary": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration…",
+      "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Creation-YT-Studio-Bundle-Optimize-your-Catalog-UX-Flow-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-23T14:30:00+00:00"
+    },
+    {
+      "id": "db42c76cb45615cf",
+      "title": "Bancos alertam para perigos de deixar IA fazer compras por você; veja os riscos",
+      "summary": "Usar inteligência artificial para escolher produtos e concluir compras online pode aumentar o risco de golpes, fraudes e vazamento de dados, segundo um grupo de grandes bancos que…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/bancos-alertam-para-perigos-de-deixar-ia-fazer-compras-por-voce-veja-os-riscos/",
+      "image": "https://tl.ctcdn.com.br/Z2CdHccMpcGAo4CN5PqfV6zAUcw=/0x0/filters:format(webp):quality(85)/947144af-7dd4-4677-a35e-f094ef4269c7.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-23T14:02:00+00:00"
+    },
+    {
+      "id": "77d95e655cf1b515",
+      "title": "Inside Basecamp Research, the AI startup turning evolution into training data",
+      "summary": "Basecamp Research has raised $140 million from investors including Nvidia and Anthropic's Anthology Fund. The London company trains AI models on genetic material from rainforests…",
+      "link": "https://the-decoder.com/inside-basecamp-research-the-ai-startup-turning-evolution-into-training-data/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/Basecamp-Research-title.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-23T13:52:23+00:00"
+    },
+    {
+      "id": "2f433c2c58c758a0",
+      "title": "OpenAI expande GPT-6 com modelos Sol e Luna; vejas as diferenças",
+      "summary": "OpenAI revelou os modelos GPT-6 Sol e GPT-6 Luna, que trazem menor custo e foco em diferentes níveis de complexidade em relação ao GPT-6 Astra. OpenAI expande GPT-6 com modelos…",
+      "link": "https://tecnoblog.net/noticias/openai-expande-gpt-6-com-modelos-sol-e-luna-vejas-as-diferencas/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-3_capa-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-23T13:26:37+00:00"
+    },
+    {
+      "id": "bf57ce3f2e77f395",
+      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "summary": "",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-23T13:17:01+00:00"
+    },
+    {
+      "id": "e06840feaa384943",
+      "title": "Claude lança Opus 5.5 e derruba conta em 31%; veja dicas para economizar tokens",
+      "summary": "A Anthropic anunciou o Claude Opus 5.5 , nova versão do modelo que reduz os preços de tokens de entrada e saída em 20% e corta em 60% o custo de leitura de dados armazenados em…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/claude-lanca-opus-55-e-derruba-conta-em-31-veja-dicas-para-economizar-tokens/",
+      "image": "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-23T13:05:01+00:00"
+    },
+    {
+      "id": "9328fa400dd37e6b",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-23T13:00:00+00:00"
+    },
+    {
+      "id": "a3a1fbc4ad550043",
+      "title": "Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent",
+      "summary": "Alibaba's AI team Qwen has released Qwen-Audio-3.1, a lineup of five models for speech recognition (ASR), text-to-speech (TTS), and real-time interaction. The ASR model improves…",
+      "link": "https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/qwen_logo-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-23T12:31:20+00:00"
+    },
+    {
+      "id": "117b225a27304597",
+      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+      "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+      "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-23T12:00:00+00:00"
+    },
+    {
+      "id": "716a82fce17735ae",
+      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+      "summary": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, cofounder and technology…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK326_PATREON_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-23T11:02:39+00:00"
+    },
     {
       "id": "755c615ba39938cf",
       "title": "Meta colocou seres humanos para concluírem tarefas de agentes de IA",
@@ -47,6 +311,39 @@
       "published_at": "2026-09-23T10:03:29+00:00"
     },
     {
+      "id": "2c08731e3cb34493",
+      "title": "Nokia Open-Sources AnyJev: A Training-Free Layer That Turns Any Open LLM Into a Calibrated Decision Model",
+      "summary": "Nokia’s applied research team has open-sourced AnyJev, a Python library that turns an open LLM into a decision model. It needs no training. It targets a common production job…",
+      "link": "https://www.marktechpost.com/2026/09/23/nokia-open-sources-anyjev-a-training-free-layer-that-turns-any-open-llm-into-a-calibrated-decision-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-23T07:09:38+00:00"
+    },
+    {
+      "id": "dcc32713a8001b14",
+      "title": "Kyutai Releases Voice of Reason: A Speech-Native Model that Solves Spoken Math with Reinforcement Learning",
+      "summary": "Kyutai has released Voice of Reason, 2 open-weight speech-to-speech models built on GLM-4-Voice-9B. Supervised fine-tuning and reinforcement learning lift spoken GSM8K accuracy…",
+      "link": "https://www.marktechpost.com/2026/09/22/kyutai-releases-voice-of-reason-a-speech-native-model-that-solves-spoken-math-with-reinforcement-learning/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-23T06:33:18+00:00"
+    },
+    {
+      "id": "0666cdef6e5e03b3",
+      "title": "OpenAI Releases GPT-6 Sol and Luna: 50% Cheaper API Pricing and Benchmarks",
+      "summary": "OpenAI has released GPT-6 Sol and GPT-6 Luna, 2 lower-cost models trained with methods similar to GPT-6 Astra. Sol costs $2/$10 and Luna $0.10/$0.50 per 1M tokens. Both are…",
+      "link": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-23T05:18:36+00:00"
+    },
+    {
       "id": "3f251bee96ff67d7",
       "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
       "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for…",
@@ -56,6 +353,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-23T04:59:08+00:00"
+    },
+    {
+      "id": "83365ebd10585481",
+      "title": "SpeakON Ships a MagSafe AI Voice Button With Its Own Microphone",
+      "summary": "Voice input on phones has been solved for years. What has not been solved is the output. Speak into most dictation tools and you get back exactly what you said, fillers and false…",
+      "link": "https://www.marktechpost.com/2026/09/22/speakon-ships-a-magsafe-ai-voice-button/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/09/image-2-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-23T04:50:40+00:00"
     },
     {
       "id": "0b7b9373de41de21",
@@ -122,6 +430,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-23T00:17:17+00:00"
+    },
+    {
+      "id": "5ab590850491008e",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-23T00:00:00+00:00"
     },
     {
       "id": "a92af0d92b922054",
@@ -355,17 +674,6 @@
       "published_at": "2026-09-22T18:07:00+00:00"
     },
     {
-      "id": "25f12aed5a135051",
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
-      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-22T18:00:00+00:00"
-    },
-    {
       "id": "73461b3e97af0d93",
       "title": "Introducing GPT-6 Sol and Luna",
       "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
@@ -374,6 +682,17 @@
       "source": "OpenAI",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-09-22T18:00:00+00:00"
+    },
+    {
+      "id": "25f12aed5a135051",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-09-22T18:00:00+00:00"
     },
     {
@@ -672,325 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-22T11:53:58+00:00"
-    },
-    {
-      "id": "f47484d354ef443d",
-      "title": "Xiaomi's affordable flagship AI leads the open models, and Anthropic says Claude helped get it there",
-      "summary": "With MiMo-V2.6-Pro, Xiaomi moves to the top of the openly available AI models and drastically undercuts the competition on price. What makes that possible is massive reinforcement…",
-      "link": "https://the-decoder.com/xiaomis-affordable-flagship-ai-leads-the-open-models-and-anthropic-says-claude-helped-get-it-there/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/03/Xiaomi-MiMo-Explore-and-Love-e1774194951718.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-22T11:42:11+00:00"
-    },
-    {
-      "id": "536b0ab9df42d4b9",
-      "title": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
-      "summary": "OpenAI says a new internal model solved more than 100 open math problems after just a month of training. Facing criticism from mathematicians, the company is backing an…",
-      "link": "https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_math_solutions.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-22T11:17:59+00:00"
-    },
-    {
-      "id": "5abcd11803083fe3",
-      "title": "Don’t be fooled by this summer of AI hype",
-      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security…",
-      "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-22T11:04:51+00:00"
-    },
-    {
-      "id": "147e87ea0745ce9f",
-      "title": "GPT-6 Astra decifra código secreto da 1ª Guerra após 108 anos; entenda o feito",
-      "summary": "O modelo de inteligência artificial GPT-6 Astra conseguiu decifrar uma mensagem de rádio alemã da Primeira Guerra Mundial que permanecia sem solução há 108 anos. A transmissão…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/gpt-6-astra-decifra-codigo-secreto-da-1-guerra-apos-108-anos-entenda-o-feito/",
-      "image": "https://tl.ctcdn.com.br/cKRlM9MPkXQK9QbauJJAPhMJUU4=/0x0/filters:format(webp):quality(85)/8a6bd4f1-2d9c-47b6-a810-38252fc02f18.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-22T11:01:01+00:00"
-    },
-    {
-      "id": "57b5925ff4c853a2",
-      "title": "Medo da IA no Brasil supera média global, diz pesquisa",
-      "summary": "Pesquisa aponta 52% da população receosa com o futuro da tecnologia, mas um quarto da população nunca nem ouviu falar. Medo da IA no Brasil supera média global, diz pesquisa",
-      "link": "https://tecnoblog.net/noticias/medo-da-ia-no-brasil-supera-media-global-diz-pesquisa/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/capa-freelas-perde-emprego-pra-ia-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-22T10:18:44+00:00"
-    },
-    {
-      "id": "b292f7bea94fa6d9",
-      "title": "Austrália bane óculos inteligentes de locais públicos por medo de gravações",
-      "summary": "A Austrália está aumentando as restrições contra óculos inteligentes em locais públicos por medo de gravações sem consentimento. A cidade de Sydney passou a proibir os…",
-      "link": "https://canaltech.com.br/produtos/australia-bane-oculos-inteligentes-de-locais-publicos-por-medo-de-gravacoes/",
-      "image": "https://tl.ctcdn.com.br/oBH1th-V-Li4LXVUwTyhIsGEgmw=/0x0/filters:format(webp):quality(85)/9121b1cc-a3cb-4a71-8afa-a3e17c24027e.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-22T10:05:39+00:00"
-    },
-    {
-      "id": "513280a1dfdf684a",
-      "title": "Anthropic is setting up a biology lab where Claude guides robots through drug experiments",
-      "summary": "Anthropic is building its own biology lab to push AI-driven drug development beyond computer simulations. The article Anthropic is setting up a biology lab where Claude guides…",
-      "link": "https://the-decoder.com/anthropic-is-setting-up-a-biology-lab-where-claude-guides-robots-through-drug-experiments/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/anthropic_bio_lab.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-22T09:27:16+00:00"
-    },
-    {
-      "id": "468a3a62054e558e",
-      "title": "NVIDIA Introduces SoL-Pi: Auto-Research Loops That Cut Coding Agent Token Traffic by Up to 49%",
-      "summary": "NVIDIA researchers have released SoL-Pi, 4 harness mechanisms for the open-source Pi coding agent, discovered by an AI running auto-research loops across 535 environments. On…",
-      "link": "https://www.marktechpost.com/2026/09/21/nvidia-researchers-have-released-sol-pi/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-22T05:04:43+00:00"
-    },
-    {
-      "id": "fdd92013840061b8",
-      "title": "SpaceXAI Releases Grok 4.7: A Larger Base Model at the Same $2/$6 Price as Grok 4.6",
-      "summary": "SpaceXAI has released Grok 4.7, its new flagship model for coding, agentic tasks, and knowledge work. Grok 4.7 is built on a larger base model and a longer reinforcement learning…",
-      "link": "https://www.marktechpost.com/2026/09/21/spacexai-releases-grok-4-7/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-22T04:10:04+00:00"
-    },
-    {
-      "id": "8f2f5d4e887f3f76",
-      "title": "Trump, Xi Jinping, ONU e Vale do Silício: a semana que pode definir o futuro da IA",
-      "summary": "Assembleia Geral da ONU, encontro bilateral entre EUA e China e jantar entre Trump e os CEOs das principais empresas de tecnologia marcam a semana O post Trump, Xi Jinping, ONU e…",
-      "link": "https://olhardigital.com.br/2026/09/21/colunistas/trump-xi-jinping-onu-e-vale-do-silicio-a-semana-que-pode-definir-o-futuro-da-ia/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-22T00:25:50+00:00"
-    },
-    {
-      "id": "60efaf744a4d6c2c",
-      "title": "Priorities and principles for effective third party assessments",
-      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-      "link": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-22T00:00:00+00:00"
-    },
-    {
-      "id": "e9f63aa1f7aaa02f",
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "summary": "",
-      "link": "https://huggingface.co/blog/evaleval-aisi",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-22T00:00:00+00:00"
-    },
-    {
-      "id": "689d78c6e007ab8e",
-      "title": "Transformers now runs llama.cpp quants",
-      "summary": "",
-      "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-22T00:00:00+00:00"
-    },
-    {
-      "id": "6b3083011aeb49b1",
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "summary": "",
-      "link": "https://huggingface.co/blog/omlx",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-22T00:00:00+00:00"
-    },
-    {
-      "id": "48beea3950d566fb",
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-21T23:44:28+00:00"
-    },
-    {
-      "id": "d98cb5be0180e0d7",
-      "title": "Amazon proíbe nova IA da Meta de fazer compras em seu site; entenda o porquê",
-      "summary": "A Amazon bloqueou a Muse , nova inteligência artificial agêntica da Meta, de fazer compras em seu site em nome dos usuários. A varejista afirma que a ferramenta acessava a loja…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/amazon-proibe-nova-ia-da-meta-de-fazer-compras-em-seu-site-entenda-o-porque/",
-      "image": "https://tl.ctcdn.com.br/K9VWlGA5ryBtfXtXM1thY9YrCuo=/0x0/filters:format(webp):quality(85)/7884b8ae-19c8-4862-88da-607f66223aa7.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-21T23:01:00+00:00"
-    },
-    {
-      "id": "6af58b306bcd0e6e",
-      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-      "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
-      "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-21T22:24:38+00:00"
-    },
-    {
-      "id": "b9329c6ebb1ce2e4",
-      "title": "Quais celulares Galaxy receberão novos recursos de IA da One UI 9?",
-      "summary": "A Samsung iniciou a distribuição da versão estável da One UI 9 em 16 de setembro de 2026, com estreia global na série Galaxy S26. Embora a atualização alcance diversos…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/quais-celulares-galaxy-receberao-novos-recursos-de-ia-da-one-ui-9/",
-      "image": "https://tl.ctcdn.com.br/a6G4_p55QD3ZMqIcafG1jr12nLc=/0x0/filters:format(webp):quality(85)/ed1690f6-19a0-4585-900b-558a9c6aff8b.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-21T22:02:01+00:00"
-    },
-    {
-      "id": "a75216ef19d250ec",
-      "title": "AWS Strands Agents Team Releases Strands Harness: An Open-Source Agent Harness With 28% Lower Token Cost at Comparable Accuracy",
-      "summary": "Many developers find that an agent idea works inside Claude Code or Codex, then struggles once they rebuild it with their own loop. The Strands Agents team at AWS is targeting…",
-      "link": "https://www.marktechpost.com/2026/09/21/aws-strands-agents-team-releases-strands-harness/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-21T21:42:14+00:00"
-    },
-    {
-      "id": "88aa62d3ea6ca8f8",
-      "title": "Galaxy Buds 4 tem funções avançadas e está 38% mais barato no Mercado Livre",
-      "summary": "Galaxy Buds 4 suporta áudio Hi-Fi de 24 bits, assistentes de IA por comando de voz e ANC adaptativo. Fones de ouvido estão mais baratos com cupom que encerra em algumas horas…",
-      "link": "https://tecnoblog.net/achados/galaxy-buds-4-tem-funcoes-avancadas-e-esta-38-mais-barato-no-mercado-livre/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-21T21:24:55+00:00"
-    },
-    {
-      "id": "5fb2a618a0bb669f",
-      "title": "California tightens rules on AI data center energy and water use",
-      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2286055476.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-21T20:29:45+00:00"
-    },
-    {
-      "id": "dd940a26c6355d9d",
-      "title": "Apple prepara rival do Echo Show com Siri AI e reconhecimento de usuários",
-      "summary": "A Apple pode apresentar já em outubro seu primeiro display inteligente para casa, um produto pensado para disputar espaço com aparelhos como o Amazon Echo Show . Segundo Mark…",
-      "link": "https://canaltech.com.br/produtos/apple-prepara-rival-do-echo-show-com-siri-ai-e-reconhecimento-de-usuarios/",
-      "image": "https://tl.ctcdn.com.br/x6M7WZFIcagNmURpaRUrZ6L0-_w=/0x0/filters:format(webp):quality(85)/0c0c7555-7717-4e8e-9302-7714f4779b3b.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-21T20:23:25+00:00"
-    },
-    {
-      "id": "f4562ba92ac1079e",
-      "title": "OpenAI pede que EUA liderem criação de padrões globais para controlar riscos de IAs avançadas",
-      "summary": "Empresa defende regras técnicas internacionais para IA de fronteira, incluindo sistemas capazes de aprimoramento recursivo O post OpenAI pede que EUA liderem criação de padrões…",
-      "link": "https://olhardigital.com.br/2026/09/21/inteligencia-artificial/openai-pede-que-eua-liderem-criacao-de-padroes-globais-para-controlar-riscos-de-ias-avancadas/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/ia_seguranca-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-21T20:19:43+00:00"
-    },
-    {
-      "id": "dc56d987329ee3e6",
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-21T20:15:58+00:00"
-    },
-    {
-      "id": "72ec0e4d583ad9f0",
-      "title": "Nuvem ou dispositivo: onde a IA roda está se tornando a questão tech mais importante",
-      "summary": "Uma pergunta, aparentemente simples, passou a ter implicações estratégicas enormes para qualquer empresa que leva a inteligência artificial a sério: onde, exatamente, sua IA roda?…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/nuvem-ou-dispositivo-onde-a-ia-realmente-roda-esta-se-tornando-a-questao-mais-importante-da-tecnologia/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-21T19:44:22+00:00"
-    },
-    {
-      "id": "45630c163fbd9bd0",
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new…",
-      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-21T19:19:21+00:00"
-    },
-    {
-      "id": "f6d83ddb16d4fbb4",
-      "title": "Anel com IA grava até 8 horas de reuniões, mas levanta alerta de privacidade",
-      "summary": "Gravar uma reunião inteira com um anel pode facilitar a rotina de quem precisa transformar longas conversas em anotações. Essa é a proposta do Vocci Ring , acessório com…",
-      "link": "https://canaltech.com.br/produtos/anel-com-ia-grava-ate-8-horas-de-reunioes-mas-levanta-alerta-de-privacidade/",
-      "image": "https://tl.ctcdn.com.br/5_Z7iJwjAUBIwLH2mCnj2uc-NDM=/0x0/filters:format(webp):quality(85)/60a796d3-c1b3-4982-9116-b80441d1f2a5.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-21T19:14:45+00:00"
-    },
-    {
-      "id": "800a7d09e3e9304b",
-      "title": "Amazon bloqueia agente de IA da Meta que faz compras sozinho",
-      "summary": "Meta Muse foi impedido de acessar a loja após realizar compras e consultar dados sem se identificar. Amazon alega violação dos termos de uso. Amazon bloqueia agente de IA da Meta…",
-      "link": "https://tecnoblog.net/noticias/amazon-bloqueia-agente-de-ia-da-meta-que-faz-compras-sozinho/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/muse-stroller-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-21T18:50:39+00:00"
-    },
-    {
-      "id": "f23ec3b12b6ceec7",
-      "title": "AMD chega a US$ 1 trilhão em valor de mercado enquanto avança na disputa com a Nvidia pelo mercado de inteligência artificial",
-      "summary": "Valorização da AMD ganha força com recorde nas ações, avanço em GPUs e CPUs e expectativa de maior demanda por computação de IA O post AMD chega a US$ 1 trilhão em valor de…",
-      "link": "https://olhardigital.com.br/2026/09/21/pro/amd-chega-a-us-1-trilhao-em-valor-de-mercado-enquanto-avanca-na-disputa-com-a-nvidia-pelo-mercado-de-inteligencia-artificial/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/iStock-2200614897-1024x571.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-21T18:40:48+00:00"
     }
   ]
 }
