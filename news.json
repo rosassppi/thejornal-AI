@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-23T03:24:41.285869+00:00",
+  "generated_at": "2026-09-23T10:47:58.461587+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "755c615ba39938cf",
+      "title": "Meta colocou seres humanos para concluírem tarefas de agentes de IA",
+      "summary": "Empresa suspendeu testes no Muse após funcionários apontarem riscos à privacidade dos usuários. Meta colocou seres humanos para concluírem tarefas de agentes de IA",
+      "link": "https://tecnoblog.net/noticias/meta-colocou-seres-humanos-para-concluirem-tarefas-de-agentes-de-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/mascote-muse-340x191.webp",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-23T10:24:23+00:00"
+    },
+    {
+      "id": "380cac1351b94dbc",
+      "title": "Anthropic anuncia novo Claude Opus 5.5, com capacidade ainda maior",
+      "summary": "Modelo promete igualar desempenho do Mythos 5.1 para trabalhos de cibersegurança e biologia. Recursos de segurança também são reforçados. Anthropic anuncia novo Claude Opus 5.5…",
+      "link": "https://tecnoblog.net/noticias/anthropic-anuncia-novo-claude-opus-5-5-com-capacidade-ainda-maior/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-4-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-23T10:13:42+00:00"
+    },
+    {
+      "id": "9c216aff5f129b07",
+      "title": "OpenAI hires Patreon co-founder Sam Yam to lead a new Creator Product division",
+      "summary": "OpenAI has hired Patreon co-founder Sam Yam to lead a new \"Creator Product\" division. After more than 13 years at the creator platform, he's bringing two Patreon executives with…",
+      "link": "https://the-decoder.com/openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creator-product-division/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/math_geometry_openai_hodge.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-23T10:04:07+00:00"
+    },
+    {
+      "id": "bb762d9fad7d0d16",
+      "title": "Resumo do OD: enquanto ONU discute IAs, líderes do setor lançam novas tecnologias",
+      "summary": "IA é protagonista na ONU, mas Lula e Trump têm posições totalmente opostas O post Resumo do OD: enquanto ONU discute IAs, líderes do setor lançam novas tecnologias apareceu…",
+      "link": "https://olhardigital.com.br/2026/09/23/inteligencia-artificial/resumo-do-od-enquanto-onu-discute-ias-lideres-do-setor-lancam-novas-tecnologias/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Lula-na-ONU-22-de-setembro-de-2026-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-23T10:03:29+00:00"
+    },
+    {
+      "id": "3f251bee96ff67d7",
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for…",
+      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-23T04:59:08+00:00"
+    },
     {
       "id": "0b7b9373de41de21",
       "title": "SpeakON Ships a MagSafe AI Voice Button With Its Own Microphone: Turning Your Voice into Polished Communication, and Action across Apps",
@@ -936,61 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-21T18:40:48+00:00"
-    },
-    {
-      "id": "615eefc69753a70c",
-      "title": "NVIDIA declara guerra ao “discurso do apocalipse” de IA: “0% de chance”",
-      "summary": "Jensen Huang, CEO da NVIDIA, rejeitou os alertas de que a inteligência artificial poderia provocar o fim da humanidade até 2030. Segundo o executivo, existe “0% de chance” de isso…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/nvidia-declara-guerra-ao-discurso-do-apocalipse-de-ia-0-de-chance/",
-      "image": "https://tl.ctcdn.com.br/rnIQFBbDJ3akbwR08GqdUNSts7Q=/0x0/filters:format(webp):quality(85)/5cb12796-5028-49c8-b11d-f8c6840e20f4.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-21T18:04:00+00:00"
-    },
-    {
-      "id": "ccac89f4eb5bfe6c",
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the…",
-      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-21T17:55:18+00:00"
-    },
-    {
-      "id": "c11d4bacb742c48e",
-      "title": "UN science panel says there is \"no assurance humans will keep control\" over AI agents",
-      "summary": "The UN's AI science panel warns in its first thematic report that control over AI agents isn't assured. Co-chair Yoshua Bengio says OpenAI's Hugging Face incident first combined a…",
-      "link": "https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/UN_LOGO.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-21T17:44:10+00:00"
-    },
-    {
-      "id": "7049c9fef1e3c3f5",
-      "title": "GPT-6 Astra decifra mensagem do exército alemão após 108 anos",
-      "summary": "Modelo de IA pode ter decifrado mensagem que relatava chegada de navio britânico a Sebastopol, na Crimeia. GPT-6 Astra decifra mensagem do exército alemão após 108 anos",
-      "link": "https://tecnoblog.net/noticias/gpt-6-astra-decifra-mensagem-do-exercito-alemao-apos-108-anos/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/gpt-6-astra-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-21T17:22:21+00:00"
-    },
-    {
-      "id": "fa1a14a0c6b74edb",
-      "title": "Google confirms Gemini models hacked three companies in May 2026",
-      "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
-      "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-21T16:57:26+00:00"
     }
   ]
 }
