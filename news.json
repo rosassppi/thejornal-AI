@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-09-23T21:06:16.615826+00:00",
+  "generated_at": "2026-09-24T03:13:55.158202+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "dd94b5e8098dc731",
+      "title": "Meta revela inéditos óculos com VR e versão sem câmera",
+      "summary": "Mark Zuckerberg também apresenta terceira geração de óculos Ray-Ban com IA. Meta revela inéditos óculos com VR e versão sem câmera",
+      "link": "https://tecnoblog.net/noticias/meta-revela-ineditos-oculos-com-vr-e-versao-sem-camera/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/meta_vr_glasses_lifestyle_image1_16x9-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-24T02:42:19+00:00"
+    },
+    {
+      "id": "199fce996ef86bfc",
+      "title": "Lembra do Tamagotchi? Meta trabalha em dispositivo equipado com IA para usar o Muse",
+      "summary": "Chamado de Muse Charm, o aparelho foi apresentado rapidamente pelo CEO da empresa, Mark Zuckerberg, durante o Meta Connect O post Lembra do Tamagotchi? Meta trabalha em…",
+      "link": "https://olhardigital.com.br/2026/09/23/reviews/lembra-do-tamagotchi-meta-trabalha-em-dispositivo-equipado-com-ia-para-usar-o-muse/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/tamagotchi-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-24T02:02:01+00:00"
+    },
+    {
+      "id": "f74e96fc208dee3e",
+      "title": "Recurso de aprimoramento auditivo, atualizações de óculos inteligentes… Veja o que mais a Meta anunciou nesta quarta (23)",
+      "summary": "Saiba quais outras novidades a empresa de Mark Zuckerberg apresentou ao público O post Recurso de aprimoramento auditivo, atualizações de óculos inteligentes… Veja o que mais a…",
+      "link": "https://olhardigital.com.br/2026/09/23/reviews/recurso-de-aprimoramento-auditivo-atualizacoes-de-oculos-inteligentes-veja-o-que-mais-a-meta-anunciou-nesta-quarta-23/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/oculos_meta_2.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-24T01:42:29+00:00"
+    },
+    {
+      "id": "364e76eaa6a6943f",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even…",
+      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-24T01:13:32+00:00"
+    },
+    {
+      "id": "81a1f5d85185bc89",
+      "title": "A Coding Guide to TypeSafe AI Jev: Typed Decisions, Calibrated Confidence, and Speculative Fan-Out with a System One Model",
+      "summary": "This tutorial provides a complete coding guide to TypeSafe AI's Jev, a System One model designed for non-text, structured judgments. It covers installing the official Python SDK…",
+      "link": "https://www.marktechpost.com/2026/09/23/a-coding-guide-to-typesafe-ai-jev/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-24T00:53:09+00:00"
+    },
+    {
+      "id": "ff4347676284e65e",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+      "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-24T00:46:17+00:00"
+    },
+    {
+      "id": "bd0de7c493538646",
+      "title": "Olhar do Amanhã: IA faz segurança internacional virar categoria elástica",
+      "summary": "Álvaro Machado Dias, colunista do Olhar Digital News, analisa o que representa discutir os riscos da IA no Conselho de Segurança da ONU O post Olhar do Amanhã: IA faz segurança…",
+      "link": "https://olhardigital.com.br/2026/09/23/colunistas/olhar-do-amanha-ia-faz-seguranca-internacional-virar-categoria-elastica/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-24T00:37:13+00:00"
+    },
+    {
+      "id": "ce23be835a18f401",
+      "title": "Meta abandona câmera em novos óculos inteligentes enquanto enfrenta críticas sobre privacidade",
+      "summary": "Batizado de Ray-Ban Meta Audio, dispositivo foi desenvolvido para enfrentar críticas relacionadas aos usos considerados mais problemáticos dos óculos de IA O post Meta abandona…",
+      "link": "https://olhardigital.com.br/2026/09/23/reviews/meta-abandona-camera-em-novos-oculos-inteligentes-enquanto-enfrenta-criticas-sobre-privacidade/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/mark-zuckerberg-ray-bans-1024x557.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-24T00:21:32+00:00"
+    },
+    {
+      "id": "d2f07c69bc979a28",
+      "title": "Meta is making a standalone Muse AI gadget",
+      "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's…",
+      "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lcimg-d4d3d179-80e9-4873-9d38-24ac84737e8d.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-24T00:15:20+00:00"
+    },
+    {
+      "id": "e68a9b7de2f889c8",
+      "title": "Muse is coming to Meta smart glasses",
+      "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect…",
+      "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copy-of-Hearing-enhancement-16x9-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-23T23:40:56+00:00"
+    },
+    {
+      "id": "866c5688bd798c2c",
+      "title": "Meta introduces camera-free AI glasses",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-23T23:39:44+00:00"
+    },
+    {
+      "id": "a5e35ea59f8666fd",
+      "title": "Meta ditches the camera on its newest smart glasses",
+      "summary": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\"…",
+      "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260922_C0744.00_54_59_23.Still025-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-23T23:37:17+00:00"
+    },
+    {
+      "id": "a7f787561644ed83",
+      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are…",
+      "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-23T23:19:42+00:00"
+    },
+    {
+      "id": "2e09ef264c8e2e95",
+      "title": "A IA sai do roteiro (de novo): agente da OpenAI acessa sistema de saúde australiano sem autorização",
+      "summary": "OpenAI informou que o episódio aconteceu durante uma avaliação interna de seus modelos O post A IA sai do roteiro (de novo): agente da OpenAI acessa sistema de saúde australiano…",
+      "link": "https://olhardigital.com.br/2026/09/23/inteligencia-artificial/a-ia-sai-do-roteiro-de-novo-agente-da-openai-acessa-sistema-de-saude-australiano-sem-autorizacao/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/sam_altman_openai-scaled-1-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-23T22:56:39+00:00"
+    },
+    {
+      "id": "7a402970f4ce9b22",
+      "title": "Meta Connect 2026: The biggest news and announcements",
+      "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely…",
+      "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0241.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-23T22:45:00+00:00"
+    },
+    {
+      "id": "d3441858b1eb9b41",
+      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+      "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark…",
+      "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK169_Mark_Zuckerburg_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-23T22:30:00+00:00"
+    },
+    {
+      "id": "957bbb714bddc940",
+      "title": "TSE lança ChatVote, assistente de inteligência artificial para tirar dúvidas sobre as Eleições 2026",
+      "summary": "Chatbot já está disponível na página inicial do Portal do TSE e no aplicativo e-Título O post TSE lança ChatVote, assistente de inteligência artificial para tirar dúvidas sobre as…",
+      "link": "https://olhardigital.com.br/2026/09/23/inteligencia-artificial/tse-lanca-chatvote-assistente-de-inteligencia-artificial-para-tirar-duvidas-sobre-as-eleicoes-2026/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/chatvote_tse.jpeg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-23T22:23:03+00:00"
+    },
+    {
+      "id": "48a9d95577c8df72",
+      "title": "Anthropic says its biology lab has already found something big",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-23T22:17:39+00:00"
+    },
     {
       "id": "520246ce54c2a6e6",
       "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
@@ -56,6 +254,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-23T20:28:42+00:00"
+    },
+    {
+      "id": "72e9081e38ed4793",
+      "title": "Google Releases Gemini 3.8 Flash TTS and Flash-Lite TTS With Prompt-Based Voice Design",
+      "summary": "Google has released Gemini 3.8 Flash TTS and Flash-Lite TTS, 2 new text-to-speech models available now through the Gemini API and Google AI Studio. Flash TTS designs new voices…",
+      "link": "https://www.marktechpost.com/2026/09/23/google-releases-gemini-3-8-flash-tts-and-flash-lite-tts-with-prompt-based-voice-design/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-23T20:20:12+00:00"
     },
     {
       "id": "cd4b0d8d03ab39af",
@@ -190,15 +399,15 @@
       "published_at": "2026-09-23T18:22:57+00:00"
     },
     {
-      "id": "08befdebd4cbaf5a",
-      "title": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
-      "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB364_CLAUDE_2_C_96d15c-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
+      "id": "582af3579157092b",
+      "title": "NVIDIA Releases Nemotron 3 Diarization: A 100M-Parameter Open-Weight Model That Tracks 8 Speakers in Real Time",
+      "summary": "NVIDIA has released Nemotron 3 Diarization, an open-weight speaker diarization model on Hugging Face. It answers one question about any conversation: who spoke when. The…",
+      "link": "https://www.marktechpost.com/2026/09/23/nvidia-releases-nemotron-3-diarization/",
+      "image": null,
+      "source": "MarkTechPost",
       "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-23T18:00:00+00:00"
+      "category": "Pesquisa",
+      "published_at": "2026-09-23T18:17:14+00:00"
     },
     {
       "id": "1ccf342131e2aeec",
@@ -209,6 +418,17 @@
       "source": "Google AI Blog",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-09-23T18:00:00+00:00"
+    },
+    {
+      "id": "08befdebd4cbaf5a",
+      "title": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
+      "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB364_CLAUDE_2_C_96d15c-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
       "published_at": "2026-09-23T18:00:00+00:00"
     },
     {
@@ -771,226 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-09-23T04:50:40+00:00"
-    },
-    {
-      "id": "0b7b9373de41de21",
-      "title": "SpeakON Ships a MagSafe AI Voice Button With Its Own Microphone: Turning Your Voice into Polished Communication, and Action across Apps",
-      "summary": "Voice input on phones has been solved for years. What has not been solved is the output. Speak into most dictation tools and you get back exactly what you said, fillers and false…",
-      "link": "https://www.marktechpost.com/2026/09/22/speakon-ships-a-magsafe-ai-voice-button-with-its-own-microphone/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/09/image-2-150x150.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-23T03:10:22+00:00"
-    },
-    {
-      "id": "bcd186c1125c6f1a",
-      "title": "Câmeras e microfones em óculos com IA geram reação global e podem ameaçar futuro de novos dispositivos inteligentes",
-      "summary": "Dispositivos conseguem observar, ouvir e responder ao ambiente ao redor do usuário, recursos que podem torná-los mais úteis, mas também aumentam o risco de registrar pessoas que…",
-      "link": "https://olhardigital.com.br/2026/09/22/reviews/cameras-e-microfones-em-oculos-com-ia-geram-reacao-global-e-podem-ameacar-futuro-de-novos-dispositivos-inteligentes/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/Destaque-Oculos-Ray-Ban-Meta-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-23T01:51:40+00:00"
-    },
-    {
-      "id": "9491fecb608118d9",
-      "title": "OpenAI cria grupo de matemáticos após sequência de polêmicas com resultados de inteligência artificial",
-      "summary": "Iniciativa surge após sequência de controvérsias envolvendo a divulgação de resultados matemáticos produzidos pelos modelos da OpenAI e críticas de pesquisadores sobre…",
-      "link": "https://olhardigital.com.br/2026/09/22/pro/openai-cria-grupo-de-matematicos-apos-sequencia-de-polemicas-com-resultados-de-inteligencia-artificial/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/ia-matematica-1024x579.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-23T01:31:06+00:00"
-    },
-    {
-      "id": "5a81d2da973088cb",
-      "title": "Fala AI: ONU escancara divisão sobre IA; e agora?",
-      "summary": "A inteligência artificial esteve no centro dos debates da Assembleia Geral da ONU, mas os discursos revelaram um cenário desafiador O post Fala AI: ONU escancara divisão sobre IA…",
-      "link": "https://olhardigital.com.br/2026/09/22/colunistas/fala-ai-onu-escancara-divisao-sobre-ia-e-agora/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-23T01:11:33+00:00"
-    },
-    {
-      "id": "0765deb144589280",
-      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-      "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-      "link": "https://openai.com/index/airbnb-gpt-6-astra",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-23T01:00:00+00:00"
-    },
-    {
-      "id": "0e01fce9c7295223",
-      "title": "Novo assistente de IA da Meta enfrenta falha grave de segurança que pode colocar usuários de Mac em risco",
-      "summary": "Vulnerabilidade foi descoberta pelo especialista em segurança do macOS Patrick Wardle, que alertou sobre o problema O post Novo assistente de IA da Meta enfrenta falha grave de…",
-      "link": "https://olhardigital.com.br/2026/09/22/seguranca/novo-assistente-de-ia-da-meta-enfrenta-falha-grave-de-seguranca-que-pode-colocar-usuarios-de-mac-em-risco/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2024/12/fachada_meta_logo-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-23T00:50:49+00:00"
-    },
-    {
-      "id": "a86391fe9862bd89",
-      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294952541.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-23T00:17:17+00:00"
-    },
-    {
-      "id": "5ab590850491008e",
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-      "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-23T00:00:00+00:00"
-    },
-    {
-      "id": "a92af0d92b922054",
-      "title": "Qualcomm apresenta Snapdragon 8 Elite Gen 6 e versão Extreme com IA local, gráficos mais avançados e vídeo em 8K",
-      "summary": "Dois modelos são fabricados no processo de 2 nanômetros (nm) e utilizam nova geração da CPU Oryon O post Qualcomm apresenta Snapdragon 8 Elite Gen 6 e versão Extreme com IA local…",
-      "link": "https://olhardigital.com.br/2026/09/22/reviews/qualcomm-apresenta-snapdragon-8-elite-gen-6-e-versao-extreme-com-ia-local-graficos-mais-avancados-e-video-em-8k/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/09/samsung-galaxy-2-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-22T23:52:37+00:00"
-    },
-    {
-      "id": "b25fe2c5917bd456",
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that…",
-      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-22T23:21:49+00:00"
-    },
-    {
-      "id": "78d4268b3645c0c7",
-      "title": "OpenAI lança GPT-6 Sol e Luna com menos erros pela metade do preço",
-      "summary": "A OpenAI anunciou o GPT-6 Sol e o GPT-6 Luna, novos modelos de inteligência artificial que ampliam o ecossistema de modelos de fronteira da empresa. A dupla foi desenvolvida com…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/openai-lanca-gpt-6-sol-e-luna-com-menos-erros-pela-metade-do-preco/",
-      "image": "https://tl.ctcdn.com.br/M97dFogcb8WuR352m8LixgtgapI=/0x0/filters:format(webp):quality(85)/483c949e-c9ea-41be-b2a9-e0fcfe03b894.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-22T23:06:00+00:00"
-    },
-    {
-      "id": "7c67ad98e455c6d4",
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-22T21:56:43+00:00"
-    },
-    {
-      "id": "cc03eb22570ae5a9",
-      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-      "summary": "The frontier AI model race has entered its comparison shopping phase.",
-      "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Claude-ChatGPT-500x500-1790110453.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-22T21:25:18+00:00"
-    },
-    {
-      "id": "9fdccbd8b9db02aa",
-      "title": "Samsung Notes passa a avisar quando texto é criado por IA; veja como será",
-      "summary": "A Samsung disponibilizou uma atualização para o aplicativo Samsung Notes que adiciona um aviso quando as ferramentas do Galaxy AI são usadas para gerar ou editar conteúdo. A…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/samsung-notes-passa-a-avisar-quando-texto-e-criado-por-ia-veja-como-sera/",
-      "image": "https://tl.ctcdn.com.br/24GKTEHEthxZEvI7zJbrcw_bsx0=/0x0/filters:format(webp):quality(85)/84555ccf-f2d6-4d05-ade3-1842c10e29bd.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-22T21:04:00+00:00"
-    },
-    {
-      "id": "f9027d80e820682e",
-      "title": "Better prompt caching for GPT-6",
-      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-22T21:00:00+00:00"
-    },
-    {
-      "id": "b55c6cd1054ed866",
-      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-      "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415491/DSC08587.JPG?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-22T20:52:40+00:00"
-    },
-    {
-      "id": "df0872252d524911",
-      "title": "LG xboom Power chega ao Brasil com 440 W e karaokê com IA",
-      "summary": "A LG confirmou a chegada da LG xboom Power ao Brasil, nova linha de caixas de som voltada a festas e eventos. A geração é formada pelos modelos Power 9000, Power 7000 e Power…",
-      "link": "https://canaltech.com.br/caixa-de-som/lg-xboom-power-chega-ao-brasil-com-440-w-e-karaoke-com-ia/",
-      "image": "https://tl.ctcdn.com.br/_9tmb8GcaZipkE1j8mr9Uvcbq-Q=/0x0/filters:format(webp):quality(85)/41ca5f47-0234-49ab-a623-54f3a23ffff5.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-22T20:30:02+00:00"
-    },
-    {
-      "id": "421a383bb13efe36",
-      "title": "OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance",
-      "summary": "With GPT-6 Sol and Luna, OpenAI adds two cheaper models that deliver their predecessors' performance at half the token price and take aim at Anthropic's pricier offerings…",
-      "link": "https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_gpz6_sol_luna.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-22T20:06:51+00:00"
-    },
-    {
-      "id": "8ea6cbfd1c9012c5",
-      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-22T20:00:00+00:00"
-    },
-    {
-      "id": "187085a72a8e5975",
-      "title": "OpenAI lança GPT-6 Sol e Luna, novos modelos de IA que prometem mais desempenho por menos dinheiro",
-      "summary": "Segundo a OpenAI, Sol e Luna foram treinados com métodos semelhantes aos utilizados no Astra, incorporando avanços em algumas áreas O post OpenAI lança GPT-6 Sol e Luna, novos…",
-      "link": "https://olhardigital.com.br/2026/09/22/inteligencia-artificial/openai-lanca-gpt-6-sol-e-luna-novos-modelos-de-ia-que-prometem-mais-desempenho-por-menos-dinheiro/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/openai-2-1024x670.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-22T19:49:42+00:00"
     }
   ]
 }
