@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-25T16:34:48.912331+00:00",
+  "generated_at": "2026-09-25T21:06:46.752181+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "826f87ad14aaae40",
+      "title": "China está construindo “nova Hollywood” para fazer filmes inteiramente com IA",
+      "summary": "A China está transformando a inteligência artificial generativa em uma nova frente da indústria audiovisual . Com dinheiro público, infraestrutura de computação e incentivos para…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/china-esta-construindo-nova-hollywood-para-fazer-filmes-inteiramente-com-ia/",
+      "image": "https://tl.ctcdn.com.br/BfozK_lMH44mj4szvD0SPUpkA3c=/0x0/filters:format(webp):quality(85)/688a60a3-e502-4bb0-a40d-63b1c3370cf4.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-25T20:07:00+00:00"
+    },
+    {
+      "id": "e2a6a90d9b2c18ea",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai…",
+      "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-25T19:13:38+00:00"
+    },
+    {
+      "id": "fb1ca72991c4b600",
+      "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+      "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”",
+      "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/graduates-500x500-1790363419.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-25T19:11:05+00:00"
+    },
     {
       "id": "9de028fbe46cac8b",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
@@ -12,6 +45,127 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-09-25T19:00:00+00:00"
+    },
+    {
+      "id": "1a2fe94658e0ff30",
+      "title": "Inteligência artificial quebra código nazista da Segunda Guerra que desafiava cientistas desde 2005",
+      "summary": "GPT-6 Astra e Claude Opus 5 decifraram mensagens da Enigma que resistiam há décadas; restam sete códigos ainda sem solução O post Inteligência artificial quebra código nazista da…",
+      "link": "https://olhardigital.com.br/2026/09/25/inteligencia-artificial/inteligencia-artificial-quebra-codigo-nazista-da-segunda-guerra-que-desafiava-cientistas-desde-2005/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/07/shutterstock_2635093033-scaled-e1756402026933-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-25T18:41:50+00:00"
+    },
+    {
+      "id": "c67d0c32ad874227",
+      "title": "Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says",
+      "summary": "A federal appeals court has upheld the Pentagon's decision to bar Anthropic from military contracts. Defense Secretary Hegseth argues the company's safety restrictions could…",
+      "link": "https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/02/anthropic_pentagon-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-25T18:40:22+00:00"
+    },
+    {
+      "id": "cbf83f894231ee07",
+      "title": "Impressora boa e barata existe: veja uma seleção com ótimas opções em oferta",
+      "summary": "Seja para o home office, para a escola dos filhos ou para o dia a dia do escritório, ter uma boa impressora em casa faz toda a diferença. Separamos três modelos multifuncionais em…",
+      "link": "https://olhardigital.com.br/2026/09/25/reviews/impressora-boa-e-barata-existe-veja-uma-selecao-com-otimas-opcoes-em-oferta/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-25T18:40:00+00:00"
+    },
+    {
+      "id": "c67b725df023f3db",
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+      "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-25T18:33:59+00:00"
+    },
+    {
+      "id": "47ff0a404549e9a7",
+      "title": "Fabricante recolhe óculos inteligentes após relatos de aquecimento e queimaduras",
+      "summary": "A fabricante INMO anunciou um recall dos óculos inteligentes Air 3 nos Estados Unidos após receber relatos de superaquecimento na haste esquerda do dispositivo. Segundo a Comissão…",
+      "link": "https://canaltech.com.br/produtos/fabricante-recolhe-oculos-inteligentes-apos-relatos-de-aquecimento-e-queimaduras/",
+      "image": "https://tl.ctcdn.com.br/Z9v2jQQqcpVUAn7wogWTdQNwgBM=/0x0/filters:format(webp):quality(85)/394212ad-8051-436f-b0d3-4b9b75a9df06.webp",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-25T18:02:09+00:00"
+    },
+    {
+      "id": "1869d87339dc2f19",
+      "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+      "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
+      "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-500x500-1763511853.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-25T17:57:37+00:00"
+    },
+    {
+      "id": "98b41358cde1bd9f",
+      "title": "Another Google Deepmind researcher quits, says building superintelligent AI soon is \"inherently irresponsible\"",
+      "summary": "Google Deepmind researcher Robert O'Callahan has quit, saying AI's \"current rate of change is far too high.\" He worked on chip design tools that helped make AI cheaper and faster…",
+      "link": "https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/google_deepmind-scaled.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-25T17:55:51+00:00"
+    },
+    {
+      "id": "de124632a977f157",
+      "title": "Governo aponta riscos em “companheiros de IA” para menores no Brasil",
+      "summary": "Character.AI e Replika estão na lista; nota cita falhas na verificação de idade, conteúdo sexualizado e uso de dados pessoais. Governo aponta riscos em “companheiros de IA” para…",
+      "link": "https://tecnoblog.net/noticias/governo-aponta-riscos-em-companheiros-de-ia-para-menores-no-brasil/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/assistente-ia-china-edited-340x191.webp",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-25T17:49:14+00:00"
+    },
+    {
+      "id": "afee09e47d3238fb",
+      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+      "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-25T17:29:46+00:00"
+    },
+    {
+      "id": "6ffcb5f810097286",
+      "title": "Astra and Opus just passed Turing’s other test",
+      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+      "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-25T17:24:36+00:00"
+    },
+    {
+      "id": "ded5f30056dbe56f",
+      "title": "Meta makes the Muse filesystem even more accessible",
+      "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-25T16:49:53+00:00"
     },
     {
       "id": "e16fb2b20fe7dda0",
@@ -47,6 +201,28 @@
       "published_at": "2026-09-25T16:03:00+00:00"
     },
     {
+      "id": "656c9f3000b049c0",
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both…",
+      "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-25T16:00:00+00:00"
+    },
+    {
+      "id": "9792599b61c6bca4",
+      "title": "Sony and UMG are suing Suno again",
+      "summary": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-25T15:51:56+00:00"
+    },
+    {
       "id": "3d8278c32fc7ccde",
       "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
       "summary": "The latest unauthorized agent swarms were discovered by researchers.",
@@ -67,6 +243,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-25T15:40:03+00:00"
+    },
+    {
+      "id": "43d45f70ac9f46b3",
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-25T15:39:48+00:00"
     },
     {
       "id": "e31209a963cbe578",
@@ -804,193 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-24T15:07:10+00:00"
-    },
-    {
-      "id": "cb5699df67c6c12c",
-      "title": "Trump e Xi parecem ter caminhos diferentes para o futuro das IAs",
-      "summary": "Presidente dos EUA recebeu líder chinês na Casa Branca; Xi Jinping não falará na ONU O post Trump e Xi parecem ter caminhos diferentes para o futuro das IAs apareceu primeiro em…",
-      "link": "https://olhardigital.com.br/2026/09/24/inteligencia-artificial/trump-e-xi-sugerem-caminhos-diferentes-para-o-futuro-das-ias/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Captura-de-Tela-2026-09-24-as-19.32.26-1024x469.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T15:06:54+00:00"
-    },
-    {
-      "id": "b6540b675d6e3af8",
-      "title": "Gemini ganha novas integrações para acelerar o trabalho; veja como usar",
-      "summary": "O Google começou a liberar uma nova leva de integrações para o Gemini . A atualização conecta serviços de terceiros ao chatbot e permite realizar tarefas sem precisar alternar…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-ganha-novas-integracoes-para-acelerar-o-trabalho-veja-como-usar/",
-      "image": "https://tl.ctcdn.com.br/U75SLWSekmUd1GiGI4SGG63MNRc=/0x0/filters:format(webp):quality(85)/91d1635b-15e4-4706-8c68-86032e250499.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T15:01:00+00:00"
-    },
-    {
-      "id": "add493df5d5c69a1",
-      "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-      "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT…",
-      "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-24T15:00:00+00:00"
-    },
-    {
-      "id": "382308f6d8444975",
-      "title": "Pequenas e médias empresas do Brasil lideram a implementação de agentes de IA na América Latina",
-      "summary": "Levantamento mostra salto na adesão à tecnologia para automatizar processos e otimizar a rotina de pequenos e médios negócios O post Pequenas e médias empresas do Brasil lideram a…",
-      "link": "https://olhardigital.com.br/2026/09/24/pro/pequenas-e-medias-empresas-do-brasil-lideram-a-implementacao-de-agentes-de-ia-na-america-latina/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T14:52:00+00:00"
-    },
-    {
-      "id": "f74eb33bc14be4a0",
-      "title": "U.S. bill proposes permanent ban on artificial superintelligence and creation of new federal AI agency",
-      "summary": "Senator Bernie Sanders and Representative Greg Casar introduced a bill on September 23 that would permanently ban the development and use of artificial superintelligence. The…",
-      "link": "https://the-decoder.com/u-s-bill-proposes-permanent-ban-on-artificial-superintelligence-and-creation-of-new-federal-ai-agency/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/artificial_superintelligence_ban.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T14:42:23+00:00"
-    },
-    {
-      "id": "b36e7b25819145c3",
-      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-      "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
-      "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-24T14:30:00+00:00"
-    },
-    {
-      "id": "9b5a879665aace41",
-      "title": "Why can’t we just keep rogue AIs off the internet?",
-      "summary": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T14:30:00+00:00"
-    },
-    {
-      "id": "6bc12a5308fc88f1",
-      "title": "Geladeiras da Samsung param de funcionar e estragam alimentos após atualização",
-      "summary": "Geladeiras inteligentes da Samsung pararam de funcionar na Coreia do Sul após uma atualização enviada por engano. Alguns aparelhos perderam a refrigeração, as luzes internas e até…",
-      "link": "https://canaltech.com.br/eletro/geladeiras-da-samsung-param-de-funcionar-e-estragam-alimentos-apos-atualizacao/",
-      "image": "https://tl.ctcdn.com.br/GG2asCwFl74eEuiLH3D0oYTP6Fc=/0x0/filters:format(webp):quality(85)/4c369310-90a2-4185-9e1d-d022b8741b7b.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T14:26:38+00:00"
-    },
-    {
-      "id": "195c9779df2789e6",
-      "title": "Google is sending an AI satellite into space next week",
-      "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of…",
-      "link": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/project-suncatcher.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T14:15:17+00:00"
-    },
-    {
-      "id": "e4747b2118f14bb6",
-      "title": "The vibes are bad for Flock in Washington",
-      "summary": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in…",
-      "link": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKS532_ALPRs_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T14:15:05+00:00"
-    },
-    {
-      "id": "ac3f60deae1c3e90",
-      "title": "I have some questions for Mark Zuckerberg",
-      "summary": "It’s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit. I’ve been using it — it is…",
-      "link": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-24_Zuck.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T14:15:00+00:00"
-    },
-    {
-      "id": "0a3ba44e0cc23768",
-      "title": "Gemini ganha processamento local no Brasil e deve ficar mais rápido",
-      "summary": "O Google vai ampliar a capacidade de executar o Gemini dentro do Brasil . A partir de 15 de outubro, a versão web do Gemini Enterprise terá suporte ao processamento local de dados…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-ganha-processamento-local-no-brasil-e-deve-ficar-mais-rapido/",
-      "image": "https://tl.ctcdn.com.br/cGyHdmCZgtoB5sR9c2f9It2Q6J4=/0x0/filters:format(webp):quality(85)/3a76ae4b-b672-4257-8292-a251d62dbb66.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T14:10:03+00:00"
-    },
-    {
-      "id": "280bf64dcca75cee",
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "summary": "",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-24T14:08:57+00:00"
-    },
-    {
-      "id": "91b2dfa3ee10e9bc",
-      "title": "Meta puts its AI assistant on a keychain",
-      "summary": "Meta says the keychain-sized Muse Charm will ship in December.",
-      "link": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/musecharm-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T14:03:38+00:00"
-    },
-    {
-      "id": "d65d0189085f7725",
-      "title": "OpenAI's agents went after government and university sites months before Hugging Face",
-      "summary": "According to Transluce researchers and the Australian government, OpenAI's AI agents repeatedly broke into government and university websites without authorization, including…",
-      "link": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_kraken_cybersecurity.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T14:01:05+00:00"
-    },
-    {
-      "id": "07aaba7c3f6e1b19",
-      "title": "Google vai dobrar infraestrutura no Brasil para atender boom da IA",
-      "summary": "O Google vai dobrar sua infraestrutura técnica no Brasil até 2030 para acompanhar o crescimento da demanda por serviços de nuvem e inteligência artificial (IA). O plano prevê…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/google-vai-dobrar-infraestrutura-no-brasil-para-atender-boom-da-ia/",
-      "image": "https://tl.ctcdn.com.br/xpxRdwr-ehFUszW239On3bpt7gA=/0x0/filters:format(webp):quality(85)/71aafaf5-8649-44d1-acb3-b9863642c939.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T14:00:00+00:00"
-    },
-    {
-      "id": "c497f75cd7787cd1",
-      "title": "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door",
-      "summary": "Google Deepmind chief Koray Kavukcuoglu wants to release Gemini 4 \"much earlier\" than the end of the year. The model is already in post-training and runs internally in the coding…",
-      "link": "https://the-decoder.com/deepmind-was-built-to-chase-agi-but-its-new-chief-just-wants-gemini-4-out-the-door/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T13:35:44+00:00"
     }
   ]
 }
