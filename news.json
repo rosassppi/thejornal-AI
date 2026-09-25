@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-09-25T03:31:08.861547+00:00",
+  "generated_at": "2026-09-25T11:11:08.345204+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "2a5ad4fe27ed6902",
+      "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+      "summary": "Vendors rolling out AI have an \"incentive to deny as many claims as possible.\"",
+      "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2295026360-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-25T11:00:28+00:00"
+    },
+    {
+      "id": "be90b2713db02c24",
+      "title": "Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year",
+      "summary": "Anthropic has reportedly signed a seven-year, $11.6 billion cloud deal with Akamai Technologies and will receive a warrant for up to 5 percent of Akamai's shares. Its compute…",
+      "link": "https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/antropic_logo_chat_cowork-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-25T10:43:15+00:00"
+    },
+    {
+      "id": "3c80ab90e2b3ddb5",
+      "title": "Agente da OpenAI “não aceitou não” e invadiu sistema de saúde",
+      "summary": "Caso aconteceu na Austrália e primeiro-ministro veio a público criticar ChatGPT. Agente da OpenAI “não aceitou não” e invadiu sistema de saúde",
+      "link": "https://tecnoblog.net/noticias/agente-da-openai-nao-aceitou-nao-e-invadiu-sistema-de-saude/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/08/openai-4_capa-edited-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-25T10:43:07+00:00"
+    },
+    {
+      "id": "4f2074dcfcf8e3df",
+      "title": "Adobe reúne mais de 80 ferramentas no Claude e leva Photoshop, Lightroom e Firefly ao Gemini",
+      "summary": "Gemini e Claude passam a reunir ferramentas da Adobe para editar imagens, criar designs e trabalhar com documentos PDF na conversa O post Adobe reúne mais de 80 ferramentas no…",
+      "link": "https://olhardigital.com.br/2026/09/25/inteligencia-artificial/adobe-reune-mais-de-80-ferramentas-no-claude-e-leva-photoshop-lightroom-e-firefly-ao-gemini/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/adobe-gemini-1024x449.webp",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-25T10:40:19+00:00"
+    },
+    {
+      "id": "2baf4c3ed134e7ef",
+      "title": "Trump, Xi, Musk, Altman, Zuckerberg… jantar na Casa Branca reúne quem dita o futuro da tecnologia",
+      "summary": "No cardápio, robalo, creme de baunilha e IA O post Trump, Xi, Musk, Altman, Zuckerberg… jantar na Casa Branca reúne quem dita o futuro da tecnologia apareceu primeiro em Olhar…",
+      "link": "https://olhardigital.com.br/2026/09/25/inteligencia-artificial/trump-xi-musk-altman-zuckerberg-jantar-na-casa-branca-reune-quem-dita-o-futuro-da-tecnologia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Captura-de-Tela-2026-09-25-as-13.49.01-1024x476.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-25T10:02:18+00:00"
+    },
+    {
+      "id": "5ae3624875b02540",
+      "title": "Ruby on Rails creator DHH says he's done writing code by hand",
+      "summary": "David Heinemeier Hansson, creator of Ruby on Rails, has quit writing code by hand after 25 years. He says he hasn't typed a single line since March 2026. \"English is a better…",
+      "link": "https://the-decoder.com/ruby-on-rails-creator-dhh-says-hes-done-writing-code-by-hand/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/dhh_programmier_ruecktritt.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-25T09:50:41+00:00"
+    },
+    {
+      "id": "5f5d31d8982f8e72",
+      "title": "Xiaomi lança câmera de visão noturna com IA que acompanha pessoas e animais",
+      "summary": "A Xiaomi iniciou o financiamento coletivo da Smart Camera 5 Pro , sua primeira câmera com visão noturna em cores. O modelo grava em 4K, usa duas lentes de 8 MP e 4 MP e tem…",
+      "link": "https://canaltech.com.br/produtos/xiaomi-lanca-camera-de-visao-noturna-com-ia-que-acompanha-pessoas-e-animais/",
+      "image": "https://tl.ctcdn.com.br/acxRfik7uIN_ER8gry9YbexpMQE=/0x0/filters:format(webp):quality(85)/15e44320-b0ac-4c12-9e60-c016b817e4e9.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-25T09:38:13+00:00"
+    },
+    {
+      "id": "c2d047e87e05c592",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program…",
+      "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Altec_Poly_2.jpeg",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-25T09:16:25+00:00"
+    },
+    {
+      "id": "1ee08c5b8db9f958",
+      "title": "White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers",
+      "summary": "The White House wants OpenAI and Anthropic to hold back new AI models from the U.K.'s AI Safety Institute until U.S. agencies get to review them first. The article White House…",
+      "link": "https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/usa_aisi.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-25T08:12:14+00:00"
+    },
+    {
+      "id": "ff3979163f0a6a79",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-25T05:00:00+00:00"
+    },
     {
       "id": "7345fb763f5bf5f2",
       "title": "Trump, presidente da Câmara dos EUA e CEOs de tecnologia terão reunião sobre inteligência artificial na terça (29)",
@@ -881,116 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-24T00:15:20+00:00"
-    },
-    {
-      "id": "e68a9b7de2f889c8",
-      "title": "Muse is coming to Meta smart glasses",
-      "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect…",
-      "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copy-of-Hearing-enhancement-16x9-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-23T23:40:56+00:00"
-    },
-    {
-      "id": "866c5688bd798c2c",
-      "title": "Meta introduces camera-free AI glasses",
-      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
-      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-23T23:39:44+00:00"
-    },
-    {
-      "id": "a5e35ea59f8666fd",
-      "title": "Meta ditches the camera on its newest smart glasses",
-      "summary": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\"…",
-      "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260922_C0744.00_54_59_23.Still025-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-23T23:37:17+00:00"
-    },
-    {
-      "id": "a7f787561644ed83",
-      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-      "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are…",
-      "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-23T23:19:42+00:00"
-    },
-    {
-      "id": "2e09ef264c8e2e95",
-      "title": "A IA sai do roteiro (de novo): agente da OpenAI acessa sistema de saúde australiano sem autorização",
-      "summary": "OpenAI informou que o episódio aconteceu durante uma avaliação interna de seus modelos O post A IA sai do roteiro (de novo): agente da OpenAI acessa sistema de saúde australiano…",
-      "link": "https://olhardigital.com.br/2026/09/23/inteligencia-artificial/a-ia-sai-do-roteiro-de-novo-agente-da-openai-acessa-sistema-de-saude-australiano-sem-autorizacao/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/sam_altman_openai-scaled-1-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-23T22:56:39+00:00"
-    },
-    {
-      "id": "7a402970f4ce9b22",
-      "title": "Meta Connect 2026: The biggest news and announcements",
-      "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely…",
-      "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0241.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-23T22:45:00+00:00"
-    },
-    {
-      "id": "d3441858b1eb9b41",
-      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-      "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark…",
-      "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK169_Mark_Zuckerburg_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-23T22:30:00+00:00"
-    },
-    {
-      "id": "957bbb714bddc940",
-      "title": "TSE lança ChatVote, assistente de inteligência artificial para tirar dúvidas sobre as Eleições 2026",
-      "summary": "Chatbot já está disponível na página inicial do Portal do TSE e no aplicativo e-Título O post TSE lança ChatVote, assistente de inteligência artificial para tirar dúvidas sobre as…",
-      "link": "https://olhardigital.com.br/2026/09/23/inteligencia-artificial/tse-lanca-chatvote-assistente-de-inteligencia-artificial-para-tirar-duvidas-sobre-as-eleicoes-2026/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/chatvote_tse.jpeg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-23T22:23:03+00:00"
-    },
-    {
-      "id": "48a9d95577c8df72",
-      "title": "Anthropic says its biology lab has already found something big",
-      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
-      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-23T22:17:39+00:00"
-    },
-    {
-      "id": "520246ce54c2a6e6",
-      "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
-      "summary": "Trump focus on winning “AI race” may deter China from sharing safety intel.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/china-vs-us-ai-race-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-23T20:52:28+00:00"
     }
   ]
 }
