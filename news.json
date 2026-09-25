@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-24T21:09:54.895631+00:00",
+  "generated_at": "2026-09-25T03:31:08.861547+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "7345fb763f5bf5f2",
+      "title": "Trump, presidente da Câmara dos EUA e CEOs de tecnologia terão reunião sobre inteligência artificial na terça (29)",
+      "summary": "Reunião ocorre em meio ao avanço acelerado da IA e às discussões sobre como governos devem lidar com os riscos associados a sistemas cada vez mais poderosos O post Trump…",
+      "link": "https://olhardigital.com.br/2026/09/24/pro/trump-presidente-da-camara-dos-eua-e-ceos-de-tecnologia-terao-reuniao-sobre-inteligencia-artificial-na-terca-29/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/IA-bomba-atomica-ONU-1024x576.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-25T01:24:07+00:00"
+    },
+    {
+      "id": "3cc7f473b551b1fb",
+      "title": "Google, OpenAI e Anthropic se unem para criar órgão de segurança para inteligência artificial",
+      "summary": "Proposta é que a entidade opere de maneira independente e ajude a preencher lacunas na supervisão governamental sobre a IA O post Google, OpenAI e Anthropic se unem para criar…",
+      "link": "https://olhardigital.com.br/2026/09/24/inteligencia-artificial/google-openai-e-anthropic-se-unem-para-criar-orgao-de-seguranca-para-inteligencia-artificial/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/altman-amodei-1024x640.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-24T22:53:53+00:00"
+    },
     {
       "id": "e2615b1e35a14cd1",
       "title": "IA do Google vai fazer ligações por você",
@@ -969,28 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-23T20:52:28+00:00"
-    },
-    {
-      "id": "9e0946b390d70975",
-      "title": "TV QLED Samsung 50″ com Vision AI fica quase R$ 1 mil mais barata",
-      "summary": "Smart TV 4K Samsung com painel QLED Ultra com um bilhão de cores e IA integrada tem desconto de 24% com cupom no Mercado Livre TV QLED Samsung 50″ com Vision AI fica quase R$ 1…",
-      "link": "https://tecnoblog.net/achados/tv-qled-samsung-50-com-vision-ai-fica-mais-de-r-1-mil-mais-barata/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-23T20:37:57+00:00"
-    },
-    {
-      "id": "ed90c2b0743c1f98",
-      "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
-      "summary": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
-      "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-23T20:35:17+00:00"
     }
   ]
 }
