@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-09-26T15:48:51.628533+00:00",
+  "generated_at": "2026-09-26T20:39:44.598435+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "730240f862d746b5",
+      "title": "Bill Gates cobra regras para empresas de IA",
+      "summary": "Cofundador da Microsoft afirma que governos devem exigir garantias e monitoramento das empresas sem frear drasticamente o avanço da tecnologia. Bill Gates cobra regras para…",
+      "link": "https://tecnoblog.net/noticias/bill-gates-cobra-regras-para-empresas-de-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/02/4996836818_5ba57fa106_b-edited-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-26T20:01:23+00:00"
+    },
+    {
+      "id": "a1353f130cf7a373",
+      "title": "OpenAI amplia revisão de comportamento de modelos de IA após novos incidentes",
+      "summary": "De acordo com a OpenAI, a maioria dos comportamentos inesperados de agentes de IA identificados até agora é de baixa gravidade O post OpenAI amplia revisão de comportamento de…",
+      "link": "https://olhardigital.com.br/2026/09/26/inteligencia-artificial/openai-amplia-revisao-de-comportamento-de-modelos-de-ia-apos-novos-incidentes/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/sam_altman_openai-scaled-1-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-26T19:30:00+00:00"
+    },
+    {
+      "id": "c4ed735e90cb70b7",
+      "title": "Former Ukrainian Defense Minister Fedorov pitches a private-sector robot army",
+      "summary": "Former Ukrainian Defense Minister Mykhailo Fedorov has announced \"Army of Robots,\" a private combat robotics initiative. The robots would handle casualty evacuation, mine…",
+      "link": "https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/robot_warfare.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-26T19:10:20+00:00"
+    },
+    {
+      "id": "25471cac75c09454",
+      "title": "Hora de imprimir mais e gastar menos: veja uma seleção de impressoras em promoção na Amazon",
+      "summary": "Seja para o home office, para os estudos ou para uso doméstico, uma boa impressora faz toda a diferença no dia a dia. Separamos três opções multifuncionais que estão em destaque…",
+      "link": "https://olhardigital.com.br/2026/09/26/reviews/hora-de-imprimir-mais-e-gastar-menos-veja-uma-selecao-de-impressoras-em-promocao-na-amazon-2/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-26T18:40:00+00:00"
+    },
+    {
+      "id": "403335c967d8713d",
+      "title": "Como usar os Gemini Gems?",
+      "summary": "Os Gemini Gems são versões personalizadas do Gemini que podem assumir diferentes funções de acordo com as instruções dadas pelo usuário. Você pode criar um Gem para revisar…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-os-gemini-gems/",
+      "image": "https://tl.ctcdn.com.br/U75SLWSekmUd1GiGI4SGG63MNRc=/0x0/filters:format(webp):quality(85)/91d1635b-15e4-4706-8c68-86032e250499.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-26T18:30:02+00:00"
+    },
+    {
+      "id": "13e47df7eafcde4f",
+      "title": "EUA e Rússia retiraram exigência de supervisão humana de pacto global sobre armas autônomas com IA",
+      "summary": "Diplomatas dos dois países trabalharam para enfraquecer tratado destinado a regular o uso de armas autônomas letais O post EUA e Rússia retiraram exigência de supervisão humana de…",
+      "link": "https://olhardigital.com.br/2026/09/26/inteligencia-artificial/eua-e-russia-retiraram-exigencia-de-supervisao-humana-de-pacto-global-sobre-armas-autonomas-com-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/06/poder-guerra-rssia-eua-1024x576.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-26T18:30:00+00:00"
+    },
+    {
+      "id": "2ae3aa5022485809",
+      "title": "Two-thirds of IT leaders report AI results, but few would interrupt the CEO's vacation over them",
+      "summary": "Speaking to 160 IT vice presidents in Las Vegas, tech entrepreneur Azeem Azhar asked who had measurable AI results. Two-thirds raised their hands. Then he asked who had results…",
+      "link": "https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them/",
+      "image": "https://the-decoder.com/wp-content/uploads/2024/05/money_server_room.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-26T17:27:52+00:00"
+    },
+    {
+      "id": "90427a8569cb0ac1",
+      "title": "AI access makes people almost entirely unwilling to say \"I don't know,\" study finds",
+      "summary": "A study with more than 3,000 participants shows that just having access to AI answers nearly eliminated people's willingness to say \"I don't know.\" In one experiment, it dropped…",
+      "link": "https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/huma_talking_ai.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-26T16:56:36+00:00"
+    },
+    {
+      "id": "960b51012f8d643a",
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-26T16:34:59+00:00"
+    },
     {
       "id": "feac97c0d0c1b334",
       "title": "I created an interactive digital avatar of myself — and you can talk to it",
@@ -892,105 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-24T18:20:58+00:00"
-    },
-    {
-      "id": "f6bb6cbb0b73c78b",
-      "title": "TV de 65\" tem ar-condicionado integrado e ainda controla a casa toda; entenda",
-      "summary": "Uma TV de 65 polegadas que também funciona como ar-condicionado e central de controle da casa inteligente. Essa é a proposta de um aparelho da Gree desenvolvido na China e…",
-      "link": "https://canaltech.com.br/eletro/tv-de-65-tem-ar-condicionado-integrado-e-ainda-controla-a-casa-toda-entenda/",
-      "image": "https://tl.ctcdn.com.br/4wsHldwkNRRuhJd64AMUao-kfdY=/0x0/filters:format(webp):quality(85)/e37b4a80-a030-40a4-82b2-a1973361e042.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T18:17:53+00:00"
-    },
-    {
-      "id": "357a32dcbaba4a84",
-      "title": "Sakana AI hires Jürgen Schmidhuber, inventor of deep learning, world models, and your next ChatGPT update",
-      "summary": "Tokyo-based Sakana AI has hired Jürgen Schmidhuber as Chief Scientific Advisor. Sakana calls him the \"father of modern AI.\" He'll help lead the company's new RSI Lab, which works…",
-      "link": "https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/",
-      "image": "https://the-decoder.com/wp-content/uploads/2024/01/sakana_ai_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T18:06:13+00:00"
-    },
-    {
-      "id": "c599d15acd3ccb90",
-      "title": "Gemini agora clona sua voz em 30 segundos e atua com risos e sussurros",
-      "summary": "O Google anunciou os novos modelos Gemini 3.8 Flash TTS e Gemini 3.8 Flash-Lite TTS , voltados à geração de voz por inteligência artificial. As ferramentas trazem recursos para…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-agora-clona-sua-voz-em-30-segundos-e-atua-com-risos-e-sussurros/",
-      "image": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T18:06:00+00:00"
-    },
-    {
-      "id": "bcb31d434ed42cb8",
-      "title": "Jensen Huang talks about AI and climate change like a supervillain",
-      "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy…",
-      "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T18:04:44+00:00"
-    },
-    {
-      "id": "d0c09943ed7a0f81",
-      "title": "Meta is going to let you build games with AI right on your phone",
-      "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI…",
-      "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T17:52:29+00:00"
-    },
-    {
-      "id": "b65b6cbf2cb95466",
-      "title": "Google's Suncatcher project aims to put AI data centers in orbit powered by solar energy",
-      "summary": "Google's \"Suncatcher\" project aims to run AI infrastructure in orbit on solar power. A fridge-sized experimental satellite is set to launch on a SpaceX Falcon 9 on October 1. But…",
-      "link": "https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T17:45:44+00:00"
-    },
-    {
-      "id": "c55e075bb2c7402e",
-      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-      "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion…",
-      "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-24T17:39:24+00:00"
-    },
-    {
-      "id": "16dae4c7c5cb5aa1",
-      "title": "Muse will apparently let you download its entire filesystem",
-      "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T17:14:12+00:00"
-    },
-    {
-      "id": "bf8e5a9ab8819216",
-      "title": "Google vai lançar satélite com IA para testar computação no espaço",
-      "summary": "Protótipo avaliará efeitos da radiação e temperatura, além do sistema de resfriamento; lançamento está previsto para 1º de outubro. Google vai lançar satélite com IA para testar…",
-      "link": "https://tecnoblog.net/noticias/google-vai-lancar-satelite-com-ia-para-testar-computacao-no-espaco/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/05/capa-ia-google-2_tb-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T17:11:47+00:00"
     }
   ]
 }
