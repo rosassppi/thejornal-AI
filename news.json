@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-09-25T21:06:46.752181+00:00",
+  "generated_at": "2026-09-26T03:36:39.833949+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "ef1cc1eb6d85e4e6",
+      "title": "Caso Hugging Face: agentes de IA da OpenAI tentaram enganar detector de robôs durante ataque à plataforma",
+      "summary": "Investigação revela quase um milhão de links criados por agentes durante ataque; sistemas também tentaram usar outras IAs para contornar mecanismos de segurança O post Caso…",
+      "link": "https://olhardigital.com.br/2026/09/25/inteligencia-artificial/caso-hugging-face-agentes-de-ia-da-openai-tentaram-enganar-detector-de-robos-durante-ataque-a-plataforma/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/openai-2-1024x670.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-26T01:20:33+00:00"
+    },
+    {
+      "id": "689dee4c89d4e3bc",
+      "title": "Aconteceu de novo! OpenAI admite que agentes de IA vazaram mais de 50 imagens de usuários do ChatGPT na internet",
+      "summary": "Imagens fornecidas por usuários foram publicadas em serviços de hospedagem sem conhecimento da empresa; caso faz parte de investigação sobre atividades não autorizadas de agentes…",
+      "link": "https://olhardigital.com.br/2026/09/25/inteligencia-artificial/aconteceu-de-novo-openai-admite-que-agentes-de-ia-vazaram-mais-de-50-imagens-de-usuarios-do-chatgpt-na-internet/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-OpenAI-AGI-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-26T00:40:04+00:00"
+    },
+    {
+      "id": "d4459c10e6b508fe",
+      "title": "Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding",
+      "summary": "Liquid AI has released LFM2.5-VL-3B-DSpark, a 279.5M-parameter draft model that brings speculative decoding to its LFM2.5-VL-3B vision-language model. It delivers up to 3.13x…",
+      "link": "https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-25T23:11:59+00:00"
+    },
+    {
+      "id": "1947fc4b63e36773",
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+      "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-25T23:11:10+00:00"
+    },
+    {
+      "id": "0411e27744838b14",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-25T22:20:47+00:00"
+    },
+    {
+      "id": "35493723d5486260",
+      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-500x500-1773164045.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-25T21:36:20+00:00"
+    },
+    {
+      "id": "834599042ffa6be6",
+      "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+      "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
+      "link": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tesla-Optimus-V3-humanoid-robot-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-25T21:10:51+00:00"
+    },
     {
       "id": "826f87ad14aaae40",
       "title": "China está construindo “nova Hollywood” para fazer filmes inteiramente com IA",
@@ -914,83 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-24T16:04:31+00:00"
-    },
-    {
-      "id": "2a678286c365c5fe",
-      "title": "Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining",
-      "summary": "Anthropic's AI model Claude found a previously unknown enzyme system in DNA databases, doing most of the analysis on its own. The article Anthropic says Claude discovered a new…",
-      "link": "https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/claude_enzyme.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T16:04:26+00:00"
-    },
-    {
-      "id": "d3c307d5da033bf9",
-      "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
-      "summary": "\"There will obviously be legal consequences,\" prime minister promises.",
-      "link": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1336652477-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T16:01:16+00:00"
-    },
-    {
-      "id": "389d6d36bc4d2fd2",
-      "title": "AI performance costs are falling faster than those of any previous technology",
-      "summary": "AI is hitting a fixed benchmark performance level at a rapidly falling cost. Epoch AI measures a price decline of about 13x per year. After stripping out hardware gains and…",
-      "link": "https://the-decoder.com/ai-performance-costs-are-falling-faster-than-those-of-any-previous-technology/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/epoch_ai_plunging_price.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T16:00:18+00:00"
-    },
-    {
-      "id": "f450f8a8f92aa8f2",
-      "title": "Google tests letting Gemini call businesses for you",
-      "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
-      "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-24T16:00:00+00:00"
-    },
-    {
-      "id": "0e7651487778d943",
-      "title": "IA vai fazer compras por você? Google diz onde isso deve acontecer primeiro",
-      "summary": "Até que ponto a inteligência artificial vai te ajudar a fazer compras online? Para André Alves, diretor para pequenas e médias empresas e startups do Google Cloud na América…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-vai-fazer-compras-por-voce-google-diz-onde-isso-deve-acontecer-primeiro/",
-      "image": "https://tl.ctcdn.com.br/WB_bsRvFDaWxDCZQ6sQrjgtr-28=/0x0/filters:format(webp):quality(85)/7959b5fa-bef0-473c-a9b3-6662703746f4.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T16:00:00+00:00"
-    },
-    {
-      "id": "0dc3236c48b9fa9f",
-      "title": "Muse Charm: Meta surpreende e lança “Tamagotchi de IA”",
-      "summary": "Chaveiro tem tela com avatar personalizável e sensor de impressão digital. Muse Charm: Meta surpreende e lança “Tamagotchi de IA”",
-      "link": "https://tecnoblog.net/noticias/muse-charm-meta-surpreende-e-lanca-tamagotchi-de-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/w9rynj0ukwo.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T15:39:52+00:00"
-    },
-    {
-      "id": "c35159179d95f1ab",
-      "title": "Google é processado em R$ 100 milhões por canais do YouTube com falsos médicos criados por IA",
-      "summary": "Google enfrenta ação de R$ 100 milhões por canais do YouTube com avatares de médicos e tratamentos sem comprovação científica. O post Google é processado em R$ 100 milhões por…",
-      "link": "https://olhardigital.com.br/2026/09/24/internet-e-redes-sociais/google-e-processado-em-r-100-milhoes-por-canais-do-youtube-com-falsos-medicos-criados-por-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/medico-ia-1024x687.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T15:07:10+00:00"
     }
   ]
 }
