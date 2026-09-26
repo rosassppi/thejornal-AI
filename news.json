@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-26T10:50:27.695932+00:00",
+  "generated_at": "2026-09-26T15:48:51.628533+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "feac97c0d0c1b334",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-26T14:00:00+00:00"
+    },
+    {
+      "id": "89f9618650b31d06",
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two…",
+      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-26T14:00:00+00:00"
+    },
+    {
+      "id": "8519730b23f266ea",
+      "title": "Sol ou Luna? Entenda a diferença entre os novos modelos da OpenAI e saiba qual escolher",
+      "summary": "A OpenAI ampliou a família GPT-6 com dois novos modelos de inteligência artificial: GPT-6 Sol e GPT-6 Luna . Os dois chegam como opções mais acessíveis para diferentes tipos de…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/gpt-sol-luna-entenda-diferencas-e-qual-escolher/",
+      "image": "https://tl.ctcdn.com.br/M97dFogcb8WuR352m8LixgtgapI=/0x0/filters:format(webp):quality(85)/483c949e-c9ea-41be-b2a9-e0fcfe03b894.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-26T13:00:00+00:00"
+    },
+    {
+      "id": "3b48393db4013bd2",
+      "title": "Como funciona a memória do Claude?",
+      "summary": "O Claude registra informações na memória que podem ser usadas em diferentes chats para que a inteligência artificial mantenha contexto sobre o usuário ao longo do tempo. O recurso…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-funciona-a-memoria-do-claude/",
+      "image": "https://tl.ctcdn.com.br/V_m3L7PCGu1dxxWPI7PkOEJWOA8=/0x0/filters:format(webp):quality(85)/4ef463f1-605c-4ee7-be94-35fafeebbf38.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-26T11:00:00+00:00"
+    },
     {
       "id": "2c92b152edce7451",
       "title": "Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness",
@@ -947,50 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-24T17:11:47+00:00"
-    },
-    {
-      "id": "dac80f12a88a9c0a",
-      "title": "Muse sure looks a lot like OpenClaw",
-      "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active…",
-      "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268774_The_hottest_AI_agent_platforms_are_just_OpenClaw_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T17:10:38+00:00"
-    },
-    {
-      "id": "772b98a6af4984ff",
-      "title": "Muse deve ser a nova IA dos Ray-Ban Meta; veja o que vai mudar de verdade",
-      "summary": "A Meta está preparando o Muse para assumir o posto de principal assistente de inteligência artificial dos Ray-Ban Meta. O agente, que ainda está em testes beta, poderá substituir…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/muse-deve-ser-a-nova-ia-dos-ray-ban-meta-veja-o-que-vai-mudar-de-verdade/",
-      "image": "https://tl.ctcdn.com.br/i6A_JrbKrH8oT1X3-auuTbeoJ7M=/0x0/filters:format(webp):quality(85)/2d04a7d1-167e-4fa7-b34f-41da57b2a1a2.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T17:05:01+00:00"
-    },
-    {
-      "id": "75187a0203291ba9",
-      "title": "Black Forest Labs launches FLUX 3 Action, an open robotics AI model",
-      "summary": "Black Forest Labs is entering robotics with FLUX 3 Action. The open-world-action model uses camera feeds to predict what action a robot should take next. With just seven billion…",
-      "link": "https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/bfl_black_orest_labs_logo-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T17:01:03+00:00"
-    },
-    {
-      "id": "f97969c5d20fd4ba",
-      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
-      "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-24T17:00:00+00:00"
     }
   ]
 }
