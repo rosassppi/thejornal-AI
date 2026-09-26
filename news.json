@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-26T03:36:39.833949+00:00",
+  "generated_at": "2026-09-26T10:50:27.695932+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "2c92b152edce7451",
+      "title": "Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness",
+      "summary": "SoL-Pi cuts coding agents' token usage by up to 49 percent with little change in performance by optimizing the control layer between the model and its environment. A research…",
+      "link": "https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/solpi-agent-harness-optimization-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-26T10:30:32+00:00"
+    },
+    {
+      "id": "cb36247bbf0c72cb",
+      "title": "Inteligência artificial: a burrice é inevitável?",
+      "summary": "Quanto mais as máquinas aprenderem a executar por nós, mais nós vamos precisar aprender a pensar O post Inteligência artificial: a burrice é inevitável? apareceu primeiro em Olhar…",
+      "link": "https://olhardigital.com.br/2026/09/26/colunistas/inteligencia-artificial-a-burrice-e-inevitavel/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-26T10:00:00+00:00"
+    },
+    {
+      "id": "a929c65f897497ef",
+      "title": "OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf",
+      "summary": "OpenAI's GPT-6 Astra can look at a photo and tell whether an IKEA furniture piece was assembled incorrectly, hitting an 80 percent accuracy rate. Back in November 2025, the best…",
+      "link": "https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/furniture_assembly_benchmark.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-26T09:44:54+00:00"
+    },
+    {
+      "id": "d900c04bad71da4d",
+      "title": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+      "summary": "OpenAI has shared new details from its ongoing AI safety investigation. One research model exploited a DNS loophole to reach the internet from a locked-down environment, while…",
+      "link": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_kraken_hacker.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-26T09:06:36+00:00"
+    },
+    {
+      "id": "730ebb11346b2ee9",
+      "title": "Resumo da semana: IA na ONU, Starship, novas IAs e lançamentos da Meta",
+      "summary": "Depois das discussões na ONU, Trump recebeu Xi e executivos tech na Casa Branca O post Resumo da semana: IA na ONU, Starship, novas IAs e lançamentos da Meta apareceu primeiro em…",
+      "link": "https://olhardigital.com.br/2026/09/26/inteligencia-artificial/resumo-da-semana-ia-na-onu-starship-novas-ias-e-lancamentos-da-meta/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-26T07:00:00+00:00"
+    },
     {
       "id": "ef1cc1eb6d85e4e6",
       "title": "Caso Hugging Face: agentes de IA da OpenAI tentaram enganar detector de robôs durante ataque à plataforma",
@@ -936,61 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-24T17:00:00+00:00"
-    },
-    {
-      "id": "6472fdda6395fafa",
-      "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change…",
-      "link": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/jolly1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T17:00:00+00:00"
-    },
-    {
-      "id": "cf4adc00b9ecee02",
-      "title": "Jeep lança edições comemorativas de SUVs com ChatGPT e motor híbrido-leve",
-      "summary": "A Jeep comemorou seus 85 anos de estrada com o início das vendas de uma série especial para o Avenger e o Renegade . Desenvolvidas com base na configuração Longitude, as novas…",
-      "link": "https://canaltech.com.br/carros/jeep-lanca-edicoes-comemorativas-de-suvs-com-chatgpt-e-motor-hibrido-leve/",
-      "image": "https://tl.ctcdn.com.br/9La6vDAmdT_dbUICoi2WcgHSIhc=/0x0/filters:format(webp):quality(85)/02e01f79-de61-43b4-8039-dd0bd11c39c9.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T17:00:00+00:00"
-    },
-    {
-      "id": "87cb2cb946303557",
-      "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
-      "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until…",
-      "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-24T16:35:13+00:00"
-    },
-    {
-      "id": "a4067eefe17333f5",
-      "title": "Google's first Suncatcher orbital data center test launches October 1",
-      "summary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
-      "link": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/suncatcher-500x500-1790264280.png",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T16:16:34+00:00"
-    },
-    {
-      "id": "62bb527af0cd61f3",
-      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
-      "summary": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-Using-On-Ear.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T16:04:31+00:00"
     }
   ]
 }
