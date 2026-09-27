@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-27T16:25:33.175969+00:00",
+  "generated_at": "2026-09-27T20:54:09.424796+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "32f206d5a41c9173",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-27T20:34:28+00:00"
+    },
+    {
+      "id": "f5ecb7d590289cbc",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-27T19:57:30+00:00"
+    },
+    {
+      "id": "0642499dcfa5f2b4",
+      "title": "Hora de imprimir mais e gastar menos: veja uma seleção de impressoras em promoção na Amazon",
+      "summary": "Se você está pensando em renovar a impressora de casa ou do escritório, este é um bom momento para aproveitar. Reunimos três modelos multifuncionais em oferta na Amazon — todos…",
+      "link": "https://olhardigital.com.br/2026/09/27/reviews/hora-de-imprimir-mais-e-gastar-menos-veja-uma-selecao-de-impressoras-em-promocao-na-amazon-3/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-27T18:40:00+00:00"
+    },
+    {
+      "id": "c35bd152b345cd2b",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-27T17:21:07+00:00"
+    },
+    {
+      "id": "6901e576884284fc",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-27T16:30:00+00:00"
+    },
     {
       "id": "f3e67874a297970c",
       "title": "TechCrunch Mobility: AV companies pick their lanes",
@@ -936,61 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-25T10:43:07+00:00"
-    },
-    {
-      "id": "4f2074dcfcf8e3df",
-      "title": "Adobe reúne mais de 80 ferramentas no Claude e leva Photoshop, Lightroom e Firefly ao Gemini",
-      "summary": "Gemini e Claude passam a reunir ferramentas da Adobe para editar imagens, criar designs e trabalhar com documentos PDF na conversa O post Adobe reúne mais de 80 ferramentas no…",
-      "link": "https://olhardigital.com.br/2026/09/25/inteligencia-artificial/adobe-reune-mais-de-80-ferramentas-no-claude-e-leva-photoshop-lightroom-e-firefly-ao-gemini/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/adobe-gemini-1024x449.webp",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-25T10:40:19+00:00"
-    },
-    {
-      "id": "2baf4c3ed134e7ef",
-      "title": "Trump, Xi, Musk, Altman, Zuckerberg… jantar na Casa Branca reúne quem dita o futuro da tecnologia",
-      "summary": "No cardápio, robalo, creme de baunilha e IA O post Trump, Xi, Musk, Altman, Zuckerberg… jantar na Casa Branca reúne quem dita o futuro da tecnologia apareceu primeiro em Olhar…",
-      "link": "https://olhardigital.com.br/2026/09/25/inteligencia-artificial/trump-xi-musk-altman-zuckerberg-jantar-na-casa-branca-reune-quem-dita-o-futuro-da-tecnologia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Captura-de-Tela-2026-09-25-as-13.49.01-1024x476.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-25T10:02:18+00:00"
-    },
-    {
-      "id": "5ae3624875b02540",
-      "title": "Ruby on Rails creator DHH says he's done writing code by hand",
-      "summary": "David Heinemeier Hansson, creator of Ruby on Rails, has quit writing code by hand after 25 years. He says he hasn't typed a single line since March 2026. \"English is a better…",
-      "link": "https://the-decoder.com/ruby-on-rails-creator-dhh-says-hes-done-writing-code-by-hand/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/dhh_programmier_ruecktritt.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-25T09:50:41+00:00"
-    },
-    {
-      "id": "5f5d31d8982f8e72",
-      "title": "Xiaomi lança câmera de visão noturna com IA que acompanha pessoas e animais",
-      "summary": "A Xiaomi iniciou o financiamento coletivo da Smart Camera 5 Pro , sua primeira câmera com visão noturna em cores. O modelo grava em 4K, usa duas lentes de 8 MP e 4 MP e tem…",
-      "link": "https://canaltech.com.br/produtos/xiaomi-lanca-camera-de-visao-noturna-com-ia-que-acompanha-pessoas-e-animais/",
-      "image": "https://tl.ctcdn.com.br/acxRfik7uIN_ER8gry9YbexpMQE=/0x0/filters:format(webp):quality(85)/15e44320-b0ac-4c12-9e60-c016b817e4e9.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-25T09:38:13+00:00"
-    },
-    {
-      "id": "c2d047e87e05c592",
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program…",
-      "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Altec_Poly_2.jpeg",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-25T09:16:25+00:00"
     }
   ]
 }
