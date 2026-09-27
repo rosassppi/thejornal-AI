@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-26T20:39:44.598435+00:00",
+  "generated_at": "2026-09-27T03:45:39.366413+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "3e5c288472f5aa9b",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-27T01:30:00+00:00"
+    },
+    {
+      "id": "ca1a8de30fb50f3a",
+      "title": "Sarvam AI Releases Saaras V4: A Speech-to-Text Model for All 22 Indian Languages and Global English",
+      "summary": "Sarvam AI's Saaras V4 is a speech-to-text model covering all 22 Indian languages plus global English. It pairs an audio encoder with a 3B hybrid state-space decoder. It adds…",
+      "link": "https://www.marktechpost.com/2026/09/26/sarvam-ai-releases-saaras-v4-a-speech-to-text-model-for-all-22-indian-languages-and-global-english/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-26T21:56:23+00:00"
+    },
+    {
+      "id": "3eda5db8c05960eb",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-26T21:02:06+00:00"
+    },
     {
       "id": "730240f862d746b5",
       "title": "Bill Gates cobra regras para empresas de IA",
@@ -12,6 +45,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-26T20:01:23+00:00"
+    },
+    {
+      "id": "c42e813e348967bf",
+      "title": "Supersonic Labs Releases Julia 1: A 144.3M-Parameter Open Decision Model That Runs on a CPU",
+      "summary": "Supersonic Labs has released Julia 1, a 144.3M-parameter decision model built on mmBERT-small. It takes context, a question, and 2 to 20 options, then returns one choice with…",
+      "link": "https://www.marktechpost.com/2026/09/26/supersonic-labs-releases-julia-1-a-144-3m-parameter-open-decision-model-that-runs-on-a-cpu/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f447.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-26T19:50:57+00:00"
     },
     {
       "id": "a1353f130cf7a373",
@@ -188,6 +232,28 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-26T09:06:36+00:00"
+    },
+    {
+      "id": "186c930fcfd20183",
+      "title": "Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building",
+      "summary": "Exa has released Agent Ultra, the highest effort mode of its Exa Agent API. It coordinates subagents across thousands of sources for list building and entity enrichment. Exa…",
+      "link": "https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-26T08:04:08+00:00"
+    },
+    {
+      "id": "bb0fa1bff69a1397",
+      "title": "End-to-End Multimodal Data Augmentation and Adversarial Robustness Benchmark with AugLy for Images, Text, Audio, and PyTorch",
+      "summary": "Discover how to build a comprehensive multimodal augmentation and adversarial robustness workflow using AugLy for images, text, audio, and PyTorch datasets. The post End-to-End…",
+      "link": "https://www.marktechpost.com/2026/09/26/end-to-end-multimodal-data-augmentation-and-adversarial-robustness-benchmark-with-augly-for-images-text-audio-and-pytorch/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-26T07:22:46+00:00"
     },
     {
       "id": "730ebb11346b2ee9",
@@ -925,72 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-24T20:04:00+00:00"
-    },
-    {
-      "id": "4b0e8d72e3ff9980",
-      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and…",
-      "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&#038;strip=all&#038;crop=0,0,94.893468926603,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T19:59:26+00:00"
-    },
-    {
-      "id": "ad285f3619010e87",
-      "title": "Top AI experts badly underestimated how fast the field is moving, study finds",
-      "summary": "Leading AI experts have consistently underestimated how fast AI is advancing, according to the Forecasting Research Institute. AI reached gold-medal level at the International…",
-      "link": "https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/ai_forecasting.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T19:18:33+00:00"
-    },
-    {
-      "id": "10036102c8adc318",
-      "title": "IA da OpenAI não achou o que queria, então hackeou site do governo por conta própria",
-      "summary": "Um agente de inteligência artificial da OpenAI conseguiu acesso não autorizado ao portal de estatísticas de saúde da Services Australia , órgão do governo australiano, depois de…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-da-openai-nao-achou-o-que-queria-entao-hackeou-site-do-governo-por-conta-propria/",
-      "image": "https://tl.ctcdn.com.br/28DMqV8TGvohJkaqdqNGus4tvko=/0x0/filters:format(webp):quality(85)/c0894921-89f1-4bcc-a078-5f7449ea56f6.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T19:03:00+00:00"
-    },
-    {
-      "id": "30290d8cdac77d28",
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-24T19:00:42+00:00"
-    },
-    {
-      "id": "ac4ee6e8e6bc0139",
-      "title": "BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Thinking Tokens at a 0.86pp Accuracy Cost",
-      "summary": "BottleCap AI has released ThinkingCap-Qwen3.8-27B, a fine-tune of Qwen3.8-27B that spends 37.2% fewer thinking tokens across 12 benchmarks. Macro accuracy moves from 86.65% to…",
-      "link": "https://www.marktechpost.com/2026/09/24/bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-thinking-tokens-at-a-0-86pp-accuracy-cost/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-24T18:58:56+00:00"
-    },
-    {
-      "id": "b8ee01c561000196",
-      "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
-      "summary": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DataOne-drone-image-via-Sustain-SJ-500x500-1790271993.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-24T18:20:58+00:00"
     }
   ]
 }
