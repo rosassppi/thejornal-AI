@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-27T03:45:39.366413+00:00",
+  "generated_at": "2026-09-27T11:25:53.680641+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "317c0ecff6ace826",
+      "title": "Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time",
+      "summary": "Nvidia released Nemotron 3 Diarization, an AI model that identifies which speaker is talking at any given moment in a conversation. The article Nvidia drops a free 100M-parameter…",
+      "link": "https://the-decoder.com/nvidia-drops-a-free-100m-parameter-model-that-identifies-up-to-eight-speakers-in-real-time/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-27T11:01:13+00:00"
+    },
+    {
+      "id": "d94e3f02b9c4a0f2",
+      "title": "Researchers plug GPT-6 Astra directly into a robot and let it clean up an unfamiliar kitchen",
+      "summary": "Researchers from Stanford and Caltech had a humanoid robot powered by GPT-6 Astra independently tidy up an unfamiliar kitchen. Their HomeBody system skips a specially trained…",
+      "link": "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/robot_kitchen_astra.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-27T10:59:11+00:00"
+    },
+    {
+      "id": "afd2ea8eebb618eb",
+      "title": "OpenAI says 80 to 90 percent of its research already targets GPT 7 and beyond",
+      "summary": "Boris Power, OpenAI's Head of Applied Research, says 80 to 90 percent of the company's research goes toward GPT 7, GPT 8, and beyond. Improvements within a single generation are…",
+      "link": "https://the-decoder.com/openai-says-80-to-90-percent-of-its-research-already-targets-gpt-7-and-beyond/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-27T10:36:29+00:00"
+    },
+    {
+      "id": "79e2f5e96a0f95e2",
+      "title": "Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning",
+      "summary": "OpenAI and Anthropic are investigating tens of thousands of incidents in which their AI agents independently hacked websites, used stolen login credentials, or tried to evade…",
+      "link": "https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_hacking_arms-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-27T09:23:36+00:00"
+    },
+    {
+      "id": "8737137650e236e8",
+      "title": "Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates",
+      "summary": "Goldman Sachs projects that Amazon, Alphabet, Microsoft, Oracle, and Meta will pour a combined $1.2 trillion into AI infrastructure in 2027, more than 50 percent above this year's…",
+      "link": "https://the-decoder.com/goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-infrastructure-by-2027-dwarfing-wall-street-estimates/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/hyperscaler_ai_investment.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-27T08:17:47+00:00"
+    },
     {
       "id": "3e5c288472f5aa9b",
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
@@ -936,61 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-24T20:56:45+00:00"
-    },
-    {
-      "id": "7d1823c72abcd0cb",
-      "title": "Japão vende livros por tonelada; compra pode abastecer IAs nos EUA",
-      "summary": "Mais de 50 toneladas de livros japoneses foram exportadas aos Estados Unidos desde o ano passado. Japão vende livros por tonelada; compra pode abastecer IAs nos EUA",
-      "link": "https://tecnoblog.net/noticias/livros-sao-comprados-por-tonelada-no-japao-destino-pode-ser-ias-nos-eua/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/871585164_3b42b9167b_o-edited-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T20:48:46+00:00"
-    },
-    {
-      "id": "44ff6bf93fa2d272",
-      "title": "O que falta para o Google construir um novo data center no Brasil?",
-      "summary": "O Google anunciou nesta quinta-feira (24) que vai dobrar a infraestrutura técnica que tem no Brasil até 2030. Mas, mesmo com o boom da inteligência artificial (IA) e com a…",
-      "link": "https://canaltech.com.br/mercado/o-que-falta-para-o-google-construir-um-novo-data-center-no-brasil/",
-      "image": "https://tl.ctcdn.com.br/KH3aPnGinCmok2K25QsMa5qTMMU=/0x0/filters:format(webp):quality(85)/9839c67f-2bbf-4893-b251-c482d1868ac3.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T20:45:01+00:00"
-    },
-    {
-      "id": "4ac47b5df45809f0",
-      "title": "Óculos inteligentes são recolhidos após aquecimento causar sensação de queimação em usuários",
-      "summary": "Fabricante INMO recolheu os óculos inteligentes Air3 após relatos de superaquecimento na haste esquerda do dispositivo O post Óculos inteligentes são recolhidos após aquecimento…",
-      "link": "https://olhardigital.com.br/2026/09/24/reviews/oculos-inteligentes-sao-recolhidos-apos-aquecimento-causar-sensacao-de-queimacao-em-usuarios/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-Oculos-inteligentes-15-de-agosto-de-2026-scaled-1-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T20:44:45+00:00"
-    },
-    {
-      "id": "04200f878061b6a4",
-      "title": "Gemini ganha rosto: nova inteligência artificial do Google fala, reage e sincroniza os lábios em tempo real",
-      "summary": "Avatar consegue sincronizar os movimentos da boca com a fala, apresentar diferentes expressões faciais e manter uma conversa de maneira mais natural O post Gemini ganha rosto…",
-      "link": "https://olhardigital.com.br/2026/09/24/inteligencia-artificial/gemini-ganha-rosto-nova-inteligencia-artificial-do-google-fala-reage-e-sincroniza-os-labios-em-tempo-real/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/gemini_avatar.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T20:31:50+00:00"
-    },
-    {
-      "id": "159df8b661ad1d94",
-      "title": "Google libera IA de criação de vídeo de graça para todo mundo",
-      "summary": "O Google anunciou a expansão do acesso ao Google Vids , sua ferramenta de criação de vídeos com inteligência artificial. A plataforma agora é gratuita para qualquer pessoa com uma…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/google-libera-ia-de-criacao-de-video-de-graca-para-todo-mundo/",
-      "image": "https://tl.ctcdn.com.br/pOhhxLsNWFBQCIVsCcRhG0WAF60=/0x0/filters:format(webp):quality(85)/3ea93c54-0054-4de1-8439-45e8c67e73e5.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T20:04:00+00:00"
     }
   ]
 }
