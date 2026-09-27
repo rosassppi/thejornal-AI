@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-27T11:25:53.680641+00:00",
+  "generated_at": "2026-09-27T16:25:33.175969+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "f3e67874a297970c",
+      "title": "TechCrunch Mobility: AV companies pick their lanes",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-27T16:02:00+00:00"
+    },
+    {
+      "id": "03ac762b2af46999",
+      "title": "AI agents do more of the work in model development, but humans still make the decisions",
+      "summary": "A research team analyzed 769 task logs from building its own AI model. AI agents supplied up to 55 percent of method proposals, but humans made more than 85 percent of final…",
+      "link": "https://the-decoder.com/ai-agents-do-more-of-the-work-in-model-development-but-humans-still-make-the-decisions/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/research-tree-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-27T15:18:39+00:00"
+    },
+    {
+      "id": "8d154dc4ea2a65b8",
+      "title": "Quais são os benefícios para quem assina o Meta One?",
+      "summary": "O Meta One é o novo serviço de assinaturas da Meta, com planos que reúnem recursos extras para Instagram, Facebook, WhatsApp e Meta AI. Os preços variam de US$ 7,99 a US$ 499 por…",
+      "link": "https://canaltech.com.br/apps/beneficios-assinantes-do-meta-one/",
+      "image": "https://tl.ctcdn.com.br/DSZcmrlDHgTzaHW4afJ9P_etInY=/0x0/filters:format(webp):quality(85)/a01bea27-bc4c-40ec-92a0-76865e5f7148.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-27T14:30:01+00:00"
+    },
+    {
+      "id": "f3968fd75263a1dc",
+      "title": "Some Anthropic veterans are reportedly buying remote land in case \"AI goes awry\"",
+      "summary": "According to the Wall Street Journal, some of Anthropic's longest-serving employees are considering buying land in remote parts of the US as a refuge in case AI goes awry. The…",
+      "link": "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/anthropic_amodei.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-27T13:03:05+00:00"
+    },
+    {
+      "id": "ff89b36effe2bb74",
+      "title": "O que é a antropomorfização da IA?",
+      "summary": "É cada vez mais comum encontrar pessoas conversando com sistemas de Inteligência Artificial (IA) como se estivessem diante de outro ser humano . Os usuários dão nomes aos…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-e-a-antropomorfizacao-da-ia/",
+      "image": "https://tl.ctcdn.com.br/HOWjQKvx2Z2j7DfpaVA2X-qRSWg=/0x0/filters:format(webp):quality(85)/31d129a3-92ae-496b-b368-f64183fe11aa.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-27T13:00:00+00:00"
+    },
     {
       "id": "317c0ecff6ace826",
       "title": "Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time",
@@ -56,6 +111,28 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-27T08:17:47+00:00"
+    },
+    {
+      "id": "f3edeefdfdbe0356",
+      "title": "AI Coding Agents for Enterprise: IP Indemnity, Data Residency and 500-Seat Cost Compared",
+      "summary": "We read the contracts behind GitHub Copilot, AWS Kiro, Cursor, Devin and Windsurf. Copilot and Kiro offer uncapped indemnity on generated code. Cognition's standard terms exclude…",
+      "link": "https://www.marktechpost.com/2026/09/26/ai-coding-agents-for-enterprise-ip-indemnity-data-residency-and-500-seat-cost-compared/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-27T05:57:51+00:00"
+    },
+    {
+      "id": "1f45d72e6ac9f3d4",
+      "title": "A Coding Guide to Google Research’s MSEB: Writing Sound Encoders to the Benchmark Contract and Scoring Them Across Classification, Clustering, Retrieval and Segmentation",
+      "summary": "A comprehensive coding tutorial on Google Research's Massive Sound Embedding Benchmark (MSEB), demonstrating how to implement custom sound encoders, drive classification…",
+      "link": "https://www.marktechpost.com/2026/09/26/a-coding-guide-to-google-researchs-mseb-writing-sound-encoders-to-the-benchmark-contract-and-scoring-them-across-classification-clustering-retrieval-and-segmentation/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-27T05:42:35+00:00"
     },
     {
       "id": "3e5c288472f5aa9b",
@@ -914,83 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-09-25T09:16:25+00:00"
-    },
-    {
-      "id": "1ee08c5b8db9f958",
-      "title": "White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers",
-      "summary": "The White House wants OpenAI and Anthropic to hold back new AI models from the U.K.'s AI Safety Institute until U.S. agencies get to review them first. The article White House…",
-      "link": "https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/usa_aisi.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-25T08:12:14+00:00"
-    },
-    {
-      "id": "ff3979163f0a6a79",
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-25T05:00:00+00:00"
-    },
-    {
-      "id": "fae7fc1a9d34d270",
-      "title": "Fastino Releases GLiNER2.5-Decide: A 340M Open-Weight Decision Model That Runs on CPU",
-      "summary": "Fastino Labs has released GLiNER2.5-Decide, a 340M-parameter open-weight decision model. It takes text and a schema of typed questions and returns structured answers. Each answer…",
-      "link": "https://www.marktechpost.com/2026/09/24/fastino-releases-gliner2-5-decide-a-340m-open-weight-decision-model-that-runs-on-cpu/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-25T04:46:38+00:00"
-    },
-    {
-      "id": "421e4de10989a119",
-      "title": "Black Forest Labs Releases FLUX 3 Action: A 7B Open-Weights World Action Model That Tops RoboLab-120",
-      "summary": "Black Forest Labs (BFL), the lab behind the FLUX image models, has released FLUX 3 Action. It is a 7B open-weights World Action Model (WAM) for robot control. The model reads…",
-      "link": "https://www.marktechpost.com/2026/09/24/black-forest-labs-releases-flux-3-action-a-7b-open-weights-world-action-model-that-tops-robolab-120/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-25T04:24:01+00:00"
-    },
-    {
-      "id": "7345fb763f5bf5f2",
-      "title": "Trump, presidente da Câmara dos EUA e CEOs de tecnologia terão reunião sobre inteligência artificial na terça (29)",
-      "summary": "Reunião ocorre em meio ao avanço acelerado da IA e às discussões sobre como governos devem lidar com os riscos associados a sistemas cada vez mais poderosos O post Trump…",
-      "link": "https://olhardigital.com.br/2026/09/24/pro/trump-presidente-da-camara-dos-eua-e-ceos-de-tecnologia-terao-reuniao-sobre-inteligencia-artificial-na-terca-29/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/IA-bomba-atomica-ONU-1024x576.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-25T01:24:07+00:00"
-    },
-    {
-      "id": "3cc7f473b551b1fb",
-      "title": "Google, OpenAI e Anthropic se unem para criar órgão de segurança para inteligência artificial",
-      "summary": "Proposta é que a entidade opere de maneira independente e ajude a preencher lacunas na supervisão governamental sobre a IA O post Google, OpenAI e Anthropic se unem para criar…",
-      "link": "https://olhardigital.com.br/2026/09/24/inteligencia-artificial/google-openai-e-anthropic-se-unem-para-criar-orgao-de-seguranca-para-inteligencia-artificial/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/altman-amodei-1024x640.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T22:53:53+00:00"
-    },
-    {
-      "id": "e2615b1e35a14cd1",
-      "title": "IA do Google vai fazer ligações por você",
-      "summary": "Ferramenta chega aos donos do Pixel 11 nos Estados Unidos. IA do Google vai fazer ligações por você",
-      "link": "https://tecnoblog.net/noticias/ia-do-google-vai-fazer-ligacoes-por-voce/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-1-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-24T20:56:45+00:00"
     }
   ]
 }
