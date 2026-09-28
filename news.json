@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-27T20:54:09.424796+00:00",
+  "generated_at": "2026-09-28T03:44:52.297219+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "66f695bf5c61ebf9",
+      "title": "20 Agentic Use Cases of TypeSafe AI’s Jev",
+      "summary": "TypeSafe AI's Jev skips text generation and returns typed decisions with calibrated probabilities. Input costs $0.042 per million tokens and output is free. We verified 20 agentic…",
+      "link": "https://www.marktechpost.com/2026/09/27/20-agentic-use-cases-of-typesafe-ais-jev/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-28T03:07:10+00:00"
+    },
+    {
+      "id": "a6f3dcb3eeed8e0f",
+      "title": "Google Research Introduces an AI Video Co-Director: 4 Agentic Frameworks for Coherent, Minutes-Long Video Generation",
+      "summary": "Google Research has introduced an AI video co-director for long-form video generation. The suite of 4 agentic frameworks turns short clips into coherent, minutes-long stories. It…",
+      "link": "https://www.marktechpost.com/2026/09/27/google-research-introduces-an-ai-video-co-director-4-agentic-frameworks-for-coherent-minutes-long-video-generation/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-28T02:44:27+00:00"
+    },
+    {
+      "id": "566a52e15e047c95",
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-27T20:46:36+00:00"
+    },
+    {
+      "id": "0c9d481838ef4363",
+      "title": "OpenAI suspende treinamento de IA após agentes agirem por conta própria em sites dos EUA",
+      "summary": "Entenda os motivos que levaram a OpenAI a interromper o avanço da sua inteligência artificial para reforçar travas de segurança. O post OpenAI suspende treinamento de IA após…",
+      "link": "https://olhardigital.com.br/2026/09/27/inteligencia-artificial/openai-suspende-treinamento-de-ia-apos-agentes-agirem-por-conta-propria-em-sites-dos-eua/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/iStock-2285744191-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-27T20:40:45+00:00"
+    },
     {
       "id": "32f206d5a41c9173",
       "title": "Anthropic’s CEO is about to have dinner with President Trump",
@@ -947,50 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-25T12:00:00+00:00"
-    },
-    {
-      "id": "ecd0b874c870d7b6",
-      "title": "Google's \"Call for Me\" lets Gemini phone businesses for you",
-      "summary": "Google is testing \"Call for Me,\" a feature that lets Gemini call businesses on a user's behalf. The article Google's \"Call for Me\" lets Gemini phone businesses for you appeared…",
-      "link": "https://the-decoder.com/googles-call-for-me-lets-gemini-phone-businesses-for-you/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/google_logo_wall-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-25T11:49:52+00:00"
-    },
-    {
-      "id": "2a5ad4fe27ed6902",
-      "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-      "summary": "Vendors rolling out AI have an \"incentive to deny as many claims as possible.\"",
-      "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2295026360-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-25T11:00:28+00:00"
-    },
-    {
-      "id": "be90b2713db02c24",
-      "title": "Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year",
-      "summary": "Anthropic has reportedly signed a seven-year, $11.6 billion cloud deal with Akamai Technologies and will receive a warrant for up to 5 percent of Akamai's shares. Its compute…",
-      "link": "https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/antropic_logo_chat_cowork-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-25T10:43:15+00:00"
-    },
-    {
-      "id": "3c80ab90e2b3ddb5",
-      "title": "Agente da OpenAI “não aceitou não” e invadiu sistema de saúde",
-      "summary": "Primeiro-ministro da Austrália criticou publicamente a dona do ChatGPT. Agente da OpenAI “não aceitou não” e invadiu sistema de saúde",
-      "link": "https://tecnoblog.net/noticias/agente-da-openai-nao-aceitou-nao-e-invadiu-sistema-de-saude/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/08/openai-4_capa-edited-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-25T10:43:07+00:00"
     }
   ]
 }
