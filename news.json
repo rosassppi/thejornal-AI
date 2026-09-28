@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-09-28T03:44:52.297219+00:00",
+  "generated_at": "2026-09-28T12:57:15.114311+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "0d7108f623f55d9b",
+      "title": "Every AI lab thinks it's the responsible one, and safety researcher Ryan Greenblatt says that's what keeps the arms race going",
+      "summary": "Ryan Greenblatt, chief scientist at Redwood Research, puts the risk of an AI takeover at 50 to 60 percent if development stays on its current path. Sam Harris says that doesn't…",
+      "link": "https://the-decoder.com/every-ai-lab-thinks-its-the-responsible-one-and-safety-researcher-ryan-greenblatt-says-thats-what-keeps-the-arms-race-going/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_anthropic_hack.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-28T12:11:27+00:00"
+    },
+    {
+      "id": "ef8a8db953fb916a",
+      "title": "Adeus ao Copilot+ PC? Microsoft, silenciosamente, mata selo em novos notebooks",
+      "summary": "O selo Copilot+ PC não aparece nos novos notebooks Surface, da própria Microsoft, e mostra que a companhia está com novos planos para os computadores com Windows e inteligência…",
+      "link": "https://canaltech.com.br/notebook/adeus-ao-copilot-pc-microsoft-silenciosamente-mata-selo-em-novos-notebooks/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-28T11:43:23+00:00"
+    },
+    {
+      "id": "2096ebd058cdc60a",
+      "title": "Nvidia cria novo sistema para conter agentes de IA que tentam escapar de restrições",
+      "summary": "Nvidia lança novas ferramentas para conter agentes de IA, com OpenShell e Sentry criados para detectar tentativas de fuga O post Nvidia cria novo sistema para conter agentes de IA…",
+      "link": "https://olhardigital.com.br/2026/09/28/inteligencia-artificial/nvidia-cria-novo-sistema-para-conter-agentes-de-ia-que-tentam-escapar-de-restricoes/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-IA-fora-de-controle-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-28T11:42:31+00:00"
+    },
+    {
+      "id": "af2be13b22cc899b",
+      "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+      "summary": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
+      "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/microsoft-data-center-champion-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-28T11:00:09+00:00"
+    },
+    {
+      "id": "9e76cd6abbbbd28e",
+      "title": "Campainha usa realidade virtual para mostrar tudo ao redor de quem toca a porta",
+      "summary": "A Eufy, marca de casa inteligente da Anker, lançou a Video Doorbell S4, uma campainha com visualização em realidade virtual (VR). A novidade permite olhar ao redor da entrada da…",
+      "link": "https://canaltech.com.br/produtos/campainha-usa-realidade-virtual-para-mostrar-tudo-ao-redor-de-quem-toca-a-porta/",
+      "image": "https://tl.ctcdn.com.br/YSL9dYHmDtXXOATsBtYbocSnTG8=/0x0/filters:format(webp):quality(85)/2d0295c0-df6f-4dd6-b424-9243ec6ff6e0.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-28T10:40:40+00:00"
+    },
+    {
+      "id": "1208c43fff5d2e4e",
+      "title": "A Wuhan court just made AI production costs a legal factor in copyright infringement cases",
+      "summary": "A court in Wuhan, China has factored token usage and AI tool licensing fees into a copyright damages calculation for the first time. The ruling is part of China's broader push to…",
+      "link": "https://the-decoder.com/a-wuhan-court-just-made-ai-production-costs-a-legal-factor-in-copyright-infringement-cases/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/wuhan_court_token_costs.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-28T10:39:52+00:00"
+    },
+    {
+      "id": "09d1d26fa19dd694",
+      "title": "Holo4: powering generalist computer-use agents",
+      "summary": "",
+      "link": "https://huggingface.co/blog/Hcompany/holo4",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-28T09:44:05+00:00"
+    },
+    {
+      "id": "9b8486475fb0050a",
+      "title": "Who’s liable when AI agents go rogue?",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here…",
+      "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-28T08:06:22+00:00"
+    },
     {
       "id": "66f695bf5c61ebf9",
       "title": "20 Agentic Use Cases of TypeSafe AI’s Jev",
@@ -903,94 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-09-25T14:30:26+00:00"
-    },
-    {
-      "id": "f46b004db3f9f699",
-      "title": "Smart TV OLED Samsung 55″ sai 36% mais barata no Magalu",
-      "summary": "Samsung Vision AI OLED S85H de 55\" tem tela 4K de 120 Hz e chatbots de IA; nova smart TV com recursos para gamers recebe desconto de 36% no Pix no Magazine Luiza Smart TV OLED…",
-      "link": "https://tecnoblog.net/achados/smart-tv-oled-samsung-55-sai-36-mais-barata-no-magalu/",
-      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/09/samsung-smart-tv-oled-s85h-achados-1060x596.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-25T14:22:18+00:00"
-    },
-    {
-      "id": "3cbfa85c3a7c02ef",
-      "title": "É o fim do Copilot+ PC: Microsoft abandona silenciosamente a marca",
-      "summary": "Microsoft deixou de usar selo Copilot+ PC nos lançamentos mais recentes da linha Surface. Outros fabricantes devem seguir pelo mesmo caminho. É o fim do Copilot+ PC: Microsoft…",
-      "link": "https://tecnoblog.net/noticias/e-o-fim-do-copilot-pc-microsoft-abandona-silenciosamente-a-marca/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/4gras4yyncq.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-25T13:05:30+00:00"
-    },
-    {
-      "id": "e1feca659d7c0d60",
-      "title": "Google promete Gemini 4 antes do previsto; veja o que ainda falta no modelo",
-      "summary": "O Google está perto de concluir o Gemini 4 , próxima geração do seu principal modelo de inteligência artificial (IA). Koray Kavukcuoglu, novo chefe do Google DeepMind, afirmou que…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/google-promete-gemini-4-antes-do-previsto-veja-o-que-ainda-falta-no-modelo/",
-      "image": "https://tl.ctcdn.com.br/WB_bsRvFDaWxDCZQ6sQrjgtr-28=/0x0/filters:format(webp):quality(85)/7959b5fa-bef0-473c-a9b3-6662703746f4.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-25T13:00:07+00:00"
-    },
-    {
-      "id": "c58ed3cc3208b882",
-      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-      "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment…",
-      "link": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5897.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-25T13:00:00+00:00"
-    },
-    {
-      "id": "2a98d8d5078336c8",
-      "title": "Meta's Muse agent gives every user a full cloud computer running Ubuntu Linux",
-      "summary": "Meta gives every Muse user a free cloud computer running Ubuntu Linux where they can install software, write code, and browse the web. A \"Sentinel\" process monitors sensitive…",
-      "link": "https://the-decoder.com/metas-muse-agent-gives-every-user-a-full-cloud-computer-running-ubuntu-linux/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/meta_muse.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-25T12:22:27+00:00"
-    },
-    {
-      "id": "ed942237ce811032",
-      "title": "Intelligence doesn't come cheap as AI drives up costs for the NSA, hospitals, and insurers",
-      "summary": "The NSA is already spending billions of dollars to test advanced AI models, mostly on computing power, according to The Washington Sun. Lawmakers expect full-scale AI oversight to…",
-      "link": "https://the-decoder.com/intelligence-doesnt-come-cheap-as-ai-drives-up-costs-for-the-nsa-hospitals-and-insurers/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/KI-Kosten-Explosion-title.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-25T12:03:24+00:00"
-    },
-    {
-      "id": "ab39be4845514124",
-      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-      "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface…",
-      "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/copilothed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-25T12:00:00+00:00"
-    },
-    {
-      "id": "ee0b448d109ec680",
-      "title": "Microsoft anuncia agente de IA que trabalha 24 horas por dia",
-      "summary": "O Autopilot faz parte da reformulação do aplicativo Copilot, que também ganha novas abas. Microsoft anuncia agente de IA que trabalha 24 horas por dia",
-      "link": "https://tecnoblog.net/noticias/microsoft-anuncia-agente-24x7-chamado-autopilot/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/new-copilot-edited-1-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-25T12:00:00+00:00"
     }
   ]
 }
