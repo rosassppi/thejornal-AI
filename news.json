@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-28T22:57:17.362103+00:00",
+  "generated_at": "2026-09-29T04:19:36.806845+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "d4124a90bca287c7",
+      "title": "AMD anuncia aquisição de empresa de inteligência artificial de pesquisadora por R$ 44,3 bilhões",
+      "summary": "World Labs, sediada em São Francisco (EUA), desenvolve os chamados modelos de mundo, sistemas capazes de simular ambientes tridimensionais O post AMD anuncia aquisição de empresa…",
+      "link": "https://olhardigital.com.br/2026/09/28/pro/amd-anuncia-aquisicao-de-empresa-de-inteligencia-artificial-de-pesquisadora-por-r-44-3-bilhoes/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2024/07/fei-fei-li-2-1024x768.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-29T01:53:52+00:00"
+    },
+    {
+      "id": "f0b382838b9f90fd",
+      "title": "Anthropic detalha valor de IPO e custos bilionários com inteligência artificial em prospecto",
+      "summary": "Prospecto para IPO revela tamanho do desafio financeiro para sustentar a visão de que a IA poderá transformar a economia mundial de forma ainda mais profunda do que a…",
+      "link": "https://olhardigital.com.br/2026/09/28/pro/anthropic-detalha-valor-de-ipo-e-custos-bilionarios-com-inteligencia-artificial-em-prospecto/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-Dario-Amodei-e-Anthropic-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-29T01:01:58+00:00"
+    },
+    {
+      "id": "94f618bd2c15d881",
+      "title": "Bill Gates dispara novo alerta e diz que IA pode causar 1 bilhão de mortes",
+      "summary": "Bill Gates voltou a alertar para os riscos da inteligência artificial (IA) e afirmou que a tecnologia, quando usada por pessoas mal-intencionadas, já pode ser poderosa o…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/bill-gates-dispara-novo-alerta-e-diz-que-ia-pode-causar-1-bilhao-de-mortes/",
+      "image": "https://tl.ctcdn.com.br/CZoBca4RhsgnojwSP0-a-kqVthY=/0x0/filters:format(webp):quality(85)/b50085d8-8609-4d76-9b07-2d989f937aea.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-29T00:01:00+00:00"
+    },
+    {
+      "id": "5e6a557ab2681a8e",
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-28T23:39:20+00:00"
+    },
     {
       "id": "032b0e2a6b1375f5",
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
@@ -254,6 +298,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-28T19:04:00+00:00"
+    },
+    {
+      "id": "50d71cd52400f551",
+      "title": "How we will do better for Australia",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-28T19:00:00+00:00"
     },
     {
       "id": "db713ef86bd59ea8",
@@ -936,61 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-09-26T19:50:57+00:00"
-    },
-    {
-      "id": "a1353f130cf7a373",
-      "title": "OpenAI amplia revisão de comportamento de modelos de IA após novos incidentes",
-      "summary": "De acordo com a OpenAI, a maioria dos comportamentos inesperados de agentes de IA identificados até agora é de baixa gravidade O post OpenAI amplia revisão de comportamento de…",
-      "link": "https://olhardigital.com.br/2026/09/26/inteligencia-artificial/openai-amplia-revisao-de-comportamento-de-modelos-de-ia-apos-novos-incidentes/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/sam_altman_openai-scaled-1-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-26T19:30:00+00:00"
-    },
-    {
-      "id": "c4ed735e90cb70b7",
-      "title": "Former Ukrainian Defense Minister Fedorov pitches a private-sector robot army",
-      "summary": "Former Ukrainian Defense Minister Mykhailo Fedorov has announced \"Army of Robots,\" a private combat robotics initiative. The robots would handle casualty evacuation, mine…",
-      "link": "https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/robot_warfare.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-26T19:10:20+00:00"
-    },
-    {
-      "id": "25471cac75c09454",
-      "title": "Hora de imprimir mais e gastar menos: veja uma seleção de impressoras em promoção na Amazon",
-      "summary": "Seja para o home office, para os estudos ou para uso doméstico, uma boa impressora faz toda a diferença no dia a dia. Separamos três opções multifuncionais que estão em destaque…",
-      "link": "https://olhardigital.com.br/2026/09/26/reviews/hora-de-imprimir-mais-e-gastar-menos-veja-uma-selecao-de-impressoras-em-promocao-na-amazon-2/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-26T18:40:00+00:00"
-    },
-    {
-      "id": "403335c967d8713d",
-      "title": "Como usar os Gemini Gems?",
-      "summary": "Os Gemini Gems são versões personalizadas do Gemini que podem assumir diferentes funções de acordo com as instruções dadas pelo usuário. Você pode criar um Gem para revisar…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-os-gemini-gems/",
-      "image": "https://tl.ctcdn.com.br/U75SLWSekmUd1GiGI4SGG63MNRc=/0x0/filters:format(webp):quality(85)/91d1635b-15e4-4706-8c68-86032e250499.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-26T18:30:02+00:00"
-    },
-    {
-      "id": "13e47df7eafcde4f",
-      "title": "EUA e Rússia retiraram exigência de supervisão humana de pacto global sobre armas autônomas com IA",
-      "summary": "Diplomatas dos dois países trabalharam para enfraquecer tratado destinado a regular o uso de armas autônomas letais O post EUA e Rússia retiraram exigência de supervisão humana de…",
-      "link": "https://olhardigital.com.br/2026/09/26/inteligencia-artificial/eua-e-russia-retiraram-exigencia-de-supervisao-humana-de-pacto-global-sobre-armas-autonomas-com-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/06/poder-guerra-rssia-eua-1024x576.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-26T18:30:00+00:00"
     }
   ]
 }
