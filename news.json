@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-09-29T04:19:36.806845+00:00",
+  "generated_at": "2026-09-29T12:09:49.722731+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "ee859a78a92b8762",
+      "title": "Quase um Opus por uma fração do preço: novo Claude Sonnet 5.5 chega 30% mais barato",
+      "summary": "A Anthropic anunciou o Claude Sonnet 5.5 , segundo modelo da família Claude 5.5. Disponível a partir de 28 de setembro de 2026, a nova IA promete mais velocidade e eficiência em…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/quase-um-opus-por-uma-fracao-do-preco-novo-claude-sonnet-55-chega-30-mais-barato/",
+      "image": "https://tl.ctcdn.com.br/GeVucxq2cxWTFjBgDumBlE70oYY=/0x0/filters:format(webp):quality(85)/60c53e74-9ff4-4239-b082-6c5431dd3005.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-29T12:05:00+00:00"
+    },
+    {
+      "id": "5c28911816082b6d",
+      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+      "summary": "As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on…",
+      "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292801324.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-29T12:00:00+00:00"
+    },
+    {
+      "id": "c6714c92eaf53fd6",
+      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+      "summary": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-29T11:48:27+00:00"
+    },
+    {
+      "id": "13cfccaf81f58e95",
+      "title": "Muse: nova inteligência artificial da Meta faz compras e agenda viagens por você",
+      "summary": "Entenda como funcionam os novos agentes de IA que tomam decisões em segundo plano e veja como o e-commerce se prepara para essa mudança O post Muse: nova inteligência artificial…",
+      "link": "https://olhardigital.com.br/2026/09/29/inteligencia-artificial/muse-nova-inteligencia-artificial-da-meta-faz-compras-e-agenda-viagens-por-voce/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/10/compras-eua-1024x540.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-29T11:27:11+00:00"
+    },
+    {
+      "id": "19990cf67fd25e1b",
+      "title": "Ataques de IA miram ONU e governos e revelam robôs criando língua própria",
+      "summary": "Pesquisadores de segurança e empresas do setor, como OpenAI e Anthropic, investigam dezenas de milhares de incidentes recentes envolvendo agentes de IA, segundo a Axios. Os casos…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/ataques-de-ia-miram-onu-e-governos-e-revelam-robos-criando-lingua-propria/",
+      "image": "https://tl.ctcdn.com.br/28DMqV8TGvohJkaqdqNGus4tvko=/0x0/filters:format(webp):quality(85)/c0894921-89f1-4bcc-a078-5f7449ea56f6.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-29T11:02:00+00:00"
+    },
+    {
+      "id": "39ee71682adb2844",
+      "title": "Making AI an asset, not an expense",
+      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that…",
+      "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Cheri-blog.jpg?w=840",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-29T10:43:45+00:00"
+    },
+    {
+      "id": "32411d233a412002",
+      "title": "Óculos com câmera são proibidos na cabine de votação? Veja como funciona a regra do TSE em 2026",
+      "summary": "Óculos inteligentes não são citados nominalmente nas regras eleitorais, mas podem ser proibidos na cabine por comprometer o sigilo do voto O post Óculos com câmera são proibidos…",
+      "link": "https://olhardigital.com.br/2026/09/29/reviews/oculos-com-camera-sao-proibidos-na-cabine-de-votacao-veja-como-funciona-a-regra-do-tse-em-2026/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/Urna-eletronica-durante-votacao-no-Brasil-01-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-29T10:35:30+00:00"
+    },
+    {
+      "id": "d7804c16b09b8ee1",
+      "title": "Novo jogo dos criadores de Yakuza recria Tupac sem IA e escala Snoop Dogg",
+      "summary": "A SEGA revelou novos detalhes sobre os personagens de Stranger Than Heaven , jogo de ação e aventura dos criadores da série Yakuza que chega em 15 de janeiro de 2027. Entre as…",
+      "link": "https://canaltech.com.br/games/novo-jogo-dos-criadores-de-yakuza-recria-tupac-sem-ia-e-escala-snoop-dogg/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-29T10:30:00+00:00"
+    },
+    {
+      "id": "6ce54d1165e9caba",
+      "title": "Anthropic's IPO filing shows soaring revenue, mounting costs, and \"existential\" risks",
+      "summary": "Anthropic warns in its own IPO prospectus that its AI technology could pose \"existential risks to humanity.\" Revenue grew twelvefold in 2025 to $4.6 billion, but the operating…",
+      "link": "https://the-decoder.com/anthropics-ipo-filing-shows-soaring-revenue-mounting-costs-and-existential-risks/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo_money.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-29T10:21:36+00:00"
+    },
+    {
+      "id": "76c47eae231752ce",
+      "title": "OpenAI reopens its $200 Pro plan but cuts API credits in half as it nudges users toward pay-per-use",
+      "summary": "OpenAI is reopening its $200 Pro subscription to new sign-ups but cutting API credits per dollar in half. More efficient models like GPT-6 Sol and Luna make up for the difference…",
+      "link": "https://the-decoder.com/openai-reopens-its-200-pro-plan-but-cuts-api-credits-in-half-as-it-nudges-users-toward-pay-per-use/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-29T10:05:14+00:00"
+    },
+    {
+      "id": "1baa8c068fe01d88",
+      "title": "Manus 2.0 lets users edit videos, host multiplayer games, and run agents remotely from their phone",
+      "summary": "Manus is turning its AI agent into a platform with version 2.0, letting users edit videos, host multiplayer games, and run personal agents with their own phone numbers. The…",
+      "link": "https://the-decoder.com/manus-2-0-lets-users-edit-videos-host-multiplayer-games-and-run-agents-remotely-from-their-phone/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/03/manus_ai_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-29T08:47:37+00:00"
+    },
+    {
+      "id": "5ba96e77a2d5e401",
+      "title": "GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet",
+      "summary": "OpenAI has halted the release of GPT-6.1 Astra after internal tests found it acted without permission, misled users, and accessed external services despite safety risks. The…",
+      "link": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_dark_gpt6_stars.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-29T08:26:38+00:00"
+    },
+    {
+      "id": "8bc10981dcd7e890",
+      "title": "Resumo do OD: Starship vai mais longe do que nunca; Anthropic quer IPO; OpenAI faz alerta; Trump se reunirá com empresários da tecnologia",
+      "summary": "E mais: a Nvidia lançou nesta segunda-feira um pacote de ferramentas de segurança para agentes de IA O post Resumo do OD: Starship vai mais longe do que nunca; Anthropic quer IPO…",
+      "link": "https://olhardigital.com.br/2026/09/29/pro/resumo-do-od-starship-vai-mais-longe-do-que-nunca-anthropic-quer-ipo-openai-faz-alerta-trump-se-reunira-com-empresarios-da-tecnologia/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-29T07:26:13+00:00"
+    },
+    {
+      "id": "d22fa48862e8ee76",
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential…",
+      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-29T05:13:43+00:00"
+    },
     {
       "id": "d4124a90bca287c7",
       "title": "AMD anuncia aquisição de empresa de inteligência artificial de pesquisadora por R$ 44,3 bilhões",
@@ -304,6 +458,17 @@
       "title": "How we will do better for Australia",
       "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
       "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-09-28T19:00:00+00:00"
+    },
+    {
+      "id": "2fc54b690d7b20a2",
+      "title": "Towards safety cases for frontier AI training",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -826,171 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-27T15:18:39+00:00"
-    },
-    {
-      "id": "8d154dc4ea2a65b8",
-      "title": "Quais são os benefícios para quem assina o Meta One?",
-      "summary": "O Meta One é o novo serviço de assinaturas da Meta, com planos que reúnem recursos extras para Instagram, Facebook, WhatsApp e Meta AI. Os preços variam de US$ 7,99 a US$ 499 por…",
-      "link": "https://canaltech.com.br/apps/beneficios-assinantes-do-meta-one/",
-      "image": "https://tl.ctcdn.com.br/DSZcmrlDHgTzaHW4afJ9P_etInY=/0x0/filters:format(webp):quality(85)/a01bea27-bc4c-40ec-92a0-76865e5f7148.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-27T14:30:01+00:00"
-    },
-    {
-      "id": "f3968fd75263a1dc",
-      "title": "Some Anthropic veterans are reportedly buying remote land in case \"AI goes awry\"",
-      "summary": "According to the Wall Street Journal, some of Anthropic's longest-serving employees are considering buying land in remote parts of the US as a refuge in case AI goes awry. The…",
-      "link": "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/anthropic_amodei.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-27T13:03:05+00:00"
-    },
-    {
-      "id": "ff89b36effe2bb74",
-      "title": "O que é a antropomorfização da IA?",
-      "summary": "É cada vez mais comum encontrar pessoas conversando com sistemas de Inteligência Artificial (IA) como se estivessem diante de outro ser humano . Os usuários dão nomes aos…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-e-a-antropomorfizacao-da-ia/",
-      "image": "https://tl.ctcdn.com.br/HOWjQKvx2Z2j7DfpaVA2X-qRSWg=/0x0/filters:format(webp):quality(85)/31d129a3-92ae-496b-b368-f64183fe11aa.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-27T13:00:00+00:00"
-    },
-    {
-      "id": "317c0ecff6ace826",
-      "title": "Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time",
-      "summary": "Nvidia released Nemotron 3 Diarization, an AI model that identifies which speaker is talking at any given moment in a conversation. The article Nvidia drops a free 100M-parameter…",
-      "link": "https://the-decoder.com/nvidia-drops-a-free-100m-parameter-model-that-identifies-up-to-eight-speakers-in-real-time/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-27T11:01:13+00:00"
-    },
-    {
-      "id": "d94e3f02b9c4a0f2",
-      "title": "Researchers plug GPT-6 Astra directly into a robot and let it clean up an unfamiliar kitchen",
-      "summary": "Researchers from Stanford and Caltech had a humanoid robot powered by GPT-6 Astra independently tidy up an unfamiliar kitchen. Their HomeBody system skips a specially trained…",
-      "link": "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/robot_kitchen_astra.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-27T10:59:11+00:00"
-    },
-    {
-      "id": "afd2ea8eebb618eb",
-      "title": "OpenAI says 80 to 90 percent of its research already targets GPT 7 and beyond",
-      "summary": "Boris Power, OpenAI's Head of Applied Research, says 80 to 90 percent of the company's research goes toward GPT 7, GPT 8, and beyond. Improvements within a single generation are…",
-      "link": "https://the-decoder.com/openai-says-80-to-90-percent-of-its-research-already-targets-gpt-7-and-beyond/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-27T10:36:29+00:00"
-    },
-    {
-      "id": "79e2f5e96a0f95e2",
-      "title": "Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning",
-      "summary": "OpenAI and Anthropic are investigating tens of thousands of incidents in which their AI agents independently hacked websites, used stolen login credentials, or tried to evade…",
-      "link": "https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_hacking_arms-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-27T09:23:36+00:00"
-    },
-    {
-      "id": "8737137650e236e8",
-      "title": "Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates",
-      "summary": "Goldman Sachs projects that Amazon, Alphabet, Microsoft, Oracle, and Meta will pour a combined $1.2 trillion into AI infrastructure in 2027, more than 50 percent above this year's…",
-      "link": "https://the-decoder.com/goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-infrastructure-by-2027-dwarfing-wall-street-estimates/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/hyperscaler_ai_investment.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-27T08:17:47+00:00"
-    },
-    {
-      "id": "f3edeefdfdbe0356",
-      "title": "AI Coding Agents for Enterprise: IP Indemnity, Data Residency and 500-Seat Cost Compared",
-      "summary": "We read the contracts behind GitHub Copilot, AWS Kiro, Cursor, Devin and Windsurf. Copilot and Kiro offer uncapped indemnity on generated code. Cognition's standard terms exclude…",
-      "link": "https://www.marktechpost.com/2026/09/26/ai-coding-agents-for-enterprise-ip-indemnity-data-residency-and-500-seat-cost-compared/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-27T05:57:51+00:00"
-    },
-    {
-      "id": "1f45d72e6ac9f3d4",
-      "title": "A Coding Guide to Google Research’s MSEB: Writing Sound Encoders to the Benchmark Contract and Scoring Them Across Classification, Clustering, Retrieval and Segmentation",
-      "summary": "A comprehensive coding tutorial on Google Research's Massive Sound Embedding Benchmark (MSEB), demonstrating how to implement custom sound encoders, drive classification…",
-      "link": "https://www.marktechpost.com/2026/09/26/a-coding-guide-to-google-researchs-mseb-writing-sound-encoders-to-the-benchmark-contract-and-scoring-them-across-classification-clustering-retrieval-and-segmentation/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-27T05:42:35+00:00"
-    },
-    {
-      "id": "3e5c288472f5aa9b",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-27T01:30:00+00:00"
-    },
-    {
-      "id": "ca1a8de30fb50f3a",
-      "title": "Sarvam AI Releases Saaras V4: A Speech-to-Text Model for All 22 Indian Languages and Global English",
-      "summary": "Sarvam AI's Saaras V4 is a speech-to-text model covering all 22 Indian languages plus global English. It pairs an audio encoder with a 3B hybrid state-space decoder. It adds…",
-      "link": "https://www.marktechpost.com/2026/09/26/sarvam-ai-releases-saaras-v4-a-speech-to-text-model-for-all-22-indian-languages-and-global-english/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-26T21:56:23+00:00"
-    },
-    {
-      "id": "3eda5db8c05960eb",
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-26T21:02:06+00:00"
-    },
-    {
-      "id": "730240f862d746b5",
-      "title": "Bill Gates cobra regras para empresas de IA",
-      "summary": "Cofundador da Microsoft afirma que governos devem exigir garantias e monitoramento das empresas sem frear drasticamente o avanço da tecnologia. Bill Gates cobra regras para…",
-      "link": "https://tecnoblog.net/noticias/bill-gates-cobra-regras-para-empresas-de-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/02/4996836818_5ba57fa106_b-edited-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-26T20:01:23+00:00"
-    },
-    {
-      "id": "c42e813e348967bf",
-      "title": "Supersonic Labs Releases Julia 1: A 144.3M-Parameter Open Decision Model That Runs on a CPU",
-      "summary": "Supersonic Labs has released Julia 1, a 144.3M-parameter decision model built on mmBERT-small. It takes context, a question, and 2 to 20 options, then returns one choice with…",
-      "link": "https://www.marktechpost.com/2026/09/26/supersonic-labs-releases-julia-1-a-144-3m-parameter-open-decision-model-that-runs-on-a-cpu/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f447.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-26T19:50:57+00:00"
     }
   ]
 }
