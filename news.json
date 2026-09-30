@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-09-29T21:53:44.142400+00:00",
+  "generated_at": "2026-09-30T04:03:25.137493+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "318edfeba2f129f4",
+      "title": "OpenAI negocia rodada de R$ 156,1 bi e pode atingir valuation de R$ 7,3 tri",
+      "summary": "Possível captação ocorre poucos meses depois de a empresa levantar uma das maiores quantias já registradas no mercado privado O post OpenAI negocia rodada de R$ 156,1 bi e pode…",
+      "link": "https://olhardigital.com.br/2026/09/29/pro/openai-negocia-rodada-de-r-156-1-bi-e-pode-atingir-valuation-de-r-7-3-tri/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/chatgpt3-e1737636498885-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-30T00:27:19+00:00"
+    },
+    {
+      "id": "9e52483419deb15e",
+      "title": "Anthropic: prospecto de IPO mostra que empresa é dependente de rivais",
+      "summary": "Documento mostra que Amazon e Google têm papel central na distribuição dos produtos da companhia O post Anthropic: prospecto de IPO mostra que empresa é dependente de rivais…",
+      "link": "https://olhardigital.com.br/2026/09/29/pro/anthropic-prospecto-de-ipo-mostra-que-empresa-e-dependente-de-rivais/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/big-techs-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-29T23:44:33+00:00"
+    },
+    {
+      "id": "8696826e6545b812",
+      "title": "Trump reúne líderes de tecnologia e anuncia acordo sobre segurança de IA",
+      "summary": "Presidente estadunidense também avançou na ideia de renomear tecnologia para \"superinteligência\" O post Trump reúne líderes de tecnologia e anuncia acordo sobre segurança de IA…",
+      "link": "https://olhardigital.com.br/2026/09/29/inteligencia-artificial/trump-reune-lideres-de-tecnologia-e-anuncia-acordo-sobre-seguranca-de-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/data-center-1024x574.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-29T22:57:40+00:00"
+    },
+    {
+      "id": "1f2684ece82a4b59",
+      "title": "Trump orders US government to call AI ‘Super Intelligence’",
+      "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will…",
+      "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-29T22:25:45+00:00"
+    },
+    {
+      "id": "c7d7b794f0ae36ef",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-29T22:20:59+00:00"
+    },
+    {
+      "id": "261d08e5997e6ef4",
+      "title": "Gemini prepara nova tela flutuante com tarefas e atalhos rápidos sem abrir o app",
+      "summary": "O Google está preparando uma atualização para a janela flutuante do Gemini no Android . A novidade deve facilitar o acesso a tarefas, conversas recentes e atalhos sem abrir o…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-prepara-nova-tela-flutuante-com-tarefas-e-atalhos-rapidos-sem-abrir-o-app/",
+      "image": "https://tl.ctcdn.com.br/U75SLWSekmUd1GiGI4SGG63MNRc=/0x0/filters:format(webp):quality(85)/91d1635b-15e4-4706-8c68-86032e250499.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-29T22:06:00+00:00"
+    },
+    {
+      "id": "879babcdd3fed72e",
+      "title": "Protests against OpenAI get increasingly creative",
+      "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
+      "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_0886-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-29T21:52:58+00:00"
+    },
     {
       "id": "21aea061ef987697",
       "title": "Elon Musk’s AI-powered Grokipedia is updating again",
@@ -67,6 +144,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-29T20:02:30+00:00"
+    },
+    {
+      "id": "22cdc3a1949b274c",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-09-29T19:52:37+00:00"
     },
     {
       "id": "36193bd2fd972c29",
@@ -267,17 +355,6 @@
       "published_at": "2026-09-29T17:15:00+00:00"
     },
     {
-      "id": "dcb66824e228fe10",
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and…",
-      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-29T17:15:00+00:00"
-    },
-    {
       "id": "032218cff42a1f40",
       "title": "OpenAI launches Dots, its Muse competitor",
       "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI…",
@@ -286,6 +363,17 @@
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
+      "published_at": "2026-09-29T17:15:00+00:00"
+    },
+    {
+      "id": "dcb66824e228fe10",
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and…",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-09-29T17:15:00+00:00"
     },
     {
@@ -903,94 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-09-28T19:21:59+00:00"
-    },
-    {
-      "id": "b934ce46996f6095",
-      "title": "NVIDIA Launches Open Agent Safety Platform: OpenShell Sandboxes Agents on Vera CPUs While Sentry on BlueField-4 Quarantines Them in Milliseconds",
-      "summary": "NVIDIA has launched the Open Agent Safety Platform, an open reference design that enforces AI agent safety outside the agent itself. OpenShell, an Apache 2.0 runtime, sandboxes…",
-      "link": "https://www.marktechpost.com/2026/09/28/nvidia-launches-open-agent-safety-platform/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-28T19:21:25+00:00"
-    },
-    {
-      "id": "7bfbec4248b6c3a0",
-      "title": "Anthropic lança Claude Sonnet 5.5 mais rápido e até 30% mais barato para tarefas do dia a dia",
-      "summary": "O novo Claude Sonnet 5.5 gera respostas 30% mais rápidas e reduz custos por tarefa. Veja os detalhes de desempenho em código e design O post Anthropic lança Claude Sonnet 5.5 mais…",
-      "link": "https://olhardigital.com.br/2026/09/28/inteligencia-artificial/anthropic-lanca-claude-sonnet-5-5-mais-rapido-e-ate-30-mais-barato-para-tarefas-do-dia-a-dia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/claude-2-1024x768.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-28T19:08:39+00:00"
-    },
-    {
-      "id": "c7f202abb28219c9",
-      "title": "Novo recurso do Gemini faz ligações por você para marcar compromissos",
-      "summary": "O Google começou a liberar uma nova função do Gemini que consegue fazer ligações telefônicas em nome do usuário. Em fase de visualização antecipada nos Estados Unidos desde 24 de…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/novo-recurso-do-gemini-faz-ligacoes-por-voce-para-marcar-compromissos/",
-      "image": "https://tl.ctcdn.com.br/U75SLWSekmUd1GiGI4SGG63MNRc=/0x0/filters:format(webp):quality(85)/91d1635b-15e4-4706-8c68-86032e250499.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-28T19:04:00+00:00"
-    },
-    {
-      "id": "50d71cd52400f551",
-      "title": "How we will do better for Australia",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-28T19:00:00+00:00"
-    },
-    {
-      "id": "2fc54b690d7b20a2",
-      "title": "Towards safety cases for frontier AI training",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-28T19:00:00+00:00"
-    },
-    {
-      "id": "db713ef86bd59ea8",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-09-28T19:00:00+00:00"
-    },
-    {
-      "id": "9c6dd4f7ad69731d",
-      "title": "ChatGPT apresenta problemas e instabilidade na tarde desta segunda-feira (28)",
-      "summary": "Usuários relatam dificuldades para acessar e utilizar a versão web do chatbot nesta segunda-feira (28); pico de reclamações passou de 600 registros O post ChatGPT apresenta…",
-      "link": "https://olhardigital.com.br/2026/09/28/inteligencia-artificial/chatgpt-apresenta-problemas-e-instabilidade-na-tarde-desta-segunda-feira-28/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/downdetector_openai-1024x292.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-28T18:45:23+00:00"
-    },
-    {
-      "id": "b86603e367f75d38",
-      "title": "OpenAI’s AI agents need to catch up",
-      "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-28T18:45:00+00:00"
     }
   ]
 }
