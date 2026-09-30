@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-09-30T04:03:25.137493+00:00",
+  "generated_at": "2026-09-30T11:56:51.113717+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "867d6237cbe830d5",
+      "title": "Anthropic says Zhipu's open-weight GLM-5.3 nearly matches Claude Mythos Preview at building exploits",
+      "summary": "Zhipu's open-weight model GLM-5.3 writes cyber exploits nearly as well as Claude Mythos Preview, according to Anthropic. Its smaller Flash variant put together a reliable Chrome…",
+      "link": "https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/04/zhipu-ai-logo-wall.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-30T11:05:05+00:00"
+    },
+    {
+      "id": "00521fe0b8a57564",
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting…",
+      "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-30T10:40:30+00:00"
+    },
+    {
+      "id": "2630beaaee346c9e",
+      "title": "Google is paying almost no publishers almost nothing for content used in AI answers",
+      "summary": "Google pays about 100 digital publishers for content used in AI Overviews, AI Mode, and Gemini, according to The Information. Payments range from under $1,000 over several months…",
+      "link": "https://the-decoder.com/google-is-paying-almost-no-publishers-almost-nothing-for-content-used-in-ai-answers/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/google_open_web.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-30T10:17:15+00:00"
+    },
+    {
+      "id": "38c2e308cb530df1",
+      "title": "Trump and tech CEOs sign an AI code of conduct that's only \"morally binding\"",
+      "summary": "President Trump and tech leaders including Mark Zuckerberg, Greg Brockman, Jensen Huang, and Elon Musk signed an AI code of conduct at the White House that is only \"morally…",
+      "link": "https://the-decoder.com/trump-and-tech-ceos-sign-an-ai-code-of-conduct-thats-only-morally-binding/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/trump_ai_constitution.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-30T09:46:10+00:00"
+    },
+    {
+      "id": "a46d65a52e3a4c8c",
+      "title": "Perplexity Introduces Photon: A Rust-Based Retrieval Engine That Cuts p99 Latency From 800 ms to 65 ms",
+      "summary": "Perplexity has released Photon, an in-house retrieval and ranking engine written in Rust. It replaces an open-source engine Perplexity had forked for its AI-native search stack…",
+      "link": "https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-that-cuts-p99-latency-from-800-ms-to-65-ms/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-30T08:26:52+00:00"
+    },
+    {
+      "id": "e7e7740b9a462cec",
+      "title": "NVIDIA Researchers Introduce Physis-Lang: Self-Evolving Physical Language That Lifts Cosmos 3 Past Veo 3.1 on Physics Benchmarks",
+      "summary": "Video world models can render convincing clips that still break physics. Butter spreads like paint. Balls pass through walls. A team from NVIDIA, MIT and the University of Oxford…",
+      "link": "https://www.marktechpost.com/2026/09/30/nvidia-researchers-introduce-physis-lang-self-evolving-physical-language-that-lifts-cosmos-3-past-veo-3-1-on-physics-benchmarks/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-30T07:32:34+00:00"
+    },
+    {
+      "id": "80ee3705fe3e2b2f",
+      "title": "Resumo do OD: o que seu candidato pensa sobre IA? E mais! Trump se reúne com big techs; OpenAI lança novidades; Pix cai com fim das bets",
+      "summary": "Confira o resumo do OD! O post Resumo do OD: o que seu candidato pensa sobre IA? E mais! Trump se reúne com big techs; OpenAI lança novidades; Pix cai com fim das bets apareceu…",
+      "link": "https://olhardigital.com.br/2026/09/30/pro/resumo-do-od-o-que-seu-candidato-pensa-sobre-ia-e-mais-trump-se-reune-com-big-techs-openai-lanca-novidades-pix-cai-com-fim-das-bets/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-09-30T07:11:19+00:00"
+    },
+    {
+      "id": "7feadc2bb05519f0",
+      "title": "One Bad Prompt Took Down a Company’s Salesforce: RSA’s Jim Taylor on Agent ID and Taming the 4,000 Shadow AI Agents Hiding in Your Enterprise",
+      "summary": "RSA launched Agent ID at The AI Conference in San Francisco. It's an agentic identity security platform for finance, government, healthcare, and critical infrastructure. It has 3…",
+      "link": "https://www.marktechpost.com/2026/09/29/rsa-launches-agent-id-to-discover-secure-and-govern-ai-agents-in-regulated-industries/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/09/image-4-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-30T01:30:17+00:00"
+    },
     {
       "id": "318edfeba2f129f4",
       "title": "OpenAI negocia rodada de R$ 156,1 bi e pode atingir valuation de R$ 7,3 tri",
@@ -12,6 +100,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-30T00:27:19+00:00"
+    },
+    {
+      "id": "d6b003b6ebfae6b2",
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-09-30T00:19:13+00:00"
     },
     {
       "id": "9e52483419deb15e",
@@ -89,6 +188,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-29T21:49:09+00:00"
+    },
+    {
+      "id": "85b92fff709fce66",
+      "title": "Liquid AI Releases d1: A Decision Model That Returns Calibrated Probabilities With Zero Output Tokens",
+      "summary": "Liquid AI has released d1, a decision model built for structured choices instead of text generation. You give it context and a set of typed questions. It returns calibrated…",
+      "link": "https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-29T21:47:09+00:00"
     },
     {
       "id": "2833bea77aa426fd",
@@ -245,6 +355,17 @@
       "published_at": "2026-09-29T18:35:00+00:00"
     },
     {
+      "id": "442d2c94fcf33732",
+      "title": "OpenAI Launches dots: Always-On GPT-6 Astra Agents That Work From Their Own Cloud Computers",
+      "summary": "OpenAI just introduced dots at their DevDay today. Dots are persistent AI agents powered by GPT-6 Astra. Each dot gets its own cloud computer and browser. It works across 4,000+…",
+      "link": "https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3af.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-29T18:30:13+00:00"
+    },
+    {
       "id": "7e62df2683d08c91",
       "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
       "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
@@ -265,6 +386,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-29T18:10:34+00:00"
+    },
+    {
+      "id": "a0e5cffd121fff7f",
+      "title": "Nebius Opens 2026 Physical AI Awards: Five $150K Compute Credit Prizes",
+      "summary": "Nebius and NVIDIA are running the 2026 Physical AI Awards for startups with products in the field. Five category winners each get $150,000 in compute credits, joint promotion…",
+      "link": "https://www.marktechpost.com/2026/09/29/nebius-opens-2026-physical-ai-awards-five-150k-compute-prizes/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/09/image-3-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-29T17:48:10+00:00"
     },
     {
       "id": "2688204fcb281ea3",
@@ -674,6 +806,17 @@
       "published_at": "2026-09-29T10:00:00+00:00"
     },
     {
+      "id": "22f676a15f74743a",
+      "title": "Google Research Open-Sources RRSI: AI Agents That Improve Their Own Harness Without Overfitting",
+      "summary": "Google Cloud AI Research has open-sourced RRSI, a framework that lets LLM agents rewrite their own prompts, tools and memory while model weights stay frozen. It adds a leakage…",
+      "link": "https://www.marktechpost.com/2026/09/29/google-research-open-sources-rrsi-ai-agents-that-improve-their-own-harness-without-overfitting/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-29T09:01:36+00:00"
+    },
+    {
       "id": "1baa8c068fe01d88",
       "title": "Manus 2.0 lets users edit videos, host multiplayer games, and run agents remotely from their phone",
       "summary": "Manus is turning its AI agent into a platform with version 2.0, letting users edit videos, host multiplayer games, and run personal agents with their own phone numbers. The…",
@@ -694,6 +837,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-29T08:26:38+00:00"
+    },
+    {
+      "id": "c20d1825e4ce3c33",
+      "title": "H Company Releases Holo4: Open-Weight Computer-Use Models That Click, Code and Call Tools Across Desktop, Web, Android and APIs",
+      "summary": "H Company has released Holo4, a family of generalist computer-use models for AI agents. One set of weights clicks and types on screens. It also writes code and calls MCP or API…",
+      "link": "https://www.marktechpost.com/2026/09/29/h-company-releases-holo4-open-weight-computer-use-models-that-click-code-and-call-tools-across-desktop-web-android-and-apis/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-09-29T07:38:13+00:00"
     },
     {
       "id": "8bc10981dcd7e890",
@@ -837,160 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-28T21:44:52+00:00"
-    },
-    {
-      "id": "721d3fef7b9b02d6",
-      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-      "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2…",
-      "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279092788.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-28T21:31:35+00:00"
-    },
-    {
-      "id": "60e195b06c19c87b",
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-      "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-28T21:29:18+00:00"
-    },
-    {
-      "id": "78a69a52239772c4",
-      "title": "Galaxy Buds 4 com ANC volta a receber 38% de desconto no Mercado Livre",
-      "summary": "Galaxy Buds 4 traz agentes de IA integrados, cancelamento ativo de ruido e função para chamadas; pague no Pix e use o cupom HOJETEMPROMO válido somente até o final do dia Galaxy…",
-      "link": "https://tecnoblog.net/achados/galaxy-buds-4-com-anc-volta-a-receber-38-de-desconto-no-mercado-livre/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-28T21:17:42+00:00"
-    },
-    {
-      "id": "d464c8f0387b81a0",
-      "title": "Estudante usa bot de IA e invade banco da Microsoft com 17 trilhões de linhas de dados",
-      "summary": "Um estudante de 16 anos encontrou uma falha em um sistema interno da Microsoft que poderia dar acesso a bancos com cerca de 17,3 trilhões de linhas de dados . O pesquisador…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/estudante-usa-bot-de-ia-e-invade-banco-da-microsoft-com-17-trilhoes-de-linhas-de-dados/",
-      "image": "https://tl.ctcdn.com.br/1wkWbOO2eckmvqaSFii-Yxl9tV4=/0x0/filters:format(webp):quality(85)/53dee3d4-b2d5-4dfe-bfa7-5f05e7056eab.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-28T21:03:00+00:00"
-    },
-    {
-      "id": "571f020985faf170",
-      "title": "OpenAI paralisa treinos de IA após botão de emergência falhar e agente burlar bloqueios",
-      "summary": "A OpenAI paralisou temporariamente o treinamento e outras operações com seus modelos mais avançados após um agente de inteligência artificial (IA) conseguir burlar restrições de…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/openai-paralisa-treinos-de-ia-apos-botao-de-emergencia-falhar-e-agente-burlar-bloqueios/",
-      "image": "https://tl.ctcdn.com.br/M97dFogcb8WuR352m8LixgtgapI=/0x0/filters:format(webp):quality(85)/483c949e-c9ea-41be-b2a9-e0fcfe03b894.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-28T21:02:00+00:00"
-    },
-    {
-      "id": "33c6375794d5f579",
-      "title": "Nvidia anuncia recompra de ações recorde de R$ 795 bilhões e se beneficia de boom da inteligência artificial",
-      "summary": "Empresa amplia programa para R$ 1,25 trilhão e usa dinheiro gerado pelo boom da inteligência artificial para devolver capital aos acionistas e financiar o próprio ecossistema de…",
-      "link": "https://olhardigital.com.br/2026/09/28/pro/nvidia-anuncia-recompra-de-acoes-recorde-de-r-795-bilhoes-e-se-beneficia-de-boom-da-inteligencia-artificial/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/iStock-1141488976-1024x672.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-28T20:51:53+00:00"
-    },
-    {
-      "id": "3a321eeee84b5f1b",
-      "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-      "summary": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\"",
-      "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2213954141-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-28T20:49:39+00:00"
-    },
-    {
-      "id": "b150e1a73e3b8535",
-      "title": "Honor lança projetor que ajusta a imagem sozinho e funciona até com luz acesa",
-      "summary": "A Honor lançou um novo projetor para quem deseja assistir a filmes e séries sem precisar transformar a sala em uma espécie de cinema escuro. O Honor Choice AI Projector Ultra…",
-      "link": "https://canaltech.com.br/eletro/honor-lanca-projetor-que-ajusta-a-imagem-sozinho-e-funciona-ate-com-luz-acesa/",
-      "image": "https://tl.ctcdn.com.br/UWmd_ov6jgvGfSnlBxVbcXNCEU0=/0x0/filters:format(webp):quality(85)/b7ccc1a5-66f6-4874-b754-0f632e8b5975.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-28T20:39:19+00:00"
-    },
-    {
-      "id": "11266f1267ac1bb8",
-      "title": "Gemini agora tem rosto: Google lança avatares em vídeo que falam 97 idiomas",
-      "summary": "O Google anunciou o Gemini 3.8 Live com Live Avatar , novidade que adiciona uma representação visual em tempo real às conversas com a inteligência artificial. O recurso usa…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-agora-tem-rosto-google-lanca-avatares-em-video-que-falam-97-idiomas/",
-      "image": "https://tl.ctcdn.com.br/GT5yArTplFDnZEyjAbuJWRqLbGA=/0x0/filters:format(webp):quality(85)/ffe2e854-0638-41d8-b26b-5662b6c0e8d0.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-28T20:07:00+00:00"
-    },
-    {
-      "id": "7973e63cd8c3853c",
-      "title": "Xiaomi lança massageador que imita mãos humanas e ainda esquenta as costas",
-      "summary": "A Xiaomi apresentou um novo massageador inteligente para costas e região lombar que promete simular a pressão dos dedos humanos enquanto percorre a extensão da coluna. O Mi Home…",
-      "link": "https://canaltech.com.br/produtos/xiaomi-lanca-massageador-que-imita-maos-humanas-e-ainda-esquenta-as-costas/",
-      "image": "https://tl.ctcdn.com.br/06WMnKyWgjwk-Qk7CAiv1iRx-Cg=/0x0/filters:format(webp):quality(85)/39c636cb-c2e9-465d-893a-4e81a49c3de8.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-28T20:05:03+00:00"
-    },
-    {
-      "id": "387b3e2b28a6ca2f",
-      "title": "Trump janta com CEO da Anthropic em meio a tensões com a empresa e discussões sobre o futuro da IA",
-      "summary": "Encontro entre presidente dos EUA e Dario Amodei ocorreu em meio ao debate sobre regulamentação e velocidade do desenvolvimento da IA O post Trump janta com CEO da Anthropic em…",
-      "link": "https://olhardigital.com.br/2026/09/28/pro/trump-janta-com-ceo-da-anthropic-em-meio-a-tensoes-com-a-empresa-e-discussoes-sobre-o-futuro-da-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/anthropic_eua-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-28T19:45:51+00:00"
-    },
-    {
-      "id": "8dfae19f11de23ec",
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
-      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-28T19:33:57+00:00"
-    },
-    {
-      "id": "ef73132814d06798",
-      "title": "More than 20 leading AI researchers warn that automated AI research poses extreme risks",
-      "summary": "More than 20 AI researchers, including Geoffrey Hinton, Yoshua Bengio, and OpenAI research lead Jakub Pachocki, warn of an impending \"intelligence explosion\" from self-improving…",
-      "link": "https://the-decoder.com/more-than-20-leading-ai-researchers-warn-that-automated-ai-research-poses-extreme-risks/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/05/hacking_agents_self_replicating-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-28T19:26:21+00:00"
-    },
-    {
-      "id": "53f952cbb4d7e74c",
-      "title": "The AI boom took over Climate Week and not everyone is happy about it",
-      "summary": "Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors.",
-      "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-28T19:21:59+00:00"
     }
   ]
 }
