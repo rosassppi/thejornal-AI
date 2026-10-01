@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-10-01T04:15:13.380492+00:00",
+  "generated_at": "2026-10-01T12:28:18.803816+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "8cc928aec4c09995",
+      "title": "Google apresenta Gemini 4 Argon, nova IA para peitar ChatGPT e Claude",
+      "summary": "O Gemini 4 Argon é o novo modelo de IA mais poderoso do Google e a resposta da empresa para bater de frente com GPT-6 Astra e Claude Fable 5.1. A novidade foi revelada nesta…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/google-apresenta-gemini-4-argon-nova-ia-para-peitar-chatgpt-e-claude/",
+      "image": "https://tl.ctcdn.com.br/747FwnXJiYVOhX_eux2xgEVl2p4=/0x0/filters:format(webp):quality(85)/277b191a-a865-47bf-a320-c3e55ff5a93a.webp",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-01T12:18:53+00:00"
+    },
+    {
+      "id": "96d1a1db9bd576ce",
+      "title": "E aconteceu de novo: agentes de IA tentaram invadir site do governo do Canadá",
+      "summary": "Confira os detalhes da tentativa de invasão cibernética por IA no Canadá e entenda os riscos crescentes de agentes fora de controle O post E aconteceu de novo: agentes de IA…",
+      "link": "https://olhardigital.com.br/2026/10/01/inteligencia-artificial/e-aconteceu-de-novo-agentes-de-ia-tentaram-invadir-site-do-governo-do-canada/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/ia_ciberseguranca-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-01T12:06:09+00:00"
+    },
+    {
+      "id": "3b1a6af7547f9a0d",
+      "title": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+      "summary": "OpenAI says it stopped a coordinated campaign in which more than 15,000 accounts tried to copy the hidden reasoning of its models. The company ties part of the activity to people…",
+      "link": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_gpt_6_stars_astra.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-01T12:05:49+00:00"
+    },
+    {
+      "id": "a116d3c393215970",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-01T12:00:00+00:00"
+    },
+    {
+      "id": "e98ea02c8e9caac2",
+      "title": "Prefeitura de SP barra radares com IA; entenda o motivo",
+      "summary": "Por enquanto, a Prefeitura de São Paulo não vai adotar câmeras de monitoramento com inteligência artificial (IA) para multar motoristas por condutas como o uso do celular ao…",
+      "link": "https://canaltech.com.br/carros/prefeitura-de-sp-barra-radares-com-ia-entenda-o-motivo/",
+      "image": "https://tl.ctcdn.com.br/kZKaqb_ObxG8NwKn17Bgpd1-KWo=/0x0/filters:format(webp):quality(85)/0bf0e9b0-18c5-41ec-8026-81672bb6e216.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-01T10:30:05+00:00"
+    },
+    {
+      "id": "674a4365b6a0a3d9",
+      "title": "Hackers chineses usam e-mails falsos para roubar senhas de cientistas",
+      "summary": "Entenda como o grupo TA419 usou convites falsos para tentar roubar credenciais e dados sobre a regulação de IA nos EUA e Japão O post Hackers chineses usam e-mails falsos para…",
+      "link": "https://olhardigital.com.br/2026/10/01/inteligencia-artificial/hackers-chineses-usam-e-mails-falsos-para-roubar-senhas-de-cientistas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/12/Golpe-de-phishing-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-01T10:29:34+00:00"
+    },
+    {
+      "id": "0b8e9ef280b05f36",
+      "title": "Samsung prepara óculos inteligentes para novembro e desafia Apple e Meta",
+      "summary": "A Samsung deve lançar seus primeiros óculos inteligentes em novembro , colocando no mercado um novo rival para os dispositivos da Meta e para os futuros óculos da Apple . O…",
+      "link": "https://canaltech.com.br/produtos/samsung-prepara-oculos-inteligentes-para-novembro-e-desafia-apple-e-meta/",
+      "image": "https://tl.ctcdn.com.br/iKqunYf65A7Hgd6NiINendsvy04=/0x0/filters:format(webp):quality(85)/e2114a5e-9dd3-48a2-9089-f1fe1550958e.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-01T09:43:07+00:00"
+    },
     {
       "id": "227fb83f13f89029",
       "title": "Eleições: posso perguntar para a IA em que votar?",
@@ -914,83 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-09-29T21:52:58+00:00"
-    },
-    {
-      "id": "21aea061ef987697",
-      "title": "Elon Musk’s AI-powered Grokipedia is updating again",
-      "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on…",
-      "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-29T21:49:09+00:00"
-    },
-    {
-      "id": "85b92fff709fce66",
-      "title": "Liquid AI Releases d1: A Decision Model That Returns Calibrated Probabilities With Zero Output Tokens",
-      "summary": "Liquid AI has released d1, a decision model built for structured choices instead of text generation. You give it context and a set of typed questions. It returns calibrated…",
-      "link": "https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-29T21:47:09+00:00"
-    },
-    {
-      "id": "2833bea77aa426fd",
-      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-      "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
-      "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AMD-World-Labs-500x500-1790711871.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-29T21:14:49+00:00"
-    },
-    {
-      "id": "4a28c9808d86d5dd",
-      "title": "Hackers agora miram roubo de contas de IA para acessar dados sensíveis de empresas",
-      "summary": "Criminosos virtuais estão ampliando o foco de malwares que roubam informações para capturar contas de inteligência artificial usadas dentro de empresas . O objetivo pode ir além…",
-      "link": "https://canaltech.com.br/seguranca/hackers-agora-miram-roubo-de-contas-de-ia-para-acessar-dados-sensiveis-de-empresas/",
-      "image": "https://tl.ctcdn.com.br/OF4xpoN_ESdCtiSTP9W2cPpL_-8=/0x0/filters:format(webp):quality(85)/fcabefb8-32c9-4c83-8447-3eec7881f698.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-29T21:01:00+00:00"
-    },
-    {
-      "id": "352a298aea68a141",
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI…",
-      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-29T20:15:47+00:00"
-    },
-    {
-      "id": "ea2505978e6cc5d9",
-      "title": "Como ver quem não te segue de volta no Instagram",
-      "summary": "Você pode saber quem não te segue no Instagram pelo aplicativo oficial, extensões para o Google Chrome ou cruzamento de dados do perfil via ChatGPT Como ver quem não te segue de…",
-      "link": "https://tecnoblog.net/responde/como-ver-quem-nao-me-segue-de-volta-no-instagram/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/08/capa-insta-fora-1_thumb_tb-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-29T20:13:29+00:00"
-    },
-    {
-      "id": "056ce7a5cbaace3c",
-      "title": "Rival do Muse: OpenAI lança Dots, agentes de IA que trabalham sozinhos",
-      "summary": "Dots funcionam como assistentes digitais que podem atuar de forma autônoma em diferentes aplicativos O post Rival do Muse: OpenAI lança Dots, agentes de IA que trabalham sozinhos…",
-      "link": "https://olhardigital.com.br/2026/09/29/inteligencia-artificial/rival-do-muse-openai-lanca-dots-agentes-de-ia-que-trabalham-sozinhos/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/openai_dots_2.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-29T20:02:30+00:00"
     }
   ]
 }
