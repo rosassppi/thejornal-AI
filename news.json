@@ -1,7 +1,227 @@
 {
-  "generated_at": "2026-10-02T17:29:35.968393+00:00",
+  "generated_at": "2026-10-02T21:50:21.422693+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "5671402926db891c",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-02T21:09:14+00:00"
+    },
+    {
+      "id": "038134d95b4f933e",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a…",
+      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-02T21:08:37+00:00"
+    },
+    {
+      "id": "5074addae3358fd5",
+      "title": "Lançamento: TV TCL T6C de 65” atinge 49% OFF com cupom no Mercado Livre",
+      "summary": "Nova linha de televisão da TCL conta com painel QLED 4K, tecnologia de pontos quânticos e IA integrada. Utilize o cupom PROMOAQ combinado com o pagamento por Pix Lançamento: TV…",
+      "link": "https://tecnoblog.net/achados/lancamento-tv-tcl-t6c-de-65-atinge-53-off-com-cupom-no-mercado-livre/",
+      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T20:34:01+00:00"
+    },
+    {
+      "id": "d017dec255afce31",
+      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+      "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2292181016-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-02T20:30:27+00:00"
+    },
+    {
+      "id": "ac153d8f7821405e",
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling…",
+      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-02T20:08:40+00:00"
+    },
+    {
+      "id": "72123d914576b4a3",
+      "title": "AI music generator Suno can now create spoken audio with matching background music",
+      "summary": "Suno is adding a feature called \"Speech\" to its AI music generator that creates spoken text with matching background music in a single audio track. The company says it's built for…",
+      "link": "https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/03/suno_logo_walls-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-02T20:07:36+00:00"
+    },
+    {
+      "id": "360f0d053a9c8912",
+      "title": "Claude Code ganha suporte a mods; veja como personalizar terminal e mais",
+      "summary": "A Anthropic anunciou os mods do Claude Code, um novo recurso que permite personalizar o funcionamento e a aparência da ferramenta de inteligência artificial. Os mods são pequenas…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/claude-code-ganha-suporte-a-mods-veja-como-personalizar-terminal-e-mais/",
+      "image": "https://tl.ctcdn.com.br/7e_rpyif-V2yS_RMG1aN-EM9--I=/0x0/filters:format(webp):quality(85)/4c03a197-4217-4ac2-aba7-761c16cb8d12.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T19:58:36+00:00"
+    },
+    {
+      "id": "39555520d616f1c2",
+      "title": "OpenAI demite pesquisadores por suposto vazamento de dados",
+      "summary": "Funcionários teriam compartilhado dados confidenciais com uma organização externa de segurança de IA. OpenAI demite pesquisadores por suposto vazamento de dados",
+      "link": "https://tecnoblog.net/noticias/openai-demite-pesquisadores-por-suposto-vazamento-de-dados/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/sam-altman-3-capa-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T19:41:17+00:00"
+    },
+    {
+      "id": "b25a5528d55f8edb",
+      "title": "Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\"",
+      "summary": "Since fall 2025, Anthropic has quietly flown in dozens of religious thinkers to talk about whether Claude might be conscious. Co-founder Christopher Olah described the language…",
+      "link": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_religious_meetings.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-02T19:41:05+00:00"
+    },
+    {
+      "id": "897c312f368e6855",
+      "title": "Nvidia bate mais um recorde e encosta em US$ 6 trilhões de valor de mercado",
+      "summary": "O otimismo do mercado com o Meta Muse impulsionou uma forte alta nas ações da Nvidia. Nvidia bate mais um recorde e encosta em US$ 6 trilhões de valor de mercado",
+      "link": "https://tecnoblog.net/noticias/nvidia-bate-mais-um-recorde-e-encosta-em-us-6-trilhoes-de-valor-de-mercado/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/05/nvidia-video_capa-1_tb-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T19:40:25+00:00"
+    },
+    {
+      "id": "82170394826ef3bc",
+      "title": "Eleições 2026: IA é usada para ampliar ataques contra candidatas",
+      "summary": "Análise reuniu 11.137 imagens publicadas em 9.393 comentários em perfis de 132 candidatas O post Eleições 2026: IA é usada para ampliar ataques contra candidatas apareceu primeiro…",
+      "link": "https://olhardigital.com.br/2026/10/02/inteligencia-artificial/eleicoes-2026-ia-e-usada-para-ampliar-ataques-contra-candidatas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/11/marina_silva-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T19:09:02+00:00"
+    },
+    {
+      "id": "219db459dd25e3aa",
+      "title": "Do iPhone à bola inteligente: 8 tecnologias que transformaram o futebol",
+      "summary": "Quem acompanha uma partida de futebol hoje talvez nem perceba quantos dispositivos entram em campo junto com jogadores e árbitros. Entre iPhones, bolas com sensores e câmeras…",
+      "link": "https://canaltech.com.br/produtos/do-iphone-a-bola-inteligente-8-tecnologias-que-transformaram-o-futebol/",
+      "image": "https://tl.ctcdn.com.br/MVDbIfNUvpJ2FgsXeHh4JsXQyoI=/0x0/filters:format(webp):quality(85)/0feceb5b-f030-469e-a374-8e79bdc7793d.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T19:00:00+00:00"
+    },
+    {
+      "id": "c41cf26ffb2d47c0",
+      "title": "Sony anuncia QSSR, nova tecnologia que melhora gráficos do PS5",
+      "summary": "Novo sistema de upscaling por IA chega ao PS5 padrão e estreia em Marvel’s Wolverine e Ghost of Yōtei O post Sony anuncia QSSR, nova tecnologia que melhora gráficos do PS5…",
+      "link": "https://olhardigital.com.br/2026/10/02/games-e-consoles/sony-anuncia-qssr-nova-tecnologia-de-upscaling-para-ps5/",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/10/Ghost-of-Ytei-PlayStation-2-1024x576.webp",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T18:50:07+00:00"
+    },
+    {
+      "id": "5c0c42097c18b944",
+      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+      "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1258977050-2-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-02T18:39:36+00:00"
+    },
+    {
+      "id": "21d30a8e7bb1d4eb",
+      "title": "Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents",
+      "summary": "With Clef and Clef-flash, Cloudflare is challenging TypeSafe AI's Jev decision model. Clef-flash delivers classifications in about 39 milliseconds, making it more than ten times…",
+      "link": "https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/cloudflare_logo_wall-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-02T18:19:51+00:00"
+    },
+    {
+      "id": "593a5e64b60b1296",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and…",
+      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-02T18:11:27+00:00"
+    },
+    {
+      "id": "b19a7eb5407edebb",
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04281_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-02T18:00:00+00:00"
+    },
+    {
+      "id": "c259bfeb8d1ac60b",
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that…",
+      "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-02T17:48:16+00:00"
+    },
+    {
+      "id": "11030a3d24bc4f0a",
+      "title": "Breaking up (with Elon Musk) is hard to do",
+      "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a…",
+      "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STPK222_SHIVON_ZILIS2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-02T17:37:36+00:00"
+    },
+    {
+      "id": "886b2bd43a36bf79",
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-02T17:32:05+00:00"
+    },
     {
       "id": "a4551ff1dd591718",
       "title": "Big Mac mais caro? McDonald's adota IA para cobrar \"preço dinâmico\" dos lanches",
@@ -111,17 +331,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-02T15:12:00+00:00"
-    },
-    {
-      "id": "886b2bd43a36bf79",
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-02T15:00:00+00:00"
     },
     {
       "id": "6a7bb4e3e69d69f5",
@@ -782,215 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-01T14:36:50+00:00"
-    },
-    {
-      "id": "25498ab5c7c809bb",
-      "title": "Anthropic brings Claude to civilian agencies as its fight with the Pentagon drags on",
-      "summary": "Anthropic is now offering Claude for Government to US federal and state agencies. The platform runs in a FedRAMP High environment, the strictest US security level for cloud…",
-      "link": "https://the-decoder.com/anthropic-brings-claude-to-civilian-agencies-as-its-fight-with-the-pentagon-drags-on/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/claude_government.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-01T14:26:54+00:00"
-    },
-    {
-      "id": "d2fc4addebcc9e34",
-      "title": "Golpe usa site oficial do ChatGPT para infectar PCs com Windows",
-      "summary": "Criminosos estão usando páginas hospedadas no próprio domínio do ChatGPT para levar usuários do Windows a instalar um malware capaz de assumir o controle do computador . A…",
-      "link": "https://canaltech.com.br/seguranca/golpe-usa-site-oficial-do-chatgpt-para-infectar-pcs-com-windows/",
-      "image": "https://tl.ctcdn.com.br/YcTZHHYFhPr5QzRqY7vwryPXa7w=/0x0/filters:format(webp):quality(85)/3ec59fd7-f707-443c-88c5-245a11e1554d.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-01T14:01:01+00:00"
-    },
-    {
-      "id": "e52668df7bb2e833",
-      "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-      "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the…",
-      "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_1001_Oleary.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-01T14:00:00+00:00"
-    },
-    {
-      "id": "199e9ff185705c78",
-      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead…",
-      "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-01T14:00:00+00:00"
-    },
-    {
-      "id": "47e9cb4aa3bb1aa9",
-      "title": "Security startup finds more than 13,000 internal company screenshots that AI agents uploaded publicly",
-      "summary": "AI agents quietly posted more than 13,000 internal screenshots from 343 organizations, including Fortune 500 companies, to public GitHub repos. Because the platform didn't offer a…",
-      "link": "https://the-decoder.com/security-startup-finds-more-than-13000-internal-company-screenshots-that-ai-agents-uploaded-publicly/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/glow_github.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-01T13:19:33+00:00"
-    },
-    {
-      "id": "4ec80b71d38dfb3a",
-      "title": "Google anuncia Gemini 4 Argon, IA para tarefas complexas e segurança",
-      "summary": "Gemini 4 Argon superou concorrentes como Claude Opus 5.5 e GPT-6 Astra em benchmarks. Google anuncia Gemini 4 Argon, IA para tarefas complexas e segurança",
-      "link": "https://tecnoblog.net/noticias/google-anuncia-gemini-4-argon-ia-para-tarefas-complexas-e-seguranca/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/gemini-4-argon-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-01T13:13:53+00:00"
-    },
-    {
-      "id": "73f8b77898ca14a4",
-      "title": "Hearing tech startup Legato launches its AI hearing glasses",
-      "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-      "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-01T13:00:00+00:00"
-    },
-    {
-      "id": "6c194ba954a1f254",
-      "title": "AI beats Stratego's greatest player, ending one of the last human strongholds in board games",
-      "summary": "The AI system Ataraxos has decisively beaten the best Stratego player of all time. The board game is a tough test for AI because both sides set up their pieces face down. Google…",
-      "link": "https://the-decoder.com/ai-beats-strategos-greatest-player-ending-one-of-the-last-human-strongholds-in-board-games/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/Stratego-Ataraxos-title.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-01T12:58:02+00:00"
-    },
-    {
-      "id": "8cc928aec4c09995",
-      "title": "Google apresenta Gemini 4 Argon, nova IA para peitar ChatGPT e Claude",
-      "summary": "O Gemini 4 Argon é o novo modelo de IA mais poderoso do Google e a resposta da empresa para bater de frente com GPT-6 Astra e Claude Fable 5.1. A novidade foi revelada nesta…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/google-apresenta-gemini-4-argon-nova-ia-para-peitar-chatgpt-e-claude/",
-      "image": "https://tl.ctcdn.com.br/747FwnXJiYVOhX_eux2xgEVl2p4=/0x0/filters:format(webp):quality(85)/277b191a-a865-47bf-a320-c3e55ff5a93a.webp",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-01T12:18:53+00:00"
-    },
-    {
-      "id": "96d1a1db9bd576ce",
-      "title": "E aconteceu de novo: agentes de IA tentaram invadir site do governo do Canadá",
-      "summary": "Confira os detalhes da tentativa de invasão cibernética por IA no Canadá e entenda os riscos crescentes de agentes fora de controle O post E aconteceu de novo: agentes de IA…",
-      "link": "https://olhardigital.com.br/2026/10/01/inteligencia-artificial/e-aconteceu-de-novo-agentes-de-ia-tentaram-invadir-site-do-governo-do-canada/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/ia_ciberseguranca-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-01T12:06:09+00:00"
-    },
-    {
-      "id": "3b1a6af7547f9a0d",
-      "title": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
-      "summary": "OpenAI says it stopped a coordinated campaign in which more than 15,000 accounts tried to copy the hidden reasoning of its models. The company ties part of the activity to people…",
-      "link": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_gpt_6_stars_astra.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-01T12:05:49+00:00"
-    },
-    {
-      "id": "a116d3c393215970",
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-01T12:00:00+00:00"
-    },
-    {
-      "id": "e98ea02c8e9caac2",
-      "title": "Prefeitura de SP barra radares com IA; entenda o motivo",
-      "summary": "Por enquanto, a Prefeitura de São Paulo não vai adotar câmeras de monitoramento com inteligência artificial (IA) para multar motoristas por condutas como o uso do celular ao…",
-      "link": "https://canaltech.com.br/carros/prefeitura-de-sp-barra-radares-com-ia-entenda-o-motivo/",
-      "image": "https://tl.ctcdn.com.br/kZKaqb_ObxG8NwKn17Bgpd1-KWo=/0x0/filters:format(webp):quality(85)/0bf0e9b0-18c5-41ec-8026-81672bb6e216.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-01T10:30:05+00:00"
-    },
-    {
-      "id": "674a4365b6a0a3d9",
-      "title": "Hackers chineses usam e-mails falsos para roubar senhas de cientistas",
-      "summary": "Entenda como o grupo TA419 usou convites falsos para tentar roubar credenciais e dados sobre a regulação de IA nos EUA e Japão O post Hackers chineses usam e-mails falsos para…",
-      "link": "https://olhardigital.com.br/2026/10/01/inteligencia-artificial/hackers-chineses-usam-e-mails-falsos-para-roubar-senhas-de-cientistas/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/12/Golpe-de-phishing-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-01T10:29:34+00:00"
-    },
-    {
-      "id": "0b8e9ef280b05f36",
-      "title": "Samsung prepara óculos inteligentes para novembro e desafia Apple e Meta",
-      "summary": "A Samsung deve lançar seus primeiros óculos inteligentes em novembro , colocando no mercado um novo rival para os dispositivos da Meta e para os futuros óculos da Apple . O…",
-      "link": "https://canaltech.com.br/produtos/samsung-prepara-oculos-inteligentes-para-novembro-e-desafia-apple-e-meta/",
-      "image": "https://tl.ctcdn.com.br/iKqunYf65A7Hgd6NiINendsvy04=/0x0/filters:format(webp):quality(85)/e2114a5e-9dd3-48a2-9089-f1fe1550958e.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-01T09:43:07+00:00"
-    },
-    {
-      "id": "4776c9d6004936e9",
-      "title": "NVIDIA Releases Kumo Tabular: Open Tabular Foundation Models That Predict New Rows in a Single Forward Pass",
-      "summary": "NVIDIA has released Kumo Tabular, a new family of tabular foundation models (TFMs) for classification and regression. If you have followed TabPFN or TabICL, the setup will look…",
-      "link": "https://www.marktechpost.com/2026/09/30/nvidia-releases-kumo-tabular/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-01T06:57:50+00:00"
-    },
-    {
-      "id": "7ab1bcf26552de04",
-      "title": "Perplexity Releases pplx-embed-v2-context-9b-preview: A Contextual Embedding Model That Retrieves Answers and Their Supporting Evidence",
-      "summary": "Perplexity Research and turbopuffer have released pplx-embed-v2-context-9b-preview, a contextual embedding model for RAG pipelines. Each chunk is embedded with the full document…",
-      "link": "https://www.marktechpost.com/2026/09/30/perplexity-releases-pplx-embed-v2-context-9b-preview-a-contextual-embedding-model-that-retrieves-answers-and-their-supporting-evidence/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-01T03:23:39+00:00"
-    },
-    {
-      "id": "227fb83f13f89029",
-      "title": "Eleições: posso perguntar para a IA em que votar?",
-      "summary": "Ricardo Souza, advogado especialista em direito digital, explica o que os chatbots de IA podem e o que não podem responder para os eleitores O post Eleições: posso perguntar para…",
-      "link": "https://olhardigital.com.br/2026/09/30/videos/eleicoes-posso-perguntar-para-a-ia-em-que-votar/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-01T02:20:15+00:00"
-    },
-    {
-      "id": "c5161b4e450c6c0f",
-      "title": "Olhar do Amanhã: a nova era da IA que age antes de você pedir",
-      "summary": "Álvaro Machado Dias, colunista do Olhar Digital News, analisa a nova aposta das empresas de IA: a chamada inteligência ambiental O post Olhar do Amanhã: a nova era da IA que age…",
-      "link": "https://olhardigital.com.br/2026/09/30/colunistas/olhar-do-amanha-a-nova-era-da-ia-que-age-antes-de-voce-pedir/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-01T01:35:51+00:00"
     }
   ]
 }
