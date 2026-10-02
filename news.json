@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-02T04:08:17.634157+00:00",
+  "generated_at": "2026-10-02T11:54:47.663769+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "96e7b8a42b99480c",
+      "title": "Sony libera upscaler de IA para o PS5 base; conheça o QSSR",
+      "summary": "A Sony Interactive Entertainment (SIE) anunciou nesta quinta-feira (1) que a tecnologia de upscaling chegou ao PlayStation 5 base . O recurso, chamado de Super-resolução espectral…",
+      "link": "https://canaltech.com.br/games/sony-libera-upscaler-de-ia-para-o-ps5-base-conheca-o-qssr/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T11:54:18+00:00"
+    },
+    {
+      "id": "1d9153a945914bf1",
+      "title": "Amazon writes scary blog warning communities not to block data centers",
+      "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today…",
+      "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-02T11:52:20+00:00"
+    },
+    {
+      "id": "6f92fbdb9d185a4f",
+      "title": "AI beats licensed accountants on speed and accuracy, but still can't close the books without supervision",
+      "summary": "According to a Mercor study, current AI models now outperform licensed CPAs on structured accounting tasks in both speed and accuracy. Eighteen months ago, they still lagged far…",
+      "link": "https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/mercor_accountants.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-02T11:15:24+00:00"
+    },
+    {
+      "id": "e925a640346da263",
+      "title": "AI music maker Suno now generates spoken words",
+      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-02T09:42:19+00:00"
+    },
+    {
+      "id": "33024bf7e808686d",
+      "title": "Resumo do OD: o que seu candidato pensa sobre terras raras? E mais! IA, mudanças climáticas e lançamento da SpaceX",
+      "summary": "O Olhar Digital examinou os planos de governo de seis candidatos à Presidência para entender suas propostas sobre terras raras e minerais críticos O post Resumo do OD: o que seu…",
+      "link": "https://olhardigital.com.br/2026/10/02/pro/resumo-do-od-o-que-seu-candidato-pensa-sobre-terras-raras-e-mais-ia-mudancas-climaticas-e-lancamento-da-spacex/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/minerais-raros-propostas-819x1024.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T09:25:59+00:00"
+    },
+    {
+      "id": "90f1f40531b19901",
+      "title": "Microsoft AI releases new transcription and text-to-speech models for voice agents",
+      "summary": "Microsoft AI has released MAI-Transcribe-2-Streaming, a new model for real-time transcription. The article Microsoft AI releases new transcription and text-to-speech models for…",
+      "link": "https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/MAI-quotation_marks_swarm_hq-1920x1167-1.webp",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-02T09:20:39+00:00"
+    },
+    {
+      "id": "d8221c3d180cb55f",
+      "title": "Businesses are using more AI and paying less for it, Ramp AI Index shows",
+      "summary": "US companies are spending less on AI, according to the latest Ramp AI Index from Ramp economist Ara Kharazian. The article Businesses are using more AI and paying less for it…",
+      "link": "https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/04/fipo-qwen-training-policy-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-02T09:09:21+00:00"
+    },
+    {
+      "id": "e5addb39494bae71",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in…",
+      "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-02T08:00:00+00:00"
+    },
+    {
+      "id": "ba297815036625f4",
+      "title": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
+      "summary": "Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, lets users compose…",
+      "link": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-02T07:44:44+00:00"
+    },
+    {
+      "id": "660fc420468ba0a2",
+      "title": "AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms",
+      "summary": "AWS's Strands Agents team released Strands Decider 2B, an Apache-2.0 decision model built on Qwen3.5-2B-Base. It returns choices, yes/no probabilities and scores with calibrated…",
+      "link": "https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-strands-decider-2b/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-02T06:35:00+00:00"
+    },
     {
       "id": "56c490db040147f1",
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
@@ -881,116 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-30T18:42:47+00:00"
-    },
-    {
-      "id": "b9fe2a3a107c5fc7",
-      "title": "Hora de imprimir mais e gastar menos: confira impressoras em oferta na Amazon",
-      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três modelos multifuncionais em promoção na Amazon — todos…",
-      "link": "https://olhardigital.com.br/2026/09/30/reviews/hora-de-imprimir-mais-e-gastar-menos-confira-impressoras-em-oferta-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-30T18:40:00+00:00"
-    },
-    {
-      "id": "b2771661d1e68db3",
-      "title": "Japão quer 10 milhões de robôs no mercado para enfrentar falta de trabalhadores",
-      "summary": "O Japão estabeleceu a meta de colocar cerca de 10 milhões de robôs equipados com inteligência artificial em operação até 2040 . A iniciativa faz parte de uma estratégia nacional…",
-      "link": "https://canaltech.com.br/produtos/japao-quer-10-milhoes-de-robos-no-mercado-para-enfrentar-falta-de-trabalhadores/",
-      "image": "https://tl.ctcdn.com.br/cjH6TlrZqYiR4om_-nj7PPi776s=/0x0/filters:format(webp):quality(85)/0ef25dee-c431-4649-a194-3c445e90abf4.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-30T18:37:55+00:00"
-    },
-    {
-      "id": "c6533ae7507bf1a6",
-      "title": "IA do Instagram ajuda influenciadores a melhorarem os posts",
-      "summary": "Assistente do Edits analisa métricas da conta para sugerir temas, roteiros, legendas e mudanças que podem melhorar o desempenho dos conteúdos. IA do Instagram ajuda…",
-      "link": "https://tecnoblog.net/noticias/ia-do-instagram-ajuda-influenciadores-a-melhorarem-os-posts/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/03/instagram-capa-2-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-30T18:35:56+00:00"
-    },
-    {
-      "id": "d7a8b0578bb03262",
-      "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
-      "summary": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-500x500-1784833195.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-30T18:25:04+00:00"
-    },
-    {
-      "id": "ecee7b20064e2761",
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-      "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-30T18:23:57+00:00"
-    },
-    {
-      "id": "26d0d97385bdc362",
-      "title": "Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats",
-      "summary": "Google is replacing Gems with \"Skills\" in Gemini chat. Skills are detailed, reusable prompts that users invoke by typing \"/\" or that Gemini runs automatically. The format is based…",
-      "link": "https://the-decoder.com/google-drops-gems-for-skills-joining-openai-and-anthropic-in-the-shift-to-agent-ready-prompt-formats/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-30T18:16:04+00:00"
-    },
-    {
-      "id": "e1f60c1c2506179f",
-      "title": "The AI Tamagotchis are coming",
-      "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3046.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-30T18:07:38+00:00"
-    },
-    {
-      "id": "5ee5bdf313c5a5c8",
-      "title": "Nova pulseira da Xiaomi chega ao Brasil com 50 treinos e bateria de 21 dias",
-      "summary": "Quem busca uma pulseira inteligente para acompanhar exercícios sem precisar recarregar o dispositivo a cada poucos dias ganhou uma nova alternativa no Brasil. Isso porque a Xiaomi…",
-      "link": "https://canaltech.com.br/smartwatch/nova-pulseira-da-xiaomi-chega-ao-brasil-com-50-treinos-e-bateria-de-21-dias/",
-      "image": "https://tl.ctcdn.com.br/4HBZdtTEEqI8KrP0LbV0MQDIFi0=/0x0/filters:format(webp):quality(85)/66397c28-9a5d-4d2c-8f69-e1177c89d23c.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-30T17:52:22+00:00"
-    },
-    {
-      "id": "9d0cd3e06e9ac75d",
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
-      "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-30T17:45:00+00:00"
-    },
-    {
-      "id": "1f1c95ab6617fc61",
-      "title": "McDonald’s usa IA para mudar preços e pressionar franqueados",
-      "summary": "Diferenças chegaram a 21% no preço do mesmo lanche entre lojas da mesma cidade. McDonald’s usa IA para mudar preços e pressionar franqueados",
-      "link": "https://tecnoblog.net/noticias/mcdonalds-usa-ia-para-mudar-precos-e-pressionar-franqueados/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/09/mcdonalds-1-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-30T17:28:16+00:00"
     }
   ]
 }
