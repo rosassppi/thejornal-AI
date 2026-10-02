@@ -1,7 +1,260 @@
 {
-  "generated_at": "2026-10-02T11:54:47.663769+00:00",
+  "generated_at": "2026-10-02T17:29:35.968393+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "a4551ff1dd591718",
+      "title": "Big Mac mais caro? McDonald's adota IA para cobrar \"preço dinâmico\" dos lanches",
+      "summary": "O McDonald's está usando inteligência artificial para recomendar quanto cada restaurante deve cobrar pelos itens do cardápio nos Estados Unidos e em alguns mercados…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/big-mac-mais-caro-mcdonalds-adota-ia-para-cobrar-preco-dinamico-dos-lanches/",
+      "image": "https://tl.ctcdn.com.br/MLNRy2_j2fjtQIuGA156z-a7hWI=/0x0/filters:format(webp):quality(85)/57ad6a82-fd5d-4161-85bf-b9994ee0ccf1.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T17:01:00+00:00"
+    },
+    {
+      "id": "5aafb242bf3873bb",
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "summary": "With all the talk about how AI might one day ill us all, it's easy to forget that AI has already harmed some people, psychologically. Circuit Breaker Labs has created \"crash test…",
+      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-02T17:00:00+00:00"
+    },
+    {
+      "id": "46d7f0edc99fc541",
+      "title": "Casa inteligente com voz: os melhores Echo com Alexa estão em promoção na Amazon",
+      "summary": "Se você quer transformar sua casa em um ambiente conectado, os smart speakers com Alexa da Amazon são um dos caminhos mais práticos para começar. Separamos três ótimas opções em…",
+      "link": "https://olhardigital.com.br/2026/10/02/reviews/casa-inteligente-com-voz-os-melhores-echo-com-alexa-estao-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T17:00:00+00:00"
+    },
+    {
+      "id": "c38af6e5cae43e23",
+      "title": "A model guide for the GPT-6 family",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "link": "https://openai.com/index/practical-guide-building-gpt-6",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-02T16:15:00+00:00"
+    },
+    {
+      "id": "c37300cca94e73f7",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of…",
+      "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Uniphore-Report-2026-UPDATE-cover.png",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-02T15:49:04+00:00"
+    },
+    {
+      "id": "d30de3388ab4a6c1",
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created…",
+      "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-02T15:39:41+00:00"
+    },
+    {
+      "id": "1da4b7bc0183a56e",
+      "title": "Nvidia dispara na bolsa e chega perto de valer R$ 31,4 trilhões",
+      "summary": "Nvidia bate recorde na Bolsa e se aproxima de US$ 6 trilhões em valor de mercado, impulsionada pelo otimismo com a IA da Meta O post Nvidia dispara na bolsa e chega perto de valer…",
+      "link": "https://olhardigital.com.br/2026/10/02/pro/nvidia-dispara-na-bolsa-e-chega-perto-de-valer-r-314-trilhoes/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/meta-nvidia-1024x544.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T15:33:30+00:00"
+    },
+    {
+      "id": "1842f46b3987922a",
+      "title": "Datalab Introduces OmniExtractBench to Fix Bias and Opacity in Extraction Benchmarks",
+      "summary": "Content-based row matching, 6 per-value verdicts and a null rule make OmniExtractBench an extraction benchmark anyone can audit. The post Datalab Introduces OmniExtractBench to…",
+      "link": "https://www.marktechpost.com/2026/10/02/datalab-introduces-omniextractbench-to-fix-bias-and-opacity-in-extraction-benchmarks/",
+      "image": "https://www.marktechpost.com/www.marktechpost.com/99aa44e4-f441-4863-9646-3503c6879aac",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-02T15:23:35+00:00"
+    },
+    {
+      "id": "e81b1dea7ce0fb42",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "summary": "",
+      "link": "https://huggingface.co/blog/allenai/astabrief",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-02T15:19:50+00:00"
+    },
+    {
+      "id": "60bf3121690991f7",
+      "title": "IA caloteira: Gemini 4 é pego recusando reembolsos e mentindo para lucrar",
+      "summary": "O Google lançou o modelo Gemini 4 Argon nesta semana com resultados similares aos concorrentes de topo no mercado em testes de benchmark. No entanto, um laboratório identificou…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/ia-caloteira-gemini-4-e-pego-recusando-reembolsos-e-mentindo-para-lucrar/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T15:12:00+00:00"
+    },
+    {
+      "id": "886b2bd43a36bf79",
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-02T15:00:00+00:00"
+    },
+    {
+      "id": "6a7bb4e3e69d69f5",
+      "title": "The latest AI news we announced in September 2026",
+      "summary": "A video showing the September AI updates",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-02T15:00:00+00:00"
+    },
+    {
+      "id": "c28abcad33774a2e",
+      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+      "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
+      "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Shield-10-yrs-1-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-02T14:52:16+00:00"
+    },
+    {
+      "id": "628bff56e9ed19c5",
+      "title": "Apple pode lançar câmera residencial com IA (mas que não grava vídeos)",
+      "summary": "Dispositivo analisaria o ambiente e descreveria eventos em texto. Câmera faria parte do novo ecossistema de casa inteligente da Apple. Apple pode lançar câmera residencial com IA…",
+      "link": "https://tecnoblog.net/noticias/apple-pode-lancar-camera-residencial-com-ia-mas-que-nao-grava-videos/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/02/camera-seguranca-monitoramento-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T14:47:03+00:00"
+    },
+    {
+      "id": "8adb07de513e420c",
+      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+      "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-02T14:30:00+00:00"
+    },
+    {
+      "id": "8943921267cd46d0",
+      "title": "Edits do Instagram ganha IA que faz raio-x dos seus Reels e ensina a reter público",
+      "summary": "O Edits, aplicativo de edição de vídeos do Instagram, ganhou um assistente de inteligência artificial capaz de analisar o desempenho dos Reels de cada criador e apontar o que pode…",
+      "link": "https://canaltech.com.br/apps/edits-do-instagram-ganha-ia-que-faz-raio-x-dos-seus-reels-e-ensina-a-reter-publico/",
+      "image": "https://tl.ctcdn.com.br/T8u0v4c_mhoNUQZrEMEZr17J_s8=/0x0/filters:format(webp):quality(85)/9f7608ca-47cd-4b83-9cbd-1b0b9391ce7e.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T14:30:00+00:00"
+    },
+    {
+      "id": "f8d7cbe015b8af23",
+      "title": "Conversar com Drácula? Audible ganha IA que coloca você para falar com personagens de livros",
+      "summary": "A Audible, empresa de audiolivros pertencente à Amazon, ganhou uma ferramenta de inteligência artificial que coloca os ouvintes para conversar com personagens de livros . A…",
+      "link": "https://canaltech.com.br/apps/conversar-com-dracula-audible-ganha-ia-que-coloca-voce-para-falar-com-personagens-de-livros/",
+      "image": "https://tl.ctcdn.com.br/VC8FpMrDOppCkNX5xMUA6BQQzxc=/0x0/filters:format(webp):quality(85)/649f4f45-d901-4f9d-befd-8cbcf2aaa095.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T13:03:00+00:00"
+    },
+    {
+      "id": "22c1abdbb5ce5d3e",
+      "title": "Vídeos curtos, IA e algoritmos: como a desinformação viraliza nas eleições",
+      "summary": "Com um único clique, um conteúdo tem o poder de viralizar e influenciar pessoas conforme o alcance que conseguir nas redes sociais. Quando se trata de uma informação falsa, as…",
+      "link": "https://canaltech.com.br/internet-e-redes-sociais/videos-curtos-ia-e-algoritmos-como-a-desinformacao-viraliza-nas-eleicoes/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T13:00:04+00:00"
+    },
+    {
+      "id": "0f1ae9cf0893fa60",
+      "title": "Three firings and a fourth departure shake up OpenAI's safety team",
+      "summary": "OpenAI has parted ways with three researchers who allegedly leaked confidential information to an outside AI safety organization, according to the Wall Street Journal. The article…",
+      "link": "https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-02T12:51:08+00:00"
+    },
+    {
+      "id": "ce9ee0929674952a",
+      "title": "ChatGPT ganha provador virtual para você testar roupas por foto antes de comprar",
+      "summary": "A OpenAI lançou um provador virtual no ChatGPT para experimentar uma roupa antes de comprar pela internet. O recurso usa IA para criar uma imagem da pessoa com base nas selfies…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-ganha-provador-virtual-para-voce-testar-roupas-por-foto-antes-de-comprar/",
+      "image": "https://tl.ctcdn.com.br/wWu-v4sjzCUcg_sEK6AjL5cAeB8=/0x0/filters:format(webp):quality(85)/2ef35e6a-f42e-4506-b047-09296787e381.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T12:04:11+00:00"
+    },
+    {
+      "id": "4eab2ba235e4d731",
+      "title": "Se o consumidor perguntar ao ChatGPT o que comprar, sua marca vai aparecer?",
+      "summary": "*Por Letícia Souza Durante quase três décadas, o funil do comércio eletrônico dependeu de um gesto simples e repetitivo: o consumidor abria um buscador tradicional, digitava…",
+      "link": "https://canaltech.com.br/mercado/se-o-consumidor-perguntar-ao-chatgpt-o-que-comprar-sua-marca-vai-aparecer/",
+      "image": "https://tl.ctcdn.com.br/DC6vz5bDAblS4-RJTUkMD0JLvB4=/0x0/filters:format(webp):quality(85)/f0f35b88-da04-4fe5-94f0-5415ea279ac1.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T12:00:02+00:00"
+    },
+    {
+      "id": "4805756b99237b8b",
+      "title": "AI hallucinations are making entitled customers even worse",
+      "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a…",
+      "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-02T12:00:00+00:00"
+    },
+    {
+      "id": "a7d67921299ea2a1",
+      "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+      "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's…",
+      "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268788_Datacenter_biomimicry_PARKIN_2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-02T12:00:00+00:00"
+    },
     {
       "id": "96e7b8a42b99480c",
       "title": "Sony libera upscaler de IA para o PS5 base; conheça o QSSR",
@@ -188,6 +441,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-10-02T00:03:23+00:00"
+    },
+    {
+      "id": "882596cbc7639eb4",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "link": "https://openai.com/index/chatham-financial",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-02T00:00:00+00:00"
     },
     {
       "id": "620d03c13895e5fe",
@@ -392,7 +656,7 @@
       "title": "Galaxy Tab S11 Ultra registra desconto agressivo após anúncio do S12 Ultra",
       "summary": "Galaxy Tab S11 Ultra de 512 GB com tela AMOLED e Galaxy AI fica com preço reduzido ao combinar cupom e pagamento via Pix no Meli Galaxy Tab S11 Ultra registra desconto agressivo…",
       "link": "https://tecnoblog.net/achados/galaxy-tab-s11-ultra-registra-desconto-agressivo-apos-anuncio-do-s12-ultra/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2025/11/galaxy-tab-s11-ultra-achado-do-dia-1060x596.png",
       "source": "Tecnoblog",
       "region": "brasil",
       "category": "Brasil",
@@ -542,17 +806,6 @@
       "published_at": "2026-10-01T14:01:01+00:00"
     },
     {
-      "id": "199e9ff185705c78",
-      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead…",
-      "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-01T14:00:00+00:00"
-    },
-    {
       "id": "e52668df7bb2e833",
       "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
       "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the…",
@@ -561,6 +814,17 @@
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
+      "published_at": "2026-10-01T14:00:00+00:00"
+    },
+    {
+      "id": "199e9ff185705c78",
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead…",
+      "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-10-01T14:00:00+00:00"
     },
     {
@@ -727,270 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-01T01:35:51+00:00"
-    },
-    {
-      "id": "672ac214f61114ad",
-      "title": "OpenAI acusa chinesa Moonshot de distilar suas IAs",
-      "summary": "Atividade teria começado no início de julho e atingido pico entre os dias 24 e 25 daquele mês, quando a OpenAI identificou 16 mil solicitações feitas por mais de quatro mil…",
-      "link": "https://olhardigital.com.br/2026/09/30/inteligencia-artificial/openai-acusa-chinesa-moonshot-de-distilar-suas-ias/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/Destaque-Moonshot-AI-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-01T01:18:20+00:00"
-    },
-    {
-      "id": "e3b90bc1c87c24e2",
-      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-      "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a…",
-      "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-30-at-5.16.09-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-01T00:23:45+00:00"
-    },
-    {
-      "id": "2167384f51e2a446",
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "link": "https://openai.com/index/the-den-family-social",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-01T00:00:00+00:00"
-    },
-    {
-      "id": "0de5978e2c8eb330",
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-      "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-30T23:43:07+00:00"
-    },
-    {
-      "id": "1c796299917790dc",
-      "title": "Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead",
-      "summary": "Gemini 4 Argon is Google's first frontier model in over seven months. It matches GPT-6 Astra in independent testing but can't keep up with Anthropic's Claude Opus 5.5. The…",
-      "link": "https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_4_argon.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-30T22:06:30+00:00"
-    },
-    {
-      "id": "4c32bcf6c2cdbb65",
-      "title": "Meta nega que sua nova IA está espionando mensagens dos usuários; entenda polêmica",
-      "summary": "A Meta negou nesta quarta-feira (30) que o Muse, seu novo agente de inteligência artificial (IA), consiga acessar mensagens privadas no Mac sem autorização. A resposta veio após…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/meta-nega-que-sua-nova-ia-esta-espionando-mensagens-dos-usuarios-entenda-polemica/",
-      "image": "https://tl.ctcdn.com.br/K9VWlGA5ryBtfXtXM1thY9YrCuo=/0x0/filters:format(webp):quality(85)/7884b8ae-19c8-4862-88da-607f66223aa7.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-30T22:03:00+00:00"
-    },
-    {
-      "id": "9e296b34df435cce",
-      "title": "Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense",
-      "summary": "Gemini 4 Argon tops GPT-6 Astra and Claude Opus 5.5 on most benchmarks, but access remains gated today. The post Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for…",
-      "link": "https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-30T21:30:08+00:00"
-    },
-    {
-      "id": "7d7fec2e0b84b93d",
-      "title": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-      "summary": "OpenAI released GPT-6.1 Sol on September 29, 2026, an upgrade to GPT-6 Sol. It reaches near-Astra results on agentic coding, computer use and professional work at one-fifth of…",
-      "link": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-09-30T21:09:24+00:00"
-    },
-    {
-      "id": "131c3b05243369a2",
-      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-30T21:07:40+00:00"
-    },
-    {
-      "id": "66ccfec7bb07664b",
-      "title": "OpenAI freia abertura de capital em nome da segurança; entenda motivos",
-      "summary": "A OpenAI não pretende avançar com uma abertura de capital enquanto não estiver mais segura sobre o comportamento de seus modelos de inteligência artificial (IA). Sam Altman, CEO…",
-      "link": "https://canaltech.com.br/mercado/openai-freia-abertura-de-capital-em-nome-da-seguranca-entenda-motivos/",
-      "image": "https://tl.ctcdn.com.br/f80LMEfza9UlSDsBuYiBdZLxokg=/0x0/filters:format(webp):quality(85)/522470c8-5fb9-4b0f-ba80-07740340ac5b.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-30T21:00:00+00:00"
-    },
-    {
-      "id": "b18259a085cce775",
-      "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-      "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software…",
-      "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-30T20:41:41+00:00"
-    },
-    {
-      "id": "4cb2561c3fbfaed5",
-      "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
-      "summary": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition.",
-      "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-30T20:39:09+00:00"
-    },
-    {
-      "id": "aa2ae54503129a3e",
-      "title": "Vivo estreia no ChatGPT com promessa de recarga e 2ª via no futuro",
-      "summary": "A Vivo passou a ocupar um novo espaço para atender seus clientes: o ChatGPT. A operadora lançou, nesta quarta-feira (30), um plugin que permite buscar informações sobre planos…",
-      "link": "https://canaltech.com.br/telecom/vivo-estreia-no-chatgpt-com-promessa-de-recarga-e-2-via-no-futuro/",
-      "image": "https://tl.ctcdn.com.br/I6qdWbPpv9pSJorTMwo3uxTjfXo=/0x0/filters:format(webp):quality(85)/7a0e7a51-b2fd-4488-9780-7ebb71a0d0f1.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-30T20:37:02+00:00"
-    },
-    {
-      "id": "1478fff34c974ea7",
-      "title": "Novo modelo de IA do Google promete avanço em programação e cibersegurança",
-      "summary": "Gemini 4 Argon é o modelo do Google mais avançado até agora, desenvolvido para lidar com tarefas complexas e de longa duração O post Novo modelo de IA do Google promete avanço em…",
-      "link": "https://olhardigital.com.br/2026/09/30/inteligencia-artificial/novo-modelo-de-ia-do-google-promete-avanco-em-programacao-e-ciberseguranca/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/gemini-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-30T20:35:12+00:00"
-    },
-    {
-      "id": "44d6505cf1dfb523",
-      "title": "IA terá quatro níveis de supervisão após acordo entre gigantes da tecnologia nos EUA",
-      "summary": "Documento foi assinado durante reunião entre Trump e executivos de grandes empresas do setor na Casa Branca O post IA terá quatro níveis de supervisão após acordo entre gigantes…",
-      "link": "https://olhardigital.com.br/2026/09/30/inteligencia-artificial/ia-tera-quatro-niveis-de-supervisao-apos-acordo-entre-gigantes-da-tecnologia-nos-eua/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Captura-de-Tela-2026-09-24-as-19.05.26-1024x469.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-30T20:18:51+00:00"
-    },
-    {
-      "id": "3f7097db6234debd",
-      "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
-      "summary": "So much for Gemini 3.5 Pro.",
-      "link": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-30T20:11:08+00:00"
-    },
-    {
-      "id": "0413e8d5ffcf5598",
-      "title": "ChatGPT quer substituir o Google Docs com o Space; conheça o novo recurso",
-      "summary": "A OpenAI anunciou o ChatGPT Space , um novo ambiente de trabalho compartilhado que permite criar e editar conteúdos com a participação de pessoas e inteligência artificial no…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-quer-substituir-o-google-docs-com-o-space-conheca-o-novo-recurso/",
-      "image": "https://tl.ctcdn.com.br/oUMoXDQPn-yOR44vobblskhdmhY=/0x0/filters:format(webp):quality(85)/8342f4ab-4e48-4190-8797-8ab3823ce499.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-30T20:09:00+00:00"
-    },
-    {
-      "id": "43e31ff0b8990018",
-      "title": "IA tem ‘pedágio que você vai pagar lá na frente’, diz psicólogo",
-      "summary": "O alerta do psicólogo nada tem a ver com questões financeiras. Tem a ver com o jeito que seu cérebro funciona; confira a entrevista O post IA tem ‘pedágio que você vai pagar lá na…",
-      "link": "https://olhardigital.com.br/2026/09/30/inteligencia-artificial/ia-tem-pedagio-que-voce-vai-pagar-la-na-frente-diz-psicologo/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Prompts-Uso-de-IA-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-30T19:53:17+00:00"
-    },
-    {
-      "id": "b039f703ebf7885f",
-      "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
-      "summary": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.",
-      "link": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294068904-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-30T19:31:25+00:00"
-    },
-    {
-      "id": "98e10cf6ed7ab4e1",
-      "title": "OpenAI and Synopsys team up to build an AI model that designs chips like a seasoned engineer",
-      "summary": "OpenAI and Synopsys are building GPT-Synopsys, a specialized AI model for chip design. It's meant to operate Synopsys' EDA tools like a seasoned engineer and optimize designs on…",
-      "link": "https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/Synopsys-OpenAI.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-30T19:12:30+00:00"
-    },
-    {
-      "id": "348f0c13d3c0b9bc",
-      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
-      "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-30T19:00:57+00:00"
-    },
-    {
-      "id": "3615960163537c76",
-      "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
-      "summary": "Trump gets dozens of AI firms to agree to voluntary safety tests.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2297759490-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-30T18:47:01+00:00"
-    },
-    {
-      "id": "9fa981a92ff5c566",
-      "title": "Apple prepara entrada no mercado de casa inteligente com novo hub",
-      "summary": "Dispositivo deve ser o centro da estratégia da empresa para ampliar sua presença nesse segmento O post Apple prepara entrada no mercado de casa inteligente com novo hub apareceu…",
-      "link": "https://olhardigital.com.br/2026/09/30/reviews/apple-prepara-entrada-no-mercado-de-casa-inteligente-com-novo-hub/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/08/google_nest-1024x769.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-30T18:46:00+00:00"
-    },
-    {
-      "id": "f435dde1a01d3735",
-      "title": "A IA está nos deixando burros? O que você precisa entender",
-      "summary": "A IA mudou como fazemos e pensamos sobre as coisas; o Olhar Digital conversou sobre isso com especialistas – e pediu dicas O post A IA está nos deixando burros? O que você precisa…",
-      "link": "https://olhardigital.com.br/2026/09/30/inteligencia-artificial/o-que-voce-precisa-entender-sobre-como-a-ia-pode-te-emburrecer/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/Destaque-Cerebro-humano-e-IA-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-30T18:42:47+00:00"
     }
   ]
 }
