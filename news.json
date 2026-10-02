@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-10-01T22:21:37.467229+00:00",
+  "generated_at": "2026-10-02T04:08:17.634157+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "56c490db040147f1",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "summary": "",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-02T04:01:31+00:00"
+    },
+    {
+      "id": "83e47aff7c85754c",
+      "title": "Fundos estatais chineses financiaram compra de chips de IA da Nvidia restritos",
+      "summary": "Operação, revelada por registros regulatórios chineses analisados pela Bloomberg, evidencia o papel de entidades estatais no financiamento da infraestrutura de IA do país O post…",
+      "link": "https://olhardigital.com.br/2026/10/01/pro/fundos-estatais-chineses-financiaram-compra-de-chips-de-ia-da-nvidia-restritos/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/fachada_nvidia-e1747656103602-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T01:17:12+00:00"
+    },
+    {
+      "id": "33c5ef02aedc69ed",
+      "title": "Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text",
+      "summary": "Cloudflare has released Clef (27B) and Clef-flash (9B), open-weight decision models that return typed probabilities instead of text. They are Jev-API compatible, accept images…",
+      "link": "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-02T01:00:41+00:00"
+    },
+    {
+      "id": "5d6deb5100d8fe5a",
+      "title": "A Coding Guide to Google Research’s Kauldron: Configs That Are Plain Data, Components Wired by String, and a JAX Trainer You Can Read End to End",
+      "summary": "In this comprehensive coding guide, we explore Google Research's Kauldron—a JAX training library optimized for research velocity and modularity. Learn how konfig turns experiments…",
+      "link": "https://www.marktechpost.com/2026/10/01/a-coding-guide-to-google-researchs-kauldron-configs-that-are-plain-data-components-wired-by-string-and-a-jax-trainer-you-can-read-end-to-end/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-02T00:32:50+00:00"
+    },
+    {
+      "id": "fdf32c029154c184",
+      "title": "ChatGPT agora pode ser seu “provador virtual”; entenda",
+      "summary": "Novidade aparece nas páginas de produtos exibidas pelo ChatGPT durante pesquisas de compras O post ChatGPT agora pode ser seu “provador virtual”; entenda apareceu primeiro em…",
+      "link": "https://olhardigital.com.br/2026/10/01/inteligencia-artificial/chatgpt-agora-pode-ser-seu-provador-virtual-entenda/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/chatgp_provador_virtual-1024x576.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T00:29:27+00:00"
+    },
+    {
+      "id": "01bbb6b4e50e9d8f",
+      "title": "Mod faz o inimaginável e traz DLSS 4.5 para placas de vídeo AMD",
+      "summary": "Enquanto o AMD FSR pode ser usado em qualquer placa de vídeo (até a terceira versão), o NVIDIA DLSS é exclusivo das GPUs GeForce RTX. Ou será que não? Isso está mudando, mas não…",
+      "link": "https://canaltech.com.br/hardware/mod-faz-o-inimaginavel-e-traz-dlss-45-para-placas-de-video-amd/",
+      "image": "https://tl.ctcdn.com.br/16q0coWIsb0nd5oU17XVe89LAlA=/0x0/filters:format(webp):quality(85)/1c23f8ef-0838-4ab9-bad1-99822987b984.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-02T00:07:00+00:00"
+    },
+    {
+      "id": "71bf6afee5fc842d",
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "link": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-02T00:03:23+00:00"
+    },
+    {
+      "id": "620d03c13895e5fe",
+      "title": "OpenAI demite pesquisadores após vazamento de informações restritas",
+      "summary": "Três pesquisadores da equipe de segurança foram desligados por suposta má conduta, incluindo compartilhamento de informações confidenciais com organização externa de segurança da…",
+      "link": "https://olhardigital.com.br/2026/10/01/pro/openai-demite-pesquisadores-apos-vazamento-de-informacoes-restritas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/chatgpt3-e1737636498885-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-01T23:51:18+00:00"
+    },
+    {
+      "id": "95a718dad37b2473",
+      "title": "OpenAI: Califórnia abre investigação após agentes de IA invadirem sistemas",
+      "summary": "Iniciativa amplia o escrutínio sobre o comportamento de agentes de IA desenvolvidos pela empresa de Sam Altman O post OpenAI: Califórnia abre investigação após agentes de IA…",
+      "link": "https://olhardigital.com.br/2026/10/01/pro/openai-california-abre-investigacao-apos-agentes-de-ia-invadirem-sistemas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/11/hugging_face-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-01T23:29:20+00:00"
+    },
     {
       "id": "f64457ccef72c364",
       "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
@@ -892,105 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-09-30T17:28:16+00:00"
-    },
-    {
-      "id": "1a70b75dd9de5a1e",
-      "title": "The ugly economics of consumer AI",
-      "summary": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
-      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-30T17:24:45+00:00"
-    },
-    {
-      "id": "7d30d83910bdbbbb",
-      "title": "Meta dodges billions in US taxes by calling its AI data centers experiments",
-      "summary": "Meta classifies its AI data centers as \"pilot models\" and Nvidia chips as experimental materials to save billions in federal taxes. In 2025 alone, that added up to $3.9 billion…",
-      "link": "https://the-decoder.com/meta-dodges-billions-in-us-taxes-by-calling-its-ai-data-centers-experiments/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/03/meta_logo_bright_glitch.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-30T17:22:34+00:00"
-    },
-    {
-      "id": "134f0155fcc7caaf",
-      "title": "Xiaomi lança sensor de US$ 6 que sabe quando você abre portas e gavetas",
-      "summary": "A Xiaomi anunciou o Door and Window Sensor 3 , novo sensor inteligente capaz de identificar quando portas, janelas, gavetas ou armários são abertos e fechados. O acessório estreia…",
-      "link": "https://canaltech.com.br/produtos/xiaomi-lanca-sensor-de-us-6-que-sabe-quando-voce-abre-portas-e-gavetas/",
-      "image": "https://tl.ctcdn.com.br/saobywtVGxQGkNZ9oJpmlP8bDGs=/0x0/filters:format(webp):quality(85)/d482ac27-4a4c-43f5-8e81-5c812506f528.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-30T17:19:40+00:00"
-    },
-    {
-      "id": "3d09c9ead0a45c93",
-      "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
-      "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-30T17:15:49+00:00"
-    },
-    {
-      "id": "f183f1e9b6eb1e96",
-      "title": "Closet digital do Google Fotos ganhará recurso para corrigir erro irritante",
-      "summary": "O Google Fotos está preparando uma atualização para o recurso de “guarda-roupa de IA” que vai permitir que os usuários corrijam representações geradas de forma incorreta . Segundo…",
-      "link": "https://canaltech.com.br/apps/closet-digital-do-google-fotos-ganhara-recurso-para-corrigir-erro-irritante/",
-      "image": "https://tl.ctcdn.com.br/nYy24Vg7lQ9q4hiLgaMua1WY87k=/0x0/filters:format(webp):quality(85)/b7e5a9d8-96c0-440f-899e-f97d203a87f4.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-30T17:07:00+00:00"
-    },
-    {
-      "id": "2c0102cd11e61637",
-      "title": "Casa inteligente começa aqui: Echo Dot em oferta na Amazon",
-      "summary": "Quer montar uma casa mais inteligente sem complicar a vida? Os smart speakers com Alexa são uma das formas mais práticas de começar — e a Amazon está com três versões do Echo Dot…",
-      "link": "https://olhardigital.com.br/2026/09/30/reviews/casa-inteligente-comeca-aqui-echo-dot-em-oferta-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-09-30T17:00:00+00:00"
-    },
-    {
-      "id": "7d7ef74b607ee91e",
-      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-      "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the…",
-      "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-09-30T16:24:23+00:00"
-    },
-    {
-      "id": "375c1a9d43c8afde",
-      "title": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-      "summary": "The FTC is formally investigating OpenAI, Anthropic, and other leading AI labs over potential consumer protection violations. The agency plans to force document handovers and…",
-      "link": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/ftc_investigation.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-30T16:20:04+00:00"
-    },
-    {
-      "id": "cbbcab5557be883c",
-      "title": "Google's early attempt to pay websites for AI answers is struggling",
-      "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments.",
-      "link": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-09-30T16:03:48+00:00"
     }
   ]
 }
