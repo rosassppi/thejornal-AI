@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-10-03T11:07:39.279072+00:00",
+  "generated_at": "2026-10-03T15:44:23.307396+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "12f1c0f583e5ec7e",
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into…",
+      "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-03T15:00:00+00:00"
+    },
+    {
+      "id": "46c63a0311a23e0d",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-03T14:31:56+00:00"
+    },
+    {
+      "id": "d2bc26a30239717d",
+      "title": "Como adicionar instruções personalizadas no ChatGPT?",
+      "summary": "As instruções personalizadas do ChatGPT permitem informar ao chatbot como o usuário prefere receber as respostas . É possível definir o idioma, o nível de detalhes, o tom dos…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-adicionar-instrucoes-personalizadas-no-chatgpt/",
+      "image": "https://tl.ctcdn.com.br/2TiwUgj-2b8ywLJbYhyW9W6MeTU=/0x0/filters:format(webp):quality(85)/61da9b95-9d4d-40dc-8b10-0cbaf12504cb.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-03T14:30:03+00:00"
+    },
+    {
+      "id": "1e557d590035fb86",
+      "title": "\"Muse Gadgets\" turns AI hardware into an open-source DIY project",
+      "summary": "Meta announced Muse Gadgets, an open-source project that lets hobbyists build their own AI hardware using ESP32 boards and connect it to Meta's AI agent Muse. The team also…",
+      "link": "https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/met_muse_gadget_logo.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-03T14:28:51+00:00"
+    },
+    {
+      "id": "17d8d70e853f8147",
+      "title": "Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings",
+      "summary": "David Robinson, who worked on safety systems at OpenAI, left the company and is blasting its safety culture. He points to AI agents that were accidentally released and a model…",
+      "link": "https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-03T14:01:14+00:00"
+    },
+    {
+      "id": "3c49c40e0ec38e26",
+      "title": "All the AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-03T14:00:00+00:00"
+    },
+    {
+      "id": "90db4d83e789154d",
+      "title": "Upscaling por IA (DLSS, FSR, XeSS): explicando sem jargão técnico",
+      "summary": "Recursos da NVIDIA, AMD e Intel prometem mais desempenho sem sacrificar a qualidade da imagem. Veja as diferenças entre eles e qual faz mais sentido para o seu PC. O post…",
+      "link": "https://olhardigital.com.br/2026/10/03/games-e-consoles/upscaling-por-ia-dlss-fsr-xess-explicando-sem-jargao-tecnico/",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/10/dlss-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-03T14:00:00+00:00"
+    },
     {
       "id": "a7fae1f07f217448",
       "title": "Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity",
@@ -914,83 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-01T19:44:19+00:00"
-    },
-    {
-      "id": "e8ea7d8d44fb4f64",
-      "title": "Smartwatches em promoção na Amazon: veja uma seleção que vale a pena conferir",
-      "summary": "Se você está pensando em comprar um smartwatch ou presentear alguém com um relógio inteligente, este é um bom momento para pesquisar. Reunimos três opções em oferta na Amazon que…",
-      "link": "https://olhardigital.com.br/2026/10/01/reviews/smartwatches-em-promocao-na-amazon-veja-uma-selecao-que-vale-a-pena-conferir/",
-      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-01T19:40:00+00:00"
-    },
-    {
-      "id": "bc70948c064d091d",
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites…",
-      "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-01T19:21:53+00:00"
-    },
-    {
-      "id": "6f3a0f9b4d8e0454",
-      "title": "SpaceX lança chips de IA do Google ao espaço em teste para futuros data centers orbitais",
-      "summary": "A SpaceX lançou, nesta quinta-feira (1), um protótipo de satélite equipado com chips de inteligência artificial (IA) do Google. O dispositivo foi enviado à órbita a bordo de um…",
-      "link": "https://olhardigital.com.br/2026/10/01/ciencia-e-espaco/spacex-lanca-chips-de-ia-do-google-ao-espaco-em-teste-para-futuros-data-centers-orbitais/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/fachada-google-1-1024x768.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-01T19:02:59+00:00"
-    },
-    {
-      "id": "a3ddf0d851b199af",
-      "title": "Hora de renovar o home office: impressoras em promoção na Amazon",
-      "summary": "Se você está pensando em trocar a impressora ou adquirir o primeiro modelo para casa ou escritório, este é um bom momento para pesquisar. Reunimos três opções de impressoras…",
-      "link": "https://olhardigital.com.br/2026/10/01/reviews/hora-de-renovar-o-home-office-impressoras-em-promocao-na-amazon-5/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-01T18:40:00+00:00"
-    },
-    {
-      "id": "7f938778420c03ad",
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-01T18:14:42+00:00"
-    },
-    {
-      "id": "73041909be529f59",
-      "title": "Ben Affleck admite que usou IA para fazer novo filme da Netflix",
-      "summary": "O ator e diretor Ben Affleck confirmou o uso de IA “para várias coisas” na produção de Sobrevivência , seu novo filme distribuído pela Netflix. A informação é do site The…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ben-affleck-admite-que-usou-ia-para-fazer-novo-filme-da-netflix/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-01T18:10:00+00:00"
-    },
-    {
-      "id": "452f271f38d239ee",
-      "title": "Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call",
-      "summary": "Tavus has introduced Griffin, what the company calls the first \"Human Interaction Model.\" The AI holds video calls in real time, processing facial expressions, tone of voice, and…",
-      "link": "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/griffin_demo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-01T18:03:40+00:00"
     }
   ]
 }
