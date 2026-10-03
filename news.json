@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-10-03T15:44:23.307396+00:00",
+  "generated_at": "2026-10-03T20:36:45.112540+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "ee2634caee79c3a2",
+      "title": "Empresas de IA deveriam ter regras de usinas nucleares, diz ex-OpenAI",
+      "summary": "A cultura na indústria da inteligência artificial quebrou – e o setor precisa de salvaguardas de nível nuclear, escreveu David Robinson O post Empresas de IA deveriam ter regras…",
+      "link": "https://olhardigital.com.br/2026/10/03/pro/empresas-de-ia-deveriam-ter-regras-de-usinas-nucleares-diz-ex-openai/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-OpenAI-AGI-scaled-1-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-03T19:46:19+00:00"
+    },
+    {
+      "id": "e2c47aacb6b4248b",
+      "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore",
+      "summary": "OpenAI CEO Sam Altman warns against attributing religious power to AI models, calling it a \"real safety issue.\" His comments follow reports on Anthropic's meetings with religious…",
+      "link": "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/holy_openai.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-03T18:56:30+00:00"
+    },
+    {
+      "id": "303b921c47ea5f3d",
+      "title": "Hora de renovar o escritório: impressoras em promoção na Amazon",
+      "summary": "Se você está precisando de uma impressora nova — seja para o home office, para a faculdade ou para o dia a dia em casa —, a Amazon reúne agora uma seleção com boas opções para…",
+      "link": "https://olhardigital.com.br/2026/10/03/reviews/hora-de-renovar-o-escritorio-impressoras-em-promocao-na-amazon-4/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-03T18:40:00+00:00"
+    },
+    {
+      "id": "91f6f95ffe284859",
+      "title": "Como funciona a memória do ChatGPT?",
+      "summary": "Você já contou alguma coisa ao ChatGPT em uma conversa e, dias depois, percebeu que ele continuava levando aquela informação em consideração? Isso acontece por causa da memória do…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-funciona-a-memoria-do-chatgpt/",
+      "image": "https://tl.ctcdn.com.br/cdlPlMjYm4kW5Pa1kMw6ZVGVOLE=/0x0/filters:format(webp):quality(85)/f25244cd-734f-485a-80fb-56254b2f14e7.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-03T18:00:00+00:00"
+    },
+    {
+      "id": "1c084bb65d8a1ff3",
+      "title": "Impressora de fotos vale a pena? 5 melhores modelos para comprar em 2026",
+      "summary": "Imprimir fotos nunca saiu de moda para quem gosta de montar álbuns, decorar ambientes ou guardar lembranças fora da tela do celular. As impressoras fotográficas portáteis…",
+      "link": "https://canaltech.com.br/produtos/impressora-de-fotos-vale-a-pena-5-melhores-modelos-para-comprar-em-2026/",
+      "image": "https://tl.ctcdn.com.br/FnHHxvjlifoTJUU3dCFz7JfMOmM=/0x0/filters:format(webp):quality(85)/283d6794-8488-4799-a555-f0c9dd241eee.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-03T17:00:00+00:00"
+    },
+    {
+      "id": "5cb80ade64def456",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi…",
+      "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-03T16:49:10+00:00"
+    },
+    {
+      "id": "7a09b2d0105640ac",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-03T16:30:01+00:00"
+    },
     {
       "id": "12f1c0f583e5ec7e",
       "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
@@ -914,83 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-01T23:51:18+00:00"
-    },
-    {
-      "id": "95a718dad37b2473",
-      "title": "OpenAI: Califórnia abre investigação após agentes de IA invadirem sistemas",
-      "summary": "Iniciativa amplia o escrutínio sobre o comportamento de agentes de IA desenvolvidos pela empresa de Sam Altman O post OpenAI: Califórnia abre investigação após agentes de IA…",
-      "link": "https://olhardigital.com.br/2026/10/01/pro/openai-california-abre-investigacao-apos-agentes-de-ia-invadirem-sistemas/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/11/hugging_face-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-01T23:29:20+00:00"
-    },
-    {
-      "id": "f64457ccef72c364",
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-01T21:08:11+00:00"
-    },
-    {
-      "id": "9edd628865806a96",
-      "title": "OpenAI: agentes de IA podem ter afetado mais de 100 organizações",
-      "summary": "Divulgação amplia a dimensão conhecida das ações de agentes que apresentaram comportamentos fora do esperado O post OpenAI: agentes de IA podem ter afetado mais de 100…",
-      "link": "https://olhardigital.com.br/2026/10/01/inteligencia-artificial/openai-agentes-de-ia-podem-ter-afetado-mais-de-100-organizacoes/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/chatgpt-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-01T20:49:06+00:00"
-    },
-    {
-      "id": "ca97e99b5b5d1960",
-      "title": "PS5 convencional recebe upscaling com IA",
-      "summary": "Tecnologia é descrita pela Sony como novo nível de desempenho para upscaling com IA e é resultado do trabalho realizado pela empresa em conjunto com a AMD no Project Amethyst O…",
-      "link": "https://olhardigital.com.br/2026/10/01/games-e-consoles/ps5-convencional-recebe-upscaling-com-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/DualSense-PlayStation-1024x576.webp",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-01T20:21:09+00:00"
-    },
-    {
-      "id": "e5cbd7a6508b3373",
-      "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-      "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
-      "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-500x500-1748638352.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-01T20:11:55+00:00"
-    },
-    {
-      "id": "6740c72e272a106e",
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-01T19:47:51+00:00"
-    },
-    {
-      "id": "5652284d2bbb38a2",
-      "title": "IA pode ajudar na luta contra mudanças climáticas, mas existe um grande problema",
-      "summary": "Por um lado, considera-se que o avanço da IA piora as mudanças climáticas; por outro, que a tecnologia pode ajudar a resolver a crise O post IA pode ajudar na luta contra mudanças…",
-      "link": "https://olhardigital.com.br/2026/10/01/inteligencia-artificial/ia-pode-resolver-mudancas-climaticas-mas-data-centers-seriam-problema/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/shutterstock_2642305555-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-01T19:44:19+00:00"
     }
   ]
 }
