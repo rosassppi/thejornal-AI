@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-03T20:36:45.112540+00:00",
+  "generated_at": "2026-10-04T04:23:14.281633+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "91d78050a212bbdb",
+      "title": "Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine",
+      "summary": "Learn how NVIDIA IsaacTeleop turns XR hand tracking and motion controller input into robot commands using a pure Python retargeting engine and NumPy. The post Inside NVIDIA’s…",
+      "link": "https://www.marktechpost.com/2026/10/03/inside-nvidias-isaacteleop-from-hand-and-controller-tracking-to-robot-actions-with-the-graph-based-retargeting-engine/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-04T00:19:38+00:00"
+    },
+    {
+      "id": "bd1136d0fcfd6f13",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "summary": "",
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-03T22:56:48+00:00"
+    },
     {
       "id": "ee2634caee79c3a2",
       "title": "Empresas de IA deveriam ter regras de usinas nucleares, diz ex-OpenAI",
@@ -969,28 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-10-02T00:03:23+00:00"
-    },
-    {
-      "id": "882596cbc7639eb4",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "link": "https://openai.com/index/chatham-financial",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-02T00:00:00+00:00"
-    },
-    {
-      "id": "620d03c13895e5fe",
-      "title": "OpenAI demite pesquisadores após vazamento de informações restritas",
-      "summary": "Três pesquisadores da equipe de segurança foram desligados por suposta má conduta, incluindo compartilhamento de informações confidenciais com organização externa de segurança da…",
-      "link": "https://olhardigital.com.br/2026/10/01/pro/openai-demite-pesquisadores-apos-vazamento-de-informacoes-restritas/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/chatgpt3-e1737636498885-1024x577.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-01T23:51:18+00:00"
     }
   ]
 }
