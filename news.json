@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-04T04:23:14.281633+00:00",
+  "generated_at": "2026-10-04T11:48:22.733230+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "74d2a4537bd7b78c",
+      "title": "NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science",
+      "summary": "NASA and IBM have released the Lunar Foundation Model, one of the first open-source AI models for lunar science. Trained on nearly 2 million tile bundles, mostly from 17 years of…",
+      "link": "https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/nasa-ibm-research-moon-crater-ice-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-04T10:10:12+00:00"
+    },
+    {
+      "id": "106a9f1f832074d0",
+      "title": "O desafio de construir a próxima geração da inteligência artificial",
+      "summary": "Na corrida pela AGI, o verdadeiro desafio será descobrir se a inteligência pode ser ampliada indefinidamente O post O desafio de construir a próxima geração da inteligência…",
+      "link": "https://olhardigital.com.br/2026/10/04/inteligencia-artificial/o-desafio-de-construir-a-proxima-geracao-da-inteligencia-artificial/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-04T10:00:00+00:00"
+    },
+    {
+      "id": "7bb162cc13b9fac4",
+      "title": "Eleições 2026: smartphone, óculos, relógios inteligentes… O que pode e o que não pode entrar na cabine de votação?",
+      "summary": "Regra vale para o 1º turno, a ser realizado neste domingo (4), e também para eventual segundo turno, previsto para 25 de outubro O post Eleições 2026: smartphone, óculos, relógios…",
+      "link": "https://olhardigital.com.br/2026/10/04/pro/eleicoes-2026-smartphone-oculos-relogios-inteligentes-o-que-pode-e-o-que-nao-pode-entrar-na-cabine-de-votacao/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/e-titulo-de-eleitor-app-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-04T10:00:00+00:00"
+    },
+    {
+      "id": "a783bceb24237942",
+      "title": "Chinese AI models parrot state doctrine or refuse to answer on sensitive topics",
+      "summary": "Chinese AI models often follow the party line on politically sensitive questions, according to an Aleph Alpha study that rated only 17 to 41 percent of answers as balanced. Aleph…",
+      "link": "https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/aleph_alpha_china_benchmark.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-04T08:47:52+00:00"
+    },
+    {
+      "id": "0a6224dfd3815e8d",
+      "title": "Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy",
+      "summary": "Google Research has unveiled a federated learning system that moves gradient computation from phones into attested server-side TEEs. Access policies are published to Sigstore's…",
+      "link": "https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-04T07:29:59+00:00"
+    },
+    {
+      "id": "1243373f19a805f7",
+      "title": "Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro",
+      "summary": "Starting in October 2026, Google will cut free access to its Gemini models. Users without a subscription will only get the smallest model, Flash-Lite, while Flash and Pro will be…",
+      "link": "https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/google_logo_wall-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-04T07:28:54+00:00"
+    },
+    {
+      "id": "889a17dc7a00fa20",
+      "title": "Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters",
+      "summary": "Aleph Alpha has released Kolibri, a 78.1B-parameter English-German Mixture-of-Experts model that activates only 3.46B parameters per token. It has a 1M-token context and…",
+      "link": "https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-04T07:01:04+00:00"
+    },
+    {
+      "id": "7668c3b3cf0af0d2",
+      "title": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
+      "summary": "DeepSeek has released official macOS and Windows desktop apps for DeepSeek Harness v0.2, its MIT-licensed agent harness. The preview adds a plugin manager, file and code-change…",
+      "link": "https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-04T04:49:42+00:00"
+    },
     {
       "id": "91d78050a212bbdb",
       "title": "Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine",
@@ -903,94 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-02T07:44:44+00:00"
-    },
-    {
-      "id": "660fc420468ba0a2",
-      "title": "AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms",
-      "summary": "AWS's Strands Agents team released Strands Decider 2B, an Apache-2.0 decision model built on Qwen3.5-2B-Base. It returns choices, yes/no probabilities and scores with calibrated…",
-      "link": "https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-strands-decider-2b/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-02T06:35:00+00:00"
-    },
-    {
-      "id": "56c490db040147f1",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "summary": "",
-      "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-02T04:01:31+00:00"
-    },
-    {
-      "id": "83e47aff7c85754c",
-      "title": "Fundos estatais chineses financiaram compra de chips de IA da Nvidia restritos",
-      "summary": "Operação, revelada por registros regulatórios chineses analisados pela Bloomberg, evidencia o papel de entidades estatais no financiamento da infraestrutura de IA do país O post…",
-      "link": "https://olhardigital.com.br/2026/10/01/pro/fundos-estatais-chineses-financiaram-compra-de-chips-de-ia-da-nvidia-restritos/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/fachada_nvidia-e1747656103602-1024x577.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-02T01:17:12+00:00"
-    },
-    {
-      "id": "33c5ef02aedc69ed",
-      "title": "Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text",
-      "summary": "Cloudflare has released Clef (27B) and Clef-flash (9B), open-weight decision models that return typed probabilities instead of text. They are Jev-API compatible, accept images…",
-      "link": "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-02T01:00:41+00:00"
-    },
-    {
-      "id": "5d6deb5100d8fe5a",
-      "title": "A Coding Guide to Google Research’s Kauldron: Configs That Are Plain Data, Components Wired by String, and a JAX Trainer You Can Read End to End",
-      "summary": "In this comprehensive coding guide, we explore Google Research's Kauldron—a JAX training library optimized for research velocity and modularity. Learn how konfig turns experiments…",
-      "link": "https://www.marktechpost.com/2026/10/01/a-coding-guide-to-google-researchs-kauldron-configs-that-are-plain-data-components-wired-by-string-and-a-jax-trainer-you-can-read-end-to-end/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-02T00:32:50+00:00"
-    },
-    {
-      "id": "fdf32c029154c184",
-      "title": "ChatGPT agora pode ser seu “provador virtual”; entenda",
-      "summary": "Novidade aparece nas páginas de produtos exibidas pelo ChatGPT durante pesquisas de compras O post ChatGPT agora pode ser seu “provador virtual”; entenda apareceu primeiro em…",
-      "link": "https://olhardigital.com.br/2026/10/01/inteligencia-artificial/chatgpt-agora-pode-ser-seu-provador-virtual-entenda/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/chatgp_provador_virtual-1024x576.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-02T00:29:27+00:00"
-    },
-    {
-      "id": "01bbb6b4e50e9d8f",
-      "title": "Mod faz o inimaginável e traz DLSS 4.5 para placas de vídeo AMD",
-      "summary": "Enquanto o AMD FSR pode ser usado em qualquer placa de vídeo (até a terceira versão), o NVIDIA DLSS é exclusivo das GPUs GeForce RTX. Ou será que não? Isso está mudando, mas não…",
-      "link": "https://canaltech.com.br/hardware/mod-faz-o-inimaginavel-e-traz-dlss-45-para-placas-de-video-amd/",
-      "image": "https://tl.ctcdn.com.br/16q0coWIsb0nd5oU17XVe89LAlA=/0x0/filters:format(webp):quality(85)/1c23f8ef-0838-4ab9-bad1-99822987b984.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-02T00:07:00+00:00"
-    },
-    {
-      "id": "71bf6afee5fc842d",
-      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-      "link": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-02T00:03:23+00:00"
     }
   ]
 }
