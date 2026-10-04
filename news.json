@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-10-04T16:28:00.496250+00:00",
+  "generated_at": "2026-10-04T20:52:59.347676+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "562acc36900e8903",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
+      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-04T20:31:07+00:00"
+    },
+    {
+      "id": "5eabcfd97d22a1c1",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-04T20:08:34+00:00"
+    },
+    {
+      "id": "808b1eba3b242b13",
+      "title": "Google vai limitar acesso a modelos do Gemini para usuários gratuitos e AI Plus",
+      "summary": "Usuários sem assinatura de um plano de IA perderão o acesso aos modelos Gemini 3.6 Flash e Gemini 3.1 Pro; eles ficarão limitados ao Gemini 3.5 Flash-Lite O post Google vai…",
+      "link": "https://olhardigital.com.br/2026/10/04/inteligencia-artificial/google-vai-limitar-acesso-a-modelos-do-gemini-para-usuarios-gratuitos-e-ai-plus/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/gemini-1-1024x638.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-04T18:41:55+00:00"
+    },
+    {
+      "id": "ce9c8c6cb990b353",
+      "title": "Hora de imprimir sem complicação: selecionamos ótimas impressoras em promoção na Amazon",
+      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções multifuncionais em oferta na Amazon — todas com…",
+      "link": "https://olhardigital.com.br/2026/10/04/reviews/hora-de-imprimir-sem-complicacao-selecionamos-otimas-impressoras-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-04T18:40:00+00:00"
+    },
+    {
+      "id": "13305776f4bee365",
+      "title": "Como migrar GPTs personalizados para plugins no ChatGPT?",
+      "summary": "A OpenAI vai encerrar os GPTs personalizados no ChatGPT em 11 de dezembro de 2026. A mudança acontece porque a OpenAI está levando esse tipo de configuração para os plugins, uma…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-migrar-gpts-personalizados-para-plugins-no-chatgpt/",
+      "image": "https://tl.ctcdn.com.br/f_vIcSSaobYTOe-zf2DVFpHNHB4=/0x0/filters:format(webp):quality(85)/eff842d1-2d07-43d0-ad5f-2cc5ef98c683.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-04T18:00:01+00:00"
+    },
+    {
+      "id": "338e47cce2d9ec34",
+      "title": "Trump launches \"Super Intelligence Force\" that has nothing to do with actual superintelligence",
+      "summary": "Donald Trump has established a \"Super Intelligence Force.\" \"Superintelligence\" is his term for artificial intelligence. The unit is led by Director of National Intelligence Jay…",
+      "link": "https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/03/us_flag_neural_network-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-04T17:41:58+00:00"
+    },
+    {
+      "id": "bdc04a537b0f0d93",
+      "title": "Impressora 3D para renda extra vale a pena? Veja quando ela se paga",
+      "summary": "Comprar uma impressora 3D para fabricar produtos em casa e vendê-los pela internet pode parecer uma alternativa interessante para conseguir uma renda extra. Mas será que o…",
+      "link": "https://canaltech.com.br/produtos/impressora-3d-para-renda-extra-vale-a-pena-veja-quando-ela-se-paga/",
+      "image": "https://tl.ctcdn.com.br/C3_zaRfKzIh2v-3KJBoZCBuNIbE=/0x0/filters:format(webp):quality(85)/15a8fcc1-84c0-490b-a361-0e3bc94db3d9.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-04T16:30:00+00:00"
+    },
     {
       "id": "5a1ea27ad999afed",
       "title": "Well, if AI said it, it must be true",
@@ -914,83 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-02T13:03:00+00:00"
-    },
-    {
-      "id": "22c1abdbb5ce5d3e",
-      "title": "Vídeos curtos, IA e algoritmos: como a desinformação viraliza nas eleições",
-      "summary": "Com um único clique, um conteúdo tem o poder de viralizar e influenciar pessoas conforme o alcance que conseguir nas redes sociais. Quando se trata de uma informação falsa, as…",
-      "link": "https://canaltech.com.br/internet-e-redes-sociais/videos-curtos-ia-e-algoritmos-como-a-desinformacao-viraliza-nas-eleicoes/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-02T13:00:04+00:00"
-    },
-    {
-      "id": "0f1ae9cf0893fa60",
-      "title": "Three firings and a fourth departure shake up OpenAI's safety team",
-      "summary": "OpenAI has parted ways with three researchers who allegedly leaked confidential information to an outside AI safety organization, according to the Wall Street Journal. The article…",
-      "link": "https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-02T12:51:08+00:00"
-    },
-    {
-      "id": "ce9ee0929674952a",
-      "title": "ChatGPT ganha provador virtual para você testar roupas por foto antes de comprar",
-      "summary": "A OpenAI lançou um provador virtual no ChatGPT para experimentar uma roupa antes de comprar pela internet. O recurso usa IA para criar uma imagem da pessoa com base nas selfies…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-ganha-provador-virtual-para-voce-testar-roupas-por-foto-antes-de-comprar/",
-      "image": "https://tl.ctcdn.com.br/wWu-v4sjzCUcg_sEK6AjL5cAeB8=/0x0/filters:format(webp):quality(85)/2ef35e6a-f42e-4506-b047-09296787e381.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-02T12:04:11+00:00"
-    },
-    {
-      "id": "4eab2ba235e4d731",
-      "title": "Se o consumidor perguntar ao ChatGPT o que comprar, sua marca vai aparecer?",
-      "summary": "*Por Letícia Souza Durante quase três décadas, o funil do comércio eletrônico dependeu de um gesto simples e repetitivo: o consumidor abria um buscador tradicional, digitava…",
-      "link": "https://canaltech.com.br/mercado/se-o-consumidor-perguntar-ao-chatgpt-o-que-comprar-sua-marca-vai-aparecer/",
-      "image": "https://tl.ctcdn.com.br/DC6vz5bDAblS4-RJTUkMD0JLvB4=/0x0/filters:format(webp):quality(85)/f0f35b88-da04-4fe5-94f0-5415ea279ac1.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-02T12:00:02+00:00"
-    },
-    {
-      "id": "4805756b99237b8b",
-      "title": "AI hallucinations are making entitled customers even worse",
-      "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a…",
-      "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-02T12:00:00+00:00"
-    },
-    {
-      "id": "a7d67921299ea2a1",
-      "title": "If a data center is camouflaged in the woods, will anyone hate it?",
-      "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's…",
-      "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268788_Datacenter_biomimicry_PARKIN_2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-02T12:00:00+00:00"
-    },
-    {
-      "id": "96e7b8a42b99480c",
-      "title": "Sony libera upscaler de IA para o PS5 base; conheça o QSSR",
-      "summary": "A Sony Interactive Entertainment (SIE) anunciou nesta quinta-feira (1) que a tecnologia de upscaling chegou ao PlayStation 5 base . O recurso, chamado de Super-resolução espectral…",
-      "link": "https://canaltech.com.br/games/sony-libera-upscaler-de-ia-para-o-ps5-base-conheca-o-qssr/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-02T11:54:18+00:00"
     }
   ]
 }
