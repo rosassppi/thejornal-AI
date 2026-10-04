@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-04T11:48:22.733230+00:00",
+  "generated_at": "2026-10-04T16:28:00.496250+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "5a1ea27ad999afed",
+      "title": "Well, if AI said it, it must be true",
+      "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2244569411.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-04T16:16:04+00:00"
+    },
+    {
+      "id": "443bfe9a215f7a99",
+      "title": "TechCrunch Mobility: Reining in robotaxis",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-04T16:05:00+00:00"
+    },
+    {
+      "id": "cf635256c33b7404",
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-04T15:21:59+00:00"
+    },
+    {
+      "id": "ee9cfb9e6e636de2",
+      "title": "Trump unveils his new Super Intelligence Force",
+      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-04T15:15:10+00:00"
+    },
+    {
+      "id": "c270252c7a704bf6",
+      "title": "Trump anuncia “força de superinteligência” para coordenar avanço da IA nos EUA",
+      "summary": "Anúncio ocorreu após Trump se reunir, na semana passada, com líderes das maiores empresas de IA dos Estados Unidos O post Trump anuncia “força de superinteligência” para coordenar…",
+      "link": "https://olhardigital.com.br/2026/10/04/inteligencia-artificial/trump-anuncia-forca-de-superinteligencia-para-coordenar-avanco-da-ia-nos-eua/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/casa_banca_ia-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-04T15:01:18+00:00"
+    },
+    {
+      "id": "9670d5a02ee8e9d4",
+      "title": "OpenAI é criticada por ex-funcionário que alerta para riscos da IA",
+      "summary": "Segundo David Robinson, a velocidade da corrida tecnológica aumenta a possibilidade de falhas e exige uma postura mais cautelosa O post OpenAI é criticada por ex-funcionário que…",
+      "link": "https://olhardigital.com.br/2026/10/04/inteligencia-artificial/openai-e-criticada-por-ex-funcionario-que-alerta-para-riscos-da-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/openai-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-04T14:20:36+00:00"
+    },
+    {
+      "id": "3f1c442082110b47",
+      "title": "Google researchers find a way to keep self-improving AI agents from memorizing their tests",
+      "summary": "Self-improving AI agents tend to memorize their test tasks, so their gains shrink or disappear on new ones. RRSI, a new method from Google researchers, reins in this effect and…",
+      "link": "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/rrsi-google-generated-image-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-04T12:40:37+00:00"
+    },
+    {
+      "id": "342ea394dd214552",
+      "title": "Por que a OpenAI desistiu dos GPTs personalizados",
+      "summary": "A OpenAI anunciou a aposentadoria dos GPTs personalizados em todas as versões do ChatGPT, incluindo os planos gratuitos, Plus e Enterprise. A mudança faz parte de uma transição…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/por-que-a-openai-desistiu-dos-gpts-personalizados/",
+      "image": "https://tl.ctcdn.com.br/YcTZHHYFhPr5QzRqY7vwryPXa7w=/0x0/filters:format(webp):quality(85)/3ec59fd7-f707-443c-88c5-245a11e1554d.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-04T12:30:00+00:00"
+    },
     {
       "id": "74d2a4537bd7b78c",
       "title": "NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science",
@@ -903,94 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-02T11:54:18+00:00"
-    },
-    {
-      "id": "1d9153a945914bf1",
-      "title": "Amazon writes scary blog warning communities not to block data centers",
-      "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today…",
-      "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-02T11:52:20+00:00"
-    },
-    {
-      "id": "6f92fbdb9d185a4f",
-      "title": "AI beats licensed accountants on speed and accuracy, but still can't close the books without supervision",
-      "summary": "According to a Mercor study, current AI models now outperform licensed CPAs on structured accounting tasks in both speed and accuracy. Eighteen months ago, they still lagged far…",
-      "link": "https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/mercor_accountants.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-02T11:15:24+00:00"
-    },
-    {
-      "id": "e925a640346da263",
-      "title": "AI music maker Suno now generates spoken words",
-      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-02T09:42:19+00:00"
-    },
-    {
-      "id": "33024bf7e808686d",
-      "title": "Resumo do OD: o que seu candidato pensa sobre terras raras? E mais! IA, mudanças climáticas e lançamento da SpaceX",
-      "summary": "O Olhar Digital examinou os planos de governo de seis candidatos à Presidência para entender suas propostas sobre terras raras e minerais críticos O post Resumo do OD: o que seu…",
-      "link": "https://olhardigital.com.br/2026/10/02/pro/resumo-do-od-o-que-seu-candidato-pensa-sobre-terras-raras-e-mais-ia-mudancas-climaticas-e-lancamento-da-spacex/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/minerais-raros-propostas-819x1024.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-02T09:25:59+00:00"
-    },
-    {
-      "id": "90f1f40531b19901",
-      "title": "Microsoft AI releases new transcription and text-to-speech models for voice agents",
-      "summary": "Microsoft AI has released MAI-Transcribe-2-Streaming, a new model for real-time transcription. The article Microsoft AI releases new transcription and text-to-speech models for…",
-      "link": "https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/MAI-quotation_marks_swarm_hq-1920x1167-1.webp",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-02T09:20:39+00:00"
-    },
-    {
-      "id": "d8221c3d180cb55f",
-      "title": "Businesses are using more AI and paying less for it, Ramp AI Index shows",
-      "summary": "US companies are spending less on AI, according to the latest Ramp AI Index from Ramp economist Ara Kharazian. The article Businesses are using more AI and paying less for it…",
-      "link": "https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/04/fipo-qwen-training-policy-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-02T09:09:21+00:00"
-    },
-    {
-      "id": "e5addb39494bae71",
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in…",
-      "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-02T08:00:00+00:00"
-    },
-    {
-      "id": "ba297815036625f4",
-      "title": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
-      "summary": "Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, lets users compose…",
-      "link": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-02T07:44:44+00:00"
     }
   ]
 }
