@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-04T20:52:59.347676+00:00",
+  "generated_at": "2026-10-05T04:08:31.974586+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "baf0b4a325e4204a",
+      "title": "Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks",
+      "summary": "Cantina Security, with Yeta Labs, has released apex-flash-1, an open-weights model trained specifically for vulnerability research. It is a reinforcement learning fine-tune of…",
+      "link": "https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas-apex-flash-1-solves-40-of-60-held-out-bug-tasks/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-05T01:47:28+00:00"
+    },
+    {
+      "id": "5b091ff00b832a52",
+      "title": "IA consegue saber pelo cérebro quando entendeu errado o que você quis dizer",
+      "summary": "Proposta é permitir que sistemas de IA percebam uma espécie de “isso não era o que eu quis dizer” sem que o usuário precise verbalizar a correção O post IA consegue saber pelo…",
+      "link": "https://olhardigital.com.br/2026/10/04/inteligencia-artificial/ia-consegue-saber-pelo-cerebro-quando-entendeu-errado-o-que-voce-quis-dizer/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/microsoft-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-04T22:26:27+00:00"
+    },
+    {
+      "id": "9b129cc92ad8e023",
+      "title": "“Apostando nossas vidas”: ex-Anthropic vai depor em audiência que reúne gigantes da IA",
+      "summary": "Jacob Coxon participará da sessão ao lado de representantes de algumas das maiores empresas do setor, incluindo Anthropic, OpenAI, Google e Meta O post “Apostando nossas vidas”…",
+      "link": "https://olhardigital.com.br/2026/10/04/pro/apostando-nossas-vidas-ex-anthropic-vai-depor-em-audiencia-que-reune-gigantes-da-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/openai-1-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-04T21:02:41+00:00"
+    },
+    {
+      "id": "6e4940b6b93398d5",
+      "title": "Guia completo para substituir os seus Gems pelas novas Skills do Gemini",
+      "summary": "O Google começou a substituir os Gems pelas novas Skills (Habilidades) no Gemini . A mudança troca os miniaplicativos personalizados por instruções reutilizáveis que podem ser…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/guia-completo-como-substituir-gems-por-skills-gemini/",
+      "image": "https://tl.ctcdn.com.br/U75SLWSekmUd1GiGI4SGG63MNRc=/0x0/filters:format(webp):quality(85)/91d1635b-15e4-4706-8c68-86032e250499.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-04T21:00:01+00:00"
+    },
+    {
+      "id": "5eb7a1816e050a0d",
+      "title": "GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job",
+      "summary": "Astra leads computer use, Argon leads legal and finance work, and Sol wins on price for coding agents. The post GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1…",
+      "link": "https://www.marktechpost.com/2026/10/04/gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-04T20:59:56+00:00"
+    },
     {
       "id": "562acc36900e8903",
       "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
@@ -936,61 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-10-02T15:00:00+00:00"
-    },
-    {
-      "id": "c28abcad33774a2e",
-      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
-      "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
-      "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Shield-10-yrs-1-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-02T14:52:16+00:00"
-    },
-    {
-      "id": "628bff56e9ed19c5",
-      "title": "Apple pode lançar câmera residencial com IA (mas que não grava vídeos)",
-      "summary": "Dispositivo analisaria o ambiente e descreveria eventos em texto. Câmera faria parte do novo ecossistema de casa inteligente da Apple. Apple pode lançar câmera residencial com IA…",
-      "link": "https://tecnoblog.net/noticias/apple-pode-lancar-camera-residencial-com-ia-mas-que-nao-grava-videos/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/02/camera-seguranca-monitoramento-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-02T14:47:03+00:00"
-    },
-    {
-      "id": "8adb07de513e420c",
-      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
-      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-02T14:30:00+00:00"
-    },
-    {
-      "id": "8943921267cd46d0",
-      "title": "Edits do Instagram ganha IA que faz raio-x dos seus Reels e ensina a reter público",
-      "summary": "O Edits, aplicativo de edição de vídeos do Instagram, ganhou um assistente de inteligência artificial capaz de analisar o desempenho dos Reels de cada criador e apontar o que pode…",
-      "link": "https://canaltech.com.br/apps/edits-do-instagram-ganha-ia-que-faz-raio-x-dos-seus-reels-e-ensina-a-reter-publico/",
-      "image": "https://tl.ctcdn.com.br/T8u0v4c_mhoNUQZrEMEZr17J_s8=/0x0/filters:format(webp):quality(85)/9f7608ca-47cd-4b83-9cbd-1b0b9391ce7e.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-02T14:30:00+00:00"
-    },
-    {
-      "id": "f8d7cbe015b8af23",
-      "title": "Conversar com Drácula? Audible ganha IA que coloca você para falar com personagens de livros",
-      "summary": "A Audible, empresa de audiolivros pertencente à Amazon, ganhou uma ferramenta de inteligência artificial que coloca os ouvintes para conversar com personagens de livros . A…",
-      "link": "https://canaltech.com.br/apps/conversar-com-dracula-audible-ganha-ia-que-coloca-voce-para-falar-com-personagens-de-livros/",
-      "image": "https://tl.ctcdn.com.br/VC8FpMrDOppCkNX5xMUA6BQQzxc=/0x0/filters:format(webp):quality(85)/649f4f45-d901-4f9d-befd-8cbcf2aaa095.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-02T13:03:00+00:00"
     }
   ]
 }
