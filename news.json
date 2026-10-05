@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-05T04:08:31.974586+00:00",
+  "generated_at": "2026-10-05T13:39:07.932529+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "5f53e39dd9e9fc83",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable…",
+      "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/MIT_TP_CoverPredictiveAnalyticsV9_9926.png?w=840",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-05T13:29:32+00:00"
+    },
+    {
+      "id": "8c338d157f4cc4eb",
+      "title": "Apple vai dificultar acesso aos dados do Mac por causa da IA",
+      "summary": "Mudança no Acesso Total ao Disco busca reforçar a segurança diante de agentes de inteligência artificial. Apple vai dificultar acesso aos dados do Mac por causa da IA",
+      "link": "https://tecnoblog.net/noticias/apple-vai-dificultar-controle-de-acesso-aos-dados-do-mac-por-causa-da-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/04/apple_capa-2-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-05T13:15:37+00:00"
+    },
+    {
+      "id": "6c458078e631a37a",
+      "title": "OpenAI is sticking more ads in ChatGPT",
+      "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\"…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/chatgpt-visual-ads.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-05T13:09:48+00:00"
+    },
+    {
+      "id": "b333c2393bd1a426",
+      "title": "Motorola em destaque: confira uma seleção de smartphones com câmera de 50MP e recursos de IA em promoção",
+      "summary": "A Motorola segue firme como uma das marcas mais populares entre quem busca bom desempenho sem abrir mão do bolso. Reunimos três opções da linha Moto g disponíveis na Amazon com…",
+      "link": "https://olhardigital.com.br/2026/10/05/reviews/motorola-em-destaque-confira-uma-selecao-de-smartphones-com-camera-de-50mp-e-recursos-de-ia-em-promocao/",
+      "image": "https://m.media-amazon.com/images/I/41uVEXHuhUL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-05T12:40:00+00:00"
+    },
+    {
+      "id": "8a447566bb392206",
+      "title": "ChatGPT's new ad format fills the image generation loading screen with product carousels",
+      "summary": "ChatGPT users in the US will soon see display ads while the chatbot generates an image for them. The article ChatGPT's new ad format fills the image generation loading screen with…",
+      "link": "https://the-decoder.com/chatgpts-new-ad-format-fills-the-image-generation-loading-screen-with-product-carousels/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_chatgpt-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-05T12:37:32+00:00"
+    },
+    {
+      "id": "0737c11c2e54d04b",
+      "title": "OpenAI diz que o mundo deve aceitar riscos para evoluir com IA",
+      "summary": "Sam Altman afirma que os benefícios da inteligência artificial superam os danos e defende acesso amplo à tecnologia, apesar dos riscos O post OpenAI diz que o mundo deve aceitar…",
+      "link": "https://olhardigital.com.br/2026/10/05/inteligencia-artificial/openai-diz-que-o-mundo-deve-aceitar-riscos-para-evoluir-com-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/shutterstock_2758295197-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-05T12:22:28+00:00"
+    },
+    {
+      "id": "5a0214578710cd6c",
+      "title": "AI is eroding office hours, study groups, and the trust between faculty and students, MIT report finds",
+      "summary": "An MIT expert committee warns that AI is eroding key parts of the college experience: office hours, study groups, and the school's flagship research program for undergraduates are…",
+      "link": "https://the-decoder.com/ai-is-eroding-office-hours-study-groups-and-the-trust-between-faculty-and-students-mit-report-finds/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/mit_ai_and_education.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-05T11:46:18+00:00"
+    },
+    {
+      "id": "85db442dc335f1c8",
+      "title": "Our minds aren’t equipped to handle AI",
+      "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268726_Cognitive_hotdogs_PENEKOI_115fb1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-05T10:00:00+00:00"
+    },
+    {
+      "id": "2d8e70fb45cef747",
+      "title": "Building advertising for the way people use AI",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-05T10:00:00+00:00"
+    },
+    {
+      "id": "c53786f697a70dbb",
+      "title": "Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade",
+      "summary": "One transformer ran candidate generation and ranking in Yandex Music's A/B test without hand-engineered features, lifting likes 11.42%. The post Yandex Introduces Sona: A Single…",
+      "link": "https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-5-scaled.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-05T08:10:37+00:00"
+    },
+    {
+      "id": "07a3961b77d07a47",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the…",
+      "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-05T08:00:00+00:00"
+    },
+    {
+      "id": "c7357311ba562870",
+      "title": "The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T",
+      "summary": "Alibaba's Qwen went from an invite-only chatbot in April 2023 to a 2.4-trillion-parameter open-weight model in August 2026. This is the full story, release by release: every major…",
+      "link": "https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-4-scaled.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-05T04:10:34+00:00"
+    },
     {
       "id": "baf0b4a325e4204a",
       "title": "Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks",
@@ -859,138 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-02T17:37:36+00:00"
-    },
-    {
-      "id": "886b2bd43a36bf79",
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-02T17:32:05+00:00"
-    },
-    {
-      "id": "a4551ff1dd591718",
-      "title": "Big Mac mais caro? McDonald's adota IA para cobrar \"preço dinâmico\" dos lanches",
-      "summary": "O McDonald's está usando inteligência artificial para recomendar quanto cada restaurante deve cobrar pelos itens do cardápio nos Estados Unidos e em alguns mercados…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/big-mac-mais-caro-mcdonalds-adota-ia-para-cobrar-preco-dinamico-dos-lanches/",
-      "image": "https://tl.ctcdn.com.br/MLNRy2_j2fjtQIuGA156z-a7hWI=/0x0/filters:format(webp):quality(85)/57ad6a82-fd5d-4161-85bf-b9994ee0ccf1.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-02T17:01:00+00:00"
-    },
-    {
-      "id": "5aafb242bf3873bb",
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "summary": "With all the talk about how AI might one day ill us all, it's easy to forget that AI has already harmed some people, psychologically. Circuit Breaker Labs has created \"crash test…",
-      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-02T17:00:00+00:00"
-    },
-    {
-      "id": "46d7f0edc99fc541",
-      "title": "Casa inteligente com voz: os melhores Echo com Alexa estão em promoção na Amazon",
-      "summary": "Se você quer transformar sua casa em um ambiente conectado, os smart speakers com Alexa da Amazon são um dos caminhos mais práticos para começar. Separamos três ótimas opções em…",
-      "link": "https://olhardigital.com.br/2026/10/02/reviews/casa-inteligente-com-voz-os-melhores-echo-com-alexa-estao-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-02T17:00:00+00:00"
-    },
-    {
-      "id": "c38af6e5cae43e23",
-      "title": "A model guide for the GPT-6 family",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "link": "https://openai.com/index/practical-guide-building-gpt-6",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-02T16:15:00+00:00"
-    },
-    {
-      "id": "c37300cca94e73f7",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of…",
-      "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Uniphore-Report-2026-UPDATE-cover.png",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-02T15:49:04+00:00"
-    },
-    {
-      "id": "d30de3388ab4a6c1",
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created…",
-      "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-02T15:39:41+00:00"
-    },
-    {
-      "id": "1da4b7bc0183a56e",
-      "title": "Nvidia dispara na bolsa e chega perto de valer R$ 31,4 trilhões",
-      "summary": "Nvidia bate recorde na Bolsa e se aproxima de US$ 6 trilhões em valor de mercado, impulsionada pelo otimismo com a IA da Meta O post Nvidia dispara na bolsa e chega perto de valer…",
-      "link": "https://olhardigital.com.br/2026/10/02/pro/nvidia-dispara-na-bolsa-e-chega-perto-de-valer-r-314-trilhoes/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/meta-nvidia-1024x544.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-02T15:33:30+00:00"
-    },
-    {
-      "id": "1842f46b3987922a",
-      "title": "Datalab Introduces OmniExtractBench to Fix Bias and Opacity in Extraction Benchmarks",
-      "summary": "Content-based row matching, 6 per-value verdicts and a null rule make OmniExtractBench an extraction benchmark anyone can audit. The post Datalab Introduces OmniExtractBench to…",
-      "link": "https://www.marktechpost.com/2026/10/02/datalab-introduces-omniextractbench-to-fix-bias-and-opacity-in-extraction-benchmarks/",
-      "image": "https://www.marktechpost.com/www.marktechpost.com/99aa44e4-f441-4863-9646-3503c6879aac",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-02T15:23:35+00:00"
-    },
-    {
-      "id": "e81b1dea7ce0fb42",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "summary": "",
-      "link": "https://huggingface.co/blog/allenai/astabrief",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-02T15:19:50+00:00"
-    },
-    {
-      "id": "60bf3121690991f7",
-      "title": "IA caloteira: Gemini 4 é pego recusando reembolsos e mentindo para lucrar",
-      "summary": "O Google lançou o modelo Gemini 4 Argon nesta semana com resultados similares aos concorrentes de topo no mercado em testes de benchmark. No entanto, um laboratório identificou…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-caloteira-gemini-4-e-pego-recusando-reembolsos-e-mentindo-para-lucrar/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-02T15:12:00+00:00"
-    },
-    {
-      "id": "6a7bb4e3e69d69f5",
-      "title": "The latest AI news we announced in September 2026",
-      "summary": "A video showing the September AI updates",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-02T15:00:00+00:00"
     }
   ]
 }
