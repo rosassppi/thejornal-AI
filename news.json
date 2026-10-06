@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-06T04:57:59.444544+00:00",
+  "generated_at": "2026-10-06T12:46:35.774491+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "1d64cace9beff2ad",
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+      "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-06T12:21:53+00:00"
+    },
+    {
+      "id": "9cdb2ad56f81c923",
+      "title": "Reflection's Beam becomes the most capable open-weight model built outside China",
+      "summary": "Reflection has released Beam, its first open-weight model. The mixture-of-experts system activates just 23 billion of its 501 billion parameters per token and aims to match GLM…",
+      "link": "https://the-decoder.com/reflections-beam-becomes-the-most-capable-open-weight-model-built-outside-china/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/reflection-beam-01-hero.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-06T12:11:22+00:00"
+    },
+    {
+      "id": "e6d279810dda29e2",
+      "title": "Países começam a impor limites ao uso de óculos inteligentes",
+      "summary": "Nova York, Reino Unido, Noruega e Austrália adotam ou avaliam limites para óculos inteligentes com câmeras e microfones O post Países começam a impor limites ao uso de óculos…",
+      "link": "https://olhardigital.com.br/2026/10/06/inteligencia-artificial/paises-comecam-a-impor-limites-ao-uso-de-oculos-inteligentes/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/01/freepik__the-style-is-candid-image-photography-with-natural__57688-1024x584.jpeg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-06T12:02:03+00:00"
+    },
+    {
+      "id": "dac30438b37af8fd",
+      "title": "Researchers stretch LeCun's JEPA AI into a universal world model that works from physics to biology",
+      "summary": "Researchers at PhAI Labs have expanded Yann LeCun's JEPA architecture to work across seven fields, from robotics to biomedicine. The effort also produced a liver cancer treatment…",
+      "link": "https://the-decoder.com/researchers-stretch-lecuns-jepa-ai-into-a-universal-world-model-that-works-from-physics-to-biology/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/jepa-anything-world-model-generated-image-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-06T11:43:42+00:00"
+    },
+    {
+      "id": "923a730f6f431688",
+      "title": "IA do McDonald’s gera polêmica e caso vai parar na Justiça dos EUA",
+      "summary": "McDonald’s é processado nos EUA por usar IA na definição de preços e por supostamente coordenar valores com franqueados O post IA do McDonald’s gera polêmica e caso vai parar na…",
+      "link": "https://olhardigital.com.br/2026/10/06/inteligencia-artificial/ia-do-mcdonalds-gera-polemica-e-caso-vai-parar-na-justica-dos-eua/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/big-mac-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-06T11:25:55+00:00"
+    },
+    {
+      "id": "77e1445ec34fd51f",
+      "title": "Nova IA da Meta está mapeando e \"fichando\" todos os seus amigos e familiares",
+      "summary": "Um pesquisador identificou que o Muse , agente de IA pessoal da Meta, cria perfis detalhados sobre os familiares e amigos de cada conta . Os registros trazem o nível de…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/nova-ia-da-meta-esta-mapeando-e-fichando-todos-os-seus-amigos-e-familiares/",
+      "image": "https://tl.ctcdn.com.br/ZP2rv_O0mShjPVaFTg_b9aTaW3o=/0x0/filters:format(webp):quality(85)/1a06d835-5d0d-4637-a37d-4bd1cf76a68c.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-06T11:00:02+00:00"
+    },
+    {
+      "id": "77fe8e7183d157c0",
+      "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
+      "summary": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often…",
+      "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258035_Alexa_Studio_2025_JHiggins_0017.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-06T10:53:11+00:00"
+    },
+    {
+      "id": "af1bfd9eab3e46f6",
+      "title": "CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO",
+      "summary": "Deepseek is close to raising at least $12 billion in a new funding round, Bloomberg reports. The article CATL and Tencent back Deepseek's ballooning funding round as the AI…",
+      "link": "https://the-decoder.com/catl-and-tencent-back-deepseeks-ballooning-funding-round-as-the-ai-startup-eyes-a-2027-ipo/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/05/deepseek_logo_money.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-06T10:50:18+00:00"
+    },
+    {
+      "id": "86abbaa040692ce8",
+      "title": "Cohere pitches North 2 as the enterprise AI control room that works with any model",
+      "summary": "Cohere turned its enterprise platform into a control center for AI agents with North 2, handling multi-step workflows on their own and retaining context across sessions. The…",
+      "link": "https://the-decoder.com/cohere-pitches-north-2-as-the-enterprise-ai-control-room-that-works-with-any-model/",
+      "image": "https://the-decoder.com/wp-content/uploads/2024/06/cohere_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-06T06:58:19+00:00"
+    },
+    {
+      "id": "5a5fc98b311e2a0e",
+      "title": "Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One",
+      "summary": "Reka has released Rho-1, a 19B omni-reasoning model trained from scratch. One network reads and generates text, images, video and robot actions over a shared KV cache. A distilled…",
+      "link": "https://www.marktechpost.com/2026/10/05/reka-releases-rho-1-a-19b-omni-reasoning-model-that-understands-generates-video-and-outputs-robot-actions-in-one/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-06T06:45:31+00:00"
+    },
+    {
+      "id": "fe424883c3cacf66",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "summary": "",
+      "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-06T06:44:39+00:00"
+    },
+    {
+      "id": "e9c702b9412f4538",
+      "title": "Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields",
+      "summary": "JEPA-Anything splits a JEPA's single latent target into 4 orthogonal factors, each with its own predictor. Tested across 7 domains, it beat matched JEPA baselines on all 10…",
+      "link": "https://www.marktechpost.com/2026/10/05/beyond-domain-specific-world-models-jepa-anything-uses-1-recipe-for-7-fields/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-06T05:12:01+00:00"
+    },
     {
       "id": "84e8270a398fc155",
       "title": "Wikimedia acusa agentes da OpenAI de ações não autorizadas",
@@ -859,138 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-04T15:01:18+00:00"
-    },
-    {
-      "id": "9670d5a02ee8e9d4",
-      "title": "OpenAI é criticada por ex-funcionário que alerta para riscos da IA",
-      "summary": "Segundo David Robinson, a velocidade da corrida tecnológica aumenta a possibilidade de falhas e exige uma postura mais cautelosa O post OpenAI é criticada por ex-funcionário que…",
-      "link": "https://olhardigital.com.br/2026/10/04/inteligencia-artificial/openai-e-criticada-por-ex-funcionario-que-alerta-para-riscos-da-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/openai-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-04T14:20:36+00:00"
-    },
-    {
-      "id": "3f1c442082110b47",
-      "title": "Google researchers find a way to keep self-improving AI agents from memorizing their tests",
-      "summary": "Self-improving AI agents tend to memorize their test tasks, so their gains shrink or disappear on new ones. RRSI, a new method from Google researchers, reins in this effect and…",
-      "link": "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/rrsi-google-generated-image-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-04T12:40:37+00:00"
-    },
-    {
-      "id": "342ea394dd214552",
-      "title": "Por que a OpenAI desistiu dos GPTs personalizados",
-      "summary": "A OpenAI anunciou a aposentadoria dos GPTs personalizados em todas as versões do ChatGPT, incluindo os planos gratuitos, Plus e Enterprise. A mudança faz parte de uma transição…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/por-que-a-openai-desistiu-dos-gpts-personalizados/",
-      "image": "https://tl.ctcdn.com.br/YcTZHHYFhPr5QzRqY7vwryPXa7w=/0x0/filters:format(webp):quality(85)/3ec59fd7-f707-443c-88c5-245a11e1554d.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-04T12:30:00+00:00"
-    },
-    {
-      "id": "74d2a4537bd7b78c",
-      "title": "NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science",
-      "summary": "NASA and IBM have released the Lunar Foundation Model, one of the first open-source AI models for lunar science. Trained on nearly 2 million tile bundles, mostly from 17 years of…",
-      "link": "https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/nasa-ibm-research-moon-crater-ice-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-04T10:10:12+00:00"
-    },
-    {
-      "id": "106a9f1f832074d0",
-      "title": "O desafio de construir a próxima geração da inteligência artificial",
-      "summary": "Na corrida pela AGI, o verdadeiro desafio será descobrir se a inteligência pode ser ampliada indefinidamente O post O desafio de construir a próxima geração da inteligência…",
-      "link": "https://olhardigital.com.br/2026/10/04/inteligencia-artificial/o-desafio-de-construir-a-proxima-geracao-da-inteligencia-artificial/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-04T10:00:00+00:00"
-    },
-    {
-      "id": "7bb162cc13b9fac4",
-      "title": "Eleições 2026: smartphone, óculos, relógios inteligentes… O que pode e o que não pode entrar na cabine de votação?",
-      "summary": "Regra vale para o 1º turno, a ser realizado neste domingo (4), e também para eventual segundo turno, previsto para 25 de outubro O post Eleições 2026: smartphone, óculos, relógios…",
-      "link": "https://olhardigital.com.br/2026/10/04/pro/eleicoes-2026-smartphone-oculos-relogios-inteligentes-o-que-pode-e-o-que-nao-pode-entrar-na-cabine-de-votacao/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/e-titulo-de-eleitor-app-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-04T10:00:00+00:00"
-    },
-    {
-      "id": "a783bceb24237942",
-      "title": "Chinese AI models parrot state doctrine or refuse to answer on sensitive topics",
-      "summary": "Chinese AI models often follow the party line on politically sensitive questions, according to an Aleph Alpha study that rated only 17 to 41 percent of answers as balanced. Aleph…",
-      "link": "https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/aleph_alpha_china_benchmark.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-04T08:47:52+00:00"
-    },
-    {
-      "id": "0a6224dfd3815e8d",
-      "title": "Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy",
-      "summary": "Google Research has unveiled a federated learning system that moves gradient computation from phones into attested server-side TEEs. Access policies are published to Sigstore's…",
-      "link": "https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-04T07:29:59+00:00"
-    },
-    {
-      "id": "1243373f19a805f7",
-      "title": "Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro",
-      "summary": "Starting in October 2026, Google will cut free access to its Gemini models. Users without a subscription will only get the smallest model, Flash-Lite, while Flash and Pro will be…",
-      "link": "https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/google_logo_wall-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-04T07:28:54+00:00"
-    },
-    {
-      "id": "889a17dc7a00fa20",
-      "title": "Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters",
-      "summary": "Aleph Alpha has released Kolibri, a 78.1B-parameter English-German Mixture-of-Experts model that activates only 3.46B parameters per token. It has a 1M-token context and…",
-      "link": "https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-04T07:01:04+00:00"
-    },
-    {
-      "id": "7668c3b3cf0af0d2",
-      "title": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
-      "summary": "DeepSeek has released official macOS and Windows desktop apps for DeepSeek Harness v0.2, its MIT-licensed agent harness. The preview adds a plugin manager, file and code-change…",
-      "link": "https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-04T04:49:42+00:00"
-    },
-    {
-      "id": "91d78050a212bbdb",
-      "title": "Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine",
-      "summary": "Learn how NVIDIA IsaacTeleop turns XR hand tracking and motion controller input into robot commands using a pure Python retargeting engine and NumPy. The post Inside NVIDIA’s…",
-      "link": "https://www.marktechpost.com/2026/10/03/inside-nvidias-isaacteleop-from-hand-and-controller-tracking-to-robot-actions-with-the-graph-based-retargeting-engine/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-04T00:19:38+00:00"
     }
   ]
 }
