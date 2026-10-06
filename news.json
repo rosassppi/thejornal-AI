@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-05T23:45:49.051736+00:00",
+  "generated_at": "2026-10-06T04:57:59.444544+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "84e8270a398fc155",
+      "title": "Wikimedia acusa agentes da OpenAI de ações não autorizadas",
+      "summary": "Entidade, responsável por manter a Wikipédia e outros projetos de conhecimento aberto, identificou milhões de requisições automatizadas, edições não autorizadas e tentativas de…",
+      "link": "https://olhardigital.com.br/2026/10/05/seguranca/wikimedia-acusa-agentes-da-openai-de-acoes-nao-autorizadas/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/wikipedia-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-06T01:04:21+00:00"
+    },
+    {
+      "id": "308a38586690a5d9",
+      "title": "ChatGPT copia o Claude e também começa a \"carimbar\" textos feitos por sua IA",
+      "summary": "O ChatGPT vai começar a colocar uma marca-d’água invisível em textos gerados pela inteligência artificial. A OpenAI anunciou nesta segunda-feira (5) o textGrain , tecnologia que…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-copia-o-claude-e-tambem-comeca-a-carimbar-textos-feitos-por-sua-ia/",
+      "image": "https://tl.ctcdn.com.br/V_m3L7PCGu1dxxWPI7PkOEJWOA8=/0x0/filters:format(webp):quality(85)/4ef463f1-605c-4ee7-be94-35fafeebbf38.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-06T00:04:00+00:00"
+    },
+    {
+      "id": "19745539452346e8",
+      "title": "Gemini Call for Me might tell your mom you’re running late",
+      "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-05T23:09:55+00:00"
+    },
     {
       "id": "d6a8d58efcf99076",
       "title": "ChatGPT vai ganhar carteira digital para fazer compras por você",
@@ -12,6 +45,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-05T23:02:00+00:00"
+    },
+    {
+      "id": "6e46991278961be7",
+      "title": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
+      "summary": "Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop apps to open models like Kimi…",
+      "link": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-05T22:51:05+00:00"
     },
     {
       "id": "6855dfea96295c52",
@@ -947,50 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-10-04T00:19:38+00:00"
-    },
-    {
-      "id": "bd1136d0fcfd6f13",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "summary": "",
-      "link": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-03T22:56:48+00:00"
-    },
-    {
-      "id": "ee2634caee79c3a2",
-      "title": "Empresas de IA deveriam ter regras de usinas nucleares, diz ex-OpenAI",
-      "summary": "A cultura na indústria da inteligência artificial quebrou – e o setor precisa de salvaguardas de nível nuclear, escreveu David Robinson O post Empresas de IA deveriam ter regras…",
-      "link": "https://olhardigital.com.br/2026/10/03/pro/empresas-de-ia-deveriam-ter-regras-de-usinas-nucleares-diz-ex-openai/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-OpenAI-AGI-scaled-1-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-03T19:46:19+00:00"
-    },
-    {
-      "id": "e2c47aacb6b4248b",
-      "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore",
-      "summary": "OpenAI CEO Sam Altman warns against attributing religious power to AI models, calling it a \"real safety issue.\" His comments follow reports on Anthropic's meetings with religious…",
-      "link": "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/holy_openai.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-03T18:56:30+00:00"
-    },
-    {
-      "id": "303b921c47ea5f3d",
-      "title": "Hora de renovar o escritório: impressoras em promoção na Amazon",
-      "summary": "Se você está precisando de uma impressora nova — seja para o home office, para a faculdade ou para o dia a dia em casa —, a Amazon reúne agora uma seleção com boas opções para…",
-      "link": "https://olhardigital.com.br/2026/10/03/reviews/hora-de-renovar-o-escritorio-impressoras-em-promocao-na-amazon-4/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-03T18:40:00+00:00"
     }
   ]
 }
