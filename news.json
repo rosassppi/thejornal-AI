@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-06T22:21:13.603993+00:00",
+  "generated_at": "2026-10-07T04:24:21.284043+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "ff11fcc29becdee2",
+      "title": "Anthropic libera IA mais poderosa para equipes que caçam falhas antes de hackers",
+      "summary": "Decisão ocorre depois de iniciativa anterior, a Project Glasswing, que ajudou parceiros a encontrar pelo menos 129 mil vulnerabilidades de software verificadas entre abril e julho…",
+      "link": "https://olhardigital.com.br/2026/10/06/inteligencia-artificial/anthropic-libera-ia-mais-poderosa-para-equipes-que-cacam-falhas-antes-de-hackers/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/anthropic-e1789230420387-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-07T01:20:30+00:00"
+    },
+    {
+      "id": "60d9481615cc45eb",
+      "title": "Fala AI: Nobel de Física vai para detector de ‘partículas fantasmas’",
+      "summary": "Roberto Pena Spinelli, colunista do Olhar Digital News, explica qual a aplicação prática da chamada \"astronomia de neutrinos\", vencedora do Nobel de Física de 2026 O post Fala AI…",
+      "link": "https://olhardigital.com.br/2026/10/06/colunistas/fala-ai-nobel-de-fisica-vai-para-detector-de-particulas-fantasmas/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-07T01:18:48+00:00"
+    },
+    {
+      "id": "46273712585a4f18",
+      "title": "A Developer’s Guide to Laya: Zero-Shot Decisions and Calibration",
+      "summary": "Explore a comprehensive coding guide to Laya, the open-source zero-shot decision engine. Learn how to implement typed decisions, fit custom temperatures, and build reliable…",
+      "link": "https://www.marktechpost.com/2026/10/06/a-developers-guide-to-laya-zero-shot-decisions-and-calibration/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-07T00:53:03+00:00"
+    },
+    {
+      "id": "cd03a714984e1c47",
+      "title": "SpaceX quer levantar R$ 214 bilhões para comprar chips da Nvidia",
+      "summary": "Operação deverá ser estruturada principalmente por meio de dívida O post SpaceX quer levantar R$ 214 bilhões para comprar chips da Nvidia apareceu primeiro em Olhar Digital .",
+      "link": "https://olhardigital.com.br/2026/10/06/pro/spacex-quer-levantar-r-214-bilhoes-para-comprar-chips-da-nvidia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/fachada_nvidia-e1747656103602-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-06T23:56:05+00:00"
+    },
+    {
+      "id": "0e401bad0dd434d6",
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-06T23:26:38+00:00"
+    },
+    {
+      "id": "d2de7af974fc5fb2",
+      "title": "Concorrente do Office e do Google, LibreOffice diz que não ter IA é vantagem",
+      "summary": "O LibreOffice decidiu transformar uma ausência comum em outros tempos em argumento de venda em plena corrida da inteligência artificial. A suíte gratuita e de código aberto afirma…",
+      "link": "https://canaltech.com.br/internet-e-redes-sociais/concorrente-do-office-e-do-google-libreoffice-diz-que-nao-ter-ia-e-vantagem/",
+      "image": "https://tl.ctcdn.com.br/YJRhvfpTMAZkyRyPf1D--jZj0TE=/0x0/filters:format(webp):quality(85)/b295fe43-9262-4698-ab9f-3b9dd32955b8.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-06T23:01:00+00:00"
+    },
     {
       "id": "90d0cc5415c484e7",
       "title": "SEGA barra inteligência artificial e promete jogos feitos por humanos",
@@ -364,6 +430,28 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-06T12:02:03+00:00"
+    },
+    {
+      "id": "ebb413cc5359756b",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "link": "https://openai.com/index/jump-trading",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-06T12:00:00+00:00"
+    },
+    {
+      "id": "00427e47df5ef306",
+      "title": "Sharing AI progress in mathematics",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-06T12:00:00+00:00"
     },
     {
       "id": "dac30438b37af8fd",
@@ -903,94 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-05T16:44:21+00:00"
-    },
-    {
-      "id": "9efffdb394a35a4b",
-      "title": "Most Americans want AI development to slow down or stop entirely, new poll finds",
-      "summary": "According to a Quinnipiac University poll, 77 percent of Americans want to slow down or stop AI development until its safety has been verified. 86 percent support independent…",
-      "link": "https://the-decoder.com/most-americans-want-ai-development-to-slow-down-or-stop-entirely-new-poll-finds/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/03/us_flag_wireframe.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-05T16:37:08+00:00"
-    },
-    {
-      "id": "8b428f09b30090e2",
-      "title": "Anthropic chama polícia após mulher ameaçar ataque em conversa",
-      "summary": "Mulher foi presa na Flórida após supostas ameaças registradas no chatbot Claude. Anthropic chama polícia após mulher ameaçar ataque em conversa",
-      "link": "https://tecnoblog.net/noticias/anthropic-chama-policia-apos-mulher-ameacar-ataque-em-conversa-com-claude/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-2-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-05T16:04:04+00:00"
-    },
-    {
-      "id": "9bcd862c2674bb9b",
-      "title": "Anthropic is quietly becoming America's biggest corporate donor ahead of its mega IPO",
-      "summary": "Anthropic employees donated $540 million in 2025 alone, nearly five times as much as the next-largest Fortune 500 donors, thanks to a company program that tops up every stock…",
-      "link": "https://the-decoder.com/anthropic-is-quietly-becoming-americas-biggest-corporate-donor-ahead-of-its-mega-ipo/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo_money.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-05T16:00:12+00:00"
-    },
-    {
-      "id": "d7e5d431299a70e0",
-      "title": "Connecting AI agents to enterprise knowledge",
-      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the…",
-      "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Neo4j-Report-2026-cover.png",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-05T15:47:52+00:00"
-    },
-    {
-      "id": "d2b5b29b4c815525",
-      "title": "Our approach to EU text provenance rules",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "link": "https://openai.com/index/eu-text-provenance",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-05T15:00:00+00:00"
-    },
-    {
-      "id": "a4140c00fc7ab9c4",
-      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-      "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust…",
-      "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_2026-10-05_Schiff.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-05T14:30:00+00:00"
-    },
-    {
-      "id": "9399a8088857ba16",
-      "title": "Aleph Alpha releases Kolibri, an open-weight model that makes the case for European AI sovereignty",
-      "summary": "Aleph Alpha has released Kolibri, a German-English mixture-of-experts model with 78 billion parameters, about three billion of which are active per token. Over 21 percent of the…",
-      "link": "https://the-decoder.com/aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/kolibri_aleph_alpha.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-05T14:12:50+00:00"
-    },
-    {
-      "id": "73c34e14db0acb77",
-      "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-      "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/highlights_siri_conversations_endframe__d56qnw2oz22q_large_2x.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-05T13:47:14+00:00"
     }
   ]
 }
