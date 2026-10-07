@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-07T04:24:21.284043+00:00",
+  "generated_at": "2026-10-07T12:40:38.740275+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "6a748d48e45d540e",
+      "title": "ChatGPT rated \"unacceptable risk\" for teens after parental alerts failed during suicide conversations",
+      "summary": "OpenAI's teen safety features for ChatGPT failed an independent audit. After more than 4,000 test prompts, the Common Sense Media Youth AI Safety Institute rated the service an…",
+      "link": "https://the-decoder.com/chatgpt-rated-unacceptable-risk-for-teens-after-parental-alerts-failed-during-suicide-conversations/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/chatgpt_safety_fail.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-07T12:34:34+00:00"
+    },
+    {
+      "id": "f81913f9c80eb319",
+      "title": "Anthropic gives more security teams access to Claude with fewer safety restrictions",
+      "summary": "Anthropic is expanding its Cyber Verification Program, giving more security professionals access to Claude models with fewer safety restrictions for penetration testing, malware…",
+      "link": "https://the-decoder.com/anthropic-gives-more-security-teams-access-to-claude-with-fewer-safety-restrictions/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/cyber_verification_program.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-07T12:05:20+00:00"
+    },
+    {
+      "id": "21c2d5c2c0a78a52",
+      "title": "AI could upend food delivery",
+      "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268795_Can_AI_reform_overpriced_food_delivery__CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-07T12:00:00+00:00"
+    },
+    {
+      "id": "b6aec8c05cfc3e2f",
+      "title": "Introducing Playground: Create and play custom games",
+      "summary": "Overview of Playground",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-07T12:00:00+00:00"
+    },
+    {
+      "id": "30da6000a9cb70c3",
+      "title": "Noruega pensa em banir óculos com IA dos espaços públicos",
+      "summary": "Debate sobre privacidade deve levar à proibição pelo menos até a definição de novas regras no país nórdico. Noruega pensa em banir óculos com IA dos espaços públicos",
+      "link": "https://tecnoblog.net/noticias/noruega-pensa-em-banir-oculos-com-ia-dos-espacos-publicos/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/08/tbr-smart-glasses-01-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-07T11:12:34+00:00"
+    },
+    {
+      "id": "84d69b052043d76f",
+      "title": "Apple e LG se unem para lançar fechadura e outros produtos para casa inteligente",
+      "summary": "A Apple e a LG se uniram para preparar uma nova linha de dispositivos para casa inteligente , incluindo campainha com vídeo, fechadura, termostato e câmeras de segurança. Apesar…",
+      "link": "https://canaltech.com.br/produtos/apple-e-lg-se-unem-para-lancar-fechadura-e-outros-produtos-para-casa-inteligente/",
+      "image": "https://tl.ctcdn.com.br/L8p5gryNn6lOUx33F-cfzDVGdcE=/0x0/filters:format(webp):quality(85)/f3f086cd-2077-4082-ac61-c8319e7b8ce1.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-07T10:06:25+00:00"
+    },
+    {
+      "id": "d5c1a13521cd48f5",
+      "title": "Resumo do OD: Prêmio Nobel; explosões solares; futuro da NASA",
+      "summary": "E mais: a Anthropic ampliou o acesso de profissionais de cibersegurança aos seus modelos de inteligência artificial (IA) mais avançados O post Resumo do OD: Prêmio Nobel…",
+      "link": "https://olhardigital.com.br/2026/10/07/pro/resumo-do-od-premio-nobel-explosoes-solares-futuro-da-nasa/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/Oct-6-26-Sun-activity-M-flares.-ezgif.com-video-to-webp-converter.webp",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-07T09:07:54+00:00"
+    },
+    {
+      "id": "651e2d5687f7b27f",
+      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-07T09:00:00+00:00"
+    },
+    {
+      "id": "dac718a2497266d3",
+      "title": "OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up",
+      "summary": "OpenAI has published 372 AI-generated mathematical results on GitHub, including Lean formalizations for machine verification. Each result consumed about three hours of ChatGPT Pro…",
+      "link": "https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo_numbers.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-07T08:54:43+00:00"
+    },
+    {
+      "id": "b213c2e7c1330db2",
+      "title": "Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day",
+      "summary": "Meta has open-sourced Rebalancer, the C++ and Python library it has used for over 9 years to place shards, servers and traffic. It handles about 40 million assignment problems a…",
+      "link": "https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-07T06:29:14+00:00"
+    },
     {
       "id": "ff11fcc29becdee2",
       "title": "Anthropic libera IA mais poderosa para equipes que caçam falhas antes de hackers",
@@ -881,116 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-05T18:08:39+00:00"
-    },
-    {
-      "id": "e88715398c5279e7",
-      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
-      "summary": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
-      "link": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-05T18:07:07+00:00"
-    },
-    {
-      "id": "79dea8398024d7b2",
-      "title": "Cientistas criam IA capaz de entender quando deu resposta errada",
-      "summary": "Os pesquisadores do Instituto Avançado de Ciência e Tecnologia da Coreia (KAIST), em parceria com a Microsoft Research Asia, desenvolveram um sistema de inteligência artificial…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/cientistas-criam-ia-capaz-de-entender-quando-deu-resposta-errada/",
-      "image": "https://tl.ctcdn.com.br/HOWjQKvx2Z2j7DfpaVA2X-qRSWg=/0x0/filters:format(webp):quality(85)/31d129a3-92ae-496b-b368-f64183fe11aa.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-05T18:06:01+00:00"
-    },
-    {
-      "id": "28eca8579e5f4d9d",
-      "title": "Gemini vai ficar mais limitado para usuários de contas gratuitas",
-      "summary": "Gemini gratuito deixará de oferecer os modelos Flash e Pro, ficando limitado ao Flash Lite. Também haverá mudanças no Google AI Plus. Gemini vai ficar mais limitado para usuários…",
-      "link": "https://tecnoblog.net/noticias/gemini-vai-ficar-mais-limitado-para-usuarios-de-contas-gratuitas/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-1-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-05T17:58:14+00:00"
-    },
-    {
-      "id": "8d6354f8d6f70016",
-      "title": "JBL lança caixa de som gigante com 800 W e karaokê com IA",
-      "summary": "A JBL ampliou sua linha de caixas de som para festas com uma nova geração de produtos PartyBox. O destaque é a JBL PartyBox 720, com 800 W RMS de potência , mas a fabricante…",
-      "link": "https://canaltech.com.br/caixa-de-som/jbl-lanca-caixa-de-som-gigante-com-800-w-e-karaoke-com-ia/",
-      "image": "https://tl.ctcdn.com.br/oHyIcREvdcIfJ1eXxEwG8s5-6d4=/0x0/filters:format(webp):quality(85)/051c87b9-6358-46f8-91a6-82e6a734e4a6.webp",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-05T17:51:32+00:00"
-    },
-    {
-      "id": "208c56499592c20e",
-      "title": "OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide",
-      "summary": "OpenAI is adding invisible textGrain watermarks to ChatGPT in the EU, but unlike Anthropic, it will let API customers worldwide opt out. Tests show detection rates as high as 95…",
-      "link": "https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_chatgpt_text_detection-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-05T17:32:42+00:00"
-    },
-    {
-      "id": "8c7e4fe50290d4f0",
-      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-      "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-05T17:29:22+00:00"
-    },
-    {
-      "id": "ec5bd39687b2d4b9",
-      "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
-      "summary": "TechCrunch attended Pear’s latest demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
-      "link": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-05T17:26:44+00:00"
-    },
-    {
-      "id": "7f498475ebe1fcdc",
-      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
-      "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-05T16:55:42+00:00"
-    },
-    {
-      "id": "0ef39eed9a82cf4c",
-      "title": "Noruega quer proibir óculos inteligentes em lugares públicos; entenda",
-      "summary": "A Noruega quer proibir o uso de óculos inteligentes temporariamente em alguns lugares públicos, como parques, praias, escolas e creches, para evitar gravações de pessoas sem…",
-      "link": "https://canaltech.com.br/produtos/noruega-quer-proibir-oculos-inteligentes-em-lugares-publicos-entenda/",
-      "image": "https://tl.ctcdn.com.br/6mA1o6dzP0H4qa6_x1qJQr-H7-Q=/0x0/filters:format(webp):quality(85)/351397f0-4c4a-469f-b5dd-5dfec9f13e3d.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-05T16:52:41+00:00"
-    },
-    {
-      "id": "7eb4477bce55b7ff",
-      "title": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
-      "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2294958253.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-05T16:44:21+00:00"
     }
   ]
 }
