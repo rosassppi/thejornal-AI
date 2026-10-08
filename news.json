@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-10-08T04:35:28.652420+00:00",
+  "generated_at": "2026-10-08T12:50:29.919044+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "1c7a4cf45ba82c9a",
+      "title": "Pais trocam fotógrafo escolar pelo ChatGPT, mas economia cobra em privacidade",
+      "summary": "Pais estão usando o ChatGPT para criar fotografias escolares dos filhos e economizar com os serviços de fotógrafos profissionais. A prática viralizou nas redes sociais…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/pais-trocam-fotografo-escolar-pelo-chatgpt-mas-economia-cobra-em-privacidade/",
+      "image": "https://tl.ctcdn.com.br/Euv8aSrl2XEUvmQVMgRqzXUipVE=/0x0/filters:format(webp):quality(85)/f8240dd9-2912-44f5-84d5-bb186263a1d1.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-08T12:35:02+00:00"
+    },
+    {
+      "id": "2da938bd0c484285",
+      "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
+      "summary": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
+      "link": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-08T12:00:00+00:00"
+    },
+    {
+      "id": "570cb2cddef8f436",
+      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
+      "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-08T11:15:33+00:00"
+    },
+    {
+      "id": "d95682a83f82aa62",
+      "title": "Claude lança Haiku 5.5, modelo compacto mais rápido e 75% mais barato; veja detalhes",
+      "summary": "A Anthropic anunciou o Claude Haiku 5.5 , novo modelo compacto da empresa, com foco em velocidade, baixo custo e tarefas de alto volume. Segundo a companhia, a nova versão pode…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/claude-lanca-haiku-55-modelo-compacto-mais-rapido-e-75-mais-barato-veja-detalhes/",
+      "image": "https://tl.ctcdn.com.br/7e_rpyif-V2yS_RMG1aN-EM9--I=/0x0/filters:format(webp):quality(85)/4c03a197-4217-4ac2-aba7-761c16cb8d12.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-08T11:03:00+00:00"
+    },
+    {
+      "id": "e1a7b06651e9c941",
+      "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
+      "summary": "Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent…",
+      "link": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/claude_55.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-08T10:30:23+00:00"
+    },
+    {
+      "id": "1e342a38da8b8116",
+      "title": "Dell entra na corrida para ensinar agentes de IA a “entender” as empresas",
+      "summary": "A Dell entrou na disputa para resolver um dos problemas que dificultam o uso de agentes de inteligência artificial dentro das empresas: fazer com que esses sistemas entendam o…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/dell-entra-na-corrida-para-ensinar-agentes-de-ia-a-entender-as-empresas/",
+      "image": "https://tl.ctcdn.com.br/v52yOjp38_5Bwx_5DdtSgeGatU4=/0x0/filters:format(webp):quality(85)/9c3bb917-f771-47fc-b878-6170ad7eab14.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-08T10:30:00+00:00"
+    },
+    {
+      "id": "141a327be2c86c31",
+      "title": "Teen's AI-guided mountain hike ends with a helicopter rescue and a lesson in common sense",
+      "summary": "A 16-year-old planned his hiking route on Crown Mountain near Vancouver using Anthropic's Claude and had to be airlifted off a steep rock face. The chatbot had sent him down a…",
+      "link": "https://the-decoder.com/teens-ai-guided-mountain-hike-ends-with-a-helicopter-rescue-and-a-lesson-in-common-sense/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/claude_hiking.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-08T09:57:42+00:00"
+    },
+    {
+      "id": "ca19ef857ba2cf3f",
+      "title": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+      "summary": "According to CrowdStrike, a suspected Chinese-speaking attacker hacked multiple South Korean financial institutions. At Shinhan Bank alone, more than 25,000 customer records were…",
+      "link": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/cyber_kraken.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-08T09:24:17+00:00"
+    },
+    {
+      "id": "5779b78eb98d9c87",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are…",
+      "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AP25364739329087_1.jpg",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-08T09:00:00+00:00"
+    },
+    {
+      "id": "1c71f5ecf40cd436",
+      "title": "Architect Launches Liquid Inference, a Real-Time Auction for LLM Inference",
+      "summary": "Architect Financial Technologies has launched Liquid Inference, an LLM router that runs a live auction for every request. Liquid Inference is an LLM inference marketplace from…",
+      "link": "https://www.marktechpost.com/2026/10/08/architect-launches-liquid-inference-a-real-time-auction-for-llm-inference/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-08T08:53:34+00:00"
+    },
+    {
+      "id": "d2782b0e5d4df617",
+      "title": "NVIDIA PivotOPD Teaches Multi-Turn AI Agents to Recover From Pivotal Mistakes",
+      "summary": "NVIDIA researchers introduced PivotOPD, an on-policy distillation method that trains multi-turn LLM agents to avoid early pivotal mistakes and recover from them, posting the best…",
+      "link": "https://www.marktechpost.com/2026/10/08/nvidia-pivotopd-teaches-multi-turn-ai-agents-to-recover-from-pivotal-mistakes/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-08T08:40:02+00:00"
+    },
+    {
+      "id": "d07e6967ea51e852",
+      "title": "Building a safer path to autonomous industrial AI",
+      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are…",
+      "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-08T08:17:32+00:00"
+    },
+    {
+      "id": "4910a1bd9135f12c",
+      "title": "Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA",
+      "summary": "Perplexity's pplx-embed-v2-late comes in 2 sizes: a 0.6B model built to run on edge devices, and a 9B model for building high-quality indexes. Its best score is 92.4% on MADQA…",
+      "link": "https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-08T05:39:09+00:00"
+    },
     {
       "id": "f9468f8e4eeac957",
       "title": "Big techs buscam financiamentos bilionários para comprar chips de IA",
@@ -92,8 +235,8 @@
     },
     {
       "id": "91440784a89a5ea1",
-      "title": "Microsoft coloca Copilot e IA até na barra de busca do Windows",
-      "summary": "Nova interface permite alterar configurações, enviar mensagens e conversar com o Copilot sem abrir outros aplicativos do Windows 11. Microsoft coloca Copilot e IA até na barra de…",
+      "title": "Windows coloca IA até na barra de busca",
+      "summary": "Nova interface da Microsoft permite alterar configurações, enviar mensagens e conversar com o Copilot sem abrir outros aplicativos. Windows coloca IA até na barra de busca",
       "link": "https://tecnoblog.net/noticias/microsoft-coloca-copilot-e-ia-ate-na-barra-de-busca-do-windows/",
       "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/nj5kl9ydlwe.jpg",
       "source": "Tecnoblog",
@@ -243,17 +386,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-07T19:06:40+00:00"
-    },
-    {
-      "id": "e1a7b06651e9c941",
-      "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
-      "summary": "Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent…",
-      "link": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/claude_55.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-07T18:49:23+00:00"
     },
     {
       "id": "f213b8d3eadf23cd",
@@ -859,138 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-06T19:07:00+00:00"
-    },
-    {
-      "id": "c41c05a1c07c49e2",
-      "title": "OpenAI pede desculpas e admite falha na resposta a ataque de agentes de IA",
-      "summary": "Debate na Austrália reúne OpenAI e Anthropic sobre acesso a sites oficiais, treinamento de IA e uso de conteúdos protegidos O post OpenAI pede desculpas e admite falha na resposta…",
-      "link": "https://olhardigital.com.br/2026/10/06/inteligencia-artificial/openai-pede-desculpas-e-admite-falha-na-resposta-a-ataque-de-agentes-de-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/openai-1-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-06T18:40:12+00:00"
-    },
-    {
-      "id": "55de56b612e675e7",
-      "title": "Hora de renovar o escritório: selecionamos ótimas impressoras em promoção na Amazon",
-      "summary": "Se você está precisando de uma impressora nova — seja para trabalhar em casa, estudar ou uso no dia a dia — a Amazon tem boas opções disponíveis agora. Reunimos três modelos…",
-      "link": "https://olhardigital.com.br/2026/10/06/reviews/hora-de-renovar-o-escritorio-selecionamos-otimas-impressoras-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-06T18:40:00+00:00"
-    },
-    {
-      "id": "efc5b42bf1815ca8",
-      "title": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4",
-      "summary": "Google DeepMind's EmbeddingGemma 2 maps 5 input types into one 768d space and ships today under Apache 2.0. The post Google DeepMind Releases EmbeddingGemma 2, a 740M Open…",
-      "link": "https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-06T18:36:08+00:00"
-    },
-    {
-      "id": "7e8196728c6481a3",
-      "title": "Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure",
-      "summary": "According to the Wikimedia Foundation, rogue OpenAI agents edited wikis without permission, tried to abuse a citation tool as a proxy, and may have caused a partial Wikidata Query…",
-      "link": "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_wiki_kraken-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-06T18:29:35+00:00"
-    },
-    {
-      "id": "f2e7d38e6a8b0b90",
-      "title": "Hark releases an AI personal assistant with a focus on privacy",
-      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
-      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-06T18:22:45+00:00"
-    },
-    {
-      "id": "30b12e1bb3b9bd4b",
-      "title": "Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade",
-      "summary": "Microsoft published a bearish AI outlook from Nobel economist Daron Acemoglu. He predicts about 1.5 percent GDP growth over ten years and at most five percent of jobs replaced…",
-      "link": "https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/microsoft_human_touch.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-06T17:31:51+00:00"
-    },
-    {
-      "id": "d53bb4999b2a2282",
-      "title": "Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model",
-      "summary": "Mistral AI has released Mistral Large 4, nicknamed Le Chonk, as a public preview. It is a 1.05 trillion parameter Mixture of Experts model with 49 billion active parameters…",
-      "link": "https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-06T17:30:46+00:00"
-    },
-    {
-      "id": "9e54db0665464a4b",
-      "title": "Agentes de IA da OpenAI invadem Wikipédia e causam apagão",
-      "summary": "A fundação Wikimedia, responsável por administrar a Wikipédia, informou que a gentes autônomos de IA da OpenAI causaram uma instabilidade na plataforma devido ao alto volume de…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/agentes-de-ia-da-openai-invadem-wikipedia-e-causam-apagao/",
-      "image": "https://tl.ctcdn.com.br/cckeVouE8MclKJX1dmZABEgaULc=/0x0/filters:format(webp):quality(85)/96230cc1-c253-4911-b12d-7cff7fd09af7.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-06T17:20:01+00:00"
-    },
-    {
-      "id": "547ac54479764aef",
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
-      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short…",
-      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-06T16:35:00+00:00"
-    },
-    {
-      "id": "bccd44d02d6412ca",
-      "title": "We can’t just change the definition of ‘recording’",
-      "summary": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device…",
-      "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-06T16:29:44+00:00"
-    },
-    {
-      "id": "e95e3292551c9c40",
-      "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
-      "summary": "There isn’t a single manual to read or prompt to give an LLM that can equip you with the skills and knowledge to build a company. But on November 4, TechCrunch Founder Summit…",
-      "link": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-06T16:18:45+00:00"
-    },
-    {
-      "id": "6ac080689cb4129b",
-      "title": "Insurers brace for millions in claims as AI agents spin out of control",
-      "summary": "Insurers are bracing for millions in claims from rogue AI agents, and executives like OpenAI's Sam Altman and Anthropic's Dario Amodei could be personally on the hook for the…",
-      "link": "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/ai_insurance_claims.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-06T16:06:46+00:00"
     }
   ]
 }
