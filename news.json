@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-07T22:44:23.236552+00:00",
+  "generated_at": "2026-10-08T04:35:28.652420+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "f9468f8e4eeac957",
+      "title": "Big techs buscam financiamentos bilionários para comprar chips de IA",
+      "summary": "Além da SpaceX, Broadcom e Oracle são outras grandes empresas que visam financiamento para chips de IA O post Big techs buscam financiamentos bilionários para comprar chips de IA…",
+      "link": "https://olhardigital.com.br/2026/10/07/inteligencia-artificial/big-techs-buscam-financiamentos-bilionarios-para-comprar-chips-de-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/10/oracle-1024x576.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-08T02:58:56+00:00"
+    },
+    {
+      "id": "99da4aaa656a9777",
+      "title": "Ex-funcionários demitidos da OpenAI fazem alerta sobre risco de perder controle das IAs",
+      "summary": "Em carta enviada ao conselho de administração e a comitês de segurança da companhia, eles também defenderam a participação de auditores externos no acompanhamento dos riscos da…",
+      "link": "https://olhardigital.com.br/2026/10/07/inteligencia-artificial/ex-funcionarios-demitidos-da-openai-fazem-alerta-sobre-risco-de-perder-controle-das-ias/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/openai-1-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-08T02:37:11+00:00"
+    },
+    {
+      "id": "f586433c0ece09f5",
+      "title": "What Happens When a Trusted Model Repo Changes? Unsloth Studio Re-Checks Before It Runs",
+      "summary": "Unsloth's October 6 security overview explains how Studio checks code, weights, packages and tools before anything runs. Custom model code is scanned and approval is bound to its…",
+      "link": "https://www.marktechpost.com/2026/10/07/what-happens-when-a-trusted-model-repo-changes-unsloth-studio-re-checks-before-it-runs/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/2-fig-1-and-2-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-08T01:49:11+00:00"
+    },
+    {
+      "id": "126f207126ac07e5",
+      "title": "Samsung prevê lucro recorde de R$ 426 bilhões com explosão da demanda por IA",
+      "summary": "Se confirmado no balanço definitivo, o número representará salto de 782% em relação ao mesmo período do ano passado O post Samsung prevê lucro recorde de R$ 426 bilhões com…",
+      "link": "https://olhardigital.com.br/2026/10/07/pro/samsung-preve-lucro-recorde-de-r-426-bilhoes-com-explosao-da-demanda-por-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/samsung-1024x768.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-08T01:42:08+00:00"
+    },
+    {
+      "id": "ea0d238786cc93da",
+      "title": "Anthropic lança novo Claude e corta custo do modelo em 75%",
+      "summary": "Segundo a Anthropic, o Haiku 5.5 é seu modelo pequeno mais rápido, barato e capaz até agora O post Anthropic lança novo Claude e corta custo do modelo em 75% apareceu primeiro em…",
+      "link": "https://olhardigital.com.br/2026/10/07/inteligencia-artificial/anthropic-lanca-novo-claude-e-corta-custo-do-modelo-em-75/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/claude-anthropic-1-1-1-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-08T00:46:49+00:00"
+    },
+    {
+      "id": "f0cfa9e453a6d035",
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
+      "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Surface-Laptop-Ultra-Opened-500x500.png",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-08T00:00:24+00:00"
+    },
+    {
+      "id": "46ff3746c33cef7f",
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+      "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-07T23:36:57+00:00"
+    },
+    {
+      "id": "2df0da41914de536",
+      "title": "Após testes, pesquisadores concluem que ChatGPT para adolescentes não protege jovens",
+      "summary": "O ChatGPT para adolescentes ainda apresenta falhas que podem deixar menores de idade desprotegidos em situações de risco, segundo uma avaliação da Common Sense Media publicada…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/apos-testes-pesquisadores-concluem-que-chatgpt-para-adolescentes-nao-protege-jovens/",
+      "image": "https://tl.ctcdn.com.br/vfHYXeNOBRgQUmYKf3-erxzT0BE=/0x0/filters:format(webp):quality(85)/a2f5608b-828b-404b-9143-f74eedc59325.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-07T23:01:00+00:00"
+    },
     {
       "id": "91440784a89a5ea1",
       "title": "Microsoft coloca Copilot e IA até na barra de busca do Windows",
@@ -56,6 +144,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-10-07T20:48:45+00:00"
+    },
+    {
+      "id": "a36500b9d5fa8896",
+      "title": "Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens",
+      "summary": "Anthropic's Claude Haiku 5.5 starts at $0.10 per million input tokens, keeps 1M context, scores 72.4% on OSWorld. The post Anthropic Releases Claude Haiku 5.5: A Small Model With…",
+      "link": "https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-07T20:38:30+00:00"
     },
     {
       "id": "8fab51cb0c854763",
@@ -892,105 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-06T16:06:46+00:00"
-    },
-    {
-      "id": "2896758265cec81d",
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "link": "https://openai.com/index/atlassian-partnership",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-06T16:00:00+00:00"
-    },
-    {
-      "id": "3e856eb3f647c05d",
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-06T16:00:00+00:00"
-    },
-    {
-      "id": "4e3499bade4b24df",
-      "title": "Moto G37 chega ao Brasil por R$ 999; veja detalhes",
-      "summary": "Celular intermediário da Motorola tem bateria de 5.200 mAh, câmera de 50 MP e recursos de IA do Google. Moto G37 chega ao Brasil por R$ 999; veja detalhes",
-      "link": "https://tecnoblog.net/noticias/moto-g37-chega-ao-brasil-com-camera-de-50-mp-veja-o-preco/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/motorola-moto-g37-tecnoblog-5-edited-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-06T14:29:04+00:00"
-    },
-    {
-      "id": "48e8ba3a6eb807e9",
-      "title": "Mistral Large 4 is Europe's trillion-parameter answer to US models that refuse security work",
-      "summary": "Mistral's Large 4 is the company's biggest model yet, with one trillion parameters trained on its own European infrastructure. In the independent Intelligence Index, the model…",
-      "link": "https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/mistral-logo-wall-nano-banana-pro-scaled.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-06T14:18:08+00:00"
-    },
-    {
-      "id": "90b74e7502aa3c87",
-      "title": "McDonald’s é alvo de processo por usar IA para definir preços",
-      "summary": "Ação coletiva acusa a rede de violar leis de concorrência ao coordenar preços entre lojas próprias e franqueadas. McDonald’s é alvo de processo por usar IA para definir preços",
-      "link": "https://tecnoblog.net/noticias/mcdonalds-e-alvo-de-processo-por-usar-ia-para-definir-precos/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/09/mcdonalds-1-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-06T13:57:21+00:00"
-    },
-    {
-      "id": "d492ddc91a6de3fc",
-      "title": "TV LG OLED C6 55” está com o menor preço desde agosto para clientes Prime",
-      "summary": "LG C6 tem tela OLED 4K de até 165 Hz boa para jogos e recursos de IA; modelo OLED55C6PSA sai 29% mais barato em até 12x sem juros, em oferta exclusiva Amazon Prime TV LG OLED C6…",
-      "link": "https://tecnoblog.net/achados/tv-lg-oled-c6-55-esta-com-o-menor-preco-desde-agosto-para-clientes-prime/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/o64bhgpmnps.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-06T13:44:18+00:00"
-    },
-    {
-      "id": "de66b423d3f35c96",
-      "title": "Google is about to remove free access to Gemini Flash and Pro",
-      "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-06T13:19:01+00:00"
-    },
-    {
-      "id": "20878534cb143dec",
-      "title": "South Korea bets $3.49 billion on building a homegrown frontier AI model to rival China's best",
-      "summary": "South Korea wants to develop a homegrown frontier model through government-backed equity investments of 4.7 trillion won ($3.49 billion). The article South Korea bets $3.49…",
-      "link": "https://the-decoder.com/south-korea-bets-3-49-billion-on-building-a-homegrown-frontier-ai-model-to-rival-chinas-best/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/01/south_korea_flag_wall.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-06T12:54:31+00:00"
-    },
-    {
-      "id": "1d64cace9beff2ad",
-      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-      "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
-      "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-06T12:21:53+00:00"
     }
   ]
 }
