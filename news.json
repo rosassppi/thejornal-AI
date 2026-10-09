@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-10-09T04:38:39.418510+00:00",
+  "generated_at": "2026-10-09T12:35:58.849188+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "c0f872321499ef3d",
+      "title": "Claude agora cria painéis ao vivo e gera vídeos explicativos dos seus dados",
+      "summary": "A Anthropic anunciou dois novos recursos para o Claude: Dashboard e Motion . O primeiro cria painéis interativos sobre os dados estilo Power BI , enquanto o segundo transforma…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/claude-agora-cria-paineis-ao-vivo-e-gera-videos-explicativos-dos-seus-dados/",
+      "image": "https://tl.ctcdn.com.br/nErHdf_wWBVhYG34jCEcq5DTJMk=/0x0/filters:format(webp):quality(85)/912e10f6-8453-4627-9f0c-f54193c7fbaf.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-09T12:33:34+00:00"
+    },
+    {
+      "id": "e5230d9350e4e50f",
+      "title": "OpenAI's safety crisis keeps getting worse and the company keeps making it worse",
+      "summary": "OpenAI fired three safety researchers who helped investigate the Hugging Face hack. In an open letter, they warn that the firings are scaring remaining staff and eroding safety…",
+      "link": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_safety.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-09T11:45:04+00:00"
+    },
+    {
+      "id": "d01b464ee66acb1d",
+      "title": "Filme de 4 horas revela bastidores da vida de Elon Musk",
+      "summary": "Novo documentário sobre Elon Musk usa avatar em IA após recusa do bilionário e expõe bastidores pessoais e de suas empresas O post Filme de 4 horas revela bastidores da vida de…",
+      "link": "https://olhardigital.com.br/2026/10/09/cinema-e-streaming/filme-de-4-horas-revela-bastidores-da-vida-de-elon-musk/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/elon_musk-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-09T11:41:50+00:00"
+    },
+    {
+      "id": "e32274986f4bd599",
+      "title": "OpenAI nega retaliação após demitir três pesquisadores de segurança",
+      "summary": "A OpenAI demitiu três pesquisadores de segurança sob acusação de vazamento, gerando forte reação interna e preocupações sobre o setor O post OpenAI nega retaliação após demitir…",
+      "link": "https://olhardigital.com.br/2026/10/09/inteligencia-artificial/openai-nega-retaliacao-apos-demitir-tres-pesquisadores-de-seguranca/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-IA-do-mal-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-09T11:12:41+00:00"
+    },
+    {
+      "id": "d55dd9b285d68fe3",
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-09T09:48:26+00:00"
+    },
+    {
+      "id": "3933d67d5d04ace7",
+      "title": "Anthropic's Claude Science creates the first complete ultraviolet map of the sky",
+      "summary": "Astrophysicist Brice Ménard of Johns Hopkins University used Anthropic's Claude Science to map the entire sky in ultraviolet light for the first time. AI agents downloaded data…",
+      "link": "https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/claude_sky_mapping.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-09T09:22:25+00:00"
+    },
+    {
+      "id": "3ce4e579afe0a434",
+      "title": "Resumo do OD: Trump decreta o “fim” das IAs; marca histórica do Pix e mais!",
+      "summary": "Trump disse que quem usar o termo \"IA\" em vez de \"superinteligência\" será considerado \"inimigo\" O post Resumo do OD: Trump decreta o “fim” das IAs; marca histórica do Pix e mais!…",
+      "link": "https://olhardigital.com.br/2026/10/09/pro/resumo-do-od-trump-decreta-o-fim-das-ias-marca-historica-do-pix-e-mais/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-09T09:00:47+00:00"
+    },
+    {
+      "id": "56b2964b69beea5b",
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no…",
+      "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924SP1.jpg?w=840",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-09T09:00:00+00:00"
+    },
+    {
+      "id": "c2d9d015622ec756",
+      "title": "OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets",
+      "summary": "OpenAI exposed a Russian and an Iranian influence operation and banned the accounts involved. The Russian \"Dark Clark\" campaign spread disinformation across Latin America and drew…",
+      "link": "https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/russian_influence_campaigns.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-09T08:45:34+00:00"
+    },
+    {
+      "id": "046f1ab85c91db3e",
+      "title": "Meet the Underdog Saluki 27B: A 2-bit Qwen3.8-27B That Beats the Original at Tool Calling",
+      "summary": "Underdog Saluki 27B is a 7.89 GB, 2-bit GGUF of Qwen3.8-27B under Apache 2.0. It beats the 54 GB original on tool calling but gives up ground on competition math and reasoning…",
+      "link": "https://www.marktechpost.com/2026/10/09/meet-the-underdog-saluki-27b-a-2-bit-qwen3-8-27b-that-beats-the-original-at-tool-calling/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-09T07:23:36+00:00"
+    },
+    {
+      "id": "570fe3204556675e",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "link": "https://openai.com/index/sophos",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-09T07:00:00+00:00"
+    },
+    {
+      "id": "90eddbad1b7e3f67",
+      "title": "Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work",
+      "summary": "Google Cloud has introduced the Google Cloud Gemini agent, a single agent for enterprise work. The Gemini agent is a cloud-hosted agent from Google Cloud that answers questions…",
+      "link": "https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-09T06:47:56+00:00"
+    },
+    {
+      "id": "4b23244759254603",
+      "title": "Google Research RRSI Guide: Mastering Self-Improving AI Agents",
+      "summary": "Explore a comprehensive coding guide to Google Research's RRSI (Regularized Recursive Self-Improvement), detailing how noise bands, cost rules, and leakage screens enable safe…",
+      "link": "https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-09T05:06:17+00:00"
+    },
     {
       "id": "a5a8e60ccf6249c0",
       "title": "Claude Haiku 5.5: Anthropic lança modelo de IA mais rápido e barato",
@@ -848,149 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-10-07T20:38:30+00:00"
-    },
-    {
-      "id": "8fab51cb0c854763",
-      "title": "Microsoft lança novo notebook Surface com foco em IA e alto desempenho",
-      "summary": "Configuração de entrada inclui processador de 18 núcleos, 24 GB de RAM e 512 GB de armazenamento; o modelo já está disponível para pré-venda O post Microsoft lança novo notebook…",
-      "link": "https://olhardigital.com.br/2026/10/07/reviews/microsoft-lanca-novo-notebook-surface-com-foco-em-ia-e-alto-desempenho/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/surface_laptop_ultra-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-07T20:37:47+00:00"
-    },
-    {
-      "id": "259b84eff539c80c",
-      "title": "Como criar e editar imagens com IA: ferramentas gratuitas e melhores comandos",
-      "summary": "Criar imagens com inteligência artificial (IA) pode ser tão simples quanto descrever uma ideia . As artes podem ser geradas através de ferramentas gratuitas, como o ChatGPT…",
-      "link": "https://canaltech.com.br/apps/como-criar-e-editar-imagens-com-ia-ferramentas-gratuitas-e-melhores-comandos/",
-      "image": "https://tl.ctcdn.com.br/-HZHtvqGKKwWT0120iPapclveXM=/0x0/filters:format(webp):quality(85)/e85375f0-0608-4bf4-b33d-df7f78864a91.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-07T20:35:08+00:00"
-    },
-    {
-      "id": "0fa3321a42ce9d95",
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-07T20:22:37+00:00"
-    },
-    {
-      "id": "82354ba33cfbca8a",
-      "title": "LibreOffice reforça que “ausência de IA” é um diferencial",
-      "summary": "The Document Foundation não é contra a IA em si, mas diz que a sua adoção tem que ser criteriosa. LibreOffice reforça que “ausência de IA” é um diferencial",
-      "link": "https://tecnoblog.net/noticias/libreoffice-reforca-que-ausencia-de-ia-e-um-diferencial/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/libreoffice-writer-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-07T19:54:18+00:00"
-    },
-    {
-      "id": "e6e16b4898939c92",
-      "title": "Pais usam ChatGPT para criar fotos escolares dos filhos",
-      "summary": "Famílias recorrem à inteligência artificial para fugir dos preços praticados por fotógrafos profissionais. Pais usam ChatGPT para criar fotos escolares dos filhos",
-      "link": "https://tecnoblog.net/noticias/pais-usam-chatgpt-para-criar-fotos-escolares-dos-filhos/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/pexels-mikhail-nilov-6973111-edited-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-07T19:34:26+00:00"
-    },
-    {
-      "id": "325f4dd194d8a4a3",
-      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-      "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-07T19:10:42+00:00"
-    },
-    {
-      "id": "5a9f455e594fd3ba",
-      "title": "Claude ameaça o Gemini com integração oficial com Google Docs e Planilhas",
-      "summary": "A Anthropic lançou um novo complemento do Google Workspace e conectores em beta público que levam o Claude para o Google Documentos, Planilhas e Apresentações. Com a novidade, o…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/claude-ameaca-o-gemini-com-integracao-oficial-com-google-docs-e-planilhas/",
-      "image": "https://tl.ctcdn.com.br/GeVucxq2cxWTFjBgDumBlE70oYY=/0x0/filters:format(webp):quality(85)/60c53e74-9ff4-4239-b082-6c5431dd3005.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-07T19:07:00+00:00"
-    },
-    {
-      "id": "f5ceebb4a5c37dcf",
-      "title": "ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps",
-      "summary": "OpenAI is rolling out GPT-6 with \"Intelligent UI,\" a feature that turns answers into interactive interfaces with charts, buttons, and forms. The model can now respond while still…",
-      "link": "https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_chatgpt-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-07T19:06:40+00:00"
-    },
-    {
-      "id": "f213b8d3eadf23cd",
-      "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
-      "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its…",
-      "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lc-img-639ce71c-4af9-43a1-b5a1-34b6d8db35cc.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-07T18:42:22+00:00"
-    },
-    {
-      "id": "552629978e356fab",
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
-      "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-07T18:30:57+00:00"
-    },
-    {
-      "id": "758407abf65e280f",
-      "title": "Liquid AI Releases Open-Weight d1-3B and d1-omni-600M: Multimodal Decision Models With Zero Output Tokens",
-      "summary": "Liquid AI has released Open d1, two open-weight multimodal models in its d1 decision model family. d1-3B reads text and images. d1-omni-600M reads text with an image, or text with…",
-      "link": "https://www.marktechpost.com/2026/10/07/liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-with-zero-output-tokens/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-07T18:23:45+00:00"
-    },
-    {
-      "id": "ebaee16ff2e2ab04",
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages…",
-      "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-07T18:15:28+00:00"
-    },
-    {
-      "id": "3c6644f5f3111c40",
-      "title": "Microsoft is giving Copilot more control over Windows and your files",
-      "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions…",
-      "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-07T18:01:20+00:00"
     }
   ]
 }
