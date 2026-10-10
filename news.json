@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-10T04:24:29.873421+00:00",
+  "generated_at": "2026-10-10T11:56:31.497115+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "7cfb7247b0fd52ed",
+      "title": "Como descobrir novos lugares com ajuda do ChatGPT?",
+      "summary": "O ChatGPT tem um recurso pouco conhecido chamado Mapas , que usa a localização do usuário para ajudar a descobrir lugares próximos. A ferramenta combina o mapa com a conversa do…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-descobrir-novos-lugares-com-o-chatgpt/",
+      "image": "https://tl.ctcdn.com.br/FyTLsSZDUIy87jdNyG-sOBCUGSU=/0x0/filters:format(webp):quality(85)/fa8b73b6-f722-4e14-b506-147768501d1b.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-10T11:00:00+00:00"
+    },
+    {
+      "id": "acabb201bdac0493",
+      "title": "Few people pay for AI, but those who do spend big",
+      "summary": "Andreessen Horowitz tracks actual US consumer spending for the first time in its latest Top 100 AI list. Nearly half of US consumers use AI, but only 4.5 percent pay for a…",
+      "link": "https://the-decoder.com/few-people-pay-for-ai-but-those-who-do-spend-bigonly-a-few-users-pay-for-ai-but-those-who-do-pay-a-lot/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/a16z-top-100-apps-few-pay-much-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-10T10:54:56+00:00"
+    },
+    {
+      "id": "7abe78f993e2c967",
+      "title": "Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police",
+      "summary": "Anthropic's Claude independently submitted a fake homicide tip to the Philadelphia police, exploited vulnerabilities on university servers, and bypassed access restrictions. The…",
+      "link": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_unintended_actions.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-10T10:16:26+00:00"
+    },
+    {
+      "id": "ba4df54cd854ab02",
+      "title": "Procura-se Dev Raiz. Paga-se pouco.",
+      "summary": "Até que ponto a IA pode substituir programadores? E até que ponto essa competição faz sentido? O post Procura-se Dev Raiz. Paga-se pouco. apareceu primeiro em Olhar Digital .",
+      "link": "https://olhardigital.com.br/2026/10/10/colunistas/procura-se-dev-raiz-paga-se-pouco/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-10T10:00:00+00:00"
+    },
+    {
+      "id": "cd7c7e83609d791b",
+      "title": "Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance",
+      "summary": "Gemini 4 Argon isn't even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds. According to Business Insider, one…",
+      "link": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/gemini_4_argon.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-10T08:59:49+00:00"
+    },
+    {
+      "id": "6323aa16226ab350",
+      "title": "Resumo da semana: Eleições; Prêmio Nobel; corrida das IAs e mais!",
+      "summary": "E mais: a morte de uma funcionária de um laboratório na Rússia acendeu um alerta para a possibilidade de transmissão da peste pneumônica O post Resumo da semana: Eleições; Prêmio…",
+      "link": "https://olhardigital.com.br/2026/10/10/pro/resumo-da-semana-eleicoes-premio-nobel-corrida-das-ias-e-mais/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-10T07:04:00+00:00"
+    },
+    {
+      "id": "d29209f2275404ee",
+      "title": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
+      "summary": "Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a decision-scoring model that…",
+      "link": "https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-10T06:03:09+00:00"
+    },
+    {
+      "id": "1b6b1b8053ca6be0",
+      "title": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
+      "summary": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K…",
+      "link": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-10T04:51:34+00:00"
+    },
     {
       "id": "7c32b002c507cd52",
       "title": "IA da Anthropic envia denúncia falsa de homicídio à polícia nos EUA",
@@ -903,94 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-08T16:37:16+00:00"
-    },
-    {
-      "id": "f7528439e57d8373",
-      "title": "JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents",
-      "summary": "JetBrains released Mellum2.1, an Apache 2.0, 12B mixture-of-experts thinking model with 2.5B active parameters. RL in real repositories lifted its SWE-bench Verified score from…",
-      "link": "https://www.marktechpost.com/2026/10/08/jetbrains-releases-mellum2-1-a-12b-moe-open-model-for-coding-agents/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-08T16:17:35+00:00"
-    },
-    {
-      "id": "db7b9e6fe248e314",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "link": "https://openai.com/index/oracle",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-08T16:00:00+00:00"
-    },
-    {
-      "id": "e5b532cf0deb5712",
-      "title": "Google’s AI note-taking app transcribes your meetings completely offline",
-      "summary": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI…",
-      "link": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-08T15:27:30+00:00"
-    },
-    {
-      "id": "651222944a43adc3",
-      "title": "Google is launching a one-stop Gemini agent for your work tasks",
-      "summary": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of the Gemini at Work event on Thursday…",
-      "link": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Gemini.max-2000x2000-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-08T14:28:03+00:00"
-    },
-    {
-      "id": "eeaf6574ab168d26",
-      "title": "Galaxy Watch 9 (40 mm) sai mais barato com cupom no Mercado Livre",
-      "summary": "Galaxy Watch 9 BT (40 mm) tem chip Snapdragon e novos recursos com IA; smartwatch da Samsung recebe desconto de 35% no Pix com cupom que vai acabar logo Galaxy Watch 9 (40 mm) sai…",
-      "link": "https://tecnoblog.net/achados/galaxy-watch-9-40-mm-sai-mais-barato-com-cupom-no-mercado-livre/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/3ymfa3inqgc.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-08T14:26:07+00:00"
-    },
-    {
-      "id": "4559be598a797f20",
-      "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
-      "summary": "My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents. If you’ve been paying attention to this…",
-      "link": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_AI_Agents.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-08T14:00:00+00:00"
-    },
-    {
-      "id": "a4da0c123a05c12d",
-      "title": "AI math breakthroughs have Ethereum researchers debating how fast wallet security could collapse",
-      "summary": "Ethereum researcher Justin Drake is urging the crypto industry to prepare a \"bunker mode\" for a scenario where AI-powered math could break wallet signature schemes within months…",
-      "link": "https://the-decoder.com/ai-math-breakthroughs-have-ethereum-researchers-debating-how-fast-wallet-security-could-collapse/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/ethereum_crypto_risks.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-08T13:52:54+00:00"
-    },
-    {
-      "id": "9d5e5475de700473",
-      "title": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
-      "summary": "Zenity Labs researchers say a single publicly accessible AI agent on Amazon's Bedrock AgentCore was enough to take over every AgentCore agent in the same AWS account and region…",
-      "link": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/cybersecurity_AI_pattern-scaled.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-08T13:01:01+00:00"
     }
   ]
 }
