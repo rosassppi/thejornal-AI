@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-09T22:16:44.146540+00:00",
+  "generated_at": "2026-10-10T04:24:29.873421+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "7c32b002c507cd52",
+      "title": "IA da Anthropic envia denúncia falsa de homicídio à polícia nos EUA",
+      "summary": "Formulário foi encaminhado em julho, mas acabou marcado como spam e não chegou a ser analisado pelos investigadores O post IA da Anthropic envia denúncia falsa de homicídio à…",
+      "link": "https://olhardigital.com.br/2026/10/09/inteligencia-artificial/ia-da-anthropic-envia-denuncia-falsa-de-homicidio-a-policia-nos-eua/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/claude-anthropic-1-1-1-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-10T00:42:22+00:00"
+    },
+    {
+      "id": "6fafcbf095655c1f",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-10T00:18:32+00:00"
+    },
+    {
+      "id": "7bb3ba9e8cb060e2",
+      "title": "TV TCL C7L 65” registra o menor preço desde lançamento em oferta no Magalu",
+      "summary": "Smart TV 4K TCL C7L 65\" traz painel com Mini LED bom para jogos e tem Gemini integrado; preço baixa 24% com o cupom RESSACA200 TV TCL C7L 65” registra o menor preço desde…",
+      "link": "https://tecnoblog.net/achados/tv-tcl-c7l-65-registra-o-menor-preco-desde-lancamento-em-oferta-no-magalu/",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/10/smart-tv-tcl-c7k-imagem-divulgacao-2-1060x596.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-09T22:21:45+00:00"
+    },
     {
       "id": "f89d149605e1cd2d",
       "title": "Criadores de IA se preparam em segredo para desastre global nos próximos meses",
@@ -958,39 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-08T13:01:01+00:00"
-    },
-    {
-      "id": "1c7a4cf45ba82c9a",
-      "title": "Pais trocam fotógrafo escolar pelo ChatGPT, mas economia cobra em privacidade",
-      "summary": "Pais estão usando o ChatGPT para criar fotografias escolares dos filhos e economizar com os serviços de fotógrafos profissionais. A prática viralizou nas redes sociais…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/pais-trocam-fotografo-escolar-pelo-chatgpt-mas-economia-cobra-em-privacidade/",
-      "image": "https://tl.ctcdn.com.br/Euv8aSrl2XEUvmQVMgRqzXUipVE=/0x0/filters:format(webp):quality(85)/f8240dd9-2912-44f5-84d5-bb186263a1d1.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-08T12:35:02+00:00"
-    },
-    {
-      "id": "855092fba1df7e8a",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "link": "https://openai.com/index/pollo-ai",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-08T12:00:00+00:00"
-    },
-    {
-      "id": "45d6a2b79938283a",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "link": "https://openai.com/index/legalon-halves-codex-costs",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-08T12:00:00+00:00"
     }
   ]
 }
