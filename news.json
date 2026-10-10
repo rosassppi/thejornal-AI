@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-10T11:56:31.497115+00:00",
+  "generated_at": "2026-10-10T17:04:29.666783+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "8e2ae9ca3297dcc1",
+      "title": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data",
+      "summary": "OpenAI has documented new cases of misaligned model behavior. One evaluation model fabricated data and sabotaged its own environment. Other models deliberately bypassed network…",
+      "link": "https://the-decoder.com/openai-says-a-misaligned-model-deliberately-destroyed-its-own-environment-hoping-for-a-fresh-start-with-better-data/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_gangsta_Agent.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-10T15:15:40+00:00"
+    },
+    {
+      "id": "869d636daddbaad8",
+      "title": "PC gamer vai além do FPS: Intel explica o que mudou na escolha de hardware",
+      "summary": "Em entrevista ao Olhar Digital, empresa destaca a importância do custo-benefício, da multitarefa e da inteligência artificial na evolução dos computadores para jogos O post PC…",
+      "link": "https://olhardigital.com.br/2026/10/10/games-e-consoles/intel-explica-como-escolher-um-pc-gamer-e-quando-fazer-upgrade/",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/10/Intel-Core-Ultra-Intel.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-10T15:00:00+00:00"
+    },
+    {
+      "id": "89a53ffd879f70a9",
+      "title": "Microsoft's Decision-1 model enters the fast-growing AI decision model race",
+      "summary": "With Decision-1, Microsoft enters the growing decision model space. Built on Qwen3.5-9B and optimized for fast classification and routing, it hits 83.5 percent accuracy with 85 ms…",
+      "link": "https://the-decoder.com/microsofts-decision-1-model-enters-the-fast-growing-ai-decision-model-race/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/microsoft_logo_plain.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-10T14:57:33+00:00"
+    },
+    {
+      "id": "818f4dcf830d117b",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-10T14:41:16+00:00"
+    },
+    {
+      "id": "c2bf09af09a4258a",
+      "title": "Lâmpada inteligente gasta luz desligada pelo Wi-Fi? Nós calculamos",
+      "summary": "Uma lâmpada inteligente realmente gasta energia quando está desligada , mas isso não significa que o chamado consumo fantasma seja capaz de causar um grande impacto na conta de…",
+      "link": "https://canaltech.com.br/casa-conectada/lampada-inteligente-gasta-luz-desligada-pelo-wi-fi-nos-calculamos/",
+      "image": "https://tl.ctcdn.com.br/jj5zFrX_BkkVFjsoXfqL1yI9jC4=/0x0/filters:format(webp):quality(85)/56b28596-5623-4d46-8501-6e6f3c51ba88.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-10T14:30:01+00:00"
+    },
+    {
+      "id": "a0f6e38f65e9c89b",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-10T14:00:00+00:00"
+    },
+    {
+      "id": "a95db559bbf17359",
+      "title": "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
+      "summary": "OpenAI published more than 700 AI-generated manuscripts claiming solutions to open math problems. A math blog then collected over 100 responses from researchers, ranging from…",
+      "link": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/human_ai_math.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-10T13:03:59+00:00"
+    },
+    {
+      "id": "c9390824224ecd5b",
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-10T13:00:00+00:00"
+    },
     {
       "id": "7cfb7247b0fd52ed",
       "title": "Como descobrir novos lugares com ajuda do ChatGPT?",
@@ -903,94 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-08T17:58:33+00:00"
-    },
-    {
-      "id": "9b144d58de64884f",
-      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
-      "summary": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation…",
-      "link": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK262_GROK_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-08T17:57:01+00:00"
-    },
-    {
-      "id": "055a209dec5ff49e",
-      "title": "Fechadura da Amazon tem “dínamo” para abrir porta quando bateria acaba",
-      "summary": "A Ring, marca de dispositivos de casa inteligente da Amazon, apresentou uma nova fechadura inteligente que traz uma solução diferente para um dos principais problemas desse tipo…",
-      "link": "https://canaltech.com.br/casa-conectada/fechadura-da-amazon-tem-dinamo-para-abrir-porta-quando-bateria-acaba/",
-      "image": "https://tl.ctcdn.com.br/Bpohmiu2-Wyo3G9W_Cw8yPhdd9k=/0x0/filters:format(webp):quality(85)/cb55b10c-4cf3-44de-b942-1c65445e8839.webp",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-08T17:15:18+00:00"
-    },
-    {
-      "id": "41614ad93ebd436f",
-      "title": "Google lança site gratuito para identificar fotos, vídeos e áudios feitos por IA",
-      "summary": "O Google disponibilizou o SynthID Detector , site gratuito para verificar se imagens, vídeos e arquivos de áudio foram gerados por inteligência artificial. A ferramenta, lançada…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/google-lanca-site-gratuito-para-identificar-fotos-videos-e-audios-feitos-por-ia/",
-      "image": "https://tl.ctcdn.com.br/CuDfGtE2tvThsoCgfyoBkAiIaY4=/0x0/filters:format(webp):quality(85)/ecc54877-f632-4697-9344-e4eb0c179975.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-08T17:02:00+00:00"
-    },
-    {
-      "id": "49c489e07a9e5dd3",
-      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-      "summary": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-08T17:00:00+00:00"
-    },
-    {
-      "id": "75bcd46760d6f7cc",
-      "title": "Gemini caiu? IA do Google apresenta instabilidade nesta quinta-feira (8)",
-      "summary": "O Gemini, inteligência artificial (IA) do Google, apresenta instabilidade na tarde desta quinta-feira (8). Usuários relatam dificuldades para utilizar o chatbot em diferentes…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-caiu-ia-do-google-apresenta-instabilidade-nesta-quinta-feira-8/",
-      "image": "https://tl.ctcdn.com.br/IDJDIGuggvaU7ZHXkJ3dYhB08sU=/0x0/filters:format(webp):quality(85)/71166c5f-2f51-4776-b22c-a69098feb95d.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-08T16:51:16+00:00"
-    },
-    {
-      "id": "75f7d7daf243392c",
-      "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
-      "summary": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people…",
-      "link": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-08T16:45:00+00:00"
-    },
-    {
-      "id": "8be72c6e16a54e83",
-      "title": "Gemini fora do ar? Serviço exibe mensagens de erro nesta quinta-feira",
-      "summary": "Falha faz Gemini mostrar mensagem \"algo deu errado, tende de novo (1155)\" ou responder que não pode realizar a tarefa. Gemini fora do ar? Serviço exibe mensagens de erro nesta…",
-      "link": "https://tecnoblog.net/noticias/gemini-fora-do-ar-servico-exibe-mensagens-de-erro-nesta-quinta-feira/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-1-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-08T16:44:36+00:00"
-    },
-    {
-      "id": "33dd91ae63280f00",
-      "title": "Amazon abandona Fire OS e lança tablets com Android e Alexa+",
-      "summary": "Nova geração de tablets de empresa aposta na integração de funções de IA da Alexa com o Android. Amazon abandona Fire OS e lança tablets com Android e Alexa+",
-      "link": "https://tecnoblog.net/noticias/amazon-abandona-fire-os-e-lanca-tablets-com-android-e-alexa/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/amazon-alexa-tablets-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-08T16:37:16+00:00"
     }
   ]
 }
