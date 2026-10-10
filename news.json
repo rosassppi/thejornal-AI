@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-10T17:04:29.666783+00:00",
+  "generated_at": "2026-10-10T21:10:50.942010+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "9dc22aaec5b34618",
+      "title": "China restringe chatbots que simulam namoros e amizades virtuais",
+      "summary": "Regras chinesas exigem avisos de uso e restringem parceiros virtuais para menores, em uma tentativa de conter a manipulação emocional O post China restringe chatbots que simulam…",
+      "link": "https://olhardigital.com.br/2026/10/10/inteligencia-artificial/china-restringe-chatbots-que-simulam-namoros-e-amizades-virtuais/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/Destaque-Crianca-curtidas-redes-sociais-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-10T20:18:24+00:00"
+    },
+    {
+      "id": "b9dc0d5943c84ce6",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-10T19:50:00+00:00"
+    },
+    {
+      "id": "2b1497c5061ec8a3",
+      "title": "Smartwatches em promoção na Amazon: veja uma seleção com ótimas opções para o seu pulso",
+      "summary": "Se você está pensando em trocar o relógio comum por um smartwatch ou presentear alguém com um dispositivo inteligente, este é um bom momento para garimpar. Reunimos três ofertas…",
+      "link": "https://olhardigital.com.br/2026/10/10/reviews/smartwatches-em-promocao-na-amazon-veja-uma-selecao-com-otimas-opcoes-para-o-seu-pulso/",
+      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-10T19:40:00+00:00"
+    },
+    {
+      "id": "c95e890c8b99b2fc",
+      "title": "Hollywood transforma crises da tecnologia em filmes e documentários",
+      "summary": "Documentários e dramas revisitam crises da tecnologia, enquanto pesquisas mostram preocupação com a inteligência artificial e o ambiente O post Hollywood transforma crises da…",
+      "link": "https://olhardigital.com.br/2026/10/10/cinema-e-streaming/hollywood-transforma-crises-da-tecnologia-em-filmes-e-documentarios/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/elon-musk-2-FotoField-scaled-1-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-10T19:09:45+00:00"
+    },
+    {
+      "id": "6d57a260d9ad3ce2",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns…",
+      "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-10T18:52:07+00:00"
+    },
+    {
+      "id": "542658bf922d96b5",
+      "title": "Hora de imprimir mais e gastar menos: veja uma seleção de impressoras em promoção na Amazon",
+      "summary": "Se você está pensando em renovar a impressora de casa ou do escritório, este é um bom momento para ficar de olho nas ofertas. Reunimos três modelos multifuncionais em promoção na…",
+      "link": "https://olhardigital.com.br/2026/10/10/reviews/hora-de-imprimir-mais-e-gastar-menos-veja-uma-selecao-de-impressoras-em-promocao-na-amazon-4/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-10T18:40:00+00:00"
+    },
     {
       "id": "8e2ae9ca3297dcc1",
       "title": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data",
@@ -925,72 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-08T18:17:07+00:00"
-    },
-    {
-      "id": "32d47947d3bb4480",
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
-      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new…",
-      "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-08T18:16:24+00:00"
-    },
-    {
-      "id": "a757d5d7f9456df5",
-      "title": "Diferentão, poderoso e caro: Surface RTX Spark Dev Box é oficial",
-      "summary": "PC compacto da Microsoft para IA custa o equivalente a R$ 30.000. Novidade traz chip Nvidia de 20 núcleos e 128 GB de RAM. Diferentão, poderoso e caro: Surface RTX Spark Dev Box é…",
-      "link": "https://tecnoblog.net/noticias/diferentao-poderoso-e-caro-surface-rtx-spark-dev-box-e-oficial/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/vlai1_jkxl4.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-08T18:13:16+00:00"
-    },
-    {
-      "id": "527c5f7729d01298",
-      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-      "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
-      "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-08T18:10:55+00:00"
-    },
-    {
-      "id": "d4066bf87a67ba0b",
-      "title": "AMD promete FSR 4 sob medida para consoles portáteis até o fim de 2026",
-      "summary": "O FSR 4 é um grande passo da AMD para brigar de frente contra o DLSS da NVIDIA. Inicialmente exclusivo para as GPUs Radeon RX 9000 (RDNA 4), o Time Vermelho liberou a tecnologia…",
-      "link": "https://canaltech.com.br/hardware/amd-promete-fsr-4-sob-medida-para-consoles-portateis-ate-o-fim-de-2026/",
-      "image": "https://tl.ctcdn.com.br/3LzinxfmzUF2xH1dAaSdM8aoH9A=/0x0/filters:format(webp):quality(85)/3dd87542-04ba-4e7a-8e07-1737c4aae5ee.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-08T18:08:00+00:00"
-    },
-    {
-      "id": "7fe2f046b0ee70da",
-      "title": "Hacker usa Claude para atacar bancos e acaba deixando pistas sobre sua identidade",
-      "summary": "Um hacker suspeito de participar de ataques cibernéticos contra pelo menos nove bancos da Coreia do Sul pode ter revelado informações sobre sua própria identidade ao utilizar o…",
-      "link": "https://canaltech.com.br/seguranca/hacker-usa-claude-para-atacar-bancos-e-acaba-deixando-pistas-sobre-sua-identidade/",
-      "image": "https://tl.ctcdn.com.br/V_m3L7PCGu1dxxWPI7PkOEJWOA8=/0x0/filters:format(webp):quality(85)/4ef463f1-605c-4ee7-be94-35fafeebbf38.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-08T17:59:00+00:00"
-    },
-    {
-      "id": "95fca73202feb762",
-      "title": "USA Today becomes the latest publisher to sue OpenAI",
-      "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-08T17:58:33+00:00"
     }
   ]
 }
