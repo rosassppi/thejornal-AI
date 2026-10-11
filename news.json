@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-11T12:08:10.501380+00:00",
+  "generated_at": "2026-10-11T21:29:50.256643+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "0a7b72694dfce217",
+      "title": "Economize na hora de imprimir: veja uma seleção de impressoras em promoção na Amazon",
+      "summary": "Se você está pensando em renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções de impressoras multifuncionais em oferta na…",
+      "link": "https://olhardigital.com.br/2026/10/11/reviews/economize-na-hora-de-imprimir-veja-uma-selecao-de-impressoras-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-11T18:40:00+00:00"
+    },
+    {
+      "id": "10ff9df7a5585aaf",
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-11T18:33:56+00:00"
+    },
+    {
+      "id": "efc6633a232f2ca5",
+      "title": "Atingiu o limite de geração de imagens do ChatGPT? Saiba o que fazer",
+      "summary": "O ChatGPT tem limites para a geração de imagens durante determinados períodos, e a quantidade disponível varia de acordo com o plano contratado. Quando o limite é atingido, o…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-o-que-fazer-atingir-limite-criacao-imagens/",
+      "image": "https://tl.ctcdn.com.br/6LqZCshVXdomFCPYTX79UjQQOws=/0x0/filters:format(webp):quality(85)/896d0c9d-66bc-46c7-805c-ce8274dea2ca.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-11T18:30:05+00:00"
+    },
+    {
+      "id": "2ff11c15230d6661",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-11T16:52:33+00:00"
+    },
+    {
+      "id": "6ee07c43b68755a1",
+      "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-11T16:02:00+00:00"
+    },
+    {
+      "id": "cf102c361d78de88",
+      "title": "AI agent teams waste massive tokens for barely measurable quality gains, research finds",
+      "summary": "Teams of AI agents barely outperform solo agents but cost up to 5.1x more, according to Vals AI. Only one out of four tests with GPT-6 Sol and Claude Opus 5.5 showed a measurable…",
+      "link": "https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/agent_swarm.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-11T15:39:26+00:00"
+    },
+    {
+      "id": "27abcf7051e177f2",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-11T14:00:00+00:00"
+    },
+    {
+      "id": "e8265bd0e25a684d",
+      "title": "AI agents overstate their results and remain far from autonomous research, study finds",
+      "summary": "Epoch AI and Anthropic independently found the same thing: current AI models like GPT-5.6 Sol and Claude Fable 5 can run experiments but lack scientific self-criticism and genuine…",
+      "link": "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/ai_researcher.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-11T13:44:32+00:00"
+    },
     {
       "id": "a439fdc2654eaaf3",
       "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
@@ -903,94 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-09T01:04:08+00:00"
-    },
-    {
-      "id": "4493acae4b9f347f",
-      "title": "Gol lança check-in pelo ChatGPT; veja como fazer",
-      "summary": "Serviço permitirá consultar viagens, escolher assentos e gerar cartão de embarque pelo assistente de IA O post Gol lança check-in pelo ChatGPT; veja como fazer apareceu primeiro…",
-      "link": "https://olhardigital.com.br/2026/10/08/inteligencia-artificial/gol-lanca-check-in-pelo-chatgpt-veja-como-fazer/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/gol-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-09T00:20:56+00:00"
-    },
-    {
-      "id": "feab0ad4868e3e2e",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to…",
-      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-09T00:08:24+00:00"
-    },
-    {
-      "id": "0856c1a27e7e11a7",
-      "title": "Anthropic launches free AI security scans for open-source projects",
-      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-08T21:53:51+00:00"
-    },
-    {
-      "id": "f3bec71a140e23f0",
-      "title": "Conta não fecha: receita da OpenAI seria US$ 20 bilhões menor que o esperado",
-      "summary": "OpenAI teria informado a investidores que sua receita anualizada está próxima de US$ 50 bilhões, abaixo de estimativa anterior O post Conta não fecha: receita da OpenAI seria US$…",
-      "link": "https://olhardigital.com.br/2026/10/08/pro/conta-nao-fecha-receita-da-openai-seria-us-20-bilhoes-menor-que-o-esperado/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-08T21:45:29+00:00"
-    },
-    {
-      "id": "20e7d7495bbca70a",
-      "title": "Guerra de preços aproxima OpenAI da Anthropic",
-      "summary": "Modelos mais baratos ajudam OpenAI a ganhar espaço entre empresas, enquanto Anthropic tenta manter a liderança no mercado corporativo O post Guerra de preços aproxima OpenAI da…",
-      "link": "https://olhardigital.com.br/2026/10/08/inteligencia-artificial/guerra-de-precos-aproxima-openai-da-anthropic/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-08T20:52:29+00:00"
-    },
-    {
-      "id": "f7a2d3ab462446ac",
-      "title": "Uber prepara chegada de robotáxis a Londres",
-      "summary": "Uber e Pony.ai vão testar robotáxis Gen-7 em Londres nas próximas semanas como parte da expansão do serviço autônomo na Europa O post Uber prepara chegada de robotáxis a Londres…",
-      "link": "https://olhardigital.com.br/2026/10/08/carros-e-tecnologia/uber-prepara-chegada-de-robotaxis-a-londres/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2021/05/shutterstock_1693673494.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-08T20:20:22+00:00"
-    },
-    {
-      "id": "ff484611ccd6c627",
-      "title": "ChatGPT para Adolescentes falha em testes de dependência emocional",
-      "summary": "Avaliação da Common Sense Media mostra que versão para menores mantém mecanismos de engajamento e raramente orienta busca por adultos. ChatGPT para Adolescentes falha em testes de…",
-      "link": "https://tecnoblog.net/noticias/chatgpt-para-adolescentes-falha-em-testes-contra-dependencia-emocional/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-08T20:15:34+00:00"
-    },
-    {
-      "id": "7bd525b884109b29",
-      "title": "California is trying to shut down robot vs. human cage matches",
-      "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times…",
-      "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-4.18.11-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-08T20:06:56+00:00"
     }
   ]
 }
