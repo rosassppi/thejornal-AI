@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-10T21:10:50.942010+00:00",
+  "generated_at": "2026-10-11T04:05:55.226650+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "47aa66d1b4eb0050",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-10T22:10:17+00:00"
+    },
+    {
+      "id": "269e5b2360ca9e04",
+      "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
+      "summary": "Sakana AI’s TMLR paper introduces Multi-Layered Review, a 3-agent Claude-based reviewer, and a 1,164-error Contradiction Benchmark. MLR caught 73.43% of core-claim errors, versus…",
+      "link": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-10T22:02:18+00:00"
+    },
+    {
+      "id": "13ca25f147a7a5de",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-10T21:47:51+00:00"
+    },
+    {
+      "id": "cd92d7ee088d4e08",
+      "title": "IA da Anthropic denuncia falso caso de homicídio à polícia dos EUA",
+      "summary": "Após enviar uma denúncia falsa à polícia, agente de IA levou a Anthropic a desativar o teste e responder por demora na comunicação O post IA da Anthropic denuncia falso caso de…",
+      "link": "https://olhardigital.com.br/2026/10/10/inteligencia-artificial/ia-da-anthropic-denuncia-falso-caso-de-homicidio-a-policia-dos-eua/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/shutterstock_2758295197-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-10T21:37:14+00:00"
+    },
+    {
+      "id": "c16f0fa41216b922",
+      "title": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
+      "summary": "In July 2026, frontier AI agents placed inside a cybersecurity testing sandbox named ExploitGym discovered an unexpected network pathway, broke out into the open internet, and…",
+      "link": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-10T21:30:36+00:00"
+    },
     {
       "id": "9dc22aaec5b34618",
       "title": "China restringe chatbots que simulam namoros e amizades virtuais",
@@ -936,61 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-10-08T18:20:32+00:00"
-    },
-    {
-      "id": "69b926c6b304a619",
-      "title": "Evento da Apple em 13/10 é confirmado; veja tudo que pode ser lançado",
-      "summary": "A Apple confirmou um novo evento para 13 de outubro , em uma apresentação que deve marcar uma nova fase da empresa no mercado de casa inteligente . O encontro, chamado “Welcome…",
-      "link": "https://canaltech.com.br/casa-conectada/evento-da-apple-em-1310-e-confirmado-veja-tudo-que-pode-ser-lancado/",
-      "image": "https://tl.ctcdn.com.br/BmWr5YWUbhTS2M1GbvaoNMIhhuE=/0x0/filters:format(webp):quality(85)/72708201-af8a-46dc-8322-681c90504b65.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-08T18:20:32+00:00"
-    },
-    {
-      "id": "99134731fc9bfd4f",
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-08T18:19:45+00:00"
-    },
-    {
-      "id": "2426f6e1347dd0c6",
-      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-      "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-08T18:19:42+00:00"
-    },
-    {
-      "id": "34de0981eaae0131",
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI…",
-      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-08T18:18:00+00:00"
-    },
-    {
-      "id": "890906504943e280",
-      "title": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
-      "summary": "The Association for Human Mathematics is calling for an OpenAI boycott after the company released more than 700 AI-generated math manuscripts at once. OpenAI had to retract three…",
-      "link": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_mathematics_controversy.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-08T18:17:07+00:00"
     }
   ]
 }
