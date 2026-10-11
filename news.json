@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-11T04:05:55.226650+00:00",
+  "generated_at": "2026-10-11T12:08:10.501380+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "a439fdc2654eaaf3",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-11T11:00:00+00:00"
+    },
+    {
+      "id": "d268d2cf9d1abc6c",
+      "title": "Como criar skills/habilidades no Gemini?",
+      "summary": "As habilidades (skills) do Gemini servem para ensinar à IA como você quer que determinada tarefa seja feita . Em vez de repetir as mesmas instruções toda vez que iniciar uma…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-como-criar-skills-habilidades/",
+      "image": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-11T11:00:00+00:00"
+    },
+    {
+      "id": "9bf9e57232a5460e",
+      "title": "Na Era da IA, a maior desigualdade não é de acesso. É de cognição",
+      "summary": "Tratar a Inteligência Artificial apenas como um gerador de saídas prontas é diminuir seu potencial O post Na Era da IA, a maior desigualdade não é de acesso. É de cognição…",
+      "link": "https://olhardigital.com.br/2026/10/11/colunistas/na-era-da-ia-a-maior-desigualdade-nao-e-de-acesso-e-de-cognicao/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-11T10:00:00+00:00"
+    },
+    {
+      "id": "38c3bc45619e6505",
+      "title": "Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario",
+      "summary": "Data from a16z shows a Jevons paradox in the AI market: token prices keep falling, but H100 GPU rental prices hold steady or climb. Cheaper AI drives demand faster than costs…",
+      "link": "https://the-decoder.com/cheaper-ai-tokens-are-driving-more-demand-and-thats-jensen-huangs-best-case-scenario/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/03/Datacenter-Remote.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-11T09:49:59+00:00"
+    },
+    {
+      "id": "c714d68a89bb3d8a",
+      "title": "ArXiv caps submissions at two per month as AI paper flood overwhelms the preprint server",
+      "summary": "Starting October 2026, arXiv will cap submissions at two per person per month. Monthly submissions have doubled in two years, and in the cs.AI category they've grown more than…",
+      "link": "https://the-decoder.com/arxiv-caps-submissions-at-two-per-month-as-ai-paper-flood-overwhelms-the-preprint-server/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/arxiv-flood-ai-paper-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-11T09:17:32+00:00"
+    },
+    {
+      "id": "767c1d3afaf348b2",
+      "title": "Microsoft's Nadella bows to Trump's language diktat on \"Super Intelligence\" and uses it to attack OpenAI and Anthropic",
+      "summary": "Microsoft CEO Satya Nadella now calls artificial intelligence \"super intelligence\" instead of artificial intelligence, falling in line with Trump's preferred language. In his…",
+      "link": "https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/microsoft_trump.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-11T09:08:35+00:00"
+    },
+    {
+      "id": "7b847b2562919f5d",
+      "title": "Odyssey-3 is a new generative world model that you can try for free",
+      "summary": "Odyssey is making its world model Odyssey-3 available as a public research preview. The 14-billion-parameter model generates interactive environments from text prompts in real…",
+      "link": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-11T07:48:01+00:00"
+    },
+    {
+      "id": "09835637e6cd9cbc",
+      "title": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context",
+      "summary": "OrcaRouter released OrcaCyber Zero 1.5, a gated cybersecurity model with a 1M-token context window. It reports 100% on Cybench and 95.8% on an evaluable CVE-Bench subset, priced…",
+      "link": "https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-11T06:20:21+00:00"
+    },
     {
       "id": "47aa66d1b4eb0050",
       "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
@@ -903,94 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-08T20:06:56+00:00"
-    },
-    {
-      "id": "af0936d146af8c18",
-      "title": "Malware usa poesia para infectar mais de 3 mil dispositivos",
-      "summary": "Malware PoeLLM transforma palavras de um poema no GitHub em números para localizar servidores de comando e controle O post Malware usa poesia para infectar mais de 3 mil…",
-      "link": "https://olhardigital.com.br/2026/10/08/seguranca/malware-usa-poesia-para-infectar-mais-de-3-mil-dispositivos/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-08T20:05:12+00:00"
-    },
-    {
-      "id": "0d8c74eec04dc0ba",
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on…",
-      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-08T20:04:26+00:00"
-    },
-    {
-      "id": "eecd7f348b6e93ab",
-      "title": "IA que “trabalha” antes dos advogados vira alvo de processo da OAB/SP",
-      "summary": "Entidade acusa empresa de oferecer recursos que podem substituir funções exclusivas de advogados O post IA que “trabalha” antes dos advogados vira alvo de processo da OAB/SP…",
-      "link": "https://olhardigital.com.br/2026/10/08/inteligencia-artificial/ia-que-trabalha-antes-dos-advogados-vira-alvo-de-processo-da-oab-sp/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2023/01/AI-advogado-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-08T19:41:55+00:00"
-    },
-    {
-      "id": "72c819d9e8f97f37",
-      "title": "Orkut vai voltar? Depois de suspense, criador publica petição",
-      "summary": "Após contagem regressiva, site publicou uma carta de Orkut Büyükkökten com críticas aos algoritmos, à inteligência artificial e aos bots. Orkut vai voltar? Depois de suspense…",
-      "link": "https://tecnoblog.net/noticias/orkut-vai-voltar-depois-de-suspense-criador-publica-peticao/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/captura-de-tela-2026-10-08-162641-edited-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-08T19:40:13+00:00"
-    },
-    {
-      "id": "e334bff62b7f36b0",
-      "title": "Claude can now generate animated explainer videos and live data dashboards from text prompts",
-      "summary": "Anthropic launched two new beta features for Claude. Dashboards turns data sources like BigQuery and Snowflake into live dashboards from text prompts. Motion generates animated…",
-      "link": "https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/claude_logo-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-08T19:17:22+00:00"
-    },
-    {
-      "id": "462d593d70e13aaf",
-      "title": "Being mean to Claude can now get your account suspended under Anthropic's new TOS",
-      "summary": "Anthropic's updated usage policy bans sustained abuse of Claude and tightens restrictions on propaganda, drone weaponization, and surveillance. The abuse rule builds on an…",
-      "link": "https://the-decoder.com/being-mean-to-claude-can-now-get-your-account-suspended-under-anthropics-new-tos/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/claude_sad.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-08T19:03:14+00:00"
-    },
-    {
-      "id": "b5dc4710d8134ee8",
-      "title": "Samsung prevê lucro histórico de US$ 80 bilhões graças à corrida da IA",
-      "summary": "A Samsung anunciou nesta quinta-feira (8) uma projeção de lucro operacional de US$ 80,17 bilhões (cerca de R$ 428 bilhões) para o terceiro trimestre de 2026, um crescimento de…",
-      "link": "https://canaltech.com.br/mercado/samsung-preve-lucro-historico-de-us-80-bilhoes-gracas-a-corrida-da-ia/",
-      "image": "https://tl.ctcdn.com.br/nOGtMNff7KA-UtsMlhOPACAASKc=/0x0/filters:format(webp):quality(85)/53d40eaf-7e71-47f7-9aaa-b30487c5434f.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-08T19:01:00+00:00"
-    },
-    {
-      "id": "2d837d367b192c68",
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier…",
-      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-08T18:20:32+00:00"
     }
   ]
 }
