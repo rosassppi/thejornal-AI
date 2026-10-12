@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-11T21:29:50.256643+00:00",
+  "generated_at": "2026-10-12T04:24:57.602662+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "1c5581f68a4a5897",
+      "title": "TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER",
+      "summary": "TII has released Falcon-ASR, a 1.6B speech recognition model for Arabic with an Emirati focus. It reports 20.92% average WER on 6 Arabic test sets, but weights and an API are not…",
+      "link": "https://www.marktechpost.com/2026/10/11/tii-falcon-asr-arabic-speech-recognition/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-12T03:16:09+00:00"
+    },
+    {
+      "id": "51792feaeed7ff6b",
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-12T00:59:01+00:00"
+    },
+    {
+      "id": "0140e4d1d4086b0c",
+      "title": "Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text",
+      "summary": "Cloudflare released Clef-omni, an Apache-2.0 multimodal decision model built on Qwen3-Omni-30B-A3B. It scores text, images, audio and video in one call for $0.15 per million input…",
+      "link": "https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-11T23:15:52+00:00"
+    },
+    {
+      "id": "1a7719f904163de1",
+      "title": "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models",
+      "summary": "vLLM Semantic Router released Decision 3.0, 5 Apache-2.0 multimodal decision models from 0.8B to 27B. They answer choice, yes/no and score questions about text and images in one…",
+      "link": "https://www.marktechpost.com/2026/10/11/what-is-decision-3-0-vllm-semantic-routers-new-open-decision-models/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-11T21:43:41+00:00"
+    },
     {
       "id": "0a7b72694dfce217",
       "title": "Economize na hora de imprimir: veja uma seleção de impressoras em promoção na Amazon",
@@ -947,50 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-10-09T06:47:56+00:00"
-    },
-    {
-      "id": "4b23244759254603",
-      "title": "Google Research RRSI Guide: Mastering Self-Improving AI Agents",
-      "summary": "Explore a comprehensive coding guide to Google Research's RRSI (Regularized Recursive Self-Improvement), detailing how noise bands, cost rules, and leakage screens enable safe…",
-      "link": "https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-09T05:06:17+00:00"
-    },
-    {
-      "id": "a5a8e60ccf6249c0",
-      "title": "Claude Haiku 5.5: Anthropic lança modelo de IA mais rápido e barato",
-      "summary": "Nova inteligência pode custar 95% menos que o Sonnet 5.5 e empresa fala em desempenho superior ao GPT-6 Luna. Claude Haiku 5.5: Anthropic lança modelo de IA mais rápido e barato",
-      "link": "https://tecnoblog.net/noticias/claude-haiku-5-5-anthropic-lanca-modelo-de-ia-mais-rapido-e-barato/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-5-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-09T03:12:57+00:00"
-    },
-    {
-      "id": "1a289cb2a2f86fcb",
-      "title": "“Soco no estômago”: matemáticos reagem a descobertas divulgadas pela OpenAI",
-      "summary": "Resultados incluem avanços em problemas matemáticos de décadas e provocam reações que vão do entusiasmo à preocupação com o futuro da profissão O post “Soco no estômago”…",
-      "link": "https://olhardigital.com.br/2026/10/08/ciencia-e-espaco/soco-no-estomago-matematicos-reagem-a-descobertas-divulgadas-pela-openai/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/openai-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-09T01:53:17+00:00"
-    },
-    {
-      "id": "48350617e1103fdc",
-      "title": "Ex-funcionários de segurança da OpenAI contestam demissões",
-      "summary": "Em carta aberta, três profissionais negam acusações de má conduta e dizem que desligamentos podem prejudicar o trabalho de segurança em IA O post Ex-funcionários de segurança da…",
-      "link": "https://olhardigital.com.br/2026/10/08/pro/ex-funcionarios-de-seguranca-da-openai-contestam-demissoes/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/openai-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-09T01:04:08+00:00"
     }
   ]
 }
