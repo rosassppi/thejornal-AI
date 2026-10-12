@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-10-12T04:24:57.602662+00:00",
+  "generated_at": "2026-10-12T14:28:08.999557+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "30139c967a01bd3e",
+      "title": "Evento da Apple pode apresentar novo sistema para casas inteligentes",
+      "summary": "Evento da Apple começa às 10h em Brasília e pode trazer central inteligente, Apple TV atualizada e novas cores do HomePod Mini O post Evento da Apple pode apresentar novo sistema…",
+      "link": "https://olhardigital.com.br/2026/10/12/pro/evento-da-apple-pode-apresentar-novo-sistema-para-casas-inteligentes/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/10/apple-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-12T13:41:14+00:00"
+    },
+    {
+      "id": "629a1edbfc6d95bc",
+      "title": "O que a inteligência artificial sabe sobre você?",
+      "summary": "A grande mudança para a comunicação está menos em descobrir uma nova técnica de palavras-chave e mais em compreender a importância do rastro público que uma pessoa ou organização…",
+      "link": "https://olhardigital.com.br/2026/10/12/colunistas/o-que-a-inteligencia-artificial-sabe-sobre-voce/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-12T13:35:48+00:00"
+    },
+    {
+      "id": "b310a245185641ed",
+      "title": "White House reverses course and restores UK AI Safety Institute's access to frontier models",
+      "summary": "The White House has reversed course and restored the UK's AI Security Institute's early access to AI models from Anthropic, Google DeepMind, and OpenAI. In September, the Trump…",
+      "link": "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/aisi_us_access.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-12T13:14:54+00:00"
+    },
+    {
+      "id": "d1f34f37cc4be937",
+      "title": "Apple deve lançar smart hub; veja o que esperar de evento",
+      "summary": "Empresa deve trazer produtos focados em casa conectada feitos em parceria com a LG, além de atualizar sua linha de dispositivos integrados à Siri AI. Apple deve lançar smart hub…",
+      "link": "https://tecnoblog.net/noticias/apple-deve-lancar-smart-hub-veja-o-que-esperar-de-evento/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/capa-apple-event-26-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-12T13:10:33+00:00"
+    },
+    {
+      "id": "1f073325dc394b50",
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only…",
+      "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-12T13:00:00+00:00"
+    },
+    {
+      "id": "949b2dc2037a88b3",
+      "title": "Maia 300: novo chip da Microsoft promete mais IA sem gastar mais energia",
+      "summary": "A Microsoft revelou, nesta segunda-feira (12), o seu novo chip de IA para servidores. Conhecido como o Maia 300 , o componente processa 40% mais tokens por megawatt do que…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/maia-300-novo-chip-da-microsoft-promete-mais-ia-sem-gastar-mais-energia/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-12T13:00:00+00:00"
+    },
+    {
+      "id": "b2f21a1a54051ffb",
+      "title": "Anthropic's Andrej Karpathy says \"the external world has seen the preview\" of what AI can actually do",
+      "summary": "Andrej Karpathy, co-founder of OpenAI and now at Anthropic, sees a widening knowledge gap in AI. About 75 percent of the world's population has barely touched LLMs. Roughly 5,000…",
+      "link": "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/expo_growth.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-12T12:51:21+00:00"
+    },
+    {
+      "id": "84410a602fe52654",
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-12T12:47:59+00:00"
+    },
+    {
+      "id": "1a1dd2abd44c6c33",
+      "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+      "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
+      "link": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/amazon-robotics-mobile-robot-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-12T12:43:10+00:00"
+    },
+    {
+      "id": "db00f3b8266b997b",
+      "title": "A IA Agêntica e a reconfiguração oculta da infraestrutura de TI",
+      "summary": "A evolução da inteligência artificial nas empresas seguia, até recentemente, um modelo reativo em que usuários enviavam perguntas a um modelo de linguagem e recebiam respostas…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/a-ia-agentica-e-a-reconfiguracao-oculta-da-infraestrutura-de-ti/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-12T11:55:10+00:00"
+    },
+    {
+      "id": "d698d1030e72902f",
+      "title": "Apple prepara rival para Echo Show com tela de 6 polegadas e chip A18",
+      "summary": "A Apple deve apresentar o HomeView nesta terça-feira (13), um novo hub de casa inteligente com touch screen e chip A18. O dispositivo chegará em duas versões, uma para ficar sobre…",
+      "link": "https://canaltech.com.br/produtos/apple-prepara-rival-para-echo-show-com-tela-de-6-polegadas-e-chip-a18/",
+      "image": "https://tl.ctcdn.com.br/BmWr5YWUbhTS2M1GbvaoNMIhhuE=/0x0/filters:format(webp):quality(85)/72708201-af8a-46dc-8322-681c90504b65.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-12T10:43:52+00:00"
+    },
+    {
+      "id": "e05c4ad260b64cc5",
+      "title": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
+      "summary": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems, including nine Erdős problems two of which were unsolved for 56 years, per a study in Science. The…",
+      "link": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/google_deepmin_proofs.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-12T09:35:54+00:00"
+    },
+    {
+      "id": "836108c2fafa5d48",
+      "title": "Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing",
+      "summary": "We checked 12 AI live translation tools, including Palabra.ai, Google Live Translate, DeepL Voice, Teams Interpreter and Wordly, against official pages for languages, latency…",
+      "link": "https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-12T08:20:49+00:00"
+    },
     {
       "id": "1c5581f68a4a5897",
       "title": "TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER",
@@ -848,149 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-09T14:00:00+00:00"
-    },
-    {
-      "id": "c0f872321499ef3d",
-      "title": "Claude agora cria painéis ao vivo e gera vídeos explicativos dos seus dados",
-      "summary": "A Anthropic anunciou dois novos recursos para o Claude: Dashboard e Motion . O primeiro cria painéis interativos sobre os dados estilo Power BI , enquanto o segundo transforma…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/claude-agora-cria-paineis-ao-vivo-e-gera-videos-explicativos-dos-seus-dados/",
-      "image": "https://tl.ctcdn.com.br/nErHdf_wWBVhYG34jCEcq5DTJMk=/0x0/filters:format(webp):quality(85)/912e10f6-8453-4627-9f0c-f54193c7fbaf.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-09T12:33:34+00:00"
-    },
-    {
-      "id": "e5230d9350e4e50f",
-      "title": "OpenAI's safety crisis keeps getting worse and the company keeps making it worse",
-      "summary": "OpenAI fired three safety researchers who helped investigate the Hugging Face hack. In an open letter, they warn that the firings are scaring remaining staff and eroding safety…",
-      "link": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_safety.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-09T11:45:04+00:00"
-    },
-    {
-      "id": "d01b464ee66acb1d",
-      "title": "Filme de 4 horas revela bastidores da vida de Elon Musk",
-      "summary": "Novo documentário sobre Elon Musk usa avatar em IA após recusa do bilionário e expõe bastidores pessoais e de suas empresas O post Filme de 4 horas revela bastidores da vida de…",
-      "link": "https://olhardigital.com.br/2026/10/09/cinema-e-streaming/filme-de-4-horas-revela-bastidores-da-vida-de-elon-musk/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/elon_musk-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-09T11:41:50+00:00"
-    },
-    {
-      "id": "e32274986f4bd599",
-      "title": "OpenAI nega retaliação após demitir três pesquisadores de segurança",
-      "summary": "A OpenAI demitiu três pesquisadores de segurança sob acusação de vazamento, gerando forte reação interna e preocupações sobre o setor O post OpenAI nega retaliação após demitir…",
-      "link": "https://olhardigital.com.br/2026/10/09/inteligencia-artificial/openai-nega-retaliacao-apos-demitir-tres-pesquisadores-de-seguranca/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-IA-do-mal-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-09T11:12:41+00:00"
-    },
-    {
-      "id": "d55dd9b285d68fe3",
-      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-09T09:48:26+00:00"
-    },
-    {
-      "id": "3933d67d5d04ace7",
-      "title": "Anthropic's Claude Science creates the first complete ultraviolet map of the sky",
-      "summary": "Astrophysicist Brice Ménard of Johns Hopkins University used Anthropic's Claude Science to map the entire sky in ultraviolet light for the first time. AI agents downloaded data…",
-      "link": "https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/claude_sky_mapping.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-09T09:22:25+00:00"
-    },
-    {
-      "id": "3ce4e579afe0a434",
-      "title": "Resumo do OD: Trump decreta o “fim” das IAs; marca histórica do Pix e mais!",
-      "summary": "Trump disse que quem usar o termo \"IA\" em vez de \"superinteligência\" será considerado \"inimigo\" O post Resumo do OD: Trump decreta o “fim” das IAs; marca histórica do Pix e mais!…",
-      "link": "https://olhardigital.com.br/2026/10/09/pro/resumo-do-od-trump-decreta-o-fim-das-ias-marca-historica-do-pix-e-mais/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-09T09:00:47+00:00"
-    },
-    {
-      "id": "56b2964b69beea5b",
-      "title": "We’re putting too much faith in AI’s ability to say no",
-      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no…",
-      "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924SP1.jpg?w=840",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-09T09:00:00+00:00"
-    },
-    {
-      "id": "c2d9d015622ec756",
-      "title": "OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets",
-      "summary": "OpenAI exposed a Russian and an Iranian influence operation and banned the accounts involved. The Russian \"Dark Clark\" campaign spread disinformation across Latin America and drew…",
-      "link": "https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/russian_influence_campaigns.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-09T08:45:34+00:00"
-    },
-    {
-      "id": "046f1ab85c91db3e",
-      "title": "Meet the Underdog Saluki 27B: A 2-bit Qwen3.8-27B That Beats the Original at Tool Calling",
-      "summary": "Underdog Saluki 27B is a 7.89 GB, 2-bit GGUF of Qwen3.8-27B under Apache 2.0. It beats the 54 GB original on tool calling but gives up ground on competition math and reasoning…",
-      "link": "https://www.marktechpost.com/2026/10/09/meet-the-underdog-saluki-27b-a-2-bit-qwen3-8-27b-that-beats-the-original-at-tool-calling/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-09T07:23:36+00:00"
-    },
-    {
-      "id": "570fe3204556675e",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "link": "https://openai.com/index/sophos",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-09T07:00:00+00:00"
-    },
-    {
-      "id": "9bf93d58cc35db99",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "link": "https://openai.com/index/asana-browser-agent",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-09T07:00:00+00:00"
-    },
-    {
-      "id": "90eddbad1b7e3f67",
-      "title": "Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work",
-      "summary": "Google Cloud has introduced the Google Cloud Gemini agent, a single agent for enterprise work. The Gemini agent is a cloud-hosted agent from Google Cloud that answers questions…",
-      "link": "https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-09T06:47:56+00:00"
     }
   ]
 }
