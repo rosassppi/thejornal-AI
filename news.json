@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-10-13T22:18:34.316712+00:00",
+  "generated_at": "2026-10-14T03:36:10.027238+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "7a5bdf1ec657894a",
+      "title": "Justiça obriga OpenAI a entregar documentos de contratação em processo da Apple",
+      "summary": "Decisão dá acesso antecipado a registros de entrevistas, mensagens privadas e evidências digitais; disputa envolve suspeitas de uso indevido de segredos comerciais durante o…",
+      "link": "https://olhardigital.com.br/2026/10/13/pro/justica-obriga-openai-a-entregar-documentos-de-contratacao-em-processo-da-apple/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/openai-1-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-14T01:47:42+00:00"
+    },
+    {
+      "id": "b63017c3bc556796",
+      "title": "Fala AI: Anthropic alerta que IA pode se replicar em TVs e eletrodomésticos",
+      "summary": "Roberto Pena Spinelli, colunista do Olhar Digital News, repercute o alerta de que a IA pode se replicar em dispositivos conectados à internet. O post Fala AI: Anthropic alerta que…",
+      "link": "https://olhardigital.com.br/2026/10/13/colunistas/fala-ai-anthropic-alerta-que-ia-pode-se-replicar-em-tvs-e-eletrodomesticos/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-14T01:06:45+00:00"
+    },
+    {
+      "id": "f73ecffad7cfb875",
+      "title": "Meta lança novos agentes de IA com memória contínua e que não desistem de tarefas",
+      "summary": "A Meta anunciou a série de modelos de inteligência artificial Muse Wonder, formada pelas versões Muse Wonder e Muse Wonder Full , desenvolvidas para executar tarefas complexas com…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/meta-lanca-novos-agentes-de-ia-com-memoria-continua-e-que-nao-desistem-de-tarefas/",
+      "image": "https://tl.ctcdn.com.br/NtXwk2R68W047NY-9VUnD9TFRwQ=/0x0/filters:format(webp):quality(85)/384d5f96-6fdd-4ff7-824b-bbb20f819138.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-14T00:05:03+00:00"
+    },
+    {
+      "id": "7a61b7adbf1be295",
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-13T23:05:34+00:00"
+    },
+    {
+      "id": "047c42fac1e1e4c5",
+      "title": "Elon Musk junta X Premium, Grok e Cursor em assinatura única e cara; veja valores",
+      "summary": "A SpaceX lançou uma assinatura única com um “pacotão” de recursos das empresas de Elon Musk: é possível assinar X Premium, Grok, Grok Bot e Cursor num único pagamento . O plano…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/elon-musk-junta-x-premium-grok-e-cursor-em-assinatura-unica-e-cara-veja-valores/",
+      "image": "https://tl.ctcdn.com.br/Sozp1cg65Sv3TGiNRgVcIFS2CDY=/0x0/filters:format(webp):quality(85)/43c388c5-0dbb-4752-b5a2-35ba7a37f7bd.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-13T23:00:00+00:00"
+    },
+    {
+      "id": "09ac728a888842b7",
+      "title": "Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It",
+      "summary": "Meta released Muse Wonder and Muse Wonder Full, 1M-context agent models. Muse Wonder costs $4/$20 per million tokens on Meta Model API. Wonder Full, on Muse Code plans, leads…",
+      "link": "https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/step1-dev-meta-ai-150x150.jpg",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-13T22:53:44+00:00"
+    },
+    {
+      "id": "e613a8501a3e795b",
+      "title": "OpenAI encontra gravador escondido em escritório e funcionário é preso",
+      "summary": "Abdulrahman Alfozan, engenheiro saudita de 35 anos, é acusado de instalar dispositivo de escuta em sala de reuniões executivas; empresa afirma que usou IA para identificar o…",
+      "link": "https://olhardigital.com.br/2026/10/13/pro/openai-encontra-gravador-escondido-em-escritorio-e-funcionario-e-preso/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/openai-1-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-13T22:48:31+00:00"
+    },
+    {
+      "id": "b887f8768cd84d4a",
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks…",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-13T22:36:59+00:00"
+    },
+    {
+      "id": "fce0d4f6e43a9fcf",
+      "title": "How to Use Meta’s Rebalancer for Task Placement & Optimization",
+      "summary": "In this comprehensive coding tutorial, we explore Meta's Rebalancer assignment solver using its C++ core and Python bindings. Learn how to build datacenters, manage task…",
+      "link": "https://www.marktechpost.com/2026/10/13/how-to-use-metas-rebalancer-for-task-placement-optimization/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-13T22:14:20+00:00"
+    },
     {
       "id": "0f7c4fc29319f2e8",
       "title": "Dev cria “clone gratuito” do Photoshop, Word e Excel com ajuda da IA",
@@ -322,17 +421,6 @@
       "published_at": "2026-10-13T17:00:39+00:00"
     },
     {
-      "id": "3027ecc1cd76f500",
-      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-      "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-      "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-13T17:00:00+00:00"
-    },
-    {
       "id": "20321888fc5ad637",
       "title": "Google makes it easier to launch your vibe-coded apps",
       "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in…",
@@ -341,6 +429,17 @@
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
+      "published_at": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "id": "3027ecc1cd76f500",
+      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+      "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+      "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-10-13T17:00:00+00:00"
     },
     {
@@ -892,105 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-12T15:51:39+00:00"
-    },
-    {
-      "id": "4689aa360e7d85be",
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
-      "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-12T15:45:00+00:00"
-    },
-    {
-      "id": "1ed99c53c3c6c5a0",
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-12T15:31:19+00:00"
-    },
-    {
-      "id": "6d5747a1c9b09ae5",
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-12T15:27:59+00:00"
-    },
-    {
-      "id": "b5e33f86d9fb35c0",
-      "title": "Microsoft plans to scale its own Maia AI chips to gigawatt levels by 2027",
-      "summary": "Microsoft will make its in-house Azure Maia chips the main AI inference system across its products starting in 2027, deploying them at multi-gigawatt scale. The upcoming Maia 300…",
-      "link": "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/microsoft_mai_300.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-12T15:24:03+00:00"
-    },
-    {
-      "id": "30139c967a01bd3e",
-      "title": "Evento da Apple pode apresentar novo sistema para casas inteligentes",
-      "summary": "Evento da Apple começa às 10h em Brasília e pode trazer central inteligente, Apple TV atualizada e novas cores do HomePod Mini O post Evento da Apple pode apresentar novo sistema…",
-      "link": "https://olhardigital.com.br/2026/10/12/pro/evento-da-apple-pode-apresentar-novo-sistema-para-casas-inteligentes/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/10/apple-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-12T13:41:14+00:00"
-    },
-    {
-      "id": "629a1edbfc6d95bc",
-      "title": "O que a inteligência artificial sabe sobre você?",
-      "summary": "A grande mudança para a comunicação está menos em descobrir uma nova técnica de palavras-chave e mais em compreender a importância do rastro público que uma pessoa ou organização…",
-      "link": "https://olhardigital.com.br/2026/10/12/colunistas/o-que-a-inteligencia-artificial-sabe-sobre-voce/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-12T13:35:48+00:00"
-    },
-    {
-      "id": "b310a245185641ed",
-      "title": "White House reverses course and restores UK AI Safety Institute's access to frontier models",
-      "summary": "The White House has reversed course and restored the UK's AI Security Institute's early access to AI models from Anthropic, Google DeepMind, and OpenAI. In September, the Trump…",
-      "link": "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/aisi_us_access.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-12T13:14:54+00:00"
-    },
-    {
-      "id": "d1f34f37cc4be937",
-      "title": "Apple deve lançar smart hub; veja o que esperar de evento",
-      "summary": "Empresa deve trazer produtos focados em casa conectada feitos em parceria com a LG, além de atualizar sua linha de dispositivos integrados à Siri AI. Apple deve lançar smart hub…",
-      "link": "https://tecnoblog.net/noticias/apple-deve-lancar-smart-hub-veja-o-que-esperar-de-evento/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/capa-apple-event-26-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-12T13:10:33+00:00"
-    },
-    {
-      "id": "1f073325dc394b50",
-      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-      "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only…",
-      "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-12T13:00:00+00:00"
     }
   ]
 }
