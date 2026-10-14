@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-10-14T11:13:05.542848+00:00",
+  "generated_at": "2026-10-14T16:34:21.288055+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "0b70d52795074f9a",
+      "title": "OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work",
+      "summary": "OpenAI is racing to finish its next flagship model, which uses the same looped transformer technique as Astra to boost math and coding performance. The tradeoff is that looping…",
+      "link": "https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-14T16:14:16+00:00"
+    },
+    {
+      "id": "504a28fcb44d1a3d",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "summary": "",
+      "link": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-14T16:12:42+00:00"
+    },
+    {
+      "id": "bae436ba10d79a72",
+      "title": "Itaú abre capacitação grátis em IA e dados para o mercado financeiro",
+      "summary": "O Itaú Unibanco abriu as inscrições para o Programa de Formação Quant. A iniciativa oferece capacitação grátis em IA, programação e modelagem matemática aplicados ao mercado…",
+      "link": "https://canaltech.com.br/mercado/itau-abre-capacitacao-gratis-em-ia-e-dados-para-o-mercado-financeiro/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-14T15:39:17+00:00"
+    },
+    {
+      "id": "bf36e2b66c18a7be",
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
+      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-14T15:16:04+00:00"
+    },
+    {
+      "id": "f7fa7c3720537f58",
+      "title": "IA atende ligações de golpistas, finge ser vítima e prende criminosos na linha por horas",
+      "summary": "O uso de IA para aplicar golpes é uma preocupação comum, mas a tecnologia também é usada para enganar os golpistas . Uma empresa australiana criou um sistema de bots capazes de…",
+      "link": "https://canaltech.com.br/seguranca/ia-atende-ligacoes-de-golpistas-finge-ser-vitima-e-prende-criminosos-na-linha-por-horas/",
+      "image": "https://tl.ctcdn.com.br/aS1FJjyf3RJPRMc0a_OBuwOm6r0=/0x0/filters:format(webp):quality(85)/82f11b1f-4c44-4579-9d38-14cd8d36256f.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-14T15:14:00+00:00"
+    },
+    {
+      "id": "e4249aa490a6b9a4",
+      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-14T15:08:00+00:00"
+    },
+    {
+      "id": "43380d664f34c760",
+      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-14T15:00:00+00:00"
+    },
+    {
+      "id": "4eeb3640b1afccde",
+      "title": "Novas IAs de Google e OpenAI são facilmente burladas para gerar nudes",
+      "summary": "Os modelos de inteligência artificial para geração de imagens desenvolvidos pelo Google e pela OpenAI apresentam falhas nos mecanismos de segurança que deveriam impedir a criação…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/novas-ias-de-google-e-openai-sao-facilmente-burladas-para-gerar-nudes/",
+      "image": "https://tl.ctcdn.com.br/0aS0lV953b1zEDuab43OYHHoKQk=/0x0/filters:format(webp):quality(85)/c26f73ec-66d4-4b8c-8806-fb7e0a8b4cf6.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-14T14:32:00+00:00"
+    },
+    {
+      "id": "6371c6dc0f453b84",
+      "title": "TechCrunch Disrupt 2026: Day 2",
+      "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.",
+      "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-14T14:30:00+00:00"
+    },
+    {
+      "id": "ae7f859b7b426614",
+      "title": "99 lança IA que detecta possíveis acidentes de moto e aciona ajuda",
+      "summary": "A 99 anunciou nesta quarta-feira (14) uma ferramenta de inteligência artificial (IA) capaz de identificar possíveis acidentes durante deslocamentos de moto e acionar uma equipe de…",
+      "link": "https://canaltech.com.br/apps/99-lanca-ia-que-detecta-possiveis-acidentes-de-moto-e-aciona-ajuda/",
+      "image": "https://tl.ctcdn.com.br/YOTEjIenh27R9j_W1TzBU-Yzmno=/0x0/filters:format(webp):quality(85)/36680bb1-93d6-4436-93df-521797c1bdc7.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-14T14:26:09+00:00"
+    },
+    {
+      "id": "38b145b09b774091",
+      "title": "Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs",
+      "summary": "Nvidia CEO Jensen Huang announced $2 billion in European investments and new stakes in French startups like Doctolib and Entalpic. The UK gets $250 million in compute for AI agent…",
+      "link": "https://the-decoder.com/nvidias-jensen-huang-pledges-2-billion-for-europe-250-million-in-compute-for-uk-safety-labs/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-14T14:24:34+00:00"
+    },
+    {
+      "id": "cf40efec23c9a871",
+      "title": "Facebook agora deixa você treinar o algoritmo usando suas próprias palavras",
+      "summary": "O Facebook começou a liberar o Your Algorithm (Seu Algoritmo) , recurso de inteligência artificial que permite personalizar as recomendações do Feed e dos Reels com instruções…",
+      "link": "https://canaltech.com.br/apps/facebook-agora-deixa-voce-treinar-o-algoritmo-usando-suas-proprias-palavras/",
+      "image": "https://tl.ctcdn.com.br/KRdC6zjnPUQ8IYIUdfnN_pbFLD0=/0x0/filters:format(webp):quality(85)/1cd0c82a-8fb3-4d4d-a224-ed3ecb98de54.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-14T14:06:00+00:00"
+    },
+    {
+      "id": "4646927c3b9e929e",
+      "title": "AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap",
+      "summary": "Artemis Security's new Orion-1 model is purpose-built for cyber defense and beats Claude Opus 5.5 and GPT-6 Sol on the company's own benchmark. The model fills a growing gap as…",
+      "link": "https://the-decoder.com/ai-guardrails-designed-to-stop-hackers-are-now-blocking-defenders-and-orion-1-aims-to-fill-the-gap/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/cybersecurity_illu-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-14T13:24:22+00:00"
+    },
+    {
+      "id": "3aa92f69d9027f07",
+      "title": "Febre da recompilação força XBOX a criar divisão para reviver jogos clássicos",
+      "summary": "A CEO do XBOX, Asha Sharma, anunciou, nesta terça-feira (13), o XBOX Labs, uma nova iniciativa de pesquisa na área de inteligência artificial (aparentemente) que reúne um pequeno…",
+      "link": "https://canaltech.com.br/games/febre-da-recompilacao-forca-xbox-a-criar-divisao-para-reviver-jogos-classicos/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-14T13:10:04+00:00"
+    },
+    {
+      "id": "2bf47056676ddded",
+      "title": "Gemini ganha integração com a Play Store para baixar apps direto no chat",
+      "summary": "O Google anunciou o Play in Gemini , recurso que integra o assistente de inteligência artificial à Play Store. Com a novidade, o Gemini poderá recomendar jogos e aplicativos…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-ganha-integracao-com-a-play-store-para-baixar-apps-direto-no-chat/",
+      "image": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-14T13:03:00+00:00"
+    },
+    {
+      "id": "63502f012b781cfc",
+      "title": "A RTX 5090 morreu? Nvidia encerra placa mais poderosa do mundo para focar em IA",
+      "summary": "Você já deu uma olhada nos preços de uma GeForce RTX 5090 hoje? Os modelos mais baratos custam próximo de R$ 32.000, mas vários modelos já custam mais de R$ 40.000 . A melhor…",
+      "link": "https://canaltech.com.br/hardware/a-rtx-5090-morreu-nvidia-encerra-placa-mais-poderosa-do-mundo-para-focar-em-ia/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-14T12:56:00+00:00"
+    },
+    {
+      "id": "d249d26945c2841e",
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-14T12:55:06+00:00"
+    },
+    {
+      "id": "bfc0856141efb9f8",
+      "title": "Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account",
+      "summary": "A Saudi national working as an engineer at OpenAI was arrested for allegedly planting an audio recording device, wrapped in toilet paper, inside the company's executive conference…",
+      "link": "https://the-decoder.com/alleged-openai-spy-vibe-coded-a-surveillance-device-using-his-wifes-chatbot-account/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/openai_ultrafast.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-14T12:37:05+00:00"
+    },
     {
       "id": "98e92c27c426b8ff",
       "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
@@ -78,6 +276,17 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-10-14T07:50:40+00:00"
+    },
+    {
+      "id": "a8b8c31de898145e",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "link": "https://openai.com/index/third-moment-research",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-14T07:00:00+00:00"
     },
     {
       "id": "9cf9a0122f6beeb0",
@@ -782,215 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-13T12:43:10+00:00"
-    },
-    {
-      "id": "323e88b3e4733c64",
-      "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
-      "summary": "As AI data centers and EVs drive up demand for copper, Giraffe Bio has unearthed a $6.4 million seed round to help miners extract more of the mineral.",
-      "link": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-13T12:40:00+00:00"
-    },
-    {
-      "id": "e4f03770cc51fcc0",
-      "title": "IA tem menos regras que uma caixa de leite, diz Microsoft",
-      "summary": "Presidente Brad Smith compara IAs a produtos cotidianos, enquanto CEO Satya Nadella defende um “freio de emergência” para interromper modelos. IA tem menos regras que uma caixa de…",
-      "link": "https://tecnoblog.net/noticias/ia-tem-menos-regras-que-uma-caixa-de-leite-diz-microsoft/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/brad-smith-microsoft-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-13T12:37:04+00:00"
-    },
-    {
-      "id": "b2fa807e4b0dbdf2",
-      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-      "summary": "The startup will sell some of its assets to Disney for $20 million.",
-      "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-13T12:23:42+00:00"
-    },
-    {
-      "id": "8d45898e533e591d",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-13T12:00:00+00:00"
-    },
-    {
-      "id": "e528aa18141be491",
-      "title": "OpenAI e Anthropic querem controlar relatórios de segurança da IA",
-      "summary": "Restrições de acesso e cortes em relatórios afetam a avaliação independente de modelos avançados de inteligência artificial. O post OpenAI e Anthropic querem controlar relatórios…",
-      "link": "https://olhardigital.com.br/2026/10/13/inteligencia-artificial/openai-e-anthropic-querem-controlar-relatorios-de-seguranca-da-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/openai_logo-1024x681.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-13T11:37:32+00:00"
-    },
-    {
-      "id": "2b23908d6a049008",
-      "title": "Anthropic says it cut Claude reasoning token theft by up to 99% in fight against industrial-scale distillation",
-      "summary": "Anthropic says it has cut the extraction of Claude's internal reasoning tokens by 90 to 99 percent. The company links the large-scale distillation attacks to Chinese companies…",
-      "link": "https://the-decoder.com/anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_distillation_defense.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-13T11:06:46+00:00"
-    },
-    {
-      "id": "92924b49799670c2",
-      "title": "Anthropic study warns that small AI models could soon replicate across everyday devices",
-      "summary": "Small AI models may be just months away from spreading on their own across poorly secured consumer devices like smart TVs and robot vacuums, according to a new Anthropic study. In…",
-      "link": "https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/claude_claude_baby_logos.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-13T10:33:28+00:00"
-    },
-    {
-      "id": "895674673f7dc474",
-      "title": "Character.AI files for bankruptcy",
-      "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK278_character_ai_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-13T10:32:23+00:00"
-    },
-    {
-      "id": "aa865376889f85c4",
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the…",
-      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-13T10:00:00+00:00"
-    },
-    {
-      "id": "8c1aad21beb5a32c",
-      "title": "Óculos inteligentes da Samsung vazam com câmera de 12 MP e bateria de 72 horas",
-      "summary": "Os óculos inteligentes da Samsung tiveram especificações e opções de design reveladas em um novo vazamento. Os Galaxy Glasses devem chegar ao mercado em novembro, com armações de…",
-      "link": "https://canaltech.com.br/produtos/oculos-inteligentes-da-samsung-vazam-com-camera-de-12-mp-e-bateria-de-72-horas/",
-      "image": "https://tl.ctcdn.com.br/drt_8hfxjwbn1tkipzIWV4KqkI4=/0x0/filters:format(webp):quality(85)/fb16f81d-5e90-4901-8155-cf2443eac46f.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-13T09:47:28+00:00"
-    },
-    {
-      "id": "a2f578c60a47c5b4",
-      "title": "AI labs are buying data from dead startups to train their models",
-      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s…",
-      "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-13T09:00:00+00:00"
-    },
-    {
-      "id": "18b64e55e8f10e14",
-      "title": "Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB",
-      "summary": "Z.ai’s GLM-Legal is a legal AI model built on GLM-5.3-Flash. It scores 19.2% all-pass on Harvey’s Legal Agent Benchmark, nearly 3x its base, at $0.15 per test. Access is by…",
-      "link": "https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-13T08:19:54+00:00"
-    },
-    {
-      "id": "7cb8e73ab8704d64",
-      "title": "Desenvolvedor recria Photoshop, Word e Excel com IA e disponibiliza de graça",
-      "summary": "Projeto oferece alternativas gratuitas a programas como Photoshop, Premiere, Word, Excel e PowerPoint, mas enfrenta questionamentos sobre segurança e código gerado por…",
-      "link": "https://olhardigital.com.br/2026/10/12/inteligencia-artificial/desenvolvedor-recria-photoshop-word-e-excel-com-ia-e-disponibiliza-de-graca/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-12T21:56:10+00:00"
-    },
-    {
-      "id": "62d26a0e380d93d5",
-      "title": "Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents",
-      "summary": "Alibaba’s Qwen team has introduced QwenGyre, an elastic reinforcement learning RL framework for extreme-long-horizon agent training. QwenGyre is an online reinforcement learning…",
-      "link": "https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-12T21:41:50+00:00"
-    },
-    {
-      "id": "9e4d9446e9552559",
-      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
-      "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
-      "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/epicdisney-500x500.png",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-12T20:59:50+00:00"
-    },
-    {
-      "id": "96d640e55a833639",
-      "title": "Zuckerberg rejeita freio na IA e promete novos gastos da Meta",
-      "summary": "Executivo afirma que a empresa alcançou a fronteira da inteligência artificial e defende o desenvolvimento da tecnologia, apesar dos riscos apontados no setor O post Zuckerberg…",
-      "link": "https://olhardigital.com.br/2026/10/12/inteligencia-artificial/zuckerberg-rejeita-freio-na-ia-e-promete-novos-gastos-da-meta/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-12T20:17:42+00:00"
-    },
-    {
-      "id": "befdf30e1874cbcf",
-      "title": "É oficial! Google lança Fitbit Edge, pulseira inteligente com GPS e bateria de 7 dias",
-      "summary": "O Google anunciou nesta segunda-feira (12) a Fitbit Edge , uma nova pulseira inteligente voltada para exercícios físicos e monitoramento da saúde. Tem GPS integrado, tela OLED…",
-      "link": "https://canaltech.com.br/smartwatch/e-oficial-google-lanca-fitbit-edge-pulseira-inteligente-com-gps-e-bateria-de-7-dias/",
-      "image": "https://tl.ctcdn.com.br/gSt12w7p1o_aN96fyuDooehLjxQ=/0x0/filters:format(webp):quality(85)/ccf8d550-daf4-495e-8be4-d18b66a08d00.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-12T19:25:12+00:00"
-    },
-    {
-      "id": "1f813cfa7054a703",
-      "title": "Meta's new frontier model Muse Wonder Full breaks into the AI top tier",
-      "summary": "Meta's new Muse Wonder models rank in the top three on six out of ten benchmarks, with the biggest gains in agentic tasks. But the cost per task has nearly tripled. The article…",
-      "link": "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/muse_wonder.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-12T18:48:29+00:00"
-    },
-    {
-      "id": "bfaca00eecbfb104",
-      "title": "6 melhores IAs para estudar para o Enem",
-      "summary": "Estudar para o Enem não significa apenas passar horas diante dos livros. Você também precisa revisar o conteúdo, resolver questões, identificar onde estão suas dificuldades e…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/melhores-ias-para-estudar-enem/",
-      "image": "https://tl.ctcdn.com.br/xYq-w_7A3y5ErYVhpUSNc_JjTJk=/0x0/filters:format(webp):quality(85)/e035c04b-ebb1-4ee1-9fc3-84c0172ec1c3.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-12T18:30:05+00:00"
     }
   ]
 }
