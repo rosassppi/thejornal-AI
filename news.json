@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-14T03:36:10.027238+00:00",
+  "generated_at": "2026-10-14T11:13:05.542848+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "98e92c27c426b8ff",
+      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+      "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/white-circle-red-team-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-14T11:00:30+00:00"
+    },
+    {
+      "id": "8bada1f7f3662b94",
+      "title": "IA pode trazer mais trabalho para quem domina a tecnologia, aponta pesquisa",
+      "summary": "A agilidade para executar tarefas é uma das principais promessas envolvendo a IA, mas parte dos profissionais que mais dominam essas ferramentas relata uma rotina mais \"pesada\" …",
+      "link": "https://canaltech.com.br/inteligencia-artificial/ia-pode-trazer-mais-trabalho-para-quem-domina-a-tecnologia-aponta-pesquisa/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-14T11:00:11+00:00"
+    },
+    {
+      "id": "1cf1a3388554a4ca",
+      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+      "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-14T11:00:00+00:00"
+    },
+    {
+      "id": "569055df5e267da9",
+      "title": "IA mais poderosa do Google, Gemini 4 Argon chega para assinantes Pro e Ultra na web",
+      "summary": "O Google liberou, nesta terça-feira (13), o Gemini 4 Argon para assinantes dos planos Google AI Pro e AI Ultra . Descrito pela empresa como seu modelo de inteligência artificial…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/ia-mais-poderosa-do-google-gemini-4-argon-chega-para-assinantes-pro-e-ultra-na-web/",
+      "image": "https://tl.ctcdn.com.br/5jdyO3twq8569KV8WJILGd3du2w=/0x0/filters:format(webp):quality(85)/e10d6e86-c94e-420b-9d41-6956a6c5eb6a.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-14T10:35:07+00:00"
+    },
+    {
+      "id": "618aa0b2482f1123",
+      "title": "9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked",
+      "summary": "Marktechpost ranks the 9 best AI gateways for 2026. We compare Bifrost, Portkey, LiteLLM, Kong, TrueFoundry, Cloudflare, Vercel, OpenRouter and Orq.ai on latency, pricing…",
+      "link": "https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-14T08:57:28+00:00"
+    },
+    {
+      "id": "89413b1fedbbf403",
+      "title": "Resumo do OD: pedido por fiscalização de IAs avançadas; Gemini 4 Argon; e mais",
+      "summary": "OpenAI é espionada, Papa Leão XIV tem câncer e Apple lança novidades para casa conectada O post Resumo do OD: pedido por fiscalização de IAs avançadas; Gemini 4 Argon; e mais…",
+      "link": "https://olhardigital.com.br/2026/10/14/inteligencia-artificial/resumo-do-od-pedido-por-fiscalizacao-de-ias-avancadas-gemini-4-argon-e-mais/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-14T08:00:00+00:00"
+    },
+    {
+      "id": "6c480067f41715e3",
+      "title": "Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents",
+      "summary": "Liquid AI released LFM2.5-24B-A2B, an open-weight 24B Mixture-of-Experts reasoning model with 2B active parameters. It targets local agents, scoring 48.09 on LiveClaw and decoding…",
+      "link": "https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-14T07:50:40+00:00"
+    },
+    {
+      "id": "9cf9a0122f6beeb0",
+      "title": "Google Releases Gemini 4 Argon API With 1M Token Output Limit",
+      "summary": "Google has made Gemini 4 Argon generally available on the Gemini API, AI Studio and the Gemini app. The sparse MoE model writes up to 1M output tokens and leads the Vals Index at…",
+      "link": "https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-14T05:03:34+00:00"
+    },
     {
       "id": "7a5bdf1ec657894a",
       "title": "Justiça obriga OpenAI a entregar documentos de contratação em processo da Apple",
@@ -34,6 +122,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-14T00:05:03+00:00"
+    },
+    {
+      "id": "200a5d3dd39c6bfb",
+      "title": "The EU’s next chapter in AI is agentic",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-14T00:00:00+00:00"
     },
     {
       "id": "7a61b7adbf1be295",
@@ -892,105 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-12T18:30:05+00:00"
-    },
-    {
-      "id": "ac77bf9390257c5b",
-      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
-      "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-500x500-1773164045.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-12T18:21:36+00:00"
-    },
-    {
-      "id": "76268594fe315bfe",
-      "title": "Sakana AI's self-improving model gets better at solving and judging, but can't catch its own blind spots",
-      "summary": "Sakana AI's MASS method lets one language model improve itself by solving tasks, judging results, and refining workflows, reaching a win rate of nearly 70 percent against the base…",
-      "link": "https://the-decoder.com/sakana-ais-self-improving-model-gets-better-at-solving-and-judging-but-cant-catch-its-own-blind-spots/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/mass-recursive-self-improvement-optimization-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-12T17:58:54+00:00"
-    },
-    {
-      "id": "69e5274efa8f0fd3",
-      "title": "Russia was not ready for the data center war it started with Ukraine",
-      "summary": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
-      "link": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Kremlin-with-barbed-wire-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-12T17:52:36+00:00"
-    },
-    {
-      "id": "c4b9d6e880599722",
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
-      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-12T17:19:14+00:00"
-    },
-    {
-      "id": "d34fcef7d5c0863b",
-      "title": "Galaxy Buds 4 nunca esteve tão barato: 45% OFF no Mercado Livre",
-      "summary": "Galaxy Buds 4 com ANC, áudio Hi-Fi de 24 bits e recursos de IA atingem o menor preço já registrado, com desconto de 45% no Pix com cupom Galaxy Buds 4 nunca esteve tão barato: 45%…",
-      "link": "https://tecnoblog.net/achados/galaxy-buds-4-nunca-esteve-tao-barato-45-off-no-mercado-livre/",
-      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/04/galaxy-buds-4-tem-novo-design-com-tampa-transparente-foto-thassius-velosotecnoblog-1060x596.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-12T17:02:16+00:00"
-    },
-    {
-      "id": "846af7f67ce8bfa6",
-      "title": "Meta has some Wonder Full new AI models",
-      "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-12T17:00:00+00:00"
-    },
-    {
-      "id": "fea99ecfd2b25dfe",
-      "title": "Novo “rival” do Office foi criado com auxílio da IA",
-      "summary": "WordCraft, GridCraft e DeckCraft são projetos de código aberto criados com auxílio do Claude. Novo “rival” do Office foi criado com auxílio da IA",
-      "link": "https://tecnoblog.net/noticias/novo-rival-do-office-foi-criado-com-auxilio-da-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/10/office-icones-2025-340x191.webp",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-12T16:22:28+00:00"
-    },
-    {
-      "id": "9581df86c62b9569",
-      "title": "Clearing chat history helps AI agents find better solutions",
-      "summary": "Microsoft researchers found that autonomous AI agents get trapped in what they call \"idea basins\" because of their growing chat context, local solution regions they can't escape…",
-      "link": "https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/fork_flush.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-12T16:10:00+00:00"
-    },
-    {
-      "id": "5b4fe2784ea6bb8a",
-      "title": "Novo anel inteligente vai revelar se você está envelhecendo \"antes do tempo\"",
-      "summary": "Uma startup chamada Ultrahuman vai produzir um anel inteligente capaz de medir a idade biológica do usuário, ou seja, estimar como o corpo está envelhecendo em comparação com a…",
-      "link": "https://canaltech.com.br/produtos/novo-anel-inteligente-vai-revelar-se-voce-esta-envelhecendo-antes-do-tempo/",
-      "image": "https://tl.ctcdn.com.br/wcsRaLeezZ_DFORKd8vpQ93uJzo=/0x0/filters:format(webp):quality(85)/31f9e6fc-4a37-4628-a4cf-3e0cb02acba9.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-12T15:51:39+00:00"
     }
   ]
 }
