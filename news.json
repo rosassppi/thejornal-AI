@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-10-15T16:20:31.474976+00:00",
+  "generated_at": "2026-10-15T20:56:49.016816+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "ca87b5a182b3561b",
+      "title": "Amazon lança gravadores com IA que podem ouvir você o dia todo",
+      "summary": "A Amazon lançou dois novos gravadores com inteligência artificial feitos para acompanhar conversas ao longo do dia. Quando ativados, o Amazon Bee Frontier e o Amazon Bee Eclipse…",
+      "link": "https://canaltech.com.br/produtos/amazon-lanca-gravadores-com-ia-que-podem-ouvir-voce-o-dia-todo/",
+      "image": "https://tl.ctcdn.com.br/BaCbh-ldro7unATRtbjMMznX_hM=/0x0/filters:format(webp):quality(85)/1e903036-5582-4b4a-a339-1bf66882c700.webp",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-15T20:49:27+00:00"
+    },
+    {
+      "id": "d330643595776f9f",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "summary": "",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-15T20:34:01+00:00"
+    },
+    {
+      "id": "f2d5651ecb42923d",
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-15T20:04:53+00:00"
+    },
+    {
+      "id": "fc382632ff036642",
+      "title": "App do Nubank ganha IA que avalia carteira e sugere investimentos",
+      "summary": "O Nubank revelou, nesta quinta-feira (15), o Nu Smart Invest. Com IA , o novo recurso analisa a carteira de investimentos dos clientes e recomenda ativos conforme o perfil de…",
+      "link": "https://canaltech.com.br/apps/app-do-nubank-ganha-ia-que-avalia-carteira-e-sugere-investimentos/",
+      "image": "https://tl.ctcdn.com.br/HsmQsonX3mpje6ZLfAbCqO8w99c=/0x0/filters:format(webp):quality(85)/c340f1b0-37e6-49c1-a12f-b35b88071b5b.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-15T19:57:33+00:00"
+    },
+    {
+      "id": "e85c6a5b67dae4b4",
+      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and…",
+      "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-15T19:57:16+00:00"
+    },
+    {
+      "id": "f2f6f0e7a83f8ae6",
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting…",
+      "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-15T19:55:25+00:00"
+    },
+    {
+      "id": "ed5d13da494101a6",
+      "title": "Volvo aposta na Nvidia para criar carros que dirigem sozinhos nas cidades até 2030",
+      "summary": "Tecnologia deverá estrear em novo modelo da montadora sueca antes do fim da década O post Volvo aposta na Nvidia para criar carros que dirigem sozinhos nas cidades até 2030…",
+      "link": "https://olhardigital.com.br/2026/10/15/carros-e-tecnologia/volvo-aposta-na-nvidia-para-criar-carros-que-dirigem-sozinhos-nas-cidades-ate-2030/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/iStock-2260260651-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-15T19:26:14+00:00"
+    },
+    {
+      "id": "20dfecfa26f1e2fc",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-15T19:14:26+00:00"
+    },
+    {
+      "id": "ca4a415c2dd0064f",
+      "title": "Adeus, One UI? Samsung pode lançar \"Galaxy OS\" com foco total em IA",
+      "summary": "A Samsung prepara uma grande atualização nos celulares e tablets da marca para trazer um novo software chamado Galaxy OS . O foco seria aumentar a integração de inteligência…",
+      "link": "https://canaltech.com.br/apps/adeus-one-ui-samsung-pode-lancar-galaxy-os-com-foco-total-em-ia/",
+      "image": "https://tl.ctcdn.com.br/QL_N0qxpGDO1js1KvXydCJ6CO0Y=/0x0/filters:format(webp):quality(85)/84691ef8-f858-4c56-82c5-d63072b18d1b.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-15T19:06:00+00:00"
+    },
+    {
+      "id": "70eb8d3db7549531",
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into…",
+      "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-15T18:56:46+00:00"
+    },
+    {
+      "id": "f39f53c4c3ac48dc",
+      "title": "Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race",
+      "summary": "Meta's Muse Spark Open is a new open-weight model with 816 billion parameters that processes text, images, video, and audio with up to one million tokens of context. It performs…",
+      "link": "https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/meta_AI_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-15T18:34:32+00:00"
+    },
+    {
+      "id": "a4dc299544df68f2",
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in…",
+      "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268742_Mac_Studio_AKrales_0025.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-15T18:15:36+00:00"
+    },
+    {
+      "id": "1bc3dabe31262f6a",
+      "title": "Dona do TikTok, ByteDance cria time global focado em conter riscos da IA",
+      "summary": "ByteDance reforça a segurança de seus modelos de IA com novos pesquisadores na China e nos EUA para garantir agentes autônomos seguros. O post Dona do TikTok, ByteDance cria time…",
+      "link": "https://olhardigital.com.br/2026/10/15/inteligencia-artificial/dona-do-tiktok-bytedance-cria-time-global-focado-em-conter-riscos-da-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/ia-seguranca-cibernetica-1024x600.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-15T18:05:53+00:00"
+    },
+    {
+      "id": "3e299b7174903d0b",
+      "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
+      "summary": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
+      "link": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-15T17:34:40+00:00"
+    },
+    {
+      "id": "e23e6d8fa5d1d3f3",
+      "title": "Galaxy Watch 8 LTE (44 mm) com Gemini atinge preço histórico",
+      "summary": "Galaxy Watch 8 LTE permite iniciar exercícios por comandos de voz e traz sensor BioActive; smartwatch da Samsung despenca 64% em oferta na Amazon Galaxy Watch 8 LTE (44 mm) com…",
+      "link": "https://tecnoblog.net/achados/galaxy-watch-8-lte-44-mm-com-gemini-atinge-preco-historico/",
+      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/amz.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-15T17:03:46+00:00"
+    },
+    {
+      "id": "955566cae7f5c9a7",
+      "title": "Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM",
+      "summary": "Black Forest Labs has released FLUX 3 Image Klein, a 5.6-billion-parameter open-weights image model that supports native 4K generation, pixel-precise editing, and generation with…",
+      "link": "https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/bfl_black_orest_labs_logo-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-15T16:57:14+00:00"
+    },
+    {
+      "id": "3362164fd44843a5",
+      "title": "Google wants Gemini 4 Argon to be the only AI model robots need",
+      "summary": "Google's Gemini 4 Argon controls robots, generates simulations from photos or sketches, and evaluates training videos. On Google's own ERQA benchmark, it scores 87 percent. But…",
+      "link": "https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/gemini-4-argon-robotics-03-spot-trash-bin.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-15T16:35:47+00:00"
+    },
+    {
+      "id": "c7c9cc2b493a13af",
+      "title": "Friends don’t let friends feed their data to AI agents",
+      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to…",
+      "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268808_None_of_Your_Friends_Consented_To_an_AI_Agent_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-15T16:21:45+00:00"
+    },
     {
       "id": "50d5d8ca33ba8786",
       "title": "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop",
@@ -59,8 +257,8 @@
     },
     {
       "id": "7b92e43b98886796",
-      "title": "Fez o L? ChatGPT nega relação de post com eleição no Brasil",
-      "summary": "Inteligência artificial ganhou função que ensina conceitos por meio de imagens. Fez o L? ChatGPT nega relação de post com eleição no Brasil",
+      "title": "ChatGPT nega relação de post com eleição no Brasil",
+      "summary": "Inteligência artificial ganhou função que ensina conceitos por meio de imagens. ChatGPT nega relação de post com eleição no Brasil",
       "link": "https://tecnoblog.net/noticias/fez-o-l-chatgpt-nega-relacao-de-post-com-eleicao-no-brasil/",
       "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/post-chatgpt-global-l-340x191.png",
       "source": "Tecnoblog",
@@ -278,17 +476,6 @@
       "published_at": "2026-10-15T12:00:05+00:00"
     },
     {
-      "id": "e407e4438cc9c69d",
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The…",
-      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-15T12:00:00+00:00"
-    },
-    {
       "id": "c07a9af3c9fccff9",
       "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
       "summary": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is…",
@@ -297,6 +484,17 @@
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
+      "published_at": "2026-10-15T12:00:00+00:00"
+    },
+    {
+      "id": "e407e4438cc9c69d",
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The…",
+      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-10-15T12:00:00+00:00"
     },
     {
@@ -421,14 +619,14 @@
       "published_at": "2026-10-15T00:41:48+00:00"
     },
     {
-      "id": "e92cc7fb106b45e6",
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or…",
-      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "id": "ff0cf28c5d753057",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "summary": "",
+      "link": "https://huggingface.co/blog/meta-muse-spark-open",
       "image": null,
-      "source": "TechCrunch",
+      "source": "Hugging Face",
       "region": "mundo",
-      "category": "Produtos",
+      "category": "Modelos",
       "published_at": "2026-10-15T00:00:00+00:00"
     },
     {
@@ -440,6 +638,17 @@
       "source": "Hugging Face",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-10-15T00:00:00+00:00"
+    },
+    {
+      "id": "e92cc7fb106b45e6",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or…",
+      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-10-15T00:00:00+00:00"
     },
     {
@@ -782,215 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-10-14T16:12:42+00:00"
-    },
-    {
-      "id": "0ffd9a974781584f",
-      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-      "summary": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine…",
-      "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK438_CLIMATE_CHANGE_G.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-14T16:05:21+00:00"
-    },
-    {
-      "id": "bddfffa0852196a7",
-      "title": "Square’s new kiosk lets you talk to AI for help with your order",
-      "summary": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has…",
-      "link": "https://www.theverge.com/tech/1009086/square-kiosk",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Square-Kiosk-Payment.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-14T16:00:00+00:00"
-    },
-    {
-      "id": "bae436ba10d79a72",
-      "title": "Itaú abre capacitação grátis em IA e dados para o mercado financeiro",
-      "summary": "O Itaú Unibanco abriu as inscrições para o Programa de Formação Quant. A iniciativa oferece capacitação grátis em IA, programação e modelagem matemática aplicados ao mercado…",
-      "link": "https://canaltech.com.br/mercado/itau-abre-capacitacao-gratis-em-ia-e-dados-para-o-mercado-financeiro/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-14T15:39:17+00:00"
-    },
-    {
-      "id": "bf36e2b66c18a7be",
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
-      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-14T15:16:04+00:00"
-    },
-    {
-      "id": "f7fa7c3720537f58",
-      "title": "IA atende ligações de golpistas, finge ser vítima e prende criminosos na linha por horas",
-      "summary": "O uso de IA para aplicar golpes é uma preocupação comum, mas a tecnologia também é usada para enganar os golpistas . Uma empresa australiana criou um sistema de bots capazes de…",
-      "link": "https://canaltech.com.br/seguranca/ia-atende-ligacoes-de-golpistas-finge-ser-vitima-e-prende-criminosos-na-linha-por-horas/",
-      "image": "https://tl.ctcdn.com.br/aS1FJjyf3RJPRMc0a_OBuwOm6r0=/0x0/filters:format(webp):quality(85)/82f11b1f-4c44-4579-9d38-14cd8d36256f.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-14T15:14:00+00:00"
-    },
-    {
-      "id": "e4249aa490a6b9a4",
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
-      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-14T15:08:00+00:00"
-    },
-    {
-      "id": "43380d664f34c760",
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-14T15:00:00+00:00"
-    },
-    {
-      "id": "4eeb3640b1afccde",
-      "title": "Novas IAs de Google e OpenAI são facilmente burladas para gerar nudes",
-      "summary": "Os modelos de inteligência artificial para geração de imagens desenvolvidos pelo Google e pela OpenAI apresentam falhas nos mecanismos de segurança que deveriam impedir a criação…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/novas-ias-de-google-e-openai-sao-facilmente-burladas-para-gerar-nudes/",
-      "image": "https://tl.ctcdn.com.br/0aS0lV953b1zEDuab43OYHHoKQk=/0x0/filters:format(webp):quality(85)/c26f73ec-66d4-4b8c-8806-fb7e0a8b4cf6.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-14T14:32:00+00:00"
-    },
-    {
-      "id": "6371c6dc0f453b84",
-      "title": "TechCrunch Disrupt 2026: Day 2",
-      "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.",
-      "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-14T14:30:00+00:00"
-    },
-    {
-      "id": "ae7f859b7b426614",
-      "title": "99 lança IA que detecta possíveis acidentes de moto e aciona ajuda",
-      "summary": "A 99 anunciou nesta quarta-feira (14) uma ferramenta de inteligência artificial (IA) capaz de identificar possíveis acidentes durante deslocamentos de moto e acionar uma equipe de…",
-      "link": "https://canaltech.com.br/apps/99-lanca-ia-que-detecta-possiveis-acidentes-de-moto-e-aciona-ajuda/",
-      "image": "https://tl.ctcdn.com.br/YOTEjIenh27R9j_W1TzBU-Yzmno=/0x0/filters:format(webp):quality(85)/36680bb1-93d6-4436-93df-521797c1bdc7.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-14T14:26:09+00:00"
-    },
-    {
-      "id": "38b145b09b774091",
-      "title": "Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs",
-      "summary": "Nvidia CEO Jensen Huang announced $2 billion in European investments and new stakes in French startups like Doctolib and Entalpic. The UK gets $250 million in compute for AI agent…",
-      "link": "https://the-decoder.com/nvidias-jensen-huang-pledges-2-billion-for-europe-250-million-in-compute-for-uk-safety-labs/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-14T14:24:34+00:00"
-    },
-    {
-      "id": "cf40efec23c9a871",
-      "title": "Facebook agora deixa você treinar o algoritmo usando suas próprias palavras",
-      "summary": "O Facebook começou a liberar o Your Algorithm (Seu Algoritmo) , recurso de inteligência artificial que permite personalizar as recomendações do Feed e dos Reels com instruções…",
-      "link": "https://canaltech.com.br/apps/facebook-agora-deixa-voce-treinar-o-algoritmo-usando-suas-proprias-palavras/",
-      "image": "https://tl.ctcdn.com.br/KRdC6zjnPUQ8IYIUdfnN_pbFLD0=/0x0/filters:format(webp):quality(85)/1cd0c82a-8fb3-4d4d-a224-ed3ecb98de54.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-14T14:06:00+00:00"
-    },
-    {
-      "id": "4646927c3b9e929e",
-      "title": "AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap",
-      "summary": "Artemis Security's new Orion-1 model is purpose-built for cyber defense and beats Claude Opus 5.5 and GPT-6 Sol on the company's own benchmark. The model fills a growing gap as…",
-      "link": "https://the-decoder.com/ai-guardrails-designed-to-stop-hackers-are-now-blocking-defenders-and-orion-1-aims-to-fill-the-gap/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/cybersecurity_illu-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-14T13:24:22+00:00"
-    },
-    {
-      "id": "3aa92f69d9027f07",
-      "title": "Febre da recompilação força XBOX a criar divisão para reviver jogos clássicos",
-      "summary": "A CEO do XBOX, Asha Sharma, anunciou, nesta terça-feira (13), o XBOX Labs, uma nova iniciativa de pesquisa na área de inteligência artificial (aparentemente) que reúne um pequeno…",
-      "link": "https://canaltech.com.br/games/febre-da-recompilacao-forca-xbox-a-criar-divisao-para-reviver-jogos-classicos/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-14T13:10:04+00:00"
-    },
-    {
-      "id": "2bf47056676ddded",
-      "title": "Gemini ganha integração com a Play Store para baixar apps direto no chat",
-      "summary": "O Google anunciou o Play in Gemini , recurso que integra o assistente de inteligência artificial à Play Store. Com a novidade, o Gemini poderá recomendar jogos e aplicativos…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-ganha-integracao-com-a-play-store-para-baixar-apps-direto-no-chat/",
-      "image": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-14T13:03:00+00:00"
-    },
-    {
-      "id": "63502f012b781cfc",
-      "title": "A RTX 5090 morreu? Nvidia encerra placa mais poderosa do mundo para focar em IA",
-      "summary": "Você já deu uma olhada nos preços de uma GeForce RTX 5090 hoje? Os modelos mais baratos custam próximo de R$ 32.000, mas vários modelos já custam mais de R$ 40.000 . A melhor…",
-      "link": "https://canaltech.com.br/hardware/a-rtx-5090-morreu-nvidia-encerra-placa-mais-poderosa-do-mundo-para-focar-em-ia/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-14T12:56:00+00:00"
-    },
-    {
-      "id": "d249d26945c2841e",
-      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-      "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
-      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-14T12:55:06+00:00"
-    },
-    {
-      "id": "bfc0856141efb9f8",
-      "title": "Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account",
-      "summary": "A Saudi national working as an engineer at OpenAI was arrested for allegedly planting an audio recording device, wrapped in toilet paper, inside the company's executive conference…",
-      "link": "https://the-decoder.com/alleged-openai-spy-vibe-coded-a-surveillance-device-using-his-wifes-chatbot-account/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/openai_ultrafast.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-14T12:37:05+00:00"
-    },
-    {
-      "id": "57c3309db5bedcde",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "link": "https://openai.com/index/amp-beyond-coding",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-14T12:00:00+00:00"
     }
   ]
 }
