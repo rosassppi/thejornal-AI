@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-14T21:17:44.670404+00:00",
+  "generated_at": "2026-10-15T03:16:33.512069+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "8b46efec19319a54",
+      "title": "Apple supera R$ 25,2 trilhões em valor de mercado e desafia novo CEO a avançar em IA",
+      "summary": "Empresa se tornou a segunda da história a fechar acima da marca, depois da Nvidia; John Ternus assume comando com desafio de recuperar terreno na IA sem comprometer a…",
+      "link": "https://olhardigital.com.br/2026/10/14/pro/apple-supera-r-25-2-trilhoes-em-valor-de-mercado-e-desafia-novo-ceo-a-avancar-em-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/John_Ternus_at_the_Apple_50th_Anniversary_Kickoff-820x1024.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-15T02:04:58+00:00"
+    },
+    {
+      "id": "dd616f72402033ce",
+      "title": "8 estados dos EUA processam OpenAI e acusam ChatGPT de colocar jovens em risco",
+      "summary": "Ações alegam que chatbot pode incentivar comportamentos perigosos e enganar usuários sobre sua segurança; em outro processo, famílias acusam empresa de usar informações íntimas de…",
+      "link": "https://olhardigital.com.br/2026/10/14/pro/8-estados-dos-eua-processam-openai-e-acusam-chatgpt-de-colocar-jovens-em-risco/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/chatgpt3-e1737636498885-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-15T01:03:47+00:00"
+    },
+    {
+      "id": "b78f437ea8f9b4c0",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and…",
+      "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-15T01:01:32+00:00"
+    },
+    {
+      "id": "e701adbc6418f1c2",
+      "title": "Anthropic fatura R$ 84,7 bilhões no trimestre às vésperas de abertura de capital",
+      "summary": "Receita da dona do Claude cresceu 45% em três meses, enquanto empresa busca convencer investidores de que conseguirá sustentar a expansão e cobrir os altos custos da IA O post…",
+      "link": "https://olhardigital.com.br/2026/10/14/pro/anthropic-fatura-r-84-7-bilhoes-no-trimestre-as-vesperas-de-abertura-de-capital/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/claude-anthropic-1-1-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-15T00:41:48+00:00"
+    },
+    {
+      "id": "e92cc7fb106b45e6",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or…",
+      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-15T00:00:00+00:00"
+    },
+    {
+      "id": "f6a78dce33ede34c",
+      "title": "Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers",
+      "summary": "Datalab released OmniParseBench, an open OCR benchmark with 16,288 yes/no tests on 2,937 pages in 92 languages. Every score is a pass rate you can slice by tag, script or…",
+      "link": "https://www.marktechpost.com/2026/10/14/datalab-omniparsebench-open-ocr-document-parsing-benchmark/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-14T23:37:25+00:00"
+    },
+    {
+      "id": "79892ed7be0ba671",
+      "title": "PT denuncia Meta à OEA por suposta interferência nas eleições de 2026",
+      "summary": "Campanha de Lula acusa IA e algoritmos da empresa de favorecer Flávio Bolsonaro; Meta nega direcionamento político e afirma ter adotado medidas para cumprir as regras eleitorais O…",
+      "link": "https://olhardigital.com.br/2026/10/14/pro/pt-denuncia-meta-a-oea-por-suposta-interferencia-nas-eleicoes-de-2026/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/lula-oficial-862x1024.jpeg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-14T23:33:15+00:00"
+    },
+    {
+      "id": "e10522981d38e793",
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process…",
+      "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-14T22:53:31+00:00"
+    },
+    {
+      "id": "36d8eb653add8c51",
+      "title": "Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model",
+      "summary": "Fish Audio released Drama 3, a 35B mixture-of-experts text-to-speech model with about 3B active parameters. It takes plain-language direction, covers 83 languages and ships open…",
+      "link": "https://www.marktechpost.com/2026/10/14/fish-audio-drama-3-open-weight-tts-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-14T22:52:17+00:00"
+    },
+    {
+      "id": "7945101da15fb847",
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "summary": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance…",
+      "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-14T22:00:00+00:00"
+    },
+    {
+      "id": "e6ca56c45f482517",
+      "title": "Zesto: 99 lança sistema com IA para pequenos restaurantes; veja como funciona",
+      "summary": "A 99 lançou nesta quarta-feira (14), durante o 99Tech Summit, no Rio de Janeiro, o Zesto, uma plataforma de gestão voltada principalmente a pequenos e médios restaurantes. O…",
+      "link": "https://canaltech.com.br/mercado/zesto-99-lanca-sistema-com-ia-para-pequenos-restaurantes-veja-como-funciona/",
+      "image": "https://tl.ctcdn.com.br/38_L4T8icsDy1b-lNdMlZi2LvRg=/0x0/filters:format(webp):quality(85)/04cbc9e2-1e3d-40d8-957f-c4078e9d0db5.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-14T21:24:55+00:00"
+    },
+    {
+      "id": "79f1d561aed872b5",
+      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+      "summary": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
+      "link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/egslauncher-500x500.png",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-14T21:15:56+00:00"
+    },
     {
       "id": "9194e801adbca278",
       "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
@@ -73,7 +205,7 @@
       "title": "The AI race is back on",
       "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed…",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296206566.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
@@ -575,6 +707,17 @@
       "published_at": "2026-10-14T07:00:00+00:00"
     },
     {
+      "id": "94ee28b93f9d2d83",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "link": "https://openai.com/index/block-ai-powered-security",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-14T07:00:00+00:00"
+    },
+    {
       "id": "9cf9a0122f6beeb0",
       "title": "Google Releases Gemini 4 Argon API With 1M Token Output Limit",
       "summary": "Google has made Gemini 4 Argon generally available on the Gemini API, AI Studio and the Gemini app. The sparse MoE model writes up to 1M output tokens and leads the Vals Index at…",
@@ -848,149 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-13T19:00:48+00:00"
-    },
-    {
-      "id": "61760a8e62e04d01",
-      "title": "406 scientists demand AI models be cut off from the internet immediately",
-      "summary": "406 scientists, including Geoffrey Hinton, Yoshua Bengio, and Stuart Russell, are demanding that companies immediately disconnect AI models from the internet. Their open letter…",
-      "link": "https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/cybersecurity_kraken.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-13T18:50:44+00:00"
-    },
-    {
-      "id": "e1559d5c8449beec",
-      "title": "Hora de renovar o escritório: impressoras em promoção na Amazon",
-      "summary": "Se você está pensando em trocar a impressora ou adquirir uma pela primeira vez, este é um bom momento para pesquisar. Reunimos três opções de impressoras multifuncionais em oferta…",
-      "link": "https://olhardigital.com.br/2026/10/13/reviews/hora-de-renovar-o-escritorio-impressoras-em-promocao-na-amazon-5/",
-      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-13T18:40:00+00:00"
-    },
-    {
-      "id": "d873a5ed331fb5b5",
-      "title": "Bolha da IA pode derrubar a economia global, alerta FMI",
-      "summary": "Relatório aponta riscos ligados ao endividamento, à concentração de investimentos e a acordos de financiamento. Bolha da IA pode derrubar a economia global, alerta FMI",
-      "link": "https://tecnoblog.net/noticias/bolha-da-ia-pode-derrubar-a-economia-global-alerta-fmi/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/ia-4-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-13T18:36:08+00:00"
-    },
-    {
-      "id": "c94df607d9b75d66",
-      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-      "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
-      "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-13T18:30:00+00:00"
-    },
-    {
-      "id": "9452f98968f0cc70",
-      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-      "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
-      "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1167281066-500x500-1791912752.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-13T18:23:33+00:00"
-    },
-    {
-      "id": "ff04246fc05041da",
-      "title": "Como no Instagram: Recurso do Gemini permitirá aplicar filtros criados por outros usuários",
-      "summary": "O Google está desenvolvendo um recurso para o Gemini para compartilhar estilos visuais criados com inteligência artificial e aplicar modelos publicados por outras pessoas. A…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-no-instagram-recurso-do-gemini-permitira-aplicar-filtros-criados-por-outros-usuarios/",
-      "image": "https://tl.ctcdn.com.br/2EyuqhmZaLK-QAejIMGN0_3cdSw=/0x0/filters:format(webp):quality(85)/895b88d2-a897-4e5e-9b32-b24dbcb48fb2.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-13T18:06:00+00:00"
-    },
-    {
-      "id": "d239fa85a32a7e69",
-      "title": "Facebook is giving users more control over their algorithm",
-      "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
-      "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-13T18:05:24+00:00"
-    },
-    {
-      "id": "9d1f26139a71626b",
-      "title": "Gemini 4 Argon is now available worldwide as Google's most capable frontier model",
-      "summary": "Google is making Gemini 4 Argon available worldwide through its API, the Gemini app, and Google Antigravity. The frontier model is aggressively priced but trails Anthropic's…",
-      "link": "https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_4_argon.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-13T18:00:49+00:00"
-    },
-    {
-      "id": "b5b8a08608e1d9e3",
-      "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
-      "summary": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel…",
-      "link": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/rayban_meta_audio_12.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-13T18:00:00+00:00"
-    },
-    {
-      "id": "a982f604a503ccf2",
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable…",
-      "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-13T17:30:00+00:00"
-    },
-    {
-      "id": "51e3d24adc70a0db",
-      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-      "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have…",
-      "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-13T17:18:25+00:00"
-    },
-    {
-      "id": "bfc733de03560480",
-      "title": "Machine learning pioneer Michael I. Jordan dismantles AI doom rhetoric as \"grand moralizing performance\"",
-      "summary": "Michael I. Jordan, described by Science as \"the most influential computer scientist,\" considers warnings about superintelligence pure science fiction. He calls the resignations of…",
-      "link": "https://the-decoder.com/machine-learning-pioneer-michael-i-jordan-dismantles-ai-doom-rhetoric-as-grand-moralizing-performance/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/paris_AI_doomer.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-13T17:12:41+00:00"
-    },
-    {
-      "id": "53911f98c21c784f",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "summary": "",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-13T17:05:48+00:00"
     }
   ]
 }
