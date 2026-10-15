@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-15T03:16:33.512069+00:00",
+  "generated_at": "2026-10-15T10:52:57.539346+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "bcdcc6a35fd1e875",
+      "title": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
+      "summary": "Anthropic hit $16.8 billion in third-quarter revenue, a 45 percent gain that still falls far short of Q2's 140 percent surge. With a November IPO approaching, some investors now…",
+      "link": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/anthropic_amodei.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-15T09:50:43+00:00"
+    },
+    {
+      "id": "3d9a2fb14d51c987",
+      "title": "IA canina? Tecnologia pode ajudar a entender o que os cães dizem",
+      "summary": "Tecnologia identifica padrões em sons de animais, mas pesquisadores afirmam que ainda falta descobrir o significado desses sinais O post IA canina? Tecnologia pode ajudar a…",
+      "link": "https://olhardigital.com.br/2026/10/15/inteligencia-artificial/ia-canina-tecnologia-pode-ajudar-a-entender-o-que-os-caes-dizem/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/freepik_cachorro-em-pe-com-cauda-visivelmente-erguida-e-expressao-atenta-orelhas-levantadas-e-postura-confiante-ambiente-domestico-simples-destacando-linguagem-corporal-clara_0001-1024x571.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-15T08:30:00+00:00"
+    },
+    {
+      "id": "f34db4eee42b9069",
+      "title": "Resumo do OD: fim da escala 6×1, OpenAI processada e Apple crescendo",
+      "summary": "Apple teria se beneficiado de ex-OpenAI, Sonda Hera se move e Anthropic se dá bem no 3º trimestre O post Resumo do OD: fim da escala 6×1, OpenAI processada e Apple crescendo…",
+      "link": "https://olhardigital.com.br/2026/10/15/pro/resumo-do-od-fim-da-escala-6-x-1-openai-processada-e-apple-crescendo/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-15T08:00:00+00:00"
+    },
+    {
+      "id": "fb94389cdb645e35",
+      "title": "TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context",
+      "summary": "TypeSafe AI released Jev 1.14 under the jev-preview alias. The System One model adds experimental image input, a Box bounding-box type and an opt-in 262k-token context, at $0.042…",
+      "link": "https://www.marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-15T05:45:03+00:00"
+    },
+    {
+      "id": "72228f3d165edfb1",
+      "title": "Meet Grok Voice 3.0: SpaceXAI Voice Agent Model Ranks #1 on Artificial Analysis",
+      "summary": "SpaceXAI just released Grok Voice 3.0. Grok Voice 3.0 is a SpaceXAI speech-to-speech model that listens, reasons, calls tools and speaks. It now ranks first on the Artificial…",
+      "link": "https://www.marktechpost.com/2026/10/14/meet-grok-voice-3-0-spacexai-voice-agent-model-ranks-1-on-artificial-analysis/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-15T05:18:54+00:00"
+    },
     {
       "id": "8b46efec19319a54",
       "title": "Apple supera R$ 25,2 trilhões em valor de mercado e desafia novo CEO a avançar em IA",
@@ -936,61 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-13T20:34:01+00:00"
-    },
-    {
-      "id": "483d6a0f60b42da8",
-      "title": "Apple e Samsung avançam enquanto crise da IA sufoca marcas chinesas",
-      "summary": "O mercado global de smartphones registrou uma queda de 20% nas remessas em relação ao mesmo período de 2025 , segundo a Counterpoint Research. A retração foi provocada…",
-      "link": "https://canaltech.com.br/smartphone/apple-e-samsung-avancam-enquanto-crise-da-ia-sufoca-marcas-chinesas/",
-      "image": "https://tl.ctcdn.com.br/fRmFO7gsfET0fLXagg3nDJFHhhU=/0x0/filters:format(webp):quality(85)/08f50df8-d450-4373-bcfd-14ce48f7090b.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-13T20:09:34+00:00"
-    },
-    {
-      "id": "f1305662a1d2e7c4",
-      "title": "Shopify opens its catalog up to more AI agents",
-      "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will…",
-      "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-13T19:42:42+00:00"
-    },
-    {
-      "id": "878953740e6d8263",
-      "title": "Firefox ganha versão paga com controle de dados e IA",
-      "summary": "Firefox Enterprise reúne navegador e painel de gestão corporativa, com foco comercial. Preços não foram divulgados. Firefox ganha versão paga com controle de dados e IA",
-      "link": "https://tecnoblog.net/noticias/firefox-ganha-versao-paga-com-controle-de-dados-e-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/02/capa-mozila-tb-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-13T19:23:13+00:00"
-    },
-    {
-      "id": "f0d24951b3beba47",
-      "title": "CEO da Intel cobra setor de IA e faz nova previsão sobre escassez: \"Tem de dar lucro\"",
-      "summary": "A forte demanda por infraestrutura de inteligência artificial deve continuar superando a capacidade de produção da indústria pelos próximos dois a três anos . A avaliação é do CEO…",
-      "link": "https://canaltech.com.br/hardware/ceo-da-intel-cobra-setor-de-ia-e-faz-nova-previsao-sobre-escassez-tem-de-dar-lucro/",
-      "image": "https://tl.ctcdn.com.br/42-r1G_Qp6uNL7lcEIIvsUBc_OM=/0x0/filters:format(webp):quality(85)/318bb30c-386b-453e-9327-1916bf7b3d84.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-13T19:07:00+00:00"
-    },
-    {
-      "id": "b5a0bcffb5b3a77b",
-      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-      "summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from…",
-      "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/xboxlabshed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-13T19:00:48+00:00"
     }
   ]
 }
