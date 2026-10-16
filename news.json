@@ -1,7 +1,194 @@
 {
-  "generated_at": "2026-10-16T10:43:54.601622+00:00",
+  "generated_at": "2026-10-16T16:06:22.059157+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "5cea1aeddd4affb9",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "summary": "according to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual…",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-16T16:01:37+00:00"
+    },
+    {
+      "id": "e9c3d49cc9d74faa",
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2296621320-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-16T15:41:00+00:00"
+    },
+    {
+      "id": "7ff2fab56ea772a2",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-16T15:33:49+00:00"
+    },
+    {
+      "id": "8d23fe4bf5d07911",
+      "title": "Google's Gemini 4 Argon is closer to the AI frontier than any Google model in months",
+      "summary": "Google Deepmind's Gemini 4 Argon scored 97.5 percent on the ARC-AGI-3 benchmark, making Google the second lab after OpenAI to cross the 95 percent mark. But the results swing…",
+      "link": "https://the-decoder.com/googles-gemini-4-argon-is-closer-to-the-ai-frontier-than-any-google-model-in-months/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_4_argon.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-16T15:03:46+00:00"
+    },
+    {
+      "id": "54ebdfe79863725a",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is…",
+      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-16T15:00:00+00:00"
+    },
+    {
+      "id": "3a8d3bbcd2f8c836",
+      "title": "Favorecimento na IA? Como a Meta gerou uma crise política no Brasil a menos de duas semanas da eleição",
+      "summary": "Entenda a polêmica com o Meta AI no WhatsApp, acusado de favorecimento eleitoral após barrar fotos de Lula e permitir de Flávio Bolsonaro O post Favorecimento na IA? Como a Meta…",
+      "link": "https://olhardigital.com.br/2026/10/16/pro/favorecimento-na-ia-como-a-meta-gerou-uma-crise-politica-no-brasil-a-menos-de-duas-semanas-da-eleicao/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/teste-meta-ai-1024x576.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-16T14:40:45+00:00"
+    },
+    {
+      "id": "81c377413d311577",
+      "title": "Novo streaming gratuito oferece filmes, séries e canais de TV ao vivo",
+      "summary": "Innova TV combina canais lineares, emissoras de rádio e conteúdo sob demanda em formato financiado por anúncios. Novo streaming gratuito oferece filmes, séries e canais de TV ao…",
+      "link": "https://tecnoblog.net/noticias/novo-streaming-gratuito-oferece-filmes-series-e-canais-de-tv-ao-vivo/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/image-14-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-16T14:35:18+00:00"
+    },
+    {
+      "id": "11eb69b8a46d47c5",
+      "title": "ChatGPT agora lê suas abas do Chrome e faz tarefas por você",
+      "summary": "A OpenAI atualizou a extensão do ChatGPT para navegadores, que agora consegue analisar as abas abertas no Google Chrome para dar respostas personalizadas e executar tarefas…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-agora-le-suas-abas-do-chrome-e-faz-tarefas-por-voce/",
+      "image": "https://tl.ctcdn.com.br/cdlPlMjYm4kW5Pa1kMw6ZVGVOLE=/0x0/filters:format(webp):quality(85)/f25244cd-734f-485a-80fb-56254b2f14e7.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-16T14:30:58+00:00"
+    },
+    {
+      "id": "e1b3c44f13458aa6",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-16T14:26:51+00:00"
+    },
+    {
+      "id": "ca580b1475b7847a",
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a…",
+      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-16T14:02:40+00:00"
+    },
+    {
+      "id": "ad740557d1c83584",
+      "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+      "summary": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/SuperScamMe_UHD_42-500x500-1792098327.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-16T14:00:59+00:00"
+    },
+    {
+      "id": "a583c3839293442d",
+      "title": "Is AI interpretability close to a breakthrough? A new essay has researchers divided",
+      "summary": "Neural networks may be much easier to read than researchers assumed, with about 90 percent of neurons serving a clear function. That would be big news for AI safety research…",
+      "link": "https://the-decoder.com/is-ai-interpretability-close-to-a-breakthrough-a-new-essay-has-researchers-divided/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/Neural-Networks-Goodfire-Clean.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-16T13:48:08+00:00"
+    },
+    {
+      "id": "80ab6ac91ca5d150",
+      "title": "OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year",
+      "summary": "OpenAI is launching the Rosalind Academic Plan, a free offering that's currently open only to research labs at US universities without an enterprise contract. The article OpenAI's…",
+      "link": "https://the-decoder.com/openais-new-rosalind-academic-plan-gives-research-labs-up-to-30-free-seats-for-a-year/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-16T13:15:09+00:00"
+    },
+    {
+      "id": "052f9ed9e889d39c",
+      "title": "Anthropic gives METR inside access to audit its AI models and safety practices",
+      "summary": "Anthropic has given a team from the nonprofit METR inside access to review its AI models and safety practices, the company announced. The article Anthropic gives METR inside…",
+      "link": "https://the-decoder.com/anthropic-gives-metr-inside-access-to-audit-its-ai-models-and-safety-practices/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/11/Anthropic-Cybersecurity.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-16T13:11:55+00:00"
+    },
+    {
+      "id": "f617c35d49e227ad",
+      "title": "Lançamento: Galaxy S26 FE com 7 anos de Android já cai 40% em oferta",
+      "summary": "Galaxy S26 FE (128 GB) traz chip de 3 nanômetros e novas funções de IA; premium acessível da Samsung recebe desconto de 40% no Pix com cupom em oferta do Magazine Luiza…",
+      "link": "https://tecnoblog.net/achados/lancamento-galaxy-s26-fe-com-7-anos-de-android-ja-cai-40-em-oferta/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/zrymaivmz9u.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-16T13:08:45+00:00"
+    },
+    {
+      "id": "660063e865d4620d",
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-16T12:55:09+00:00"
+    },
+    {
+      "id": "2a10da6d0f78a60b",
+      "title": "Google ouve usuários e faz mudança importante na busca por IA",
+      "summary": "O Google anunciou mudanças importantes nas ferramentas de IA presentes na busca. As novidades incluem acesso facilitado aos links de fontes originais nos textos e melhor…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/google-ouve-usuarios-e-faz-mudanca-importante-na-busca-por-ia/",
+      "image": "https://tl.ctcdn.com.br/a9_Ng4eCtjb0L0Pcn6iAt7vSVcQ=/0x0/filters:format(webp):quality(85)/4928954e-b90a-4142-9e3d-8a22fd595753.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-16T12:28:41+00:00"
+    },
     {
       "id": "7e627adc197ef134",
       "title": "Resumo do OD: Anthropic com IPO reduzido, vazamento de dados da Ticketmaster e mais",
@@ -78,6 +265,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-16T00:34:36+00:00"
+    },
+    {
+      "id": "c9a6184923cc1a58",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "summary": "",
+      "link": "https://huggingface.co/blog/reflection-beam",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-16T00:00:00+00:00"
     },
     {
       "id": "9223aa9385f8e028",
@@ -392,7 +590,7 @@
       "title": "Galaxy Watch 8 LTE (44 mm) com Gemini atinge preço histórico",
       "summary": "Galaxy Watch 8 LTE permite iniciar exercícios por comandos de voz e traz sensor BioActive; smartwatch da Samsung despenca 64% em oferta na Amazon Galaxy Watch 8 LTE (44 mm) com…",
       "link": "https://tecnoblog.net/achados/galaxy-watch-8-lte-44-mm-com-gemini-atinge-preco-historico/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/amz.png",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/04/galaxy-watch-8-foto-thassius-velosotecnoblog-1060x596.png",
       "source": "Tecnoblog",
       "region": "brasil",
       "category": "Brasil",
@@ -793,204 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-10-15T05:45:03+00:00"
-    },
-    {
-      "id": "72228f3d165edfb1",
-      "title": "Meet Grok Voice 3.0: SpaceXAI Voice Agent Model Ranks #1 on Artificial Analysis",
-      "summary": "SpaceXAI just released Grok Voice 3.0. Grok Voice 3.0 is a SpaceXAI speech-to-speech model that listens, reasons, calls tools and speaks. It now ranks first on the Artificial…",
-      "link": "https://www.marktechpost.com/2026/10/14/meet-grok-voice-3-0-spacexai-voice-agent-model-ranks-1-on-artificial-analysis/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-15T05:18:54+00:00"
-    },
-    {
-      "id": "8b46efec19319a54",
-      "title": "Apple supera R$ 25,2 trilhões em valor de mercado e desafia novo CEO a avançar em IA",
-      "summary": "Empresa se tornou a segunda da história a fechar acima da marca, depois da Nvidia; John Ternus assume comando com desafio de recuperar terreno na IA sem comprometer a…",
-      "link": "https://olhardigital.com.br/2026/10/14/pro/apple-supera-r-25-2-trilhoes-em-valor-de-mercado-e-desafia-novo-ceo-a-avancar-em-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/John_Ternus_at_the_Apple_50th_Anniversary_Kickoff-820x1024.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T02:04:58+00:00"
-    },
-    {
-      "id": "dd616f72402033ce",
-      "title": "8 estados dos EUA processam OpenAI e acusam ChatGPT de colocar jovens em risco",
-      "summary": "Ações alegam que chatbot pode incentivar comportamentos perigosos e enganar usuários sobre sua segurança; em outro processo, famílias acusam empresa de usar informações íntimas de…",
-      "link": "https://olhardigital.com.br/2026/10/14/pro/8-estados-dos-eua-processam-openai-e-acusam-chatgpt-de-colocar-jovens-em-risco/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/chatgpt3-e1737636498885-1024x577.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T01:03:47+00:00"
-    },
-    {
-      "id": "b78f437ea8f9b4c0",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and…",
-      "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-15T01:01:32+00:00"
-    },
-    {
-      "id": "e701adbc6418f1c2",
-      "title": "Anthropic fatura R$ 84,7 bilhões no trimestre às vésperas de abertura de capital",
-      "summary": "Receita da dona do Claude cresceu 45% em três meses, enquanto empresa busca convencer investidores de que conseguirá sustentar a expansão e cobrir os altos custos da IA O post…",
-      "link": "https://olhardigital.com.br/2026/10/14/pro/anthropic-fatura-r-84-7-bilhoes-no-trimestre-as-vesperas-de-abertura-de-capital/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/claude-anthropic-1-1-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T00:41:48+00:00"
-    },
-    {
-      "id": "94eadcab22c41e35",
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-      "link": "https://openai.com/index/sullivan-cromwell",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-15T00:00:00+00:00"
-    },
-    {
-      "id": "ff0cf28c5d753057",
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "summary": "",
-      "link": "https://huggingface.co/blog/meta-muse-spark-open",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-15T00:00:00+00:00"
-    },
-    {
-      "id": "eb67409897ed2136",
-      "title": "Welcome FLUX.3 Image Klein in Diffusers",
-      "summary": "",
-      "link": "https://huggingface.co/blog/flux-3",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-15T00:00:00+00:00"
-    },
-    {
-      "id": "e92cc7fb106b45e6",
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or…",
-      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-15T00:00:00+00:00"
-    },
-    {
-      "id": "f6a78dce33ede34c",
-      "title": "Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers",
-      "summary": "Datalab released OmniParseBench, an open OCR benchmark with 16,288 yes/no tests on 2,937 pages in 92 languages. Every score is a pass rate you can slice by tag, script or…",
-      "link": "https://www.marktechpost.com/2026/10/14/datalab-omniparsebench-open-ocr-document-parsing-benchmark/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-14T23:37:25+00:00"
-    },
-    {
-      "id": "79892ed7be0ba671",
-      "title": "PT denuncia Meta à OEA por suposta interferência nas eleições de 2026",
-      "summary": "Campanha de Lula acusa IA e algoritmos da empresa de favorecer Flávio Bolsonaro; Meta nega direcionamento político e afirma ter adotado medidas para cumprir as regras eleitorais O…",
-      "link": "https://olhardigital.com.br/2026/10/14/pro/pt-denuncia-meta-a-oea-por-suposta-interferencia-nas-eleicoes-de-2026/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/lula-oficial-862x1024.jpeg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-14T23:33:15+00:00"
-    },
-    {
-      "id": "e10522981d38e793",
-      "title": "McKinsey is making job applicants spar with a fake AI client",
-      "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process…",
-      "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-14T22:53:31+00:00"
-    },
-    {
-      "id": "36d8eb653add8c51",
-      "title": "Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model",
-      "summary": "Fish Audio released Drama 3, a 35B mixture-of-experts text-to-speech model with about 3B active parameters. It takes plain-language direction, covers 83 languages and ships open…",
-      "link": "https://www.marktechpost.com/2026/10/14/fish-audio-drama-3-open-weight-tts-model/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-14T22:52:17+00:00"
-    },
-    {
-      "id": "7945101da15fb847",
-      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-      "summary": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance…",
-      "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-14T22:00:00+00:00"
-    },
-    {
-      "id": "e6ca56c45f482517",
-      "title": "Zesto: 99 lança sistema com IA para pequenos restaurantes; veja como funciona",
-      "summary": "A 99 lançou nesta quarta-feira (14), durante o 99Tech Summit, no Rio de Janeiro, o Zesto, uma plataforma de gestão voltada principalmente a pequenos e médios restaurantes. O…",
-      "link": "https://canaltech.com.br/mercado/zesto-99-lanca-sistema-com-ia-para-pequenos-restaurantes-veja-como-funciona/",
-      "image": "https://tl.ctcdn.com.br/38_L4T8icsDy1b-lNdMlZi2LvRg=/0x0/filters:format(webp):quality(85)/04cbc9e2-1e3d-40d8-957f-c4078e9d0db5.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-14T21:24:55+00:00"
-    },
-    {
-      "id": "79f1d561aed872b5",
-      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
-      "summary": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
-      "link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/egslauncher-500x500.png",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-14T21:15:56+00:00"
-    },
-    {
-      "id": "9194e801adbca278",
-      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-14T21:11:28+00:00"
-    },
-    {
-      "id": "96ea52d21ea17d09",
-      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-      "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
-      "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-14T21:00:00+00:00"
     }
   ]
 }
