@@ -1,7 +1,172 @@
 {
-  "generated_at": "2026-10-15T20:56:49.016816+00:00",
+  "generated_at": "2026-10-16T03:12:13.556764+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "afde317889b48fa7",
+      "title": "Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context",
+      "summary": "Meta released Muse Spark Open, an 816B-parameter open-weight MoE model with 42B active parameters and a 1M-token context. It leads open models on MCP-Atlas and runs on 2 M5 Ultra…",
+      "link": "https://www.marktechpost.com/2026/10/15/meta-muse-spark-open-816b-open-weight-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-16T02:26:04+00:00"
+    },
+    {
+      "id": "138e9b7e7d974724",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "summary": "",
+      "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-16T01:44:47+00:00"
+    },
+    {
+      "id": "2cac54715c383471",
+      "title": "ChatGPT ganha acesso às abas do Chrome e pode executar tarefas no navegador",
+      "summary": "Atualização da extensão permite comparar páginas abertas, preencher formulários, enviar mensagens e organizar abas; recursos dependem de permissões do usuário O post ChatGPT ganha…",
+      "link": "https://olhardigital.com.br/2026/10/15/inteligencia-artificial/chatgpt-ganha-acesso-as-abas-do-chrome-e-pode-executar-tarefas-no-navegador/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/google-chrome-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-16T00:34:36+00:00"
+    },
+    {
+      "id": "9223aa9385f8e028",
+      "title": "Anthropic: investidores reduzem expectativa de avaliação para IPO de R$ 8,1 trilhões",
+      "summary": "Desaceleração do crescimento da receita e custos bilionários de infraestrutura de IA preocupam investidores antes da abertura de capital, prevista para novembro O post Anthropic…",
+      "link": "https://olhardigital.com.br/2026/10/15/pro/anthropic-investidores-reduzem-expectativa-de-avaliacao-para-ipo-de-r-8-1-trilhoes/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-15T23:47:27+00:00"
+    },
+    {
+      "id": "eb0ac7f68c40eb75",
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-15T23:44:56+00:00"
+    },
+    {
+      "id": "d3b1ad6d532e6f35",
+      "title": "Meta lança IA de peso aberto que roda em Macs; veja como funciona",
+      "summary": "Modelo foi desenvolvido para programação e agentes de IA; para executá-lo localmente, porém, são necessários dois computadores Mac Studio de alto desempenho O post Meta lança IA…",
+      "link": "https://olhardigital.com.br/2026/10/15/inteligencia-artificial/meta-lanca-ia-de-peso-aberto-que-roda-em-macs-veja-como-funciona/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-15T23:30:42+00:00"
+    },
+    {
+      "id": "73f05b7b5d8b3366",
+      "title": "ChatGPT ganha vozes mais naturais e melhora reconhecimento de sotaques; veja novidades",
+      "summary": "Novidade inclui os modelos GPT-Live-1.1 e GPT-Live-1.1 Quip, uma versão menor da tecnologia, além de novas opções de vozes em diferentes idiomas O post ChatGPT ganha vozes mais…",
+      "link": "https://olhardigital.com.br/2026/10/15/inteligencia-artificial/chatgpt-ganha-vozes-mais-naturais-e-melhora-reconhecimento-de-sotaques-veja-novidades/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/chatgpt3-e1737636498885-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-15T23:11:01+00:00"
+    },
+    {
+      "id": "e07170025272d6f1",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-15T22:43:23+00:00"
+    },
+    {
+      "id": "c462dfdce3bb5a72",
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to…",
+      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-15T22:35:55+00:00"
+    },
+    {
+      "id": "4a64a944f8c6a57b",
+      "title": "Notebook com RTX 4060: 5 modelos para comprar em 2026",
+      "summary": "Buscando por um notebook com GPU Nvidia RTX 4060 em 2026? Encontre modelos que ainda trazem a placa de vídeo dedicada Notebook com RTX 4060: 5 modelos para comprar em 2026",
+      "link": "https://tecnoblog.net/guias/melhor-notebook-rtx-4060/",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/09/lenovo-legion-5i-83n20000bo.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-15T22:32:42+00:00"
+    },
+    {
+      "id": "809d3687e8473a14",
+      "title": "Google vai dar mais destaque aos links nos resumos de IA",
+      "summary": "Inteligência artificial no buscador vem prejudicando publicadores. Empresa promete nova exibição dos links e novo carrossel com principais notícias. Google vai dar mais destaque…",
+      "link": "https://tecnoblog.net/noticias/google-vai-dar-mais-destaque-aos-links-nos-resumos-de-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/08/google-ia-capa-1-edited-2-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-15T22:00:13+00:00"
+    },
+    {
+      "id": "4be5a46cec594595",
+      "title": "The tech backlash is now in theaters",
+      "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping…",
+      "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-5.28.21-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-15T21:39:52+00:00"
+    },
+    {
+      "id": "43032a6db2e0b8c5",
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which…",
+      "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-15T21:09:33+00:00"
+    },
+    {
+      "id": "9e43f015fee51b9c",
+      "title": "Agente de IA apaga temporada inteira de reality show dias antes da estreia",
+      "summary": "Uma falha em sistemas de armazenamento levou à perda da edição completa da nova temporada do reality show sueco The Challenge Sverige, poucas semanas antes da estreia, prevista…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/agente-de-ia-apaga-temporada-inteira-de-reality-show-dias-antes-da-estreia/",
+      "image": "https://tl.ctcdn.com.br/lkGEbrPys0Z4sRFxB8JK_jZYVO0=/0x0/filters:format(webp):quality(85)/9434720c-f540-4df5-97be-65e6889146fc.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-15T21:03:00+00:00"
+    },
+    {
+      "id": "18b334940ef174a3",
+      "title": "Bom e barato: Galaxy Buds Core recebe 44% de desconto depois de meses",
+      "summary": "Fones de ouvido acessíveis da Samsung contam com cancelamento ativo de ruído, Galaxy AI e até 35 horas de autonomia. Oferta na Amazon traz o melhor preço desde julho Bom e barato…",
+      "link": "https://tecnoblog.net/achados/bom-e-barato-galaxy-buds-core-recebe-44-de-desconto-depois-de-meses/",
+      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/amz.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-15T20:55:11+00:00"
+    },
     {
       "id": "ca87b5a182b3561b",
       "title": "Amazon lança gravadores com IA que podem ouvir você o dia todo",
@@ -69,6 +234,17 @@
       "published_at": "2026-10-15T19:55:25+00:00"
     },
     {
+      "id": "04c382bfe2c29e80",
+      "title": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model",
+      "summary": "NVIDIA released Nemotron 3.5 Super VL, an open 120B-parameter multimodal MoE model with 12B active parameters, 1M-token context and NVFP4 weights that run on 1 DGX Spark, plus 2…",
+      "link": "https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-15T19:53:50+00:00"
+    },
+    {
       "id": "ed5d13da494101a6",
       "title": "Volvo aposta na Nvidia para criar carros que dirigem sozinhos nas cidades até 2030",
       "summary": "Tecnologia deverá estrear em novo modelo da montadora sueca antes do fim da década O post Volvo aposta na Nvidia para criar carros que dirigem sozinhos nas cidades até 2030…",
@@ -100,6 +276,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-15T19:06:00+00:00"
+    },
+    {
+      "id": "32165ee6af8945a5",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-15T19:00:00+00:00"
     },
     {
       "id": "70eb8d3db7549531",
@@ -432,17 +619,6 @@
       "published_at": "2026-10-15T13:06:00+00:00"
     },
     {
-      "id": "ffc7b43ee50f74cc",
-      "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
-      "summary": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at…",
-      "link": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Google-Universal-Cart-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-15T13:00:00+00:00"
-    },
-    {
       "id": "a60f4a701f887ae8",
       "title": "Teaching students to think and learn through questions",
       "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
@@ -451,6 +627,17 @@
       "source": "OpenAI",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-10-15T13:00:00+00:00"
+    },
+    {
+      "id": "ffc7b43ee50f74cc",
+      "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
+      "summary": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at…",
+      "link": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Google-Universal-Cart-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
       "published_at": "2026-10-15T13:00:00+00:00"
     },
     {
@@ -617,6 +804,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-15T00:41:48+00:00"
+    },
+    {
+      "id": "94eadcab22c41e35",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "link": "https://openai.com/index/sullivan-cromwell",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-15T00:00:00+00:00"
     },
     {
       "id": "ff0cf28c5d753057",
@@ -793,204 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-14T19:14:14+00:00"
-    },
-    {
-      "id": "0a3035ce11f254c3",
-      "title": "The AI race is back on",
-      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296206566.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-14T19:06:03+00:00"
-    },
-    {
-      "id": "45dfe01c4dcdbd6b",
-      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-      "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through…",
-      "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_7_AI_CVIRGINIA_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-14T18:47:54+00:00"
-    },
-    {
-      "id": "5b516e1d628698e7",
-      "title": "OpenAI acusa ex-funcionário de enviar arquivos secretos à Apple",
-      "summary": "Entenda a acusação de vazamento de segredos industriais entre OpenAI e Apple sobre novos aparelhos com inteligência artificial O post OpenAI acusa ex-funcionário de enviar…",
-      "link": "https://olhardigital.com.br/2026/10/14/pro/openai-acusa-ex-funcionario-de-enviar-arquivos-secretos-a-apple/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/openai_logo-1024x681.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-14T18:40:22+00:00"
-    },
-    {
-      "id": "5b1d31ffc3eab5bd",
-      "title": "Hora de imprimir mais e gastar menos: veja esta seleção de impressoras em promoção",
-      "summary": "Se você está pensando em renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções multifuncionais em oferta na Amazon — com Wi-Fi…",
-      "link": "https://olhardigital.com.br/2026/10/14/reviews/hora-de-imprimir-mais-e-gastar-menos-veja-esta-selecao-de-impressoras-em-promocao/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-14T18:40:00+00:00"
-    },
-    {
-      "id": "f2a56b50bd832f0a",
-      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
-      "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-14T18:23:46+00:00"
-    },
-    {
-      "id": "7a9def3c48c7ae7b",
-      "title": "YouTube sticks new labels on AI-generated songs",
-      "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/youtube-music-gen-ai-labels.width-1200.format-webp.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-14T18:22:56+00:00"
-    },
-    {
-      "id": "8341d4f7e6d163c0",
-      "title": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it",
-      "summary": "For the first time, researchers have tracked down an uncontrolled fleet of Chinese AI agents in the wild and communicated with them via a web mailbox. The agents, running on…",
-      "link": "https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/chinese_agent_swarms.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-14T18:07:37+00:00"
-    },
-    {
-      "id": "5a503e3d62a8f45c",
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
-      "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-14T18:00:00+00:00"
-    },
-    {
-      "id": "5a6302ed1ca58bb8",
-      "title": "Meta AI barra Lula, mas gera imagens com referência a Flávio",
-      "summary": "Empresa trabalha para implementar novos filtros em sistema de inteligência artificial. Meta AI barra Lula, mas gera imagens com referência a Flávio",
-      "link": "https://tecnoblog.net/noticias/meta-ai-barra-lula-mas-gera-imagens-com-referencia-a-flavio/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/lula-e-flavio-bolsonaro-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-14T17:55:16+00:00"
-    },
-    {
-      "id": "c2a26d61e46d3d32",
-      "title": "Anthropic alerta sobre vírus de IA que se espalha sozinho por TV box; como se proteger?",
-      "summary": "Criadora do Claude, a Anthropic publicou um relatório para alertar sobre a ameaça de modelos de IA que conseguem se replicar em aparelhos sem acesso a um data center. A prática…",
-      "link": "https://canaltech.com.br/seguranca/anthropic-alerta-sobre-virus-de-ia-que-se-espalha-sozinho-por-tv-box-como-se-proteger/",
-      "image": "https://tl.ctcdn.com.br/gHCvOfhTjnp7FGh19KCRapwJsQE=/0x0/filters:format(webp):quality(85)/a09dc384-06e9-4eb4-812f-d841448b3bb0.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-14T17:20:00+00:00"
-    },
-    {
-      "id": "830300933bbd262c",
-      "title": "Researchers use AI to design proteins that cut up other proteins",
-      "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
-      "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298087641-500x500-1791994331.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-14T17:10:15+00:00"
-    },
-    {
-      "id": "30ab1d5767909fc8",
-      "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
-      "summary": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of…",
-      "link": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-14T17:00:00+00:00"
-    },
-    {
-      "id": "bce858a37e75c4f0",
-      "title": "My AI doppelganger tells me what to eat",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change…",
-      "link": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268801_DigitalTwin_made_me_a_doppelganger_to_test_my_health_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-14T17:00:00+00:00"
-    },
-    {
-      "id": "52cefc42575c00ab",
-      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-      "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-14T16:43:24+00:00"
-    },
-    {
-      "id": "4e5c842a87933e5d",
-      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
-      "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/open-ai-bugged-500x500-1791993503.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-14T16:41:49+00:00"
-    },
-    {
-      "id": "eaf346499519dc9e",
-      "title": "Funcionário da OpenAI é preso após suspeita de espionagem",
-      "summary": "Gravador foi encontrado escondido atrás de uma televisão e envolto em papel higiênico. Acusado pode pegar até cinco anos de prisão. Funcionário da OpenAI é preso após suspeita de…",
-      "link": "https://tecnoblog.net/noticias/funcionario-da-openai-e-preso-apos-suspeita-de-espionagem/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-4_capa-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-14T16:41:19+00:00"
-    },
-    {
-      "id": "0b70d52795074f9a",
-      "title": "OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work",
-      "summary": "OpenAI is racing to finish its next flagship model, which uses the same looped transformer technique as Astra to boost math and coding performance. The tradeoff is that looping…",
-      "link": "https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-14T16:14:16+00:00"
-    },
-    {
-      "id": "504a28fcb44d1a3d",
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "summary": "",
-      "link": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-14T16:12:42+00:00"
     }
   ]
 }
