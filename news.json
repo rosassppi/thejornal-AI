@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-16T03:12:13.556764+00:00",
+  "generated_at": "2026-10-16T10:43:54.601622+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "7e627adc197ef134",
+      "title": "Resumo do OD: Anthropic com IPO reduzido, vazamento de dados da Ticketmaster e mais",
+      "summary": "Dano na Amazônia além das queimadas, invasão do Pix e IA da Meta para Macs O post Resumo do OD: Anthropic com IPO reduzido, vazamento de dados da Ticketmaster e mais apareceu…",
+      "link": "https://olhardigital.com.br/2026/10/16/pro/resumo-do-od-anthropic-com-ipo-reduzido-vazamento-de-dados-da-ticketmaster-e-mais/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-16T08:00:00+00:00"
+    },
+    {
+      "id": "8c1bc8435859ef74",
+      "title": "Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index",
+      "summary": "Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial Analysis Decision Index and…",
+      "link": "https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-16T06:26:41+00:00"
+    },
+    {
+      "id": "cc388b79b039ca9e",
+      "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+      "summary": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
+      "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-16T05:16:46+00:00"
+    },
+    {
+      "id": "a488a1be5c52e906",
+      "title": "QuintoAndar lança plataforma para imobiliárias e IA em Curitiba",
+      "summary": "O Grupo QuintoAndar anunciou, em 8 de outubro, a chegada do QuintoAndar for Business a Curitiba, com uma plataforma que reúne ferramentas para imobiliárias e corretores autônomos…",
+      "link": "https://canaltech.com.br/mercado/quintoandar-lanca-plataforma-para-imobiliarias-e-ia-em-curitiba/",
+      "image": "https://tl.ctcdn.com.br/-twRJkhqMyBMWJRksKq_wRgl7T0=/0x0/filters:format(webp):quality(85)/54d67c06-7772-467c-b3a2-79f33a92fa58.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-16T05:00:04+00:00"
+    },
     {
       "id": "afde317889b48fa7",
       "title": "Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context",
@@ -947,50 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-10-14T21:00:00+00:00"
-    },
-    {
-      "id": "09ee03050e46f032",
-      "title": "HP lança PC com Ryzen AI que é literalmente um teclado; preço choca mais que formato",
-      "summary": "O mercado de PCs é cheio de mini máquinas que cabem em qualquer lugar e ainda são potentes, capazes de lidar com tarefas pesadas. A HP quer elevar esse conceito a um novo nível…",
-      "link": "https://canaltech.com.br/hardware/hp-lanca-pc-com-ryzen-ai-que-e-literalmente-um-teclado-preco-choca-mais-que-formato/",
-      "image": "https://tl.ctcdn.com.br/lWv_NHMmo2zSYWeWybuDiHpTP5c=/0x0/filters:format(webp):quality(85)/6bf17f4d-2d57-4054-9046-cf836c59011b.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-14T20:08:00+00:00"
-    },
-    {
-      "id": "f942efde17339934",
-      "title": "Demanda por IA faz fabricante de máquinas de chips elevar previsão de vendas",
-      "summary": "ASML espera faturar até R$ 85,5 bilhões no quarto trimestre e alerta que a capacidade planejada para 2027 e 2028 não será suficiente para atender aos clientes O post Demanda por…",
-      "link": "https://olhardigital.com.br/2026/10/14/pro/demanda-por-ia-faz-fabricante-de-maquinas-de-chips-elevar-previsao-de-vendas/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/shutterstock_2761441095-scaled-1-1024x653.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-14T19:58:27+00:00"
-    },
-    {
-      "id": "10c6be3ccf91e43b",
-      "title": "Google says self-improving AI isn't anywhere close",
-      "summary": "Google engineer Haydn Belfield says there's no measurable acceleration of AI research driven by AI at Deepmind. AI now writes more than 75 percent of production code, but 88…",
-      "link": "https://the-decoder.com/google-says-self-improving-ai-isnt-anywhere-close/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/gemini_logo-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-14T19:18:44+00:00"
-    },
-    {
-      "id": "8d8665746926ed7c",
-      "title": "Pesquisadores identificam “frota” de IAs que tentou invadir sistemas do Alibaba",
-      "summary": "Agentes autônomos fizeram 2.818 tentativas de acesso a dados do serviço Amap; pesquisadores encontraram indícios de ligação com a nuvem da Tencent, mas não identificaram o modelo…",
-      "link": "https://olhardigital.com.br/2026/10/14/inteligencia-artificial/pesquisadores-identificam-frota-de-ias-que-tentou-invadir-sistemas-do-alibaba/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/alibaba-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-14T19:14:14+00:00"
     }
   ]
 }
