@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-16T16:06:22.059157+00:00",
+  "generated_at": "2026-10-16T20:31:19.673612+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "7353a42c67b5a321",
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2233803629-2-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-16T20:20:07+00:00"
+    },
+    {
+      "id": "86901b0da43f1f58",
+      "title": "Meta pode coletar notícias para treinar IA sem pagar por licenças",
+      "summary": "Novos termos comerciais autorizam a coleta automatizada de páginas vinculadas a contas empresariais. Atualização entra em vigor em 30 de outubro. Meta pode coletar notícias para…",
+      "link": "https://tecnoblog.net/noticias/meta-pode-coletar-noticias-para-treinar-ia-sem-pagar-por-licencas/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Mark-Zuckerberg-03-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-16T19:24:57+00:00"
+    },
+    {
+      "id": "8655f4cf26df3e21",
+      "title": "ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs",
+      "summary": "OpenAI's updated Chrome extension lets ChatGPT access open browser tabs, sum up content, and use \"Computer Use\" in Work mode to fill out forms or compare products across several…",
+      "link": "https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_chatgpt-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-16T18:10:27+00:00"
+    },
+    {
+      "id": "d7f9dafe0b002b49",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative…",
+      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-16T18:00:00+00:00"
+    },
+    {
+      "id": "8fa43cfbcf5754fb",
+      "title": "1ª impressora 3D “barata” da Formlabs usa resina paralela para economizar",
+      "summary": "A Formlabs anunciou nesta sexta-feira (16) a Form Studio 1, sua primeira impressora 3D voltada a quem busca uma opção mais acessível da marca. O modelo custa US$ 699, cerca de R$…",
+      "link": "https://canaltech.com.br/produtos/1-impressora-3d-barata-da-formlabs-usa-resina-paralela-para-economizar/",
+      "image": "https://tl.ctcdn.com.br/egqD9NV0ySiZvEH_6UqL_6t6JqI=/0x0/filters:format(webp):quality(85)/c0fb76c8-a9ff-4d6a-b475-f526d9fd19a8.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-16T17:54:53+00:00"
+    },
+    {
+      "id": "8ffbbf24c13a812d",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-16T17:52:24+00:00"
+    },
+    {
+      "id": "33f25b1f0c847371",
+      "title": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
+      "summary": "China plans to restrict exports of 23 key AI technologies, including model weights, source code, and training methods for systems hitting 10^26 FLOPs or 2 trillion parameters. A…",
+      "link": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/china_flag_visual-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-16T17:42:47+00:00"
+    },
+    {
+      "id": "2de4bcc42844f1fe",
+      "title": "O que é uma memória HBM? Conheça as vantagens e desvantagens da High Bandwidth Memory",
+      "summary": "A memória HBM supera o gargalo de transferência de dados, garantindo alta largura de banda e eficiência energética em aceleradores de IA e supercomputadores O que é uma memória…",
+      "link": "https://tecnoblog.net/responde/o-que-e-uma-memoria-hbm-conheca-as-vantagens-e-desvantagens-da-high-bandwidth-memory/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/memoria-hbm-01-340x191.webp",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-16T17:33:58+00:00"
+    },
+    {
+      "id": "68b9f741f3df646e",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks…",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-16T16:30:00+00:00"
+    },
+    {
+      "id": "b6bd6f1b1b088ecf",
+      "title": "Agente de IA apagou programa de TV? Emissora esclarece",
+      "summary": "Emissora TV4 nega envolvimento de agente de IA; edição será refeita e estreia passou para 2027. Agente de IA apagou programa de TV? Emissora esclarece",
+      "link": "https://tecnoblog.net/noticias/agente-de-ia-apagou-programa-de-tv-emissora-esclarece/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/capas-iasartboard-2-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-16T16:25:18+00:00"
+    },
     {
       "id": "5cea1aeddd4affb9",
       "title": "Elorian’s first AI model wants to reason with images, not just about them",
@@ -265,6 +375,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-16T00:34:36+00:00"
+    },
+    {
+      "id": "9e63539289a31c86",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-16T00:00:00+00:00"
     },
     {
       "id": "c9a6184923cc1a58",
@@ -870,127 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-10-15T13:00:00+00:00"
-    },
-    {
-      "id": "ffc7b43ee50f74cc",
-      "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
-      "summary": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at…",
-      "link": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Google-Universal-Cart-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-15T13:00:00+00:00"
-    },
-    {
-      "id": "b886df0ef4d38ed3",
-      "title": "NVIDIA quer transformar PCs com RTX Spark em centrais de casa inteligente",
-      "summary": "A NVIDIA quer transformar os computadores com RTX Spark em centrais de controle para casas inteligentes. A proposta é utilizar desktops compactos com inteligência artificial para…",
-      "link": "https://canaltech.com.br/hardware/nvidia-quer-transformar-pcs-com-rtx-spark-em-centrais-de-casa-inteligente/",
-      "image": "https://tl.ctcdn.com.br/89_ZBnZ2u2iTMLINq4dY8ja8vZE=/0x0/filters:format(webp):quality(85)/5cd2d347-9cda-490a-b8d2-108790557a11.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T12:00:06+00:00"
-    },
-    {
-      "id": "1fed5f4283e9471c",
-      "title": "RTX Spark promete melhorar jogos no Windows ARM; veja o que muda",
-      "summary": "A NVIDIA anunciou melhorias para jogos em computadores com RTX Spark , seu novo superchip desenvolvido em parceria com a MediaTek. As novidades incluem otimizações no Windows ARM…",
-      "link": "https://canaltech.com.br/hardware/rtx-spark-promete-melhorar-jogos-no-windows-arm-veja-o-que-muda/",
-      "image": "https://tl.ctcdn.com.br/PEuU2gvSxrDAlZKHBZ4zu8o-tSQ=/0x0/filters:format(webp):quality(85)/c0589cf3-a768-4e7c-9187-33e5ea569563.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T12:00:05+00:00"
-    },
-    {
-      "id": "c07a9af3c9fccff9",
-      "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
-      "summary": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is…",
-      "link": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/BEE_FAMILY_02_1600x900.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-15T12:00:00+00:00"
-    },
-    {
-      "id": "e407e4438cc9c69d",
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The…",
-      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-15T12:00:00+00:00"
-    },
-    {
-      "id": "c0b77d592a9eb64d",
-      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-      "summary": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over…",
-      "link": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-15T11:00:00+00:00"
-    },
-    {
-      "id": "bcdcc6a35fd1e875",
-      "title": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
-      "summary": "Anthropic hit $16.8 billion in third-quarter revenue, a 45 percent gain that still falls far short of Q2's 140 percent surge. With a November IPO approaching, some investors now…",
-      "link": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/anthropic_amodei.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-15T09:50:43+00:00"
-    },
-    {
-      "id": "39052ad94a8a76cc",
-      "title": "Apertus 1.5 Release Notes",
-      "summary": "",
-      "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-15T09:08:45+00:00"
-    },
-    {
-      "id": "3d9a2fb14d51c987",
-      "title": "IA canina? Tecnologia pode ajudar a entender o que os cães dizem",
-      "summary": "Tecnologia identifica padrões em sons de animais, mas pesquisadores afirmam que ainda falta descobrir o significado desses sinais O post IA canina? Tecnologia pode ajudar a…",
-      "link": "https://olhardigital.com.br/2026/10/15/inteligencia-artificial/ia-canina-tecnologia-pode-ajudar-a-entender-o-que-os-caes-dizem/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/freepik_cachorro-em-pe-com-cauda-visivelmente-erguida-e-expressao-atenta-orelhas-levantadas-e-postura-confiante-ambiente-domestico-simples-destacando-linguagem-corporal-clara_0001-1024x571.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T08:30:00+00:00"
-    },
-    {
-      "id": "f34db4eee42b9069",
-      "title": "Resumo do OD: fim da escala 6×1, OpenAI processada e Apple crescendo",
-      "summary": "Apple teria se beneficiado de ex-OpenAI, Sonda Hera se move e Anthropic se dá bem no 3º trimestre O post Resumo do OD: fim da escala 6×1, OpenAI processada e Apple crescendo…",
-      "link": "https://olhardigital.com.br/2026/10/15/pro/resumo-do-od-fim-da-escala-6-x-1-openai-processada-e-apple-crescendo/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T08:00:00+00:00"
-    },
-    {
-      "id": "fb94389cdb645e35",
-      "title": "TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context",
-      "summary": "TypeSafe AI released Jev 1.14 under the jev-preview alias. The System One model adds experimental image input, a Box bounding-box type and an opt-in 262k-token context, at $0.042…",
-      "link": "https://www.marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-15T05:45:03+00:00"
     }
   ]
 }
