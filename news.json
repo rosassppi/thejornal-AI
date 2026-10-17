@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-17T14:59:02.406828+00:00",
+  "generated_at": "2026-10-17T20:08:51.496172+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "58cec010a9668c12",
+      "title": "Motorola em destaque: confira uma seleção de smartphones com ótimos recursos em promoção",
+      "summary": "A Motorola segue sendo uma das marcas favoritas dos brasileiros quando o assunto é custo-benefício em smartphones. Se você está procurando um celular com câmera inteligente, boa…",
+      "link": "https://olhardigital.com.br/2026/10/17/reviews/motorola-em-destaque-confira-uma-selecao-de-smartphones-com-otimos-recursos-em-promocao/",
+      "image": "https://m.media-amazon.com/images/I/41uVEXHuhUL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-17T19:25:09+00:00"
+    },
+    {
+      "id": "fcf73aabe3e37fa7",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-17T18:48:08+00:00"
+    },
+    {
+      "id": "23baafdde93e990b",
+      "title": "Meta pode pagar R$500 mil por dia por tratamento diferenciado entre Lula e Flávio Bolsonaro",
+      "summary": "Após denúncias de bloqueio de imagens de Lula pela Meta AI, o TSE exigiu tratamento igualitário aos candidatos, sob multa diária de R$500 mil O post Meta pode pagar R$500 mil por…",
+      "link": "https://olhardigital.com.br/2026/10/17/pro/meta-pode-pagar-r500-mil-por-dia-por-tratamento-diferenciado-entre-lula-e-flavio-bolsonaro/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/Destaque-Lula-e-Flavio-Bolsonaro-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-17T16:39:14+00:00"
+    },
+    {
+      "id": "8f307cfd8d111668",
+      "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
+      "summary": "OpenAI has published four new cases where its AI models bypassed security boundaries on their own during training or testing. In one case, a model extracted server passwords from…",
+      "link": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_kraken_cyber.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-17T15:36:11+00:00"
+    },
+    {
+      "id": "0b81a58f5b3fe131",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the…",
+      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-17T15:04:36+00:00"
+    },
     {
       "id": "931c96a6648bba9a",
       "title": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
@@ -509,6 +564,17 @@
       "published_at": "2026-10-16T12:28:41+00:00"
     },
     {
+      "id": "44d22e5f0f0f3c86",
+      "title": "O que o iFood aprendeu ao levar a IA para produtos e equipes",
+      "summary": "Isabela Piratininga explica como a empresa escolhe onde aplicar a tecnologia e o que muda no trabalho com agentes de IA Ouça ao podcast.",
+      "link": "https://canaltech.com.br/podcast/podcast-canaltech/o-que-o-ifood-aprendeu-ao-levar-a-ia-para-produtos-e-equipes-6771/",
+      "image": "https://t.ctcdn.com.br/yl4QJrBvLFqjx7_cuL5fjTRUjDc=/700x394/smart/i1154325.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-16T09:00:00+00:00"
+    },
+    {
       "id": "7e627adc197ef134",
       "title": "Resumo do OD: Anthropic com IPO reduzido, vazamento de dados da Ticketmaster e mais",
       "summary": "Dano na Amazônia além das queimadas, invasão do Pix e IA da Meta para Macs O post Resumo do OD: Anthropic com IPO reduzido, vazamento de dados da Ticketmaster e mais apareceu…",
@@ -925,72 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-10-15T17:34:40+00:00"
-    },
-    {
-      "id": "e23e6d8fa5d1d3f3",
-      "title": "Galaxy Watch 8 LTE (44 mm) com Gemini atinge preço histórico",
-      "summary": "Galaxy Watch 8 LTE permite iniciar exercícios por comandos de voz e traz sensor BioActive; smartwatch da Samsung despenca 64% em oferta na Amazon Galaxy Watch 8 LTE (44 mm) com…",
-      "link": "https://tecnoblog.net/achados/galaxy-watch-8-lte-44-mm-com-gemini-atinge-preco-historico/",
-      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/04/galaxy-watch-8-foto-thassius-velosotecnoblog-1060x596.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T17:03:46+00:00"
-    },
-    {
-      "id": "955566cae7f5c9a7",
-      "title": "Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM",
-      "summary": "Black Forest Labs has released FLUX 3 Image Klein, a 5.6-billion-parameter open-weights image model that supports native 4K generation, pixel-precise editing, and generation with…",
-      "link": "https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/bfl_black_orest_labs_logo-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-15T16:57:14+00:00"
-    },
-    {
-      "id": "3362164fd44843a5",
-      "title": "Google wants Gemini 4 Argon to be the only AI model robots need",
-      "summary": "Google's Gemini 4 Argon controls robots, generates simulations from photos or sketches, and evaluates training videos. On Google's own ERQA benchmark, it scores 87 percent. But…",
-      "link": "https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/gemini-4-argon-robotics-03-spot-trash-bin.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-15T16:35:47+00:00"
-    },
-    {
-      "id": "c7c9cc2b493a13af",
-      "title": "Friends don’t let friends feed their data to AI agents",
-      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to…",
-      "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268808_None_of_Your_Friends_Consented_To_an_AI_Agent_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-15T16:21:45+00:00"
-    },
-    {
-      "id": "50d5d8ca33ba8786",
-      "title": "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop",
-      "summary": "With Nemotron 3.5 Super VL, Nvidia is releasing an open multimodal model with 120 billion parameters for enterprise agents. Two compact Bolt models bring agents to local machines…",
-      "link": "https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-15T16:09:44+00:00"
-    },
-    {
-      "id": "7d8372a327acbce7",
-      "title": "Apple agora é uma empresa de US$ 5 trilhões",
-      "summary": "Fabricante do iPhone se junta à Nvidia pouco mais de um mês após a troca de CEO. Apple agora é uma empresa de US$ 5 trilhões",
-      "link": "https://tecnoblog.net/noticias/apple-agora-e-uma-empresa-de-us-5-trilhoes/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/capa-apple-event-26-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T16:05:07+00:00"
     }
   ]
 }
