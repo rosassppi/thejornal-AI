@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-17T03:03:25.134169+00:00",
+  "generated_at": "2026-10-17T10:09:59.634801+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "a65cddd0e78778ad",
+      "title": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help",
+      "summary": "AI agents systematically skip errors in their own reports, even when they spot the problems. In a study by Google Research, MIT, and Harvard, GPT-5.5 left out negative results in…",
+      "link": "https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/insecure-reporters-checkmarks-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-17T09:54:36+00:00"
+    },
+    {
+      "id": "99b28003fe32871d",
+      "title": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof",
+      "summary": "OpenAI submitted a 166-page solution to the Navier-Stokes problem but apparently doesn't fully understand its own proof. Several groups of experts dispute the claimed methodology…",
+      "link": "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_navier.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-17T09:00:26+00:00"
+    },
+    {
+      "id": "db904922b8554b7d",
+      "title": "DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API",
+      "summary": "DeepSeek has just released DeepSeek-V4.1-Flash-1017, a new checkpoint of its V4.1-Flash model. It is live on the DeepSeek website, app and API. DeepSeek claims stronger scores…",
+      "link": "https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-17T08:53:58+00:00"
+    },
+    {
+      "id": "bcdea28e411ab8c1",
+      "title": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026",
+      "summary": "TypeSafe launched Jev on September 15, 2026. It is a decision model, not a chatbot. You define the allowed answers, and Jev returns a label, a score or a yes/no probability. In…",
+      "link": "https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-17T07:26:39+00:00"
+    },
+    {
+      "id": "8b7fc3e46cd67b45",
+      "title": "StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context",
+      "summary": "StepFun has released Step 5 Preview as open weights. FP8 and BF16 checkpoints are live on Hugging Face and ModelScope. Step 5 Preview is a sparse Mixture-of-Experts model from…",
+      "link": "https://www.marktechpost.com/2026/10/16/stepfun-releases-step-5-preview-open-weights-600b-moe-27b-active-1m-context/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-17T06:29:55+00:00"
+    },
     {
       "id": "edd89bde888eb848",
       "title": "Nova teoria pode ajudar cientistas a entender como a IA “pensa”",
@@ -476,6 +531,17 @@
       "published_at": "2026-10-16T00:00:00+00:00"
     },
     {
+      "id": "b6756c0a180ee554",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "link": "https://openai.com/index/benefit-street-partners",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-16T00:00:00+00:00"
+    },
+    {
       "id": "c9a6184923cc1a58",
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
       "summary": "",
@@ -925,72 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-15T15:12:01+00:00"
-    },
-    {
-      "id": "72c9fb61eb837aea",
-      "title": "AI agents are coming to Rivian’s cars",
-      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
-      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-15T15:02:36+00:00"
-    },
-    {
-      "id": "f581afce52cf5bef",
-      "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
-      "summary": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
-      "link": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-15T14:47:09+00:00"
-    },
-    {
-      "id": "4f62c86953f6da18",
-      "title": "YouTube passa a identificar faixas feitas por IA no app de música",
-      "summary": "O YouTube começou a etiquetar músicas criadas por inteligência artificial. Saiba como o aplicativo vai identificar produções sintéticas. O post YouTube passa a identificar faixas…",
-      "link": "https://olhardigital.com.br/2026/10/15/cinema-e-streaming/youtube-passa-a-identificar-faixas-feitas-por-ia-no-app-de-musica/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/07/ia-musical-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T14:34:56+00:00"
-    },
-    {
-      "id": "b7e6e91e4028317e",
-      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-      "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a…",
-      "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-15T14:30:00+00:00"
-    },
-    {
-      "id": "812403745052045f",
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-15T14:29:33+00:00"
-    },
-    {
-      "id": "c87706c2b18aef3f",
-      "title": "CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data",
-      "summary": "Introduction Teams shipping AI agents at scale keep running into the same pattern. Even agents built on top-tier models like Fable and Astra struggle to carry out complex…",
-      "link": "https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/image-7-150x150.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-15T14:19:27+00:00"
     }
   ]
 }
