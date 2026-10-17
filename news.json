@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-17T10:09:59.634801+00:00",
+  "generated_at": "2026-10-17T14:59:02.406828+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "931c96a6648bba9a",
+      "title": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
+      "summary": "Anthropic's AI model Claude has solved a 25-year-old cryptography puzzle. The mysterious seeds behind NIST's standard curves for digital signatures were provided by the NSA…",
+      "link": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_unintended_actions.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-17T14:42:56+00:00"
+    },
+    {
+      "id": "cfc74bb14572c92d",
+      "title": "Mais de 85% dos desenvolvedores japoneses de games já utilizam IA generativa",
+      "summary": "Pesquisa apresentada durante a Tokyo Game Show 2026 aponta crescimento no uso da tecnologia, com foco em produtividade, redução de custos e otimização do desenvolvimento de jogos…",
+      "link": "https://olhardigital.com.br/2026/10/17/games-e-consoles/858-dos-desenvolvedores-japoneses-de-games-ja-usam-ia-generativa/",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/10/IA-universoNerd.webp",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-17T14:00:00+00:00"
+    },
+    {
+      "id": "b31543fcd7d1501b",
+      "title": "Websites are closing their doors to AI agents",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-17T13:00:00+00:00"
+    },
+    {
+      "id": "bbb34a93b9343f22",
+      "title": "Como e por que a inteligência artificial consegue burlar regras?",
+      "summary": "Nos últimos meses, uma série de incidentes mostrou um problema cada vez mais preocupante com os agentes de inteligência artificial: sistemas criados por grandes empresas de…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-e-por-que-a-inteligencia-artificial-consegue-burlar-regras/",
+      "image": "https://tl.ctcdn.com.br/2M6PxnLMmdjdzAR24lbHtMYHdXE=/0x0/filters:format(webp):quality(85)/4756f8ae-246a-4398-8335-c0fdf6aa45c3.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-17T11:30:00+00:00"
+    },
+    {
+      "id": "4163cc0c9dd071c6",
+      "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
+      "summary": "Deepseek has released V4.1-Flash-1017 as an open-weight model that posts better benchmarks, finishes tasks faster, and produces shorter outputs than its predecessor. The company…",
+      "link": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/deepseek_red_whale.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-17T10:33:28+00:00"
+    },
+    {
+      "id": "c0c2d6d88779a62a",
+      "title": "Quem responde quando um agente de IA toma a decisão errada?",
+      "summary": "Durante anos, discutimos como gestores deveriam liderar pessoas. Agora surge uma competência completamente nova: liderar sistemas autônomos O post Quem responde quando um agente…",
+      "link": "https://olhardigital.com.br/2026/10/17/colunistas/quem-responde-quando-um-agente-de-ia-toma-a-decisao-errada/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-17T10:00:00+00:00"
+    },
     {
       "id": "a65cddd0e78778ad",
       "title": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help",
@@ -520,10 +586,10 @@
       "published_at": "2026-10-16T00:34:36+00:00"
     },
     {
-      "id": "9e63539289a31c86",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "id": "b6756c0a180ee554",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "link": "https://openai.com/index/benefit-street-partners",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -531,10 +597,10 @@
       "published_at": "2026-10-16T00:00:00+00:00"
     },
     {
-      "id": "b6756c0a180ee554",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "link": "https://openai.com/index/benefit-street-partners",
+      "id": "9e63539289a31c86",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -925,72 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-15T16:05:07+00:00"
-    },
-    {
-      "id": "003647c313b9ca30",
-      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-      "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
-      "link": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2277824748-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-15T15:43:24+00:00"
-    },
-    {
-      "id": "043dbfccc875d027",
-      "title": "Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic's Mythos and other AI models",
-      "summary": "Bank of America has hired 1,000 outside contractors to fix software vulnerabilities uncovered by AI models like Anthropic's Mythos, CNBC reports. The article Bank of America puts…",
-      "link": "https://the-decoder.com/bank-of-america-puts-4000-people-on-fixing-vulnerabilities-uncovered-by-anthropics-mythos-and-other-ai-models/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/05/glasswing_mythos_cybersecurity_anthropic-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-15T15:27:25+00:00"
-    },
-    {
-      "id": "d6956205925bb28c",
-      "title": "GPT-6-Astra solves 49 of 50 physics research problems at $2.40 apiece",
-      "summary": "On the TheoPhysEval benchmark, GPT-6-Astra solves 49 of 50 unpublished theoretical physics calculations as accurately as leading specialists. In some cases where the agent seemed…",
-      "link": "https://the-decoder.com/gpt-6-astra-solves-49-of-50-physics-research-problems-at-2-40-apiece/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/11/llm_physics.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-15T15:24:15+00:00"
-    },
-    {
-      "id": "7b92e43b98886796",
-      "title": "ChatGPT nega relação de post com eleição no Brasil",
-      "summary": "Inteligência artificial ganhou função que ensina conceitos por meio de imagens. ChatGPT nega relação de post com eleição no Brasil",
-      "link": "https://tecnoblog.net/noticias/fez-o-l-chatgpt-nega-relacao-de-post-com-eleicao-no-brasil/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/post-chatgpt-global-l-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T15:17:58+00:00"
-    },
-    {
-      "id": "68e934f9b921f308",
-      "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
-      "summary": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
-      "link": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/youtube-music-gen-ai-labels-fill2-500x500.png",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-15T15:12:58+00:00"
-    },
-    {
-      "id": "df364893604eb836",
-      "title": "Cansou de música feita por IA? YouTube Music começa a rotular faixas sintéticas",
-      "summary": "O YouTube Music vai usar um rótulo específico para identificar músicas feitas por inteligência artificial. A marcação é aplicada em faixas que usaram IA generativa em sua maior…",
-      "link": "https://canaltech.com.br/apps/cansou-de-musica-feita-por-ia-youtube-music-comeca-a-rotular-faixas-sinteticas/",
-      "image": "https://tl.ctcdn.com.br/wo4T_FJIkqPdzHET4V2yYTJlmL0=/0x0/filters:format(webp):quality(85)/f7b30b90-b006-4294-a2ee-0ab41e4dc430.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T15:12:01+00:00"
     }
   ]
 }
