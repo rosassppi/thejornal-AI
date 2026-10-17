@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-10-16T20:31:19.673612+00:00",
+  "generated_at": "2026-10-17T03:03:25.134169+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "edd89bde888eb848",
+      "title": "Nova teoria pode ajudar cientistas a entender como a IA “pensa”",
+      "summary": "Pesquisador que trabalhou na OpenAI afirma que padrões na atividade dos neurônios artificiais podem ser interpretáveis; descoberta ainda é teórica, mas pode contribuir para…",
+      "link": "https://olhardigital.com.br/2026/10/16/inteligencia-artificial/nova-teoria-pode-ajudar-cientistas-a-entender-como-a-ia-pensa/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-17T02:00:20+00:00"
+    },
+    {
+      "id": "f509ef189b59f661",
+      "title": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents",
+      "summary": "Perplexity has open-sourced SPACE, the sandbox platform behind every task in Perplexity Computer. The Perplexity SPACE sandbox gives each agent task its own Firecracker microVM…",
+      "link": "https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-17T00:09:12+00:00"
+    },
+    {
+      "id": "8eaba1d9cf590928",
+      "title": "China quer restringir exportações de tecnologias de IA e biotecnologia",
+      "summary": "Proposta de Pequim prevê proibir exportação de 14 tipos de tecnologia e impor restrições a outras 26, incluindo sistemas de IA O post China quer restringir exportações de…",
+      "link": "https://olhardigital.com.br/2026/10/16/pro/china-quer-restringir-exportacoes-de-tecnologias-de-ia-e-biotecnologia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-China-e-EUA-na-corrida-da-IA-scaled-1-1-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-16T23:12:22+00:00"
+    },
+    {
+      "id": "6716a2a83b122c55",
+      "title": "Meta libera os pesos do Muse Spark Open para rodar em Macs",
+      "summary": "A Meta liberou os pesos do Muse Spark Open , modelo de inteligência artificial focado em programação e tarefas autônomas executadas por agentes de IA. A novidade está disponível…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/meta-libera-os-pesos-do-muse-spark-open-para-rodar-em-macs/",
+      "image": "https://tl.ctcdn.com.br/hH1N3gz9A8DaUg7s-fo5m4xQ6kQ=/0x0/filters:format(webp):quality(85)/dc48c016-3680-45a0-bec6-c7a36f8390b2.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-16T22:08:00+00:00"
+    },
+    {
+      "id": "fdd4c6f578d6ab89",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that…",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-16T21:22:28+00:00"
+    },
+    {
+      "id": "16df95b107d54710",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-16T20:59:01+00:00"
+    },
+    {
+      "id": "cd55e4fc1950bdad",
+      "title": "Meta admite que seus óculos gravaram conversas mesmo sem comando",
+      "summary": "Óculos Ray-Ban Meta registraram áudios e transcrições no aplicativo Meta AI. Meta admite que seus óculos gravaram conversas mesmo sem comando",
+      "link": "https://tecnoblog.net/noticias/meta-admite-que-seus-oculos-gravaram-conversas-sem-comando/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/10/ray-ban-meta-2-wayfarer-edited-340x191.webp",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-16T20:22:42+00:00"
+    },
     {
       "id": "7353a42c67b5a321",
       "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
@@ -23,6 +100,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-16T19:24:57+00:00"
+    },
+    {
+      "id": "9732b2763df5a67a",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated…",
+      "link": "https://openai.com/index/itau-generative-ai",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-16T19:00:00+00:00"
     },
     {
       "id": "8655f4cf26df3e21",
@@ -903,94 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-10-15T14:19:27+00:00"
-    },
-    {
-      "id": "bd42108ff227ced5",
-      "title": "Nobody is safe from celebrity AI deepfakes",
-      "summary": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker…",
-      "link": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-15T14:03:42+00:00"
-    },
-    {
-      "id": "ead456e60a77dd52",
-      "title": "Google avisa que vai tirar modelos Pro do plano básico do Gemini",
-      "summary": "O Google começou a notificar por e-mail os assinantes do plano Google AI Plus de que eles perderão a capacidade de selecionar os modelos Pro no aplicativo Gemini e no Modo IA da…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/google-avisa-que-vai-tirar-modelos-pro-do-plano-basico-do-gemini/",
-      "image": "https://tl.ctcdn.com.br/5jdyO3twq8569KV8WJILGd3du2w=/0x0/filters:format(webp):quality(85)/e10d6e86-c94e-420b-9d41-6956a6c5eb6a.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T14:01:00+00:00"
-    },
-    {
-      "id": "4b235d19b2c1618b",
-      "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
-      "summary": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific…",
-      "link": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261015_Jordan.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-15T14:00:00+00:00"
-    },
-    {
-      "id": "4cac1a337fb9e3ff",
-      "title": "OpenAI alerta Polícia Federal sobre ameaças contra Lula feitas no ChatGPT",
-      "summary": "Empresa compartilhou diálogos com as autoridades após identificar mensagens sobre possíveis ataques ao presidente; caso pode levar à abertura de dois inquéritos O post OpenAI…",
-      "link": "https://olhardigital.com.br/2026/10/15/pro/openai-alerta-policia-federal-sobre-ameacas-contra-lula-feitas-no-chatgpt/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/chatgpt-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T13:58:20+00:00"
-    },
-    {
-      "id": "9cb43c277965c04a",
-      "title": "openKylin Outlines Its Vision for Reimagining Linux in the AI Era at Open Source Summit Europe 2026",
-      "summary": "At Open Source Summit Europe 2026, openKylin outlined its vision for transitioning from resource management to intent management in the AI era. The community introduced KART, a…",
-      "link": "https://www.marktechpost.com/2026/10/15/openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/image-1-150x150.jpeg",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-15T13:23:45+00:00"
-    },
-    {
-      "id": "643551f5e498302e",
-      "title": "Novo launcher da Epic Games é mais leve, rápido e 100% feito por IA",
-      "summary": "A Epic Games tenta correr atrás do Steam desde que seu launcher foi lançado. Nos últimos anos, tem implementado novidades para se aproximar cada vez mais da rival. Os trabalhos…",
-      "link": "https://canaltech.com.br/games/novo-launcher-da-epic-games-e-mais-leve-rapido-e-100-feito-por-ia/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T13:07:00+00:00"
-    },
-    {
-      "id": "2a3c3049734f7b18",
-      "title": "Android ganha superproteção por IA que esconde senhas na tela e barra mensagens falsas",
-      "summary": "O Google anunciou novas ferramentas de segurança para o Android e o Google Messages com inteligência artificial (IA) para identificar mensagens suspeitas, combater golpes…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/android-ganha-superprotecao-por-ia-que-esconde-senhas-na-tela-e-barra-mensagens-falsas/",
-      "image": "https://tl.ctcdn.com.br/UIlJpm4QwnL3MamZdBWBL2DAW3U=/0x0/filters:format(webp):quality(85)/b5481344-2e66-4646-a421-ca72494cb652.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T13:06:00+00:00"
-    },
-    {
-      "id": "a60f4a701f887ae8",
-      "title": "Teaching students to think and learn through questions",
-      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-15T13:00:00+00:00"
     }
   ]
 }
