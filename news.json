@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-18T10:25:20.246044+00:00",
+  "generated_at": "2026-10-18T15:23:55.888387+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "c63f467000c1d4b2",
+      "title": "One UI 9 tem truque nativo para cortar internet de apps e barrar anúncios; aprenda a usar",
+      "summary": "A One UI 9.0, interface dos celulares Samsung Galaxy, tem um recurso nativo que pode bloquear anúncios em aplicativos e jogos gratuitos. Chamado AI Network Guard , o sistema corta…",
+      "link": "https://canaltech.com.br/apps/one-ui-9-tem-truque-para-cortar-internet-e-barrar-anuncios/",
+      "image": "https://tl.ctcdn.com.br/Gkeg81UdGKXciLNrSjD3m6Uda8E=/0x0/filters:format(webp):quality(85)/eeafbfb6-47a4-4c49-a579-3eff299a25bc.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-18T14:00:00+00:00"
+    },
+    {
+      "id": "cfed44a42e9b8904",
+      "title": "Bancos dos EUA bloqueiam agentes de IA que tentam movimentar dinheiro",
+      "summary": "Charles Schwab impede que agentes como o Muse, da Meta, movimentem recursos de clientes sem autorização e prepara conexões seguras para outras ferramentas de IA O post Bancos dos…",
+      "link": "https://olhardigital.com.br/2026/10/18/inteligencia-artificial/bancos-dos-eua-bloqueiam-agentes-de-ia-que-tentam-movimentar-dinheiro/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-18T13:36:54+00:00"
+    },
+    {
+      "id": "838c40439835bad1",
+      "title": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+      "summary": "Anthropic is hiring fewer and fewer junior staff in technical roles. The share of junior positions among new hires dropped from 27 to 9 percent since early 2025. By August 2026…",
+      "link": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_logoreihe.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-18T13:22:26+00:00"
+    },
+    {
+      "id": "9466e30e907dd463",
+      "title": "Four Gemini 4 Argon agents beat Minecraft without any human help",
+      "summary": "Four AI agents running on Google's Gemini 4 Argon have beaten Minecraft for the first time without human help, slaying the Ender Dragon in a fully autonomous run. With no…",
+      "link": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/minecraft_gemini.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-18T12:39:51+00:00"
+    },
+    {
+      "id": "4bc4c0c7e116fd09",
+      "title": "Ajuste escondido faz Gemini dar respostas muito melhores; veja como fazer",
+      "summary": "Uma configuração do Gemini permite conectar serviços do Google para fornecer mais contexto às respostas. Com a integração ativada, a IA pode consultar informações disponíveis em…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-fazer-gemini-dar-respostas-melhores/",
+      "image": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-18T11:30:00+00:00"
+    },
+    {
+      "id": "07ad320e211247a9",
+      "title": "Two German courts now hold Google liable for what its AI overviews say",
+      "summary": "Google tried to overturn a landmark Munich ruling on AI search liability by appealing, then quietly settled. The strategy isn't working. The Aachen Regional Court just applied the…",
+      "link": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/google_ai_overviews_law-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-18T10:52:39+00:00"
+    },
     {
       "id": "a39c8c1ad857a7a6",
       "title": "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals",
@@ -925,72 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-15T21:03:00+00:00"
-    },
-    {
-      "id": "18b334940ef174a3",
-      "title": "Bom e barato: Galaxy Buds Core recebe 44% de desconto depois de meses",
-      "summary": "Fones de ouvido acessíveis da Samsung contam com cancelamento ativo de ruído, Galaxy AI e até 35 horas de autonomia. Oferta na Amazon traz o melhor preço desde julho Bom e barato…",
-      "link": "https://tecnoblog.net/achados/bom-e-barato-galaxy-buds-core-recebe-44-de-desconto-depois-de-meses/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/amz.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T20:55:11+00:00"
-    },
-    {
-      "id": "ca87b5a182b3561b",
-      "title": "Amazon lança gravadores com IA que podem ouvir você o dia todo",
-      "summary": "A Amazon lançou dois novos gravadores com inteligência artificial feitos para acompanhar conversas ao longo do dia. Quando ativados, o Amazon Bee Frontier e o Amazon Bee Eclipse…",
-      "link": "https://canaltech.com.br/produtos/amazon-lanca-gravadores-com-ia-que-podem-ouvir-voce-o-dia-todo/",
-      "image": "https://tl.ctcdn.com.br/BaCbh-ldro7unATRtbjMMznX_hM=/0x0/filters:format(webp):quality(85)/1e903036-5582-4b4a-a339-1bf66882c700.webp",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T20:49:27+00:00"
-    },
-    {
-      "id": "d330643595776f9f",
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "summary": "",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-15T20:34:01+00:00"
-    },
-    {
-      "id": "f2d5651ecb42923d",
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-15T20:04:53+00:00"
-    },
-    {
-      "id": "fc382632ff036642",
-      "title": "App do Nubank ganha IA que avalia carteira e sugere investimentos",
-      "summary": "O Nubank revelou, nesta quinta-feira (15), o Nu Smart Invest. Com IA , o novo recurso analisa a carteira de investimentos dos clientes e recomenda ativos conforme o perfil de…",
-      "link": "https://canaltech.com.br/apps/app-do-nubank-ganha-ia-que-avalia-carteira-e-sugere-investimentos/",
-      "image": "https://tl.ctcdn.com.br/HsmQsonX3mpje6ZLfAbCqO8w99c=/0x0/filters:format(webp):quality(85)/c340f1b0-37e6-49c1-a12f-b35b88071b5b.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T19:57:33+00:00"
-    },
-    {
-      "id": "e85c6a5b67dae4b4",
-      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
-      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and…",
-      "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-15T19:57:16+00:00"
     }
   ]
 }
