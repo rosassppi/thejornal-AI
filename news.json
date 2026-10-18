@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-18T15:23:55.888387+00:00",
+  "generated_at": "2026-10-18T20:07:10.003301+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "31516580eb15b814",
+      "title": "Como editar a memória do ChatGPT?",
+      "summary": "A memória do ChatGPT foi criada para guardar automaticamente informações úteis de conversas, arquivos e aplicativos conectados. O recurso usa esses dados para personalizar as…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-editar-a-memoria-do-chatgpt/",
+      "image": "https://tl.ctcdn.com.br/oUMoXDQPn-yOR44vobblskhdmhY=/0x0/filters:format(webp):quality(85)/8342f4ab-4e48-4190-8797-8ab3823ce499.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-18T20:00:06+00:00"
+    },
+    {
+      "id": "3cf4d945cff63c95",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-18T18:28:10+00:00"
+    },
+    {
+      "id": "9a5eca4e02fc99cd",
+      "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+      "summary": "An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content…",
+      "link": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-18T18:20:28+00:00"
+    },
+    {
+      "id": "35cd62faf12b8e71",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company…",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-18T16:30:00+00:00"
+    },
+    {
+      "id": "796bbd796e414573",
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+      "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/claudebyanthropic-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-18T16:25:19+00:00"
+    },
+    {
+      "id": "1e22e9d984020bf1",
+      "title": "TechCrunch Mobility: Rivian’s next act",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-18T16:05:00+00:00"
+    },
     {
       "id": "c63f467000c1d4b2",
       "title": "One UI 9 tem truque nativo para cortar internet de apps e barrar anúncios; aprenda a usar",
@@ -925,72 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-15T22:43:23+00:00"
-    },
-    {
-      "id": "c462dfdce3bb5a72",
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to…",
-      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-15T22:35:55+00:00"
-    },
-    {
-      "id": "4a64a944f8c6a57b",
-      "title": "Notebook com RTX 4060: 5 modelos para comprar em 2026",
-      "summary": "Buscando por um notebook com GPU Nvidia RTX 4060 em 2026? Encontre modelos que ainda trazem a placa de vídeo dedicada Notebook com RTX 4060: 5 modelos para comprar em 2026",
-      "link": "https://tecnoblog.net/guias/melhor-notebook-rtx-4060/",
-      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/09/lenovo-legion-5i-83n20000bo.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T22:32:42+00:00"
-    },
-    {
-      "id": "809d3687e8473a14",
-      "title": "Google vai dar mais destaque aos links nos resumos de IA",
-      "summary": "Inteligência artificial no buscador vem prejudicando publicadores. Empresa promete nova exibição dos links e novo carrossel com principais notícias. Google vai dar mais destaque…",
-      "link": "https://tecnoblog.net/noticias/google-vai-dar-mais-destaque-aos-links-nos-resumos-de-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/08/google-ia-capa-1-edited-2-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T22:00:13+00:00"
-    },
-    {
-      "id": "4be5a46cec594595",
-      "title": "The tech backlash is now in theaters",
-      "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping…",
-      "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-5.28.21-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-15T21:39:52+00:00"
-    },
-    {
-      "id": "43032a6db2e0b8c5",
-      "title": "Trump posts AI-edited photo to brag about White House restoration work",
-      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which…",
-      "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-15T21:09:33+00:00"
-    },
-    {
-      "id": "9e43f015fee51b9c",
-      "title": "Agente de IA apaga temporada inteira de reality show dias antes da estreia",
-      "summary": "Uma falha em sistemas de armazenamento levou à perda da edição completa da nova temporada do reality show sueco The Challenge Sverige, poucas semanas antes da estreia, prevista…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/agente-de-ia-apaga-temporada-inteira-de-reality-show-dias-antes-da-estreia/",
-      "image": "https://tl.ctcdn.com.br/lkGEbrPys0Z4sRFxB8JK_jZYVO0=/0x0/filters:format(webp):quality(85)/9434720c-f540-4df5-97be-65e6889146fc.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T21:03:00+00:00"
     }
   ]
 }
