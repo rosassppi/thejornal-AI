@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-18T03:05:26.856904+00:00",
+  "generated_at": "2026-10-18T10:25:20.246044+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "a39c8c1ad857a7a6",
+      "title": "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals",
+      "summary": "Anthropic is consulting with law firms to develop negotiation norms for AI agents that would haggle over prices, resolve complaints, or improve contracts on behalf of users. The…",
+      "link": "https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-18T09:11:29+00:00"
+    },
+    {
+      "id": "8b1cc7e586f3f1bf",
+      "title": "AI agents have bad taste in long-term decisions and a new benchmark proves it",
+      "summary": "A new benchmark called Taste-Bench tests how well AI agents make strategic choices during long-running tasks. Even the best model, GPT-5.6 Sol, picks the right path on just under…",
+      "link": "https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/ai-models-taste-bench-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-18T08:49:41+00:00"
+    },
+    {
+      "id": "bc8c6fd043725d91",
+      "title": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
+      "summary": "Google Research released Harness2, an Apache-2.0 framework that rewrites an agent's harness at test time. One refinement step lifted GLM-5 by 11.5 points on WorkBuddy-Bench with…",
+      "link": "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-18T08:15:04+00:00"
+    },
+    {
+      "id": "a80971917203b7f7",
+      "title": "AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office",
+      "summary": "Six AI agents were tasked with recovering £350 (about $465) for a canceled train ticket in an experiment. They resorted to invented excuses, lawsuit threats, and sharing…",
+      "link": "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/ai-agentic-flooding-communication-overload.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-18T08:15:04+00:00"
+    },
+    {
+      "id": "fc9f64e35abf161d",
+      "title": "How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models",
+      "summary": "In this tutorial, we implement Structured Data Models, NVIDIA’s new library that puts several pretrained foundation models for tables behind one PyTorch interface, and use it to…",
+      "link": "https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-18T05:56:05+00:00"
+    },
+    {
+      "id": "194dd344466dfafc",
+      "title": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
+      "summary": "Voxel51 3.0 merges search, curation, annotation and evaluation of multimodal sensor data into one platform for physical AI teams. It adds Voxel51 Agent with 45+ MCP tools, dataset…",
+      "link": "https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-18T04:06:33+00:00"
+    },
     {
       "id": "bbdeaa013dccbed8",
       "title": "Impressoras em promoção: selecionamos modelos com tanque de tinta e Wi-Fi para você economizar de verdade",
@@ -925,72 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-15T19:57:16+00:00"
-    },
-    {
-      "id": "f2f6f0e7a83f8ae6",
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting…",
-      "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-15T19:55:25+00:00"
-    },
-    {
-      "id": "04c382bfe2c29e80",
-      "title": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model",
-      "summary": "NVIDIA released Nemotron 3.5 Super VL, an open 120B-parameter multimodal MoE model with 12B active parameters, 1M-token context and NVFP4 weights that run on 1 DGX Spark, plus 2…",
-      "link": "https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-15T19:53:50+00:00"
-    },
-    {
-      "id": "ed5d13da494101a6",
-      "title": "Volvo aposta na Nvidia para criar carros que dirigem sozinhos nas cidades até 2030",
-      "summary": "Tecnologia deverá estrear em novo modelo da montadora sueca antes do fim da década O post Volvo aposta na Nvidia para criar carros que dirigem sozinhos nas cidades até 2030…",
-      "link": "https://olhardigital.com.br/2026/10/15/carros-e-tecnologia/volvo-aposta-na-nvidia-para-criar-carros-que-dirigem-sozinhos-nas-cidades-ate-2030/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/iStock-2260260651-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T19:26:14+00:00"
-    },
-    {
-      "id": "20dfecfa26f1e2fc",
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-15T19:14:26+00:00"
-    },
-    {
-      "id": "ca4a415c2dd0064f",
-      "title": "Adeus, One UI? Samsung pode lançar \"Galaxy OS\" com foco total em IA",
-      "summary": "A Samsung prepara uma grande atualização nos celulares e tablets da marca para trazer um novo software chamado Galaxy OS . O foco seria aumentar a integração de inteligência…",
-      "link": "https://canaltech.com.br/apps/adeus-one-ui-samsung-pode-lancar-galaxy-os-com-foco-total-em-ia/",
-      "image": "https://tl.ctcdn.com.br/QL_N0qxpGDO1js1KvXydCJ6CO0Y=/0x0/filters:format(webp):quality(85)/84691ef8-f858-4c56-82c5-d63072b18d1b.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T19:06:00+00:00"
-    },
-    {
-      "id": "32165ee6af8945a5",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-15T19:00:00+00:00"
     }
   ]
 }
