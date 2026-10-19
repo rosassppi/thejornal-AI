@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-19T03:19:27.830473+00:00",
+  "generated_at": "2026-10-19T12:10:30.768177+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "0abac2498d5e300a",
+      "title": "The neocloud shakeout is coming, and Nvidia has the most to lose",
+      "summary": "After stock crashes and Firmus's scrapped IPO, industry executives expect only seven to ten of the hundreds of AI cloud providers to survive. CoreWeave lost a quarter of its…",
+      "link": "https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/09/NVIDIA-Vera-Rubin-NVL144-with-Tray.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-19T11:33:36+00:00"
+    },
+    {
+      "id": "669d0cb3f3569198",
+      "title": "Anthropic plans fund for workers threatened by AI, Musk counters with SpaceX shares for children",
+      "summary": "Anthropic wants to put five percent of its shares into a new public benefit fund that will also look into direct payments to workers at risk of losing their jobs. The fund is a…",
+      "link": "https://the-decoder.com/anthropic-plans-fund-for-workers-threatened-by-ai-musk-counters-with-spacex-shares-for-children/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/Anthropic-Public-Benefit-Fund-2000x1125-1.webp",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-19T11:19:12+00:00"
+    },
+    {
+      "id": "b437dbe9cb446bae",
+      "title": "Salários em tecnologia se aproximam dos R$ 40 mil; veja principais cargos",
+      "summary": "Guia Salarial 2027 da Michael Page mostra que IA é diferencial no mercado de tecnologia, mas não significa maior salário. Salários em tecnologia se aproximam dos R$ 40 mil; veja…",
+      "link": "https://tecnoblog.net/noticias/salarios-em-tecnologia-se-aproximam-dos-r-40-mil-veja-principais-cargos/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/capa-freelas-perde-emprego-pra-ia-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-19T10:07:23+00:00"
+    },
+    {
+      "id": "d67eff0903799e5f",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in…",
+      "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-19T09:08:05+00:00"
+    },
+    {
+      "id": "50e190d929be2a41",
+      "title": "Resumo do OD: programa espacial chinês, Amazônia e mais",
+      "summary": "E mais: bancos dos EUA barram agentes de IA, deepfakes desafiam a Justiça e chuva de meteoros poderá ser vista no Brasil nesta semana O post Resumo do OD: programa espacial…",
+      "link": "https://olhardigital.com.br/2026/10/19/pro/resumo-do-od-programa-espacial-chines-amazonia-e-mais/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-19T08:00:00+00:00"
+    },
+    {
+      "id": "735fe766c314f04d",
+      "title": "NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration",
+      "summary": "NVIDIA has released the full Run:ai GPU orchestration platform as open source under Apache 2.0. The release includes KAI Scheduler, CUDA 13.4 GPU fractioning, quota management…",
+      "link": "https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-19T03:19:18+00:00"
+    },
     {
       "id": "8e8bf17fdc0f2aac",
       "title": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3",
@@ -925,72 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-10-16T01:44:47+00:00"
-    },
-    {
-      "id": "2cac54715c383471",
-      "title": "ChatGPT ganha acesso às abas do Chrome e pode executar tarefas no navegador",
-      "summary": "Atualização da extensão permite comparar páginas abertas, preencher formulários, enviar mensagens e organizar abas; recursos dependem de permissões do usuário O post ChatGPT ganha…",
-      "link": "https://olhardigital.com.br/2026/10/15/inteligencia-artificial/chatgpt-ganha-acesso-as-abas-do-chrome-e-pode-executar-tarefas-no-navegador/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/google-chrome-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-16T00:34:36+00:00"
-    },
-    {
-      "id": "b6756c0a180ee554",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "link": "https://openai.com/index/benefit-street-partners",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-16T00:00:00+00:00"
-    },
-    {
-      "id": "9e63539289a31c86",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-16T00:00:00+00:00"
-    },
-    {
-      "id": "c9a6184923cc1a58",
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "summary": "",
-      "link": "https://huggingface.co/blog/reflection-beam",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-16T00:00:00+00:00"
-    },
-    {
-      "id": "9223aa9385f8e028",
-      "title": "Anthropic: investidores reduzem expectativa de avaliação para IPO de R$ 8,1 trilhões",
-      "summary": "Desaceleração do crescimento da receita e custos bilionários de infraestrutura de IA preocupam investidores antes da abertura de capital, prevista para novembro O post Anthropic…",
-      "link": "https://olhardigital.com.br/2026/10/15/pro/anthropic-investidores-reduzem-expectativa-de-avaliacao-para-ipo-de-r-8-1-trilhoes/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T23:47:27+00:00"
-    },
-    {
-      "id": "eb0ac7f68c40eb75",
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-15T23:44:56+00:00"
     }
   ]
 }
