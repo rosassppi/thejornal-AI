@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-18T20:07:10.003301+00:00",
+  "generated_at": "2026-10-19T03:19:27.830473+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "8e8bf17fdc0f2aac",
+      "title": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3",
+      "summary": "Mistral released Timestral, a time series foundation model family from 5M to 209M parameters. The 209M model leads GIFT-Eval, TIME and fev-bench among zero-shot models and runs on…",
+      "link": "https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-19T01:18:17+00:00"
+    },
+    {
+      "id": "16eddc2105cf8883",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-18T20:37:40+00:00"
+    },
     {
       "id": "31516580eb15b814",
       "title": "Como editar a memória do ChatGPT?",
@@ -12,6 +34,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-18T20:00:06+00:00"
+    },
+    {
+      "id": "9760efe5fda7da02",
+      "title": "Casa mais inteligente: Echo Dot em promoção na Amazon para você controlar tudo com a voz",
+      "summary": "Se você quer deixar a casa mais conectada sem complicação, esta é uma boa hora para investir em um smart speaker com Alexa. A Amazon está com três versões do Echo Dot disponíveis…",
+      "link": "https://olhardigital.com.br/2026/10/18/reviews/casa-mais-inteligente-echo-dot-em-promocao-na-amazon-para-voce-controlar-tudo-com-a-voz-2/",
+      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-18T19:44:02+00:00"
     },
     {
       "id": "3cf4d945cff63c95",
@@ -958,39 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-10-15T23:44:56+00:00"
-    },
-    {
-      "id": "d3b1ad6d532e6f35",
-      "title": "Meta lança IA de peso aberto que roda em Macs; veja como funciona",
-      "summary": "Modelo foi desenvolvido para programação e agentes de IA; para executá-lo localmente, porém, são necessários dois computadores Mac Studio de alto desempenho O post Meta lança IA…",
-      "link": "https://olhardigital.com.br/2026/10/15/inteligencia-artificial/meta-lanca-ia-de-peso-aberto-que-roda-em-macs-veja-como-funciona/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T23:30:42+00:00"
-    },
-    {
-      "id": "73f05b7b5d8b3366",
-      "title": "ChatGPT ganha vozes mais naturais e melhora reconhecimento de sotaques; veja novidades",
-      "summary": "Novidade inclui os modelos GPT-Live-1.1 e GPT-Live-1.1 Quip, uma versão menor da tecnologia, além de novas opções de vozes em diferentes idiomas O post ChatGPT ganha vozes mais…",
-      "link": "https://olhardigital.com.br/2026/10/15/inteligencia-artificial/chatgpt-ganha-vozes-mais-naturais-e-melhora-reconhecimento-de-sotaques-veja-novidades/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/chatgpt3-e1737636498885-1024x577.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-15T23:11:01+00:00"
-    },
-    {
-      "id": "e07170025272d6f1",
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-15T22:43:23+00:00"
     }
   ]
 }
