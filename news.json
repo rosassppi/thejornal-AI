@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-20T03:28:21.453815+00:00",
+  "generated_at": "2026-10-20T10:56:58.004534+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "4560d3830d9f5377",
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory…",
+      "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/map.png?w=840",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-20T09:00:00+00:00"
+    },
+    {
+      "id": "2869694ca10dfd52",
+      "title": "Exa 3.0 Search API Tops Perplexity, Brave and Parallel on 8 Benchmarks",
+      "summary": "Exa 3.0 is a search API upgrade from Exa. It adds a larger embedding model, Exa Lite at $4 per 1,000 requests, and Dynamic Highlights, and leads 8 benchmarks Exa ran itself. The…",
+      "link": "https://www.marktechpost.com/2026/10/20/exa-3-0-search-api-lite/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-20T08:12:21+00:00"
+    },
+    {
+      "id": "57796cfc1d5e5414",
+      "title": "Resumo do OD: Lula acusa Meta, Japão lança sonda a Marte, novo financiamento da OpenAI e mais",
+      "summary": "Samsung usa tecnologia da TSMC, Noruega tenta evitar uso de plataformas digitais por menores de 16 anos e adolescentes usam apps para criar nudes O post Resumo do OD: Lula acusa…",
+      "link": "https://olhardigital.com.br/2026/10/20/pro/resumo-do-od-lula-acusa-meta-japao-lanca-sonda-a-marte-novo-financiamento-da-openai-e-mais/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-20T08:00:00+00:00"
+    },
+    {
+      "id": "71db9b0f6094c162",
+      "title": "Cloudflare Releases Clairic, a System One Extraction Model on Workers AI",
+      "summary": "Cloudflare has previewed Clairic, a System One extraction model on Workers AI that returns typed values with confidence scores in one forward pass. It costs $0.10 per million…",
+      "link": "https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-20T07:45:41+00:00"
+    },
+    {
+      "id": "76faeee63fa28800",
+      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+      "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+      "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-20T07:01:00+00:00"
+    },
+    {
+      "id": "8c785f759e8084c4",
+      "title": "Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second",
+      "summary": "Inception released Mercury 3, a diffusion LLM it says runs at 1,068 tokens per second with a 1M-token context. On Inception’s own table it leads GPT-6 Luna and Claude Haiku 5.5 on…",
+      "link": "https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-20T03:32:43+00:00"
+    },
     {
       "id": "b36ae145ce5ed542",
       "title": "“Grampo” na OpenAI: juiz vê risco de fuga e nega liberdade a ex-engenheiro da empresa",
@@ -925,72 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-17T15:04:36+00:00"
-    },
-    {
-      "id": "931c96a6648bba9a",
-      "title": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
-      "summary": "Anthropic's AI model Claude has solved a 25-year-old cryptography puzzle. The mysterious seeds behind NIST's standard curves for digital signatures were provided by the NSA…",
-      "link": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_unintended_actions.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-17T14:42:56+00:00"
-    },
-    {
-      "id": "cfc74bb14572c92d",
-      "title": "Mais de 85% dos desenvolvedores japoneses de games já utilizam IA generativa",
-      "summary": "Pesquisa apresentada durante a Tokyo Game Show 2026 aponta crescimento no uso da tecnologia, com foco em produtividade, redução de custos e otimização do desenvolvimento de jogos…",
-      "link": "https://olhardigital.com.br/2026/10/17/games-e-consoles/858-dos-desenvolvedores-japoneses-de-games-ja-usam-ia-generativa/",
-      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/10/IA-universoNerd.webp",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-17T14:00:00+00:00"
-    },
-    {
-      "id": "b31543fcd7d1501b",
-      "title": "Websites are closing their doors to AI agents",
-      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-17T13:00:00+00:00"
-    },
-    {
-      "id": "bbb34a93b9343f22",
-      "title": "Como e por que a inteligência artificial consegue burlar regras?",
-      "summary": "Nos últimos meses, uma série de incidentes mostrou um problema cada vez mais preocupante com os agentes de inteligência artificial: sistemas criados por grandes empresas de…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-e-por-que-a-inteligencia-artificial-consegue-burlar-regras/",
-      "image": "https://tl.ctcdn.com.br/2M6PxnLMmdjdzAR24lbHtMYHdXE=/0x0/filters:format(webp):quality(85)/4756f8ae-246a-4398-8335-c0fdf6aa45c3.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-17T11:30:00+00:00"
-    },
-    {
-      "id": "4163cc0c9dd071c6",
-      "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
-      "summary": "Deepseek has released V4.1-Flash-1017 as an open-weight model that posts better benchmarks, finishes tasks faster, and produces shorter outputs than its predecessor. The company…",
-      "link": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/deepseek_red_whale.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-17T10:33:28+00:00"
-    },
-    {
-      "id": "c0c2d6d88779a62a",
-      "title": "Quem responde quando um agente de IA toma a decisão errada?",
-      "summary": "Durante anos, discutimos como gestores deveriam liderar pessoas. Agora surge uma competência completamente nova: liderar sistemas autônomos O post Quem responde quando um agente…",
-      "link": "https://olhardigital.com.br/2026/10/17/colunistas/quem-responde-quando-um-agente-de-ia-toma-a-decisao-errada/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-17T10:00:00+00:00"
     }
   ]
 }
