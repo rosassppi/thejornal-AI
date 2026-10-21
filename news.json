@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-10-21T03:22:38.432010+00:00",
+  "generated_at": "2026-10-21T11:12:13.550083+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "32694d7b05454b04",
+      "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+      "summary": "",
+      "link": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-21T10:59:42+00:00"
+    },
+    {
+      "id": "02a7cb2a47032966",
+      "title": "Muse: agente de IA da Meta expôs contratos e planilhas na internet",
+      "summary": "Empresa de segurança digital localizou quase 7 mil links com potenciais dados sensíveis. Muse: agente de IA da Meta expôs contratos e planilhas na internet",
+      "link": "https://tecnoblog.net/noticias/muse-agente-de-ia-da-meta-expos-contratos-e-planilhas-na-internet/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/mascote-muse-340x191.webp",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-21T10:54:49+00:00"
+    },
+    {
+      "id": "2bb1d1b1ee148b0f",
+      "title": "ChatGPT ganha função que protege as conversas dos olhares fofoqueiros",
+      "summary": "Recurso “esconde” interações selecionadas pelo usuário do histórico. ChatGPT ganha função que protege as conversas dos olhares fofoqueiros",
+      "link": "https://tecnoblog.net/noticias/openai-agora-permite-trancar-conversas-sensiveis-no-chatgpt/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/chatgpt-2_capa-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-21T10:18:20+00:00"
+    },
+    {
+      "id": "21b97b178a66b9f2",
+      "title": "Óculos inteligentes da Samsung têm problema de design que a Meta já resolveu",
+      "summary": "Os futuros óculos inteligentes da Samsung e do Google podem ter dificuldade para competir com os Ray-Ban Meta porque ainda não provaram que suas armações ficam bem em diferentes…",
+      "link": "https://canaltech.com.br/produtos/oculos-inteligentes-da-samsung-tem-problema-de-design-que-a-meta-ja-resolveu/",
+      "image": "https://tl.ctcdn.com.br/SweX2jsUoRHo-r2NEizA2P5xZ34=/0x0/filters:format(webp):quality(85)/743821f8-aa5f-45cb-9f19-6bca86b630d2.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-21T10:04:57+00:00"
+    },
+    {
+      "id": "0ff454cc7c9dba46",
+      "title": "Galaxy S23 do Brasil recebe Android 17/One UI 9",
+      "summary": "Empresa libera update no modelo lançado em 2023. Software baseado no Android 17 tem expansão do Galaxy AI como principal novidade. Galaxy S23 do Brasil recebe Android 17/One UI 9",
+      "link": "https://tecnoblog.net/noticias/galaxy-s23-do-brasil-recebe-android-17-one-ui-9/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/20260916_110200-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-21T09:55:28+00:00"
+    },
+    {
+      "id": "33d3a7f601cdbab2",
+      "title": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
+      "summary": "Anthropic's Claude independently designed protein binders targeting deadly scorpion neurotoxins. Out of more than 318,000 designs, 211 were tested in the lab. Seventeen met the…",
+      "link": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/claude_scorpion_toxines.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-21T08:37:06+00:00"
+    },
+    {
+      "id": "8d1529f17f4419f3",
+      "title": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
+      "summary": "OpenAI is acquiring startup Orchestra Bio and plans to merge it with its life sciences AI platform Rosalind. The goal is to build AI agents that help pharma teams coordinate drug…",
+      "link": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_orchestra_bio.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-21T08:32:54+00:00"
+    },
+    {
+      "id": "b3505836412d5e38",
+      "title": "Eleições 2026: os planos de Lula e Flávio Bolsonaro para IA, data centers e soberania digital",
+      "summary": "O Olhar Digital mergulhou novamente nos planos de governo e repercutiu as propostas dos candidatos entre especialistas O post Eleições 2026: os planos de Lula e Flávio Bolsonaro…",
+      "link": "https://olhardigital.com.br/2026/10/21/pro/eleicoes-2026-os-planos-de-lula-e-flavio-bolsonaro-para-ia-data-centers-e-soberania-digital/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/06/ia-semicondutores-infraestrutura-digital-e1790697675963-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-21T07:02:00+00:00"
+    },
+    {
+      "id": "6880d24c636ebde5",
+      "title": "Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK",
+      "summary": "Mistral AI released Voxtral 3, a family of 3 transcription models, 1 text-to-speech model and a LiveKit-based voice agent SDK. Voxtral Small Transcribe 3 scores 2.1% AA-WER…",
+      "link": "https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-21T06:03:12+00:00"
+    },
+    {
+      "id": "e8c5881c2fc52c87",
+      "title": "Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets",
+      "summary": "Google, Red Hat and IBM released llm-d 1.0, an open-source Kubernetes-native stack for distributed LLM inference. It adds multi-tenant flow control, zero-downtime upgrades and…",
+      "link": "https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f916.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-21T04:33:40+00:00"
+    },
+    {
+      "id": "c7c1db1d24f97b16",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star…",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-21T04:00:00+00:00"
+    },
     {
       "id": "b7d99106549a8187",
       "title": "Fala AI: nova teoria pode ajudar cientistas a entender como a IA “pensa”",
@@ -870,127 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-10-19T22:49:27+00:00"
-    },
-    {
-      "id": "4de91e1540639e75",
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-19T22:04:28+00:00"
-    },
-    {
-      "id": "7c3c31dfd9d94609",
-      "title": "NVIDIA desmente morte da RTX 5090, mas placa bate US$ 8.500 no varejo",
-      "summary": "O mercado de placas de vídeo para games não anda bem por conta da crise e do foco das empresas em IA. Para piorar, a rainha dos games, a GeForce RTX 5090, estaria sendo…",
-      "link": "https://canaltech.com.br/hardware/nvidia-desmente-morte-da-rtx-5090-mas-placa-bate-us-8500-no-varejo/",
-      "image": "https://tl.ctcdn.com.br/GDIhftQL27voqNSLB-75Ush3cZE=/0x0/filters:format(webp):quality(85)/7d3148b5-c517-4e31-be98-1bca0c25f7c0.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-19T22:04:00+00:00"
-    },
-    {
-      "id": "fe71d377ee244b05",
-      "title": "The fossil fuel comeback is here",
-      "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster…",
-      "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824781/STK438_CLIMATE_CHANGE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-19T21:48:01+00:00"
-    },
-    {
-      "id": "85ed69736e92d20f",
-      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
-      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-19T21:28:20+00:00"
-    },
-    {
-      "id": "9e1be6ce21677188",
-      "title": "TV LG QNED 55″ com Mini LED atinge 31% OFF em oferta no Mercado Livre",
-      "summary": "Modelo 55QNED70BSA, lançado em 2026, conta com Mini LED para melhor iluminação e inteligência artificial integrada para diversas áreas do sistema WebOS 26 TV LG QNED 55″ com Mini…",
-      "link": "https://tecnoblog.net/achados/tv-lg-qned-55-com-mini-led-atinge-32-off-em-oferta-no-mercado-livre/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-19T21:18:03+00:00"
-    },
-    {
-      "id": "8431b4126642c880",
-      "title": "Para NVIDIA, CPUs atuais têm falha grave de desempenho que ela vai corrigir",
-      "summary": "A corrida desenfreada por mais núcleos em servidores fez a indústria de computação em nuvem cometer um erro estratégico nos últimos anos, na visão da NVIDIA. Para aumentar a…",
-      "link": "https://canaltech.com.br/hardware/para-nvidia-cpus-atuais-tem-falha-grave-de-desempenho-que-ela-vai-corrigir/",
-      "image": "https://tl.ctcdn.com.br/5d3C5bAqji21_ou2A6azocghX_Y=/0x0/filters:format(webp):quality(85)/a1856980-2750-4074-a00e-53f55354fc14.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-19T21:02:00+00:00"
-    },
-    {
-      "id": "d9e545d3ca24a5fe",
-      "title": "Apple muda regras da App Store para banir apps que se disfarçam para criar nudes",
-      "summary": "A Apple atualizou as regras da App Store para proibir aplicativos que usam inteligência artificial (IA) para criar imagens íntimas sem consentimento e também apps que se disfarçam…",
-      "link": "https://canaltech.com.br/apps/apple-muda-regras-da-app-store-para-banir-apps-que-se-disfarcam-para-criar-nudes/",
-      "image": "https://tl.ctcdn.com.br/HIOwjJciNR4vUc-p8eBIrv5aT8s=/0x0/filters:format(webp):quality(85)/79ac7b66-1837-4ca2-972b-8f2025fce987.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-19T21:01:00+00:00"
-    },
-    {
-      "id": "b5a4f7c32dccaa42",
-      "title": "Echo Dot em destaque: smart speakers com Alexa para todos os estilos",
-      "summary": "Se você quer transformar qualquer ambiente da sua casa em um espaço inteligente, os smart speakers com Alexa são uma das melhores pedidas do mercado. Reunimos três opções do Echo…",
-      "link": "https://olhardigital.com.br/2026/10/19/reviews/echo-dot-em-destaque-smart-speakers-com-alexa-para-todos-os-estilos/",
-      "image": "https://m.media-amazon.com/images/I/51lUym-OXcL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-19T20:54:39+00:00"
-    },
-    {
-      "id": "21dc8fc69ccc990a",
-      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
-      "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-19T20:21:53+00:00"
-    },
-    {
-      "id": "c1dfee28d50b17ef",
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-19T20:09:24+00:00"
-    },
-    {
-      "id": "0a133eec9fa73021",
-      "title": "Big techs podem ter mais dívidas com IA do que revelam, alerta S&P",
-      "summary": "S&P Global aponta falta de transparência em financiamentos para data centers; seis grandes empresas devem gastar mais de R$ 37,8 trilhões com infraestrutura de IA até 2030 O post…",
-      "link": "https://olhardigital.com.br/2026/10/19/inteligencia-artificial/big-techs-podem-ter-mais-dividas-com-ia-do-que-revelam-alerta-sp/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/ia-em-rede-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-19T20:04:39+00:00"
     }
   ]
 }
