@@ -1,7 +1,227 @@
 {
-  "generated_at": "2026-10-21T11:12:13.550083+00:00",
+  "generated_at": "2026-10-21T16:38:24.106482+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "0442b9c1e2021f5e",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "summary": "",
+      "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-21T16:04:43+00:00"
+    },
+    {
+      "id": "5a2ed5d6f3f4a9b7",
+      "title": "Grupo financiado por presidente da OpenAI tenta barrar regras para inteligência artificial",
+      "summary": "Enquanto cobram regras para IA, executivos da OpenAI investem milhões em políticos que rejeitam limites ao setor nos Estados Unidos O post Grupo financiado por presidente da…",
+      "link": "https://olhardigital.com.br/2026/10/21/inteligencia-artificial/grupo-financiado-por-presidente-da-openai-tenta-barrar-regras-para-inteligencia-artificial/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/openai_logo-1024x681.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-21T15:17:24+00:00"
+    },
+    {
+      "id": "25b2428c48d90bfe",
+      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+      "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
+      "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/openevidencelist-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-21T15:14:07+00:00"
+    },
+    {
+      "id": "b3bb7eb8417b3c05",
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today…",
+      "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-21T15:00:00+00:00"
+    },
+    {
+      "id": "c2ed162a157709f5",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "summary": "",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-21T14:58:18+00:00"
+    },
+    {
+      "id": "e24f93d62a8d7c81",
+      "title": "Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait",
+      "summary": "Inception says Mercury 3 is the most capable diffusion language model released so far. The company claims it runs four to eight times faster than GPT-6 Luna and Claude Haiku 5.5…",
+      "link": "https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/inception.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-21T14:45:45+00:00"
+    },
+    {
+      "id": "d11a32e6b5412cfc",
+      "title": "Mistral and Nvidia want to speed up industrial design with physics AI",
+      "summary": "Mistral and Nvidia are teaming up to speed up engineering simulations and industrial product design with AI. The article Mistral and Nvidia want to speed up industrial design with…",
+      "link": "https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/Mistral-Nvidia-partnership.webp",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-21T14:40:51+00:00"
+    },
+    {
+      "id": "c08f142cd97c75d3",
+      "title": "ChatGPT ganha pasta protegida por senha e biometria para esconder segredos",
+      "summary": "A OpenAI anunciou o lançamento de chats bloqueados no ChatGPT . O recurso cria um espaço privado para conversas confidenciais, protegidas de pessoas que compartilham o aparelho ou…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-ganha-pasta-protegida-por-senha-e-biometria-para-esconder-segredos/",
+      "image": "https://tl.ctcdn.com.br/j6S0md4xF0orJk9wsNCmtjII1G0=/0x0/filters:format(webp):quality(85)/951ba2b0-05a9-4d99-b31c-2c49bdf170b6.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-21T14:08:00+00:00"
+    },
+    {
+      "id": "4ccd2f110e9e9964",
+      "title": "NVIDIA já teria data para anunciar fim das RTX 5090 e 5080; veja quando será despedida",
+      "summary": "A RTX 5090 atingiu preços astronômicos nos últimos meses por conta da atual crise de hardware. Recentemente, rumores de que essa GPU seria cancelada surgiram, levando até mesmo a…",
+      "link": "https://canaltech.com.br/hardware/nvidia-ja-teria-data-para-anunciar-fim-das-rtx-5090-e-5080-veja-quando-sera-despedida/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-21T14:07:00+00:00"
+    },
+    {
+      "id": "a61adc6e1acb139d",
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-21T14:00:00+00:00"
+    },
+    {
+      "id": "8eaa1a0c53605384",
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-21T13:57:43+00:00"
+    },
+    {
+      "id": "c6ce63712dd9b458",
+      "title": "Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days",
+      "summary": "Nvidia wants AI data centers to ship fully preassembled in containers. The article Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days appeared…",
+      "link": "https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/nvidia-dsx-pod.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-21T13:42:05+00:00"
+    },
+    {
+      "id": "6582f5115eef58bb",
+      "title": "Spotify faz faxina e apaga mais de 75 milhões de músicas falsas feitas por IA",
+      "summary": "O Spotify anunciou a remoção de mais de 75 milhões de faixas de sua plataforma por violações graves ou repetidas das regras contra spam. Além disso, o serviço retirou mais de 50…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/spotify-faz-faxina-e-apaga-mais-de-75-milhoes-de-musicas-falsas-feitas-por-ia/",
+      "image": "https://tl.ctcdn.com.br/6WA0qQwk88z8L7uK55crV2vxODs=/0x0/filters:format(webp):quality(85)/2c77532a-bee9-452f-b794-4596ecd05aa6.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-21T13:31:00+00:00"
+    },
+    {
+      "id": "a0b9f4544cf0cc36",
+      "title": "China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home",
+      "summary": "The US has banned Deepseek from its government systems, and China is protesting sharply and demanding the ban be lifted. Yet Beijing itself blocks ChatGPT, Claude, and Gemini…",
+      "link": "https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/deepseek_red_whale.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-21T13:04:19+00:00"
+    },
+    {
+      "id": "cc0b2a0696c1ca51",
+      "title": "Mach9 raises $34M after pivoting to AI CAD software",
+      "summary": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
+      "link": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-21T13:00:00+00:00"
+    },
+    {
+      "id": "b1215e1aefc04c61",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-21T13:00:00+00:00"
+    },
+    {
+      "id": "5c32755a71da49ed",
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "summary": "",
+      "link": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-21T12:51:24+00:00"
+    },
+    {
+      "id": "cb0c4273bf6ef9e3",
+      "title": "OpenAI can't yet explain why its coding agents switch off misalignment monitoring",
+      "summary": "Two internal OpenAI coding agents switched off safety monitoring on their own, even after weighing whether to keep the safeguards in place. When asked about it, GPT-6 Astra denied…",
+      "link": "https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-21T12:34:57+00:00"
+    },
+    {
+      "id": "da5f2b483cd5741b",
+      "title": "Gemini ganha pacote de recursos para ajudar quem tem o próprio negócio",
+      "summary": "O Google anunciou uma série de novidades do Gemini voltadas para Pequenas e Médias Empresas (PMEs) na última terça-feira (20). A ferramenta de IA ganhou um painel com uma visão…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-ganha-pacote-de-recursos-para-ajudar-empreendedores-autonomos/",
+      "image": "https://tl.ctcdn.com.br/15Nmpef5X6pF-_JbLPKjndiTatA=/0x0/filters:format(webp):quality(85)/40b3cfbf-a25d-4df7-b147-77a7c687a924.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-21T12:18:04+00:00"
+    },
+    {
+      "id": "95dedf578de78f3e",
+      "title": "OpenAI models are coming to Google Cloud",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "link": "https://openai.com/index/openai-models-google-cloud",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-21T12:00:00+00:00"
+    },
     {
       "id": "32694d7b05454b04",
       "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
@@ -91,6 +311,28 @@
       "published_at": "2026-10-21T07:02:00+00:00"
     },
     {
+      "id": "de9db6f384cbc788",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-21T07:00:00+00:00"
+    },
+    {
+      "id": "ea92da5c121ecb45",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "link": "https://openai.com/index/building-chatgpt-ad-stack",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-21T07:00:00+00:00"
+    },
+    {
       "id": "6880d24c636ebde5",
       "title": "Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK",
       "summary": "Mistral AI released Voxtral 3, a family of 3 transcription models, 1 text-to-speech model and a LiveKit-based voice agent SDK. Voxtral Small Transcribe 3 scores 2.1% AA-WER…",
@@ -100,6 +342,17 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-10-21T06:03:12+00:00"
+    },
+    {
+      "id": "64ddfb139fec8a1c",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-21T04:50:00+00:00"
     },
     {
       "id": "e8c5881c2fc52c87",
@@ -738,259 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-20T11:34:54+00:00"
-    },
-    {
-      "id": "739162d7487a517b",
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember…",
-      "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-20T11:00:00+00:00"
-    },
-    {
-      "id": "2bb6d52be7027111",
-      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups…",
-      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-20T11:00:00+00:00"
-    },
-    {
-      "id": "1725d137aa3debc0",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "link": "https://openai.com/index/ted-taylor-restaurant",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-20T10:00:00+00:00"
-    },
-    {
-      "id": "4560d3830d9f5377",
-      "title": "A visit to Samsung’s massive new semiconductor hub",
-      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory…",
-      "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/map.png?w=840",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-20T09:00:00+00:00"
-    },
-    {
-      "id": "2869694ca10dfd52",
-      "title": "Exa 3.0 Search API Tops Perplexity, Brave and Parallel on 8 Benchmarks",
-      "summary": "Exa 3.0 is a search API upgrade from Exa. It adds a larger embedding model, Exa Lite at $4 per 1,000 requests, and Dynamic Highlights, and leads 8 benchmarks Exa ran itself. The…",
-      "link": "https://www.marktechpost.com/2026/10/20/exa-3-0-search-api-lite/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-20T08:12:21+00:00"
-    },
-    {
-      "id": "57796cfc1d5e5414",
-      "title": "Resumo do OD: Lula acusa Meta, Japão lança sonda a Marte, novo financiamento da OpenAI e mais",
-      "summary": "Samsung usa tecnologia da TSMC, Noruega tenta evitar uso de plataformas digitais por menores de 16 anos e adolescentes usam apps para criar nudes O post Resumo do OD: Lula acusa…",
-      "link": "https://olhardigital.com.br/2026/10/20/pro/resumo-do-od-lula-acusa-meta-japao-lanca-sonda-a-marte-novo-financiamento-da-openai-e-mais/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-20T08:00:00+00:00"
-    },
-    {
-      "id": "71db9b0f6094c162",
-      "title": "Cloudflare Releases Clairic, a System One Extraction Model on Workers AI",
-      "summary": "Cloudflare has previewed Clairic, a System One extraction model on Workers AI that returns typed values with confidence scores in one forward pass. It costs $0.10 per million…",
-      "link": "https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-20T07:45:41+00:00"
-    },
-    {
-      "id": "76faeee63fa28800",
-      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
-      "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
-      "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-20T07:01:00+00:00"
-    },
-    {
-      "id": "aa8847d44cbae332",
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-      "link": "https://openai.com/index/terminal-x",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-20T07:00:00+00:00"
-    },
-    {
-      "id": "8c785f759e8084c4",
-      "title": "Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second",
-      "summary": "Inception released Mercury 3, a diffusion LLM it says runs at 1,068 tokens per second with a 1M-token context. On Inception’s own table it leads GPT-6 Luna and Claude Haiku 5.5 on…",
-      "link": "https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-20T03:32:43+00:00"
-    },
-    {
-      "id": "b36ae145ce5ed542",
-      "title": "“Grampo” na OpenAI: juiz vê risco de fuga e nega liberdade a ex-engenheiro da empresa",
-      "summary": "Abdulrahman Alfozan ficará detido sem direito a fiança; promotores alegam que ele mantinha contatos frequentes com integrante da família real saudita O post “Grampo” na OpenAI…",
-      "link": "https://olhardigital.com.br/2026/10/19/pro/grampo-na-openai-juiz-ve-risco-de-fuga-e-nega-liberdade-a-ex-engenheiro-da-empresa/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/openai_justica-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-20T02:07:37+00:00"
-    },
-    {
-      "id": "42d131fbfea6aa9e",
-      "title": "OpenAI corre para levantar R$ 163,5 bilhões antes de IPO da Anthropic",
-      "summary": "Nova rodada de financiamento pode avaliar a dona do ChatGPT em mais de R$ 7,63 trilhões O post OpenAI corre para levantar R$ 163,5 bilhões antes de IPO da Anthropic apareceu…",
-      "link": "https://olhardigital.com.br/2026/10/19/pro/openai-corre-para-levantar-r-163-5-bilhoes-antes-de-ipo-da-anthropic/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/anthropic_ipo-1024x567.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-20T01:52:46+00:00"
-    },
-    {
-      "id": "579edb5fc6d022ec",
-      "title": "Lula vai pedir cassação da chapa de Flávio Bolsonaro por atuação da Meta",
-      "summary": "PT acusa plataformas de favorecer candidato do PL com algoritmos e ferramentas de IA O post Lula vai pedir cassação da chapa de Flávio Bolsonaro por atuação da Meta apareceu…",
-      "link": "https://olhardigital.com.br/2026/10/19/pro/lula-vai-pedir-cassacao-da-chapa-de-flavio-bolsonaro-por-atuacao-da-meta/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/meta-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-20T01:27:10+00:00"
-    },
-    {
-      "id": "a608b97bceb1e726",
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power…",
-      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-20T01:27:03+00:00"
-    },
-    {
-      "id": "80c328096c72aae6",
-      "title": "Anthropic mira IPO e promete compensar impactos da IA: isso faz sentido?",
-      "summary": "Enquanto avança em seus planos de IPO, a Anthropic prometeu destinar 5% de suas ações a um fundo para enfrentar os impactos da IA O post Anthropic mira IPO e promete compensar…",
-      "link": "https://olhardigital.com.br/2026/10/19/colunistas/anthropic-mira-ipo-e-promete-compensar-impactos-da-ia-isso-faz-sentido/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-20T00:57:06+00:00"
-    },
-    {
-      "id": "ebac71769dc9650d",
-      "title": "Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59",
-      "summary": "Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06…",
-      "link": "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-20T00:03:38+00:00"
-    },
-    {
-      "id": "1cfb6291fa158d05",
-      "title": "OpenAI acquires Orchestra Bio",
-      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-20T00:00:00+00:00"
-    },
-    {
-      "id": "39e60f901a735303",
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "summary": "",
-      "link": "https://huggingface.co/blog/hf-torchtpu",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-20T00:00:00+00:00"
-    },
-    {
-      "id": "41fb25a47d12d204",
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "summary": "",
-      "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-20T00:00:00+00:00"
-    },
-    {
-      "id": "c2b4b68d7e0027f0",
-      "title": "MPS in PyTorch 2.15",
-      "summary": "",
-      "link": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-20T00:00:00+00:00"
-    },
-    {
-      "id": "68a6b53f34def307",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-19T23:39:38+00:00"
-    },
-    {
-      "id": "bc7f8d0c036993da",
-      "title": "Smartwatch bom e bonito: veja uma seleção de relógios inteligentes em promoção na Amazon",
-      "summary": "Se você está pensando em colocar um smartwatch no pulso, este é um bom momento para pesquisar. Reunimos duas opções de relógios inteligentes disponíveis na Amazon, de marcas…",
-      "link": "https://olhardigital.com.br/2026/10/19/reviews/smartwatch-bom-e-bonito-veja-uma-selecao-de-relogios-inteligentes-em-promocao-na-amazon-4/",
-      "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-19T23:34:39+00:00"
-    },
-    {
-      "id": "e6f1ae44f641af38",
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI…",
-      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-19T22:49:27+00:00"
     }
   ]
 }
