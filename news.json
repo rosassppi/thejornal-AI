@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-20T21:16:07.972484+00:00",
+  "generated_at": "2026-10-21T03:22:38.432010+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "b7d99106549a8187",
+      "title": "Fala AI: nova teoria pode ajudar cientistas a entender como a IA “pensa”",
+      "summary": "Roberto Pena Spinelli, colunista do Olhar Digital News, repercute um novo estudo que sugere como é o funcionamento interno de uma IA. O post Fala AI: nova teoria pode ajudar…",
+      "link": "https://olhardigital.com.br/2026/10/20/colunistas/fala-ai-nova-teoria-pode-ajudar-cientistas-a-entender-como-a-ia-pensa/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-21T01:10:53+00:00"
+    },
+    {
+      "id": "9a73f4d6937ae6af",
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-20T23:04:19+00:00"
+    },
+    {
+      "id": "2d2caae98728dfe7",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-20T23:01:23+00:00"
+    },
+    {
+      "id": "e7e49edf89452055",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't…",
+      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-20T22:24:02+00:00"
+    },
+    {
+      "id": "925e6a635cad1b6f",
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across…",
+      "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-20T22:11:34+00:00"
+    },
+    {
+      "id": "244c48fc443eebd5",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a…",
+      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-20T21:25:22+00:00"
+    },
     {
       "id": "3810e1e294eee925",
       "title": "Pessoas comuns usam IA para reprogramar Smart TVs e remover apps inúteis",
@@ -641,6 +707,17 @@
       "published_at": "2026-10-20T07:01:00+00:00"
     },
     {
+      "id": "aa8847d44cbae332",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "link": "https://openai.com/index/terminal-x",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-20T07:00:00+00:00"
+    },
+    {
       "id": "8c785f759e8084c4",
       "title": "Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second",
       "summary": "Inception released Mercury 3, a diffusion LLM it says runs at 1,068 tokens per second with a 1M-token context. On Inception’s own table it leads GPT-6 Luna and Claude Haiku 5.5 on…",
@@ -914,83 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-19T20:04:39+00:00"
-    },
-    {
-      "id": "f649037fa8e9c17e",
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’…",
-      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-19T19:28:34+00:00"
-    },
-    {
-      "id": "6410da4ca7a41988",
-      "title": "Governo dos EUA bane IA chinesa DeepSeek por risco de espionagem e malware",
-      "summary": "O Departamento de Segurança Interna dos Estados Unidos (DHS) determinou a remoção da inteligência artificial chinesa DeepSeek dos sistemas de todas as agências governamentais…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/governo-dos-eua-bane-ia-chinesa-deepseek-por-risco-de-espionagem-e-malware/",
-      "image": "https://tl.ctcdn.com.br/3znMYBPi5S1REf1XVU22f5z1VEg=/0x0/filters:format(webp):quality(85)/293f03e5-f006-4276-88b3-c2b4572031db.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-19T19:06:00+00:00"
-    },
-    {
-      "id": "7ab42e04cf3b71a3",
-      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-19T19:00:12+00:00"
-    },
-    {
-      "id": "347bd5ae4a1a313b",
-      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and…",
-      "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-19T18:49:04+00:00"
-    },
-    {
-      "id": "2b9227ae1c18986a",
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-19T18:37:27+00:00"
-    },
-    {
-      "id": "c93e63abfb94a4dc",
-      "title": "Making the internet better for AI agents might make it worse for everyone else",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet…",
-      "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-19T18:22:47+00:00"
-    },
-    {
-      "id": "e0ab2a2e4734ec53",
-      "title": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight",
-      "summary": "MiniMax's M3.1 Flash jumps 13 points over its predecessor to 42 on the Artificial Analysis Intelligence Index, at half the cost. It also hits 73.7 percent on the DeepSWE v1.1…",
-      "link": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/minimax.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-19T18:22:30+00:00"
     }
   ]
 }
