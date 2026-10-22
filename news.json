@@ -1,7 +1,172 @@
 {
-  "generated_at": "2026-10-22T03:21:50.760523+00:00",
+  "generated_at": "2026-10-22T11:10:50.988158+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "b1d722880a904f55",
+      "title": "Bolha? Anthropic expõe rombo de R$ 400 bilhões às vésperas de abrir capital na Bolsa",
+      "summary": "A Anthropic, criadora da inteligência artificial (IA) Claude, registrou um prejuízo líquido de US$ 80,7 bilhões (aproximadamente R$ 405 bilhões) no primeiro semestre de 2026. O…",
+      "link": "https://canaltech.com.br/mercado/bolha-anthropic-expoe-rombo-de-r-400-bilhoes-as-vesperas-de-abrir-capital-na-bolsa/",
+      "image": "https://tl.ctcdn.com.br/GeVucxq2cxWTFjBgDumBlE70oYY=/0x0/filters:format(webp):quality(85)/60c53e74-9ff4-4239-b082-6c5431dd3005.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-22T11:03:00+00:00"
+    },
+    {
+      "id": "69e867673d3f6284",
+      "title": "Eiliko maker says it’s hiring an ‘’independent security firm’ after Verge report on its insecure robots",
+      "summary": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but…",
+      "link": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-22T11:00:00+00:00"
+    },
+    {
+      "id": "58eb45efc08615ea",
+      "title": "Claude ganha agente 24×7 para brigar com ChatGPT, Google e Meta",
+      "summary": "Claude Duet tem navegador próprio para acessar a internet. Novidade está em fase de teste. Claude ganha agente 24×7 para brigar com ChatGPT, Google e Meta",
+      "link": "https://tecnoblog.net/noticias/claude-ganha-agente-24x7-para-brigar-com-chatgpt-google-e-meta/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/fb-68zqcsvs.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-22T10:38:29+00:00"
+    },
+    {
+      "id": "d5bb1e0bb869f3dd",
+      "title": "INMO GO3 desafia Meta com óculos inteligentes que protegem privacidade",
+      "summary": "Os novos óculos inteligentes INMO GO3 chegaram para desafiar a Meta, com telas MicroLED, inteligência artificial do Google Gemini e do ChatGPT e um recurso físico para proteger a…",
+      "link": "https://canaltech.com.br/produtos/inmo-go3-desafia-meta-com-oculos-inteligentes-que-protegem-privacidade/",
+      "image": "https://tl.ctcdn.com.br/2BzRDZHzM2JZz9BvUsN8rJk_NiQ=/0x0/filters:format(webp):quality(85)/a0aea1f4-a0d8-4879-87b2-05df152b40bf.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-22T10:17:24+00:00"
+    },
+    {
+      "id": "266ab0d2c3042c9f",
+      "title": "OpenAI agents analyze mouse brain data in 32 minutes, a job that would take humans months",
+      "summary": "OpenAI teamed up with PerturbAI and Scripps Research to deploy thousands of AI agents that analyzed biological data from millions of mouse cells. The article OpenAI agents analyze…",
+      "link": "https://the-decoder.com/openai-agents-analyze-mouse-brain-data-in-32-minutes-a-job-that-would-take-humans-months/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_orchestra_bio.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-22T10:01:53+00:00"
+    },
+    {
+      "id": "fec7036c87350b49",
+      "title": "Making the case for context-aware AI",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even…",
+      "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-22T10:00:00+00:00"
+    },
+    {
+      "id": "fb7079993439e302",
+      "title": "A próxima fase da IA não será definida por um único modelo",
+      "summary": "Por Paulo Silveira, cofundador e Chief Vision Officer (CVO) da AluraDurante os últimos anos, acompanhar a evolução da inteligência artificial significou acompanhar uma corrida…",
+      "link": "https://olhardigital.com.br/2026/10/22/inteligencia-artificial/a-proxima-fase-da-ia-nao-sera-definida-por-um-unico-modelo/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/vale-do-silicio-1024x422.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-22T09:00:00+00:00"
+    },
+    {
+      "id": "5ba1ec3db181cdc2",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves…",
+      "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/WD-MITTR-Infographic-Final@2x.png",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-22T08:41:18+00:00"
+    },
+    {
+      "id": "1b5147a9ed248a83",
+      "title": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\"",
+      "summary": "Anthropic has launched Claude Duet, a proactive AI agent that handles tasks on its own, even when the user is offline. The app is built on Claude Opus 5.5 and connects to services…",
+      "link": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/Claude-Duet.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-22T08:35:22+00:00"
+    },
+    {
+      "id": "8ac0fdd0b7707cb6",
+      "title": "Resumo do OD: tempestade de calor, IA “escapulindo” de novo, Meta é cobrada e mais",
+      "summary": "Falha grave no PHP, Anthropic e projeto para bloquear IA e novo código da DeepSeek O post Resumo do OD: tempestade de calor, IA “escapulindo” de novo, Meta é cobrada e mais…",
+      "link": "https://olhardigital.com.br/2026/10/22/ciencia-e-espaco/resumo-do-od-tempestade-de-calor-ia-escapulindo-de-novo-meta-e-cobrada-e-mais/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-22T08:00:00+00:00"
+    },
+    {
+      "id": "0e5fad3ca5f8a881",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "summary": "",
+      "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-22T07:51:31+00:00"
+    },
+    {
+      "id": "fe786b5104d0ead4",
+      "title": "IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation",
+      "summary": "IBM released Granite Speech 5.0 2B, an Apache 2.0 speech recognition and translation model. It ranks #2 on the Open ASR Leaderboard with 5.68% average English WER, alongside…",
+      "link": "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-22T07:00:56+00:00"
+    },
+    {
+      "id": "339b8d911d2d7a0f",
+      "title": "Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method",
+      "summary": "Perplexity and NVIDIA introduced JOLT, a post-training method that trains one model as both teacher and student. On MATH it matched GRPO’s accuracy with 6.5x fewer processed…",
+      "link": "https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-22T04:56:31+00:00"
+    },
+    {
+      "id": "7efdf89dd3e96ef2",
+      "title": "A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Base? Word Error Rate, Speed, Streaming, Timestamps, Keywords, and Speech-to-Tool Calls on a CPU",
+      "summary": "Explore a comprehensive coding guide benchmarking Cactus Compute's 16.9 MB speech model against Whisper base. Learn about word error rates, CPU speed, streaming latency, and…",
+      "link": "https://www.marktechpost.com/2026/10/21/cactus-whistle-vs-whisper-base-speech-to-text-benchmark-cpu-guide/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-22T04:17:37+00:00"
+    },
+    {
+      "id": "5997709387be1350",
+      "title": "NVIDIA Nsight Python Tutorial: How to Profile GPU Kernels",
+      "summary": "Discover NVIDIA Nsight Python, an open-source interface that allows developers to profile GPU kernels, analyze hardware metrics, evaluate cache and clock controls, and measure…",
+      "link": "https://www.marktechpost.com/2026/10/21/nvidia-nsight-python-tutorial-how-to-profile-gpu-kernels/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-22T03:59:12+00:00"
+    },
     {
       "id": "8d2d0448075e63e8",
       "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
@@ -826,171 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-10-21T00:00:00+00:00"
-    },
-    {
-      "id": "e270f5ba4688033d",
-      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-      "link": "https://openai.com/index/empowering-cyber-defenders",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-21T00:00:00+00:00"
-    },
-    {
-      "id": "9a73f4d6937ae6af",
-      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-20T23:04:19+00:00"
-    },
-    {
-      "id": "2d2caae98728dfe7",
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-20T23:01:23+00:00"
-    },
-    {
-      "id": "e7e49edf89452055",
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't…",
-      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-20T22:24:02+00:00"
-    },
-    {
-      "id": "925e6a635cad1b6f",
-      "title": "Google’s more personalized Gemini AI is heading to your car",
-      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across…",
-      "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-20T22:11:34+00:00"
-    },
-    {
-      "id": "244c48fc443eebd5",
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a…",
-      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-20T21:25:22+00:00"
-    },
-    {
-      "id": "3810e1e294eee925",
-      "title": "Pessoas comuns usam IA para reprogramar Smart TVs e remover apps inúteis",
-      "summary": "Uma nova tendência nas redes sociais mostra pessoas que usaram assistentes de IA, como o Claude, para remover anúncios e aplicativos desnecessários do sistema de Smart TVs com…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/pessoas-comuns-usam-ia-para-reprogramar-smart-tvs-e-remover-apps-inuteis/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-20T21:00:00+00:00"
-    },
-    {
-      "id": "23c7d3cfe76cb136",
-      "title": "SpaceX’s AI business is beating expectations",
-      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
-      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-20T20:40:41+00:00"
-    },
-    {
-      "id": "fb5a585d63d0a7f5",
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that…",
-      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-20T20:35:10+00:00"
-    },
-    {
-      "id": "2fdaca4673bd2db0",
-      "title": "Google Chrome vai exibir novo alerta para sites suspeitos",
-      "summary": "Navegador usa Gemini para identificar possíveis golpes e adiciona proteção contra comandos maliciosos. Google Chrome vai exibir novo alerta para sites suspeitos",
-      "link": "https://tecnoblog.net/noticias/google-chrome-vai-exibir-novo-alerta-para-sites-suspeitos/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/11/google-chrome-capa-4-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-20T20:35:06+00:00"
-    },
-    {
-      "id": "379ed475f59bcf1f",
-      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-      "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
-      "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2299491134-500x500-1792525443.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-20T20:07:58+00:00"
-    },
-    {
-      "id": "dd9b6b77d3f35083",
-      "title": "Amazon lança ferramenta para desafiar domínio da Nvidia em chips de IA",
-      "summary": "TorchNeuron permite executar aplicações desenvolvidas em PyTorch nos chips Trainium, da AWS, com mudança de configuração O post Amazon lança ferramenta para desafiar domínio da…",
-      "link": "https://olhardigital.com.br/2026/10/20/inteligencia-artificial/amazon-lanca-ferramenta-para-desafiar-dominio-da-nvidia-em-chips-de-ia/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-20T20:06:03+00:00"
-    },
-    {
-      "id": "72d71d8fa3cc53e3",
-      "title": "Perdido, chefão do Instagram diz que não sabe como combater deep fakes na plataforma",
-      "summary": "O chefe do Instagram, Adam Mosseri, admitiu que a rede social ainda não sabe como combater uma nova onda de vídeos falsos criados por inteligência artificial (IA). O problema…",
-      "link": "https://canaltech.com.br/mercado/perdido-chefao-do-instagram-diz-que-nao-sabe-como-combater-deep-fakes-na-plataforma/",
-      "image": "https://tl.ctcdn.com.br/WVxm0gq6DpH4kWHU6Ie01NeR0G0=/0x0/filters:format(webp):quality(85)/a4ef802a-3f75-4881-84ec-1f79e0292421.webp",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-20T20:02:00+00:00"
-    },
-    {
-      "id": "3fae25bc07477e49",
-      "title": "Gemini's Personal Intelligence is coming to cars",
-      "summary": "It's probably time to audit your Gemini settings.",
-      "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/google-gemini-android-auto-500x500.png",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-20T20:00:33+00:00"
-    },
-    {
-      "id": "d84f6e97d944df7e",
-      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-      "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services…",
-      "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-20T20:00:00+00:00"
     }
   ]
 }
