@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-21T21:16:23.444149+00:00",
+  "generated_at": "2026-10-22T03:21:50.760523+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "8d2d0448075e63e8",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-21T22:51:22+00:00"
+    },
+    {
+      "id": "c456f043e53d43f8",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-21T22:45:34+00:00"
+    },
+    {
+      "id": "51d79badd23f6887",
+      "title": "Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params",
+      "summary": "Recursive has released Flint, an Apache 2.0 local coding model with 40B total and 2.5B active parameters. It reports 74.2% on SWE-bench Verified and 125+ tokens per second on an…",
+      "link": "https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-21T22:39:41+00:00"
+    },
+    {
+      "id": "5fda1e1adb27276c",
+      "title": "Data centers could erase decades of air quality gains",
+      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-21T22:33:44+00:00"
+    },
+    {
+      "id": "18112f8ab0fd4a72",
+      "title": "Vercel Open-Sources durable-harness for Crash-Proof Coding Agents",
+      "summary": "Vercel released durable-harness, an open-source package that logs every model and tool call so Pi, OpenCode, Claude Code and Codex sessions resume after crashes, timeouts and…",
+      "link": "https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-21T22:15:39+00:00"
+    },
+    {
+      "id": "411376226aa7147e",
+      "title": "Chrome reforça IA para alertar usuários sobre golpes e lojas falsas",
+      "summary": "O Google Chrome ganhou uma nova medida de segurança para alertar sobre sites suspeitos . Agora, o navegador exibe um aviso na tela para sinalizar que uma página tem padrões…",
+      "link": "https://canaltech.com.br/seguranca/chrome-reforca-ia-para-alertar-usuarios-sobre-golpes-e-lojas-falsas/",
+      "image": "https://tl.ctcdn.com.br/EUM_zdEr1eL7jOxWyI1jaCd_hvE=/0x0/filters:format(webp):quality(85)/ac4b4e7d-95e1-4814-8a5f-70ac6d7dcc83.webp",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-21T22:00:05+00:00"
+    },
+    {
+      "id": "f99105f9949d392d",
+      "title": "DeepSeek libera código que faz IA rodar mais rápido gastando menos",
+      "summary": "Com o código do DeepInfer aberto, desenvolvedores podem adaptar o software da DeepSeek para otimizar a execução de modelos de IA O post DeepSeek libera código que faz IA rodar…",
+      "link": "https://olhardigital.com.br/2026/10/21/inteligencia-artificial/deepseek-libera-codigo-que-faz-ia-rodar-mais-rapido-gastando-menos/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/deepseek-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-21T21:33:26+00:00"
+    },
+    {
+      "id": "cdc94824f0231fc8",
+      "title": "Meta to create a new class of shares to fund AI push",
+      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock…",
+      "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-21T21:30:02+00:00"
+    },
     {
       "id": "40e4827a0c18ace8",
       "title": "Meta says Muse has over 10M users, with shopping a top activity",
@@ -23,6 +111,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-21T21:06:00+00:00"
+    },
+    {
+      "id": "3f1a11956436b167",
+      "title": "Broad access through consistent standards",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "link": "https://openai.com/index/broad-access-through-consistent-standards",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-21T21:00:00+00:00"
     },
     {
       "id": "d40817bd8696706a",
@@ -718,6 +817,17 @@
       "published_at": "2026-10-21T01:10:53+00:00"
     },
     {
+      "id": "3fe372fb2e8166f0",
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "link": "https://openai.com/index/cloudflare-cyber",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-21T00:00:00+00:00"
+    },
+    {
       "id": "e270f5ba4688033d",
       "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
       "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
@@ -881,116 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-10-20T20:00:00+00:00"
-    },
-    {
-      "id": "bb0d16ea745bbebf",
-      "title": "Destruído pela IA, maior site de decompilação de jogos antigos fecha as portas",
-      "summary": "O maior site de decompilação de jogos, o Decomp.dev , encerrará as atividades em definitivo. De acordo com os responsáveis, o grande vilão que os levou a fechar a página foi o…",
-      "link": "https://canaltech.com.br/games/destruido-pela-ia-maior-site-de-decompilacao-de-jogos-antigos-fecha-as-portas/",
-      "image": "https://tl.ctcdn.com.br/efxL_yEmMA8X66-c3SHnI8RLzDs=/0x0/filters:format(webp):quality(85)/4521b218-3d3d-4ff3-a257-5fc078855f7b.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-20T19:58:01+00:00"
-    },
-    {
-      "id": "1c8e4bfa8e83e1d8",
-      "title": "6G nem chegou e leilão no Brasil já provoca disputa; veja o que está em jogo",
-      "summary": "O 6G ainda está em desenvolvimento, mas a disputa pela faixa de frequência mais útil para a nova tecnologia no Brasil já demonstrou que operadoras de telecomunicações , emissoras…",
-      "link": "https://canaltech.com.br/telecom/6g-nem-chegou-e-leilao-no-brasil-ja-provoca-disputa-veja-o-que-esta-em-jogo/",
-      "image": "https://tl.ctcdn.com.br/Lqg34L7qSjI6hDISkfEpQ_oXzi8=/0x0/filters:format(webp):quality(85)/6334044b-640d-4f94-8703-70ddacf0d64a.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-20T19:58:00+00:00"
-    },
-    {
-      "id": "456344092c0a88ba",
-      "title": "Hora de imprimir mais e gastar menos: veja uma seleção de impressoras em promoção na Amazon",
-      "summary": "Se você está pensando em renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três modelos em destaque na Amazon — todos multifuncionais…",
-      "link": "https://olhardigital.com.br/2026/10/20/reviews/hora-de-imprimir-mais-e-gastar-menos-veja-uma-selecao-de-impressoras-em-promocao-na-amazon-6/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-20T19:57:56+00:00"
-    },
-    {
-      "id": "bd5f5cab217ce5e7",
-      "title": "Elon Musk diz que IA e robôs são única saída para dívida dos EUA",
-      "summary": "Bilionário afirma que cortes de gastos não são suficientes para equilibrar as contas estadunidenses O post Elon Musk diz que IA e robôs são única saída para dívida dos EUA…",
-      "link": "https://olhardigital.com.br/2026/10/20/pro/elon-musk-diz-que-ia-e-robos-sao-unica-saida-para-a-divida-dos-eua/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/01/musk_trump_2-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-20T19:37:56+00:00"
-    },
-    {
-      "id": "1ba3785934142221",
-      "title": "Brecha na IA da Meta expõe milhares de conversas e dados sigilosos dos usuários",
-      "summary": "A Meta interrompeu temporariamente o compartilhamento de conversas do Muse , seu novo agente de inteligência artificial (IA), após pesquisadores identificarem uma falha que pode…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/brecha-na-ia-da-meta-expoe-milhares-de-conversas-e-dados-sigilosos-dos-usuarios/",
-      "image": "https://tl.ctcdn.com.br/V8oDJkwKhNG6c0-SKMh2-GgTqmk=/0x0/filters:format(webp):quality(85)/57074658-0a0e-40c4-b881-cf16ee65c749.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-20T19:05:02+00:00"
-    },
-    {
-      "id": "2eb3a52bda810ce1",
-      "title": "Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations",
-      "summary": "Elevenlabs' new Eleven Realtime speech-to-speech models combine speed and accuracy. The v1 Max variant scores 98.8 percent on the Big Bench Audio benchmark with a 0.57-second…",
-      "link": "https://the-decoder.com/elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/elevenlabs.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-20T19:03:15+00:00"
-    },
-    {
-      "id": "6e40ccf594e89990",
-      "title": "Deepseek open-sources the inference engine that powers its fastest and cheapest AI model",
-      "summary": "Deepseek is open-sourcing DeepInfer, the inference framework behind its fast V4.1-Flash model. The vLLM-based system cuts compute costs and energy use when running AI models. The…",
-      "link": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/deepseek_deepseek_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-20T18:56:15+00:00"
-    },
-    {
-      "id": "61ce75599c83f81b",
-      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-20T18:38:24+00:00"
-    },
-    {
-      "id": "af34a6699219bf32",
-      "title": "ChatGPT now lets you lock your chats",
-      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when…",
-      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-20T18:36:53+00:00"
-    },
-    {
-      "id": "7b93b8c0d8e313e1",
-      "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
-      "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
-      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Ukraine-drone-evacuation-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-20T18:22:54+00:00"
     }
   ]
 }
