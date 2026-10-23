@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-10-23T03:26:51.740970+00:00",
+  "generated_at": "2026-10-23T11:02:19.182140+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "b3acc62841f0af0e",
+      "title": "Novo celular flip para idosos mistura funções básicas com assistente de IA",
+      "summary": "A HMD lançou no Reino Unido um celular flip para idosos que combina botões físicos, funções básicas e uma assistente de inteligência artificial (IA). O HMD 2660 Flip Senior…",
+      "link": "https://canaltech.com.br/smartphone/novo-celular-flip-para-idosos-mistura-funcoes-basicas-com-assistente-de-ia/",
+      "image": "https://tl.ctcdn.com.br/VZSfKc8TTBuqnhNDuWb-8XG_WPI=/0x0/filters:format(webp):quality(85)/1b1842a3-2756-4196-9751-81baad384a47.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-23T10:26:14+00:00"
+    },
+    {
+      "id": "0cc76a22a539792e",
+      "title": "OpenAI lowers valuation target, raises up to $30 billion",
+      "summary": "OpenAI is closing in on a new funding round of up to $30 billion but has lowered its valuation target to get there. The article OpenAI lowers valuation target, raises up to $30…",
+      "link": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/openai-scientific-software-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-23T09:49:38+00:00"
+    },
+    {
+      "id": "b603c957cf4f9fdc",
+      "title": "A era dos agentes de IA está mudando a Engenharia de Software. E isso é uma boa notícia para desenvolvedores",
+      "summary": "Por: Maurício Aniche, CTO e cofundador da AluraPor muito tempo, a produtividade em software esteve associada à capacidade de escrever código mais rápido. Novas linguagens…",
+      "link": "https://olhardigital.com.br/2026/10/23/inteligencia-artificial/a-era-dos-agentes-de-ia-esta-mudando-a-engenharia-de-software-e-isso-e-uma-boa-noticia-para-desenvolvedores/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-23T09:00:00+00:00"
+    },
+    {
+      "id": "cc068f3602f38313",
+      "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
+      "summary": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other…",
+      "link": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2196.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-23T08:58:47+00:00"
+    },
+    {
+      "id": "6621ba4b1c67cc03",
+      "title": "ChatGPT e outras IAs mudam resultados de testes de personalidade conforme o idioma",
+      "summary": "Estudo comparou cinco chatbots em inglês e mandarim e identificou diferenças nas respostas, além de divergências com os resultados de humanos O post ChatGPT e outras IAs mudam…",
+      "link": "https://olhardigital.com.br/2026/10/23/inteligencia-artificial/chatgpt-e-outras-ias-mudam-resultados-de-testes-de-personalidade-conforme-o-idioma/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/ia-1024x488.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-23T08:30:00+00:00"
+    },
+    {
+      "id": "d00610679fd4c468",
+      "title": "Resumo do OD: Falha no PHP, calor extremo, Meta investigada e mais",
+      "summary": "Trump ajuda Ucrânia com Starlink, OpenAI busca dinheiro no Oriente Médio e China de olho na fusão entre SpaceX e Tesla O post Resumo do OD: Falha no PHP, calor extremo, Meta…",
+      "link": "https://olhardigital.com.br/2026/10/23/seguranca/resumo-do-od-falha-no-php-calor-extremo-meta-investigada-e-mais/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-23T08:00:00+00:00"
+    },
+    {
+      "id": "e71ae8db0d64ab2e",
+      "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
+      "summary": "Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini…",
+      "link": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9e0.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-23T06:05:10+00:00"
+    },
+    {
+      "id": "e6e6de612820c5ce",
+      "title": "You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA",
+      "summary": "You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no…",
+      "link": "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-23T05:28:21+00:00"
+    },
+    {
+      "id": "cf51e24baa15d2e1",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-23T04:00:00+00:00"
+    },
     {
       "id": "fee5d6bca690475f",
       "title": "Left alone with nothing to do, AI agents started playing",
@@ -12,6 +111,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-10-23T00:45:37+00:00"
+    },
+    {
+      "id": "1a543055a02f9816",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-23T00:00:00+00:00"
     },
     {
       "id": "51888f116f5b0837",
@@ -881,116 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-21T21:06:00+00:00"
-    },
-    {
-      "id": "3f1a11956436b167",
-      "title": "Broad access through consistent standards",
-      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-      "link": "https://openai.com/index/broad-access-through-consistent-standards",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-21T21:00:00+00:00"
-    },
-    {
-      "id": "d40817bd8696706a",
-      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-      "summary": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
-      "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-21T20:57:40+00:00"
-    },
-    {
-      "id": "a578c4f9dc278e56",
-      "title": "IA revela falhas escondidas há mais de 10 anos no PHP; entenda a descoberta",
-      "summary": "Ferramentas de inteligência artificial (IA) ajudaram pesquisadores a descobrir como explorar falhas de segurança presentes no PHP há mais de uma década . As vulnerabilidades, que…",
-      "link": "https://canaltech.com.br/seguranca/ia-revela-falhas-escondidas-ha-mais-de-10-anos-no-php-entenda-a-descoberta/",
-      "image": "https://tl.ctcdn.com.br/8tCp-pVeRxKhmQYVFTArvd94nR8=/0x0/filters:format(webp):quality(85)/57be5b87-24fb-4c17-853e-b66460064cc3.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-21T20:45:00+00:00"
-    },
-    {
-      "id": "2596ce97a8cc5f8e",
-      "title": "Tesla vê lucro cair enquanto investe em IA e robôs",
-      "summary": "Montadora registrou lucro líquido de US$ 787 milhões no terceiro trimestre de 2026, enquanto amplia investimentos em inteligência artificial, robôs e direção autônoma O post Tesla…",
-      "link": "https://olhardigital.com.br/2026/10/21/pro/tesla-ve-lucro-cair-enquanto-investe-em-ia-e-robos/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-21T20:40:52+00:00"
-    },
-    {
-      "id": "05f8bddec86f25fa",
-      "title": "Meta aumenta previsão de gastos com IA para R$ 783 bilhões após receita crescer 26%",
-      "summary": "Empresa faturou R$ 349 bilhões no terceiro trimestre, mas lucro foi afetado por despesa jurídica de R$ 53,4 bilhões O post Meta aumenta previsão de gastos com IA para R$ 783…",
-      "link": "https://olhardigital.com.br/2026/10/21/pro/meta-aumenta-previsao-de-gastos-com-ia-para-r-783-bilhoes-apos-receita-crescer-26/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/meta-1-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-21T20:35:40+00:00"
-    },
-    {
-      "id": "37cae458eee7a8f7",
-      "title": "Tesla stars Optimus robot production in California as profit falls 43%",
-      "summary": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
-      "link": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-21T20:33:09+00:00"
-    },
-    {
-      "id": "b1ec87d705753567",
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-      "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-21T20:27:41+00:00"
-    },
-    {
-      "id": "243e43e85dd88d65",
-      "title": "Nova IA da Anthropic prepara relatórios, monitora e-mails e navega na web",
-      "summary": "Recurso está sendo disponibilizado gradualmente, em versão de testes O post Nova IA da Anthropic prepara relatórios, monitora e-mails e navega na web apareceu primeiro em Olhar…",
-      "link": "https://olhardigital.com.br/2026/10/21/inteligencia-artificial/nova-ia-da-anthropic-prepara-relatorios-monitora-e-mails-e-navega-na-web/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/anthropic-1-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-21T20:05:51+00:00"
-    },
-    {
-      "id": "258d5ff776fa8f13",
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-21T19:53:20+00:00"
-    },
-    {
-      "id": "543ca2ad9127cb4e",
-      "title": "GM is betting compute and AI will help it compete with Chinese automakers",
-      "summary": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in…",
-      "link": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-21T19:52:20+00:00"
     }
   ]
 }
