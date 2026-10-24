@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-23T21:00:17.747837+00:00",
+  "generated_at": "2026-10-24T03:21:19.266021+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "0a12bc5bb0bcc02a",
+      "title": "OpenAI corta internet de suas IAs mais avançadas após falhas de segurança",
+      "summary": "Companhia explicou que reforçou os mecanismos de isolamento de seus ambientes de pesquisa e criou um sistema offline O post OpenAI corta internet de suas IAs mais avançadas após…",
+      "link": "https://olhardigital.com.br/2026/10/23/inteligencia-artificial/openai-corta-internet-de-suas-ias-mais-avancadas-apos-falhas-de-seguranca/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-OpenAI-AGI-scaled-1-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-24T00:31:42+00:00"
+    },
+    {
+      "id": "65c48100f5c9c2d1",
+      "title": "Gemini agora permite publicar miniaplicativos direto no Google Sites",
+      "summary": "O Google anunciou uma nova integração que permite transformar aplicativos criados pelo Gemini em sites disponíveis na internet. Com a novidade, divulgada na segunda-feira (19), os…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-agora-permite-publicar-miniaplicativos-direto-no-google-sites/",
+      "image": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-24T00:07:00+00:00"
+    },
+    {
+      "id": "afb4fd3dff820aa9",
+      "title": "Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms",
+      "summary": "Kyutai released CADRE, a family of 7 open causal diffusion video autoencoders for interactive world models. World models built on CADRE run at 20 fps on 1 H100 and react in under…",
+      "link": "https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-23T23:26:53+00:00"
+    },
+    {
+      "id": "dfe5fb536ca517ba",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-23T23:05:49+00:00"
+    },
+    {
+      "id": "d5d2351445b8d8cf",
+      "title": "Canva lança gerador de imagens próprio que cria artes editáveis em camadas",
+      "summary": "O Canva lançou seu primeiro modelo de IA, chamado “Canva Craft”, para gerar imagens com elementos editáveis em camadas. As artes geradas têm resolução de até 2K e suporte a mais…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/canva-lanca-gerador-de-imagens-proprio-que-cria-artes-editaveis-em-camadas/",
+      "image": "https://tl.ctcdn.com.br/98kJYXeSo1wxs2syH9RrImGOqwE=/0x0/filters:format(webp):quality(85)/11d69c06-56ad-45cc-b54e-aef364d03265.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-23T23:04:00+00:00"
+    },
+    {
+      "id": "35297dc8974a4a09",
+      "title": "Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context",
+      "summary": "Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open…",
+      "link": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-23T22:52:40+00:00"
+    },
+    {
+      "id": "739797ca19c060e4",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-23T21:59:19+00:00"
+    },
+    {
+      "id": "dfab13c0bc001865",
+      "title": "Sua casa mais limpa sem esforço: aspiradores robô em promoção na Amazon",
+      "summary": "Manter a casa limpa ficou muito mais fácil com os aspiradores robô — e agora dá para garantir um desses dispositivos inteligentes com ótimas condições na Amazon. Reunimos três…",
+      "link": "https://olhardigital.com.br/2026/10/23/reviews/sua-casa-mais-limpa-sem-esforco-aspiradores-robo-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/21ScH4ZeIFL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-23T21:34:43+00:00"
+    },
+    {
+      "id": "a6d2d5fdb7657f8a",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-23T21:11:07+00:00"
+    },
+    {
+      "id": "8e3338839ecb1e4e",
+      "title": "Como são feitos os vídeos de IA que trocam pessoas?",
+      "summary": "As redes sociais ficaram repletas de memes nas últimas semanas em que figuras famosas são inseridas em vídeos populares. A tendência usa IA para trocar os personagens e ainda…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-sao-feitos-os-videos-de-ia-que-trocam-pessoas/",
+      "image": "https://tl.ctcdn.com.br/9kJIpte2HANy-4OUWnAPrZaubco=/0x0/filters:format(webp):quality(85)/94a10887-be12-46a2-a8d4-48448f8dd02a.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-23T21:00:04+00:00"
+    },
     {
       "id": "7be3008f9053e2be",
       "title": "Updated Google privacy policy says your Gmail might be used for advertising",
@@ -881,116 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-22T15:12:27+00:00"
-    },
-    {
-      "id": "8fc3f039a6d3464c",
-      "title": "Microsoft deixa Windows 11 mais limpo com remoção de 8 botões do Copilot",
-      "summary": "A Microsoft removeu oito botões do assistente de IA Copilot no Explorador de Arquivos . A mudança tem o objetivo de simplificar a experiência no Windows 11 e reduzir a exposição…",
-      "link": "https://canaltech.com.br/software/microsoft-deixa-windows-11-mais-limpo-com-remocao-de-8-botoes-do-copilot/",
-      "image": "https://tl.ctcdn.com.br/cLMJ_yRmBiEZtTGGztp4CdQUUpE=/0x0/filters:format(webp):quality(85)/84197627-879b-4d5e-8e38-cda901b541e8.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-22T15:09:00+00:00"
-    },
-    {
-      "id": "78de0a5236401fb7",
-      "title": "Spotify’s current AI bet is about being the music service that agents choose",
-      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-      "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-22T15:03:58+00:00"
-    },
-    {
-      "id": "86eb0eb60dc1d9b0",
-      "title": "Recursive shows first result of its AI-driven research process with Flint",
-      "summary": "The AI startup Recursive is unveiling Flint, its first language model, a 40-billion-parameter MoE for local coding developed by former DeepMind researchers. It was created in four…",
-      "link": "https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/recursive-flint-header-1.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-22T14:40:16+00:00"
-    },
-    {
-      "id": "a4e8db80ff25f669",
-      "title": "VAIO FE16 estreia no Brasil como AI PC \"barato\" em momento de crise; conheça",
-      "summary": "A VAIO anunciou oficialmente a chegada da nova geração do VAIO FE16 ao mercado brasileiro, ampliando o seu portfólio de AI PCs. Fabricado no país pela Positivo Tecnologia desde…",
-      "link": "https://canaltech.com.br/notebook/vaio-fe16-estreia-no-brasil-como-ai-pc-barato-em-momento-de-crise-conheca/",
-      "image": "https://tl.ctcdn.com.br/HWMe5YZB7MUnE8kBWiqNY7UsrPU=/0x0/filters:format(webp):quality(85)/f0831e7e-1bd3-4a62-b9f9-170afb342640.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-22T14:03:00+00:00"
-    },
-    {
-      "id": "3a31f01f745540bb",
-      "title": "Em 2 semanas, IA da OpenAI resolveu falha no PHP que programadores tentavam decifrar há 2 anos",
-      "summary": "Uma equipe de pesquisadores conseguiu, com ajuda do GPT-5.6 Sol, da OpenAI, demonstrar em cerca de duas semanas como explorar uma falha crítica de segurança do PHP que permanecia…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/em-2-semanas-ia-da-openai-resolveu-falha-no-php-que-programadores-tentavam-decifrar-ha-2-anos/",
-      "image": "https://tl.ctcdn.com.br/OrpRO3hPT2qPodkkG_EwGxC-DOk=/0x0/filters:format(webp):quality(85)/d53ba5d9-039c-4be6-ab36-a56734ece4bd.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-22T14:02:00+00:00"
-    },
-    {
-      "id": "f790f518b7407f12",
-      "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-      "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on…",
-      "link": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bill_Gates_NQuamina-Woo_0007_a8ca1f.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-22T14:00:00+00:00"
-    },
-    {
-      "id": "832ac47bcb49fb13",
-      "title": "Claude Duet app is Anthropic’s bet on agents",
-      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
-      "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-22T13:53:26+00:00"
-    },
-    {
-      "id": "13578360dd8cd764",
-      "title": "Nirva raises $33M for a pendant that only listens to you",
-      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-      "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-22T13:26:52+00:00"
-    },
-    {
-      "id": "abde820d84b658b3",
-      "title": "Anthropic lança Claude Duet, IA que cuida de tarefas e e-mails enquanto você dorme",
-      "summary": "A Anthropic anunciou, na quarta-feira (21), o Claude Duet , um novo aplicativo de inteligência artificial (IA) capaz de executar tarefas, organizar e-mails e acompanhar…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/anthropic-lanca-claude-duet-ia-que-cuida-de-tarefas-e-e-mails-enquanto-voce-dorme/",
-      "image": "https://tl.ctcdn.com.br/YDdB1Dh73E1XrURn02Lnouf2dcc=/0x0/filters:format(webp):quality(85)/1b935e5e-508f-4a44-9cc3-80b13624a51b.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-22T13:11:24+00:00"
-    },
-    {
-      "id": "812abe3aa79b8afb",
-      "title": "DeepSeek reportedly raises $15B days after US restrictions",
-      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national…",
-      "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-22T13:11:13+00:00"
     }
   ]
 }
