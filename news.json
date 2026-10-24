@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-24T15:24:14.095061+00:00",
+  "generated_at": "2026-10-24T20:15:04.058248+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "05b75d24443ee37a",
+      "title": "Como se proteger de golpes feitos com IA?",
+      "summary": "A inteligência artificial (IA) tornou os golpes digitais mais convincentes . Os criminosos usam as capacidades da IA de imitar vozes, criar vídeos falsos e produzir mensagens que…",
+      "link": "https://canaltech.com.br/seguranca/como-se-proteger-de-golpes-feitos-com-ia/",
+      "image": "https://tl.ctcdn.com.br/GuHlIeHlJF65Bn9SHhUgVZ5n7Pk=/0x0/filters:format(webp):quality(85)/1846c6a3-4788-41d5-9a18-a48a3f18c13d.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-24T19:30:04+00:00"
+    },
+    {
+      "id": "43fa73ddaf377eb5",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-24T19:00:00+00:00"
+    },
+    {
+      "id": "779da1203e4350c3",
+      "title": "O que é e como funciona a Conta Meta no WhatsApp, Instagram e Facebook?",
+      "summary": "A Conta Meta é uma nova forma de login unificado nas plataformas da empresa, como Instagram, Facebook, WhatsApp, Meta AI e os sistemas dos óculos inteligentes. A credencial traz…",
+      "link": "https://canaltech.com.br/apps/o-que-e-e-como-funciona-a-conta-meta-no-whatsapp-instagram-e-facebook/",
+      "image": "https://tl.ctcdn.com.br/MHu49zMPET5hsfVdOUuePc54BwI=/0x0/filters:format(webp):quality(85)/8410f5d7-fdbe-44a2-8979-2caf9fcad650.webp",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-24T19:00:00+00:00"
+    },
+    {
+      "id": "c7aa9b7dfeaf83bd",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-24T18:32:21+00:00"
+    },
+    {
+      "id": "7031b80d1f493035",
+      "title": "Canva Craft: conheça a IA que planeja o layout antes de gerar a imagem",
+      "summary": "Gerador exclusivo do Canva cria imagens com arquitetura inédita focada em design O post Canva Craft: conheça a IA que planeja o layout antes de gerar a imagem apareceu primeiro em…",
+      "link": "https://olhardigital.com.br/2026/10/24/internet-e-redes-sociais/canva-craft-conheca-a-ia-que-planeja-o-layout-antes-de-gerar-a-imagem/",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/10/canva-craft-2-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-24T18:30:39+00:00"
+    },
     {
       "id": "45966a847299ab5b",
       "title": "Three fired OpenAI safety researchers say they were never told what they actually leaked",
@@ -936,61 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-22T18:26:02+00:00"
-    },
-    {
-      "id": "ee144e79e7d9cf21",
-      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents…",
-      "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-22T18:15:00+00:00"
-    },
-    {
-      "id": "5ddee939d5fa55a3",
-      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-      "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-22T18:00:00+00:00"
-    },
-    {
-      "id": "cd9eddb136ec6aac",
-      "title": "Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine",
-      "summary": "With Agent Compute Engine, Google is introducing a runtime environment designed specifically for AI agents, while also expanding the governance capabilities that enable companies…",
-      "link": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/06/google_logo_wall-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-22T17:50:09+00:00"
-    },
-    {
-      "id": "0175a45472aa3ca6",
-      "title": "Xbox testa venda de horas para jogar na nuvem sem o Game Pass",
-      "summary": "Pacotes custam até US$ 11,99 para 50 horas de jogo. Microsoft ainda não informou os preços para o Brasil. Xbox testa venda de horas para jogar na nuvem sem o Game Pass",
-      "link": "https://tecnoblog.net/noticias/xbox-game-pass-testa-venda-de-horas-para-jogar-na-nuvem-sem-assinatura/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/04/xbox-s_capa-1_tb-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-22T17:40:54+00:00"
-    },
-    {
-      "id": "bcb7aae5f14dbfc1",
-      "title": "Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs",
-      "summary": "Liquid AI released RIPL, a real-time inference engine for its LFM models. On one B200, LFM2.5-1.2B on RIPL showed 14.4 to 28.4x lower p95 latency than Qwen3.5-0.8B on vLLM. The…",
-      "link": "https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-22T17:33:25+00:00"
     }
   ]
 }
