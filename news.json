@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-10-24T10:18:36.493466+00:00",
+  "generated_at": "2026-10-24T15:24:14.095061+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "45966a847299ab5b",
+      "title": "Three fired OpenAI safety researchers say they were never told what they actually leaked",
+      "summary": "The three OpenAI safety researchers who were fired, Tomek Korbak, Mikita Balesni, and Jasmine Wang, are publicly pushing back against allegations from their former employer. They…",
+      "link": "https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_fired_researchers.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-24T15:19:33+00:00"
+    },
+    {
+      "id": "e7a80d87e8606cee",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500…",
+      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-24T15:00:00+00:00"
+    },
+    {
+      "id": "0d4f165cdbad6418",
+      "title": "AI makes junior patent attorneys instantly better but may quietly stunt their professional growth",
+      "summary": "A three-month field experiment with 133 patent attorneys shows that AI boosts immediate performance, with junior lawyers gaining the most. But when the AI is taken away, only…",
+      "link": "https://the-decoder.com/ai-makes-junior-patent-attorneys-instantly-better-but-may-quietly-stunt-their-professional-growth/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/patent-lawyers-nber-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-24T14:34:05+00:00"
+    },
+    {
+      "id": "3f2ee2d5e634e272",
+      "title": "Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss",
+      "summary": "Block, the company behind Square and Cash App, has introduced Dessa, a speech model that processes audio directly instead of converting it to text first. Dessa is designed to…",
+      "link": "https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/dessa_block.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-24T14:09:46+00:00"
+    },
+    {
+      "id": "ba1e969f5ed16b52",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-24T14:00:00+00:00"
+    },
+    {
+      "id": "4afe8faa8d1a6d9f",
+      "title": "A rejeição do uso de IA em jogos contra seu uso no desenvolvimento de hardware",
+      "summary": "Enquanto jogadores e desenvolvedores reagem com força à IA na arte e na narrativa, a mesma tecnologia já projeta as GPUs que rodam esses jogos, sem gerar polêmica. O post A…",
+      "link": "https://olhardigital.com.br/2026/10/24/games-e-consoles/a-rejeicao-do-uso-de-ia-em-jogos-contra-seu-uso-no-desenvolvimento-de-hardware/",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/10/nvidia-dlss-5-1024x538.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-24T14:00:00+00:00"
+    },
+    {
+      "id": "efee672d03341e20",
+      "title": "Como compartilhar o seu perfil no ChatGPT",
+      "summary": "A OpenAI começou a disponibilizar perfis compartilháveis no ChatGPT , uma página que reúne informações sobre o usuário, atividades e criações na plataforma. O recurso funciona…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-compartilhar-perfil-chatgpt/",
+      "image": "https://tl.ctcdn.com.br/nUUEKzRg_gKZCbV-HkLqHaJGVUs=/0x0/filters:format(webp):quality(85)/bfb89b54-d2e8-45a2-9c96-eecf0f26b8b1.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-24T11:30:05+00:00"
+    },
+    {
+      "id": "2d7458168c2cc9a9",
+      "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+      "summary": "OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open internet…",
+      "link": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-24T11:12:36+00:00"
+    },
+    {
+      "id": "8ef02502c907ef69",
+      "title": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
+      "summary": "Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI tools with Seatbelt…",
+      "link": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-24T11:12:27+00:00"
+    },
+    {
+      "id": "c54e1148b38fead6",
+      "title": "O que são os TOPS dos chips de IA?",
+      "summary": "Se você acompanhou os últimos lançamentos de hardware, certamente reparou na presença insistente de uma sigla (nova para muitos) nas fichas técnicas: TOPS . Promovida por gigantes…",
+      "link": "https://canaltech.com.br/hardware/o-que-sao-os-tops-dos-chips-de-ia/",
+      "image": "https://tl.ctcdn.com.br/cm2hUEOqnSfnPX03jQNE-bIupc4=/0x0/filters:format(webp):quality(85)/9e59a084-7341-41e4-bda5-60b59a04983e.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-24T11:00:06+00:00"
+    },
+    {
+      "id": "504cbe836c06fe65",
+      "title": "Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
+      "summary": "Discover how to extend agentic memory beyond basic prompts by building a stateful engineering copilot with Letta. This comprehensive guide covers inspectable core memory, archival…",
+      "link": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9e0.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-24T10:29:31+00:00"
+    },
     {
       "id": "5f86a6c45691810e",
       "title": "Resumo da semana: eleições, IA e os próximos passos da exploração espacial",
@@ -870,127 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-10-22T17:33:25+00:00"
-    },
-    {
-      "id": "dc5288d7890a5e58",
-      "title": "Xiaomi cria máquina para quem vive reclamando de dor nas costas",
-      "summary": "A Xiaomi lançou um novo massageador inteligente para quem vive reclamando de dor nas costas ou sente desconforto após passar muito tempo sentado. O dispositivo da linha Mijia…",
-      "link": "https://canaltech.com.br/produtos/xiaomi-cria-maquina-para-quem-vive-reclamando-de-dor-nas-costas/",
-      "image": "https://tl.ctcdn.com.br/ExRJTXKQxLMVUIUgfikzQipygdM=/0x0/filters:format(webp):quality(85)/e0460902-0d6e-44f2-8f57-fed2183e84b3.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-22T17:31:24+00:00"
-    },
-    {
-      "id": "c7b5ab6ad70c88c9",
-      "title": "Someone hacked the Switch 2 by using an old game and AI",
-      "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters…",
-      "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-22T17:21:31+00:00"
-    },
-    {
-      "id": "71887ba17dbae591",
-      "title": "IA da OpenAI acha em 32 minutos pistas sobre doença similar ao Parkinson",
-      "summary": "Uma equipe de pesquisadores utilizou quase 2 mil agentes de inteligência artificial (IA) da OpenAI para analisar dados de milhões de células cerebrais e identificar, em 32…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/ia-da-openai-acha-em-32-minutos-pistas-sobre-doenca-similar-ao-parkinson/",
-      "image": "https://tl.ctcdn.com.br/28DMqV8TGvohJkaqdqNGus4tvko=/0x0/filters:format(webp):quality(85)/c0894921-89f1-4bcc-a078-5f7449ea56f6.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-22T17:02:00+00:00"
-    },
-    {
-      "id": "b787af981845bf20",
-      "title": "Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0",
-      "summary": "Gradium has open-sourced Phonon, a family of on-device text-to-speech models. The English Phonon 31m ships under Apache 2.0, fits in 64.5 MB, and starts speaking in about 7 ms on…",
-      "link": "https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-22T16:56:12+00:00"
-    },
-    {
-      "id": "6af0fd42e696c932",
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-      "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-22T16:47:17+00:00"
-    },
-    {
-      "id": "d5f366efb3e03a28",
-      "title": "Cohere Releases Rerank 5 With Passage-Level Context Focus and Calibrated Scores",
-      "summary": "Cohere Rerank 5 ships in Pro and Fast tiers with a 32K context window, Context Focus passage extraction and calibrated relevance scores. Pro scores 82.2 on BRIGHT and costs $0.05…",
-      "link": "https://www.marktechpost.com/2026/10/22/cohere-rerank-5-context-focus/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-22T16:31:31+00:00"
-    },
-    {
-      "id": "e71e748bf099d254",
-      "title": "Only 13 percent of companies see real returns from AI, Gartner survey finds",
-      "summary": "Only 13 percent of companies are getting real business value from their AI investments, according to a Gartner survey of 2,002 CIOs. At the same time, 51 percent expect AI to…",
-      "link": "https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/ai_value.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-22T16:18:02+00:00"
-    },
-    {
-      "id": "6d8c30677ef69bab",
-      "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
-      "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five…",
-      "link": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/WILDWOOD-Curtis-Alexandra-Still-Credit_-LAIKA.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-22T16:16:15+00:00"
-    },
-    {
-      "id": "251f2ddc6210001c",
-      "title": "A Developer’s Guide to OmniParseBench: Leaderboard Benchmarks and OCR Testing",
-      "summary": "Explore how to audit and rebuild Datalab's OmniParseBench, test parser ranking certainty with document-level bootstrapping, and evaluate Tesseract and Indra OCR performance on a…",
-      "link": "https://www.marktechpost.com/2026/10/22/omniparsebench-document-parsing-leaderboard-guide/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-22T16:11:52+00:00"
-    },
-    {
-      "id": "67297d2df9a3d7f1",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "summary": "",
-      "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-22T16:11:31+00:00"
-    },
-    {
-      "id": "9fdd22fa30fbdf82",
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "summary": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
-      "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-22T16:00:00+00:00"
     }
   ]
 }
