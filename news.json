@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-10-25T03:16:24.672486+00:00",
+  "generated_at": "2026-10-25T10:45:22.682465+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "43ff7f893a77336b",
+      "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra",
+      "summary": "Nvidia's new data engine Flora labels one hour of robot video for 72 cents instead of $88 with GPT-6 Astra, while scoring slightly higher on quality. The open system, built on…",
+      "link": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/nvidia-flora-hero-robot-hands.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-25T10:08:49+00:00"
+    },
+    {
+      "id": "0b9ccb1bd3f5be5c",
+      "title": "Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027",
+      "summary": "A new benchmark by P-Zero Research measures how well AI models design and evaluate experiments on their own. The results are improving so fast that Anthropic co-founder Jack Clark…",
+      "link": "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/tasteval_and_rsi.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-25T09:37:46+00:00"
+    },
+    {
+      "id": "e9d8df9f444b5112",
+      "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
+      "summary": "Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture comparison, the single-agent…",
+      "link": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/claude_claude_baby_logos.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-25T09:12:10+00:00"
+    },
+    {
+      "id": "2845f78f57dc7556",
+      "title": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
+      "summary": "In Foreign Affairs, historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires and every other country as a…",
+      "link": "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/ai_empires.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-25T08:09:32+00:00"
+    },
+    {
+      "id": "18f084486e3a0b28",
+      "title": "Smartphone, óculos inteligentes… O que pode e o que não pode entrar na cabine de votação?",
+      "summary": "Regra valeu para o 1º turno e também para o 2º turno, a ser realizado neste domingo (25) O post Smartphone, óculos inteligentes… O que pode e o que não pode entrar na cabine de…",
+      "link": "https://olhardigital.com.br/2026/10/25/pro/smartphone-oculos-inteligentes-o-que-pode-e-o-que-nao-pode-entrar-na-cabine-de-votacao/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/02/e-titulo-de-eleitor-app-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-25T08:00:00+00:00"
+    },
+    {
+      "id": "d53292555cf319cb",
+      "title": "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers",
+      "summary": "OpenAI is poaching Anthropic's customers with steep discounts. Companies like Rippling, Replit, and DataCamp say they've cut AI costs by up to 90 percent after switching…",
+      "link": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_anthropic.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-25T07:30:11+00:00"
+    },
+    {
+      "id": "a541c6872bc67465",
+      "title": "Eleições 2026: os planos de Lula e Flávio Bolsonaro para IA, data center, soberania, terras raras, clima e energia",
+      "summary": "Confira o raio-X do Olhar Digital nos planos de governo de Lula e Flávio Bolsonaro para essas áreas com a análise de especialistas O post Eleições 2026: os planos de Lula e Flávio…",
+      "link": "https://olhardigital.com.br/2026/10/25/pro/eleicoes-2026-os-planos-de-lula-e-flavio-bolsonaro-para-ia-data-center-soberania-terras-raras-clima-e-energia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/IA-terras-raras-clima-energia-1024x571.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-25T07:00:00+00:00"
+    },
+    {
+      "id": "668f44f9f0601dfc",
+      "title": "OpenMobile-2 proves open-source smartphone agents can rival proprietary models",
+      "summary": "Smartphone agents don't get better by processing more data. They improve by training on as many different apps as possible. The researchers behind OpenMobile-2 built an open…",
+      "link": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/open-mobile-2-smartphone-app-training-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-25T06:55:22+00:00"
+    },
+    {
+      "id": "c3d9f6d9097b95e4",
+      "title": "Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents",
+      "summary": "Microsoft Research open-sourced Agensh, a multi-agent harness with no central orchestrator. Self-organizing workers share a Git repo, chat and a findings board, scaling from 1 to…",
+      "link": "https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-25T03:32:59+00:00"
+    },
     {
       "id": "8da4f6934ff86b73",
       "title": "Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats",
@@ -892,105 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-22T21:20:14+00:00"
-    },
-    {
-      "id": "c8127c2e57511fe8",
-      "title": "Designing an AI serving harness built to last",
-      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several…",
-      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2188328005_9f1d59-e1791493652782.jpg?w=840",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-22T21:17:29+00:00"
-    },
-    {
-      "id": "e12cae2a65e12310",
-      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
-      "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
-      "link": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-22T21:05:05+00:00"
-    },
-    {
-      "id": "32b3170e24109d9a",
-      "title": "Meta’s AI could still scrape news sites, legal experts say",
-      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes…",
-      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-22T20:32:05+00:00"
-    },
-    {
-      "id": "058e0dd550b6e965",
-      "title": "Impressoras em promoção na Amazon: selecionamos as melhores opções para casa e escritório",
-      "summary": "Se você está precisando de uma impressora nova — seja para trabalhar em casa, estudar ou usar no escritório —, a Amazon reúne algumas das melhores opções do mercado com condições…",
-      "link": "https://olhardigital.com.br/2026/10/22/reviews/impressoras-em-promocao-na-amazon-selecionamos-as-melhores-opcoes-para-casa-e-escritorio/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-22T20:27:09+00:00"
-    },
-    {
-      "id": "50dd0c98f11d38b5",
-      "title": "Meta turns Muse sharing back on",
-      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse…",
-      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-22T20:24:04+00:00"
-    },
-    {
-      "id": "1c3f6e8b2704e3fb",
-      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-      "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-22T19:45:00+00:00"
-    },
-    {
-      "id": "264af0525447e45c",
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-22T19:07:09+00:00"
-    },
-    {
-      "id": "891b7e0bbf66f86d",
-      "title": "Build more responsive apps with the Decisions API",
-      "summary": "Fast, focused, low-cost decisions for any application.",
-      "link": "https://openai.com/index/decisions-api",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-22T19:00:00+00:00"
-    },
-    {
-      "id": "9053b1f287d8b411",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-22T19:00:00+00:00"
     }
   ]
 }
