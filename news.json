@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-25T15:34:32.963656+00:00",
+  "generated_at": "2026-10-25T20:23:26.001285+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "6eded86861bec8b0",
+      "title": "Anthropic prepara IPO bilionário enquanto empresas de IA adiam estreia na bolsa",
+      "summary": "Instabilidade do mercado, juros elevados e dúvidas sobre os gastos com IA estão levando outras companhias a rever planos de abertura de capital O post Anthropic prepara IPO…",
+      "link": "https://olhardigital.com.br/2026/10/25/pro/anthropic-prepara-ipo-bilionario-enquanto-empresas-de-ia-adiam-estreia-na-bolsa/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/anthropic-1-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-25T18:12:19+00:00"
+    },
+    {
+      "id": "a26c7b5179c53745",
+      "title": "O que acontece quando envio uma foto minha para uma IA?",
+      "summary": "Muitas trends nas redes sociais incentivam o usuário a enviar uma foto pessoal nos chatbots de IA , seja para gerar uma caricatura, transformar retratos em ilustrações ou gerar…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-acontece-quando-envio-uma-foto-minha-para-uma-ia/",
+      "image": "https://tl.ctcdn.com.br/GuHlIeHlJF65Bn9SHhUgVZ5n7Pk=/0x0/filters:format(webp):quality(85)/1846c6a3-4788-41d5-9a18-a48a3f18c13d.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-25T18:00:00+00:00"
+    },
+    {
+      "id": "9a814be9eb368823",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-25T16:57:32+00:00"
+    },
+    {
+      "id": "013be2cf043aa42e",
+      "title": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time",
+      "summary": "Hugging Face released Carbon-X, an open 14.8B DNA language model built on Qwen3-14B. It reads raw DNA in chat, answers in English, and averages 66.7% across 5 DNA benchmarks under…",
+      "link": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-25T16:53:40+00:00"
+    },
+    {
+      "id": "f84645de29731d15",
+      "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-25T16:05:00+00:00"
+    },
     {
       "id": "a18a7851efbde35c",
       "title": "The hottest AI wearables and gadgets you should know about",
@@ -936,61 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-23T09:00:00+00:00"
-    },
-    {
-      "id": "cc068f3602f38313",
-      "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
-      "summary": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other…",
-      "link": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2196.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-23T08:58:47+00:00"
-    },
-    {
-      "id": "6621ba4b1c67cc03",
-      "title": "ChatGPT e outras IAs mudam resultados de testes de personalidade conforme o idioma",
-      "summary": "Estudo comparou cinco chatbots em inglês e mandarim e identificou diferenças nas respostas, além de divergências com os resultados de humanos O post ChatGPT e outras IAs mudam…",
-      "link": "https://olhardigital.com.br/2026/10/23/inteligencia-artificial/chatgpt-e-outras-ias-mudam-resultados-de-testes-de-personalidade-conforme-o-idioma/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/ia-1024x488.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-23T08:30:00+00:00"
-    },
-    {
-      "id": "d00610679fd4c468",
-      "title": "Resumo do OD: Falha no PHP, calor extremo, Meta investigada e mais",
-      "summary": "Trump ajuda Ucrânia com Starlink, OpenAI busca dinheiro no Oriente Médio e China de olho na fusão entre SpaceX e Tesla O post Resumo do OD: Falha no PHP, calor extremo, Meta…",
-      "link": "https://olhardigital.com.br/2026/10/23/seguranca/resumo-do-od-falha-no-php-calor-extremo-meta-investigada-e-mais/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-23T08:00:00+00:00"
-    },
-    {
-      "id": "e71ae8db0d64ab2e",
-      "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
-      "summary": "Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini…",
-      "link": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9e0.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-23T06:05:10+00:00"
-    },
-    {
-      "id": "e6e6de612820c5ce",
-      "title": "You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA",
-      "summary": "You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no…",
-      "link": "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-23T05:28:21+00:00"
     }
   ]
 }
