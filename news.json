@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-25T10:45:22.682465+00:00",
+  "generated_at": "2026-10-25T15:34:32.963656+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "a18a7851efbde35c",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-25T14:10:00+00:00"
+    },
+    {
+      "id": "004f0a055017e84d",
+      "title": "NASA quer levar supercomputador com IA para testar navegação autônoma na Lua",
+      "summary": "O Spaceborne Computer-4 deverá analisar imagens da Lua, processar mapas e evitar crateras sem depender de GPS O post NASA quer levar supercomputador com IA para testar navegação…",
+      "link": "https://olhardigital.com.br/2026/10/25/ciencia-e-espaco/nasa-quer-levar-supercomputador-com-ia-para-testar-navegacao-autonoma-na-lua/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-25T13:30:00+00:00"
+    },
+    {
+      "id": "b411fbb2487aa2da",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-25T13:25:32+00:00"
+    },
+    {
+      "id": "d5b1287278138c1e",
+      "title": "Moonshot limita capacidades de seu modelo de IA mais avançado para evitar ataques hackers",
+      "summary": "A startup chinesa Moonshot AI anunciou neste fim de semana que reduziu as capacidades ciberofensivas de seu mais novo modelo de inteligência artificial O post Moonshot limita…",
+      "link": "https://olhardigital.com.br/2026/10/25/inteligencia-artificial/moonshot-limita-capacidades-de-seu-modelo-de-ia-mais-avancado-para-evitar-ataques-hackers/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-25T12:20:27+00:00"
+    },
+    {
+      "id": "954b449aebf280a0",
+      "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
+      "summary": "Stanford and UC Berkeley researchers released TokenGate, a drop-in learned token pruning module for LLMs. It cuts long-context prefill time-to-first-token by 1.4x to 11.3x and…",
+      "link": "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-25T12:12:18+00:00"
+    },
+    {
+      "id": "ab1f7cff37722d46",
+      "title": "Google’s AI search changes upended online publishing",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in…",
+      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-25T12:00:00+00:00"
+    },
+    {
+      "id": "b9867d0688dbd697",
+      "title": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
+      "summary": "Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company’s strongest models…",
+      "link": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-25T11:32:29+00:00"
+    },
+    {
+      "id": "46b0c5185a67558e",
+      "title": "11 filmes, séries e livros que previram robôs dominando o mundo",
+      "summary": "A possibilidade de robôs e inteligências artificiais (IAs) dominarem a humanidade é explorada pela ficção científica há mais de um século. Muito antes de existirem ferramentas…",
+      "link": "https://canaltech.com.br/entretenimento/filmes-series-livros-previram-robos-dominando-o-mundo/",
+      "image": "https://tl.ctcdn.com.br/IVs-xRwwixidNCDqns38xcBuVNE=/0x0/filters:format(webp):quality(85)/a239c3e4-c244-4d18-86ec-46d8cc1b1e73.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-25T11:00:00+00:00"
+    },
     {
       "id": "43ff7f893a77336b",
       "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra",
@@ -903,94 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-10-23T05:28:21+00:00"
-    },
-    {
-      "id": "cf51e24baa15d2e1",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-23T04:00:00+00:00"
-    },
-    {
-      "id": "fee5d6bca690475f",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-23T00:45:37+00:00"
-    },
-    {
-      "id": "1a543055a02f9816",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-23T00:00:00+00:00"
-    },
-    {
-      "id": "2b3f616d26d343fe",
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "summary": "",
-      "link": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-23T00:00:00+00:00"
-    },
-    {
-      "id": "51888f116f5b0837",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "summary": "",
-      "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-22T22:24:34+00:00"
-    },
-    {
-      "id": "0e6b7b9249b2f756",
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-22T22:08:24+00:00"
-    },
-    {
-      "id": "5eee804247a435ab",
-      "title": "Canva’s first AI image model plans designs before generating them",
-      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-22T21:51:25+00:00"
-    },
-    {
-      "id": "4917f69ff1523d73",
-      "title": "Microsoft diz que IA superou médicos em testes de diagnóstico",
-      "summary": "Sistema acertou 83% dos casos mais complexos, mas ainda precisa passar por validação em hospitais. Microsoft diz que IA superou médicos em testes de diagnóstico",
-      "link": "https://tecnoblog.net/noticias/microsoft-diz-que-ia-superou-medicos-em-testes-de-diagnostico/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2020/03/laptop-notebook-medico-medicina-estetoscopio-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-22T21:20:14+00:00"
     }
   ]
 }
