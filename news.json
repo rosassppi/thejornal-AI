@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-24T20:15:04.058248+00:00",
+  "generated_at": "2026-10-25T03:16:24.672486+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "8da4f6934ff86b73",
+      "title": "Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats",
+      "summary": "Cognition released the Devin Vulnerability Fixes plugin, 3 MIT-licensed agent skills that inventory, patch and test PHP, Node.js and self-managed GitLab deployments hit by this…",
+      "link": "https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-25T02:59:08+00:00"
+    },
+    {
+      "id": "88eaacf4f4f0a457",
+      "title": "How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide",
+      "summary": "Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-calling performance in stock…",
+      "link": "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-25T02:30:18+00:00"
+    },
+    {
+      "id": "6e395e15ae0c631a",
+      "title": "Hora de renovar o home office: selecionamos impressoras em promoção na Amazon",
+      "summary": "Se você está precisando de uma impressora nova — seja para o trabalho, os estudos ou o dia a dia em casa — este é um bom momento para pesquisar. Reunimos três opções…",
+      "link": "https://olhardigital.com.br/2026/10/24/reviews/hora-de-renovar-o-home-office-selecionamos-impressoras-em-promocao-na-amazon-5/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-24T22:36:38+00:00"
+    },
+    {
+      "id": "36111d6bc6b4991f",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-24T21:29:12+00:00"
+    },
+    {
+      "id": "d3798ec9a0ad0aeb",
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-24T20:15:33+00:00"
+    },
     {
       "id": "05b75d24443ee37a",
       "title": "Como se proteger de golpes feitos com IA?",
@@ -936,61 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-10-22T19:00:00+00:00"
-    },
-    {
-      "id": "7fe7774a3ecb03f8",
-      "title": "Discord now formats Markdown previews right",
-      "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the…",
-      "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK062_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-22T18:58:19+00:00"
-    },
-    {
-      "id": "285861fa05fad723",
-      "title": "The Foundations of Scalable AI",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology…",
-      "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Wang_forweb.png",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-22T18:48:04+00:00"
-    },
-    {
-      "id": "5595c812cd34051e",
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models…",
-      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-22T18:43:53+00:00"
-    },
-    {
-      "id": "449bfdd29ecd926f",
-      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-      "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
-      "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-22T18:38:47+00:00"
-    },
-    {
-      "id": "1bf85383f8d6638c",
-      "title": "Major US banks are locking out AI agents that log in with customer credentials",
-      "summary": "Customers are letting AI agents use their credentials to access accounts at Morgan Stanley, JPMorgan, and other major U.S. banks, sometimes without direct instructions. Morgan…",
-      "link": "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/ai_bank_accounts.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-22T18:26:02+00:00"
     }
   ]
 }
