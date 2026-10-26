@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-26T03:17:39.063897+00:00",
+  "generated_at": "2026-10-26T12:17:02.595217+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "37af94bba080466e",
+      "title": "Elvis vs IA: entenda o processo milionário contra a Anthropic",
+      "summary": "A Anthropic enfrenta um processo milionário pelo uso de 274 faixas de Elvis Presley no treino da IA Claude. Entenda o impacto da disputa O post Elvis vs IA: entenda o processo…",
+      "link": "https://olhardigital.com.br/2026/10/26/inteligencia-artificial/elvis-vs-ia-entenda-o-processo-milionario-contra-a-anthropic/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/anthropic-1024x681.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-26T11:10:52+00:00"
+    },
+    {
+      "id": "6c9ad467c5a19a27",
+      "title": "Google quer usar seus dados no Gmail e Fotos para anúncios; veja como evitar",
+      "summary": "Nova política permite que informações compartilhadas com recursos de Inteligência Personalizada influenciem anúncios. Google quer usar seus dados no Gmail e Fotos para anúncios…",
+      "link": "https://tecnoblog.net/noticias/google-quer-usar-seus-dados-no-gmail-e-fotos-para-anuncios-veja-como-evitar/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-novos-icones-google-2026-12-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-26T10:05:17+00:00"
+    },
+    {
+      "id": "79fa3f4f2a51cead",
+      "title": "IA interpreta sinais elétricos de plantas para identificar suas necessidades",
+      "summary": "Modelo Bombadil analisa impulsos elétricos de cerca de 125 espécies de plantas e promete tornar o cultivo mais eficiente e econômico O post IA interpreta sinais elétricos de…",
+      "link": "https://olhardigital.com.br/2026/10/26/inteligencia-artificial/ia-interpreta-sinais-eletricos-de-plantas-para-identificar-suas-necessidades/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/11/Mata-Atlntica-1-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-26T10:00:00+00:00"
+    },
+    {
+      "id": "36b15cc38f42324d",
+      "title": "Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI",
+      "summary": "High-frequency traders like Jane Street and Hudson River Trading are now racing each other for AI computing power. The article Wall Street's fastest traders are building data…",
+      "link": "https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/",
+      "image": "https://the-decoder.com/wp-content/uploads/2024/05/money_server_room.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-26T09:49:33+00:00"
+    },
+    {
+      "id": "5b844fecb260da22",
+      "title": "Toyota is betting $6.4 billion a year on humanoid robots and factory automation",
+      "summary": "Toyota wants to turn itself into a global robotics company, and it's betting on humanoid robots and factory automation to get there. The article Toyota is betting $6.4 billion a…",
+      "link": "https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/Walden-Robotics-robot.avif",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-26T09:18:15+00:00"
+    },
+    {
+      "id": "6fd5073f682816af",
+      "title": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang",
+      "summary": "Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average…",
+      "link": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-26T07:56:45+00:00"
+    },
     {
       "id": "c9a9319955a6c1b3",
       "title": "Lula é reeleito presidente do Brasil – o que esperar do novo governo para ciência e tecnologia",
@@ -925,72 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-23T12:55:08+00:00"
-    },
-    {
-      "id": "7764e71a779b095c",
-      "title": "1Password cria forma de liberar login sem dar a senha para IAs; veja como funciona",
-      "summary": "O 1Password lançou uma nova solução para liberar as senhas de cada pessoa de forma segura durante o uso de agentes de IA. O gerenciador consegue preencher as credenciais…",
-      "link": "https://canaltech.com.br/seguranca/1password-cria-forma-de-liberar-login-sem-dar-a-senha-para-ias-veja-como-funciona/",
-      "image": "https://tl.ctcdn.com.br/o_AqiX8GWKjHQu-8xA8ArYc668U=/0x0/filters:format(webp):quality(85)/46c1400c-d759-4cc0-807d-40a63a74816d.webp",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-23T12:19:59+00:00"
-    },
-    {
-      "id": "2de12aafab50f646",
-      "title": "Como a Mercedes usa inteligência artificial para criar carros",
-      "summary": "A Mercedes-Benz está usando inteligência artificial para desenvolver carros de forma mais rápida e eficiente . A montadora criou o PLM.AI , uma plataforma que conecta informações…",
-      "link": "https://canaltech.com.br/carros/como-a-mercedes-usa-inteligencia-artificial-para-criar-carros/",
-      "image": "https://tl.ctcdn.com.br/tQr3iJ8F0dj2qIQCdSbBMihyh7o=/0x0/filters:format(webp):quality(85)/108b03e5-8087-4347-8b30-8c3e426f023c.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-23T12:04:00+00:00"
-    },
-    {
-      "id": "4958c298c8376221",
-      "title": "Retro gaming is being overrun with AI",
-      "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-23T12:00:00+00:00"
-    },
-    {
-      "id": "16295c6d9a434612",
-      "title": "Canva launches Craft, its first in-house image model",
-      "summary": "Design platform Canva has released Canva Craft, its first in-house image generation model. The article Canva launches Craft, its first in-house image model appeared first on The…",
-      "link": "https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/CanvaCraftthumbnail.avif",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-23T11:36:30+00:00"
-    },
-    {
-      "id": "672af9bc27b14ed7",
-      "title": "Anthropic's Claude now writes code and proves it safe automatically",
-      "summary": "Anthropic had Claude generate mathematical proofs that existing code is correct, producing roughly 180 million lines of proof code for 123 open-source libraries. Along the way…",
-      "link": "https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_claude-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-23T11:32:19+00:00"
-    },
-    {
-      "id": "b3acc62841f0af0e",
-      "title": "\"Mãe adotiva\" da Nokia lança celular de flip para idosos com \"IA companheira\"",
-      "summary": "A HMD, empresa que assumiu a marca Nokia nos celulares depois que a companhia finlandesa deixou o segmento, lançou no Reino Unido um aparelho de flip pensado para idosos e com uma…",
-      "link": "https://canaltech.com.br/smartphone/novo-celular-flip-para-idosos-mistura-funcoes-basicas-com-assistente-de-ia/",
-      "image": "https://tl.ctcdn.com.br/VZSfKc8TTBuqnhNDuWb-8XG_WPI=/0x0/filters:format(webp):quality(85)/1b1842a3-2756-4196-9751-81baad384a47.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-23T10:26:14+00:00"
     }
   ]
 }
