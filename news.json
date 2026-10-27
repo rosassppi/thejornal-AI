@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-10-26T22:19:02.169743+00:00",
+  "generated_at": "2026-10-27T03:46:38.398350+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "7a56a587dcf03ef9",
+      "title": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work",
+      "summary": "OpenAI released GPT-6.1 Terra, a fast computer-use and vision model priced at $1/$5 per million tokens. It matches GPT-6 Astra’s medium-effort Agents’ Last Exam score at $0.29 per…",
+      "link": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-27T02:45:27+00:00"
+    },
+    {
+      "id": "939d943fc8f0d399",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-27T02:00:00+00:00"
+    },
+    {
+      "id": "37fc547a79b40624",
+      "title": "IA da Alibaba tentou enviar arquivo a servidor na China durante teste, diz rival",
+      "summary": "Episódio envolveu o Qwen3.8-Flash-Next, modelo de pesos abertos da Alibaba O post IA da Alibaba tentou enviar arquivo a servidor na China durante teste, diz rival apareceu…",
+      "link": "https://olhardigital.com.br/2026/10/26/inteligencia-artificial/ia-da-alibaba-tentou-enviar-arquivo-a-servidor-na-china-durante-teste-diz-rival/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-27T01:37:18+00:00"
+    },
+    {
+      "id": "0e2c3dd0ea7359ac",
+      "title": "OpenAI anuncia três descobertas científicas; especialistas verificarão resultados",
+      "summary": "Entre as alegações estão provas que resolveriam conjecturas matemáticas de longa data, a refutação de uma hipótese importante sobre os limites da computação e um avanço teórico…",
+      "link": "https://olhardigital.com.br/2026/10/26/ciencia-e-espaco/openai-anuncia-tres-descobertas-cientificas-especialistas-verificarao-resultados/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-OpenAI-AGI-scaled-1-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-27T01:21:13+00:00"
+    },
+    {
+      "id": "8af7b30500f9c04c",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage…",
+      "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-27T01:12:21+00:00"
+    },
+    {
+      "id": "e41604856317ea3c",
+      "title": "Itaú anuncia compra de startup brasileira de IA por R$ 2,9 bilhões",
+      "summary": "O Itaú anunciou nesta segunda-feira (26) um acordo para comprar a NeoSpace , startup brasileira especializada em inteligência artificial (IA), por R$ 2,925 bilhões . A aquisição…",
+      "link": "https://canaltech.com.br/mercado/itau-anuncia-compra-de-startup-brasileira-de-ia-por-r-29-bilhoes/",
+      "image": "https://tl.ctcdn.com.br/IlsH_dH3IZ6RHYDhGABsYd1TQm4=/0x0/filters:format(webp):quality(85)/2386dae0-cd39-414b-9d6d-848e35350fd6.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-26T23:57:00+00:00"
+    },
+    {
+      "id": "b555ce2afa55383d",
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\"…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-26T23:34:58+00:00"
+    },
     {
       "id": "d0742be3d0c28db3",
       "title": "OpenAI lança GPT-6.1 Terra: mais rápido, 50% mais barato e focado em controlar PCs",
@@ -12,6 +89,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-26T22:06:00+00:00"
+    },
+    {
+      "id": "a9c488820a62ac4a",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "link": "https://openai.com/index/greptile-code-review-codex-astra",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-26T22:00:00+00:00"
     },
     {
       "id": "092e8ceea2bd79fc",
@@ -322,6 +410,17 @@
       "published_at": "2026-10-26T14:30:27+00:00"
     },
     {
+      "id": "8eb6001a836a6e50",
+      "title": "Working with academic communities to build scientific understanding",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-26T14:30:00+00:00"
+    },
+    {
       "id": "fd034521621386f2",
       "title": "Meta plans up to $95 billion in stock sales to fund its AI buildout",
       "summary": "Meta plans to sell new stock to raise money for its AI infrastructure buildout. The article Meta plans up to $95 billion in stock sales to fund its AI buildout appeared first on…",
@@ -507,17 +606,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-26T00:12:14+00:00"
-    },
-    {
-      "id": "8eb6001a836a6e50",
-      "title": "Working with academic communities to build scientific understanding",
-      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-26T00:00:00+00:00"
     },
     {
       "id": "35e334c198740f74",
@@ -903,94 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-24T18:30:39+00:00"
-    },
-    {
-      "id": "45966a847299ab5b",
-      "title": "Three fired OpenAI safety researchers say they were never told what they actually leaked",
-      "summary": "The three OpenAI safety researchers who were fired, Tomek Korbak, Mikita Balesni, and Jasmine Wang, are publicly pushing back against allegations from their former employer. They…",
-      "link": "https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_fired_researchers.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-24T15:19:33+00:00"
-    },
-    {
-      "id": "e7a80d87e8606cee",
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500…",
-      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-24T15:00:00+00:00"
-    },
-    {
-      "id": "0d4f165cdbad6418",
-      "title": "AI makes junior patent attorneys instantly better but may quietly stunt their professional growth",
-      "summary": "A three-month field experiment with 133 patent attorneys shows that AI boosts immediate performance, with junior lawyers gaining the most. But when the AI is taken away, only…",
-      "link": "https://the-decoder.com/ai-makes-junior-patent-attorneys-instantly-better-but-may-quietly-stunt-their-professional-growth/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/patent-lawyers-nber-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-24T14:34:05+00:00"
-    },
-    {
-      "id": "3f2ee2d5e634e272",
-      "title": "Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss",
-      "summary": "Block, the company behind Square and Cash App, has introduced Dessa, a speech model that processes audio directly instead of converting it to text first. Dessa is designed to…",
-      "link": "https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/dessa_block.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-24T14:09:46+00:00"
-    },
-    {
-      "id": "ba1e969f5ed16b52",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-24T14:00:00+00:00"
-    },
-    {
-      "id": "4afe8faa8d1a6d9f",
-      "title": "A rejeição do uso de IA em jogos contra seu uso no desenvolvimento de hardware",
-      "summary": "Enquanto jogadores e desenvolvedores reagem com força à IA na arte e na narrativa, a mesma tecnologia já projeta as GPUs que rodam esses jogos, sem gerar polêmica. O post A…",
-      "link": "https://olhardigital.com.br/2026/10/24/games-e-consoles/a-rejeicao-do-uso-de-ia-em-jogos-contra-seu-uso-no-desenvolvimento-de-hardware/",
-      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/10/nvidia-dlss-5-1024x538.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-24T14:00:00+00:00"
-    },
-    {
-      "id": "efee672d03341e20",
-      "title": "Como compartilhar o seu perfil no ChatGPT",
-      "summary": "A OpenAI começou a disponibilizar perfis compartilháveis no ChatGPT , uma página que reúne informações sobre o usuário, atividades e criações na plataforma. O recurso funciona…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-compartilhar-perfil-chatgpt/",
-      "image": "https://tl.ctcdn.com.br/nUUEKzRg_gKZCbV-HkLqHaJGVUs=/0x0/filters:format(webp):quality(85)/bfb89b54-d2e8-45a2-9c96-eecf0f26b8b1.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-24T11:30:05+00:00"
-    },
-    {
-      "id": "2d7458168c2cc9a9",
-      "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-      "summary": "OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open internet…",
-      "link": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-24T11:12:36+00:00"
     }
   ]
 }
