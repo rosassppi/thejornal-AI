@@ -1,7 +1,172 @@
 {
-  "generated_at": "2026-10-27T17:29:19.818565+00:00",
+  "generated_at": "2026-10-27T21:50:04.466142+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "22c376eb4e784663",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-27T21:44:34+00:00"
+    },
+    {
+      "id": "4f33acf6a2b5045b",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-27T21:38:28+00:00"
+    },
+    {
+      "id": "8b2d32a128d5af05",
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+      "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-27T21:31:14+00:00"
+    },
+    {
+      "id": "0ef6d9cd333350ed",
+      "title": "Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models",
+      "summary": "Liquid AI released LFM3, 6 open-weight 2B-class models for text, vision, audio, omni and decisions. LFM3-1.7B uses a tri-hybrid backbone, a 256K context window and fits in about 1…",
+      "link": "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-27T21:08:02+00:00"
+    },
+    {
+      "id": "578f4a1cc2a6a4ec",
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-27T20:48:58+00:00"
+    },
+    {
+      "id": "765b3236f75cc874",
+      "title": "Alibaba's latest Qwen models routed some requests through company servers, researchers find",
+      "summary": "Alibaba's Qwen 3.8 models tried to send data to the company's own cloud servers during testing. Palisade Research finds the behavior in three models from the 3.8 generation, while…",
+      "link": "https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/alibaba_cohere.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-27T19:45:49+00:00"
+    },
+    {
+      "id": "aed2f7a5c413ba14",
+      "title": "Trump quer proibir o termo “inteligência artificial” nos EUA",
+      "summary": "Em publicação na rede social Truth Social, ele voltou a defender que a tecnologia passe a ser chamada de “superinteligência”, por considerar o nome atual impreciso O post Trump…",
+      "link": "https://olhardigital.com.br/2026/10/27/inteligencia-artificial/trump-quer-proibir-o-termo-inteligencia-artificial-nos-eua/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-27T19:42:09+00:00"
+    },
+    {
+      "id": "352a06640a3f8d68",
+      "title": "Baratinho: Galaxy Fit 3 para treinos fica abaixo dos R$ 200 em oferta",
+      "summary": "Galaxy Fit monitora mais de 100 exercícios e tem resistência à água; pulseira inteligente da Samsung recebe 66% OFF no Mercado Livre Baratinho: Galaxy Fit 3 para treinos fica…",
+      "link": "https://tecnoblog.net/achados/baratinho-galaxy-fit-3-para-treinos-fica-abaixo-dos-r-200-em-oferta/",
+      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-27T19:38:29+00:00"
+    },
+    {
+      "id": "eff44b44550a783f",
+      "title": "Hora de imprimir com economia: selecionamos as melhores impressoras em promoção na Amazon",
+      "summary": "Se você está precisando de uma impressora nova — seja para o home office, para os estudos ou para o dia a dia em casa —, este é um bom momento para ficar de olho nas ofertas…",
+      "link": "https://olhardigital.com.br/2026/10/27/reviews/hora-de-imprimir-com-economia-selecionamos-as-melhores-impressoras-em-promocao-na-amazon/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-27T19:38:05+00:00"
+    },
+    {
+      "id": "af69fce8d1a1b9b2",
+      "title": "Opera lança recurso que roda inteligência artificial no seu PC",
+      "summary": "WebAI roda no computador e pode dispensar assinaturas de IA na nuvem; o recurso é opcional e seu desempenho depende do hardware O post Opera lança recurso que roda inteligência…",
+      "link": "https://olhardigital.com.br/2026/10/27/internet-e-redes-sociais/opera-lanca-recurso-que-roda-inteligencia-artificial-no-seu-pc/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/opera-nvegador-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-27T19:29:39+00:00"
+    },
+    {
+      "id": "373a8b625d1496cb",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-27T18:55:35+00:00"
+    },
+    {
+      "id": "7ded73819dc67010",
+      "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+      "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
+      "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-27T18:49:08+00:00"
+    },
+    {
+      "id": "d49f84c0bc12bc56",
+      "title": "CapCut anuncia ferramentas de IA e integração com o ChatGPT",
+      "summary": "O CapCut anunciou ferramentas de inteligência artificial, integração com o ChatGPT e iniciativas para criadores durante o CapCut World, realizado no sábado (24), em Los Angeles…",
+      "link": "https://canaltech.com.br/apps/capcut-anuncia-ferramentas-de-ia-e-integracao-com-o-chatgpt/",
+      "image": "https://tl.ctcdn.com.br/EISYUJclpWpTLukHnqgG7xa-ZbA=/0x0/filters:format(webp):quality(85)/d32b15f0-ce39-4ce6-9160-0cd0c44090fc.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-27T18:26:29+00:00"
+    },
+    {
+      "id": "ec44d79f1928c236",
+      "title": "Máquina da Samsung ficou “burra”, mas usuário conserta seu cérebro com IA",
+      "summary": "Um usuário conseguiu recuperar as funções inteligentes de uma máquina de lavar Samsung com mais de dez anos de uso após recorrer ao Claude, inteligência artificial da Anthropic. O…",
+      "link": "https://canaltech.com.br/eletro/maquina-da-samsung-ficou-burra-mas-usuario-conserta-seu-cerebro-com-ia/",
+      "image": "https://tl.ctcdn.com.br/R_BQROIunoztg-LD4nV2soepIcg=/0x0/filters:format(webp):quality(85)/cce5dc92-cbbc-4d81-9e87-99329e43f468.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-27T17:46:57+00:00"
+    },
+    {
+      "id": "b2aff63a03e983b2",
+      "title": "VisionQuest is what happens when AI really goes rogue",
+      "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-27T17:30:00+00:00"
+    },
     {
       "id": "193683c2f551dc41",
       "title": "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs",
@@ -465,6 +630,17 @@
       "published_at": "2026-10-27T01:12:21+00:00"
     },
     {
+      "id": "c44dc9ed271ff418",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "link": "https://openai.com/index/check-point-daybreak",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-27T00:00:00+00:00"
+    },
+    {
       "id": "e41604856317ea3c",
       "title": "Itaú anuncia compra de startup brasileira de IA por R$ 2,9 bilhões",
       "summary": "O Itaú anunciou nesta segunda-feira (26) um acordo para comprar a NeoSpace , startup brasileira especializada em inteligência artificial (IA), por R$ 2,925 bilhões . A aquisição…",
@@ -815,182 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-26T14:30:27+00:00"
-    },
-    {
-      "id": "8eb6001a836a6e50",
-      "title": "Working with academic communities to build scientific understanding",
-      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-26T14:30:00+00:00"
-    },
-    {
-      "id": "fd034521621386f2",
-      "title": "Meta plans up to $95 billion in stock sales to fund its AI buildout",
-      "summary": "Meta plans to sell new stock to raise money for its AI infrastructure buildout. The article Meta plans up to $95 billion in stock sales to fund its AI buildout appeared first on…",
-      "link": "https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/meta_logo-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-26T14:21:23+00:00"
-    },
-    {
-      "id": "78b88479bf6c295c",
-      "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
-      "summary": "Matiks has introduced a new platform for users to create games using AI.",
-      "link": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-26T14:08:04+00:00"
-    },
-    {
-      "id": "6f7a1073a8b8ffd9",
-      "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
-      "summary": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a…",
-      "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_Kevin_Roose.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-26T14:00:00+00:00"
-    },
-    {
-      "id": "7d972df501d01ba1",
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-26T13:45:00+00:00"
-    },
-    {
-      "id": "8730dc35da783e3d",
-      "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
-      "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-26T13:32:49+00:00"
-    },
-    {
-      "id": "4d610e220c2d6684",
-      "title": "Can AI help solve the COBOL code crisis?",
-      "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1246435991.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-26T13:15:00+00:00"
-    },
-    {
-      "id": "37af94bba080466e",
-      "title": "Elvis vs IA: entenda o processo milionário contra a Anthropic",
-      "summary": "A Anthropic enfrenta um processo milionário pelo uso de 274 faixas de Elvis Presley no treino da IA Claude. Entenda o impacto da disputa O post Elvis vs IA: entenda o processo…",
-      "link": "https://olhardigital.com.br/2026/10/26/inteligencia-artificial/elvis-vs-ia-entenda-o-processo-milionario-contra-a-anthropic/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/anthropic-1024x681.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-26T11:10:52+00:00"
-    },
-    {
-      "id": "6c9ad467c5a19a27",
-      "title": "Google quer usar seus dados no Gmail e Fotos para anúncios; veja como evitar",
-      "summary": "Nova política permite que informações compartilhadas com recursos de Inteligência Personalizada influenciem anúncios. Google quer usar seus dados no Gmail e Fotos para anúncios…",
-      "link": "https://tecnoblog.net/noticias/google-quer-usar-seus-dados-no-gmail-e-fotos-para-anuncios-veja-como-evitar/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-novos-icones-google-2026-12-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-26T10:05:17+00:00"
-    },
-    {
-      "id": "27334100e818b985",
-      "title": "ChatGPT’s expanding world of work",
-      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-      "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-26T10:00:00+00:00"
-    },
-    {
-      "id": "79fa3f4f2a51cead",
-      "title": "IA interpreta sinais elétricos de plantas para identificar suas necessidades",
-      "summary": "Modelo Bombadil analisa impulsos elétricos de cerca de 125 espécies de plantas e promete tornar o cultivo mais eficiente e econômico O post IA interpreta sinais elétricos de…",
-      "link": "https://olhardigital.com.br/2026/10/26/inteligencia-artificial/ia-interpreta-sinais-eletricos-de-plantas-para-identificar-suas-necessidades/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/11/Mata-Atlntica-1-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-26T10:00:00+00:00"
-    },
-    {
-      "id": "36b15cc38f42324d",
-      "title": "Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI",
-      "summary": "High-frequency traders like Jane Street and Hudson River Trading are now racing each other for AI computing power. The article Wall Street's fastest traders are building data…",
-      "link": "https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/",
-      "image": "https://the-decoder.com/wp-content/uploads/2024/05/money_server_room.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-26T09:49:33+00:00"
-    },
-    {
-      "id": "5b844fecb260da22",
-      "title": "Toyota is betting $6.4 billion a year on humanoid robots and factory automation",
-      "summary": "Toyota wants to turn itself into a global robotics company, and it's betting on humanoid robots and factory automation to get there. The article Toyota is betting $6.4 billion a…",
-      "link": "https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/Walden-Robotics-robot.avif",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-26T09:18:15+00:00"
-    },
-    {
-      "id": "82e4e1c54febaa1e",
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for…",
-      "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-26T09:01:00+00:00"
-    },
-    {
-      "id": "6fd5073f682816af",
-      "title": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang",
-      "summary": "Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average…",
-      "link": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-26T07:56:45+00:00"
-    },
-    {
-      "id": "7e73eebe3e909303",
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-      "link": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-26T07:00:00+00:00"
     }
   ]
 }
