@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-10-27T03:46:38.398350+00:00",
+  "generated_at": "2026-10-27T11:37:37.735892+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "a9046c3f8fe023b6",
+      "title": "Anthropic uses its IPO letter to renew its pledge that Claude will never show ads",
+      "summary": "Anthropic says it will keep ads out of Claude. In a cover letter accompanying its IPO filing, the company argues that the chatbot's sole incentive should be to provide helpful…",
+      "link": "https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-27T11:20:51+00:00"
+    },
+    {
+      "id": "e829c0ec65a27eff",
+      "title": "IPO da Anthropic pode mudar o mercado global de inteligência artificial",
+      "summary": "Anthropic prepara IPO com receita em alta, perdas bilionárias e uma avaliação capaz de influenciar o mercado de inteligência artificial O post IPO da Anthropic pode mudar o…",
+      "link": "https://olhardigital.com.br/2026/10/27/pro/ipo-da-anthropic-pode-mudar-o-mercado-global-de-inteligencia-artificial/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/anthropic_ipo-1024x567.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-27T11:11:11+00:00"
+    },
+    {
+      "id": "72e188139d846686",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-27T11:00:00+00:00"
+    },
+    {
+      "id": "d47b88a826590071",
+      "title": "OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model",
+      "summary": "OpenAI's Ted Sanders explains where GPT-6.1 Terra fits in the company's GPT lineup. The smaller model outperforms the larger Astra in technical communication and costs far less…",
+      "link": "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-27T10:09:26+00:00"
+    },
+    {
+      "id": "10515f024c670e28",
+      "title": "Data center backlash is uniting America",
+      "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure…",
+      "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_ELECTIONS_DATA_CENTERS_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-27T10:00:00+00:00"
+    },
+    {
+      "id": "fd8d1b1c8c0ed771",
+      "title": "Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips",
+      "summary": "ia is buying into its customer Meta, which plans to run more of its AI agents on Nvidia hardware. The article Meta gets $3 billion from Nvidia and plans to spend more on Nvidia…",
+      "link": "https://the-decoder.com/meta-gets-3-billion-from-nvidia-and-plans-to-spend-more-on-nvidia-chips/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-27T09:58:16+00:00"
+    },
+    {
+      "id": "ef671c753dc40376",
+      "title": "Resumo do OD: OpenAI e ciência, Anthropic registra IPO e IA suspeita da Alibaba",
+      "summary": "E mais: explosão cósmica recorde, cientista brasileiro leva prêmio e Microsoft planeja novas demissões O post Resumo do OD: OpenAI e ciência, Anthropic registra IPO e IA suspeita…",
+      "link": "https://olhardigital.com.br/2026/10/27/inteligencia-artificial/resumo-do-od-openai-e-ciencia-anthropic-registra-ipo-e-ia-suspeita-da-alibaba/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-27T08:00:00+00:00"
+    },
+    {
+      "id": "887b618ab35cb0bb",
+      "title": "vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model",
+      "summary": "vLLM Semantic Router released d3-ultra, a 27B open-weight multimodal decision model. It reads text, images and video once, then returns probabilities for every answer, scoring…",
+      "link": "https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-27T05:50:57+00:00"
+    },
+    {
+      "id": "ff02ebddda4a7c85",
+      "title": "Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing",
+      "summary": "Baidu has released Unlimited OCR 2, an MIT-licensed 3B OCR model that parses hundred-page documents in one request. Its SR-SWA attention keeps per-step decoding cost nearly flat…",
+      "link": "https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-27T05:26:36+00:00"
+    },
     {
       "id": "7a56a587dcf03ef9",
       "title": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work",
@@ -892,105 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-10-25T02:59:08+00:00"
-    },
-    {
-      "id": "88eaacf4f4f0a457",
-      "title": "How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide",
-      "summary": "Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-calling performance in stock…",
-      "link": "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-25T02:30:18+00:00"
-    },
-    {
-      "id": "6e395e15ae0c631a",
-      "title": "Hora de renovar o home office: selecionamos impressoras em promoção na Amazon",
-      "summary": "Se você está precisando de uma impressora nova — seja para o trabalho, os estudos ou o dia a dia em casa — este é um bom momento para pesquisar. Reunimos três opções…",
-      "link": "https://olhardigital.com.br/2026/10/24/reviews/hora-de-renovar-o-home-office-selecionamos-impressoras-em-promocao-na-amazon-5/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-24T22:36:38+00:00"
-    },
-    {
-      "id": "36111d6bc6b4991f",
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-24T21:29:12+00:00"
-    },
-    {
-      "id": "d3798ec9a0ad0aeb",
-      "title": "Will AI expose the rickety infrastructure of the internet?",
-      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
-      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-24T20:15:33+00:00"
-    },
-    {
-      "id": "05b75d24443ee37a",
-      "title": "Como se proteger de golpes feitos com IA?",
-      "summary": "A inteligência artificial (IA) tornou os golpes digitais mais convincentes . Os criminosos usam as capacidades da IA de imitar vozes, criar vídeos falsos e produzir mensagens que…",
-      "link": "https://canaltech.com.br/seguranca/como-se-proteger-de-golpes-feitos-com-ia/",
-      "image": "https://tl.ctcdn.com.br/GuHlIeHlJF65Bn9SHhUgVZ5n7Pk=/0x0/filters:format(webp):quality(85)/1846c6a3-4788-41d5-9a18-a48a3f18c13d.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-24T19:30:04+00:00"
-    },
-    {
-      "id": "43fa73ddaf377eb5",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-24T19:00:00+00:00"
-    },
-    {
-      "id": "779da1203e4350c3",
-      "title": "O que é e como funciona a Conta Meta no WhatsApp, Instagram e Facebook?",
-      "summary": "A Conta Meta é uma nova forma de login unificado nas plataformas da empresa, como Instagram, Facebook, WhatsApp, Meta AI e os sistemas dos óculos inteligentes. A credencial traz…",
-      "link": "https://canaltech.com.br/apps/o-que-e-e-como-funciona-a-conta-meta-no-whatsapp-instagram-e-facebook/",
-      "image": "https://tl.ctcdn.com.br/MHu49zMPET5hsfVdOUuePc54BwI=/0x0/filters:format(webp):quality(85)/8410f5d7-fdbe-44a2-8979-2caf9fcad650.webp",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-24T19:00:00+00:00"
-    },
-    {
-      "id": "c7aa9b7dfeaf83bd",
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-24T18:32:21+00:00"
-    },
-    {
-      "id": "7031b80d1f493035",
-      "title": "Canva Craft: conheça a IA que planeja o layout antes de gerar a imagem",
-      "summary": "Gerador exclusivo do Canva cria imagens com arquitetura inédita focada em design O post Canva Craft: conheça a IA que planeja o layout antes de gerar a imagem apareceu primeiro em…",
-      "link": "https://olhardigital.com.br/2026/10/24/internet-e-redes-sociais/canva-craft-conheca-a-ia-que-planeja-o-layout-antes-de-gerar-a-imagem/",
-      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/10/canva-craft-2-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-24T18:30:39+00:00"
     }
   ]
 }
