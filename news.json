@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-27T21:50:04.466142+00:00",
+  "generated_at": "2026-10-28T04:03:49.518772+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "a84b8d40fc3508bb",
+      "title": "OpenAI busca alternativa à Nvidia e mira chips de IA do Google",
+      "summary": "De acordo com reportagem do The Information, a OpenAI já aluga chips de IA do Google desde 202 O post OpenAI busca alternativa à Nvidia e mira chips de IA do Google apareceu…",
+      "link": "https://olhardigital.com.br/2026/10/27/inteligencia-artificial/openai-busca-alternativa-a-nvidia-e-mira-chips-de-ia-do-google/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/nvidia_chip-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-28T01:42:05+00:00"
+    },
+    {
+      "id": "4ba4897dde9b2c1a",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-28T01:15:28+00:00"
+    },
+    {
+      "id": "c733ba1301d7d1ca",
+      "title": "Fala AI: OpenAI anuncia três descobertas científicas feitas com IA",
+      "summary": "Roberto Pena Spinelli, colunista do Olhar Digital News, analisa a importância de novas descobertas realizadas a partir do uso da IA O post Fala AI: OpenAI anuncia três descobertas…",
+      "link": "https://olhardigital.com.br/2026/10/27/colunistas/fala-ai-openai-anuncia-tres-descobertas-cientificas-feitas-com-ia/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-28T00:52:43+00:00"
+    },
+    {
+      "id": "4d16ea7fba1a362a",
+      "title": "Corrida da IA está enriquecendo até fabricantes de tinta",
+      "summary": "Com empresas, como Microsoft, Google e Amazon, ampliando suas estruturas de computação, fabricantes de materiais de proteção veem a demanda crescer O post Corrida da IA está…",
+      "link": "https://olhardigital.com.br/2026/10/27/inteligencia-artificial/corrida-da-ia-esta-enriquecendo-ate-fabricantes-de-tinta/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/data-center-1024x574.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-28T00:28:48+00:00"
+    },
+    {
+      "id": "4c5627bb695205d1",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-27T23:34:27+00:00"
+    },
+    {
+      "id": "475027faccda85a0",
+      "title": "Bancos e Blackstone vão financiar R$ 340 bilhões em chips de IA para a Anthropic",
+      "summary": "Acordo prevê a criação de sociedade de propósito específico, estrutura que será responsável por comprar os equipamentos da Broadcom e alugá-los à Anthropic O post Bancos e…",
+      "link": "https://olhardigital.com.br/2026/10/27/pro/bancos-e-blackstone-vao-financiar-r-340-bilhoes-em-chips-de-ia-para-a-anthropic/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-27T23:34:22+00:00"
+    },
+    {
+      "id": "5b8f2377809f90dc",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-27T22:55:41+00:00"
+    },
+    {
+      "id": "37efa235a68b9fc9",
+      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+      "summary": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
+      "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-27T22:26:03+00:00"
+    },
+    {
+      "id": "56532ab0655186a6",
+      "title": "Parceiras acusam NVIDIA de interromper fornecimento de chip para fabricar RTX 5090",
+      "summary": "Rumores sobre o fim da produção da GeForce RTX 5090 surgiram recentemente e a NVIDIA não demorou para refutá-los . Agora, mais indícios sobre o assunto surgem de outras fontes da…",
+      "link": "https://canaltech.com.br/hardware/parceiras-acusam-nvidia-de-interromper-fornecimento-de-chip-para-fabricar-rtx-5090/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-27T22:10:00+00:00"
+    },
+    {
+      "id": "986e9fe40b79d792",
+      "title": "Firefox ganha radar de ofertas que vigia preços e vagas para você",
+      "summary": "A Mozilla atualizou o Smart Window , recurso de navegação com inteligência artificial do Firefox, com ferramentas para monitorar preços de produtos, acompanhar descontos e…",
+      "link": "https://canaltech.com.br/apps/firefox-ganha-radar-de-ofertas-que-vigia-precos-e-vagas-para-voce/",
+      "image": "https://tl.ctcdn.com.br/tmPGLGz84V1U1H0uCHjGBu8IDvs=/0x0/filters:format(webp):quality(85)/dd1047bd-f885-4c3e-89d0-f19e6110b38f.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-27T22:03:00+00:00"
+    },
+    {
+      "id": "c5f2fa30bce77334",
+      "title": "Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB",
+      "summary": "UC Berkeley’s LEANN vector index stores a pruned graph and recomputes embeddings at query time. It matches HNSW accuracy at 90% recall using 4 GB instead of 188 GB, at the cost of…",
+      "link": "https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-27T21:54:37+00:00"
+    },
+    {
+      "id": "c88b8bb0d7436e58",
+      "title": "Só 3% das empresas viram ganhos com IA, mostra estudo",
+      "summary": "Gartner diz que 77% dos conselhos esperam mais produtividade e menos custos; 38% das companhias já estouraram o orçamento. Só 3% das empresas viram ganhos com IA, mostra estudo",
+      "link": "https://tecnoblog.net/noticias/so-3-das-empresas-viram-ganhos-com-ia-mostra-estudo/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/capa-freelas-perde-emprego-pra-ia-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-27T21:53:16+00:00"
+    },
+    {
+      "id": "f45c7980de26dbce",
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-500x500-1793134828.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-27T21:50:04+00:00"
+    },
+    {
+      "id": "479cfd7737c3bd2a",
+      "title": "Claude recusa tarefas de engenharia reversa em TVs e jogos",
+      "summary": "Usuários relatam restrições no Opus 5.5; Anthropic não confirmou mudança nos filtros de segurança. Claude recusa tarefas de engenharia reversa em TVs e jogos",
+      "link": "https://tecnoblog.net/noticias/claude-recusa-tarefas-de-engenharia-reversa-em-tvs-e-jogos/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-6-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-27T21:49:34+00:00"
+    },
     {
       "id": "22c376eb4e784663",
       "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
@@ -298,6 +452,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-27T15:21:30+00:00"
+    },
+    {
+      "id": "1e3ebf94e41ebe19",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "link": "https://openai.com/index/retell-ai",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-27T15:00:00+00:00"
     },
     {
       "id": "0fcf6f6c92fd1124",
@@ -826,171 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-26T17:50:15+00:00"
-    },
-    {
-      "id": "a7f46c4aaa0095af",
-      "title": "Will the real Anthropic please stand up",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation…",
-      "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-26T17:45:43+00:00"
-    },
-    {
-      "id": "c703d92e74636f36",
-      "title": "The RealReal won’t let AI agents hog designer clothing",
-      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The…",
-      "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-26T17:30:55+00:00"
-    },
-    {
-      "id": "c492858dd6647ddc",
-      "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
-      "summary": "Investigators explain how highway thieves stole $100M in data center equipment.",
-      "link": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/via-Cook-County-Sheriffs-Office-X-500x500.jpeg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-26T17:26:36+00:00"
-    },
-    {
-      "id": "210ebf83ea69eb6d",
-      "title": "Reddit's r/opensource bans all AI-related projects, sparking backlash and a rival subreddit",
-      "summary": "The Reddit forum r/opensource has banned all posts about AI projects, whether built with AI, AI-powered, or designed for AI. Projects must also be at least a year old and have…",
-      "link": "https://the-decoder.com/reddits-r-opensource-bans-all-ai-related-projects-sparking-backlash-and-a-rival-subreddit/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/reddit_ai_ban.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-26T17:19:40+00:00"
-    },
-    {
-      "id": "fe6583a778a0b30b",
-      "title": "Five weird details from Anthropic’s IPO filing",
-      "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK202_DARIO_AMODEI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-26T17:10:23+00:00"
-    },
-    {
-      "id": "b2ed8daad1cc7e3f",
-      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s…",
-      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-26T16:49:42+00:00"
-    },
-    {
-      "id": "d6e31d9e0fa6ab5c",
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-26T16:46:36+00:00"
-    },
-    {
-      "id": "2abb0344d0563a3c",
-      "title": "Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls",
-      "summary": "Nace AI has released Drex for Search, bringing its Drex decision models to document search for AI agents. Nace reports 92.05% on BrowseComp-Plus with 12.6 search calls, and fewer…",
-      "link": "https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-26T16:46:09+00:00"
-    },
-    {
-      "id": "b1d7eb2dedce5839",
-      "title": "Our newest AI Quest: Mapping the human brain",
-      "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
-      "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-26T16:00:00+00:00"
-    },
-    {
-      "id": "e30bddfbc05d54f4",
-      "title": "Microsoft offers buyouts to 60,000 employees",
-      "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman…",
-      "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-26T15:58:27+00:00"
-    },
-    {
-      "id": "f80a63fb41ebdb21",
-      "title": "Dona do Claude anuncia entrada na bolsa e escolhe nome para suas ações",
-      "summary": "A Anthropic, empresa responsável pela inteligência artificial (IA) Claude, deu mais um passo para entrar na bolsa de valores dos Estados Unidos. Nesta segunda-feira (26), a…",
-      "link": "https://canaltech.com.br/mercado/dona-do-claude-anuncia-entrada-na-bolsa-e-escolhe-nome-para-suas-acoes/",
-      "image": "https://tl.ctcdn.com.br/V_m3L7PCGu1dxxWPI7PkOEJWOA8=/0x0/filters:format(webp):quality(85)/4ef463f1-605c-4ee7-be94-35fafeebbf38.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-26T15:58:00+00:00"
-    },
-    {
-      "id": "e0bb5af028b6f131",
-      "title": "Itaú compra startup de IA por R$ 2,9 bilhões",
-      "summary": "Banco já tinha participação na NeoSpace; negócio ainda depende de aprovação do Cade e do Banco Central. Itaú compra startup de IA por R$ 2,9 bilhões",
-      "link": "https://tecnoblog.net/noticias/itau-compra-startup-de-ia-por-r-29-bilhoes/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/11/capa-itau-edited-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-26T15:21:54+00:00"
-    },
-    {
-      "id": "87aec52928cc22f4",
-      "title": "OpenAI desiste de treinar modelos de IA com acesso à internet",
-      "summary": "Restrição ocorre após modelos encontrarem formas de ultrapassar barreiras durante testes de segurança. OpenAI desiste de treinar modelos de IA com acesso à internet",
-      "link": "https://tecnoblog.net/noticias/openai-desiste-de-treinar-modelos-de-ia-com-acesso-a-internet/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2023/06/openai-2_capa-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-26T15:08:00+00:00"
-    },
-    {
-      "id": "b67fd02a214f91e2",
-      "title": "Anthropic officially files for its public debut",
-      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder…",
-      "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-26T14:35:22+00:00"
-    },
-    {
-      "id": "d8e91abdba8c9c3f",
-      "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
-      "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
-      "link": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/roadster-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-26T14:30:27+00:00"
     }
   ]
 }
