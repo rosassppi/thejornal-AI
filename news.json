@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-28T04:03:49.518772+00:00",
+  "generated_at": "2026-10-28T12:08:49.214602+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "6fa6a4cd2f41a95d",
+      "title": "Apple lança novo MacBook Pro e iMac com chip M6 e foco pesado em IA",
+      "summary": "A Apple anunciou a atualização do MacBook Pro de 14 polegadas e do iMac de 24 polegadas , agora equipados com a nova geração de chips M6 . A nova plataforma traz melhorias na…",
+      "link": "https://canaltech.com.br/hardware/apple-lanca-novo-macbook-pro-e-imac-com-chip-m6-e-foco-pesado-em-ia/",
+      "image": "https://tl.ctcdn.com.br/y7WwwtFK6nB-CX1zqmt9N4lpgxQ=/0x0/filters:format(webp):quality(85)/a46a8c3d-f655-4b44-a388-3c2b3204e956.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-28T12:04:00+00:00"
+    },
+    {
+      "id": "3a0e6f223eff99ed",
+      "title": "Voters in Texas agree: They hate data centers",
+      "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_TEXAS_DATA_CENTERS_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-28T12:00:00+00:00"
+    },
+    {
+      "id": "3c84bdc9f1b42a29",
+      "title": "Meta quietly launched an ‘AI pet journal’ app",
+      "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Waddle-World-meta-app-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-28T11:27:30+00:00"
+    },
+    {
+      "id": "f920ea21e40a0ac4",
+      "title": "With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic",
+      "summary": "Anthropic manager Felix Rieseberg says the classic coding interview is dead because Claude now solves small programming tasks better than job candidates do. He'd rather see…",
+      "link": "https://the-decoder.com/with-ai-writing-the-code-entrepreneurial-thinking-is-now-what-counts-most-for-newcomers-at-anthropic/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/05/anthropic_rocket-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-28T11:15:00+00:00"
+    },
+    {
+      "id": "be388f6473701e65",
+      "title": "IA da OpenAI faz 3 grandes descobertas científicas e muda relação com acadêmicos",
+      "summary": "A OpenAI anunciou três novos resultados científicos nas áreas de matemática, ciência da computação e física. As descobertas foram divulgadas em 26 de outubro de 2026, menos de um…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/ia-da-openai-faz-3-grandes-descobertas-cientificas-e-muda-relacao-com-academicos/",
+      "image": "https://tl.ctcdn.com.br/PFasPw4OE6fNEvU9TANEkkHk8bI=/0x0/filters:format(webp):quality(85)/43573d7e-5b1b-4d82-be80-77c9c21b0816.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-28T11:12:00+00:00"
+    },
+    {
+      "id": "c592f7298a637ff9",
+      "title": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+      "summary": "Cybersecurity startup Cathedral used AI agents to break into Anthropic's internal systems through third-party software as part of a bug bounty program. Anthropic confirmed access…",
+      "link": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/claude_hack.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-28T10:56:24+00:00"
+    },
+    {
+      "id": "67c6b18b0a76451d",
+      "title": "Legora is building the agentic operating system for legal work",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-28T09:30:00+00:00"
+    },
+    {
+      "id": "ca0519b8279805c7",
+      "title": "Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding",
+      "summary": "FlashMap is a speculative decoding drafter from Polymathic AI, Princeton and USC ISI researchers. It drafts 16 tokens jointly in one pass and reaches up to 6.14x lossless speedup…",
+      "link": "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-28T08:18:03+00:00"
+    },
+    {
+      "id": "e6d4cd067cb4c1fe",
+      "title": "Resumo do OD: gases de efeito estufa aumentam, OpenAI quer chips do Google e Anthropic se preocupa com IA",
+      "summary": "E mais: dados de cartões e CPFs são roubados O post Resumo do OD: gases de efeito estufa aumentam, OpenAI quer chips do Google e Anthropic se preocupa com IA apareceu primeiro em…",
+      "link": "https://olhardigital.com.br/2026/10/28/ciencia-e-espaco/resumo-do-od-gases-de-efeito-estufa-aumentam-openai-quer-chips-do-google-e-anthropic-se-preocupa-com-ia/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-28T08:00:00+00:00"
+    },
+    {
+      "id": "17e762e4b5798764",
+      "title": "Meet Google DeepMind’s Genie 4: Real-Time World Model With Native Audio",
+      "summary": "Google DeepMind released Genie 4 as a research preview. The real-time world model adds native audio, live dialogue and text steering, with Gemini 3.8 Flash planning events inside…",
+      "link": "https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-28T07:34:58+00:00"
+    },
     {
       "id": "a84b8d40fc3508bb",
       "title": "OpenAI busca alternativa à Nvidia e mira chips de IA do Google",
@@ -881,116 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-26T21:03:00+00:00"
-    },
-    {
-      "id": "744292a2af160189",
-      "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
-      "summary": "OpenAI has released GPT-6.1 Terra, a mid-range model that cuts API prices in half compared to its predecessor. Analysts say it sets a new standard for intelligence per dollar…",
-      "link": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo_earth.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-26T20:30:55+00:00"
-    },
-    {
-      "id": "a5e09cb3f0ea8070",
-      "title": "Atualize já: Apple libera iOS 27.2 com Siri AI em português",
-      "summary": "A Apple lançou a atualização iOS 27.2 nesta segunda-feira (26) com ajustes em todo o sistema dos iPhones. No Brasil, a principal novidade é a chegada da Siri AI em português . A…",
-      "link": "https://canaltech.com.br/apps/atualize-ja-apple-libera-ios-272-com-siri-ai-em-portugues/",
-      "image": "https://tl.ctcdn.com.br/vyidGOEcVE9rooIAm1hwqUlUJ-4=/0x0/filters:format(webp):quality(85)/e69ad77b-5bc6-4c4b-be5b-939a3e2ae48c.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-26T20:30:48+00:00"
-    },
-    {
-      "id": "3806ea7442989e07",
-      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-      "summary": "Included is the ability to limit which applications Siri can directly access.",
-      "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Siri-AI-500x500.png",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-26T20:04:16+00:00"
-    },
-    {
-      "id": "2bfe71a1654aa697",
-      "title": "Hora de renovar o home office: selecionamos as melhores impressoras em promoção na Amazon",
-      "summary": "Se você está pensando em trocar a impressora ou comprar uma pela primeira vez, este é o momento certo. Reunimos três boas opções de impressoras multifuncionais em oferta na Amazon…",
-      "link": "https://olhardigital.com.br/2026/10/26/reviews/hora-de-renovar-o-home-office-selecionamos-as-melhores-impressoras-em-promocao-na-amazon/",
-      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-26T19:28:49+00:00"
-    },
-    {
-      "id": "118a0be49606e101",
-      "title": "Anthropic opens its books for Wall Street, showing record revenue and mounting obligations",
-      "summary": "Anthropic is the first major AI lab to file an S-1 with the SEC, planning to list on the Nasdaq under the ticker \"ANT.\" The numbers are strong, with $11.6 billion in quarterly…",
-      "link": "https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_claude_bull_.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-26T19:14:45+00:00"
-    },
-    {
-      "id": "1e663d1fa1b08d3e",
-      "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-      "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
-      "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Radeco-Cerberus-robot-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-26T18:50:41+00:00"
-    },
-    {
-      "id": "37ff966be83686ef",
-      "title": "IA está sugando chips? Samsung pode fabricar 20% menos Galaxy A",
-      "summary": "A Samsung pode fabricar até 20% menos celulares Galaxy A nos últimos três meses de 2026, e a inteligência artificial pode ter parte da culpa. Segundo um relatório da Coreia do…",
-      "link": "https://canaltech.com.br/smartphone/ia-esta-sugando-chips-samsung-pode-fabricar-20-menos-galaxy-a/",
-      "image": "https://tl.ctcdn.com.br/C047zNTbekxRnsQ32dwVWZSCO5w=/0x0/filters:format(webp):quality(85)/27f09221-e2d8-4fd2-9b3a-08582774fe08.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-26T18:41:25+00:00"
-    },
-    {
-      "id": "773e644cdc7eea55",
-      "title": "Cansou da IA no Google? Veja como bloquear resumos automáticos e limpar a busca",
-      "summary": "Em qualquer pesquisa no Google, a Visão Geral da IA é o primeiro resultado a aparecer, mas nem sempre ele responde tudo que precisamos saber sobre determinado assunto. Muitas…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/cansou-da-ia-no-google-veja-como-bloquear-resumos-automaticos-e-limpar-a-busca/",
-      "image": "https://tl.ctcdn.com.br/qT3S4nAp3VkSrBEd8h-kRXNHSqg=/0x0/filters:format(webp):quality(85)/d30d4731-6f24-45e6-ac2e-db4c2fc5a2f9.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-26T18:08:00+00:00"
-    },
-    {
-      "id": "673b1a0823da003b",
-      "title": "Smart TV LG QNED Mini LED 65″ fica 27% mais barata em oferta",
-      "summary": "LG QNED70 de 65\" tem painel 4K com tecnologia avançada de cores e IA que recomenda conteúdos; smart TV da LG recebe desconto de 27% no Pix no Mercado Livre Smart TV LG QNED Mini…",
-      "link": "https://tecnoblog.net/achados/smart-tv-lg-qned-mini-led-65-fica-28-mais-barata-em-oferta/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-26T17:53:10+00:00"
-    },
-    {
-      "id": "f5addaf282bb14af",
-      "title": "Researchers find six patterns that make AI text so exhausting to read",
-      "summary": "A study from New York University and the University of Texas at Austin shows that frontier language models systematically overuse linguistic patterns that are hard for humans to…",
-      "link": "https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/language_letters.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-26T17:50:15+00:00"
     }
   ]
 }
