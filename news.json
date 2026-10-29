@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-10-29T04:27:21.528294+00:00",
+  "generated_at": "2026-10-29T12:18:56.401170+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "f9a4c190922d8644",
+      "title": "Google's AI search problem finally shows up in the earnings report, some investors believe",
+      "summary": "Google's stock dropped as much as ten percent after its quarterly earnings. Cloud revenue more than doubled to $30.7 billion, but search revenue grew just 12 percent, slower than…",
+      "link": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/google_logo_wall-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-29T10:16:34+00:00"
+    },
+    {
+      "id": "32d69d7e6fd51a11",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they…",
+      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-29T10:11:12+00:00"
+    },
+    {
+      "id": "d62a8f09dced3dd9",
+      "title": "AI has come for Arizona’s water",
+      "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and…",
+      "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268658_Data_center_AZ_LEDE_VOSSS50.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-29T10:00:04+00:00"
+    },
+    {
+      "id": "198a920bc79bf820",
+      "title": "Microsoft encerra suporte ao Copilot em smart TVs da LG",
+      "summary": "Integração acaba até o final do ano, mas ainda não tem dia certo para acontecer. Notificação chega via webOS nos modelos da marca. Microsoft encerra suporte ao Copilot em smart…",
+      "link": "https://tecnoblog.net/noticias/microsoft-encerra-suporte-ao-copilot-em-smart-tvs-da-lg/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/11/capa-copilot-1-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-29T09:51:59+00:00"
+    },
+    {
+      "id": "0dfcb6e95d288b13",
+      "title": "Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents",
+      "summary": "Infini-AI-Lab released Hermit, an Apache-2.0 harness adapter framework that trains an external layer of instructions, skills, memory and tools from task feedback, leaving the…",
+      "link": "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-29T08:24:52+00:00"
+    },
+    {
+      "id": "00a36f3766c948a8",
+      "title": "Resumo do OD: lucro da Microsoft, Alphabet aquém e recorde da Samsung",
+      "summary": "E mais: MacBook Pro touch, ChatGPT envolvido em mais uma morte e mais demissões na Amazon O post Resumo do OD: lucro da Microsoft, Alphabet aquém e recorde da Samsung apareceu…",
+      "link": "https://olhardigital.com.br/2026/10/29/pro/resumo-do-od-lucro-da-microsoft-alphabet-aquem-e-recorde-da-samsung/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-29T08:00:00+00:00"
+    },
+    {
+      "id": "4cd75eede835cdf0",
+      "title": "Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech",
+      "summary": "Block’s AI lab released Dessa, a full-duplex speech-to-speech model trained only on human conversation audio. It runs locally on a MacBook Pro M4 Max, but Block has published no…",
+      "link": "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-29T07:50:39+00:00"
+    },
+    {
+      "id": "893804c3730cb366",
+      "title": "AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for Voice Agents",
+      "summary": "AssemblyAI has released AssemblyAI-TTS-1, its first text-to-speech model for voice agents. It costs $15 per 1M characters, offers unlimited concurrency without a contract, and…",
+      "link": "https://www.marktechpost.com/2026/10/29/assemblyai-tts-1-text-to-speech-api-voice-agents/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-29T07:28:36+00:00"
+    },
+    {
+      "id": "c0d07c9333ebc2ad",
+      "title": "NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language Transcription with ~4B Active Parameters",
+      "summary": "NVIDIA released Nemotron 3.5 Transcribe, an open-weights speech LLM with 4.3B active parameters. It transcribes 40 languages, adds speaker labels and word timestamps, and posts a…",
+      "link": "https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-29T04:41:24+00:00"
+    },
     {
       "id": "0f0d2a9de40c0009",
       "title": "IA faz lucro da Samsung disparar quase 800% em um trimestre",
@@ -34,6 +133,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-29T01:39:41+00:00"
+    },
+    {
+      "id": "6394645bd5105adc",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "summary": "",
+      "link": "https://huggingface.co/blog/anydecisionmodel",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-10-29T00:00:00+00:00"
     },
     {
       "id": "3b64f2126ca310fc",
@@ -454,17 +564,6 @@
       "published_at": "2026-10-28T12:04:00+00:00"
     },
     {
-      "id": "3a0e6f223eff99ed",
-      "title": "Voters in Texas agree: They hate data centers",
-      "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_TEXAS_DATA_CENTERS_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-28T12:00:00+00:00"
-    },
-    {
       "id": "e59a3c9fb64c2656",
       "title": "Pairing industrial AI autonomy and human control",
       "summary": "",
@@ -473,6 +572,17 @@
       "source": "MIT Tech Review",
       "region": "mundo",
       "category": "Pesquisa",
+      "published_at": "2026-10-28T12:00:00+00:00"
+    },
+    {
+      "id": "3a0e6f223eff99ed",
+      "title": "Voters in Texas agree: They hate data centers",
+      "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_TEXAS_DATA_CENTERS_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
       "published_at": "2026-10-28T12:00:00+00:00"
     },
     {
@@ -881,116 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-27T18:26:29+00:00"
-    },
-    {
-      "id": "ec44d79f1928c236",
-      "title": "Máquina da Samsung ficou “burra”, mas usuário conserta seu cérebro com IA",
-      "summary": "Um usuário conseguiu recuperar as funções inteligentes de uma máquina de lavar Samsung com mais de dez anos de uso após recorrer ao Claude, inteligência artificial da Anthropic. O…",
-      "link": "https://canaltech.com.br/eletro/maquina-da-samsung-ficou-burra-mas-usuario-conserta-seu-cerebro-com-ia/",
-      "image": "https://tl.ctcdn.com.br/R_BQROIunoztg-LD4nV2soepIcg=/0x0/filters:format(webp):quality(85)/cce5dc92-cbbc-4d81-9e87-99329e43f468.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-27T17:46:57+00:00"
-    },
-    {
-      "id": "b2aff63a03e983b2",
-      "title": "VisionQuest is what happens when AI really goes rogue",
-      "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-27T17:30:00+00:00"
-    },
-    {
-      "id": "193683c2f551dc41",
-      "title": "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs",
-      "summary": "Google Deepmind has introduced Genie 4, a real-time world model that simulates interactive 3D worlds with sound and talking characters. Gemini models help plan in the background…",
-      "link": "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/Genie-4-Google-title.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-27T17:25:09+00:00"
-    },
-    {
-      "id": "1c5b51464767c2ad",
-      "title": "Build specialized multimodal models with LFM3",
-      "summary": "",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-27T17:16:52+00:00"
-    },
-    {
-      "id": "24969064b492b712",
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
-      "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-27T17:08:08+00:00"
-    },
-    {
-      "id": "bc9b61799a4fcc3b",
-      "title": "O que está acontecendo? ChatGPT inunda e-mails com pedidos de usuários em apuros",
-      "summary": "O ChatGPT orientou usuários com problemas técnicos a procurar por jornalistas , em vez de recorrerem aos canais tradicionais de suporte. A situação veio à tona depois que as…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-esta-acontecendo-chatgpt-inunda-e-mails-com-pedidos-de-usuarios-em-apuros/",
-      "image": "https://tl.ctcdn.com.br/M97dFogcb8WuR352m8LixgtgapI=/0x0/filters:format(webp):quality(85)/483c949e-c9ea-41be-b2a9-e0fcfe03b894.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-27T17:02:00+00:00"
-    },
-    {
-      "id": "699882931facdf65",
-      "title": "iOS 27.2 libera nova Siri em português no Brasil",
-      "summary": "Siri AI ganha acesso a mais informações pessoais. Atualização também traz novidades para Mensagens, Fotos e Apple Music. iOS 27.2 libera nova Siri em português no Brasil",
-      "link": "https://tecnoblog.net/noticias/ios-27-2-libera-nova-siri-em-portugues-no-brasil/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/siri-apple-intelligence-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-27T16:52:11+00:00"
-    },
-    {
-      "id": "bb9f02a56d8cd14e",
-      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-      "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2280291188.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-27T16:51:22+00:00"
-    },
-    {
-      "id": "18d6fa11580979b9",
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
-      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-27T16:30:57+00:00"
-    },
-    {
-      "id": "991356d9e9385200",
-      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-      "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/firefox-fill.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-27T16:14:18+00:00"
     }
   ]
 }
