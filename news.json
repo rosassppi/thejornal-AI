@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-30T04:27:25.304222+00:00",
+  "generated_at": "2026-10-30T12:09:38.663960+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "7f7f167172823740",
+      "title": "Maine’s data center revolt will decide who controls the Senate",
+      "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_MAINE_DATA_CENTERS_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-30T11:00:00+00:00"
+    },
+    {
+      "id": "885a4273fd69d8a0",
+      "title": "Samsung Galaxy Fit 4 vaza sem grandes novidades e pode decepcionar fãs",
+      "summary": "A Samsung Galaxy Fit 4 teve praticamente todas as suas funções reveladas em um vazamento, indicando que a nova pulseira inteligente pode trazer poucas novidades em relação à…",
+      "link": "https://canaltech.com.br/smartwatch/samsung-galaxy-fit-4-vaza-sem-grandes-novidades-e-pode-decepcionar-fas/",
+      "image": "https://tl.ctcdn.com.br/YbLoFtTkOM3BR873ujNpsTcfRQ4=/0x0/filters:format(webp):quality(85)/83a03983-b34a-46cf-8df2-e6f1ea3dbd24.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-30T10:05:01+00:00"
+    },
+    {
+      "id": "c096782638d443ac",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on…",
+      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-30T09:00:00+00:00"
+    },
+    {
+      "id": "1aed549576ddf157",
+      "title": "Resumo do OD: Amazon em baixa, Intel alerta e BYD avança no Brasil",
+      "summary": "E mais: medos da Anthropic, falha no Telegram e espionagem na Nvidia O post Resumo do OD: Amazon em baixa, Intel alerta e BYD avança no Brasil apareceu primeiro em Olhar Digital .",
+      "link": "https://olhardigital.com.br/2026/10/30/pro/resumo-do-od-amazon-em-baixa-intel-alerta-e-byd-avanca-no-brasil/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-30T08:00:00+00:00"
+    },
+    {
+      "id": "f58673bc1528d0af",
+      "title": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
+      "summary": "Samaya AI’s Sterling is a post-trained Nemotron 3.5 Lightning model for financial research. It scores 58.9% on FrontierFinance at $0.61 per question, beating Claude Fable 5.1’s…",
+      "link": "https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-30T07:26:12+00:00"
+    },
+    {
+      "id": "88860537ecad4e2b",
+      "title": "Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model",
+      "summary": "Edge0 released Audio8-TTS-Realistic, a 0.6B open-weight zero-shot voice cloning TTS model under Apache 2.0. It supports 23 languages and adds a final GRPO stage driven by a…",
+      "link": "https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-30T05:02:52+00:00"
+    },
     {
       "id": "f233bec0af96db24",
       "title": "Gemini agora permite editar PDFs, documentos e planilhas dentro do chat",
@@ -925,72 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-28T16:59:59+00:00"
-    },
-    {
-      "id": "7ffc6e7f6ce1eb22",
-      "title": "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
-      "summary": "At DevDay Exchange in Berlin, OpenAI mostly repeated what it had already announced, but it did share a few new details. The AI assistant Dots should roll out more widely in Europe…",
-      "link": "https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/OpenAI-DevDay-Exchange-2026.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-28T16:25:02+00:00"
-    },
-    {
-      "id": "de2913282eeb1567",
-      "title": "Claude for Legal now verifies sources automatically, then hands the file to a lawyer",
-      "summary": "Anthropic is adding pre-built templates to Claude for Legal. These interactive overviews and tables simplify setup for legal teams and speed up routine work like contract reviews…",
-      "link": "https://the-decoder.com/claude-for-legal-now-verifies-sources-automatically-then-hands-the-file-to-a-lawyer/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/claude_Legal-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-28T16:20:03+00:00"
-    },
-    {
-      "id": "1583c560106073a3",
-      "title": "Meta says it’ll probably delay its controversial new business terms again",
-      "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta…",
-      "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-28T16:15:30+00:00"
-    },
-    {
-      "id": "8e395000bc585dc2",
-      "title": "Claude trava tarefas de engenharia reversa e revolta quem modifica jogos e TVs",
-      "summary": "O Claude começou a interromper tarefas de engenharia reversa de softwares, jogos e firmwares de smart TVs. Os usuários relatam, em publicação no Reddit, que o assistente de…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/claude-trava-tarefas-de-engenharia-reversa-e-revolta-quem-modifica-jogos-e-tvs/",
-      "image": "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-28T16:03:00+00:00"
-    },
-    {
-      "id": "c3f3cbf4e178e822",
-      "title": "AI execs may be too out of touch to build for the general public",
-      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
-      "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-28T15:53:52+00:00"
-    },
-    {
-      "id": "28c7cc4d12419c93",
-      "title": "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
-      "summary": "Nvidia has released Nemotron 3.5 Transcribe, an open speech recognition model that handles transcription, speaker recognition, and translation and takes its instructions as text…",
-      "link": "https://the-decoder.com/nvidias-open-nemotron-3-5-transcribe-combines-transcription-translation-and-speaker-recognition/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-28T15:49:39+00:00"
     }
   ]
 }
