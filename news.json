@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-29T22:27:14.288975+00:00",
+  "generated_at": "2026-10-30T04:27:25.304222+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "f233bec0af96db24",
+      "title": "Gemini agora permite editar PDFs, documentos e planilhas dentro do chat",
+      "summary": "Recurso foi anunciado nesta quinta-feira (29) e está disponível para todos os usuários do Gemini, em todos os idiomas e regiões onde o aplicativo funciona O post Gemini agora…",
+      "link": "https://olhardigital.com.br/2026/10/29/inteligencia-artificial/gemini-agora-permite-editar-pdfs-documentos-e-planilhas-dentro-do-chat/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/gemini-scaled-1-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-30T01:22:35+00:00"
+    },
+    {
+      "id": "c4d34ddeaf925ee4",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-30T01:20:48+00:00"
+    },
+    {
+      "id": "772e2e8e8ca4a19f",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO…",
+      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-29T23:42:22+00:00"
+    },
+    {
+      "id": "145cd9a952af9108",
+      "title": "Fim da busca limpa: Google vai colocar anúncios no Modo IA e Brasil está na lista",
+      "summary": "O Google anunciou, nesta quarta-feira (28), que vai expandir os anúncios no Modo IA da Pesquisa para novos países, incluindo o Brasil . A chegada ao mercado brasileiro está…",
+      "link": "https://canaltech.com.br/mercado/fim-da-busca-limpa-google-vai-colocar-anuncios-no-modo-ia-e-brasil-esta-na-lista/",
+      "image": "https://tl.ctcdn.com.br/fE85NMmVSODvBZ6bBERwld3-YUg=/0x0/filters:format(webp):quality(85)/7d9c7996-5e16-4d2d-aeb7-28e176e8aff3.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-29T23:01:00+00:00"
+    },
+    {
+      "id": "baa23e9e4aa9dd36",
+      "title": "Google leva anúncios do Modo IA a novos países; Brasil está na lista",
+      "summary": "Iniciativa amplia a presença de publicidade nas pesquisas feitas com IA e acompanha a mudança na forma como usuários procuram informações e produtos na internet O post Google leva…",
+      "link": "https://olhardigital.com.br/2026/10/29/internet-e-redes-sociais/google-leva-anuncios-do-modo-ia-a-novos-paises-brasil-esta-na-lista/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/google-3-1024x768.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-29T22:38:07+00:00"
+    },
     {
       "id": "f38ccb0a6fd5a9a0",
       "title": "Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens",
@@ -936,61 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-28T15:49:39+00:00"
-    },
-    {
-      "id": "776aed39bd32c423",
-      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
-      "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
-      "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-28T15:41:18+00:00"
-    },
-    {
-      "id": "0426e589f6a59fde",
-      "title": "Gemini Notebook agora tem gravador de áudio para palestras e reuniões",
-      "summary": "Novo recurso do Gemini Notebook (antigo NotebookLM) permite gravar até uma hora de áudio e transcrever o conteúdo resultante. Gemini Notebook agora tem gravador de áudio para…",
-      "link": "https://tecnoblog.net/noticias/gemini-notebook-agora-tem-gravador-de-audio-para-palestras-e-reunioes/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/08/google-gemini-notebook-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-28T15:07:20+00:00"
-    },
-    {
-      "id": "68aae12c9eff8d7b",
-      "title": "New Artificial Analysis index widens the gap between open and closed models",
-      "summary": "Artificial Analysis overhauled its Intelligence Index, causing Kimi K3.1 Pro to drop five spots in the rankings. The article New Artificial Analysis index widens the gap between…",
-      "link": "https://the-decoder.com/new-artificial-analysis-index-widens-the-gap-between-open-and-closed-models/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/kimi_k31pro.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-28T15:04:43+00:00"
-    },
-    {
-      "id": "ec733f799e1aaee3",
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "summary": "",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-28T14:58:17+00:00"
-    },
-    {
-      "id": "bddebf86268f0d30",
-      "title": "xAI is buying out homeowners who promise not to sue over data center noise",
-      "summary": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2289399619.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-28T14:44:00+00:00"
     }
   ]
 }
