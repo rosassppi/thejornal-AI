@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-30T21:57:08.773180+00:00",
+  "generated_at": "2026-10-31T04:08:08.712528+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "cf8699c07a2f208e",
+      "title": "Gastos com IA acendem alerta financeiro para Meta e Anthropic",
+      "summary": "Dois casos têm ponto em comum: a preocupação com a capacidade das empresas de transformar os investimentos bilionários em IA em receitas suficientes para compensar os custos…",
+      "link": "https://olhardigital.com.br/2026/10/30/pro/gastos-com-ia-acendem-alerta-financeiro-para-meta-e-anthropic/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/ia_financas-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-31T01:54:19+00:00"
+    },
+    {
+      "id": "fe21f18e76e0377b",
+      "title": "Google testa IA em satélite e avança em projeto de data centers espaciais",
+      "summary": "Teste representa avanço experimental do Project Suncatcher, iniciativa da empresa que investiga a possibilidade de levar data centers de IA para a órbita terrestre O post Google…",
+      "link": "https://olhardigital.com.br/2026/10/30/pro/google-testa-ia-em-satelite-e-avanca-em-projeto-de-data-centers-espaciais/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/busca-do-google-1024x768.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-31T01:31:19+00:00"
+    },
+    {
+      "id": "420fd151ca6ffeb4",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-31T01:20:05+00:00"
+    },
+    {
+      "id": "7645d704bc0c6113",
+      "title": "OpenAI cede à pressão de usuários e dobra limites de uso do ChatGPT Pro",
+      "summary": "A OpenAI dobrou os limites de uso de todas as assinaturas do ChatGPT Pro, como os planos de US$ 100 (R$ 525), US$ 200 (R$ 999,90) e US$ 500 (R$ 2.600), além do Business Premium. A…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/openai-cede-a-pressao-de-usuarios-e-dobra-limites-de-uso-do-chatgpt-pro/",
+      "image": "https://tl.ctcdn.com.br/f_vIcSSaobYTOe-zf2DVFpHNHB4=/0x0/filters:format(webp):quality(85)/eff842d1-2d07-43d0-ad5f-2cc5ef98c683.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-31T00:07:00+00:00"
+    },
+    {
+      "id": "e1b4a35a75a820f7",
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
+      "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-30T23:21:23+00:00"
+    },
+    {
+      "id": "4413e75a33c5a4c9",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-30T22:56:13+00:00"
+    },
+    {
+      "id": "8edfa603fa5ede8d",
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will…",
+      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-30T22:32:53+00:00"
+    },
+    {
+      "id": "572e27c47a4b6bf4",
+      "title": "Como usar o My FanCam no celular Samsung Galaxy",
+      "summary": "O My FanCam é um recurso de IA nos celulares Samsung Galaxy para focar o vídeo numa pessoa específica, ideal para gravar shows ou coreografias. A função está disponível a partir…",
+      "link": "https://canaltech.com.br/apps/como-usar-o-my-fancam-no-celular-samsung-galaxy/",
+      "image": "https://tl.ctcdn.com.br/0sBwjYbSPa2_wD67RTiTTkcHQhs=/0x0/filters:format(webp):quality(85)/d666e538-b395-4333-8843-423553932536.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-30T22:00:00+00:00"
+    },
     {
       "id": "d95f2af92ca0c125",
       "title": "Intel’s stock crashes, knocking $12B from government’s stake",
@@ -903,94 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-29T16:00:00+00:00"
-    },
-    {
-      "id": "477937df1bf729c9",
-      "title": "Paris-based Mistral releases \"Le Chonk,\" a strong coding model that still trails China overall",
-      "summary": "Mistral has released the weights for Large 4, aka \"Le Chonk,\" a trillion-parameter model trained entirely in Europe. Mistral says it beats its open rivals at coding, and…",
-      "link": "https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/mistral_ai-3.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-29T15:25:27+00:00"
-    },
-    {
-      "id": "7bbb753a0b459cb1",
-      "title": "Novo processo liga ChatGPT à morte de mulher de 31 anos",
-      "summary": "Chatbot da OpenAI minimizou os sintomas relatados antes da morte de Bowen Wan, em fevereiro de 2026. Novo processo liga ChatGPT à morte de mulher de 31 anos",
-      "link": "https://tecnoblog.net/noticias/novo-processo-liga-chatgpt-a-morte-de-mulher-de-31-anos/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/wan-epilepsia-chatgpt-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-29T15:09:28+00:00"
-    },
-    {
-      "id": "9cc05094fe280e7c",
-      "title": "Google fatura menos com Modo IA do que com a busca tradicional",
-      "summary": "Buscas com IA ajudam a aumentar o número de consultas, mas ainda geram menos receita. Google fatura menos com Modo IA do que com a busca tradicional",
-      "link": "https://tecnoblog.net/noticias/google-fatura-menos-com-modo-ia-do-que-com-a-busca-tradicional/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-novos-icones-google-2026-11-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-29T14:51:51+00:00"
-    },
-    {
-      "id": "8d448df3e470faab",
-      "title": "The NYT Cooking app is testing AI recipe modifications",
-      "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NYT-Cooking-AI-recipe-modification-feature-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-29T14:39:37+00:00"
-    },
-    {
-      "id": "4a3597f1441a1e18",
-      "title": "US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices",
-      "summary": "The US Justice Department is looking into Nvidia's planned acquisition of open-source platform Hugging Face. The article US antitrust regulators are scrutinizing Nvidia's Hugging…",
-      "link": "https://the-decoder.com/us-antitrust-regulators-are-scrutinizing-nvidias-hugging-face-deal-and-sales-practices/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-1536x864-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-29T14:07:49+00:00"
-    },
-    {
-      "id": "3a644431de131a74",
-      "title": "Anthropic is asking Wall Street to believe in AGI",
-      "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO…",
-      "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_DCD_anthropic_IPO.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-29T14:00:00+00:00"
-    },
-    {
-      "id": "86f9ef27ef78aa2e",
-      "title": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-      "summary": "US intelligence agencies believe an executive in Nvidia CEO Jensen Huang's circle is an informant for China. The article Chinese spies targeted Nvidia CEO Jensen Huang, according…",
-      "link": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/",
-      "image": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-29T13:42:38+00:00"
-    },
-    {
-      "id": "e508e29ae812fe58",
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "summary": "",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-29T13:37:07+00:00"
     }
   ]
 }
