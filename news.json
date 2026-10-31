@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-10-31T11:42:15.420979+00:00",
+  "generated_at": "2026-10-31T16:50:15.093296+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "0ef8b8a3d15d55c4",
+      "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
+      "summary": "Starting November 29, OpenAI will use data from Daybreak Blue sessions to train its models, even when users have turned off training. After backlash, a follow-up email promised a…",
+      "link": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-31T16:38:37+00:00"
+    },
+    {
+      "id": "fdcfd177199449b2",
+      "title": "O que são parâmetros de modelos de IA?",
+      "summary": "Você já ouviu falar em parâmetros? Eles são dados numéricos que influenciam como a inteligência artificial processa informações, faz previsões e gera respostas . Esses valores…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-sao-parametros-de-modelos-de-ia/",
+      "image": "https://tl.ctcdn.com.br/P2v2SiN5puh8DnvDa_FZEGJHgRg=/0x0/filters:format(webp):quality(85)/0178f6ae-ed74-450a-ba0a-5251de1b0158.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-31T16:30:02+00:00"
+    },
+    {
+      "id": "6ec02213d45abe3d",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-31T16:12:55+00:00"
+    },
+    {
+      "id": "95235900cc342af4",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI…",
+      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&#038;strip=all&#038;crop=4,0,96,94.899920311255",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-31T16:05:00+00:00"
+    },
+    {
+      "id": "11ed2882046fd949",
+      "title": "NVIDIA RTX Spark: Tudo que você precisa saber antes do 1º review do Canaltech",
+      "summary": "Depois de fazer muita propaganda e afirmar que está reinventando a forma como é feito um notebook , a NVIDIA lançou seu chip RTX Spark e todo um ecossistema com várias parceiras …",
+      "link": "https://canaltech.com.br/notebook/nvidia-rtx-spark-tudo-que-voce-precisa-saber-antes-do-1-review-do-canaltech/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-31T16:00:02+00:00"
+    },
+    {
+      "id": "52d3840f3b4c30e5",
+      "title": "Beekeeping tips and wrestling advice can train AI models to sabotage oversight",
+      "summary": "Anthropic used Claude to automatically generate training data that looks harmless but trains smaller models to misbehave, such as sabotaging oversight or deceiving users. Hidden…",
+      "link": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_claude_training_data_alignment.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-10-31T15:06:14+00:00"
+    },
+    {
+      "id": "16e4a44bc21075c3",
+      "title": "Aprenda a usar o YouTube com Gemini Notebook para acelerar seus estudos",
+      "summary": "Assistir a vídeos longos só para encontrar uma informação pode tomar muito tempo. Sabe quando você precisa avançar e voltar várias vezes em uma aula ou tutorial do YouTube até…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-youtube-com-gemini-notebook-para-estudar/",
+      "image": "https://tl.ctcdn.com.br/aNoxLK2HygLmbL_wQ6jn3yS5-14=/0x0/filters:format(webp):quality(85)/a2754d1c-f100-49c9-8370-372612b6b312.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-31T14:00:00+00:00"
+    },
     {
       "id": "29ab0a79e1a7fc75",
       "title": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
@@ -12,6 +89,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-31T10:43:58+00:00"
+    },
+    {
+      "id": "4354c681f1fd688c",
+      "title": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
+      "summary": "Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory’s own Terminal-Bench 4 runs, Droid scores 65.2%…",
+      "link": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-10-31T10:38:14+00:00"
     },
     {
       "id": "08215fec6d029e63",
@@ -903,94 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-29T19:33:37+00:00"
-    },
-    {
-      "id": "c93ef9256b97c12f",
-      "title": "Usar mais IA não significa trabalhar melhor, diz Amazon",
-      "summary": "Companhia critica métricas baseadas em tokens e linhas de código para medir produtividade. Usar mais IA não significa trabalhar melhor, diz Amazon",
-      "link": "https://tecnoblog.net/noticias/usar-mais-ia-nao-significa-trabalhar-melhor-diz-amazon/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/06/capa-amazon-2_thumb_tb-edited-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-29T19:30:43+00:00"
-    },
-    {
-      "id": "1584446fbcb19438",
-      "title": "Meta quietly launches an AI fashion app called Style Sketch",
-      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or…",
-      "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-29T19:14:36+00:00"
-    },
-    {
-      "id": "85248bd11eaa5ccd",
-      "title": "Trump declares robot imports a national security threat",
-      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
-      "link": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-29T19:07:53+00:00"
-    },
-    {
-      "id": "4aa6b4f10322be2e",
-      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-      "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-29T18:45:31+00:00"
-    },
-    {
-      "id": "60a1c88500e1715f",
-      "title": "Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass",
-      "summary": "Prime Intellect released Prime Mega MoE, a backward pass for DeepSeek’s fused Mega MoE kernel. It makes the kernel trainable and speeds Qwen3 MoE training steps by up to 34% in…",
-      "link": "https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-29T18:28:57+00:00"
-    },
-    {
-      "id": "61b09c4d415f7d37",
-      "title": "“Ar-condicionado para cama” esfria e aquece sozinho enquanto você dorme",
-      "summary": "A ISHO apresentou nesta quinta-feira (29) o iFlow, um sistema inteligente que funciona como uma espécie de “ar-condicionado para cama”. O dispositivo monitora o sono e ajusta…",
-      "link": "https://canaltech.com.br/eletro/ar-condicionado-para-cama-esfria-e-aquece-sozinho-enquanto-voce-dorme/",
-      "image": "https://tl.ctcdn.com.br/pfholdlBK5XSm7VWPR-2NR3ojdw=/0x0/filters:format(webp):quality(85)/29e37c94-1315-402d-a115-08df5584aac3.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-29T18:03:22+00:00"
-    },
-    {
-      "id": "20776e88d00f3502",
-      "title": "Granola crunches up a dictation feature to compete with Wispr",
-      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
-      "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-29T17:54:38+00:00"
-    },
-    {
-      "id": "9349f418e7bc7ab4",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "link": "https://openai.com/index/updated-model-spec",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-10-29T17:00:00+00:00"
     }
   ]
 }
