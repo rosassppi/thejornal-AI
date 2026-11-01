@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-31T20:59:27.337134+00:00",
+  "generated_at": "2026-11-01T04:29:17.136457+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "d9269f49d95d2fae",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-31T21:41:00+00:00"
+    },
+    {
+      "id": "6d7e239a9453bfec",
+      "title": "Hora de renovar o home office: selecionamos impressoras em promoção na Amazon",
+      "summary": "Se você está pensando em comprar uma impressora nova ou trocar aquela que já deu o que tinha para dar, este é o momento certo. Reunimos três opções em oferta na Amazon —…",
+      "link": "https://olhardigital.com.br/2026/10/31/reviews/hora-de-renovar-o-home-office-selecionamos-impressoras-em-promocao-na-amazon-7/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-31T21:34:25+00:00"
+    },
+    {
+      "id": "204d5faf405d3242",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-10-31T21:17:03+00:00"
+    },
+    {
+      "id": "b41592d5d373a567",
+      "title": "Meta entra no mercado dos robôs humanoides",
+      "summary": "Em parceria com uma startup chinesa, a Meta desenvolveu um protótipo de robô humanoide para integrar a IA às tarefas domésticas O post Meta entra no mercado dos robôs humanoides…",
+      "link": "https://olhardigital.com.br/2026/10/31/pro/meta-entra-no-mercado-dos-robos-humanoides/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-31T20:45:00+00:00"
+    },
     {
       "id": "377ccf4eaf1ca095",
       "title": "Sam Altman visita Samsung para discutir futuro dos chips de IA",
@@ -36,23 +80,23 @@
       "published_at": "2026-10-31T19:20:55+00:00"
     },
     {
-      "id": "566f28acc1e38db4",
-      "title": "Montadoras apostam na impressão 3D para reduzir custos e aumentar produção",
-      "summary": "Ford, Rivian e General Motors (GM) estão expandindo o uso de impressoras 3D em suas fábricas O post Montadoras apostam na impressão 3D para reduzir custos e aumentar produção…",
-      "link": "https://olhardigital.com.br/2026/10/31/carros-e-tecnologia/montadoras-apostam-na-impressao-3d-para-reduzir-custos-e-aumentar-producao/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-31T19:00:00+00:00"
-    },
-    {
       "id": "1e67a928a95989d7",
       "title": "Como usar o Claude no Google Planilhas para criar gráficos interativos sem fórmulas difíceis",
       "summary": "Com a inteligência artificial Claude, da Anthropic, você não precisa saber escrever fórmulas complexas para criar tabelas, gráficos interativos e painéis de controle no Google…",
       "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-o-claude-no-google-planilhas-para-criar-graficos-interativos-sem-formulas-dificeis/",
       "image": "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
       "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-10-31T19:00:00+00:00"
+    },
+    {
+      "id": "566f28acc1e38db4",
+      "title": "Montadoras apostam na impressão 3D para reduzir custos e aumentar produção",
+      "summary": "Ford, Rivian e General Motors (GM) estão expandindo o uso de impressoras 3D em suas fábricas O post Montadoras apostam na impressão 3D para reduzir custos e aumentar produção…",
+      "link": "https://olhardigital.com.br/2026/10/31/carros-e-tecnologia/montadoras-apostam-na-impressao-3d-para-reduzir-custos-e-aumentar-producao/",
+      "image": null,
+      "source": "Olhar Digital",
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-31T19:00:00+00:00"
@@ -947,50 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-29T21:01:24+00:00"
-    },
-    {
-      "id": "1a6d3dc21a14be58",
-      "title": "Amazon decepciona em lucro e vê caixa afundar com gastos em IA",
-      "summary": "Amazon atribuiu a queda principalmente a ganhos de US$ 9,5 bilhões com investimentos na Anthropic O post Amazon decepciona em lucro e vê caixa afundar com gastos em IA apareceu…",
-      "link": "https://olhardigital.com.br/2026/10/29/pro/amazon-decepciona-em-lucro-e-ve-caixa-afundar-com-gastos-em-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/12/aws-google-cloud-1024x666.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-29T20:44:10+00:00"
-    },
-    {
-      "id": "f7ece8b7c2251fdf",
-      "title": "Intel supera expectativas no trimestre, mas prevê desaceleração",
-      "summary": "Fabricante registrou alta de 21% na receita do terceiro trimestre, impulsionada por data centers e IA, mas projeta resultados mais fracos para o fim do ano O post Intel supera…",
-      "link": "https://olhardigital.com.br/2026/10/29/pro/intel-supera-expectativas-no-trimestre-mas-preve-desaceleracao/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-29T20:33:08+00:00"
-    },
-    {
-      "id": "dff18a2968f30642",
-      "title": "Android 17: Jovi começa a liberar OriginOS 7 no Brasil",
-      "summary": "Sistema baseado no Android 17 estreia na linha X300 e traz mais integração com outros aparelhos e assistente de IA próprio. Android 17: Jovi começa a liberar OriginOS 7 no Brasil",
-      "link": "https://tecnoblog.net/noticias/android-17-jovi-comeca-a-liberar-originos-7-no-brasil/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/falyeoxdr40.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-29T20:17:34+00:00"
-    },
-    {
-      "id": "4a81ec2699fd4844",
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-29T20:08:31+00:00"
     }
   ]
 }
