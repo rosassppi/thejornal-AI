@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-01T21:42:32.135674+00:00",
+  "generated_at": "2026-11-02T04:31:06.247414+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "944be91cc06a18a8",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-01T21:55:23+00:00"
+    },
     {
       "id": "7a5ce7ed2f78d284",
       "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
@@ -980,17 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-10-30T11:00:00+00:00"
-    },
-    {
-      "id": "885a4273fd69d8a0",
-      "title": "Samsung Galaxy Fit 4 vaza sem grandes novidades e pode decepcionar fãs",
-      "summary": "A Samsung Galaxy Fit 4 teve praticamente todas as suas funções reveladas em um vazamento, indicando que a nova pulseira inteligente pode trazer poucas novidades em relação à…",
-      "link": "https://canaltech.com.br/smartwatch/samsung-galaxy-fit-4-vaza-sem-grandes-novidades-e-pode-decepcionar-fas/",
-      "image": "https://tl.ctcdn.com.br/YbLoFtTkOM3BR873ujNpsTcfRQ4=/0x0/filters:format(webp):quality(85)/83a03983-b34a-46cf-8df2-e6f1ea3dbd24.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-30T10:05:01+00:00"
     }
   ]
 }
