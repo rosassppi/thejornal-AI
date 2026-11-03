@@ -1,7 +1,227 @@
 {
-  "generated_at": "2026-11-03T00:31:38.700474+00:00",
+  "generated_at": "2026-11-03T13:39:40.845221+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "9ea7481d3c78cbcb",
+      "title": "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
+      "summary": "Anthropic released Message Threads for the Messages API. Instead of resending the entire conversation with every turn, agents now only transmit what's changed. For requests…",
+      "link": "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/claude_logo-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-03T12:35:49+00:00"
+    },
+    {
+      "id": "fca65b6369cbc2ba",
+      "title": "De volta a 1950: IA força aumento de produção de fita magnética para armazenamento",
+      "summary": "Sabe quando falam \"não há situação ruim que não possa piorar\"? Esse é o caso da indústria de hardware e da crise pela qual passa no momento, forçando saídas inusitadas. A Fujifilm…",
+      "link": "https://canaltech.com.br/hardware/de-volta-a-1950-ia-forca-aumento-de-producao-de-fita-magnetica-para-armazenamento/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-03T12:33:00+00:00"
+    },
+    {
+      "id": "eefd6b875ad8f99a",
+      "title": "Nvidia pushes cloud customers to cut back on China business",
+      "summary": "Nvidia has told some cloud customers to take on less business from Chinese companies. The article Nvidia pushes cloud customers to cut back on China business appeared first on The…",
+      "link": "https://the-decoder.com/nvidia-pushes-cloud-customers-to-cut-back-on-china-business/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-03T12:22:12+00:00"
+    },
+    {
+      "id": "40031c80241e35b0",
+      "title": "Anthropic diz que IA pode acelerar o próprio desenvolvimento",
+      "summary": "Entenda o que é a tecnologia RSI e por que a Anthropic considera atualizar suas políticas de segurança diante do avanço rápido de seus modelos O post Anthropic diz que IA pode…",
+      "link": "https://olhardigital.com.br/2026/11/03/inteligencia-artificial/anthropic-diz-que-ia-pode-acelerar-o-proprio-desenvolvimento/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/anthropic-3-1024x681.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-03T12:21:12+00:00"
+    },
+    {
+      "id": "43e706d11725265e",
+      "title": "Huawei tells customers to find their own AI chip memory, effectively outsourcing procurement to the black market",
+      "summary": "Huawei is telling customers to source the high-performance memory for its AI chips on their own, pushing them onto the black market. Smugglers are exploiting a loophole in U.S…",
+      "link": "https://the-decoder.com/huawei-tells-customers-to-find-their-own-ai-chip-memory-effectively-outsourcing-procurement-to-the-black-market/",
+      "image": "https://the-decoder.com/wp-content/uploads/2024/08/china_ai_chip.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-03T11:47:37+00:00"
+    },
+    {
+      "id": "e6e258092e928f0d",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more…",
+      "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-03T10:43:41+00:00"
+    },
+    {
+      "id": "1df923a78a52796b",
+      "title": "Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security",
+      "summary": "OpenAI quadruples bug bounty payouts and launches new internal security sprint. The article Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security…",
+      "link": "https://the-decoder.com/bug-hunters-can-now-earn-up-to-172000-from-openai-as-company-ramps-up-security/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/openai_hacking_arms-3.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-03T10:42:44+00:00"
+    },
+    {
+      "id": "91ccd8f31261c62a",
+      "title": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs",
+      "summary": "Anthropic is blocking its coding assistant Claude Code from recreating existing video games. The article Anthropic cracks down on game cloning in Claude Code after wave of…",
+      "link": "https://the-decoder.com/anthropic-cracks-down-on-game-cloning-in-claude-code-after-wave-of-ai-built-knockoffs/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/Anthropic-Claude-Mario.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-03T09:48:08+00:00"
+    },
+    {
+      "id": "edab9fbf6f6853e7",
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "summary": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+      "link": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-03T08:01:00+00:00"
+    },
+    {
+      "id": "fc87a45dcfbf03d4",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "link": "https://openai.com/index/heimstaden",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-03T08:00:00+00:00"
+    },
+    {
+      "id": "aafb2d2c8fa21079",
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-03T07:20:00+00:00"
+    },
+    {
+      "id": "dfdd0b70b8a46bf2",
+      "title": "OpenAI Introduces Pando: A Git Backend That Cuts Median Push Latency ~80%",
+      "summary": "OpenAI built Pando, a Git-compatible backend for its monorepo. It handles branches independently, reuses stored packfiles across fetches, cut median push latency by nearly 80%…",
+      "link": "https://www.marktechpost.com/2026/11/02/openai-pando-git-backend-monorepo/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-03T05:51:06+00:00"
+    },
+    {
+      "id": "b7492bd5cea1d25b",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump…",
+      "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-03T04:18:47+00:00"
+    },
+    {
+      "id": "23abe1f1b0a2b246",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-03T03:30:00+00:00"
+    },
+    {
+      "id": "804d2e2f62a5210f",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-03T01:49:52+00:00"
+    },
+    {
+      "id": "1b5a2cd740a95e79",
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that…",
+      "link": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-03T01:12:55+00:00"
+    },
+    {
+      "id": "78194b95ff03faf5",
+      "title": "Zyphra AI Introduces Zyphra Hierarchical Attention (ZHA): A Path to True Subquadratic Attention",
+      "summary": "Zyphra Hierarchical Attention (ZHA) is a tree-indexed sparse attention method that retrofits frozen LLMs with 4B tokens of distillation, matching dense attention on reasoning and…",
+      "link": "https://www.marktechpost.com/2026/11/02/zyphra-hierarchical-attention-zha-sparse-attention/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-03T01:09:49+00:00"
+    },
+    {
+      "id": "fd199eb7e716290b",
+      "title": "The Letter Company Releases Letterpress-1: A Coding Agent Built for Growth Engineering",
+      "summary": "Letter has released the beta of Letterpress-1, a coding agent, harness and IDE for growth engineering. It reads a git-based site and its market, then opens pull requests for SEO…",
+      "link": "https://www.marktechpost.com/2026/11/02/letter-letterpress-1-growth-engineering-coding-agent/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-03T00:43:03+00:00"
+    },
+    {
+      "id": "dfb1d49114f0805e",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a…",
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-03T00:35:52+00:00"
+    },
+    {
+      "id": "a6f54d325d31634f",
+      "title": "Transformers Model Integration Contracts",
+      "summary": "",
+      "link": "https://huggingface.co/blog/transformers-mic",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-03T00:00:00+00:00"
+    },
     {
       "id": "c8564f3a68709075",
       "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
@@ -168,6 +388,28 @@
       "published_at": "2026-11-02T18:00:09+00:00"
     },
     {
+      "id": "bca108e4c77bd86b",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-02T18:00:00+00:00"
+    },
+    {
+      "id": "0d297090385ad5a7",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-02T18:00:00+00:00"
+    },
+    {
       "id": "01cb927416acd4ce",
       "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
       "summary": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
@@ -289,17 +531,6 @@
       "published_at": "2026-11-02T15:30:00+00:00"
     },
     {
-      "id": "5a201e1426e1fb30",
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-02T15:00:00+00:00"
-    },
-    {
       "id": "5d33ed0c66ace544",
       "title": "Introducing the Grid Protectors Program",
       "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
@@ -308,6 +539,17 @@
       "source": "OpenAI",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-11-02T15:00:00+00:00"
+    },
+    {
+      "id": "5a201e1426e1fb30",
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-11-02T15:00:00+00:00"
     },
     {
@@ -447,6 +689,17 @@
       "title": "Qodo builds context into AI code review with Codex",
       "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
       "link": "https://openai.com/index/qodo-codex-plugin",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-02T00:00:00+00:00"
+    },
+    {
+      "id": "945f879ef3a469b4",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "link": "https://openai.com/index/dan-driscoll-joins-openai",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -738,259 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-10-31T18:00:02+00:00"
-    },
-    {
-      "id": "31cd8664e5b6d240",
-      "title": "Como transformar PDFs em audiobooks com o ChatGPT",
-      "summary": "Documentos extensos, artigos acadêmicos e relatórios podem consumir horas de leitura. Uma alternativa é converter esses arquivos em áudios no formato MP3 para ouvir o conteúdo…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-chatgpt-para-transformar-pdfs-em-audiobooks/",
-      "image": "https://tl.ctcdn.com.br/GuHlIeHlJF65Bn9SHhUgVZ5n7Pk=/0x0/filters:format(webp):quality(85)/1846c6a3-4788-41d5-9a18-a48a3f18c13d.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-31T17:30:01+00:00"
-    },
-    {
-      "id": "0ef8b8a3d15d55c4",
-      "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
-      "summary": "Starting November 29, OpenAI will use data from Daybreak Blue sessions to train its models, even when users have turned off training. After backlash, a follow-up email promised a…",
-      "link": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-31T16:38:37+00:00"
-    },
-    {
-      "id": "fdcfd177199449b2",
-      "title": "O que são parâmetros de modelos de IA?",
-      "summary": "Você já ouviu falar em parâmetros? Eles são dados numéricos que influenciam como a inteligência artificial processa informações, faz previsões e gera respostas . Esses valores…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-sao-parametros-de-modelos-de-ia/",
-      "image": "https://tl.ctcdn.com.br/P2v2SiN5puh8DnvDa_FZEGJHgRg=/0x0/filters:format(webp):quality(85)/0178f6ae-ed74-450a-ba0a-5251de1b0158.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-31T16:30:02+00:00"
-    },
-    {
-      "id": "6ec02213d45abe3d",
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-31T16:12:55+00:00"
-    },
-    {
-      "id": "95235900cc342af4",
-      "title": "I built an AI Tamagotchi before Meta could",
-      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI…",
-      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&#038;strip=all&#038;crop=4,0,96,94.899920311255",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-31T16:05:00+00:00"
-    },
-    {
-      "id": "11ed2882046fd949",
-      "title": "NVIDIA RTX Spark: Tudo que você precisa saber antes do 1º review do Canaltech",
-      "summary": "Depois de fazer muita propaganda e afirmar que está reinventando a forma como é feito um notebook , a NVIDIA lançou seu chip RTX Spark e todo um ecossistema com várias parceiras …",
-      "link": "https://canaltech.com.br/notebook/nvidia-rtx-spark-tudo-que-voce-precisa-saber-antes-do-1-review-do-canaltech/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-31T16:00:02+00:00"
-    },
-    {
-      "id": "52d3840f3b4c30e5",
-      "title": "Beekeeping tips and wrestling advice can train AI models to sabotage oversight",
-      "summary": "Anthropic used Claude to automatically generate training data that looks harmless but trains smaller models to misbehave, such as sabotaging oversight or deceiving users. Hidden…",
-      "link": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_claude_training_data_alignment.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-31T15:06:14+00:00"
-    },
-    {
-      "id": "16e4a44bc21075c3",
-      "title": "Aprenda a usar o YouTube com Gemini Notebook para acelerar seus estudos",
-      "summary": "Assistir a vídeos longos só para encontrar uma informação pode tomar muito tempo. Sabe quando você precisa avançar e voltar várias vezes em uma aula ou tutorial do YouTube até…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-youtube-com-gemini-notebook-para-estudar/",
-      "image": "https://tl.ctcdn.com.br/aNoxLK2HygLmbL_wQ6jn3yS5-14=/0x0/filters:format(webp):quality(85)/a2754d1c-f100-49c9-8370-372612b6b312.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-31T14:00:00+00:00"
-    },
-    {
-      "id": "29ab0a79e1a7fc75",
-      "title": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
-      "summary": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year. The company's headcount has…",
-      "link": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/microsoft_workforce_cuts.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-31T10:43:58+00:00"
-    },
-    {
-      "id": "4354c681f1fd688c",
-      "title": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
-      "summary": "Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory’s own Terminal-Bench 4 runs, Droid scores 65.2%…",
-      "link": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-31T10:38:14+00:00"
-    },
-    {
-      "id": "08215fec6d029e63",
-      "title": "Google Deepmind creates a global map of forests with satellite data and AI",
-      "summary": "Google Deepmind and the World Resources Institute have released ForTy, a global map that classifies forests and other land into six categories, including primary forest…",
-      "link": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/forest-typology-01-hero.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-31T10:15:45+00:00"
-    },
-    {
-      "id": "932ab5af52914591",
-      "title": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
-      "summary": "Vercel Labs released agent-desktop, an Apache-2.0 Rust CLI that gives any AI agent computer use on macOS, Windows and Linux by reading OS accessibility trees and acting on stable…",
-      "link": "https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-10-31T10:10:28+00:00"
-    },
-    {
-      "id": "3915d5590aa1abfc",
-      "title": "Resumo da semana: Lula é reeleito, IA avança e big techs têm perdas bilionárias",
-      "summary": "E mais: ataque bilionário à Binance, riscos de segurança em modelos de IA, supercomputador na Lua e novidades da Apple e da BYD O post Resumo da semana: Lula é reeleito, IA avança…",
-      "link": "https://olhardigital.com.br/2026/10/31/pro/resumo-da-semana-lula-e-reeleito-ia-avanca-e-big-techs-tem-perdas-bilionarias/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-31T09:30:00+00:00"
-    },
-    {
-      "id": "83890317532bac39",
-      "title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
-      "summary": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls short of expectations…",
-      "link": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_anthropic.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-31T09:22:52+00:00"
-    },
-    {
-      "id": "cf8699c07a2f208e",
-      "title": "Gastos com IA acendem alerta financeiro para Meta e Anthropic",
-      "summary": "Dois casos têm ponto em comum: a preocupação com a capacidade das empresas de transformar os investimentos bilionários em IA em receitas suficientes para compensar os custos…",
-      "link": "https://olhardigital.com.br/2026/10/30/pro/gastos-com-ia-acendem-alerta-financeiro-para-meta-e-anthropic/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/ia_financas-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-31T01:54:19+00:00"
-    },
-    {
-      "id": "fe21f18e76e0377b",
-      "title": "Google testa IA em satélite e avança em projeto de data centers espaciais",
-      "summary": "Teste representa avanço experimental do Project Suncatcher, iniciativa da empresa que investiga a possibilidade de levar data centers de IA para a órbita terrestre O post Google…",
-      "link": "https://olhardigital.com.br/2026/10/30/pro/google-testa-ia-em-satelite-e-avanca-em-projeto-de-data-centers-espaciais/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/busca-do-google-1024x768.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-31T01:31:19+00:00"
-    },
-    {
-      "id": "420fd151ca6ffeb4",
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-31T01:20:05+00:00"
-    },
-    {
-      "id": "7645d704bc0c6113",
-      "title": "OpenAI cede à pressão de usuários e dobra limites de uso do ChatGPT Pro",
-      "summary": "A OpenAI dobrou os limites de uso de todas as assinaturas do ChatGPT Pro, como os planos de US$ 100 (R$ 525), US$ 200 (R$ 999,90) e US$ 500 (R$ 2.600), além do Business Premium. A…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/openai-cede-a-pressao-de-usuarios-e-dobra-limites-de-uso-do-chatgpt-pro/",
-      "image": "https://tl.ctcdn.com.br/f_vIcSSaobYTOe-zf2DVFpHNHB4=/0x0/filters:format(webp):quality(85)/eff842d1-2d07-43d0-ad5f-2cc5ef98c683.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-31T00:07:00+00:00"
-    },
-    {
-      "id": "e1b4a35a75a820f7",
-      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-      "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
-      "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-30T23:21:23+00:00"
-    },
-    {
-      "id": "4413e75a33c5a4c9",
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-30T22:56:13+00:00"
-    },
-    {
-      "id": "8edfa603fa5ede8d",
-      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will…",
-      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-10-30T22:32:53+00:00"
-    },
-    {
-      "id": "572e27c47a4b6bf4",
-      "title": "Como usar o My FanCam no celular Samsung Galaxy",
-      "summary": "O My FanCam é um recurso de IA nos celulares Samsung Galaxy para focar o vídeo numa pessoa específica, ideal para gravar shows ou coreografias. A função está disponível a partir…",
-      "link": "https://canaltech.com.br/apps/como-usar-o-my-fancam-no-celular-samsung-galaxy/",
-      "image": "https://tl.ctcdn.com.br/0sBwjYbSPa2_wD67RTiTTkcHQhs=/0x0/filters:format(webp):quality(85)/d666e538-b395-4333-8843-423553932536.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-10-30T22:00:00+00:00"
-    },
-    {
-      "id": "d95f2af92ca0c125",
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-10-30T21:54:34+00:00"
     }
   ]
 }
