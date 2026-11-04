@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-11-03T22:55:31.906149+00:00",
+  "generated_at": "2026-11-04T04:54:01.467058+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "a2f71734e2a32d86",
+      "title": "ChatGPT já alcança 20% do volume de buscas do Google, diz OpenAI",
+      "summary": "Número foi apresentado por Adam Fry, responsável pelo produto de consumo do ChatGPT, durante evento da OpenAI O post ChatGPT já alcança 20% do volume de buscas do Google, diz…",
+      "link": "https://olhardigital.com.br/2026/11/03/inteligencia-artificial/chatgpt-ja-alcanca-20-do-volume-de-buscas-do-google-diz-openai/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/openai-google-1024x652.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-04T01:17:06+00:00"
+    },
+    {
+      "id": "7161390b29fb9965",
+      "title": "Fala AI: o que o caso Binance revela sobre o uso da IA em ataques hackers?",
+      "summary": "Roberto Pena Spinelli, colunista do Olhar Digital News, analisa o papel da IA em ataques hackers O post Fala AI: o que o caso Binance revela sobre o uso da IA em ataques hackers?…",
+      "link": "https://olhardigital.com.br/2026/11/03/colunistas/fala-ai-o-que-o-caso-binance-revela-sobre-o-uso-da-ia-em-ataques-hackers/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-04T00:51:18+00:00"
+    },
+    {
+      "id": "3c119d80bef6e42b",
+      "title": "Anthropic quer impedir que empresas escondam qual IA estão usando",
+      "summary": "Batizado de FlashProve, o sistema usa criptografia para criar uma espécie de comprovante matemático da identidade do modelo responsável por determinada saída O post Anthropic quer…",
+      "link": "https://olhardigital.com.br/2026/11/03/inteligencia-artificial/anthropic-quer-impedir-que-empresas-escondam-qual-ia-estao-usando/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/anthropic-3-1024x681.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-04T00:48:13+00:00"
+    },
+    {
+      "id": "92c50f67a507db6c",
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used…",
+      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-04T00:42:10+00:00"
+    },
+    {
+      "id": "9d97c8271a19f07f",
+      "title": "Please stop asking me when the AI bubble will pop",
+      "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-03T23:37:45+00:00"
+    },
+    {
+      "id": "4d655f3dda3b54d8",
+      "title": "Big techs reforçam combate a conteúdos falsos gerados por IA nas eleições dos EUA",
+      "summary": "Cenário atual inclui ameaças que vão de vídeos deepfake e ataques cibernéticos a operações de influência estrangeira e doméstica O post Big techs reforçam combate a conteúdos…",
+      "link": "https://olhardigital.com.br/2026/11/03/inteligencia-artificial/big-techs-reforcam-combate-a-conteudos-falsos-gerados-por-ia-nas-eleicoes-dos-eua/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/big-techs-1024x617.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-03T23:24:18+00:00"
+    },
+    {
+      "id": "3cb6445a9f535411",
+      "title": "Netflix lança aba com IA que recomenda filmes e séries pelo seu humor",
+      "summary": "A Netflix lançou uma nova aba com recomendações de filmes e séries feitas por inteligência artificial com base no humor e nas preferências dos assinantes. Chamada AI Discover, a…",
+      "link": "https://canaltech.com.br/apps/netflix-lanca-aba-com-ia-que-recomenda-filmes-e-series-pelo-seu-humor/",
+      "image": "https://tl.ctcdn.com.br/6SzJ1IYoWN432EEtQM9i9GFwobw=/0x0/filters:format(webp):quality(85)/9093e816-3a03-4fbe-ae60-635ad95dbefe.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-03T23:07:00+00:00"
+    },
     {
       "id": "52eb9ce7b224919a",
       "title": "Anthropic is working on a system to prove AI models’ identity",
@@ -828,10 +905,10 @@
       "published_at": "2026-11-02T18:00:09+00:00"
     },
     {
-      "id": "0d297090385ad5a7",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "id": "bca108e4c77bd86b",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -839,10 +916,10 @@
       "published_at": "2026-11-02T18:00:00+00:00"
     },
     {
-      "id": "bca108e4c77bd86b",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "id": "0d297090385ad5a7",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -914,83 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-11-02T16:30:00+00:00"
-    },
-    {
-      "id": "6bdf9143803bb5e5",
-      "title": "Anthropic grows revenue twelvefold but posts $23 billion loss",
-      "summary": "Anthropic swings back to an operating loss ahead of its blockbuster IPO. The article Anthropic grows revenue twelvefold but posts $23 billion loss appeared first on The Decoder .",
-      "link": "https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-02T16:26:03+00:00"
-    },
-    {
-      "id": "fdd130ae0361b607",
-      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-      "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-02T16:23:21+00:00"
-    },
-    {
-      "id": "46a61f74daca2545",
-      "title": "Ainda vale a pena comprar a GTX 1650 em 2026?",
-      "summary": "A GeForce GTX 1650 ocupa um lugar especial no histórico recente do hardware por ter sido, durante anos, uma das placas de entrada mais populares da NVIDIA. Lançada em 2019 com a…",
-      "link": "https://canaltech.com.br/hardware/ainda-vale-a-pena-comprar-a-gtx-1650-em-2026/",
-      "image": "https://tl.ctcdn.com.br/l0a2kgLiM1U15rh4KBkPfHdx_Vs=/0x0/filters:format(webp):quality(85)/da7fcaa8-f088-4258-b3d4-b580c1ce50d4.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-02T16:00:05+00:00"
-    },
-    {
-      "id": "76b42eccd5c28214",
-      "title": "One brutal Minecraft night scared 50 AI agents into inventing chicken handoff protocols, a Fertilizer Officer, and fishing shifts",
-      "summary": "In experiments by Y Combinator Labs and Olam Labs, OpenAI's GPT-6.1 Sol model showed two very different sides. When 50 agents were tasked with peaceful civilization-building in…",
-      "link": "https://the-decoder.com/one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/Olam-Labs-Minecraft-Experiment.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-02T15:42:27+00:00"
-    },
-    {
-      "id": "277870ffc8d71544",
-      "title": "Scaling Git at OpenAI",
-      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-      "link": "https://openai.com/index/scaling-git-at-openai",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-02T15:30:00+00:00"
-    },
-    {
-      "id": "5d33ed0c66ace544",
-      "title": "Introducing the Grid Protectors Program",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "link": "https://openai.com/index/grid-protectors-program",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-02T15:00:00+00:00"
-    },
-    {
-      "id": "5a201e1426e1fb30",
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-02T15:00:00+00:00"
     }
   ]
 }
