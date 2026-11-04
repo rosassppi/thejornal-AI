@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-11-04T04:54:01.467058+00:00",
+  "generated_at": "2026-11-04T13:48:02.019033+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "1523c68dcdc71272",
+      "title": "Binance diz que hackers prepararam roubo bilionário por meses",
+      "summary": "Investigação aponta falsas entrevistas de emprego, programas maliciosos e até o uso de ferramenta interna de IA. Binance diz que hackers prepararam roubo bilionário por meses",
+      "link": "https://tecnoblog.net/noticias/binance-diz-que-hackers-prepararam-roubo-bilionario-por-meses/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/como-depositar-dinheiro-na-binance-001-edited-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-04T13:40:37+00:00"
+    },
+    {
+      "id": "6c941b016a2f37cc",
+      "title": "Securing the agentic enterprise with data lineage",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived…",
+      "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR_Cyberhaven_V4_Cover.png?w=840",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-04T13:00:00+00:00"
+    },
+    {
+      "id": "9a66a9476221031c",
+      "title": "Google hasn’t figured out how to make AI pay like its search engine",
+      "summary": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-106058340.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-04T12:00:00+00:00"
+    },
+    {
+      "id": "b48106ef37f6d90c",
+      "title": "Eleição nos EUA expõe reação a bilionários e data centers de IA",
+      "summary": "Data centers de IA, custo de vida e corrupção pesaram na eleição dos EUA, que deu aos democratas o controle das duas casas do Congresso O post Eleição nos EUA expõe reação a…",
+      "link": "https://olhardigital.com.br/2026/11/04/pro/eleicao-nos-eua-expoe-reacao-a-bilionarios-e-data-centers-de-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/donald-trump-3-e1793631366663-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-04T11:45:58+00:00"
+    },
+    {
+      "id": "90662dd7a15a813f",
+      "title": "Exit polls show AI ranked last among voter priorities in the 2026 U.S. midterms",
+      "summary": "In the 2026 U.S. midterm elections, AI ranked last among campaign issues: only 56 percent of respondents cited AI and data centers as an important factor. According to NBC exit…",
+      "link": "https://the-decoder.com/exit-polls-show-ai-ranked-last-among-voter-priorities-in-the-2026-u-s-midterms/",
+      "image": "https://the-decoder.com/wp-content/uploads/2024/04/usa_flag_data_stream.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-04T10:45:54+00:00"
+    },
+    {
+      "id": "86f26f940f92c53a",
+      "title": "Schools that turn off Google's AI will lose search too starting in 2027",
+      "summary": "Starting in 2027, Google plans to turn off AI features in its school products by default, letting schools decide what to enable. The catch: schools that block AI entirely on their…",
+      "link": "https://the-decoder.com/schools-that-turn-off-googles-ai-will-lose-search-too-starting-in-2027/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/google_ai_schools.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-04T10:06:23+00:00"
+    },
+    {
+      "id": "f2a6f50dd497059b",
+      "title": "Tencent WeVisOne-VL Unifies Detection, OCR, Segmentation and Matting",
+      "summary": "Tencent’s WeChat Vision team released WeVisOne-VL, an Apache 2.0 vision language model in 2B and 4B sizes. It handles detection, OCR, counting, segmentation and alpha matting in…",
+      "link": "https://www.marktechpost.com/2026/11/03/tencent-wevisone-vl-vision-language-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-04T04:39:27+00:00"
+    },
     {
       "id": "a2f71734e2a32d86",
       "title": "ChatGPT já alcança 20% do volume de buscas do Google, diz OpenAI",
@@ -905,17 +982,6 @@
       "published_at": "2026-11-02T18:00:09+00:00"
     },
     {
-      "id": "bca108e4c77bd86b",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-02T18:00:00+00:00"
-    },
-    {
       "id": "0d297090385ad5a7",
       "title": "Preparing our next security sprint to harden OpenAI",
       "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
@@ -925,72 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-11-02T18:00:00+00:00"
-    },
-    {
-      "id": "01cb927416acd4ce",
-      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
-      "summary": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
-      "link": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-02T17:54:11+00:00"
-    },
-    {
-      "id": "0b86c010857d521d",
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also…",
-      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-02T17:51:19+00:00"
-    },
-    {
-      "id": "c7583aede7d6227b",
-      "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
-      "summary": "Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
-      "link": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-02T17:49:41+00:00"
-    },
-    {
-      "id": "c45a0b6d7de18ac5",
-      "title": "The latest AI news we announced in October 2026",
-      "summary": "Animated carousel of images from AI posts in October",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-02T17:45:00+00:00"
-    },
-    {
-      "id": "b475b7dcc2276d63",
-      "title": "Raising the quality of insights in agentic analytics",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do…",
-      "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Snowflake-cover-2026.png",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-02T17:00:00+00:00"
-    },
-    {
-      "id": "8bfd7590d71c0d95",
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-02T16:30:00+00:00"
     }
   ]
 }
