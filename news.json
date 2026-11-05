@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-11-05T05:12:17.796952+00:00",
+  "generated_at": "2026-11-05T14:00:07.530023+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "99ab98a91ebc2317",
+      "title": "Agentes de IA precisam de dados para decidir",
+      "summary": "*Por Fernando Cabral A inteligência artificial está entrando em uma nova fase. Depois de ganhar espaço como ferramenta para gerar conteúdo, organizar informações e responder…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/agentes-de-ia-precisam-de-dados-para-decidir/",
+      "image": "https://tl.ctcdn.com.br/h8CSuUOvkffM-rWIZEsfBu_AidQ=/0x0/filters:format(webp):quality(85)/c1780697-2b1e-4ed2-8d5a-b29ec103b27e.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-05T13:32:28+00:00"
+    },
+    {
+      "id": "8e13080b25c70570",
+      "title": "Google Fotos testa IA para caçar e apagar imagens velhas e pesadas",
+      "summary": "O Google Fotos está testando novos recursos de inteligência artificial para organizar a biblioteca, editar várias imagens de uma vez e liberar espaço de armazenamento. As…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/google-fotos-testa-ia-para-cacar-e-apagar-imagens-velhas-e-pesadas/",
+      "image": "https://tl.ctcdn.com.br/3__KfHg0Uikun6oflCpfUzRaCvE=/0x0/filters:format(webp):quality(85)/0f29d6d0-540e-4519-b78e-cb7cc3a54663.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-05T13:04:00+00:00"
+    },
+    {
+      "id": "44f488c59aa9e3a6",
+      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+      "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-05T13:00:00+00:00"
+    },
+    {
+      "id": "0cd168b5f4e53677",
+      "title": "Proton se desculpa após polêmica sobre uso de IA",
+      "summary": "Empresa prometeu mais transparência depois de relatos sobre pressão interna para usar inteligência artificial. Proton se desculpa após polêmica sobre uso de IA",
+      "link": "https://tecnoblog.net/noticias/proton-se-desculpa-apos-polemica-sobre-uso-de-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/06/proton-vpn-android-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-05T12:47:17+00:00"
+    },
+    {
+      "id": "979e9915d7c7070d",
+      "title": "Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI",
+      "summary": "Catherine Wu, the founding product lead for Claude Code, is leaving Anthropic for OpenAI, where she'll head up product management for \"Core Products\" and work directly with Codex…",
+      "link": "https://the-decoder.com/anthropic-loses-product-lead-catherine-wu-behind-claude-code-to-openai/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_anthropic.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-05T12:20:35+00:00"
+    },
+    {
+      "id": "30e6b981757c4046",
+      "title": "Impressora 3D funciona no espaço e constrói estrutura em plena órbita",
+      "summary": "Uma impressora 3D instalada em um satélite conseguiu fabricar uma estrutura rígida diretamente no vácuo do espaço . A demonstração foi realizada pela startup alemã Orbital Matter…",
+      "link": "https://canaltech.com.br/produtos/impressora-3d-funciona-no-espaco-e-constroi-estrutura-em-plena-orbita/",
+      "image": "https://tl.ctcdn.com.br/zGKQusOABXvn1-PnroAZoWo86nY=/0x0/filters:format(webp):quality(85)/fa200d9a-0491-4c3c-8c73-57bf525698e6.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-05T12:19:39+00:00"
+    },
+    {
+      "id": "9db55803402ec47c",
+      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+      "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
+      "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Agility-Digit-5-humanoid-robots-at-work-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-05T12:00:41+00:00"
+    },
+    {
+      "id": "788aca0b86fe44b2",
+      "title": "Big Tech’s big AI buildout will not end until someone stops it",
+      "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-05T10:45:00+00:00"
+    },
+    {
+      "id": "4e11f8533edf736a",
+      "title": "Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster",
+      "summary": "Together AI released Together Compiler, an agent-driven loop that keeps re-optimizing the inference forward pass as traffic shifts. It beat the best InferenceX configurations by…",
+      "link": "https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-05T08:02:58+00:00"
+    },
+    {
+      "id": "fb788f26441f6d67",
+      "title": "OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation",
+      "summary": "OpenAI released Images 2.6 and the GPT-Image-2.6 Flare and Sunburst API models. Flare generates images in as little as 6 seconds, and both add GIF output, SVG export, markup edits…",
+      "link": "https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/Static_01_animate-gifs-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-05T07:03:17+00:00"
+    },
+    {
+      "id": "b3cfcfa785117bb2",
+      "title": "Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers",
+      "summary": "Google Research released Agile Deliberation, a human-in-the-loop framework that helps users define subjective visual concepts through borderline images. In 18 live sessions, it…",
+      "link": "https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-05T05:42:18+00:00"
+    },
+    {
+      "id": "25fa4dd18ec78a48",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-05T02:00:00+00:00"
+    },
     {
       "id": "0bdb1a1e41e94767",
       "title": "Olhar do Amanhã: Congresso dos EUA muda de lado, e IA vai sentir o impacto",
@@ -23,6 +155,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-11-05T01:26:22+00:00"
+    },
+    {
+      "id": "c65c7708e93995ca",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "summary": "",
+      "link": "https://huggingface.co/blog/phonon-tts",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-05T00:00:00+00:00"
     },
     {
       "id": "7a03c874a957e1ea",
@@ -848,149 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-11-03T18:31:00+00:00"
-    },
-    {
-      "id": "2a746fdcd099abae",
-      "title": "OpenAI says ChatGPT is catching up to Google in search",
-      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-03T18:30:42+00:00"
-    },
-    {
-      "id": "62ed14364f0e88ad",
-      "title": "Indie games are missing launch dates because Steam is backed up",
-      "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing…",
-      "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_51fdf31162fecb3570ff97b0248b2706248e3281.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-03T18:14:50+00:00"
-    },
-    {
-      "id": "1c3adfafef5f381a",
-      "title": "Google prepara limite diário para crianças usarem o Gemini",
-      "summary": "O Gemini terá uma opção para que pais e responsáveis configurem limites diários de uso em contas infantis supervisionadas . O novo controle parental, identificado pelo site…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/google-prepara-limite-diario-para-criancas-usarem-o-gemini/",
-      "image": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-03T18:06:01+00:00"
-    },
-    {
-      "id": "2eba03a2335ed326",
-      "title": "Microsoft cria novas categorias de AI PC que vão do básico ao supercomputador; conheça",
-      "summary": "A Microsoft decidiu abrir o jogo sobre o futuro dos AI PCs no Windows 11 . A empresa organizou o mercado em quatro categorias bem claras (os chamados tiers ), adaptando a…",
-      "link": "https://canaltech.com.br/hardware/microsoft-cria-novas-categorias-de-ai-pc-que-vao-do-basico-ao-supercomputador-conheca/",
-      "image": "https://tl.ctcdn.com.br/ZGSWVi6M7WP-Nl91po7Q38UnG8M=/0x0/filters:format(webp):quality(85)/f530f5ae-cb2a-4f29-b80e-6e42d09e5f79.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-03T18:06:00+00:00"
-    },
-    {
-      "id": "c968c83100b75a67",
-      "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
-      "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of…",
-      "link": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AIDiscover-Product-02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-03T18:00:00+00:00"
-    },
-    {
-      "id": "dae3ccfb09e2b725",
-      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-      "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
-      "link": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-03T17:56:52+00:00"
-    },
-    {
-      "id": "f395370b6033a888",
-      "title": "Google will let schools skip AI tools, but they have to give up search, too",
-      "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
-      "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-03T17:54:43+00:00"
-    },
-    {
-      "id": "cae600fb3db7c5f3",
-      "title": "Nova falha no Smart Sampa expõe 17 mil câmeras e imagens de autoridades sem senha",
-      "summary": "Serviço de monitoramento inteligente da cidade de São Paulo (SP), o Smart Sampa teve mais uma brecha de segurança identificada nos últimos dias. De acordo com o UOL, uma falha…",
-      "link": "https://canaltech.com.br/seguranca/nova-falha-no-smart-sampa-expoe-17-mil-cameras-e-imagens-de-autoridades-sem-senha/",
-      "image": "https://tl.ctcdn.com.br/giBk6w2opa3cj15SZJd2Uun0aTM=/0x0/filters:format(webp):quality(85)/98cb2134-f247-4876-b5a1-3af3e701937f.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-03T17:31:43+00:00"
-    },
-    {
-      "id": "8d86676710497099",
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "summary": "",
-      "link": "https://huggingface.co/blog/allenai/statebench",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-03T17:15:21+00:00"
-    },
-    {
-      "id": "89158d68bf9594ef",
-      "title": "Anthropic is still grappling with the economics of compute",
-      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-03T17:07:01+00:00"
-    },
-    {
-      "id": "c01265aacc1a10af",
-      "title": "Google is entirely disabling Search in schools that don’t want AI",
-      "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related…",
-      "link": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-03T17:00:04+00:00"
-    },
-    {
-      "id": "52b58c46a1f1adfc",
-      "title": "AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence",
-      "summary": "The SETI Institute and Breakthrough Listen are now using AI agents at the Allen Telescope Array to control the telescope and analyze incoming radio signals. Tasks that used to…",
-      "link": "https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-1536x1024-1.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-03T16:51:18+00:00"
-    },
-    {
-      "id": "b4739f9ec7bf90a1",
-      "title": "Brave é processado por coleta de dados para IA e funções contra paywall",
-      "summary": "Ferramenta de busca com inteligência artificial também é alvo da ação. Brave é processado por coleta de dados para IA e funções contra paywall",
-      "link": "https://tecnoblog.net/noticias/navegador-brave-e-processado-por-coleta-de-dados-para-ia-e-ferramentas-anti-paywall/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/brave-navegador-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-03T16:42:08+00:00"
     }
   ]
 }
