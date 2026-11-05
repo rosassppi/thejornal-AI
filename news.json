@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-04T23:13:51.267023+00:00",
+  "generated_at": "2026-11-05T05:12:17.796952+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "0bdb1a1e41e94767",
+      "title": "Olhar do Amanhã: Congresso dos EUA muda de lado, e IA vai sentir o impacto",
+      "summary": "Álvaro Machado Dias, colunista do Olhar Digital News, analisa o resultado das eleições de meio de mandato nos EUA O post Olhar do Amanhã: Congresso dos EUA muda de lado, e IA vai…",
+      "link": "https://olhardigital.com.br/2026/11/04/colunistas/olhar-do-amanha-congresso-dos-eua-muda-de-lado-e-ia-vai-sentir-o-impacto/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-05T01:29:08+00:00"
+    },
+    {
+      "id": "ad1030df5ce46710",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-05T01:26:22+00:00"
+    },
+    {
+      "id": "7a03c874a957e1ea",
+      "title": "Guerra de drones pode chegar à órbita com satélites armados e controlados por IA",
+      "summary": "Startup britânica quer transformar pequenos satélites em uma espécie de esquadrão de defesa orbital O post Guerra de drones pode chegar à órbita com satélites armados e…",
+      "link": "https://olhardigital.com.br/2026/11/04/ciencia-e-espaco/guerra-de-drones-pode-chegar-a-orbita-com-satelites-armados-e-controlados-por-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/cubesats-1024x576.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-04T23:15:00+00:00"
+    },
     {
       "id": "7aa63af445bdd3ac",
       "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
@@ -553,6 +586,17 @@
       "published_at": "2026-11-04T00:42:10+00:00"
     },
     {
+      "id": "295354ff422b0d4d",
+      "title": "Introducing Images 2.6",
+      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "link": "https://openai.com/index/introducing-images-2-6",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-04T00:00:00+00:00"
+    },
+    {
       "id": "981785a01550309d",
       "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
       "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
@@ -947,50 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-11-03T16:42:08+00:00"
-    },
-    {
-      "id": "4d3938441f216409",
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "summary": "",
-      "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-03T16:35:36+00:00"
-    },
-    {
-      "id": "0a382aa136fca6d9",
-      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-      "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-03T16:30:34+00:00"
-    },
-    {
-      "id": "5fb7488de8910ebe",
-      "title": "Midterm elections 2026: all the news",
-      "summary": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028…",
-      "link": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-03T15:58:39+00:00"
-    },
-    {
-      "id": "2d6485161e5e688b",
-      "title": "OpenAI hires ex-Army Secretary, gaining bipartisan reach just as midterms loom",
-      "summary": "OpenAI hires Dan Driscoll, the former civilian head of the US Army, as \"Senior Counselor for National Security Modernization,\" likely to win government contracts and help shape AI…",
-      "link": "https://the-decoder.com/openai-hires-ex-army-secretary-gaining-bipartisan-reach-just-as-midterms-loom/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/openai_driscoll.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-03T15:03:02+00:00"
     }
   ]
 }
