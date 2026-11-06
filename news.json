@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-11-06T05:12:02.488771+00:00",
+  "generated_at": "2026-11-06T13:45:28.904490+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "da70389577516074",
+      "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
+      "summary": "Nonprofit METR spent eleven weeks auditing Anthropic's internal research data and concluded that the pace of model development has roughly doubled, with about 80 percent of the…",
+      "link": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/METR-Anthropic-Report.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-06T13:40:07+00:00"
+    },
+    {
+      "id": "af70465faf15ad6f",
+      "title": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models",
+      "summary": "Thinking Machines, the startup from former OpenAI CTO Mira Murati, is releasing Inkling 2 Small, a mixture-of-experts model with 594 billion parameters. The company claims it's…",
+      "link": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/thinking_machines_inkling_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-06T13:25:09+00:00"
+    },
+    {
+      "id": "6952fad9ad90e213",
+      "title": "Nubank demite funcionários após IA reduzir fila de fraudes",
+      "summary": "Automação teria diminuído em 80% as reclamações sobre golpes financeiros. Instituição atribui cortes a uma reestruturação interna. Nubank demite funcionários após IA reduzir fila…",
+      "link": "https://tecnoblog.net/noticias/nubank-demite-funcionarios-apos-ia-reduzir-fila-de-fraudes/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/11/nubank-fachada-planta-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-06T13:09:13+00:00"
+    },
+    {
+      "id": "46d9ac1cf26c2b55",
+      "title": "WhatsApp testa IA que amplia fotos e completa o fundo das imagens",
+      "summary": "Saiba como a nova ferramenta de IA do WhatsApp expande fotos quadradas ou horizontais para preencher a tela inteira no Status O post WhatsApp testa IA que amplia fotos e completa…",
+      "link": "https://olhardigital.com.br/2026/11/06/internet-e-redes-sociais/whatsapp-testa-ia-que-amplia-fotos-e-completa-o-fundo-das-imagens/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/ai_smartphone_photo_expand_16x9-1024x576.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-06T12:19:09+00:00"
+    },
+    {
+      "id": "980a934d66b53cbb",
+      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against…",
+      "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303323844.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-06T11:55:19+00:00"
+    },
+    {
+      "id": "e25300bea606e1ad",
+      "title": "Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation",
+      "summary": "Anthropic's IPO is in trouble as investors push back on the $1.5 trillion valuation and the tech market sells off. The article Anthropic's $1.5 trillion IPO hits resistance as…",
+      "link": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/claude_hiking.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-06T11:38:17+00:00"
+    },
+    {
+      "id": "3690b3a90a0c8a48",
+      "title": "Anthropic adds bank account access to Claude so users can track their spending",
+      "summary": "Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about their finances. The…",
+      "link": "https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/Claude-Finances-title-scaled.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-06T11:33:13+00:00"
+    },
+    {
+      "id": "0f0c904291305e1d",
+      "title": "Queda em ações de tecnologia ameaça estreia da Anthropic na Bolsa",
+      "summary": "A queda das ações de tecnologia pressiona o IPO da Anthropic; investidores avaliam perdas e gastos com infraestrutura de IA O post Queda em ações de tecnologia ameaça estreia da…",
+      "link": "https://olhardigital.com.br/2026/11/06/pro/queda-em-acoes-de-tecnologia-ameaca-estreia-da-anthropic-na-bolsa/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/anthropic_ipo-1024x567.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-06T11:30:31+00:00"
+    },
+    {
+      "id": "0c6f039cd0b81d57",
+      "title": "Nasdaq 100 perde US$ 2,5 trilhões após vitória democrata nos EUA",
+      "summary": "Entenda por que incertezas políticas e gargalos na rede elétrica podem paralisar até 30% dos novos data centers de IA previstos para 2028 O post Nasdaq 100 perde US$ 2,5 trilhões…",
+      "link": "https://olhardigital.com.br/2026/11/06/pro/nasdaq-100-perde-us-25-trilhoes-apos-vitoria-democrata-nos-eua/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/shutterstock_2761441095-scaled-1-1024x653.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-06T10:31:30+00:00"
+    },
+    {
+      "id": "1ca94b52e709b2f5",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But…",
+      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-06T10:00:00+00:00"
+    },
+    {
+      "id": "c822924fc1f280c7",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-06T06:28:32+00:00"
+    },
+    {
+      "id": "0d4813b5944b17a5",
+      "title": "Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active",
+      "summary": "Thinking Machines Lab released Inkling 2 Small, a 594B-parameter MoE with 17B active parameters. It scores 31 on the Artificial Analysis Intelligence Index and runs on Tinker…",
+      "link": "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-06T04:25:07+00:00"
+    },
     {
       "id": "81192fa53642c598",
       "title": "CEO da Nvidia é chamado ao Congresso dos EUA após alerta sobre possível espionagem chinesa",
@@ -67,6 +199,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-11-06T00:06:12+00:00"
+    },
+    {
+      "id": "13e4c95dcbaa6d34",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "summary": "",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-06T00:00:00+00:00"
     },
     {
       "id": "d21aa7945ad6dc15",
@@ -366,17 +509,6 @@
       "published_at": "2026-11-05T17:00:00+00:00"
     },
     {
-      "id": "c84a4cb62f0462d2",
-      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-      "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-05T17:00:00+00:00"
-    },
-    {
       "id": "616c68177b707eae",
       "title": "Australian universities are creating AI-native graduates",
       "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
@@ -396,6 +528,17 @@
       "source": "Google AI Blog",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-11-05T17:00:00+00:00"
+    },
+    {
+      "id": "c84a4cb62f0462d2",
+      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
       "published_at": "2026-11-05T17:00:00+00:00"
     },
     {
@@ -848,149 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-11-04T21:24:39+00:00"
-    },
-    {
-      "id": "8d6f6c8bc49c9de3",
-      "title": "Meta acquires AI coding startup Conductor",
-      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-04T21:10:56+00:00"
-    },
-    {
-      "id": "2756e5d155b31941",
-      "title": "Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1",
-      "summary": "Ricursive Intelligence released Ripple-65B Preview, a 65B dense open-weight LLM under Apache 2.0. It scores 80.5 on Terminal-Bench 2.1, ahead of US open models up to 15x its size…",
-      "link": "https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-04T21:01:06+00:00"
-    },
-    {
-      "id": "f3b52b53bfb0f560",
-      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-      "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302983449-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-04T20:55:50+00:00"
-    },
-    {
-      "id": "97689e4470033f7c",
-      "title": "Gemini for Home now plugs into AT&T’s smart security system",
-      "summary": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google…",
-      "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/att-connected-life.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-04T20:23:24+00:00"
-    },
-    {
-      "id": "39348271216213b5",
-      "title": "Xiaomi começa a liberar HyperOS 4; veja quais celulares recebem",
-      "summary": "Update traz novo visual, recursos de inteligência artificial e integração com iPhone. Xiaomi começa a liberar HyperOS 4; veja quais celulares recebem",
-      "link": "https://tecnoblog.net/noticias/xiaomi-comeca-a-liberar-hyperos-4-veja-quais-celulares-recebem/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/oipiv85r5ho.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-04T20:14:31+00:00"
-    },
-    {
-      "id": "c204d5eb17182cde",
-      "title": "Sua empresa está ganhando produtividade com IA ou apenas gastando mais com tecnologia?",
-      "summary": "Pesquisas recentes revelam um dilema na adoção de inteligência artificial. No estudo The State of AI 2026, publicado em agosto pela McKinsey, 80% dos 1.719 participantes de 97…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/sua-empresa-esta-ganhando-produtividade-com-ia-ou-apenas-gastando-mais-com-tecnologia/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-04T20:04:36+00:00"
-    },
-    {
-      "id": "8f66a7e65b6ddb9a",
-      "title": "Intel pode descontinuar Arc B580 para focar em modelos voltados para IA",
-      "summary": "A empreitada da Intel no ramo de placas de vídeo já passa de quatro anos e somente duas gerações foram lançadas. O roadmap inicial prometia mais do que isso, mas ao que tudo…",
-      "link": "https://canaltech.com.br/hardware/intel-pode-descontinuar-arc-b580-para-focar-em-modelos-voltados-para-ia/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-04T20:04:00+00:00"
-    },
-    {
-      "id": "7790e6397c655695",
-      "title": "ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model",
-      "summary": "OpenAI is adding a GIF feature to ChatGPT. With the new Images 2.6 model, users can create animated GIFs from text prompts or photos and then adjust speed and individual frames…",
-      "link": "https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/openai_gif_cat.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-04T19:44:20+00:00"
-    },
-    {
-      "id": "c8f16fe4893163ef",
-      "title": "Xiaomi lança fechadura inteligente com leitor de digitais e bateria para 1 ano",
-      "summary": "A Xiaomi apresentou uma nova fechadura inteligente com recursos que visam tornar o acesso à residência ainda mais prático. A Smart Lock 5 conta com reconhecimento de impressões…",
-      "link": "https://canaltech.com.br/casa-conectada/xiaomi-lanca-fechadura-inteligente-com-leitor-de-digitais-e-bateria-para-1-ano/",
-      "image": "https://tl.ctcdn.com.br/Q0Fplc_SYA78STJ6Bt0bf6tCA2M=/0x0/filters:format(webp):quality(85)/3a7ecc20-f634-4e44-9d4f-7052df800ba6.webp",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-04T19:35:02+00:00"
-    },
-    {
-      "id": "5112f3d519822a57",
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as…",
-      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-04T19:30:04+00:00"
-    },
-    {
-      "id": "e582a56b9edebbe8",
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-      "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-04T19:29:52+00:00"
-    },
-    {
-      "id": "122a809fef37506e",
-      "title": "Anthropic's text watermark is easy to bypass on several older Claude models",
-      "summary": "Anthropic is rolling out text watermarks to four more Claude models ahead of the EU AI Act's December deadline. But on older models like Claude Opus 4.6 and Sonnet 4.6, API users…",
-      "link": "https://the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/Claude-Watermark.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-04T19:03:55+00:00"
-    },
-    {
-      "id": "7adeca3c0bd2f110",
-      "title": "Google amplia demissões voluntárias para investir mais em IA",
-      "summary": "Programa chegou a cinco países, mas não inclui o Brasil. Funcionários receberam ofertas de até 12 meses de salário para deixar a empresa. Google amplia demissões voluntárias para…",
-      "link": "https://tecnoblog.net/noticias/google-amplia-demissoes-voluntarias-para-investir-mais-em-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-novos-icones-google-2026-11-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-04T19:03:52+00:00"
     }
   ]
 }
