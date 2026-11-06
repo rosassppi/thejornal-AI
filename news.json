@@ -1,7 +1,293 @@
 {
-  "generated_at": "2026-11-06T13:45:28.904490+00:00",
+  "generated_at": "2026-11-06T22:43:34.299535+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "4448ba6ca917bce6",
+      "title": "Governo destina R$ 46,3 milhões a rede nacional de data centers",
+      "summary": "Iniciativa prevê integrar centros de processamento de dados em diferentes regiões do Brasil e usar inteligência artificial para otimizar o consumo de energia O post Governo…",
+      "link": "https://olhardigital.com.br/2026/11/06/pro/governo-destina-r-463-milhoes-a-rede-nacional-de-data-centers/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-06T21:22:12+00:00"
+    },
+    {
+      "id": "850fab92dd7d304b",
+      "title": "Novo GPT-6 Cyber encontra falhas de segurança mais rápido que qualquer hacker",
+      "summary": "A OpenAI anunciou o GPT-6 Cyber , um modelo de inteligência artificial desenvolvido para pesquisas avançadas em cibersegurança. A ferramenta foi treinada para identificar…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/novo-gpt-6-cyber-encontra-falhas-de-seguranca-mais-rapido-que-qualquer-hacker/",
+      "image": "https://tl.ctcdn.com.br/ghD2z0XVzSdNKsk1aaAohcKqEJA=/0x0/filters:format(webp):quality(85)/6de05839-f89f-4e11-9241-bf65e6e6c8d6.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-06T21:03:00+00:00"
+    },
+    {
+      "id": "ae982994ab6fb05d",
+      "title": "Hora de imprimir mais e gastar menos: veja uma seleção de impressoras em promoção na Amazon",
+      "summary": "Se você está pensando em renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções multifuncionais em oferta na Amazon, com modelos…",
+      "link": "https://olhardigital.com.br/2026/11/06/reviews/hora-de-imprimir-mais-e-gastar-menos-veja-uma-selecao-de-impressoras-em-promocao-na-amazon-8/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-06T20:18:30+00:00"
+    },
+    {
+      "id": "f0d1abea51279a84",
+      "title": "WhatsApp começa a usar IA para completar fotos e evitar bordas pretas em tela cheia",
+      "summary": "O WhatsApp começou a liberar uma ferramenta de inteligência artificial que expande fotos para preencher a tela inteira , sem deixar bordas pretas na parte superior e inferior. O…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/whatsapp-comeca-a-usar-ia-para-completar-fotos-e-evitar-bordas-pretas-em-tela-cheia/",
+      "image": "https://tl.ctcdn.com.br/cG_HQLvnkLAONwZ1Bk1dnRQ8Qz0=/0x0/filters:format(webp):quality(85)/7ca9875a-ffd0-4123-bf56-c8fd145dbf1d.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-06T20:06:00+00:00"
+    },
+    {
+      "id": "f8fe21ba7f368ed1",
+      "title": "All the latest updates on AI data centers",
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-06T20:02:22+00:00"
+    },
+    {
+      "id": "2e6ceb7a014a7c06",
+      "title": "AMD agora prioriza data centers; mas e os jogos e os PCs?",
+      "summary": "Aplicações de IA aumentaram demanda por data centers que, por sua vez, agora são principal fonte de receita para a AMD. AMD agora prioriza data centers; mas e os jogos e os PCs?",
+      "link": "https://tecnoblog.net/noticias/amd-agora-prioriza-data-centers-mas-e-os-jogos-e-os-pcs/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/05/amd-video_capa-1_tb-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-06T19:59:24+00:00"
+    },
+    {
+      "id": "d9e198fa10295e04",
+      "title": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
+      "summary": "Ricursive Intelligence is releasing Ripple-65B Preview, a 65-billion-parameter open-weight language model that the company says achieves the top score among open-source U.S…",
+      "link": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/ricurisve_intelligence.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-06T19:47:04+00:00"
+    },
+    {
+      "id": "650824bb4314088b",
+      "title": "Claude ganha ferramenta que acessa contas bancárias e analisa os seus gastos",
+      "summary": "O Claude lançou o Personal Finance, uma ferramenta que permite conectar contas bancárias e cartões de crédito ao assistente de IA . A novidade, que está em fase beta, concentra as…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/claude-ganha-ferramenta-que-acessa-contas-bancarias-e-analisa-os-seus-gastos/",
+      "image": "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-06T19:01:00+00:00"
+    },
+    {
+      "id": "c262b9961ff71dc3",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-06T18:44:38+00:00"
+    },
+    {
+      "id": "2d23850120e57d6c",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-06T18:44:20+00:00"
+    },
+    {
+      "id": "9aeac73058ac351b",
+      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub…",
+      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&#038;strip=all&#038;crop=8.0752843063528,0,91.924715693647,74.471659887186",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-06T18:10:10+00:00"
+    },
+    {
+      "id": "562d9908327b6d6f",
+      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1363244761-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-06T17:43:02+00:00"
+    },
+    {
+      "id": "012feed26f8d0194",
+      "title": "Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster",
+      "summary": "Zyphra released ZYFA, open-source FP8 and BF16 prefill attention kernels for AMD Instinct MI355X. On real model activations, its FP8 kernels run 1.16-1.76x faster than AMD’s…",
+      "link": "https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-06T17:28:04+00:00"
+    },
+    {
+      "id": "b7e06d2c4d9dada9",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday —…",
+      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-06T17:23:52+00:00"
+    },
+    {
+      "id": "79e50eedc0d8dd1a",
+      "title": "Perplexity lança agentes de IA que trabalham 24/7 e até usam o Slack",
+      "summary": "A Perplexity lançou novos agentes de IA chamados “ Teammates ” (“Colegas de time”, em tradução livre). Os bots funcionam como c olegas de trabalho que organizam tarefas durante…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/perplexity-lanca-agentes-de-ia-que-trabalham-247-e-ate-usam-o-slack/",
+      "image": "https://tl.ctcdn.com.br/BV5JBdRlSXFshKvUbkgBzNkV_oA=/0x0/filters:format(webp):quality(85)/2c642ad9-a34f-4f4a-8128-6c4287ce4227.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-06T17:01:00+00:00"
+    },
+    {
+      "id": "84e924c4ab2b73c1",
+      "title": "AI is the new dating dealbreaker",
+      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-06T17:00:00+00:00"
+    },
+    {
+      "id": "4f73a72deb0853d3",
+      "title": "Perplexity now has its own always-on AI agent",
+      "summary": "Perplexity is launching \"Teammates,\" always-on agents that work through ongoing projects on their own virtual machines. The feature requires the Max plan at $200 per month, well…",
+      "link": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/perplexity.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-06T16:47:28+00:00"
+    },
+    {
+      "id": "f659f2b84ee7c431",
+      "title": "Big Tech lost big in the 2026 election",
+      "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the…",
+      "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_110626_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-06T16:38:02+00:00"
+    },
+    {
+      "id": "51872e89890c6332",
+      "title": "How Akai and Moog are embracing vibe-coded mods",
+      "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell…",
+      "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/assets_47c5d023e7b3451a86ac03602c65dce8_43f25647cf8a4cbb8786829bc29ee2fb.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-06T16:34:39+00:00"
+    },
+    {
+      "id": "9e40c95d4da9e2b4",
+      "title": "Could potential AI clones of GTA VI force a quicker official port?",
+      "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+      "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6-500x500-1793980851.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-06T16:19:12+00:00"
+    },
+    {
+      "id": "c51817c27b4afaa4",
+      "title": "Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets",
+      "summary": "OpenAI is talking about the AGI era, and Nvidia CEO Jensen Huang says AGI has arrived. At the same time, co-creators of today's models are leaving OpenAI, Google DeepMind, and…",
+      "link": "https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/Frontier-Radar-5-Neolabs.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-06T15:55:23+00:00"
+    },
+    {
+      "id": "291e476bb8671d5a",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-06T15:54:47+00:00"
+    },
+    {
+      "id": "f69eb2bf083d7e1e",
+      "title": "Microsoft quer patentear IA que altera falas ao vivo",
+      "summary": "Sistema poderia traduzir discursos e substituir palavras com poucos segundos de atraso e sincronia labial. Microsoft quer patentear IA que altera falas ao vivo",
+      "link": "https://tecnoblog.net/noticias/microsoft-quer-patentear-ia-que-altera-falas-ao-vivo/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/04/microsoft_capa-3-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-06T15:10:46+00:00"
+    },
+    {
+      "id": "5a90caffb2c87d2e",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "summary": "",
+      "link": "https://huggingface.co/blog/allenai/toyblocks",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-06T14:00:48+00:00"
+    },
+    {
+      "id": "58fc9a0b8ae1b328",
+      "title": "Amazon will let you text Alexa your shopping list",
+      "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking…",
+      "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Amazon-Alexa-for-Shopping-text-order.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-06T14:00:00+00:00"
+    },
+    {
+      "id": "8b488bf19ad65053",
+      "title": "Huawei Watch GT 7 com GPS está 42% mais barato na Amazon",
+      "summary": "Watch GT 7 (46 mm) traz GPS com IA mais preciso e tela AMOLED de 3.000 nits; novo smartwatch da Huawei recebe desconto de 42% em oferta da Black November no Pix Huawei Watch GT 7…",
+      "link": "https://tecnoblog.net/achados/huawei-watch-gt-7-com-gps-esta-42-mais-barato-na-amazon/",
+      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/amz.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-06T13:43:32+00:00"
+    },
     {
       "id": "da70389577516074",
       "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
@@ -113,6 +399,17 @@
       "published_at": "2026-11-06T10:00:00+00:00"
     },
     {
+      "id": "a0a44ed09dc9a108",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-06T08:00:00+00:00"
+    },
+    {
       "id": "c822924fc1f280c7",
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
       "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
@@ -199,6 +496,17 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-11-06T00:06:12+00:00"
+    },
+    {
+      "id": "5f721228af3682c2",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-06T00:00:00+00:00"
     },
     {
       "id": "13e4c95dcbaa6d34",
@@ -498,17 +806,6 @@
       "published_at": "2026-11-05T17:51:52+00:00"
     },
     {
-      "id": "94c971e34f7981b0",
-      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
-      "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to…",
-      "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GDGG_Grimes_2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-05T17:00:00+00:00"
-    },
-    {
       "id": "616c68177b707eae",
       "title": "Australian universities are creating AI-native graduates",
       "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
@@ -528,6 +825,17 @@
       "source": "Google AI Blog",
       "region": "mundo",
       "category": "Modelos",
+      "published_at": "2026-11-05T17:00:00+00:00"
+    },
+    {
+      "id": "94c971e34f7981b0",
+      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
+      "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to…",
+      "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GDGG_Grimes_2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
       "published_at": "2026-11-05T17:00:00+00:00"
     },
     {
@@ -683,314 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-11-05T13:04:00+00:00"
-    },
-    {
-      "id": "44f488c59aa9e3a6",
-      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
-      "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
-      "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-05T13:00:00+00:00"
-    },
-    {
-      "id": "0cd168b5f4e53677",
-      "title": "Proton se desculpa após polêmica sobre uso de IA",
-      "summary": "Empresa prometeu mais transparência depois de relatos sobre pressão interna para usar inteligência artificial. Proton se desculpa após polêmica sobre uso de IA",
-      "link": "https://tecnoblog.net/noticias/proton-se-desculpa-apos-polemica-sobre-uso-de-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/06/proton-vpn-android-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-05T12:47:17+00:00"
-    },
-    {
-      "id": "979e9915d7c7070d",
-      "title": "Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI",
-      "summary": "Catherine Wu, the founding product lead for Claude Code, is leaving Anthropic for OpenAI, where she'll head up product management for \"Core Products\" and work directly with Codex…",
-      "link": "https://the-decoder.com/anthropic-loses-product-lead-catherine-wu-behind-claude-code-to-openai/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_anthropic.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-05T12:20:35+00:00"
-    },
-    {
-      "id": "30e6b981757c4046",
-      "title": "Impressora 3D funciona no espaço e constrói estrutura em plena órbita",
-      "summary": "Uma impressora 3D instalada em um satélite conseguiu fabricar uma estrutura rígida diretamente no vácuo do espaço . A demonstração foi realizada pela startup alemã Orbital Matter…",
-      "link": "https://canaltech.com.br/produtos/impressora-3d-funciona-no-espaco-e-constroi-estrutura-em-plena-orbita/",
-      "image": "https://tl.ctcdn.com.br/zGKQusOABXvn1-PnroAZoWo86nY=/0x0/filters:format(webp):quality(85)/fa200d9a-0491-4c3c-8c73-57bf525698e6.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-05T12:19:39+00:00"
-    },
-    {
-      "id": "9db55803402ec47c",
-      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-      "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
-      "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Agility-Digit-5-humanoid-robots-at-work-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-05T12:00:41+00:00"
-    },
-    {
-      "id": "788aca0b86fe44b2",
-      "title": "Big Tech’s big AI buildout will not end until someone stops it",
-      "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-05T10:45:00+00:00"
-    },
-    {
-      "id": "14e90e72d3401ddf",
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-      "link": "https://openai.com/index/introducing-gpt-6-cyber",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-05T09:00:00+00:00"
-    },
-    {
-      "id": "4e11f8533edf736a",
-      "title": "Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster",
-      "summary": "Together AI released Together Compiler, an agent-driven loop that keeps re-optimizing the inference forward pass as traffic shifts. It beat the best InferenceX configurations by…",
-      "link": "https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-05T08:02:58+00:00"
-    },
-    {
-      "id": "db9792e954d44701",
-      "title": "Merge builds product and business tools with OpenAI technology",
-      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-      "link": "https://openai.com/index/merge-builds-with-openai",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-05T08:00:00+00:00"
-    },
-    {
-      "id": "fb788f26441f6d67",
-      "title": "OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation",
-      "summary": "OpenAI released Images 2.6 and the GPT-Image-2.6 Flare and Sunburst API models. Flare generates images in as little as 6 seconds, and both add GIF output, SVG export, markup edits…",
-      "link": "https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/Static_01_animate-gifs-150x150.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-05T07:03:17+00:00"
-    },
-    {
-      "id": "b3cfcfa785117bb2",
-      "title": "Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers",
-      "summary": "Google Research released Agile Deliberation, a human-in-the-loop framework that helps users define subjective visual concepts through borderline images. In 18 live sessions, it…",
-      "link": "https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-05T05:42:18+00:00"
-    },
-    {
-      "id": "25fa4dd18ec78a48",
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-05T02:00:00+00:00"
-    },
-    {
-      "id": "0bdb1a1e41e94767",
-      "title": "Olhar do Amanhã: Congresso dos EUA muda de lado, e IA vai sentir o impacto",
-      "summary": "Álvaro Machado Dias, colunista do Olhar Digital News, analisa o resultado das eleições de meio de mandato nos EUA O post Olhar do Amanhã: Congresso dos EUA muda de lado, e IA vai…",
-      "link": "https://olhardigital.com.br/2026/11/04/colunistas/olhar-do-amanha-congresso-dos-eua-muda-de-lado-e-ia-vai-sentir-o-impacto/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-05T01:29:08+00:00"
-    },
-    {
-      "id": "ad1030df5ce46710",
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-05T01:26:22+00:00"
-    },
-    {
-      "id": "2d1d326185a62641",
-      "title": "Flipsnack grows product signups with conversion optimization",
-      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-      "link": "https://openai.com/ads/customers/flipsnack",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-05T00:45:15+00:00"
-    },
-    {
-      "id": "a8e215d1c3fca63a",
-      "title": "Franklin Templeton uses OpenAI to support investment research",
-      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-      "link": "https://openai.com/index/franklin-templeton",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-05T00:00:00+00:00"
-    },
-    {
-      "id": "c65c7708e93995ca",
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "summary": "",
-      "link": "https://huggingface.co/blog/phonon-tts",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-05T00:00:00+00:00"
-    },
-    {
-      "id": "7a03c874a957e1ea",
-      "title": "Guerra de drones pode chegar à órbita com satélites armados e controlados por IA",
-      "summary": "Startup britânica quer transformar pequenos satélites em uma espécie de esquadrão de defesa orbital O post Guerra de drones pode chegar à órbita com satélites armados e…",
-      "link": "https://olhardigital.com.br/2026/11/04/ciencia-e-espaco/guerra-de-drones-pode-chegar-a-orbita-com-satelites-armados-e-controlados-por-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/cubesats-1024x576.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-04T23:15:00+00:00"
-    },
-    {
-      "id": "7aa63af445bdd3ac",
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-04T22:45:09+00:00"
-    },
-    {
-      "id": "b531b56f4ce7687d",
-      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-      "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-04T22:42:15+00:00"
-    },
-    {
-      "id": "b0c94751374cda3b",
-      "title": "webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500",
-      "summary": "webAI released TwIL-8B, an 8.8B reasoning model post-trained from IBM Granite 4.2 8B. It posts 98.2 on MATH-500 and 81.6 on LiveCodeBench, but trails similar-size models on…",
-      "link": "https://www.marktechpost.com/2026/11/04/webai-twil-8b-reasoning-model/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-04T22:25:05+00:00"
-    },
-    {
-      "id": "b7f3d9187ffad68a",
-      "title": "Skyone lança plataforma corporativa com acesso a mais de 400 modelos de IA",
-      "summary": "A empresa de cloud e IA Skyone lançou nesta quarta-feira (04) a plataforma Skyone Astro para facilitar o acesso à IA no meio corporativo. A novidade reúne mais de 400 diferentes…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/skyone-lanca-plataforma-corporativa-com-acesso-a-mais-de-400-modelos-de-ia/",
-      "image": "https://tl.ctcdn.com.br/XfTzLugH6McGXGP4aLhgDgFXGPY=/0x0/filters:format(webp):quality(85)/5d72c70c-ba51-45f5-8c5b-9d515447292e.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-04T22:15:05+00:00"
-    },
-    {
-      "id": "c1e93e47438d89a0",
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-04T22:13:16+00:00"
-    },
-    {
-      "id": "b314cbc6665b0c27",
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-04T21:56:01+00:00"
-    },
-    {
-      "id": "576b3975e72bb4e8",
-      "title": "17 better ways Elon Musk could have wasted $446 million",
-      "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-04T21:45:00+00:00"
-    },
-    {
-      "id": "1686d7edb1279129",
-      "title": "ChatGPT Classic tem data para acabar; veja o que muda no aplicativo",
-      "summary": "Batizada de ChatGPT Classic, a versão antiga começou a exibir avisos sobre o encerramento do serviço O post ChatGPT Classic tem data para acabar; veja o que muda no aplicativo…",
-      "link": "https://olhardigital.com.br/2026/11/04/inteligencia-artificial/chatgtp-classic-tem-data-para-acabar-veja-o-que-muda-no-aplicativo/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/07/chatgpt_work_2-1024x576.webp",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-04T21:37:18+00:00"
-    },
-    {
-      "id": "bd044bc53c19f14d",
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-04T21:25:44+00:00"
-    },
-    {
-      "id": "966578b05076ca2b",
-      "title": "Economize na hora de imprimir: selecionamos ótimas impressoras em promoção na Amazon",
-      "summary": "Se você está pensando em renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções de impressoras multifuncionais em oferta na…",
-      "link": "https://olhardigital.com.br/2026/11/04/reviews/economize-na-hora-de-imprimir-selecionamos-otimas-impressoras-em-promocao-na-amazon-2/",
-      "image": "https://m.media-amazon.com/images/I/41oo0iwaosL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-04T21:24:39+00:00"
     }
   ]
 }
