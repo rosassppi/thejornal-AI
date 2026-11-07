@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-06T22:43:34.299535+00:00",
+  "generated_at": "2026-11-07T04:43:39.676991+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "ec2480d446f6212c",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-07T01:40:28+00:00"
+    },
+    {
+      "id": "ebac86c01fc4b632",
+      "title": "China recrutou empresária para espionar CEO da Nvidia, aponta inteligência dos EUA",
+      "summary": "Ela também deveria tentar influenciar o executivo a defender a liberação dos chips mais avançados da companhia para o mercado chinês O post China recrutou empresária para espionar…",
+      "link": "https://olhardigital.com.br/2026/11/06/pro/china-recrutou-empresaria-para-espionar-ceo-da-nvidia-aponta-inteligencia-dos-eua/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/jensen_huang_nvidia-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-06T23:57:08+00:00"
+    },
+    {
+      "id": "6c7191a9daddd032",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-06T23:46:18+00:00"
+    },
+    {
+      "id": "a7e1415152c9585b",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS)…",
+      "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-06T23:00:44+00:00"
+    },
+    {
+      "id": "b19a52adc8186729",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-06T22:53:46+00:00"
+    },
     {
       "id": "4448ba6ca917bce6",
       "title": "Governo destina R$ 46,3 milhões a rede nacional de data centers",
@@ -936,61 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-11-05T15:00:00+00:00"
-    },
-    {
-      "id": "bc5c9d2b8a73a3e3",
-      "title": "Projeto usa IA para rodar jogos de Nintendo Switch a 60 FPS na Apple TV",
-      "summary": "Um novo projeto foi revelado nas redes sociais, com o objetivo de levar os jogos de Nintendo Switch e Switch 2 para o Apple TV 4K . Chamado de TVPort, ele permite rodar os…",
-      "link": "https://canaltech.com.br/games/projeto-usa-ia-para-rodar-jogos-de-nintendo-switch-a-60-fps-na-apple-tv/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-05T14:52:00+00:00"
-    },
-    {
-      "id": "13751a5f835400fc",
-      "title": "After midterm rout, OpenAI tries to win over communities it needs for AI expansion",
-      "summary": "OpenAI is responding to the clear vote by US voters against new data centers with voluntary commitments for future sites. The pledges only apply to facilities OpenAI operates…",
-      "link": "https://the-decoder.com/after-midterm-rout-openai-tries-to-win-over-communities-it-needs-for-ai-expansion/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-05T14:37:46+00:00"
-    },
-    {
-      "id": "b70b8869011c1b7a",
-      "title": "Anthropic reverses course and pays for news content for the first time",
-      "summary": "Anthropic signed its first licensing deal with a news publisher just ahead of the US midterm elections. The article Anthropic reverses course and pays for news content for the…",
-      "link": "https://the-decoder.com/anthropic-reverses-course-and-pays-for-news-content-for-the-first-time/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-05T14:09:05+00:00"
-    },
-    {
-      "id": "99ab98a91ebc2317",
-      "title": "Agentes de IA precisam de dados para decidir",
-      "summary": "*Por Fernando Cabral A inteligência artificial está entrando em uma nova fase. Depois de ganhar espaço como ferramenta para gerar conteúdo, organizar informações e responder…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/agentes-de-ia-precisam-de-dados-para-decidir/",
-      "image": "https://tl.ctcdn.com.br/h8CSuUOvkffM-rWIZEsfBu_AidQ=/0x0/filters:format(webp):quality(85)/c1780697-2b1e-4ed2-8d5a-b29ec103b27e.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-05T13:32:28+00:00"
-    },
-    {
-      "id": "8e13080b25c70570",
-      "title": "Google Fotos testa IA para caçar e apagar imagens velhas e pesadas",
-      "summary": "O Google Fotos está testando novos recursos de inteligência artificial para organizar a biblioteca, editar várias imagens de uma vez e liberar espaço de armazenamento. As…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/google-fotos-testa-ia-para-cacar-e-apagar-imagens-velhas-e-pesadas/",
-      "image": "https://tl.ctcdn.com.br/3__KfHg0Uikun6oflCpfUzRaCvE=/0x0/filters:format(webp):quality(85)/0f29d6d0-540e-4519-b78e-cb7cc3a54663.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-05T13:04:00+00:00"
     }
   ]
 }
