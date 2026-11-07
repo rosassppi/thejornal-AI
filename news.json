@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-11-07T12:28:36.712560+00:00",
+  "generated_at": "2026-11-07T21:27:56.367830+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "4e392e0aaa878514",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-07T21:17:08+00:00"
+    },
+    {
+      "id": "57571dc1d784b80d",
+      "title": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide",
+      "summary": "Explore a comprehensive coding guide for NVIDIA's Dory 1.0 4B looped language model. Learn how to build the pinned llama.cpp branch, analyze loop-by-loop compute costs, test…",
+      "link": "https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-07T19:22:44+00:00"
+    },
+    {
+      "id": "d8f962272b15be99",
+      "title": "EUA deixou Nvidia vender chips de IA para empresa fantasma da China",
+      "summary": "Caso faz parte de padrão preocupante: empresas ligadas a entidades sujeitas a restrições comerciais têm sido autorizadas a comprar chips da Nvidia O post EUA deixou Nvidia vender…",
+      "link": "https://olhardigital.com.br/2026/11/07/pro/eua-deixou-nvidia-vender-chips-de-ia-para-empresa-fantasma-da-china/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/chip-nvidia-1024x678.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-07T18:52:50+00:00"
+    },
+    {
+      "id": "a05360b91e5c56a4",
+      "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
+      "summary": "Despite the tech selloff, Anthropic is pressing ahead with its IPO at a valuation of $1.25 to $1.75 trillion, well below the hoped-for $2 trillion. The Claude developer aims to…",
+      "link": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_logoreihe.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-07T17:37:25+00:00"
+    },
+    {
+      "id": "fef7b11930c2e814",
+      "title": "Como usar o mapa do Gemini para encontrar novos lugares?",
+      "summary": "O Google lançou uma nova ferramenta chamada “Mapa” para o aplicativo Gemini em celulares. Com ela, você pode escolher uma região no mapa e pedir à inteligência artificial…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-o-mapa-do-gemini-para-encontrar-novos-lugares/",
+      "image": "https://tl.ctcdn.com.br/Ax_v6bLwRDFntlJGB9GftCprRb4=/0x0/filters:format(webp):quality(85)/5e76d40e-8c82-48fe-8bca-c85b83f51fa3.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-07T17:00:00+00:00"
+    },
+    {
+      "id": "8bfb69f75a918806",
+      "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
+      "summary": "AI models can often spot problematic behavior by other AI agents in logs, according to a study by Anthropic researcher Andy Hall. GPT-5 found about 98 percent of reward-hacking…",
+      "link": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/ai_auditing_reliability.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-07T16:56:38+00:00"
+    },
+    {
+      "id": "2ad9017017784a3c",
+      "title": "Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs",
+      "summary": "Thinking Machines' AI model Inkling 2 Small swears during its internal reasoning, 316 times across 2,655 benchmark runs, according to an analysis by Vals AI. The profanity…",
+      "link": "https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/neural_network_black.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-07T16:31:00+00:00"
+    },
+    {
+      "id": "1ab28dde47a3074f",
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I…",
+      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-07T15:50:00+00:00"
+    },
+    {
+      "id": "b521172828d62613",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-07T15:43:45+00:00"
+    },
+    {
+      "id": "15aac27145222fbc",
+      "title": "The gap between open and closed AI models in cyber capabilities keeps shrinking",
+      "summary": "In the Vals AI benchmark, OpenAI's GPT-6 Sol Daybreak hits 80.8 percent of attack objectives in simulated corporate networks. Worse, the open-weight model DeepSeek V4.1 Flash…",
+      "link": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/cyber_kraken.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-07T15:35:50+00:00"
+    },
+    {
+      "id": "f6e53c5b5a40c414",
+      "title": "Quanto vale à pena pagar na RTX 5060 Ti na Black Friday 2026?",
+      "summary": "A série de placas RTX xx60 da NVIDIA costuma ser a mais popular para quem quer aproveitar bem jogos na resolução Full HD. Porém a variação RTX xx60 Ti eleva o padrão ao entregar…",
+      "link": "https://canaltech.com.br/hardware/geforce-rtx-5060-ti-quanto-vale-a-pena-pagar-black-friday-2026/",
+      "image": "https://tl.ctcdn.com.br/FPSfNukmmz34ZSE339-Ow34Ae84=/0x0/filters:format(webp):quality(85)/04df4e31-bbca-44d3-bc6f-f6e45d48ad9e.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-07T15:00:05+00:00"
+    },
+    {
+      "id": "4b429bd7582936e3",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one…",
+      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-07T15:00:00+00:00"
+    },
+    {
+      "id": "a686d9f49ee20496",
+      "title": "Meta adia regras sobre coleta de conteúdo jornalístico para treinar IA",
+      "summary": "Adiamento comunicado pela Meta vem pouco depois de um revés judicial no Brasil; relembre a decisão da Justiça de São Paulo e entenda o caso O post Meta adia regras sobre coleta de…",
+      "link": "https://olhardigital.com.br/2026/11/07/pro/meta-adia-regras-sobre-coleta-de-conteudo-jornalistico-para-treinar-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/ai-meta-e1759425651869-1024x577.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-07T14:16:23+00:00"
+    },
+    {
+      "id": "f87d699700ab026e",
+      "title": "O que são e como funcionam os dots do ChatGPT?",
+      "summary": "Os dots são agentes de inteligência artificial que trabalham continuamente para executar tarefas e acompanhar projetos. Ao contrário dos chatbots, que apenas respondem a comandos…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-e-como-funciona-chatgpt-dots/",
+      "image": "https://tl.ctcdn.com.br/qLxzmvx2-FVPLbXX2CHud1ZT3Is=/0x0/filters:format(webp):quality(85)/3716c7e1-c83b-4b13-82ce-17184f670d89.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-07T13:00:00+00:00"
+    },
+    {
+      "id": "77c57a52dd82ed1e",
+      "title": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away",
+      "summary": "Nous Research retrained Alibaba's Qwen3.8-27B to produce Arete-27B, largely stripping out its pro-Chinese bias. The propaganda rate dropped from 22 percent to less than one…",
+      "link": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/arete-27b-01-hero.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-07T12:32:45+00:00"
+    },
+    {
+      "id": "eecad6fef1daea32",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-07T12:30:00+00:00"
+    },
     {
       "id": "f340394b6177166d",
       "title": "Como a IA vai criar o carro de F1 do futuro antes mesmo de colocá-lo nas pistas",
@@ -815,182 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-11-05T19:35:16+00:00"
-    },
-    {
-      "id": "7d05777f3cb4ebe2",
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-05T19:12:39+00:00"
-    },
-    {
-      "id": "ade9aaf4e69d9090",
-      "title": "AMD promete não abandonar Ryzen, mas números mostram empresa como gigante de IA",
-      "summary": "A atual geração de processadores da AMD, Ryzen 9000 , foi lançada há dois anos e não existe previsão de quando os sucessores chegarão ao mercado. Esse segmento, no entanto, não…",
-      "link": "https://canaltech.com.br/hardware/amd-promete-nao-abandonar-ryzen-mas-numeros-mostram-empresa-como-gigante-de-ia/",
-      "image": "https://tl.ctcdn.com.br/_xo4XtAKK4dBPHLB_4YGOem-rUM=/0x0/filters:format(webp):quality(85)/943de1b7-a729-4c76-b706-fb79bb44ea43.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-05T19:10:05+00:00"
-    },
-    {
-      "id": "42370702883d2723",
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-05T19:06:12+00:00"
-    },
-    {
-      "id": "a47540f0e7399574",
-      "title": "Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent",
-      "summary": "Google Deepmind is making Gemini Omni 1.2 Flash generally available. The video-generation model now creates clips up to 15 seconds long, can be edited step by step via…",
-      "link": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/gemini_4_logo_wall.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-05T19:05:31+00:00"
-    },
-    {
-      "id": "bcea566fc08fba9b",
-      "title": "Muse has a voice mode now",
-      "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin…",
-      "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-05T19:03:04+00:00"
-    },
-    {
-      "id": "2a8256897722920e",
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had…",
-      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-05T18:02:27+00:00"
-    },
-    {
-      "id": "b86f7c45dcb3e542",
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-05T18:00:00+00:00"
-    },
-    {
-      "id": "e6d6c85b3eb3fa4e",
-      "title": "Claude AI can plug directly into your bank account",
-      "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-05T18:00:00+00:00"
-    },
-    {
-      "id": "1bb8fb5747847242",
-      "title": "Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model",
-      "summary": "Baidu releases ERNIE 5.5 Flash Base: a 280-billion-parameter MoE model pre-trained on 33.5 trillion tokens, shipped deliberately without fine-tuning, so developers can take it…",
-      "link": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/ernie_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-05T17:56:41+00:00"
-    },
-    {
-      "id": "7f4a9514fea8d843",
-      "title": "Galaxy S26 FE atinge menor preço desde o lançamento no Magalu",
-      "summary": "Galaxy S26 FE (128 GB) tem chip de 3 nanômetros e novas funções de IA; premium acessível da Samsung sai 41% mais em conta no Pix com cupom durante a Black November 2026 Galaxy S26…",
-      "link": "https://tecnoblog.net/achados/galaxy-s26-fe-atinge-menor-preco-desde-o-lancamento-no-magalu/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/zrymaivmz9u.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-05T17:51:57+00:00"
-    },
-    {
-      "id": "a05905dc499c67f3",
-      "title": "‘Total repudiation’: The blue wave is about to hit AI",
-      "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-05T17:51:52+00:00"
-    },
-    {
-      "id": "616c68177b707eae",
-      "title": "Australian universities are creating AI-native graduates",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-      "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-05T17:00:00+00:00"
-    },
-    {
-      "id": "27b87d65d3f99406",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-05T17:00:00+00:00"
-    },
-    {
-      "id": "94c971e34f7981b0",
-      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
-      "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to…",
-      "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GDGG_Grimes_2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-05T17:00:00+00:00"
-    },
-    {
-      "id": "c84a4cb62f0462d2",
-      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-      "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-05T17:00:00+00:00"
-    },
-    {
-      "id": "aca951de3e07af39",
-      "title": "No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark",
-      "summary": "SemiAnalysis is putting AI agents through simulated knowledge work in its new GDPx benchmark, covering everything from chip design to quant trading. No model breaks 12 percent…",
-      "link": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/semianalysis.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-05T16:46:24+00:00"
     }
   ]
 }
