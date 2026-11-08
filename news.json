@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-11-08T12:46:44.777713+00:00",
+  "generated_at": "2026-11-08T21:41:06.104943+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "ab3c0090fa33621f",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-08T21:00:11+00:00"
+    },
+    {
+      "id": "748e4265c9a5accd",
+      "title": "O que é a chamada \"Crise do COBOL\" e como a IA pode ajudar a resolver?",
+      "summary": "Uma linguagem de programação criada em 1959 ainda é relevante décadas depois e encontra dificuldades para ser atualizado a sistemas mais novos. É o caso do COBOL , sistema de…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-e-a-crise-do-cobol-e-como-ia-pode-ajudar/",
+      "image": "https://tl.ctcdn.com.br/lPZN19Fdr1hJWhGYPjyTqoulu6A=/0x0/filters:format(webp):quality(85)/62428a8f-6c4d-4fc8-9172-4e26bc22e495.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-08T21:00:00+00:00"
+    },
+    {
+      "id": "911aabfdf20d06ab",
+      "title": "Nvidia investiga possível ação de inteligência estrangeira contra Jensen Huang",
+      "summary": "Conselho de administração da empresa abriu uma investigação para apurar se o CEO foi alvo de uma operação de inteligência estrangeira O post Nvidia investiga possível ação de…",
+      "link": "https://olhardigital.com.br/2026/11/08/pro/nvidia-investiga-possivel-acao-de-inteligencia-estrangeira-contra-jensen-huang/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-08T20:44:17+00:00"
+    },
+    {
+      "id": "2c106fdfee3682f3",
+      "title": "Como criar GIFs animados no ChatGPT? Veja o passo a passo",
+      "summary": "O ChatGPT agora consegue criar GIFs animados a partir de comandos de texto ou imagens enviadas pelo usuário. A novidade chegou com o modelo Images 2.6, que gera animações em uma…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/passo-a-passo-como-criar-gifs-animados-chatgpt/",
+      "image": "https://tl.ctcdn.com.br/6LqZCshVXdomFCPYTX79UjQQOws=/0x0/filters:format(webp):quality(85)/896d0c9d-66bc-46c7-805c-ce8274dea2ca.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-08T19:30:00+00:00"
+    },
+    {
+      "id": "b9c0dd474c98ba84",
+      "title": "Apple is racing to make Siri more agentic",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-08T19:18:19+00:00"
+    },
+    {
+      "id": "c08233254ab55692",
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music…",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-08T17:23:19+00:00"
+    },
+    {
+      "id": "5c4f995a241e5b17",
+      "title": "Homens avançam mais que mulheres em empregos expostos à IA",
+      "summary": "Pesquisa do Pew Research Center aponta que o avanço do emprego masculino supera o feminino em profissões mais expostas à inteligência artificial nos EUA O post Homens avançam mais…",
+      "link": "https://olhardigital.com.br/2026/11/08/inteligencia-artificial/homens-avancam-mais-que-mulheres-em-empregos-expostos-a-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/the_gap_between_mens_and_womens_employment_growth_widens_as_ai_exposure_rises-753x1024.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-08T17:06:50+00:00"
+    },
+    {
+      "id": "3af53f8572641d8a",
+      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-08T17:02:00+00:00"
+    },
+    {
+      "id": "416d973f2c522788",
+      "title": "Guia definitivo: Saiba qual versão do Gemini você realmente deve usar",
+      "summary": "Frequentemente, o Google anuncia novos modelos de IA do Gemini. Com tantas opções, fica difícil acompanhar as novidades, as diferenças entre as IAs e, principalmente, qual é a…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/guia-definitivo-qual-versao-gemini-usar/",
+      "image": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-08T16:30:03+00:00"
+    },
+    {
+      "id": "db7c6106ec11c58b",
+      "title": "Anthropic investe bilhões em geradores a gás para data centers",
+      "summary": "Empresa assumiu contratos de fornecimento de geradores com capacidade de 1,7 gigawatt para garantir energia aos seus data centers O post Anthropic investe bilhões em geradores a…",
+      "link": "https://olhardigital.com.br/2026/11/08/pro/anthropic-investe-bilhoes-em-geradores-a-gas-para-data-centers/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-08T16:19:26+00:00"
+    },
+    {
+      "id": "998b24524a9c31d5",
+      "title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
+      "summary": "OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos. The result beats YouTube's own recommendations, he…",
+      "link": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/comments_to_youtube.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-08T14:23:00+00:00"
+    },
+    {
+      "id": "c4ee4e4ee5460a60",
+      "title": "Echo Dot: qual preço é promoção de verdade na Black Friday?",
+      "summary": "O Echo Dot de 5ª geração é uma das opções para quem deseja ter a Alexa em casa e controlar dispositivos inteligentes por comandos de voz . O dispositivo é uma alternativa…",
+      "link": "https://canaltech.com.br/produtos/echo-dot-qual-preco-e-promocao-de-verdade-na-black-friday/",
+      "image": "https://tl.ctcdn.com.br/Qw2ASOShjr-r3VPLAmm_PC1Va9A=/0x0/filters:format(webp):quality(85)/71889466-1ae9-4fa0-9374-c1c8a33ad68c.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-08T14:00:00+00:00"
+    },
+    {
+      "id": "754db70809b852b7",
+      "title": "The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate",
+      "summary": "Consciousness researchers Anil Seth, Ned Block, and Giulio Tononi argue in a Nature commentary that today's AI systems aren't conscious and won't become so on silicon hardware…",
+      "link": "https://the-decoder.com/the-brain-as-computer-metaphor-shaped-modern-ai-but-may-be-misleading-the-consciousness-debate/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/ai_consciousness.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-08T13:49:21+00:00"
+    },
+    {
+      "id": "26d59f7d40e9a7a0",
+      "title": "8 ferramentas para descobrir se texto, foto ou vídeo foram feitos por IA",
+      "summary": "Hoje, já não é fácil identificar um conteúdo gerado por inteligência artificial , seja imagem, vídeo ou texto. As ferramentas de IA, como ChatGPT, Gemini e Claude, conseguem gerar…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/ferramentas-para-descobrir-texto-foto-video-feito-por-ia/",
+      "image": "https://tl.ctcdn.com.br/j6S0md4xF0orJk9wsNCmtjII1G0=/0x0/filters:format(webp):quality(85)/951ba2b0-05a9-4d99-b31c-2c49bdf170b6.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-08T13:00:00+00:00"
+    },
     {
       "id": "1d9b2433972fe4ad",
       "title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
@@ -837,160 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-11-06T01:24:09+00:00"
-    },
-    {
-      "id": "ed674396fa59dda8",
-      "title": "Seu Direito Digital: Meta pode usar conteúdo jornalístico para treinar IA?",
-      "summary": "Leandro Alvarenga, colunista do Olhar Digital News, repercute a decisão judicial que impediu a Meta de usar conteúdos jornalísticos para treinar IA O post Seu Direito Digital…",
-      "link": "https://olhardigital.com.br/2026/11/05/colunistas/seu-direito-digital-meta-pode-usar-conteudo-jornalistico-para-treinar-ia/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-06T01:23:01+00:00"
-    },
-    {
-      "id": "e9172febd056389a",
-      "title": "Nova IA da Perplexity assume tarefas contínuas e trabalha com outros agentes",
-      "summary": "A Perplexity anunciou o lançamento do Teammates, sistema de agentes de inteligência artificial (IA) projetado para assumir tarefas contínuas em ambientes de trabalho. A novidade…",
-      "link": "https://olhardigital.com.br/2026/11/05/inteligencia-artificial/nova-ia-da-perplexity-assume-tarefas-continuas-e-trabalha-com-outros-agentes/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/perplexity_teammates.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-06T00:39:02+00:00"
-    },
-    {
-      "id": "ad929875c5a71925",
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-06T00:37:56+00:00"
-    },
-    {
-      "id": "8b33f1382f19de19",
-      "title": "Airbnb is working on an AI travel agent",
-      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released…",
-      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-06T00:06:12+00:00"
-    },
-    {
-      "id": "5f721228af3682c2",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-06T00:00:00+00:00"
-    },
-    {
-      "id": "13e4c95dcbaa6d34",
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "summary": "",
-      "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-06T00:00:00+00:00"
-    },
-    {
-      "id": "d21aa7945ad6dc15",
-      "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
-      "summary": "Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second…",
-      "link": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-05T22:58:21+00:00"
-    },
-    {
-      "id": "17b57e4655701f14",
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-05T22:40:55+00:00"
-    },
-    {
-      "id": "2165b65a40c289be",
-      "title": "Perplexity launches its own take on AI agents for work",
-      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-05T22:26:50+00:00"
-    },
-    {
-      "id": "901f6b068eb923db",
-      "title": "Google anuncia Gemini Omni 1.2 Flash para criar vídeos de até 15 segundos",
-      "summary": "Novo modelo gera vídeos de até 15 segundos com mais qualidade. Novidade também traz maior controle de tempo e ajustes por comandos de voz ou texto. Google anuncia Gemini Omni 1.2…",
-      "link": "https://tecnoblog.net/noticias/google-anuncia-gemini-omni-1-2-flash-para-criar-videos-de-ate-15-segundos/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/gemini-omni-1-2-flash-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-05T22:06:01+00:00"
-    },
-    {
-      "id": "c73a8421f0de0a7d",
-      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-      "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
-      "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-500x500-1748638352.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-05T21:40:36+00:00"
-    },
-    {
-      "id": "1ebc0fcad61a0f69",
-      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-      "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-05T21:39:40+00:00"
-    },
-    {
-      "id": "c7f436c36385e313",
-      "title": "Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters",
-      "summary": "Baidu has released ERNIE 5.5 Flash Base, a 280B sparse MoE base model with 14B active parameters, trained on 33.5T tokens and published before any mid- or post-training. The post…",
-      "link": "https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-05T21:33:00+00:00"
-    },
-    {
-      "id": "a8e2722db3780389",
-      "title": "Serve Robotics launches new business to become the AWS for robots",
-      "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data…",
-      "link": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-05T21:15:00+00:00"
     }
   ]
 }
