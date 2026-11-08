@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-11-08T04:31:32.705635+00:00",
+  "generated_at": "2026-11-08T12:46:44.777713+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "1d9b2433972fe4ad",
+      "title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
+      "summary": "Turing Award winner Richard Sutton reaffirms that raw compute alone isn't enough for intelligence and that fundamentally new learning methods are needed. Ex-OpenAI researcher…",
+      "link": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/ai_scaling_bitter_lesson-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-08T11:44:41+00:00"
+    },
+    {
+      "id": "86cc59a51a4e9689",
+      "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
+      "summary": "Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code. The post Google AI Releases Elephant-Goldfish…",
+      "link": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-08T10:46:18+00:00"
+    },
+    {
+      "id": "12477044aa13f086",
+      "title": "Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared",
+      "summary": "A config-verified comparison of how 10 open MoE models route tokens: total and active parameters, expert counts, top-k, shared experts, gating functions and load-balancing…",
+      "link": "https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-08T10:27:27+00:00"
+    },
+    {
+      "id": "1b196c69538810cb",
+      "title": "Automação inteligente: por que volume não pode ser o único objetivo",
+      "summary": "O retorno real da IA aparece quando as ações digitais compreendem o contexto de cada pessoa e facilitam uma decisão que antes era adiada ou abandonada O post Automação…",
+      "link": "https://olhardigital.com.br/2026/11/08/colunistas/automacao-inteligente-por-que-volume-nao-pode-ser-o-unico-objetivo/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-08T10:00:00+00:00"
+    },
+    {
+      "id": "569d529b07233187",
+      "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
+      "summary": "Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top performer, fully…",
+      "link": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/co-design-bench-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-08T09:50:59+00:00"
+    },
+    {
+      "id": "af7aff3d43eefabb",
+      "title": "MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)",
+      "summary": "MoE routing strategies decide which experts process each token. This guide explains 7 methods, from Mixtral's top-2 softmax to DeepSeek-V4's hash routing, with the models that use…",
+      "link": "https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-16-scaled.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-08T06:18:33+00:00"
+    },
+    {
+      "id": "52b4870a078c1879",
+      "title": "Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%",
+      "summary": "Nous Research released Arete-27B, an Apache 2.0 fine-tune of Qwen3.8-27B. On Nous’s 803-prompt eval, propaganda answers fell from 22% to 0.9% while Hermes Bench stayed flat at…",
+      "link": "https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-08T04:45:59+00:00"
+    },
     {
       "id": "4e392e0aaa878514",
       "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
@@ -26,8 +103,8 @@
     },
     {
       "id": "d8f962272b15be99",
-      "title": "EUA deixou Nvidia vender chips de IA para empresa fantasma da China",
-      "summary": "Caso faz parte de padrão preocupante: empresas ligadas a entidades sujeitas a restrições comerciais têm sido autorizadas a comprar chips da Nvidia O post EUA deixou Nvidia vender…",
+      "title": "EUA deixaram Nvidia vender chips de IA para empresa fantasma da China",
+      "summary": "Caso faz parte de padrão preocupante: empresas ligadas a entidades sujeitas a restrições comerciais têm sido autorizadas a comprar chips da Nvidia O post EUA deixaram Nvidia…",
       "link": "https://olhardigital.com.br/2026/11/07/pro/eua-deixou-nvidia-vender-chips-de-ia-para-empresa-fantasma-da-china/",
       "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/chip-nvidia-1024x678.jpg",
       "source": "Olhar Digital",
@@ -914,83 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-11-05T21:15:00+00:00"
-    },
-    {
-      "id": "727ab4183c96ee4b",
-      "title": "EUA: eleitores dão recado à indústria de IA e ameaçam expansão de data centers",
-      "summary": "Quem votou rejeitou a maioria das propostas locais relacionadas à construção de data centers e ajudou a eleger candidatos que prometem impor limites ao setor O post EUA: eleitores…",
-      "link": "https://olhardigital.com.br/2026/11/05/pro/eua-eleitores-dao-recado-a-industria-de-ia-e-ameacam-expansao-de-data-centers/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/07/openai-meta-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-05T21:05:25+00:00"
-    },
-    {
-      "id": "6743065e0cc44bea",
-      "title": "OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them",
-      "summary": "With GPT-6 Cyber, OpenAI is introducing an AI model built to find security vulnerabilities in software, develop exploits, and suggest patches. According to OpenAI, it has already…",
-      "link": "https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/openai_cybersecurity.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-05T20:36:25+00:00"
-    },
-    {
-      "id": "8f3ac09f51e206b6",
-      "title": "Google é processado por conversas sobre suicídio entre IA e garota de 13 anos",
-      "summary": "Jovem trocou milhares de mensagens com ferramentas de IA do Google, principalmente o Gemini e o Modo IA integrado à Busca O post Google é processado por conversas sobre suicídio…",
-      "link": "https://olhardigital.com.br/2026/11/05/inteligencia-artificial/google-e-processado-por-conversas-sobre-suicidio-entre-ia-e-garota-de-13-anos/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/gemini-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-05T20:15:19+00:00"
-    },
-    {
-      "id": "06a369854958323b",
-      "title": "Além da borracha: como os pneus inteligentes querem baratear o consumo do seu carro",
-      "summary": "A inovação faz parte do DNA do mercado automotivo, e a Dunlop sabe bem disso — basta ver os avanços que a empresa vem conseguindo no desenvolvimento e na avaliação de novas…",
-      "link": "https://canaltech.com.br/carros/alem-da-borracha-como-os-pneus-inteligentes-querem-baratear-o-consumo-do-seu-carro/",
-      "image": "https://tl.ctcdn.com.br/tS8Jz3o3SWMzbLPcq5vGZtMeojM=/0x0/filters:format(webp):quality(85)/6c26ff3a-31b2-4ad6-82d1-7e0b0735f13e.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-05T20:01:18+00:00"
-    },
-    {
-      "id": "bbd492caba72ca54",
-      "title": "Cult.fit builds operational muscle with Codex",
-      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-      "link": "https://openai.com/index/cultfit-builds-with-codex",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-05T20:00:00+00:00"
-    },
-    {
-      "id": "ce33817e4026d3a9",
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-05T19:48:28+00:00"
-    },
-    {
-      "id": "f25b9201ad6bdcc6",
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "summary": "",
-      "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-05T19:35:16+00:00"
     }
   ]
 }
