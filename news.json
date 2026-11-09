@@ -1,7 +1,172 @@
 {
-  "generated_at": "2026-11-09T04:44:01.299272+00:00",
+  "generated_at": "2026-11-09T15:14:05.885714+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "ac8f18750241a65f",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "summary": "",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-09T15:05:57+00:00"
+    },
+    {
+      "id": "814123360d72c596",
+      "title": "Samsung vai cobrar por uso da Galaxy AI no celular; veja preço e o que muda",
+      "summary": "A Samsung começou a testar uma assinatura paga para o Galaxy AI , conjunto de ferramentas de inteligência artificial presente nos celulares da marca. A novidade foi identificada…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/samsung-vai-cobrar-por-uso-da-galaxy-ai-no-celular-veja-preco-e-o-que-muda/",
+      "image": "https://tl.ctcdn.com.br/Im1kx2Mdsu_CF1J23FTHqvLtWyE=/0x0/filters:format(webp):quality(85)/c83bed32-5557-4265-9a11-5125471013f6.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-09T15:05:03+00:00"
+    },
+    {
+      "id": "d8ba4af02850aa5e",
+      "title": "Jonathan Kanter is using AI to take on Big Tech",
+      "summary": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's…",
+      "link": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-09T14:30:00+00:00"
+    },
+    {
+      "id": "d84be6663cc13c8d",
+      "title": "IA permite que um único hacker ataque empresas em vários países, aponta relatório",
+      "summary": "Relatório da Acronis mostra como agentes de IA, credenciais roubadas e falhas de segurança ampliam o alcance dos ataques cibernéticos O post IA permite que um único hacker ataque…",
+      "link": "https://olhardigital.com.br/2026/11/09/seguranca/ia-permite-que-um-unico-hacker-ataque-empresas-em-varios-paises-aponta-relatorio/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-09T14:19:38+00:00"
+    },
+    {
+      "id": "c19c1058b1028237",
+      "title": "Google lança chips de IA para proteger dados e ampliar memória",
+      "summary": "Os novos sistemas ampliam a linha de TPUs do Google, com opções para proteger informações sensíveis e processar grandes volumes de dados O post Google lança chips de IA para…",
+      "link": "https://olhardigital.com.br/2026/11/09/inteligencia-artificial/google-lanca-chips-de-ia-para-proteger-dados-e-ampliar-memoria/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/google_logo-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-09T14:12:46+00:00"
+    },
+    {
+      "id": "62b85befa18a59ed",
+      "title": "Google lança novos chips de IA para aumentar segurança e poder computacional",
+      "summary": "O Google Cloud anunciou dois novos TPUs para a infraestrutura de IA nesta segunda-feira (09). De olho nos impactos dos agentes de IA no uso computacional, a empresa traz soluções…",
+      "link": "https://canaltech.com.br/hardware/google-lanca-novos-chips-de-ia-para-aumentar-seguranca-e-poder-computacional/",
+      "image": "https://tl.ctcdn.com.br/NIwmDeCkmn1VB9qwE55aK-GbE_0=/0x0/filters:format(webp):quality(85)/b2ca56fe-7e14-455d-95bf-a1719aa7437a.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-09T13:00:03+00:00"
+    },
+    {
+      "id": "f2fd344bf7be2cb6",
+      "title": "Innovating with AI in the special chemicals industry",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable…",
+      "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "image": null,
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-09T13:00:00+00:00"
+    },
+    {
+      "id": "4ef890931858a963",
+      "title": "Google ships four TPU variants in one year as it ramps up competition with Nvidia",
+      "summary": "Google is expanding its TPU 8 family with two specialized variants: the TPU 8tx keeps sensitive data encrypted even during processing, while the TPU 8i Max doubles compute power…",
+      "link": "https://the-decoder.com/google-ships-four-tpu-variants-in-one-year-as-it-ramps-up-competition-with-nvidia/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/02/google_tpu_chips.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-09T12:59:02+00:00"
+    },
+    {
+      "id": "6a396e2d2fdb723d",
+      "title": "Nvidia investiga CEO por relação com suposta espiã chinesa",
+      "summary": "Jensen Huang admitiu ter tido um relacionamento com executiva suspeita de espionagem industrial. Nvidia investiga CEO por relação com suposta espiã chinesa",
+      "link": "https://tecnoblog.net/noticias/nvidia-investiga-ceo-por-relacao-com-suposta-espia-chinesa/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/55053475385_eff9145836_k-edited-340x191.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-09T12:55:30+00:00"
+    },
+    {
+      "id": "a0b9771ff2853f8e",
+      "title": "“AirPods da Motorola” ganha versão global com som ajustado pela Bose e Dolby Atmos",
+      "summary": "A Motorola anunciou globalmente o Moto Buds 2 Ultra , novo fone de ouvido sem fio que aposta em tecnologias de áudio da Bose e recursos de inteligência artificial, com…",
+      "link": "https://canaltech.com.br/fone-de-ouvido/airpods-da-motorola-chega-com-som-ajustado-pela-bose-e-dolby-atmos/",
+      "image": "https://tl.ctcdn.com.br/yCs9P25P_pXmHQhHiWj2Fs2tW7Q=/0x0/filters:format(webp):quality(85)/5d15218e-c1f6-4dc6-985d-f2cbc2445579.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-09T12:49:46+00:00"
+    },
+    {
+      "id": "55d059b88c6c576a",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "summary": "",
+      "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-09T12:34:29+00:00"
+    },
+    {
+      "id": "77e14a7f41e67d9d",
+      "title": "Nvidia espionage scandal weakens Huang's lobby against tighter AI chip export controls",
+      "summary": "Nvidia CEO Jensen Huang has admitted to an extramarital affair with a woman US intelligence agencies classify as a suspected Chinese informant. The board has launched an…",
+      "link": "https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-09T11:38:43+00:00"
+    },
+    {
+      "id": "33785ca66bbf6af1",
+      "title": "Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents",
+      "summary": "Reason Machines has open-sourced Aspen, a self-hosted Git server for AI agents. It follows OpenAI’s Pando design and sustained 567 pushes per second on one 8-core server in the…",
+      "link": "https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-09T08:20:20+00:00"
+    },
+    {
+      "id": "367bf3fa4b1d23b6",
+      "title": "0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP",
+      "summary": "0sec Labs has open-sourced 0, an AI security harness for code review, pentesting, reverse engineering and fixes. It runs locally through a browser console, a headless CLI and an…",
+      "link": "https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-09T07:55:18+00:00"
+    },
+    {
+      "id": "e120b878a12761b0",
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays…",
+      "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-09T05:26:29+00:00"
+    },
     {
       "id": "a6fe6352ee931aff",
       "title": "Dona da 99 teve número “insignificante” de corridas solicitadas por agentes de IA",
@@ -826,171 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-11-06T15:54:47+00:00"
-    },
-    {
-      "id": "f69eb2bf083d7e1e",
-      "title": "Microsoft quer patentear IA que altera falas ao vivo",
-      "summary": "Sistema poderia traduzir discursos e substituir palavras com poucos segundos de atraso e sincronia labial. Microsoft quer patentear IA que altera falas ao vivo",
-      "link": "https://tecnoblog.net/noticias/microsoft-quer-patentear-ia-que-altera-falas-ao-vivo/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2022/04/microsoft_capa-3-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-06T15:10:46+00:00"
-    },
-    {
-      "id": "5a90caffb2c87d2e",
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "summary": "",
-      "link": "https://huggingface.co/blog/allenai/toyblocks",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-06T14:00:48+00:00"
-    },
-    {
-      "id": "58fc9a0b8ae1b328",
-      "title": "Amazon will let you text Alexa your shopping list",
-      "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking…",
-      "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Amazon-Alexa-for-Shopping-text-order.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-06T14:00:00+00:00"
-    },
-    {
-      "id": "8b488bf19ad65053",
-      "title": "Huawei Watch GT 7 com GPS está 42% mais barato na Amazon",
-      "summary": "Watch GT 7 (46 mm) traz GPS com IA mais preciso e tela AMOLED de 3.000 nits; novo smartwatch da Huawei recebe desconto de 42% em oferta da Black November no Pix Huawei Watch GT 7…",
-      "link": "https://tecnoblog.net/achados/huawei-watch-gt-7-com-gps-esta-42-mais-barato-na-amazon/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/amz.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-06T13:43:32+00:00"
-    },
-    {
-      "id": "da70389577516074",
-      "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
-      "summary": "Nonprofit METR spent eleven weeks auditing Anthropic's internal research data and concluded that the pace of model development has roughly doubled, with about 80 percent of the…",
-      "link": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/METR-Anthropic-Report.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-06T13:40:07+00:00"
-    },
-    {
-      "id": "af70465faf15ad6f",
-      "title": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models",
-      "summary": "Thinking Machines, the startup from former OpenAI CTO Mira Murati, is releasing Inkling 2 Small, a mixture-of-experts model with 594 billion parameters. The company claims it's…",
-      "link": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/thinking_machines_inkling_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-06T13:25:09+00:00"
-    },
-    {
-      "id": "6952fad9ad90e213",
-      "title": "Nubank demite funcionários após IA reduzir fila de fraudes",
-      "summary": "Automação teria diminuído em 80% as reclamações sobre golpes financeiros. Instituição atribui cortes a uma reestruturação interna. Nubank demite funcionários após IA reduzir fila…",
-      "link": "https://tecnoblog.net/noticias/nubank-demite-funcionarios-apos-ia-reduzir-fila-de-fraudes/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/11/nubank-fachada-planta-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-06T13:09:13+00:00"
-    },
-    {
-      "id": "46d9ac1cf26c2b55",
-      "title": "WhatsApp testa IA que amplia fotos e completa o fundo das imagens",
-      "summary": "Saiba como a nova ferramenta de IA do WhatsApp expande fotos quadradas ou horizontais para preencher a tela inteira no Status O post WhatsApp testa IA que amplia fotos e completa…",
-      "link": "https://olhardigital.com.br/2026/11/06/internet-e-redes-sociais/whatsapp-testa-ia-que-amplia-fotos-e-completa-o-fundo-das-imagens/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/ai_smartphone_photo_expand_16x9-1024x576.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-06T12:19:09+00:00"
-    },
-    {
-      "id": "980a934d66b53cbb",
-      "title": "Protesters break into Microsoft data center site in Amsterdam",
-      "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against…",
-      "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303323844.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-06T11:55:19+00:00"
-    },
-    {
-      "id": "e25300bea606e1ad",
-      "title": "Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation",
-      "summary": "Anthropic's IPO is in trouble as investors push back on the $1.5 trillion valuation and the tech market sells off. The article Anthropic's $1.5 trillion IPO hits resistance as…",
-      "link": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/claude_hiking.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-06T11:38:17+00:00"
-    },
-    {
-      "id": "3690b3a90a0c8a48",
-      "title": "Anthropic adds bank account access to Claude so users can track their spending",
-      "summary": "Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about their finances. The…",
-      "link": "https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/Claude-Finances-title-scaled.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-06T11:33:13+00:00"
-    },
-    {
-      "id": "0f0c904291305e1d",
-      "title": "Queda em ações de tecnologia ameaça estreia da Anthropic na Bolsa",
-      "summary": "A queda das ações de tecnologia pressiona o IPO da Anthropic; investidores avaliam perdas e gastos com infraestrutura de IA O post Queda em ações de tecnologia ameaça estreia da…",
-      "link": "https://olhardigital.com.br/2026/11/06/pro/queda-em-acoes-de-tecnologia-ameaca-estreia-da-anthropic-na-bolsa/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/anthropic_ipo-1024x567.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-06T11:30:31+00:00"
-    },
-    {
-      "id": "0c6f039cd0b81d57",
-      "title": "Nasdaq 100 perde US$ 2,5 trilhões após vitória democrata nos EUA",
-      "summary": "Entenda por que incertezas políticas e gargalos na rede elétrica podem paralisar até 30% dos novos data centers de IA previstos para 2028 O post Nasdaq 100 perde US$ 2,5 trilhões…",
-      "link": "https://olhardigital.com.br/2026/11/06/pro/nasdaq-100-perde-us-25-trilhoes-apos-vitoria-democrata-nos-eua/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/08/shutterstock_2761441095-scaled-1-1024x653.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-06T10:31:30+00:00"
-    },
-    {
-      "id": "1ca94b52e709b2f5",
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But…",
-      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-06T10:00:00+00:00"
-    },
-    {
-      "id": "a0a44ed09dc9a108",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "link": "https://openai.com/index/partnering-with-hacktron",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-06T08:00:00+00:00"
     }
   ]
 }
