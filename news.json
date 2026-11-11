@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-11-10T22:51:43.367485+00:00",
+  "generated_at": "2026-11-11T04:46:23.136456+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "65b96c238445cded",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "id": "135e44eb0481769d",
+      "title": "Fala AI: Anthropic diz que IA resolveu problemas sobre buracos negros",
+      "summary": "Roberto Pena Spinelli, colunista do Olhar Digital News, analisa as capacidades dos novos modelos de IA da Anthropic O post Fala AI: Anthropic diz que IA resolveu problemas sobre…",
+      "link": "https://olhardigital.com.br/2026/11/10/colunistas/fala-ai-anthropic-diz-que-ia-resolveu-problemas-sobre-buracos-negros/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-11T01:56:02+00:00"
+    },
+    {
+      "id": "a05ae57332105aa5",
+      "title": "OpenAI fatura R$ 54 bilhões, mas prejuízo chega a quase R$ 59 bilhões",
+      "summary": "Apesar do avanço nas vendas, a empresa continua acumulando prejuízos operacionais bilionários e ainda está distante de alcançar a lucratividade O post OpenAI fatura R$ 54 bilhões…",
+      "link": "https://olhardigital.com.br/2026/11/10/pro/openai-fatura-r-54-bilhoes-mas-prejuizo-chega-a-quase-r-59-bilhoes/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/openai_logo-1-1024x681.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-11T01:55:30+00:00"
+    },
+    {
+      "id": "03eca525b442c93b",
+      "title": "Disney e Adobe anunciam parceria para desenvolvimento de IA",
+      "summary": "Modelos proprietários serão voltados para produções audiovisuais e até parques temáticos da gigante do entretenimento. Disney e Adobe anunciam parceria para desenvolvimento de IA",
+      "link": "https://tecnoblog.net/noticias/disney-e-adobe-anunciam-parceria-para-desenvolvimento-de-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/media_177e22510577a0056c0709a4daeaba09a2b5bbc4a-1-edited-340x191.webp",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-11T01:22:06+00:00"
+    },
+    {
+      "id": "1a0c327d92731697",
+      "title": "Google libera Gemini 4 Carbon ao público com recurso para equipes de agentes de IA",
+      "summary": "Modelo chega a assinantes do Google AI Ultra e desenvolvedores, com foco em tarefas complexas de programação. Google libera Gemini 4 Carbon ao público com recurso para equipes de…",
+      "link": "https://tecnoblog.net/noticias/google-libera-gemini-4-carbon-ao-publico-com-recurso-para-equipes-de-agentes-de-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/dnbkthtnzs8.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-11T01:20:24+00:00"
+    },
+    {
+      "id": "4d73e7813c3016d3",
+      "title": "99Food altera fotos de restaurantes com IA sem autorização e enfrenta reclamações",
+      "summary": "Comerciantes relatam substituição recorrente de fotografias reais por imagens artificiais que nem sempre representam fielmente os alimentos O post 99Food altera fotos de…",
+      "link": "https://olhardigital.com.br/2026/11/10/internet-e-redes-sociais/99food-altera-fotos-de-restaurantes-com-ia-sem-autorizacao-e-enfrenta-reclamacoes/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/99food_imagem_ia.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-10T23:48:39+00:00"
+    },
+    {
+      "id": "dba183e7e6624faa",
+      "title": "Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs",
+      "summary": "Meta FAIR’s e-means is a mini-batch k-means replacement shipped in FAISS 1.16.0. It reaches Lloyd’s 25-epoch loss in 1.4 to 2.6 epochs, with 10-45x GPU speedups and no extra…",
+      "link": "https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-10T23:20:19+00:00"
+    },
     {
       "id": "57cdb492ba05ee3f",
       "title": "Nvidia contrata advogados para apurar caso que envolve Jensen Huang e suposta espiã",
@@ -914,83 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-11-09T20:09:06+00:00"
-    },
-    {
-      "id": "9cae933d777b88db",
-      "title": "Meta vai usar IA para identificar adolescentes no Instagram mesmo com idade falsa",
-      "summary": "A Meta está expandindo globalmente uma tecnologia de inteligência artificial que identifica adolescentes no Instagram mesmo quando eles informam uma data de nascimento falsa. O…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/meta-vai-usar-ia-para-identificar-adolescentes-no-instagram-mesmo-com-idade-falsa/",
-      "image": "https://tl.ctcdn.com.br/spqUwbqNye5C5uAy8DgnVFDDjts=/0x0/filters:format(webp):quality(85)/8385be82-bbe0-43ef-8a44-4089749b1af0.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-09T20:09:00+00:00"
-    },
-    {
-      "id": "4ac969e472ffa4e9",
-      "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
-      "summary": "Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction. According to Meta…",
-      "link": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/meta_logo-2.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-09T19:41:51+00:00"
-    },
-    {
-      "id": "a0dbf5e971943802",
-      "title": "The backlash about data centers might really just be about electricity",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US…",
-      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-09T19:35:33+00:00"
-    },
-    {
-      "id": "58580c03fbdd2552",
-      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-      "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-09T19:24:51+00:00"
-    },
-    {
-      "id": "63271ce2eb02cf13",
-      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-      "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
-      "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-09T19:21:46+00:00"
-    },
-    {
-      "id": "5ef93d9981a0db1c",
-      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More…",
-      "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-09T19:09:58+00:00"
-    },
-    {
-      "id": "077a6e01a0fe4225",
-      "title": "Fim do anonimato: Claude passa a marcar todos os textos com marca d'água invisível",
-      "summary": "O Claude ampliou o uso de marca d’água invisível em textos gerados por modelos antigos da IA . A mudança afeta os LLMs da Anthropic lançados antes de agosto deste ano, como Claude…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/fim-do-anonimato-claude-passa-a-marcar-todos-os-textos-com-marca-dagua-invisivel/",
-      "image": "https://tl.ctcdn.com.br/GeVucxq2cxWTFjBgDumBlE70oYY=/0x0/filters:format(webp):quality(85)/60c53e74-9ff4-4239-b082-6c5431dd3005.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-09T19:09:00+00:00"
     }
   ]
 }
