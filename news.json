@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T04:46:23.136456+00:00",
+  "generated_at": "2026-11-11T13:35:23.566593+00:00",
   "total": 90,
   "items": [
     {
@@ -12,6 +12,138 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "id": "c30c32a5e305bb17",
+      "title": "Gmail libera resumos com Gemini e ajuda para escrever para mais usuários",
+      "summary": "O Google começou a expandir dois recursos de inteligência artificial do Gemini no Gmail: os resumos de conversas do “AI Overview” e o assistente de escrita “Help me write” . As…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/gmail-libera-resumos-com-gemini-e-ajuda-para-escrever-para-mais-usuarios/",
+      "image": "https://tl.ctcdn.com.br/15r5blfuwqmAglA0BezcI8iKcJs=/0x0/filters:format(webp):quality(85)/ea76819c-e341-4a02-93fe-e0dcb4e7e06d.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-11T13:05:00+00:00"
+    },
+    {
+      "id": "1e04878226a509f2",
+      "title": "Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline",
+      "summary": "Security firm Claroc found more than 35,000 Grok-built apps open to anyone without login, including patient data and confidential SpaceXSI documents. The cause: \"Anyone with the…",
+      "link": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/05/grok_xai_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-11T12:53:07+00:00"
+    },
+    {
+      "id": "8fe702b2db7803b8",
+      "title": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
+      "summary": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival…",
+      "link": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-11T12:12:47+00:00"
+    },
+    {
+      "id": "54f3f71dbbbdb55b",
+      "title": "UK regulator threatens universities with sanctions unless they adopt AI-proof exam formats",
+      "summary": "England's higher education regulator, the Office for Students, says AI has made it \"nearly impossible\" to fairly assess student coursework. An investigation found that students…",
+      "link": "https://the-decoder.com/uk-regulator-threatens-universities-with-sanctions-unless-they-adopt-ai-proof-exam-formats/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/ai-generated-homework-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-11T11:54:46+00:00"
+    },
+    {
+      "id": "4b4c21ee7c828bb6",
+      "title": "Suspeita de espionagem envolvendo CEO pressiona imagem da Nvidia",
+      "summary": "O caso envolve controles de exportação de chips, interesses da China e preocupações nos EUA sobre acesso a tecnologias avançadas de IA O post Suspeita de espionagem envolvendo CEO…",
+      "link": "https://olhardigital.com.br/2026/11/11/pro/suspeita-de-espionagem-envolvendo-ceo-pressiona-imagem-da-nvidia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-09-at-17.43.34-1024x473.jpeg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-11T11:40:05+00:00"
+    },
+    {
+      "id": "cdaabc8db2a711c6",
+      "title": "Dois terços das empresas investem em IA sem calcular o retorno financeiro",
+      "summary": "Ainda assim, perspectiva é positiva para 67% das companhias do Brasil. Dois terços das empresas investem em IA sem calcular o retorno financeiro",
+      "link": "https://tecnoblog.net/noticias/dois-tercos-das-empresas-investem-em-ia-sem-calcular-o-retorno-financeiro/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/capa-freelas-perde-emprego-pra-ia-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-11T09:09:36+00:00"
+    },
+    {
+      "id": "8e8e851f9ac38a19",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-11T09:00:00+00:00"
+    },
+    {
+      "id": "ac94b61a25ade5ed",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-11T08:00:00+00:00"
+    },
+    {
+      "id": "f525f2b8c4015fcc",
+      "title": "MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI",
+      "summary": "The Institute of Foundation Models at MBZUAI released PAN 2, an Apache 2.0 world model that couples an LLM planner with a 29B diffusion transformer to simulate up to 20 seconds of…",
+      "link": "https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-11T07:38:57+00:00"
+    },
+    {
+      "id": "d1951b7785beef23",
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+      "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-11T07:30:51+00:00"
+    },
+    {
+      "id": "19b4fcb1faac9c9b",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "summary": "",
+      "link": "https://huggingface.co/blog/qvac/botpsy",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-11T05:01:16+00:00"
+    },
+    {
+      "id": "48bed84d2ca4896a",
+      "title": "Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms",
+      "summary": "Fish Audio released Live 3, a full-duplex voice model for voice agents. It listens while it speaks, separates “mm-hmm” from real interruptions, and can react in as little as 186…",
+      "link": "https://www.marktechpost.com/2026/11/10/fish-audio-live-3-full-duplex-voice-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-11T04:43:53+00:00"
     },
     {
       "id": "135e44eb0481769d",
@@ -333,17 +465,6 @@
       "published_at": "2026-11-10T17:32:47+00:00"
     },
     {
-      "id": "c0148d18638aab68",
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to…",
-      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-10T17:30:00+00:00"
-    },
-    {
       "id": "25de9b307d30f910",
       "title": "Anthropic has its own AI-powered office suite now",
       "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI…",
@@ -352,6 +473,17 @@
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
+      "published_at": "2026-11-10T17:30:00+00:00"
+    },
+    {
+      "id": "c0148d18638aab68",
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to…",
+      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-11-10T17:30:00+00:00"
     },
     {
@@ -751,6 +883,17 @@
       "published_at": "2026-11-10T09:00:00+00:00"
     },
     {
+      "id": "9092d5eb66f29547",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "link": "https://openai.com/index/singapore-airlines-travel-work",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-10T08:00:00+00:00"
+    },
+    {
       "id": "f3fc54cd1d78c100",
       "title": "Work at the Frontier: AI’s effect on freelance work",
       "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
@@ -839,158 +982,15 @@
       "published_at": "2026-11-10T00:15:11+00:00"
     },
     {
-      "id": "cb93d68b445c05b0",
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "summary": "",
-      "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "id": "37e4452e64c861cf",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "link": "https://openai.com/index/cogent-security",
       "image": null,
-      "source": "Hugging Face",
+      "source": "OpenAI",
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-11-10T00:00:00+00:00"
-    },
-    {
-      "id": "5f3963726dbe36e6",
-      "title": "Decision Models in Hugging Face",
-      "summary": "",
-      "link": "https://huggingface.co/blog/decision",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-10T00:00:00+00:00"
-    },
-    {
-      "id": "44bb6093a440b817",
-      "title": "What could China get from Jensen Huang?",
-      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-09T23:51:58+00:00"
-    },
-    {
-      "id": "cd027b24b17aebaf",
-      "title": "Here’s what Trump said he knew about Jensen Huang",
-      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese…",
-      "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-09T23:47:46+00:00"
-    },
-    {
-      "id": "f6c20d48618d53ec",
-      "title": "Peça um castelo e a IA constrói: Musk prevê era de abundância tecnológica",
-      "summary": "Previsão foi apresentada durante participação por videoconferência na conferência anual da Baron Capital, realizada na sexta-feira (6) O post Peça um castelo e a IA constrói: Musk…",
-      "link": "https://olhardigital.com.br/2026/11/09/inteligencia-artificial/peca-um-castelo-e-a-ia-constroi-musk-preve-era-de-abundancia-tecnologica/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/elon-musk-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-09T23:13:47+00:00"
-    },
-    {
-      "id": "38ea5b66d2595223",
-      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-09T23:07:59+00:00"
-    },
-    {
-      "id": "8494cbf11ce3af22",
-      "title": "Trump diz que CEO da Nvidia não sabia que mulher com quem teve caso seria espiã",
-      "summary": "Trump afirmou ter ficado surpreso com as acusações e disse acreditar na versão apresentada pelo empresário O post Trump diz que CEO da Nvidia não sabia que mulher com quem teve…",
-      "link": "https://olhardigital.com.br/2026/11/09/pro/trump-diz-que-ceo-da-nvidia-nao-sabia-que-mulher-com-quem-teve-caso-seria-espia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Captura-de-Tela-2026-09-24-as-19.05.26-1024x469.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-09T22:54:24+00:00"
-    },
-    {
-      "id": "ee9aab4d1d8b4a89",
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-      "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-09T22:46:09+00:00"
-    },
-    {
-      "id": "38b3fce4c5431b80",
-      "title": "The race is on to sue Nvidia",
-      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the…",
-      "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-09T22:23:42+00:00"
-    },
-    {
-      "id": "8f006f2a6518849d",
-      "title": "Samsung cria novo app de IA para organizar prints e links perdidos",
-      "summary": "A Samsung está desenvolvendo um novo aplicativo de inteligência artificial chamado Memory, que promete organizar capturas de tela, links, textos e notas de voz em um único lugar…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/samsung-cria-novo-app-de-ia-para-organizar-prints-e-links-perdidos/",
-      "image": "https://tl.ctcdn.com.br/3bMFG6Ta1f_lPJ5CBy7pU09L5PY=/0x0/filters:format(webp):quality(85)/3d447f3e-7d6c-448a-80d6-13e6e79f9d26.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-09T22:04:00+00:00"
-    },
-    {
-      "id": "e6b9f7f4743833a0",
-      "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
-      "summary": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified organizations. The…",
-      "link": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/fable_52_sand.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-09T21:15:23+00:00"
-    },
-    {
-      "id": "d8a7a51e29c385a5",
-      "title": "Alerta para devs: Claude Code vaza senhas e chaves de API em massa no GitHub",
-      "summary": "Uma falha no Claude Code, ferramenta de inteligência artificial da Anthropic para auxiliar no desenvolvimento de software, expôs milhares de senhas, tokens de API e credenciais de…",
-      "link": "https://canaltech.com.br/seguranca/alerta-para-devs-claude-code-vaza-senhas-e-chaves-de-api-em-massa-no-github/",
-      "image": "https://tl.ctcdn.com.br/GeVucxq2cxWTFjBgDumBlE70oYY=/0x0/filters:format(webp):quality(85)/60c53e74-9ff4-4239-b082-6c5431dd3005.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-09T21:03:00+00:00"
-    },
-    {
-      "id": "6980f68a2208836d",
-      "title": "Apple começa a cobrar por uso extra de IA em apps profissionais",
-      "summary": "Pacote adicional custa cerca de R$ 300 e permite continuar usando recursos de IA após o limite mensal. Apple começa a cobrar por uso extra de IA em apps profissionais",
-      "link": "https://tecnoblog.net/noticias/apple-comeca-a-cobrar-por-uso-extra-de-ia-em-apps-profissionais/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/apple-creator-studio-1-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-09T20:28:43+00:00"
-    },
-    {
-      "id": "fc6d536179e6162c",
-      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-      "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-09T20:09:06+00:00"
     }
   ]
 }
