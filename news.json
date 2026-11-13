@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-11-12T23:14:18.017244+00:00",
+  "generated_at": "2026-11-13T05:09:12.603947+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "06a0284dbf0c8e65",
+      "title": "Olhar do Amanhã: saída de Jensen Huang pode mudar a corrida da IA",
+      "summary": "Álvaro Machado Dias, colunista do Olhar Digital News, analisa os impactos da saída de Jensen Huang do cargo de CEO da Nvidia O post Olhar do Amanhã: saída de Jensen Huang pode…",
+      "link": "https://olhardigital.com.br/2026/11/13/colunistas/olhar-do-amanha-saida-de-jensen-huang-pode-mudar-a-corrida-da-ia/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-13T03:50:04+00:00"
+    },
+    {
+      "id": "0629bc53893b9f6a",
+      "title": "Trump tentou salvar Jensen Huang no comando da Nvidia antes de sua saída",
+      "summary": "Presidente estadunidense telefonou ao executivo na terça-feira (10), mesmo após receber alertas sobre relacionamento dele com suposta espiã chinesa O post Trump tentou salvar…",
+      "link": "https://olhardigital.com.br/2026/11/12/pro/trump-tentou-salvar-jensen-huang-no-comando-da-nvidia-antes-de-sua-saida/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/jensen_huang_2-2-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-13T02:14:35+00:00"
+    },
+    {
+      "id": "5fa102b35424da53",
+      "title": "Jensen Huang aceita depor ao Congresso dos EUA sobre caso de suposta espionagem",
+      "summary": "Ex-CEO da Nvidia deve participar de reunião a portas fechadas com três comissões O post Jensen Huang aceita depor ao Congresso dos EUA sobre caso de suposta espionagem apareceu…",
+      "link": "https://olhardigital.com.br/2026/11/12/pro/jensen-huang-aceita-depor-ao-congresso-dos-eua-sobre-caso-de-suposta-espionagem/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/jensen-huang-1-1024x575.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-13T01:50:34+00:00"
+    },
+    {
+      "id": "2dda68b2786e5c7d",
+      "title": "China reage a caso Nvidia e pede que EUA não restrinjam exportações",
+      "summary": "Pequim acusa Washington de usar alegações de espionagem como pretexto para bloqueios tecnológicos e defende continuidade das negociações comerciais O post China reage a caso…",
+      "link": "https://olhardigital.com.br/2026/11/12/pro/china-reage-a-caso-nvidia-e-pede-que-eua-nao-restrinjam-exportacoes/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-Xi-Jinping-e-Trump-scaled-2-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-12T23:51:10+00:00"
+    },
     {
       "id": "32ba9654daeb7550",
       "title": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
@@ -166,6 +210,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-11-12T20:05:40+00:00"
+    },
+    {
+      "id": "67672a694e389b29",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "link": "https://openai.com/business/customer-stories/amplitude",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-12T20:00:00+00:00"
     },
     {
       "id": "a491aa90d650ab2b",
@@ -553,6 +608,17 @@
       "published_at": "2026-11-12T12:01:57+00:00"
     },
     {
+      "id": "b9840fd67063a36a",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "link": "https://openai.com/business/customer-stories/gondola",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-12T12:00:00+00:00"
+    },
+    {
       "id": "bc71032574859f1e",
       "title": "Suposta espiã chinesa foi apresentada a Jensen Huang pelo próprio marido, diz jornal",
       "summary": "Entenda as investigações nos EUA, Singapura e Taiwan sobre suspeitas de espionagem e desvio ilegal de chips de IA da Nvidia para a China O post Suposta espiã chinesa foi…",
@@ -925,72 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-11-11T17:07:00+00:00"
-    },
-    {
-      "id": "f31248890af40385",
-      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
-      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-11T16:14:44+00:00"
-    },
-    {
-      "id": "eac4d84ef949975e",
-      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-11T16:00:00+00:00"
-    },
-    {
-      "id": "ccd519173ba2f65a",
-      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-      "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform…",
-      "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-11T16:00:00+00:00"
-    },
-    {
-      "id": "6418248215fa6d8f",
-      "title": "Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension",
-      "summary": "Marktechpost Launches GPU Leaderboard and the Deploy It Chrome Extension The post Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension appeared first on…",
-      "link": "https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-11T15:51:14+00:00"
-    },
-    {
-      "id": "ffa4b076ff9aea67",
-      "title": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name",
-      "summary": "Helsing has unveiled Clarity, an AI platform that uses agents to distill sensor data into target recommendations for weapons systems, all under human oversight and European…",
-      "link": "https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/Helsing-Clarity.webp",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-11T15:12:53+00:00"
-    },
-    {
-      "id": "11ae2fd9c5f20374",
-      "title": "Siri co-founder backs Helix for its voice ID tech",
-      "summary": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix…",
-      "link": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-11T15:02:47+00:00"
     }
   ]
 }
