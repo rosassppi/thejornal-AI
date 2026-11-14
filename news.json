@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-11-14T04:58:56.347657+00:00",
+  "generated_at": "2026-11-14T12:58:49.912719+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "f88fcfa12fe4eda6",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person…",
+      "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-14T12:00:00+00:00"
+    },
+    {
+      "id": "63b7443128af13fd",
+      "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+      "summary": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots…",
+      "link": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_robot_arms.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-14T11:40:51+00:00"
+    },
+    {
+      "id": "719cac8fdfc4e54c",
+      "title": "MEC adota novas diretrizes de uso de IA na educação: o que muda na prática?",
+      "summary": "O Ministério da Educação e Cultura homologou um conjunto de regras para o uso responsável de inteligência artificial na educação brasileira . O documento estabelece regras sobre…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/mec-adota-novas-diretrizes-de-uso-de-ia-na-educacao-o-que-muda-na-pratica/",
+      "image": "https://tl.ctcdn.com.br/RHtN_Zxx_IuqngoJZ_pL0SysRZs=/0x0/filters:format(webp):quality(85)/def234fc-0e66-487d-bc9c-62e4e5f123c7.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-14T11:30:03+00:00"
+    },
+    {
+      "id": "33eaf800d2d5145e",
+      "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+      "summary": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not…",
+      "link": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/claude_laser.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-14T11:21:41+00:00"
+    },
+    {
+      "id": "9397e3a3601313b3",
+      "title": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
+      "summary": "Stanford researchers released Memorilla, an open-source memory system that compresses a document collection into 16 memory tokens for a frozen Qwen3-8B. It reaches 84.33% on…",
+      "link": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-14T10:21:21+00:00"
+    },
+    {
+      "id": "94ca1e234637a9d2",
+      "title": "A IA não está eliminando todos os empregos. Está mudando quem consegue entrar no mercado",
+      "summary": "A IA não é, até aqui, a máquina de eliminar empregos que muita manchete anuncia. Mas também não é neutra O post A IA não está eliminando todos os empregos. Está mudando quem…",
+      "link": "https://olhardigital.com.br/2026/11/14/colunistas/a-ia-nao-esta-eliminando-todos-os-empregos-esta-mudando-quem-consegue-entrar-no-mercado/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-14T10:01:00+00:00"
+    },
+    {
+      "id": "a34b7e14e5c2dad4",
+      "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
+      "summary": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and…",
+      "link": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/Runway-Praxis-1.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-14T09:45:45+00:00"
+    },
+    {
+      "id": "4b969165bc577459",
+      "title": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
+      "summary": "Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web…",
+      "link": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-14T06:38:14+00:00"
+    },
     {
       "id": "252506662ab5b2d4",
       "title": "Nvidia diz que não começou busca formal por substituto de Jensen Huang",
@@ -903,94 +991,6 @@
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-11-12T18:00:00+00:00"
-    },
-    {
-      "id": "ce1eab2bbb5c79a9",
-      "title": "The Jensen Huang scandal is hardly over",
-      "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-12T17:44:33+00:00"
-    },
-    {
-      "id": "48569ec67235a48e",
-      "title": "AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents",
-      "summary": "AWS released AWS Emulator, a free, CC0-licensed local emulator of AWS APIs built from 438 API models. Autonomous agents wrote all of its code. It passes 56.6% of 42,857 published…",
-      "link": "https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-12T17:26:08+00:00"
-    },
-    {
-      "id": "64a6f20ebcc4dac1",
-      "title": "AI chatbots are recommending fake retail websites, study finds",
-      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-12T17:00:00+00:00"
-    },
-    {
-      "id": "889dda614b524414",
-      "title": "More game developers are starting to use generative AI",
-      "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty…",
-      "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/55145037587_ac59503045_k.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-12T17:00:00+00:00"
-    },
-    {
-      "id": "358c72f0fd9bf122",
-      "title": "OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute",
-      "summary": "OpenAI's safety team systematically investigated why the chains of thought in frontier models like GPT-6 Astra are increasingly evading oversight. Four training steps drive the…",
-      "link": "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/03/CoT-Controllability.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-12T16:58:11+00:00"
-    },
-    {
-      "id": "63e96e8ab77292a3",
-      "title": "United Airlines bane agentes de IA na compra de passagens",
-      "summary": "A United justifica a restrição pela proteção de dados sensíveis, pelo risco de erros operacionais e por exigências regulatórias. United Airlines bane agentes de IA na compra de…",
-      "link": "https://tecnoblog.net/noticias/united-airlines-bane-agentes-de-ia-na-compra-de-passagens/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/united-aviao-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-12T16:30:58+00:00"
-    },
-    {
-      "id": "d533790e4d2bd7ed",
-      "title": "Jensen Huang is out. What did China want from him?",
-      "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this…",
-      "link": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_1112_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-12T16:30:00+00:00"
-    },
-    {
-      "id": "d1035d3d1ad7f99b",
-      "title": "Grok vaza dados confidenciais de mais de 35 mil aplicativos",
-      "summary": "Links de projetos podiam ser rastreados pela internet e permitiam acesso a documentos de empresas, incluindo a própria SpaceX. Grok vaza dados confidenciais de mais de 35 mil…",
-      "link": "https://tecnoblog.net/noticias/grok-vaza-dados-confidenciais-de-mais-de-35-mil-aplicativos/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/02/Capa-Grok-Musk-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-12T16:03:27+00:00"
     }
   ]
 }
