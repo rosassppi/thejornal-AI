@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-11-13T23:15:36.055207+00:00",
+  "generated_at": "2026-11-14T04:58:56.347657+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "252506662ab5b2d4",
+      "title": "Nvidia diz que não começou busca formal por substituto de Jensen Huang",
+      "summary": "Conselho da fabricante confirmou à CNBC que ainda está escolhendo consultoria para conduzir seleção; Colette Kress permanece como CEO interina O post Nvidia diz que não começou…",
+      "link": "https://olhardigital.com.br/2026/11/13/pro/nvidia-diz-que-nao-comecou-busca-formal-por-substituto-de-jensen-huang/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/Captura-de-Tela-2026-11-09-as-18.15.12-1-1024x795.png",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-14T01:36:02+00:00"
+    },
+    {
+      "id": "96048276e5de0ccf",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own…",
+      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-13T23:49:11+00:00"
+    },
     {
       "id": "a53b6d6797d1d8ce",
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -520,6 +542,17 @@
       "published_at": "2026-11-13T09:45:48+00:00"
     },
     {
+      "id": "a99dfdd20d85acbb",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "link": "https://openai.com/business/customer-stories/shield",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-13T08:00:00+00:00"
+    },
+    {
       "id": "06a0284dbf0c8e65",
       "title": "Olhar do Amanhã: saída de Jensen Huang pode mudar a corrida da IA",
       "summary": "Álvaro Machado Dias, colunista do Olhar Digital News, analisa os impactos da saída de Jensen Huang do cargo de CEO da Nvidia O post Olhar do Amanhã: saída de Jensen Huang pode…",
@@ -958,39 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-11-12T16:03:27+00:00"
-    },
-    {
-      "id": "4c2abdf66c9c702a",
-      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
-      "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25343254/STK083_B_NVIDIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-12T15:48:12+00:00"
-    },
-    {
-      "id": "70118535b121df45",
-      "title": "OpenAI vai aposentar vozes clássicas e Modo Avançado do ChatGPT",
-      "summary": "A OpenAI vai descontinuar o Modo Avançado de Voz ( Advanced Voice ) e a Voz Padrão ( Standard Voice ) do ChatGPT em 11 de dezembro de 2026. A mudança marca o fim das versões…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/openai-vai-aposentar-vozes-classicas-e-modo-avancado-do-chatgpt/",
-      "image": "https://tl.ctcdn.com.br/d8uEXwE-Mu8QUmtUoV2_lYmUt-0=/0x0/filters:format(webp):quality(85)/44c133cc-f8d2-4a5e-ae8f-bbc38af2e80a.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-12T15:06:00+00:00"
-    },
-    {
-      "id": "f890f008ac13960a",
-      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
-      "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
-      "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-12T14:50:17+00:00"
     }
   ]
 }
