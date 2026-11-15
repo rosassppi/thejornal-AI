@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-11-14T21:58:49.620906+00:00",
+  "generated_at": "2026-11-15T04:52:41.554977+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "a8381ccf0f4a6c26",
+      "title": "Where was Nvidia’s security team?",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of…",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-15T00:08:07+00:00"
+    },
+    {
+      "id": "ff70504e465532c2",
+      "title": "Como adicionar instruções para que o Gemini lembre de informações em qualquer conversa?",
+      "summary": "É possível definir instruções personalizadas no Gemini para que a inteligência artificial siga suas preferências durante as conversas. Assim, você não precisa repetir as mesmas…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-adicionar-instrucoes-para-que-o-gemini-lembre-de-informacoes-em-qualquer-conversa/",
+      "image": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-14T23:00:00+00:00"
+    },
     {
       "id": "e86112d5f8734949",
       "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
@@ -12,6 +34,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-11-14T21:41:22+00:00"
+    },
+    {
+      "id": "9f927ecdb62506fb",
+      "title": "Hora de imprimir mais e gastar menos: veja uma seleção de impressoras em promoção na Amazon",
+      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções multifuncionais em oferta na Amazon — todas com…",
+      "link": "https://olhardigital.com.br/2026/11/14/reviews/hora-de-imprimir-mais-e-gastar-menos-veja-uma-selecao-de-impressoras-em-promocao-na-amazon-11/",
+      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-14T21:04:38+00:00"
     },
     {
       "id": "4969203d95392d2f",
@@ -958,39 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-11-12T20:05:40+00:00"
-    },
-    {
-      "id": "67672a694e389b29",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "link": "https://openai.com/business/customer-stories/amplitude",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-12T20:00:00+00:00"
-    },
-    {
-      "id": "a491aa90d650ab2b",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "link": "https://openai.com/index/amplitude",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-12T20:00:00+00:00"
-    },
-    {
-      "id": "d4774d28d264a29f",
-      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-      "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
-      "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-12T19:59:59+00:00"
     }
   ]
 }
