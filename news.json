@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-11-15T04:52:41.554977+00:00",
+  "generated_at": "2026-11-15T13:27:23.568170+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "13482003797f2776",
+      "title": "An overview of Jensen Huang’s messy days",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership…",
+      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-15T13:00:00+00:00"
+    },
+    {
+      "id": "3515a31ed9232149",
+      "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+      "summary": "Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and…",
+      "link": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_logo_glitch.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-15T11:35:12+00:00"
+    },
+    {
+      "id": "5849c3c3ddfec16f",
+      "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+      "summary": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT…",
+      "link": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/ai_impact_australian_jobs.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-15T10:45:58+00:00"
+    },
+    {
+      "id": "26c55bd270eff60d",
+      "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
+      "summary": "Bland has released Tofu-1, a full-duplex speech-to-speech model for noisy, high-stakes phone calls. It is in enterprise research preview, with no published benchmarks, size or…",
+      "link": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-15T10:06:21+00:00"
+    },
+    {
+      "id": "db313f233dd8bfe1",
+      "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+      "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4…",
+      "link": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/meituan-logo-wall-chatgpt-5.6.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-15T10:06:06+00:00"
+    },
+    {
+      "id": "6043ead4560c869a",
+      "title": "Atenção, empresas! Inteligência artificial não é sinônimo de operação inteligente",
+      "summary": "Os modelos estão ficando melhores rapidamente. Mas inteligência não é sinônimo de confiabilidade operacional O post Atenção, empresas! Inteligência artificial não é sinônimo de…",
+      "link": "https://olhardigital.com.br/2026/11/15/colunistas/atencao-empresas-inteligencia-artificial-nao-e-sinonimo-de-operacao-inteligente/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-15T10:04:00+00:00"
+    },
     {
       "id": "a8381ccf0f4a6c26",
       "title": "Where was Nvidia’s security team?",
@@ -925,72 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-11-12T21:00:18+00:00"
-    },
-    {
-      "id": "d9e50e4ce61977a7",
-      "title": "Nvidia: agência de notícias revela novo relacionamento atribuído a Jensen Huang",
-      "summary": "Reuters afirma ter ouvido duas fontes familiarizadas com o caso O post Nvidia: agência de notícias revela novo relacionamento atribuído a Jensen Huang apareceu primeiro em Olhar…",
-      "link": "https://olhardigital.com.br/2026/11/12/pro/nvidia-agencia-de-noticias-revela-novo-relacionamento-atribuido-a-jensen-huang/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/jensen_huang_2-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-12T20:57:39+00:00"
-    },
-    {
-      "id": "81ce3133087e714f",
-      "title": "ChatGPT e Gemini indicam lojas falsas para compras, aponta estudo",
-      "summary": "Pior resultado foi o da Perplexity, que recomendou sites problemáticos em 15% das respostas. ChatGPT e Gemini indicam lojas falsas para compras, aponta estudo",
-      "link": "https://tecnoblog.net/noticias/chatgpt-e-gemini-indicam-lojas-falsas-para-compras-aponta-estudo/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/chatgpt-gemini-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-12T20:38:47+00:00"
-    },
-    {
-      "id": "3d6ff74227a41f97",
-      "title": "Claude Meetings lets Anthropic's AI join your video calls",
-      "summary": "Anthropic is adding Claude directly to video calls. Claude Meetings joins Google Meet sessions and creates documents, whiteboards, and meeting notes in real time. The feature…",
-      "link": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-12T20:26:50+00:00"
-    },
-    {
-      "id": "ff447842ecb2519b",
-      "title": "Jensen Huang was having a third affair, Reuters reports",
-      "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
-      "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-12T20:26:47+00:00"
-    },
-    {
-      "id": "eeb3027690b25fcf",
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security…",
-      "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-12T20:16:24+00:00"
-    },
-    {
-      "id": "aed36ff92e5a7650",
-      "title": "Gemini 4 Hydrogen é o novo modelo do Google para tarefas do dia a dia",
-      "summary": "Novo modelo substitui o Gemini 3.8 Flash e chega gratuitamente ao aplicativo Gemini e à Busca do Google. Gemini 4 Hydrogen é o novo modelo do Google para tarefas do dia a dia",
-      "link": "https://tecnoblog.net/noticias/gemini-4-hydrogen-e-o-novo-modelo-do-google-para-tarefas-do-dia-a-dia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-4-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-12T20:05:40+00:00"
     }
   ]
 }
