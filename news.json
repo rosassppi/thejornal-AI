@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-15T22:29:14.499460+00:00",
+  "generated_at": "2026-11-16T04:49:03.432242+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "a22318abd9f9f947",
+      "title": "Apple launches new app to study how people use AI for health",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-16T01:30:00+00:00"
+    },
+    {
+      "id": "c57d5fdb338c13eb",
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The…",
+      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applestudy1b.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-16T01:26:56+00:00"
+    },
+    {
+      "id": "04196bef9b67627d",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-15T23:30:00+00:00"
+    },
     {
       "id": "2e8f421d2ee2a3df",
       "title": "A step toward defining the Standard Model on a lattice",
@@ -958,39 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-11-13T09:45:48+00:00"
-    },
-    {
-      "id": "a99dfdd20d85acbb",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "link": "https://openai.com/business/customer-stories/shield",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-13T08:00:00+00:00"
-    },
-    {
-      "id": "06a0284dbf0c8e65",
-      "title": "Olhar do Amanhã: saída de Jensen Huang pode mudar a corrida da IA",
-      "summary": "Álvaro Machado Dias, colunista do Olhar Digital News, analisa os impactos da saída de Jensen Huang do cargo de CEO da Nvidia O post Olhar do Amanhã: saída de Jensen Huang pode…",
-      "link": "https://olhardigital.com.br/2026/11/13/colunistas/olhar-do-amanha-saida-de-jensen-huang-pode-mudar-a-corrida-da-ia/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-13T03:50:04+00:00"
-    },
-    {
-      "id": "0629bc53893b9f6a",
-      "title": "Trump tentou salvar Jensen Huang no comando da Nvidia antes de sua saída",
-      "summary": "Presidente estadunidense telefonou ao executivo na terça-feira (10), mesmo após receber alertas sobre relacionamento dele com suposta espiã chinesa O post Trump tentou salvar…",
-      "link": "https://olhardigital.com.br/2026/11/12/pro/trump-tentou-salvar-jensen-huang-no-comando-da-nvidia-antes-de-sua-saida/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/jensen_huang_2-2-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-13T02:14:35+00:00"
     }
   ]
 }
