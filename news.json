@@ -1,7 +1,227 @@
 {
-  "generated_at": "2026-11-17T01:36:00.719285+00:00",
+  "generated_at": "2026-11-17T15:30:30.744178+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "d4774d28d264a29f",
+      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+      "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
+      "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-17T15:28:59+00:00"
+    },
+    {
+      "id": "76a115c8e77649fe",
+      "title": "Samsung prepara agente de viagem de bolso que lê seus e-mails e cria roteiros sozinho",
+      "summary": "A Samsung desenvolve um agente de IA para planejar viagens com base em dados da agenda e do e-mail de cada pessoa. O roteiro seria criado automaticamente e pode fazer parte do…",
+      "link": "https://canaltech.com.br/apps/samsung-prepara-agente-de-viagem-de-bolso-que-le-seus-e-mails-e-cria-roteiros-sozinho/",
+      "image": "https://tl.ctcdn.com.br/k1cXg8qJppvFOFKMvJvO-gdmVn0=/0x0/filters:format(webp):quality(85)/b7014dbc-0c88-4e69-b591-bf5b09efe66a.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-17T15:15:06+00:00"
+    },
+    {
+      "id": "8c7535fbefcea9e4",
+      "title": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
+      "summary": "OpenAI is opening its cybersecurity tool Daybreak to NATO and several European governments, including Germany, France, and Poland. The EU's cybersecurity agency ENISA has already…",
+      "link": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/russian_influence_campaigns.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-17T15:02:03+00:00"
+    },
+    {
+      "id": "4ec6ed4a69656601",
+      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+      "summary": "Planning a trip is a favorite demo for personal AI assistants: you can try it with Muse, or with Gemini or half a dozen other choices. But while most pitches use travel-planning…",
+      "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-17T15:00:00+00:00"
+    },
+    {
+      "id": "903167c766798484",
+      "title": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos",
+      "summary": "The announcement likely comes in response to creators' concerns over how easily original content can be copied and redistributed across social media platforms, especially…",
+      "link": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-17T15:00:00+00:00"
+    },
+    {
+      "id": "ffd771bb9531a4b7",
+      "title": "Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years",
+      "summary": "Edinburgh's Childlight Institute reports a more than 8,400 percent increase in AI-generated child sexual abuse material over two years, from about 4,700 reports in 2023 to over…",
+      "link": "https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/ai_generated_abuse.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-17T14:59:50+00:00"
+    },
+    {
+      "id": "e166994b43b2e418",
+      "title": "Isomorphic Labs raises $5 billion in its second mega-round within six months",
+      "summary": "Isomorphic Labs has raised $5 billion, just six months after a $2.1 billion round. Alphabet's AI drug discovery company, led by Demis Hassabis, plans to use the funding to push…",
+      "link": "https://the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/Isomorphic-Labs-Funding.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-17T14:57:02+00:00"
+    },
+    {
+      "id": "36c79046a8c86665",
+      "title": "California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face",
+      "summary": "California Attorney General Rob Bonta is suing OpenAI over a cyberattack that the company's out-of-control AI models launched against AI platform Hugging Face in July. The article…",
+      "link": "https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_hugging_face_hack.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-17T14:54:10+00:00"
+    },
+    {
+      "id": "c4b7e80cb7863d47",
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
+      "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-17T14:50:58+00:00"
+    },
+    {
+      "id": "a598c269f36b6542",
+      "title": "Research Reports",
+      "summary": "To access a report, click on the corresponding image below.",
+      "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Screenshot-2026-11-09-at-3.15.07-PM-edited.png",
+      "source": "MIT Tech Review",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-17T14:39:46+00:00"
+    },
+    {
+      "id": "42b604ab5ac0325a",
+      "title": "Smartwatches em promoção: veja uma seleção de relógios inteligentes com ótimo custo-benefício",
+      "summary": "Seja para monitorar a saúde, receber notificações ou simplesmente complementar o visual, os smartwatches se tornaram companheiros indispensáveis no dia a dia. Reunimos três opções…",
+      "link": "https://olhardigital.com.br/2026/11/17/reviews/smartwatches-em-promocao-veja-uma-selecao-de-relogios-inteligentes-com-otimo-custo-beneficio/",
+      "image": "https://m.media-amazon.com/images/I/31JRkZkyNBL._SL500_.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-17T14:23:17+00:00"
+    },
+    {
+      "id": "37a48256c63946c3",
+      "title": "Google libera novos sotaques regionais em português no Gemini; veja como ativar",
+      "summary": "O Google começou a liberar 66 novas opções de vozes regionais para o Gemini em celulares Android e iPhone (iOS). A atualização traz sete variantes de idiomas, entre elas o…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/google-libera-novos-sotaques-regionais-em-portugues-no-gemini-veja-como-ativar/",
+      "image": "https://tl.ctcdn.com.br/Iq0TxY2olV9Ti6q87p13w3NjFk8=/0x0/filters:format(webp):quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-17T14:07:00+00:00"
+    },
+    {
+      "id": "e15ff8b935a63483",
+      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+      "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+      "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-17T14:05:30+00:00"
+    },
+    {
+      "id": "0de6aadc71dab203",
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+      "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-500x500.jpg",
+      "source": "Ars Technica",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-17T14:00:29+00:00"
+    },
+    {
+      "id": "561546afdf1a02f6",
+      "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
+      "summary": "Genesis AI's novel approach to training dexterous robots earned it $500 million in Series A funding.",
+      "link": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-17T14:00:00+00:00"
+    },
+    {
+      "id": "46476ee145aa82c3",
+      "title": "OpenAI vai ajudar a Otan a reforçar a segurança de suas redes",
+      "summary": "Entenda como a aliança militar utiliza inteligência artificial para detectar vulnerabilidades e proteger redes em meio a ameaças cibernéticas na Europa O post OpenAI vai ajudar a…",
+      "link": "https://olhardigital.com.br/2026/11/17/inteligencia-artificial/openai-vai-ajudar-a-otan-a-reforcar-a-seguranca-de-suas-redes/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/openai_logo-1-1024x681.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-17T13:57:40+00:00"
+    },
+    {
+      "id": "530ccf75dd0656a7",
+      "title": "Conselho da Nvidia descarta volta de Jensen Huang mesmo após aprovação de Trump",
+      "summary": "Porta fechada para o retorno de Jensen Huang: a NVIDIA descarta o retorno do ex-CEO que renunciou ao cargo na última semana. A decisão acontece após um movimento de aliados para…",
+      "link": "https://canaltech.com.br/mercado/conselho-da-nvidia-descarta-volta-de-jensen-huang-mesmo-apos-aprovacao-de-trump/",
+      "image": "https://tl.ctcdn.com.br/5d3C5bAqji21_ou2A6azocghX_Y=/0x0/filters:format(webp):quality(85)/a1856980-2750-4074-a00e-53f55354fc14.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-17T12:10:12+00:00"
+    },
+    {
+      "id": "17fb9b68da0a9dfe",
+      "title": "NVIDIA Open-Sources NVKE and NVKR for Managed Kubernetes on GPU Infrastructure",
+      "summary": "NVIDIA has open-sourced NVIDIA Kubernetes Engine (NVKE) and NVIDIA Kubernetes Recipes (NVKR) under Apache 2.0. Together they let AI factories run a managed Kubernetes service on…",
+      "link": "https://www.marktechpost.com/2026/11/17/nvidia-nvke-nvkr-managed-kubernetes-gpu/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-17T10:37:11+00:00"
+    },
+    {
+      "id": "c86a1ecab874aed3",
+      "title": "Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models",
+      "summary": "Sarvam Token Factory is now open to everyone. It serves Sarvam 105B, GLM 5.3, DeepSeek V4.1 Flash, Kimi K3.1 Pro and Gemma 4 31B from GPU clusters in India through one…",
+      "link": "https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-17T09:51:18+00:00"
+    },
+    {
+      "id": "4e6ec3e3f0a20df1",
+      "title": "Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index",
+      "summary": "Liquid AI released d1.2 and d1.2-ultra, decision models that read text, images and audio and return calibrated probabilities with zero output tokens. d1.2-ultra scores 75 on the…",
+      "link": "https://www.marktechpost.com/2026/11/17/liquid-ai-d1-2-omnimodal-decision-models/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-17T09:20:57+00:00"
+    },
     {
       "id": "2670b5f0cab5af9b",
       "title": "Ex-engenheiro da OpenAI contesta prisão e nega ligação com governo saudita",
@@ -12,6 +232,28 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-11-17T00:15:31+00:00"
+    },
+    {
+      "id": "0e7f690aa4ff229b",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-17T00:00:00+00:00"
+    },
+    {
+      "id": "3b3be741a87f5e21",
+      "title": "Introducing OpenAI for Chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "link": "https://openai.com/index/introducing-openai-for-chile",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-17T00:00:00+00:00"
     },
     {
       "id": "24baf68da2c147d6",
@@ -95,7 +337,7 @@
       "title": "Black November: Huawei Watch Fit 5 Pro tem oferta em até 10x sem juros",
       "summary": "Huawei Watch Fit 5 Pro tem caixa com liga de titânio, GPS integrado e resistência para natação; aproveite o desconto de 45% pelo relógio inteligente Black November: Huawei Watch…",
       "link": "https://tecnoblog.net/achados/black-november-huawei-watch-fit-5-pro-tem-oferta-em-ate-10x-sem-juros/",
-      "image": "https://tecnoblog.net/tecnoblog.net/wp-content/themes/tb/blocks/toc-oferta/img/ml.png",
+      "image": "https://tecnoblog.net/files.tecnoblog.net/wp-content/uploads/2026/11/huawei-watch-fit-5-pro-imagem_-divulgacao-340x191.png",
       "source": "Tecnoblog",
       "region": "brasil",
       "category": "Brasil",
@@ -597,6 +839,17 @@
       "published_at": "2026-11-16T09:44:17+00:00"
     },
     {
+      "id": "b82b64ef90f76e66",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "link": "https://openai.com/business/customer-stories/revolut",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-16T09:30:00+00:00"
+    },
+    {
       "id": "83fd64638987e468",
       "title": "Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro",
       "summary": "Hark has released Handoff², the computer-use agent inside Hark Pro. It averages 2x faster than v1, completes 82% of 478 internal web tasks, and learned to batch actions through…",
@@ -674,23 +927,23 @@
       "published_at": "2026-11-16T01:26:56+00:00"
     },
     {
-      "id": "60f3c7381bc61eae",
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-      "link": "https://openai.com/index/the-kings-trust-and-openai",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-16T00:00:00+00:00"
-    },
-    {
       "id": "8ec21efa2c622734",
       "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
       "summary": "",
       "link": "https://huggingface.co/blog/openrouter",
       "image": null,
       "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-16T00:00:00+00:00"
+    },
+    {
+      "id": "60f3c7381bc61eae",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "link": "https://openai.com/index/the-kings-trust-and-openai",
+      "image": null,
+      "source": "OpenAI",
       "region": "mundo",
       "category": "Modelos",
       "published_at": "2026-11-16T00:00:00+00:00"
@@ -738,259 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-11-15T21:56:35+00:00"
-    },
-    {
-      "id": "0ca9d50052bc12dd",
-      "title": "Ex-CEO da Nvidia articula retorno ao cargo após escândalo amoroso",
-      "summary": "Segundo o Financial Times, Jensen Huang conversa com aliados para voltar à Nvidia; Elon Musk e funcionários apoiam uma carta pelo retorno O post Ex-CEO da Nvidia articula retorno…",
-      "link": "https://olhardigital.com.br/2026/11/15/pro/ex-ceo-da-nvidia-articula-retorno-ao-cargo-apos-escandalo-amoroso/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/nvidia-1-1-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-15T21:21:37+00:00"
-    },
-    {
-      "id": "22d5411381c32aa2",
-      "title": "China quer ampliar IA aberta no BRICS; o que o Brasil pode ganhar com isso?",
-      "summary": "O Brasil pode aproveitar a proposta chinesa de criar uma comunidade de inteligência artificial (IA) aberta no BRICS para desenvolver suas próprias tecnologias e formar…",
-      "link": "https://canaltech.com.br/mercado/china-quer-ampliar-ia-aberta-no-brics-o-que-o-brasil-pode-ganhar-com-isso/",
-      "image": "https://tl.ctcdn.com.br/ixXjWP1gh9GVBhSpTrFekWihcNU=/0x0/filters:format(webp):quality(85)/c612c02a-1b01-4ccc-b768-1213a8dd45a3.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-15T21:00:02+00:00"
-    },
-    {
-      "id": "7310523931ec31d7",
-      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have…",
-      "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-15T20:43:49+00:00"
-    },
-    {
-      "id": "6c2c64409dfbba0f",
-      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-15T19:15:43+00:00"
-    },
-    {
-      "id": "f2519e9ea0cc8e6f",
-      "title": "Coreia do Sul investiga 1º colocado em prova após fraude com IA",
-      "summary": "Após suspeita inicial de uso de óculos inteligentes, candidato admitiu fraude; governo pretende suspender seu certificado O post Coreia do Sul investiga 1º colocado em prova após…",
-      "link": "https://olhardigital.com.br/2026/11/15/inteligencia-artificial/coreia-do-sul-investiga-1o-colocado-em-prova-apos-fraude-com-ia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/Destaque-Oculos-inteligentes-15-de-agosto-de-2026-scaled-1-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-15T19:09:09+00:00"
-    },
-    {
-      "id": "7da8a1038905f9ee",
-      "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "link": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-15T17:05:00+00:00"
-    },
-    {
-      "id": "1c0f67ec97e321b7",
-      "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
-      "summary": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of…",
-      "link": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-15T15:42:03+00:00"
-    },
-    {
-      "id": "3515a31ed9232149",
-      "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
-      "summary": "Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and…",
-      "link": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_logo_glitch.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-15T14:45:12+00:00"
-    },
-    {
-      "id": "0c5d61a9308a71e6",
-      "title": "Qual é a diferença entre os modelos Muse Wonder, Muse Spark e Muse Ember?",
-      "summary": "A Meta desenvolveu três modelos de inteligência artificial da família Muse , cada um pensado para um tipo de tarefa. O Muse Wonder é indicado para atividades complexas, que exigem…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/qual-e-a-diferenca-entre-os-modelos-muse-wonder-muse-spark-e-muse-ember/",
-      "image": "https://tl.ctcdn.com.br/otpqo0i0Ysos6O25e53iQ6esANQ=/0x0/filters:format(webp):quality(85)/bdab883d-a035-4832-a4dd-4647b3ef4fea.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-15T14:30:00+00:00"
-    },
-    {
-      "id": "13482003797f2776",
-      "title": "An overview of Jensen Huang’s messy days",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership…",
-      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-15T13:00:00+00:00"
-    },
-    {
-      "id": "5849c3c3ddfec16f",
-      "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
-      "summary": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT…",
-      "link": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/ai_impact_australian_jobs.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-15T10:45:58+00:00"
-    },
-    {
-      "id": "26c55bd270eff60d",
-      "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
-      "summary": "Bland has released Tofu-1, a full-duplex speech-to-speech model for noisy, high-stakes phone calls. It is in enterprise research preview, with no published benchmarks, size or…",
-      "link": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-15T10:06:21+00:00"
-    },
-    {
-      "id": "db313f233dd8bfe1",
-      "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
-      "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4…",
-      "link": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/meituan-logo-wall-chatgpt-5.6.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-15T10:06:06+00:00"
-    },
-    {
-      "id": "6043ead4560c869a",
-      "title": "Atenção, empresas! Inteligência artificial não é sinônimo de operação inteligente",
-      "summary": "Os modelos estão ficando melhores rapidamente. Mas inteligência não é sinônimo de confiabilidade operacional O post Atenção, empresas! Inteligência artificial não é sinônimo de…",
-      "link": "https://olhardigital.com.br/2026/11/15/colunistas/atencao-empresas-inteligencia-artificial-nao-e-sinonimo-de-operacao-inteligente/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-15T10:04:00+00:00"
-    },
-    {
-      "id": "a8381ccf0f4a6c26",
-      "title": "Where was Nvidia’s security team?",
-      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of…",
-      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-15T00:08:07+00:00"
-    },
-    {
-      "id": "ff70504e465532c2",
-      "title": "Como adicionar instruções para que o Gemini lembre de informações em qualquer conversa?",
-      "summary": "É possível definir instruções personalizadas no Gemini para que a inteligência artificial siga suas preferências durante as conversas. Assim, você não precisa repetir as mesmas…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-adicionar-instrucoes-para-que-o-gemini-lembre-de-informacoes-em-qualquer-conversa/",
-      "image": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-14T23:00:00+00:00"
-    },
-    {
-      "id": "e86112d5f8734949",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-14T21:41:22+00:00"
-    },
-    {
-      "id": "9f927ecdb62506fb",
-      "title": "Hora de imprimir mais e gastar menos: veja uma seleção de impressoras em promoção na Amazon",
-      "summary": "Se você está precisando renovar a impressora de casa ou do escritório, este é um bom momento para pesquisar. Reunimos três opções multifuncionais em oferta na Amazon — todas com…",
-      "link": "https://olhardigital.com.br/2026/11/14/reviews/hora-de-imprimir-mais-e-gastar-menos-veja-uma-selecao-de-impressoras-em-promocao-na-amazon-11/",
-      "image": "https://m.media-amazon.com/images/I/31MUkJ9kGrL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-14T21:04:38+00:00"
-    },
-    {
-      "id": "4969203d95392d2f",
-      "title": "Casa mais inteligente: confira uma seleção de Smart Speakers com Alexa em promoção na Amazon",
-      "summary": "Automatizar a casa, controlar dispositivos por voz, ouvir música e muito mais — os smart speakers com Alexa tornaram tudo isso acessível e prático. Se você ainda não tem um ou…",
-      "link": "https://olhardigital.com.br/2026/11/14/reviews/casa-mais-inteligente-confira-uma-selecao-de-smart-speakers-com-alexa-em-promocao-na-amazon-4/",
-      "image": "https://m.media-amazon.com/images/I/51NsbWeWqUL._SL500_.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-14T19:24:38+00:00"
-    },
-    {
-      "id": "d88d73c27122c445",
-      "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
-      "summary": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments…",
-      "link": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_logos-5.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-14T19:05:17+00:00"
-    },
-    {
-      "id": "fcddece06a43c8c9",
-      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
-      "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
-      "link": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-14T17:45:04+00:00"
-    },
-    {
-      "id": "0dac5bc8bd77a78d",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-14T17:30:00+00:00"
-    },
-    {
-      "id": "9c80a75d7edca31c",
-      "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
-      "summary": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top…",
-      "link": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4_carbon_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-14T16:48:01+00:00"
     }
   ]
 }
