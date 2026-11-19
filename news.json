@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-18T23:54:10.480143+00:00",
+  "generated_at": "2026-11-19T05:57:36.673708+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "ec3147ba8862b4d5",
+      "title": "Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence",
+      "summary": "Nutrient Data Extraction API parses PDFs, scans and Office files into JSON matching your schema. Fields carry page, region and match-label citations, and Studio lets teams test…",
+      "link": "https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/image-2-150x150.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-19T03:23:50+00:00"
+    },
+    {
+      "id": "8f2d21add460f146",
+      "title": "Olhar do Amanhã: IPO da Anthropic é divisor de águas para IAs? | Alvaro Machado Dias",
+      "summary": "Operação pode movimentar até US$ 100 bilhões na Nasdaq e servir de teste para os temores de uma bolha no setor O post Olhar do Amanhã: IPO da Anthropic é divisor de águas para…",
+      "link": "https://olhardigital.com.br/2026/11/18/colunistas/olhar-do-amanha-ipo-da-anthropic-e-divisor-de-aguas-para-ias-alvaro-machado-dias/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-19T02:11:22+00:00"
+    },
+    {
+      "id": "995faadad1a90781",
+      "title": "Gemini 4 Neon: conheça a nova IA do Google para programação e análise",
+      "summary": "Ferramenta consegue processar diferentes formatos de informação em mesma solicitação e foi projetada para executar trabalhos longos O post Gemini 4 Neon: conheça a nova IA do…",
+      "link": "https://olhardigital.com.br/2026/11/18/inteligencia-artificial/gemini-4-neon-conheca-a-nova-ia-do-google-para-programacao-e-analise/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/gemini-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-19T00:45:29+00:00"
+    },
     {
       "id": "afb1f8fc849417da",
       "title": "Amidst fears of AI-cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
@@ -729,6 +762,17 @@
       "published_at": "2026-11-18T08:00:00+00:00"
     },
     {
+      "id": "53d809d7420a3923",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-18T08:00:00+00:00"
+    },
+    {
       "id": "67952d9a918d2536",
       "title": "Inside the Codex sandbox",
       "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
@@ -828,10 +872,10 @@
       "published_at": "2026-11-18T00:16:50+00:00"
     },
     {
-      "id": "68ddb817fe4001c0",
-      "title": "Advancing chip design with OpenAI models",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "id": "a1de396d3910fa2e",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -839,10 +883,10 @@
       "published_at": "2026-11-18T00:00:00+00:00"
     },
     {
-      "id": "a1de396d3910fa2e",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "id": "68ddb817fe4001c0",
+      "title": "Advancing chip design with OpenAI models",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
       "image": null,
       "source": "OpenAI",
       "region": "mundo",
@@ -947,50 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-11-17T22:29:05+00:00"
-    },
-    {
-      "id": "bc513864b7b39e29",
-      "title": "OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API",
-      "summary": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on November 17, 2026. Astra's API price drops 20% to $8/$40 per million tokens, and it ranks second on the Artificial Analysis…",
-      "link": "https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-17T22:07:30+00:00"
-    },
-    {
-      "id": "122ce305bae0e6c5",
-      "title": "Nvidia dobra receita e prevê novo salto mesmo após saída de CEO",
-      "summary": "Após a divulgação dos resultados, as ações da Nvidia subiram cerca de 3% nas negociações após o fechamento do mercado O post Nvidia dobra receita e prevê novo salto mesmo após…",
-      "link": "https://olhardigital.com.br/2026/11/17/pro/nvidia-dobra-receita-e-preve-novo-salto-mesmo-apos-saida-de-ceo/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/nvidia-2-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-17T22:03:45+00:00"
-    },
-    {
-      "id": "b16a598086e446c0",
-      "title": "SEC reportedly investigating Nvidia amid Huang exit",
-      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
-      "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-17T21:48:07+00:00"
-    },
-    {
-      "id": "98b0f8f3a92e1be3",
-      "title": "OpenAI lança GPT-6.2 Astra e Sol com novas restrições de segurança",
-      "summary": "Novidades prometem melhorar o desempenho em tarefas profissionais e cotidianas, reduzir o consumo de tokens e oferecer resultados melhores por custo menor O post OpenAI lança…",
-      "link": "https://olhardigital.com.br/2026/11/17/pro/openai-lanca-gpt-6-2-astra-e-sol-com-novas-restricoes-de-seguranca/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/openai-1024x512.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-17T21:46:10+00:00"
     }
   ]
 }
