@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-11-21T05:41:39.917732+00:00",
+  "generated_at": "2026-11-21T14:15:03.894680+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "0a3e8c674a4c46f6",
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon…",
+      "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-21T14:00:00+00:00"
+    },
+    {
+      "id": "864f2f5a6c2bda06",
+      "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+      "summary": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive…",
+      "link": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_chatgpt-2.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-21T13:32:35+00:00"
+    },
+    {
+      "id": "6772fc51c16eb14f",
+      "title": "Governança de IA: 5 que falhas podem comprometer adoção da tecnologia em empresas",
+      "summary": "A inteligência artificial já faz parte da rotina de muitas empresas, mas incorporar a tecnologia às operações é apenas uma etapa do processo. À medida que novas ferramentas e…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/governanca-de-ia-5-que-falhas-podem-comprometer-adocao-da-tecnologia-em-empresas/",
+      "image": "https://tl.ctcdn.com.br/Pdk5AoUglhAGWGhFQ1ykK2m1iw0=/0x0/filters:format(webp):quality(85)/cd82fcd4-c5f4-42e9-b4b6-47d3f9d212aa.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-21T13:30:03+00:00"
+    },
+    {
+      "id": "e341cf19e3512252",
+      "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
+      "summary": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on…",
+      "link": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-21T12:13:50+00:00"
+    },
+    {
+      "id": "ed5e1ddbe4c0dbba",
+      "title": "Review Hyundai i20 Ultimate: uma visão do futuro, mas com um “pé” no passado",
+      "summary": "Lançado pela Hyundai para ser um ‘ upgrade inteligente ’ e se tornar uma espécie de ponte entre hatches e SUVs , o i20 é o tipo de carro que realmente consegue transitar entre…",
+      "link": "https://canaltech.com.br/carros/review-hyundai-i20-ultimate-uma-visao-do-futuro-mas-com-um-pe-no-passado/",
+      "image": "https://tl.ctcdn.com.br/ExSc6uVrJEZvHfSdxEBt5yJ9-ag=/0x0/filters:format(webp):quality(85)/9ae9b197-4946-4b8e-8a05-072d22e8e363.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-21T12:02:00+00:00"
+    },
+    {
+      "id": "fe5d4f6020be9d6a",
+      "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+      "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02…",
+      "link": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-21T11:46:17+00:00"
+    },
+    {
+      "id": "d441836fd480b223",
+      "title": "7 formas de usar o Claude Code para tocar um negócio sem saber programar",
+      "summary": "Para administrar um pequeno negócio, é necessário cuidar de várias tarefas ao mesmo tempo . Em um dia, você precisa atender clientes e atualizar o site; no outro, conferir…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-claude-code-tocar-negocio-sem-saber-programar/",
+      "image": "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-21T11:30:07+00:00"
+    },
+    {
+      "id": "4b0f784ca73798b3",
+      "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+      "summary": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that…",
+      "link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_riemann.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-21T11:19:49+00:00"
+    },
+    {
+      "id": "1b8efb1a8b4ef88b",
+      "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
+      "summary": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer…",
+      "link": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
+      "image": "https://the-decoder.com/wp-content/uploads/2025/09/thinking_machines_ca_illustration.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-21T10:33:02+00:00"
+    },
+    {
+      "id": "3e8676f6e4ce6838",
+      "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
+      "summary": "The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic…",
+      "link": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/tech_crash_synth.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-21T10:27:44+00:00"
+    },
+    {
+      "id": "05fac878f133debf",
+      "title": "A próxima crise da inteligência artificial será de manutenção, não de inovação",
+      "summary": "A próxima grande crise da IA pode não surgir da falta de inovação, mas do excesso de soluções que ninguém planejou como manter O post A próxima crise da inteligência artificial…",
+      "link": "https://olhardigital.com.br/2026/11/21/colunistas/a-proxima-crise-da-inteligencia-artificial-sera-de-manutencao-nao-de-inovacao/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-21T10:02:00+00:00"
+    },
+    {
+      "id": "a77dba5f1ed5aa15",
+      "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
+      "summary": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases…",
+      "link": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/bytedance-axio-training-pipeline-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-21T09:17:24+00:00"
+    },
     {
       "id": "8df2b0aafffddec9",
       "title": "Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index",
@@ -859,138 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-11-19T15:16:45+00:00"
-    },
-    {
-      "id": "22e26e3d15b47251",
-      "title": "Google lança Gemini 4 Neon para substituir Argon; veja o que muda",
-      "summary": "O Google começou a liberar o Gemini 4 Neon , novo modelo de inteligência artificial (IA) que substitui o Argon e o antigo Pro no aplicativo Gemini para assinantes do Google AI Pro…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/google-lanca-gemini-4-neon-para-substituir-argon-veja-o-que-muda/",
-      "image": "https://tl.ctcdn.com.br/5Q8jm-cpysPTmmTb3lh8WA6o3mk=/0x0/filters:format(webp):quality(85)/6443c25f-47bf-4a8a-968f-87ac6aa5a8bf.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-19T14:58:00+00:00"
-    },
-    {
-      "id": "ddb4b8e8befa63e4",
-      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if…",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-19T14:54:39+00:00"
-    },
-    {
-      "id": "60ff07a70f51c369",
-      "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-      "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-19T14:25:37+00:00"
-    },
-    {
-      "id": "dc732635dd3326f8",
-      "title": "Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector",
-      "summary": "Anthropic launches the largest IPO in history, dethroning SpaceX as the previous record holder. Early investor Dustin Moskovitz is publicly distancing himself, warning that his…",
-      "link": "https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_claude_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-19T14:02:22+00:00"
-    },
-    {
-      "id": "f1fa75f3dc70feb7",
-      "title": "Anthropic: dona do Claude estreia na bolsa valendo US$ 1,5 trilhão",
-      "summary": "Famosa pelo Claude, empresa de inteligência artificial chega à bolsa dos EUA com ações cotadas a US$ 83, um valor notável. Anthropic: dona do Claude estreia na bolsa valendo US$…",
-      "link": "https://tecnoblog.net/noticias/anthropic-dona-do-claude-estreia-na-bolsa-valendo-us-15-trilhao/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/07/capas_anthropic-claude-3-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-19T13:35:06+00:00"
-    },
-    {
-      "id": "9e466ac889d93acc",
-      "title": "Rockstar usou inteligência artificial em GTA VI?",
-      "summary": "Rockstar usa IA para ganhar eficiência, mas GTA VI não teve IA generativa na criação; estudo mostra 55% dos profissionais de games criticando a tecnologia O post Rockstar usou…",
-      "link": "https://olhardigital.com.br/2026/11/19/games-e-consoles/rockstar-usou-inteligencia-artificial-em-gta-vi/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/Jason_Lucia_Lock_And_Load_With_Logos_landscape-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-19T13:28:47+00:00"
-    },
-    {
-      "id": "3ed71ec1216e5d58",
-      "title": "OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues",
-      "summary": "OpenAI's internal use of coding agents is growing fast, with theoretical token costs now exceeding researchers' base salaries. Even though teams are reluctant to work without…",
-      "link": "https://the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo_numbers.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-19T13:08:35+00:00"
-    },
-    {
-      "id": "b5b2890766e5da55",
-      "title": "I let Apple’s always-listening AI summarize my life for two weeks",
-      "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both…",
-      "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268874_siri_recaps_AKrales_0070.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-19T13:00:00+00:00"
-    },
-    {
-      "id": "c263b280fabbf488",
-      "title": "Canva adds an AI ‘off’ button",
-      "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-19T12:30:00+00:00"
-    },
-    {
-      "id": "08788772910aa423",
-      "title": "Desativou o histórico do Gemini? O Google salva mesmo assim",
-      "summary": "Empresa atualizou tempo que suas conversas na IA ficam registradas de três dias para dois meses, independente da configuração de histórico. Desativou o histórico do Gemini? O…",
-      "link": "https://tecnoblog.net/noticias/desativou-o-historico-do-gemini-o-google-salva-mesmo-assim/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2024/09/capa-google-gemini-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-19T11:40:54+00:00"
-    },
-    {
-      "id": "d9dfce9d2a4e24b1",
-      "title": "Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago",
-      "summary": "Google DeepMind has released Gemini 4 Neon, its fourth model in seven weeks, which is nearly 2x faster than its sibling Carbon, outperforms it on most benchmarks and comes in at a…",
-      "link": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4-neon__blog-header__sm.width-1600.format-webp.webp",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-19T11:18:18+00:00"
-    },
-    {
-      "id": "ee7199efb259d8dc",
-      "title": "Not If, But How: Responding to Security Incidents in the Age of AI Attackers",
-      "summary": "AI-powered attackers are driving more frequent attacks on AI infrastructure. This guide reviews 6 months of incidents, sets out a 4-pillar incident response playbook, and shows it…",
-      "link": "https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-19T10:45:57+00:00"
     }
   ]
 }
