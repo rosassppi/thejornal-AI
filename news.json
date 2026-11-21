@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-11-21T14:15:03.894680+00:00",
+  "generated_at": "2026-11-21T22:46:32.796496+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "7289e21f33e265e9",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-21T21:37:10+00:00"
+    },
+    {
+      "id": "8ed913cfa76c678b",
+      "title": "A tale of two Nvidias",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-21T21:07:42+00:00"
+    },
+    {
+      "id": "d5fd1a7836523ad2",
+      "title": "O que o Gemini sabe sobre você? Veja como acessar e apagar a memória da IA",
+      "summary": "Você sabe quais informações o Gemini guarda sobre você? O Google lançou um painel que facilita a consulta e a edição desses dados. Chamado Memory summary, o recurso aparece no…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/veja-o-que-o-gemini-sabe-sobre-voce/",
+      "image": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-21T21:00:04+00:00"
+    },
+    {
+      "id": "ec8e761e0eb8542f",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\"…",
+      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-21T20:03:37+00:00"
+    },
+    {
+      "id": "1cc9734953dc011e",
+      "title": "Como montar um PC completo para rodar modelos de IA localmente",
+      "summary": "Rodar modelos de inteligência artificial diretamente no próprio PC deixou de ser uma curiosidade experimental para se tornar algo real. Seja para garantir privacidade absoluta dos…",
+      "link": "https://canaltech.com.br/hardware/como-montar-pc-para-rodar-ia-localmente/",
+      "image": "https://tl.ctcdn.com.br/Ukhh4gF9MELmfT1gxh81LX-ytEY=/0x0/filters:format(webp):quality(85)/740f04a7-73d3-4511-ab80-311f31181139.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-21T18:00:04+00:00"
+    },
+    {
+      "id": "5fa0b2c5ec01936f",
+      "title": "Anthropic e o paradoxo do IPO bilionário",
+      "summary": "Maior oferta pública da história movimentou US$ 93,5 bilhões, mas queda das ações após a estreia expôs a cautela dos investidores com empresas de inteligência artificial O post…",
+      "link": "https://olhardigital.com.br/2026/11/21/pro/anthropic-e-o-paradoxo-do-ipo-bilionario/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-21T17:29:14+00:00"
+    },
+    {
+      "id": "d15566b2aef3b460",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-21T17:00:00+00:00"
+    },
+    {
+      "id": "0a04003cba71b6ac",
+      "title": "Nvidia researchers argue huge AI context windows are a dead end",
+      "summary": "Nvidia researchers argue that language models often don't need their full context windows—which are slow, expensive, and prone to errors—and propose an alternative. In tests…",
+      "link": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/you-dont-need-long-context-nano-banana-pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-21T16:23:45+00:00"
+    },
+    {
+      "id": "c08177968139f00b",
+      "title": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
+      "summary": "A Buddhist monastery in Vermont called Maple wants to establish itself as Silicon Valley's spiritual authority while creating its own AI god. According to a New Yorker report…",
+      "link": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/buddhist_ai_sect.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-21T16:04:29+00:00"
+    },
+    {
+      "id": "53e893a48ca02ab2",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in…",
+      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-21T16:00:00+00:00"
+    },
+    {
+      "id": "3298713995b15316",
+      "title": "Can Anthropic afford to put safety first?",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab…",
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-21T15:00:00+00:00"
+    },
     {
       "id": "0a3e8c674a4c46f6",
       "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
@@ -870,127 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-11-19T18:13:21+00:00"
-    },
-    {
-      "id": "1d0042c698f4ab6c",
-      "title": "IA ajudou a descobrir falha crítica no Java",
-      "summary": "Brecha pode permitir invasões remotas em sistemas vulneráveis. Oracle já liberou uma correção. IA ajudou a descobrir falha crítica no Java",
-      "link": "https://tecnoblog.net/noticias/ia-ajudou-a-descobrir-falha-critica-no-java/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/codigo-java-edited-1-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-19T18:10:00+00:00"
-    },
-    {
-      "id": "3a850c903b02169f",
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-19T18:09:11+00:00"
-    },
-    {
-      "id": "1b3aafed7dd5d45c",
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "summary": "Gemini spark on a space background",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-19T18:00:00+00:00"
-    },
-    {
-      "id": "e82f5c41fc2512ea",
-      "title": "Perplexity Launches Orchestrator API for Failover and Model Routing",
-      "summary": "Perplexity’s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview…",
-      "link": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-19T17:47:00+00:00"
-    },
-    {
-      "id": "ee20d352f0da08b7",
-      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed…",
-      "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-19T17:38:40+00:00"
-    },
-    {
-      "id": "8036141f6c55366e",
-      "title": "Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears",
-      "summary": "Stricter US export controls on AI chips are hitting fast. China's Moonshot AI walked away from a $150 million deal in Indonesia, while TSMC and Samsung stopped shipping to Chinese…",
-      "link": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/us_vs_china_open_models.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-19T17:02:41+00:00"
-    },
-    {
-      "id": "d47c74f9a7ce43a8",
-      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-19T17:00:00+00:00"
-    },
-    {
-      "id": "c12b546d5a71cb45",
-      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-19T16:59:23+00:00"
-    },
-    {
-      "id": "294f494c3d9f12c9",
-      "title": "Anthropic starts trading on Wall Street",
-      "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305334560.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-19T16:52:01+00:00"
-    },
-    {
-      "id": "d313bfcd8f29dd2a",
-      "title": "Grok Bot tentou acessar contas sem autorização e depois mentiu",
-      "summary": "Pesquisadores registraram 31 tentativas de acesso da IA a serviços como e-mail, Slack, calendário e GitHub, inclusive durante a madrugada. Grok Bot tentou acessar contas sem…",
-      "link": "https://tecnoblog.net/noticias/grok-bot-tentou-acessar-contas-sem-autorizacao-e-depois-mentiu/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/06/capa-tbr-grok-1-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-19T15:26:53+00:00"
-    },
-    {
-      "id": "9f19183b29edeb23",
-      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
-      "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chatgpt-live-dictation-promo-screenshot.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-19T15:16:45+00:00"
     }
   ]
 }
