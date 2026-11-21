@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-11-20T23:41:30.236426+00:00",
+  "generated_at": "2026-11-21T05:41:39.917732+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "8df2b0aafffddec9",
+      "title": "Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index",
+      "summary": "Baseten released bison-1 and groundhog-1, open-weight decision models built on Gemma 4. bison-1 scores 76 on the AA Decision Index v2.1, and both models support 128k context and…",
+      "link": "https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-21T04:01:04+00:00"
+    },
+    {
+      "id": "a44ae5116a032643",
+      "title": "TikTok lança ferramentas para identificar conteúdos de IA e deepfakes",
+      "summary": "TikTok lança ferramentas para identificar conteúdos de IA e deepfakes, incluindo recurso voltado a políticos e figuras públicas O post TikTok lança ferramentas para identificar…",
+      "link": "https://olhardigital.com.br/2026/11/20/internet-e-redes-sociais/tiktok-lanca-ferramentas-para-identificar-conteudos-de-ia-e-deepfakes/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-20T23:43:21+00:00"
+    },
     {
       "id": "9b5cde5e2d10e0cb",
       "title": "Como criar relatórios interativos no Gemini Notebook?",
@@ -969,28 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-11-19T10:45:57+00:00"
-    },
-    {
-      "id": "cb9a0d2cc418c390",
-      "title": "OCR models now digitize a million pages for under $130 as costs drop fivefold in 18 months",
-      "summary": "Pulling text out of scanned books and records has gotten a lot cheaper with freely available AI models. The article OCR models now digitize a million pages for under $130 as costs…",
-      "link": "https://the-decoder.com/ocr-models-now-digitize-a-million-pages-for-under-130-as-costs-drop-fivefold-in-18-months/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/baidu-ocr-machine-nano-banana-pro.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-19T09:28:01+00:00"
-    },
-    {
-      "id": "9342dbf934e428aa",
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-19T08:00:00+00:00"
     }
   ]
 }
