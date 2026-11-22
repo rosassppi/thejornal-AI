@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-11-22T05:09:39.002746+00:00",
+  "generated_at": "2026-11-22T14:03:59.553513+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "b723778c463116e2",
+      "title": "Surge um novo canal comercial, operado de ponta a ponta por IA",
+      "summary": "A inteligência artificial já ocupa espaço nas agendas de investimento das empresas, mas transformar esse movimento em resultados concretos continua sendo um desafio. Uma pesquisa…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/surge-um-novo-canal-comercial-operado-de-ponta-a-ponta-por-ia/",
+      "image": "https://tl.ctcdn.com.br/2M6PxnLMmdjdzAR24lbHtMYHdXE=/0x0/filters:format(webp):quality(85)/4756f8ae-246a-4398-8335-c0fdf6aa45c3.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-22T13:30:00+00:00"
+    },
+    {
+      "id": "9a6dc892b9de4543",
+      "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+      "summary": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure. Current data can't rule out a dangerous…",
+      "link": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/metr_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-22T13:00:43+00:00"
+    },
+    {
+      "id": "e8029993afd719ae",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback…",
+      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-22T13:00:00+00:00"
+    },
+    {
+      "id": "bc4639a6ce272879",
+      "title": "Falhas em atualizações e brechas de segurança: o que está por trás dos apagões tecnológicos",
+      "summary": "Por que sistemas críticos do mundo inteiro falharam em dias? Entenda o papel da inteligência artificial, dos ataques hackers e das falhas em atualizações. O post Falhas em…",
+      "link": "https://olhardigital.com.br/2026/11/22/carros-e-tecnologia/falhas-em-atualizacoes-e-brechas-de-seguranca-o-que-esta-por-tras-dos-apagoes-tecnologicos/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-22T12:59:55+00:00"
+    },
+    {
+      "id": "3b1607456453c37a",
+      "title": "SportyNet passa a integrar a programação gratuita do Samsung TV Plus",
+      "summary": "A SportyNet passou a integrar o catálogo do Samsung TV Plus, serviço de streaming gratuito disponível nas Smart TVs da Samsung. A parceria permite que a emissora distribua sua…",
+      "link": "https://canaltech.com.br/entretenimento/sportynet-passa-a-integrar-a-programacao-gratuita-do-samsung-tv-plus/",
+      "image": null,
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-22T12:54:52+00:00"
+    },
+    {
+      "id": "4d6b78c33511a40d",
+      "title": "10 recursos do Gemini Intelligence para celulares Android",
+      "summary": "O Gemini Intelligence é uma plataforma de inteligência artificial do Google integrada aos dispositivos Android, que transforma o smartphone em um assistente agêntico que consegue…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/gemini-intelligence-recursos-para-celulares-android/",
+      "image": "https://tl.ctcdn.com.br/v_YmqAw8yrD3Xd8-vqXqHqWbDZQ=/0x0/filters:format(webp):quality(85)/db795608-5ac1-423e-8224-19559cb11ed2.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-22T12:30:03+00:00"
+    },
+    {
+      "id": "be2721eef93582e6",
+      "title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+      "summary": "Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain, finding at least three compromised providers, hundreds…",
+      "link": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/cybersecurity_data_leak.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-22T12:07:56+00:00"
+    },
+    {
+      "id": "90b5b151d6473634",
+      "title": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
+      "summary": "The Lean and Mathlib community has officially confirmed Levent Alpöge's proof of the Riemann hypothesis as correct. Dozens of independent verifiers checked the 17 million lines of…",
+      "link": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/05/ai_and_math.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-22T11:08:31+00:00"
+    },
+    {
+      "id": "8773da298d68a678",
+      "title": "CESAR School detalha os passos para integrar IA em todos os processos de ensino",
+      "summary": "A escola de inovação CESAR School, no Recife (PE), tem um projeto em andamento para se tornar uma “universidade nativa de IA”. O planejamento implica em reformular a grade…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/cesar-school-detalha-os-passos-para-integrar-ia-em-todos-os-processos-de-ensino/",
+      "image": "https://tl.ctcdn.com.br/lwKBm6xpacLmJNm-LQVwxSMFbh8=/0x0/filters:format(webp):quality(85)/bc304b6a-4ece-4110-a140-eb34b9d09c82.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-22T11:00:01+00:00"
+    },
+    {
+      "id": "fd57cd1bbb506cd3",
+      "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
+      "summary": "Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost. The post Best Personal AI Agents…",
+      "link": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-22T10:36:17+00:00"
+    },
+    {
+      "id": "79cfd32cd6688b72",
+      "title": "Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries",
+      "summary": "Google launched Gemini API Tool Retrieval in preview. Agents keep a large tool library on standby and load each parameter schema only when needed, inside one Interactions API…",
+      "link": "https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-22T10:03:54+00:00"
+    },
+    {
+      "id": "7f95ea087cae71a3",
+      "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+      "summary": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score…",
+      "link": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/OpenAI-Logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-22T09:41:37+00:00"
+    },
+    {
+      "id": "d30655175d160679",
+      "title": "Agentes de IA encontraram um sítio maia inédito? Não — veja como dados sem revisão geram ruído",
+      "summary": "Pesquisador usa agentes de IA para \"descobrir\" sítio maia no México, mas local já havia sido mapeado por cientistas. O post Agentes de IA encontraram um sítio maia inédito? Não —…",
+      "link": "https://olhardigital.com.br/2026/11/22/ciencia-e-espaco/agentes-de-ia-encontraram-um-sitio-maia-inedito-nao-veja-como-dados-sem-revisao-geram-ruido/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/Estudo-maia-1-1024x1024.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-22T09:30:00+00:00"
+    },
     {
       "id": "eaf0a1df2e81af46",
       "title": "A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels",
@@ -848,149 +991,6 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-11-19T21:46:22+00:00"
-    },
-    {
-      "id": "8028310220014671",
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on…",
-      "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-19T21:42:31+00:00"
-    },
-    {
-      "id": "b8d21229a19724f5",
-      "title": "Anthropic movimenta mercado em estreia na Nasdaq; veja como foi o primeiro dia",
-      "summary": "Criadora do Claude levantou R$ 431 bilhões em oferta pública inicial; papéis chegaram a subir 39% durante o pregão, mas perderam força até o fechamento O post Anthropic movimenta…",
-      "link": "https://olhardigital.com.br/2026/11/19/pro/anthropic-movimenta-mercado-em-estreia-na-nasdaq-veja-como-foi-o-primeiro-dia/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/dario_amodei-1024x682.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-19T21:39:06+00:00"
-    },
-    {
-      "id": "53ff20316539740d",
-      "title": "Assinantes do Google AI Ultra ganham upgrade grátis para o YouTube Premium Família",
-      "summary": "Assinatura mais cara dos serviços de IA do Google, o plano Google AI Ultra passou a incluir a versão familiar do YouTube Premium . O nível permite compartilhar os benefícios do YT…",
-      "link": "https://canaltech.com.br/apps/assinantes-do-google-ai-ultra-ganham-upgrade-gratis-para-o-youtube-premium-familia/",
-      "image": null,
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-19T21:15:04+00:00"
-    },
-    {
-      "id": "ede0a2c606d12c35",
-      "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
-      "summary": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the…",
-      "link": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/agent_mail_compromise.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-19T21:15:01+00:00"
-    },
-    {
-      "id": "b331a244d62b8fc8",
-      "title": "Meta’s Muse Charm might cost $300",
-      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg…",
-      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-19T20:22:17+00:00"
-    },
-    {
-      "id": "2f808e192e0664c8",
-      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-      "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-19T20:19:28+00:00"
-    },
-    {
-      "id": "1fbaae0c3ffb18e8",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI…",
-      "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-19T20:18:49+00:00"
-    },
-    {
-      "id": "c363e4ee1aa6f6ac",
-      "title": "Google is putting AI chats right on the homepage",
-      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view…",
-      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-19T20:05:06+00:00"
-    },
-    {
-      "id": "9fe621d9c8cd00ed",
-      "title": "Anthropic levanta US$ 81 bi no maior IPO da história e supera SpaceX",
-      "summary": "A Anthropic, empresa responsável pela inteligência artificial (IA) Claude, estreou na bolsa de valores dos Estados Unidos nesta quinta-feira (19) após levantar US$ 81,3 bilhões…",
-      "link": "https://canaltech.com.br/mercado/anthropic-levanta-us-81-bi-no-maior-ipo-da-historia-e-supera-spacex/",
-      "image": "https://tl.ctcdn.com.br/V_m3L7PCGu1dxxWPI7PkOEJWOA8=/0x0/filters:format(webp):quality(85)/4ef463f1-605c-4ee7-be94-35fafeebbf38.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-19T20:03:00+00:00"
-    },
-    {
-      "id": "ffa804e94acec46b",
-      "title": "AI industry growth remains strong, but the pace is slowing",
-      "summary": "Token prices for AI models fell 21 percent in six weeks while usage volume hit a record high, according to the Ramp AI Index. Anthropic dominates with nearly 59 percent of token…",
-      "link": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/",
-      "image": "https://the-decoder.com/wp-content/uploads/2024/02/Throwing-money-at-AI.jpg",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-19T19:28:19+00:00"
-    },
-    {
-      "id": "0027e4a1d292e516",
-      "title": "Anthropic’s IPO could deliver $156B to charity",
-      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-19T19:10:45+00:00"
-    },
-    {
-      "id": "534016fa5cae6870",
-      "title": "Gemini on Mac can now use your computer",
-      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says…",
-      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-19T18:21:13+00:00"
-    },
-    {
-      "id": "0ed15e9f49dbae1c",
-      "title": "Google lança Gemini 4 Neon, nova IA para tarefas complexas",
-      "summary": "Modelo substitui Gemini 4 Argon e está disponível para assinantes dos planos AI Pro e Ultra do Google. Google lança Gemini 4 Neon, nova IA para tarefas complexas",
-      "link": "https://tecnoblog.net/noticias/google-lanca-gemini-4-neon-nova-ia-para-tarefas-complexas/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/gemini-4-neon__blog-header__sm-width-1200-format-webp-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-19T18:14:37+00:00"
     }
   ]
 }
