@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-11-22T14:03:59.553513+00:00",
+  "generated_at": "2026-11-22T23:15:18.368634+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "7d27fffa3906bd9a",
+      "title": "We haven’t seen the last of the major tech outages",
+      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan…",
+      "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-22T22:48:02+00:00"
+    },
+    {
+      "id": "8a1f26920e7ef9d3",
+      "title": "Pesquisadores buscam fórmulas para evitar o apocalipse IA",
+      "summary": "Enquanto analistas veem baixo risco de extinção, pesquisadores de Berkeley alertam para chance de perda de controle da IA nos próximos anos O post Pesquisadores buscam fórmulas…",
+      "link": "https://olhardigital.com.br/2026/11/22/inteligencia-artificial/pesquisadores-buscam-formulas-para-evitar-o-apocalipse-ia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-IA-do-mal-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-22T21:52:08+00:00"
+    },
+    {
+      "id": "90468db0d5a9c8d3",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-22T21:14:07+00:00"
+    },
+    {
+      "id": "f8b98a59c47729cb",
+      "title": "Anthropic e SpaceX impuseram regras incomuns e irritaram bancos no IPO",
+      "summary": "Os casos da Anthropic e da SpaceX mostram como empresas de IA ganharam força para negociar condições incomuns com bancos de Wall Street O post Anthropic e SpaceX impuseram regras…",
+      "link": "https://olhardigital.com.br/2026/11/22/pro/anthropic-e-spacex-impuseram-regras-incomuns-e-irritaram-bancos-no-ipo/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/ipo-anthropic-1024x562.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-22T19:46:51+00:00"
+    },
+    {
+      "id": "0d85189d3eebe70e",
+      "title": "8 maneiras de usar os dots do ChatGPT",
+      "summary": "Os dots são agentes de inteligência artificial integrados ao ChatGPT que podem cuidar de tarefas e acompanhar projetos por conta própria. Eles trabalham em computadores na nuvem e…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-usar-dots-do-chatgpt/",
+      "image": "https://tl.ctcdn.com.br/-YVRJpZH-9ONx3TElnvLWTqW12k=/0x0/filters:format(webp):quality(85)/66f9ade0-c131-4b1c-ae75-9da98c94e4c2.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-22T19:30:00+00:00"
+    },
+    {
+      "id": "9804f4f24cde802b",
+      "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
+      "summary": "NVIDIA released Alpamayo 2 Edge, a 2B-class reasoning vision-language-action model that plans driving trajectories and explains them on DRIVE AGX Thor, at 160 to 190 ms…",
+      "link": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-22T18:37:57+00:00"
+    },
+    {
+      "id": "0e73c2851b104912",
+      "title": "Como os irmãos Amodei moldaram a cultura excêntrica da Anthropic",
+      "summary": "Sob o lema \"mantenha a Anthropic estranha\", os irmãos Dario e Daniela Amodei criaram rituais excêntricos e barram candidatos focados só em dinheiro O post Como os irmãos Amodei…",
+      "link": "https://olhardigital.com.br/2026/11/22/pro/como-os-irmaos-amodei-moldaram-a-cultura-excentrica-da-anthropic/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/daniela_amodei.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-22T18:10:16+00:00"
+    },
+    {
+      "id": "28c764e2cf8a36ef",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music…",
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-22T17:25:20+00:00"
+    },
+    {
+      "id": "6a8741f3136489c0",
+      "title": "O ajudante de Alice Huang: homem é acusado de contrabandear chips da Nvidia para a China",
+      "summary": "Li Ming atuou nos bastidores de uma rede ligada à ex-companheira de Jensen Huang, revelando um esquema mais amplo para driblar sanções dos EUA. O post O ajudante de Alice Huang…",
+      "link": "https://olhardigital.com.br/2026/11/22/pro/o-ajudante-de-alice-huang-homem-e-acusado-de-contrabandear-chips-da-nvidia-para-a-china/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/social-1024x512.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-22T17:12:04+00:00"
+    },
+    {
+      "id": "70eecc407642e6be",
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-22T17:06:00+00:00"
+    },
+    {
+      "id": "24945882501cb72a",
+      "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+      "summary": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on…",
+      "link": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/cowork-benchmark-chatgpt-5-6.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-22T15:15:48+00:00"
+    },
+    {
+      "id": "e7b883768e2e6dc2",
+      "title": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+      "summary": "Perplexity is launching a Monitor API that searches the web on a schedule and alerts agents via webhook only when relevant changes occur. Its own decision model filters out…",
+      "link": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/Perplexity-Logo-Silhouette-Nano-Banana-Pro.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-22T14:20:28+00:00"
+    },
     {
       "id": "b723778c463116e2",
       "title": "Surge um novo canal comercial, operado de ponta a ponta por IA",
@@ -155,6 +287,17 @@
       "region": "mundo",
       "category": "Pesquisa",
       "published_at": "2026-11-22T01:51:43+00:00"
+    },
+    {
+      "id": "1a10f1676d46fc01",
+      "title": "Perplexity and Intelligence",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "image": null,
+      "source": "OpenAI",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-22T00:00:00+00:00"
     },
     {
       "id": "7289e21f33e265e9",
@@ -848,149 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-11-20T06:44:12+00:00"
-    },
-    {
-      "id": "8288c457eabd2464",
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-20T00:56:01+00:00"
-    },
-    {
-      "id": "327354b7a28e2854",
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-20T00:43:50+00:00"
-    },
-    {
-      "id": "126a1d2c7faef337",
-      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-      "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company…",
-      "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-20T00:26:03+00:00"
-    },
-    {
-      "id": "8145fefb47ff1ca9",
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "link": "https://openai.com/business/customer-stories/hebbia",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-20T00:00:00+00:00"
-    },
-    {
-      "id": "c1a2af93db54bfcf",
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-      "link": "https://openai.com/index/introducing-medchembench",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-20T00:00:00+00:00"
-    },
-    {
-      "id": "824c03b970f1dc58",
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "summary": "",
-      "link": "https://huggingface.co/blog/inkling2mini",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-20T00:00:00+00:00"
-    },
-    {
-      "id": "701a571706ec6c00",
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "summary": "",
-      "link": "https://huggingface.co/blog/harness-adapters-at-scale",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-20T00:00:00+00:00"
-    },
-    {
-      "id": "255531d94837d227",
-      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-      "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
-      "link": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-19T22:33:26+00:00"
-    },
-    {
-      "id": "f8133dc16aac0ad5",
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's…",
-      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-19T22:31:41+00:00"
-    },
-    {
-      "id": "278a29785c5f3397",
-      "title": "Alibaba triplica lucro no trimestre com avanço da IA",
-      "summary": "Resultado do segundo trimestre fiscal chegou a 64,5 bilhões de yuans, acima das projeções de analistas do mercado O post Alibaba triplica lucro no trimestre com avanço da IA…",
-      "link": "https://olhardigital.com.br/2026/11/19/pro/alibaba-triplica-lucro-no-trimestre-com-avanco-da-ia/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-19T22:03:25+00:00"
-    },
-    {
-      "id": "a16a060150c59a52",
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-19T21:59:35+00:00"
-    },
-    {
-      "id": "094a4dd2aa9bf45f",
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-19T21:58:06+00:00"
-    },
-    {
-      "id": "5b45618f88e15d06",
-      "title": "Meta FAIR Self-Improving Memory Hits 56.0 on Continual Learning Bench",
-      "summary": "Meta FAIR’s Self-Improving Memory lets Kimi-K2.6 write its own LOAD and OFFLOAD memory prompts, then distills them into its weights. Optimized prompts score 56.0 versus 44.6 for…",
-      "link": "https://www.marktechpost.com/2026/11/19/meta-fair-self-improving-memory-harness-distillation/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-19T21:46:22+00:00"
     }
   ]
 }
