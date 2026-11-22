@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-21T22:46:32.796496+00:00",
+  "generated_at": "2026-11-22T05:09:39.002746+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "eaf0a1df2e81af46",
+      "title": "A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels",
+      "summary": "TensorLean, from Columbia University and CertiK, formally verifies production GPU kernels at the PTX level using Lean. It checked 149 kernel instances, proved 83 correct, and…",
+      "link": "https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-22T01:51:43+00:00"
+    },
     {
       "id": "7289e21f33e265e9",
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -980,17 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-11-19T18:14:37+00:00"
-    },
-    {
-      "id": "0172b2ecfe9fef30",
-      "title": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
-      "summary": "We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each…",
-      "link": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-19T18:13:21+00:00"
     }
   ]
 }
