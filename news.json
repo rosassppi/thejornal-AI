@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-22T23:15:18.368634+00:00",
+  "generated_at": "2026-11-23T05:50:47.569170+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "04e5e033b7998e4f",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-23T01:25:53+00:00"
+    },
     {
       "id": "7d27fffa3906bd9a",
       "title": "We haven’t seen the last of the major tech outages",
@@ -980,17 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-11-20T06:48:08+00:00"
-    },
-    {
-      "id": "222096eb1154d43d",
-      "title": "Nadella: sistemas essenciais têm falhas que não podem ser corrigidas",
-      "summary": "Satya Nadella cita equipamentos de refrigeração, ar-condicionado e transporte conectados à internet; IA também acelera a descoberta de vulnerabilidades. Nadella: sistemas…",
-      "link": "https://tecnoblog.net/noticias/nadella-diz-que-sistemas-essenciais-tem-falhas-que-nao-podem-ser-corrigidas/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/01/satya-nadella-ceo-edited-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-20T06:44:12+00:00"
     }
   ]
 }
