@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-11-26T01:34:49.122918+00:00",
+  "generated_at": "2026-11-26T16:25:17.282688+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "b81da0547893b262",
+      "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-26T16:00:00+00:00"
+    },
+    {
+      "id": "2e677e16fcdf891d",
+      "title": "“Óculos de pervertido” se torna a palavra do ano",
+      "summary": "Macquarie Dictionary, da Austrália, escolheu expressão crítica aos óculos inteligentes. “Óculos de pervertido” se torna a palavra do ano",
+      "link": "https://tecnoblog.net/noticias/oculos-de-pervertido-se-torna-a-palavra-do-ano/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/m6ua1qq5290.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-26T15:46:35+00:00"
+    },
+    {
+      "id": "16676cf068304ef6",
+      "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+      "summary": "Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are looking for new sources of training data. The article After OpenAI and Anthropic shut…",
+      "link": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/us_china.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-26T15:45:08+00:00"
+    },
+    {
+      "id": "438648677ae8542a",
+      "title": "OpenAI corrige erro no GPT-6.2 e muda limites de uso dos planos",
+      "summary": "Entenda como a correção afeta planos Go, Plus, Pro e Business, o impacto no Codex e por que não há cobrança retroativa do uso O post OpenAI corrige erro no GPT-6.2 e muda limites…",
+      "link": "https://olhardigital.com.br/2026/11/26/inteligencia-artificial/openai-corrige-erro-no-gpt-6-2-e-muda-limites-de-uso-dos-planos/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/Destaque-Pessoa-acessando-o-ChatGPT-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-26T15:27:54+00:00"
+    },
+    {
+      "id": "eb225cfdbbf5c324",
+      "title": "Da resposta à antecipação: como a IA está redefinindo o atendimento ao cliente",
+      "summary": "Os clientes esperam respostas mais rápidas, interações consistentes e uma jornada sem interrupções O post Da resposta à antecipação: como a IA está redefinindo o atendimento ao…",
+      "link": "https://olhardigital.com.br/2026/11/26/colunistas/da-resposta-a-antecipacao-como-a-ia-esta-redefinindo-o-atendimento-ao-cliente/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/b3-bolsa-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-26T14:33:15+00:00"
+    },
+    {
+      "id": "99dfc020c4ccadad",
+      "title": "Nothing prepara fones de ouvido com IA que transcrevem ligações e reuniões",
+      "summary": "Nothing prepara fones de ouvido com IA que transcrevem ligações e reuniões A Nothing está preparando um novo tipo de fone de ouvido que vai além da reprodução de músicas e do…",
+      "link": "https://canaltech.com.br/fone-de-ouvido/nothing-prepara-fones-de-ouvido-com-ia-que-transcrevem-ligacoes-e-reunioes/",
+      "image": "https://tl.ctcdn.com.br/WV05yQyWYG6wn2vUstYZbWO_ccU=/400x225/smart/filters:format(webp):quality(85)/b809f3ed-f7b7-4687-9f11-ec136b572606.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-26T14:27:42+00:00"
+    },
+    {
+      "id": "7491859a826dd564",
+      "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
+      "summary": "The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers. SpaceX is targeting its first launches in 2027, and the…",
+      "link": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/SpaceX-xAI-Satellite-scaled.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-26T13:41:07+00:00"
+    },
+    {
+      "id": "23f313b37cf006aa",
+      "title": "IA recria voz de comentarista morto em 2023",
+      "summary": "Novidade faz parte do EA Sports FC 27. EA teve autorização da família de John Motson. IA recria voz de comentarista morto em 2023",
+      "link": "https://tecnoblog.net/noticias/ia-vai-recriar-voz-de-comentarista-morto-em-2023/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/aml54-kqphe.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-26T12:34:17+00:00"
+    },
+    {
+      "id": "a734da9d3a1d8760",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "summary": "",
+      "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-26T11:37:17+00:00"
+    },
+    {
+      "id": "3a5389f14d804335",
+      "title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
+      "summary": "Microsoft has published the technical architecture of ARTEX, an AI framework in wide use since July 2026 that runs cyberattacks with specialized agents and almost no human…",
+      "link": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/microsoft_human_touch.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-26T11:30:06+00:00"
+    },
+    {
+      "id": "9107c78c006910f4",
+      "title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
+      "summary": "Nvidia has told partners such as Dell and Supermicro to stop shipping servers to Malaysia, Singapore, Thailand, and Indonesia. Following new US export controls targeting Chinese…",
+      "link": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_logo_glitch.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-26T11:21:16+00:00"
+    },
+    {
+      "id": "3b8391b2a1173df6",
+      "title": "Amazon avalia impacto do Muse na publicidade antes de liberar agente",
+      "summary": "Amazon negocia fim do bloqueio ao agente de IA da Meta, mas teme impacto na renda com anúncios. Amazon avalia impacto do Muse na publicidade antes de liberar agente",
+      "link": "https://tecnoblog.net/noticias/amazon-avalia-impacto-do-muse-na-publicidade-antes-de-liberar-agente/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/09/amazon-ia-meta-muse-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-26T11:06:07+00:00"
+    },
+    {
+      "id": "e51b021662e92d60",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly…",
+      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-26T09:54:40+00:00"
+    },
+    {
+      "id": "3d2697b636d74b83",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "summary": "",
+      "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-26T05:05:36+00:00"
+    },
     {
       "id": "165f5ab8ee67cb93",
       "title": "Trump admite perdoar CEO da Nvidia e pede que ele não fique em silêncio no Congresso",
@@ -12,6 +166,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-11-26T00:22:54+00:00"
+    },
+    {
+      "id": "819f2bb8e324e5e7",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "summary": "",
+      "link": "https://huggingface.co/blog/training-swarms",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-26T00:00:00+00:00"
     },
     {
       "id": "c404c125b7a56870",
@@ -826,171 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-11-24T16:02:37+00:00"
-    },
-    {
-      "id": "0d108e7b71c40649",
-      "title": "How Gemini is changing the game for Golden State's organization and fans.",
-      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
-      "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-24T16:00:00+00:00"
-    },
-    {
-      "id": "352ca41f41cfcf5a",
-      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
-      "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
-      "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-24T15:51:07+00:00"
-    },
-    {
-      "id": "89335320727d8b60",
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network…",
-      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTR-Tata-report-cover.jpg?w=840",
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-24T15:15:16+00:00"
-    },
-    {
-      "id": "1881b895e965b033",
-      "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
-      "summary": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2297759490-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-24T14:56:50+00:00"
-    },
-    {
-      "id": "0249031d518600a0",
-      "title": "LibreOffice endurece regras para código gerado por IA no projeto",
-      "summary": "Uma das regras da The Document Foundation determina que o desenvolvedor seja capaz de explicar todo o código gerado com inteligência artificial. LibreOffice endurece regras para…",
-      "link": "https://tecnoblog.net/noticias/libreoffice-endurece-regras-para-codigo-gerado-por-ia-no-projeto/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/10/libreoffice-writer-340x191.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-24T14:55:49+00:00"
-    },
-    {
-      "id": "1f9c11709a9407f8",
-      "title": "VP do Google: pessoas não querem apenas IA na busca",
-      "summary": "Elizabeth Reid, chefe da Busca do Google, afirma que usuários ainda querem conteúdo produzido por pessoas. VP do Google: pessoas não querem apenas IA na busca",
-      "link": "https://tecnoblog.net/noticias/vp-do-google-pessoas-nao-querem-apenas-ia-na-busca/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-novos-icones-google-2026-11-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-24T14:31:46+00:00"
-    },
-    {
-      "id": "f0237257b05aeca3",
-      "title": "Ações da Anthropic caem abaixo do preço de estreia na Nasdaq",
-      "summary": "A pressão sobre a Anthropic reúne juros altos, concorrência de modelos abertos e vendas de ações; entrada em índices pode atrair fundos O post Ações da Anthropic caem abaixo do…",
-      "link": "https://olhardigital.com.br/2026/11/24/pro/acoes-da-anthropic-caem-abaixo-do-preco-de-estreia-na-nasdaq/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/ipo-anthropic-1024x562.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-24T14:30:40+00:00"
-    },
-    {
-      "id": "5436dffcc16632da",
-      "title": "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
-      "summary": "Anthropic researcher Levent Alpöge is walking back parts of his announcement of an AI-assisted proof of the generalized Riemann hypothesis. The claim that it ran to more than…",
-      "link": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/alpoege_riemann.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-24T14:28:41+00:00"
-    },
-    {
-      "id": "db8770739ad307b3",
-      "title": "OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime",
-      "summary": "OpenAI and Cisco released Shirudo, a pre-release, BSD-licensed eBPF runtime for Linux. AI agents write signed \"shields\" that block exploit paths on running systems while teams…",
-      "link": "https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-24T14:16:53+00:00"
-    },
-    {
-      "id": "2e415468b73b5695",
-      "title": "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures",
-      "summary": "According to an Axios report, many employees at OpenAI and Anthropic believe the companies' own unreleased frontier models can no longer be safely controlled. Both companies are…",
-      "link": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_anthropic.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-24T14:02:31+00:00"
-    },
-    {
-      "id": "13e106216370eb8c",
-      "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
-      "summary": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal.",
-      "link": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-24T13:29:53+00:00"
-    },
-    {
-      "id": "ac2f786b30f6d457",
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
-      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-24T13:00:00+00:00"
-    },
-    {
-      "id": "3eac918911c17578",
-      "title": "German researchers call for computer science to reinvent itself as \"Computer and AI Science\"",
-      "summary": "In a position paper, TU Darmstadt researchers call for redefining computer science as \"Computer and AI Science.\" Their biggest concern is code generated on the fly at runtime…",
-      "link": "https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/darmstadt_ai_computer_science.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-24T12:30:49+00:00"
-    },
-    {
-      "id": "e97dd56116f464d7",
-      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
-      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-24T12:30:05+00:00"
-    },
-    {
-      "id": "6ac4be69a65a7187",
-      "title": "Como configurar o Gemini para monitorar as ofertas de Black Friday para você?",
-      "summary": "Como configurar o Gemini para monitorar as ofertas de Black Friday para você? Acompanhar os preços de vários produtos durante a Black Friday pode dar trabalho, principalmente…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/como-configurar-o-gemini-para-monitorar-as-ofertas-de-black-friday-para-voce/",
-      "image": "https://tl.ctcdn.com.br/g1Jb_OCbhtxhxu3fau92JVOOqU0=/400x225/smart/filters:format(webp):quality(85)/6bba9e9a-f585-4882-b307-d55c531532c8.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-24T12:30:05+00:00"
     }
   ]
 }
