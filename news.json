@@ -1,7 +1,216 @@
 {
-  "generated_at": "2026-11-25T16:48:56.097935+00:00",
+  "generated_at": "2026-11-26T01:34:49.122918+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "165f5ab8ee67cb93",
+      "title": "Trump admite perdoar CEO da Nvidia e pede que ele não fique em silêncio no Congresso",
+      "summary": "Presidente disse acreditar que o executivo não precisará invocar o direito de permanecer em silêncio para evitar produzir provas contra si mesmo O post Trump admite perdoar CEO da…",
+      "link": "https://olhardigital.com.br/2026/11/25/pro/trump-admite-perdoar-ceo-da-nvidia-e-pede-que-ele-nao-fique-em-silencio-no-congresso/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/05/Destaque-Donald-Trump-e-Jensen-Huang-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-26T00:22:54+00:00"
+    },
+    {
+      "id": "c404c125b7a56870",
+      "title": "Competição oferece mais de R$ 2 milhões em benefícios para desenvolvedores brasileiros",
+      "summary": "Hack Brasil reúne empresas como Google, Cognition, Resend e Firecrawl em iniciativa voltada à criação de projetos de inteligência artificial e à conexão com o mercado…",
+      "link": "https://olhardigital.com.br/2026/11/25/dicas-e-tutoriais/competicao-oferece-mais-de-r-2-milhoes-em-beneficios-para-desenvolvedores-brasileiros/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2025/08/shutterstock_2643955845-1024x683.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-25T23:26:16+00:00"
+    },
+    {
+      "id": "d7b28b808e94d828",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-25T22:44:32+00:00"
+    },
+    {
+      "id": "c91a30b4e6522b01",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on…",
+      "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&#038;strip=all&#038;crop=2.859375,3.7218027238494,93.788122558594,91.658221639303",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-25T21:51:26+00:00"
+    },
+    {
+      "id": "cecacbdc275020c7",
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory…",
+      "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-25T20:56:44+00:00"
+    },
+    {
+      "id": "da4db6e701876af1",
+      "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
+      "summary": "Chip restrictions, anti-distillation measures, and shrinking access to Nvidia hardware abroad are putting growing pressure on Deepseek, Moonshot AI, and Alibaba, according to a…",
+      "link": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/us_china.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-25T20:51:02+00:00"
+    },
+    {
+      "id": "80d09f5a93b0310e",
+      "title": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
+      "summary": "Anthropic CEO Dario Amodei is pushing back on an Axios report saying some employees believe humanity will hand power to superintelligent systems. Amodei says \"turning over…",
+      "link": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/anthropic_amodei.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-25T20:15:50+00:00"
+    },
+    {
+      "id": "b201120566bdb08d",
+      "title": "Bancos dos EUA criam “botão de emergência” contra agentes de IA",
+      "summary": "Instituições revisam acessos e mecanismos de desligamento após incidentes com modelos da OpenAI. Bancos dos EUA criam “botão de emergência” contra agentes de IA",
+      "link": "https://tecnoblog.net/noticias/bancos-dos-eua-implementam-botao-de-emergencia-contra-agentes-de-ia/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2021/12/tipos-de-inteligencia-artificial-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-25T20:08:56+00:00"
+    },
+    {
+      "id": "fb19c642f1b75584",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-25T20:03:27+00:00"
+    },
+    {
+      "id": "74d99a307b5dcf28",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-25T19:54:57+00:00"
+    },
+    {
+      "id": "b4fddd7d3c17c325",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own…",
+      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-25T19:44:24+00:00"
+    },
+    {
+      "id": "0189e54d36387a29",
+      "title": "Novo Gemini no Google Mensagens avisa sobre entregas e promoções que te interessam",
+      "summary": "Novo Gemini no Google Mensagens avisa sobre entregas e promoções que te interessam O Google Mensagens ganhou uma integração com o Gemini Tasks , agente de IA capaz de executar…",
+      "link": "https://canaltech.com.br/apps/novo-gemini-no-google-mensagens-avisa-sobre-entregas-e-promocoes-que-te-interessam/",
+      "image": "https://tl.ctcdn.com.br/tjU0_ODat0BViSo-9ZYrKxSjH0k=/400x225/smart/filters:format(webp):quality(85)/40ce9fe8-51aa-467c-804a-02e311b1ccd0.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-25T19:01:00+00:00"
+    },
+    {
+      "id": "88bd06d7e0e9b82f",
+      "title": "Where scientists draw the line on AI agents",
+      "summary": "",
+      "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-25T18:52:55+00:00"
+    },
+    {
+      "id": "085ceb0b7225da71",
+      "title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
+      "summary": "OpenAI is testing a new feature called \"Private Inference\" that lets companies run queries on its most powerful models without OpenAI being able to access the data. The article…",
+      "link": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-25T18:22:02+00:00"
+    },
+    {
+      "id": "096677909290e0ae",
+      "title": "One UI 9.5 vai ganhar recurso de IA que melhora fotos com zoom no celular",
+      "summary": "One UI 9.5 vai ganhar recurso de IA que melhora fotos com zoom no celular A Samsung está desenvolvendo uma ferramenta de inteligência artificial (IA) capaz de melhorar a qualidade…",
+      "link": "https://canaltech.com.br/software/one-ui-95-vai-ganhar-recurso-de-ia-que-melhora-fotos-com-zoom-no-celular/",
+      "image": "https://tl.ctcdn.com.br/5BEgxgCq4XVnQpd6oF8ysh2NIaE=/400x225/smart/filters:format(webp):quality(85)/1f9fa76d-6cab-43ef-a9cb-9242363bc6fc.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-25T18:20:03+00:00"
+    },
+    {
+      "id": "8b23f29d590b586f",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks…",
+      "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-25T18:11:46+00:00"
+    },
+    {
+      "id": "6b3de953d180efe1",
+      "title": "IA cria arquitetura de CPU quase 4,6 vezes mais eficiente",
+      "summary": "Projeto Frostbite, da startup Architect Labs, superou um núcleo convencional em simulações de 25 programas. Desempenho precisa ser confirmado em hardware real. IA cria arquitetura…",
+      "link": "https://tecnoblog.net/noticias/ia-cria-arquitetura-de-cpu-quase-46-vezes-mais-eficiente/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/cpu-ia-340x191.webp",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-25T17:49:42+00:00"
+    },
+    {
+      "id": "17929128d139e3d0",
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\"…",
+      "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-25T17:44:51+00:00"
+    },
+    {
+      "id": "5b2e3451b1a570f5",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-25T17:35:58+00:00"
+    },
     {
       "id": "361ff3dcd8aee7d0",
       "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
@@ -135,17 +344,6 @@
       "published_at": "2026-11-25T13:01:00+00:00"
     },
     {
-      "id": "5f2a9faee9c0f0d0",
-      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-      "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
-      "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-25T13:00:00+00:00"
-    },
-    {
       "id": "d7f8df890f989b59",
       "title": "Has vibe coding made open source the new normal for synths?",
       "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to…",
@@ -154,6 +352,17 @@
       "source": "The Verge",
       "region": "mundo",
       "category": "Mundo",
+      "published_at": "2026-11-25T13:00:00+00:00"
+    },
+    {
+      "id": "5f2a9faee9c0f0d0",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+      "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
       "published_at": "2026-11-25T13:00:00+00:00"
     },
     {
@@ -232,6 +441,17 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-11-25T00:12:02+00:00"
+    },
+    {
+      "id": "df3be113c8aed13f",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "summary": "",
+      "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-25T00:00:00+00:00"
     },
     {
       "id": "23a0af1682e773e5",
@@ -771,226 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-11-24T12:30:05+00:00"
-    },
-    {
-      "id": "b52f9dfeca310530",
-      "title": "Adobe e Google ampliam parceria e levam Photoshop e Acrobat ao Gemini e Drive",
-      "summary": "Adobe e Google ampliam parceria e levam Photoshop e Acrobat ao Gemini e Drive A Adobe e o Google anunciaram, durante o evento Adobe MAX, em 10 de novembro, uma ampliação da…",
-      "link": "https://canaltech.com.br/apps/adobe-e-google-ampliam-parceria-e-levam-photoshop-e-acrobat-ao-gemini-e-drive/",
-      "image": "https://tl.ctcdn.com.br/AEcH72R3sZzFhxyBZ0RsFwcFhNo=/400x225/smart/filters:format(webp):quality(85)/83448941-ae78-422d-a02f-8eab841b58b9.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-24T12:00:11+00:00"
-    },
-    {
-      "id": "b8082c29400d83f6",
-      "title": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own",
-      "summary": "Anthropic has introduced Claude Ship, a new tool currently in beta that automatically reviews, corrects, and approves suggestions for code changes in accordance with team…",
-      "link": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/Claude-Ship.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-24T11:26:23+00:00"
-    },
-    {
-      "id": "7758c04a629331bf",
-      "title": "Searching for distant planets with Astra",
-      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
-      "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-24T11:00:00+00:00"
-    },
-    {
-      "id": "f8c470ec4904f19e",
-      "title": "Reviravolta na Nvidia: por que Jensen Huang é tão necessário?",
-      "summary": "Wharrysson Lacerda analisa o retorno de Jensen Huang à Nvidia, a reação do mercado e o alívio para empresas como a OpenAI. O post Reviravolta na Nvidia: por que Jensen Huang é tão…",
-      "link": "https://olhardigital.com.br/2026/11/23/colunistas/reviravolta-na-nvidia-por-que-jensen-huang-e-tao-necessario/",
-      "image": null,
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-24T01:53:54+00:00"
-    },
-    {
-      "id": "c9742ffa001d9212",
-      "title": "Anthropic lança IA que revisa, corrige e aprova alterações em códigos",
-      "summary": "Claude Ship utiliza agentes de IA para revisar, corrigir e aprovar alterações em códigos de programação O post Anthropic lança IA que revisa, corrige e aprova alterações em…",
-      "link": "https://olhardigital.com.br/2026/11/23/inteligencia-artificial/anthropic-lanca-ia-que-revisa-corrige-e-aprova-alteracoes-em-codigos/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/claude-anthropic-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-24T00:21:32+00:00"
-    },
-    {
-      "id": "afc6175bc806b1cd",
-      "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
-      "summary": "Anthropic's Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the other 2 agents are in public…",
-      "link": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-24T00:02:39+00:00"
-    },
-    {
-      "id": "7e14b56be6744308",
-      "title": "How Intentful uses dots to make more time for growth",
-      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
-      "link": "https://openai.com/business/customer-stories/intentful-dots",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-24T00:00:00+00:00"
-    },
-    {
-      "id": "89a905d5eae9fa3e",
-      "title": "How iFood scales coding agents across 15,000 repositories",
-      "summary": "",
-      "link": "https://openai.com/business/customer-stories/ifood",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-24T00:00:00+00:00"
-    },
-    {
-      "id": "a3c9028eefd69cfd",
-      "title": "Clay helps sales teams win with Codex and ChatGPT",
-      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
-      "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-24T00:00:00+00:00"
-    },
-    {
-      "id": "bfd437019564cde6",
-      "title": "Volta de Jensen Huang à Nvidia acrescenta R$ 219 bilhões à sua fortuna",
-      "summary": "A fortuna de Jensen Huang, CEO da Nvidia, aumentou US$ 36,6 bilhões (cerca de R$ 219 bilhões) após o anúncio de seu retorno ao comando da fabricante de chips. Com a valorização, o…",
-      "link": "https://olhardigital.com.br/2026/11/23/pro/volta-de-jensen-huang-a-nvidia-acrescentar-219-bilhoes-a-sua-fortuna/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/nvidia-6-1024x576.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-23T23:39:20+00:00"
-    },
-    {
-      "id": "93d04f746deaf02f",
-      "title": "EUA colocam empresa ligada a escândalo da Nvidia em lista comercial restrita",
-      "summary": "Decisão ocorre em meio à investigação sobre o suposto envio ilegal de semicondutores da Nvidia para a China O post EUA colocam empresa ligada a escândalo da Nvidia em lista…",
-      "link": "https://olhardigital.com.br/2026/11/23/pro/eua-colocam-empresa-ligada-a-escandalo-da-nvidia-em-lista-comercial-restrita/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/Captura-de-Tela-2026-11-09-as-18.15.12-1-1024x795.png",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-23T22:44:40+00:00"
-    },
-    {
-      "id": "fa9136539de5ecb7",
-      "title": "Trump engineered a risky comeback for Jensen Huang",
-      "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-23T22:25:12+00:00"
-    },
-    {
-      "id": "38ea5b66d2595223",
-      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-23T22:10:32+00:00"
-    },
-    {
-      "id": "4ce697c6dbd75e8a",
-      "title": "Welcome to elite impunity, Jensen Huang",
-      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-23T22:09:26+00:00"
-    },
-    {
-      "id": "a72cc3aa1f3d17c0",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-23T22:05:50+00:00"
-    },
-    {
-      "id": "eea6d4f773cb5b5a",
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-23T22:02:05+00:00"
-    },
-    {
-      "id": "d4f79d2af1d5e9d7",
-      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-      "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-23T21:47:41+00:00"
-    },
-    {
-      "id": "f323d7562d6653aa",
-      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-      "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-23T21:30:44+00:00"
-    },
-    {
-      "id": "b0689cf87ab570a4",
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-      "link": "https://openai.com/index/introducing-shirudo",
-      "image": null,
-      "source": "OpenAI",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-23T21:20:00+00:00"
-    },
-    {
-      "id": "b6aa410db677fb56",
-      "title": "AI data centers throw another wrench into chaotic UN climate talks",
-      "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had…",
-      "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306098413.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-23T21:09:37+00:00"
     }
   ]
 }
