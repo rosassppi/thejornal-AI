@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-11-27T01:29:40.992222+00:00",
+  "generated_at": "2026-11-27T16:10:07.036658+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "13e475f4eea109eb",
+      "title": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
+      "summary": "Hackers breached the US Air Force's flagship cloud platform. The article Hackers breached the US Air Force's flagship Cloud One platform, report says appeared first on The Decoder…",
+      "link": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/XQ-58-Testflight-scaled.jpg",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-27T16:06:43+00:00"
+    },
+    {
+      "id": "e30506be0d329087",
+      "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+      "summary": "Customers say OpenAI's data agent in ChatGPT Work still isn't accurate enough. Under the codename \"Athena,\" the company is building a semantic layer that gives agents standardized…",
+      "link": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo-1.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-27T16:05:23+00:00"
+    },
+    {
+      "id": "b729e4866e3d15f2",
+      "title": "Ubisoft nega obrigar desenvolvedores a usar IA generativa, mas relatos apontam pressão interna",
+      "summary": "Segundo informações de bastidores, empresa estaria gastando US$ 1,2 milhão por mês com inteligência artificial generativa e ampliando o uso da tecnologia na produção de jogos O…",
+      "link": "https://olhardigital.com.br/2026/11/27/games-e-consoles/ubisoft-ia-generativa-desenvolvedores-pressao-interna/",
+      "image": "https://img.odcdn.com.br/wp-content/uploads/2026/11/Ubisoft-Ubisoft-2-1024x576.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-27T16:00:00+00:00"
+    },
+    {
+      "id": "03379cbf8bf236a8",
+      "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+      "summary": "More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launch. AI coding agents…",
+      "link": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/Rockstar-logo-reihe.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-27T15:37:47+00:00"
+    },
+    {
+      "id": "8fdf392d9b15f785",
+      "title": "ChatGPT quer tomar vaga do Gemini no Android fazendo ligações e lendo a tela",
+      "summary": "ChatGPT quer tomar vaga do Gemini no Android fazendo ligações e lendo a tela A OpenAI trabalha em uma série de recursos que permitirão ao ChatGPT realizar ligações, enviar…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-quer-tomar-vaga-do-gemini-no-android-fazendo-ligacoes-e-lendo-a-tela/",
+      "image": "https://tl.ctcdn.com.br/hEUYfyZf_iGi0KH_49nmjARxk00=/400x225/smart/filters:format(webp):quality(85)/eff842d1-2d07-43d0-ad5f-2cc5ef98c683.jpeg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-27T15:02:00+00:00"
+    },
+    {
+      "id": "9b6c7f470d576f00",
+      "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
+      "summary": "SAP is preparing to eliminate at least 10,000 positions as part of a sweeping AI restructuring, Bloomberg reports, citing people familiar with the matter. The article SAP plans to…",
+      "link": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/05/SAP-Logo-Silouette.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-27T14:57:25+00:00"
+    },
+    {
+      "id": "1d140bb3b26b0663",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for…",
+      "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04405_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-27T14:00:00+00:00"
+    },
+    {
+      "id": "1cc28ae27bf59c30",
+      "title": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in",
+      "summary": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in The post nexos.ai AI Adoption Platform puts 200+ models behind one…",
+      "link": "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-27T03:43:35+00:00"
+    },
+    {
+      "id": "21d840f0a67c0379",
+      "title": "Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache",
+      "summary": "Tencent open-sourced DFly2, a speculative decoding drafter for sparse-attention LLMs. Each draft layer reuses the target's KV cache and top-k indexer picks, adding no draft KV…",
+      "link": "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-27T03:31:30+00:00"
+    },
     {
       "id": "ded36aa490e73d0c",
       "title": "Cidade no Paraná quer usar IA em tudo — e terá apoio da Nvidia",
@@ -12,6 +111,17 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-11-27T01:09:24+00:00"
+    },
+    {
+      "id": "c2bd7953104652e4",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "summary": "",
+      "link": "https://huggingface.co/blog/video-trainium3",
+      "image": null,
+      "source": "Hugging Face",
+      "region": "mundo",
+      "category": "Modelos",
+      "published_at": "2026-11-27T00:00:00+00:00"
     },
     {
       "id": "432c93397c25ec5b",
@@ -881,116 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-11-24T20:02:03+00:00"
-    },
-    {
-      "id": "48ada9f24930739e",
-      "title": "Chrome “bebe” até 700 MB de RAM mesmo quando Gemini está fechado",
-      "summary": "Usuário relatou consumo de RAM no Windows; configuração controla o acesso ao assistente pela bandeja do sistema e por atalho. Chrome “bebe” até 700 MB de RAM mesmo quando Gemini…",
-      "link": "https://tecnoblog.net/noticias/chrome-bebe-ate-700-mb-de-ram-mesmo-quando-gemini-esta-fechado/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/06/capas-google-gemini-2026-4-340x191.png",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-24T19:45:35+00:00"
-    },
-    {
-      "id": "133d47ff10efab42",
-      "title": "Gemini está com 50% de desconto na Black Friday; veja como aproveitar",
-      "summary": "Gemini está com 50% de desconto na Black Friday; veja como aproveitar O Google antecipou suas ofertas de Black Friday e está oferecendo descontos de até 50% nas assinaturas do…",
-      "link": "https://canaltech.com.br/mercado/gemini-esta-com-50-de-desconto-na-black-friday-veja-como-aproveitar/",
-      "image": "https://tl.ctcdn.com.br/Ku6v_XmBYulVl74sXF00e49Vt7A=/400x225/smart/filters:format(webp):quality(85)/b92fa583-0522-43cb-909b-96b77ee2ee8c.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-24T19:30:03+00:00"
-    },
-    {
-      "id": "f8b1d4edd913d164",
-      "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
-      "summary": "Two years after launch, Anthropic reports more than 700 million monthly downloads for its MCP interface standard. New features such as background tasks, follow-up questions for…",
-      "link": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_claude_logo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-24T19:23:41+00:00"
-    },
-    {
-      "id": "f90c4ea4fce26017",
-      "title": "Modo IA do Google vai consultar seus arquivos e até dados da Carteira",
-      "summary": "Modo IA do Google vai consultar seus arquivos e até dados da Carteira O Google anunciou nesta segunda-feira (23) que o Modo IA da Pesquisa poderá acessar informações do Google…",
-      "link": "https://canaltech.com.br/internet-e-redes-sociais/modo-ia-do-google-vai-consultar-seus-arquivos-e-ate-dados-da-carteira/",
-      "image": "https://tl.ctcdn.com.br/ojeBbbB4Bd9WOa3GlGeQD3qiFl0=/400x225/smart/filters:format(webp):quality(85)/7d9c7996-5e16-4d2d-aeb7-28e176e8aff3.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-24T19:15:03+00:00"
-    },
-    {
-      "id": "983257038d42430d",
-      "title": "Corrida da IA esgota fábricas de memória da Samsung até 2029 e gera fila até 2031",
-      "summary": "Corrida da IA esgota fábricas de memória da Samsung até 2029 e gera fila até 2031 Comprar memória RAM em 2026 se tornou algo muito difícil por conta dos preços nas alturas. Com o…",
-      "link": "https://canaltech.com.br/hardware/corrida-da-ia-esgota-fabricas-de-memoria-da-samsung-ate-2029-e-gera-fila-ate-2031/",
-      "image": "https://tl.ctcdn.com.br/PqHUhYAGQcQP9ZuxT8NkZJ3siJc=/400x225/smart/filters:format(webp):quality(85)/9e17cdf6-cf9b-44da-a2f1-fed325af4455.jpg",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-24T19:06:00+00:00"
-    },
-    {
-      "id": "949a815f425dc11c",
-      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
-      "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/prime-air-mk30-drone-package-loading-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-24T18:47:57+00:00"
-    },
-    {
-      "id": "785d3b975f43ce93",
-      "title": "Claude, ChatGPT e Gemini vão ficar mais baratos na Black Friday?",
-      "summary": "Claude, ChatGPT e Gemini vão ficar mais baratos na Black Friday? Uma assinatura de inteligência artificial (IA) pode custar mais de R$ 1 mil por ano , dependendo do plano…",
-      "link": "https://canaltech.com.br/mercado/claude-chatgpt-e-gemini-vao-ficar-mais-baratos-na-black-friday/",
-      "image": "https://tl.ctcdn.com.br/-a0256acXvf_TIyjkkEAVy-Ddhs=/400x225/smart/filters:format(webp):quality(85)/c23adbaf-25be-4393-9b10-f28bc7014bde.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-24T18:45:00+00:00"
-    },
-    {
-      "id": "b68502d162ee9e06",
-      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
-      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-24T18:30:42+00:00"
-    },
-    {
-      "id": "ee49075fab924212",
-      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
-      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad…",
-      "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UFP25_R4_Rec709_2p4gamma_6188x3240_20260828.0363314_R2.jpg?quality=90&#038;strip=all&#038;crop=20.001873779297,0,79.998126220703,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-24T18:15:00+00:00"
-    },
-    {
-      "id": "a15f266d5fa6e5a5",
-      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
-      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-24T18:02:59+00:00"
     }
   ]
 }
