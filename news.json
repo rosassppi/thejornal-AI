@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-11-26T16:25:17.282688+00:00",
+  "generated_at": "2026-11-27T01:29:40.992222+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "ded36aa490e73d0c",
+      "title": "Cidade no Paraná quer usar IA em tudo — e terá apoio da Nvidia",
+      "summary": "HUB Cidades, ambiente de inovação urbana ligado ao projeto Cidade Aruna, firmou carta de colaboração tecnológica com a big tech O post Cidade no Paraná quer usar IA em tudo — e…",
+      "link": "https://olhardigital.com.br/2026/11/26/inteligencia-artificial/cidade-no-parana-quer-usar-ia-em-tudo-e-tera-apoio-da-nvidia/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/cidade_aruna-1024x512.jpeg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-27T01:09:24+00:00"
+    },
+    {
+      "id": "432c93397c25ec5b",
+      "title": "Ubisoft exige que devs justifiquem por que não usam IA em novos jogos",
+      "summary": "Ubisoft exige que devs justifiquem por que não usam IA em novos jogos A Ubisoft estaria exigindo que as equipes que apresentam pitches de novos jogos expliquem como a Inteligência…",
+      "link": "https://canaltech.com.br/games/ubisoft-exige-que-devs-justifiquem-por-que-nao-usam-ia-em-novos-jogos/",
+      "image": "https://tl.ctcdn.com.br/gfc2N-mf3-N5gjiIvz1LkzF9uEM=/400x225/smart/filters:format(webp):quality(85)/b20d108d-12cb-43f2-8fb4-256300c4bbf1.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-26T23:20:05+00:00"
+    },
+    {
+      "id": "5355ab63991ecd0c",
+      "title": "Google começa a mostrar anúncios nas respostas de IA da Busca no Brasil",
+      "summary": "Google começa a mostrar anúncios nas respostas de IA da Busca no Brasil O Google começou a exibir anúncios nas respostas de inteligência artificial (IA) da Busca no Brasil. A…",
+      "link": "https://canaltech.com.br/internet-e-redes-sociais/google-comeca-a-mostrar-anuncios-nas-respostas-de-ia-da-busca-no-brasil/",
+      "image": "https://tl.ctcdn.com.br/TYZj3t2_lQDYO-w-TSQNvBZA1Wk=/400x225/smart/filters:format(webp):quality(85)/f2f8d9f9-0d53-416f-8f60-3ff5701e1cf5.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-26T22:34:00+00:00"
+    },
+    {
+      "id": "1435667468e46b5f",
+      "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
+      "summary": "Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano. It averages 60.1 across 25 benchmarks, ahead of the 120B Nemotron 3 Super at…",
+      "link": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
+      "image": null,
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-26T22:06:40+00:00"
+    },
+    {
+      "id": "d82314c85842f1cb",
+      "title": "Galaxy Watch 8 tem oferta agressiva e cai para menos de R$ 1 mil na Black Week",
+      "summary": "Galaxy Watch 8 de 44 mm com tela AMOLED e Google Gemini recebe excelente desconto com cupom e pagamento via Pix na Amazon Galaxy Watch 8 tem oferta agressiva e cai para menos de…",
+      "link": "https://tecnoblog.net/achados/galaxy-watch-8-tem-oferta-agressiva-e-cai-para-menos-de-r-1-mil-na-black-week/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/ukunaxh68o-5.jpg",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-26T20:37:51+00:00"
+    },
+    {
+      "id": "70089b128143a8cf",
+      "title": "Claude agora cria programas reais para PC no plano grátis",
+      "summary": "Claude agora cria programas reais para PC no plano grátis A Anthropic anunciou nesta terça-feira (24) um recurso que permite criar e instalar programas no Windows e macOS com o…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/claude-agora-cria-programas-reais-para-pc-no-plano-gratis/",
+      "image": "https://tl.ctcdn.com.br/seZMiUqBUJLkI3azkm62Vm3-4ZA=/400x225/smart/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-26T20:32:00+00:00"
+    },
+    {
+      "id": "b550e21cc10bb0ec",
+      "title": "Vale a pena comprar a Radeon RX 9070 GRE na Black Friday?",
+      "summary": "Vale a pena comprar a Radeon RX 9070 GRE na Black Friday? A atual geração de placas de vídeo saiu há quase dois anos. Desde a estreia das novas arquiteturas gráficas da NVIDIA e…",
+      "link": "https://canaltech.com.br/hardware/black-friday-vale-a-pena-comprar-radeon-rx-9070-gre/",
+      "image": "https://tl.ctcdn.com.br/w1N3kRNwwNLTdbvVyzJJtdOKchI=/400x225/smart/filters:format(webp):quality(85)/cb08bcc8-104b-4ce2-9b0d-0f5a1abcb0d9.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-26T20:30:00+00:00"
+    },
+    {
+      "id": "979e22972f743c14",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-26T20:03:54+00:00"
+    },
+    {
+      "id": "8a47fa25d48b2800",
+      "title": "Is Alice Huang a spy or not?",
+      "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese…",
+      "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-26T20:00:00+00:00"
+    },
+    {
+      "id": "ade261a79d2d41ac",
+      "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
+      "summary": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia. The possible consequences, he writes, range…",
+      "link": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/math_geometry_openai_hodge.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-26T19:31:46+00:00"
+    },
+    {
+      "id": "340510e97a865e49",
+      "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
+      "summary": "OpenAI says a billing bug gave GPT-6.2 users incorrect discounts. After the fix, Astra and Sol users hit their limits 40 and 25 percent faster than last week. As an apology…",
+      "link": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-26T17:28:56+00:00"
+    },
     {
       "id": "b81da0547893b262",
       "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
@@ -870,127 +991,6 @@
       "region": "mundo",
       "category": "Produtos",
       "published_at": "2026-11-24T18:02:59+00:00"
-    },
-    {
-      "id": "251f47e4d8da7f80",
-      "title": "Novartis CEO says AI will shave four years off drug development, not cure all disease",
-      "summary": "Novartis CEO Vas Narasimhan, who also sits on Anthropic's board, is pushing back on the cure-all promises from Anthropic CEO Amodei and DeepMind founder Hassabis. AI will speed up…",
-      "link": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_novartis.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-24T18:01:55+00:00"
-    },
-    {
-      "id": "61fdedbc60491b94",
-      "title": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
-      "summary": "OpenAI researcher Noam Brown is urging promising students to drop out, saying it's \"not a great time to sit on the sidelines.\" The o1 co-creator says AI is still in a \"centaur…",
-      "link": "https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/openai_driscoll.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-24T17:58:44+00:00"
-    },
-    {
-      "id": "e612b5415dc5213a",
-      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-      "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
-      "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-500x500.jpg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-24T17:34:34+00:00"
-    },
-    {
-      "id": "09e62d6e11167de4",
-      "title": "Tidal will start banning AI-generated music next month",
-      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000…",
-      "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-24T17:17:09+00:00"
-    },
-    {
-      "id": "08a6094b9f24b3f9",
-      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
-      "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-24T17:00:00+00:00"
-    },
-    {
-      "id": "022f717aafc7a3a3",
-      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
-      "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-24T16:46:00+00:00"
-    },
-    {
-      "id": "6a28e842b3bf4bfd",
-      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "summary": "",
-      "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-24T16:34:13+00:00"
-    },
-    {
-      "id": "9b7f0538ab934225",
-      "title": "Jensen Huang deepfakes are the hot new AI slop",
-      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still…",
-      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jensen_huang_AI_deepfakes.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-24T16:30:00+00:00"
-    },
-    {
-      "id": "b6f91c10121e3db7",
-      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-      "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
-      "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-24T16:10:00+00:00"
-    },
-    {
-      "id": "1bfb90103b3c1d8e",
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent…",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-24T16:09:23+00:00"
-    },
-    {
-      "id": "22cc1bf342d89ca2",
-      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
-      "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-24T16:02:37+00:00"
     }
   ]
 }
