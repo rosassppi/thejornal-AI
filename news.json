@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-11-27T16:10:07.036658+00:00",
+  "generated_at": "2026-11-28T01:05:55.705109+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "e18e0899a9dfc391",
+      "title": "O que é MCP? Saiba para que serve o padrão de inteligência artificial",
+      "summary": "O protocolo MCP ajuda a automatizar tarefas em programações financeiras, gestão de nuvem e produtividade em tempo real O que é MCP? Saiba para que serve o padrão de inteligência…",
+      "link": "https://tecnoblog.net/responde/o-que-e-mcp-saiba-para-que-serve-o-padrao-de-inteligencia-artificial/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/mcp-00-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-27T20:39:16+00:00"
+    },
+    {
+      "id": "58ab002ee80b8965",
+      "title": "OpenAI contra-ataca e acusa Apple de roubar segredos comerciais",
+      "summary": "Iniciativa é uma contraofensiva depois que a Apple processou a OpenAI e dois ex-funcionários O post OpenAI contra-ataca e acusa Apple de roubar segredos comerciais apareceu…",
+      "link": "https://olhardigital.com.br/2026/11/27/pro/openai-contra-ataca-e-acusa-apple-de-roubar-segredos-comerciais/",
+      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/apple_openai_2-1024x682.jpg",
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-27T20:21:04+00:00"
+    },
+    {
+      "id": "9d184528dda33366",
+      "title": "Google prepara novidades para o Modo IA ficar mais parecido com o Gemini",
+      "summary": "Google prepara novidades para o Modo IA ficar mais parecido com o Gemini O Google trabalha em três novidades para o Modo IA de seu buscador que já estão presentes no Gemini. A…",
+      "link": "https://canaltech.com.br/internet-e-redes-sociais/google-prepara-novidades-para-o-modo-ia-ficar-mais-parecido-com-o-gemini/",
+      "image": "https://tl.ctcdn.com.br/TYZj3t2_lQDYO-w-TSQNvBZA1Wk=/400x225/smart/filters:format(webp):quality(85)/f2f8d9f9-0d53-416f-8f60-3ff5701e1cf5.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-27T20:02:00+00:00"
+    },
+    {
+      "id": "0af379395f0e91ba",
+      "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+      "summary": "OpenAI is suing Apple in a California court, accusing it of trade secret theft and of coercing shared suppliers. The countersuit follows Apple's own lawsuit from the summer. Just…",
+      "link": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/openai_apple.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-27T19:38:37+00:00"
+    },
+    {
+      "id": "29e2814fc34ad93a",
+      "title": "ChatGPT quer assumir ligações e outras funções básicas no Android",
+      "summary": "Código do app indica testes para fazer chamadas, ler e enviar SMS, controlar mídia e interpretar o que aparece na tela do celular. ChatGPT quer assumir ligações e outras funções…",
+      "link": "https://tecnoblog.net/noticias/chatgpt-quer-assumir-ligacoes-e-outras-funcoes-basicas-no-android/",
+      "image": "https://files.tecnoblog.net/wp-content/uploads/2025/08/openai-4_capa-edited-340x191.png",
+      "source": "Tecnoblog",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-27T19:36:27+00:00"
+    },
+    {
+      "id": "d7049ca0a5b3654f",
+      "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+      "summary": "Two Chinese companies installed Nvidia's powerful Blackwell chips at a Shanghai data center linked to Alice Huang, according to a Bloomberg investigation. A serial number led…",
+      "link": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/jensen_huang_china.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-27T18:27:02+00:00"
+    },
+    {
+      "id": "35cd32eae2adb9ce",
+      "title": "Não atualize ainda: novo driver da NVIDIA corrige desgaste de SSD, mas causa tela preta",
+      "summary": "Não atualize ainda: novo driver da NVIDIA corrige desgaste de SSD, mas causa tela preta A sequência conturbada de atualizações da NVIDIA ganhou um novo capítulo. Liberado para…",
+      "link": "https://canaltech.com.br/hardware/nao-atualize-ainda-novo-driver-da-nvidia-corrige-desgaste-de-ssd-mas-causa-tela-preta/",
+      "image": "https://tl.ctcdn.com.br/H63WbNHsBpMOJk5AhrnMmVH7q68=/400x225/smart/filters:format(webp):quality(85)/bf25e91b-feaa-4890-ac2a-3068c8047f6a.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-27T18:09:00+00:00"
+    },
+    {
+      "id": "b2c8d9a06b4130b2",
+      "title": "Google corrige falha que fazia aba do Gemini devorar memória RAM no Chrome",
+      "summary": "Google corrige falha que fazia aba do Gemini devorar memória RAM no Chrome O Google corrigiu uma falha que fazia a versão web do Gemini consumir quantidades excessivas de memória…",
+      "link": "https://canaltech.com.br/apps/google-corrige-falha-que-fazia-aba-do-gemini-devorar-memoria-ram-no-chrome/",
+      "image": "https://tl.ctcdn.com.br/F37hDzirYFRNqVeVZwPuTQYF1jo=/400x225/smart/filters:format(webp):quality(85)/a909272c-096c-4cda-a749-bc6616c9a20b.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-27T18:02:00+00:00"
+    },
+    {
+      "id": "0ab644cbf8d8d55c",
+      "title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+      "summary": "Yann LeCun is pushing forward with his alternative to language models through his startup AMI Labs. The JEPA architecture aims to give machines an internal world model that…",
+      "link": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/lecun_wireframe.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-27T16:58:56+00:00"
+    },
     {
       "id": "13e475f4eea109eb",
       "title": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
@@ -892,105 +991,6 @@
       "region": "brasil",
       "category": "Brasil",
       "published_at": "2026-11-24T21:55:03+00:00"
-    },
-    {
-      "id": "a919734a680de1b2",
-      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
-      "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-24T21:48:27+00:00"
-    },
-    {
-      "id": "ddf5f5e1e3a03a64",
-      "title": "Even the best AI agents struggle with everyday life",
-      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without…",
-      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-24T21:33:29+00:00"
-    },
-    {
-      "id": "a18f6caa7fc18d5b",
-      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
-      "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-24T21:32:38+00:00"
-    },
-    {
-      "id": "f1e206489ca5900e",
-      "title": "Hackers invadem CIA e agência de inteligência dos EUA e expõem dados",
-      "summary": "Ataque atingiu sistemas usados para analisar informações públicas e não comprometeu material classificado, segundo autoridades estadunidenses O post Hackers invadem CIA e agência…",
-      "link": "https://olhardigital.com.br/2026/11/24/seguranca/hackers-invadem-cia-e-agencia-de-inteligencia-dos-eua-e-expoem-dados/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2025/10/ciberataque-1024x683.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-24T21:30:08+00:00"
-    },
-    {
-      "id": "9fd8a5bde39c37e2",
-      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
-      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-24T21:19:52+00:00"
-    },
-    {
-      "id": "5bd94bbdd07ff94c",
-      "title": "Filme da Netflix com Brad Pitt é alvo de críticas por uso de IA",
-      "summary": "Diretor David Fincher defende controle criativo dos cineastas; relatos associam produção à InterPositive, empresa de IA comprada pela Netflix. Filme da Netflix com Brad Pitt é…",
-      "link": "https://tecnoblog.net/noticias/filme-da-netflix-com-brad-pitt-e-alvo-de-criticas-por-uso-de-ia/",
-      "image": "https://files.tecnoblog.net/wp-content/uploads/2026/11/rjezaubbuvu.jpg",
-      "source": "Tecnoblog",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-24T20:55:42+00:00"
-    },
-    {
-      "id": "c5bcb0d383eaa590",
-      "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
-      "summary": "Anthropic now lets you install Claude Artifacts as desktop apps on Mac and Windows, and a free account is enough. You build one in chat without writing code, and it can add menu…",
-      "link": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-24T20:42:29+00:00"
-    },
-    {
-      "id": "d0e234682f9b6d75",
-      "title": "What's going on with the Riemann hypothesis?",
-      "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
-      "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413-500x500.jpeg",
-      "source": "Ars Technica",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-24T20:34:53+00:00"
-    },
-    {
-      "id": "555529a69b5d605c",
-      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House…",
-      "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-24T20:02:03+00:00"
     }
   ]
 }
