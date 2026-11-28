@@ -1,7 +1,128 @@
 {
-  "generated_at": "2026-11-28T01:05:55.705109+00:00",
+  "generated_at": "2026-11-28T15:03:31.840261+00:00",
   "total": 90,
   "items": [
+    {
+      "id": "0c9bfc98aeed54f3",
+      "title": "Terence Tao sees AI ushering in \"Big Math,\" but calls major tech firms' proofs \"toxic waste\"",
+      "summary": "Terence Tao outlines his vision of \"Big Math\" on the Hard Fork podcast. Instead of solo work, human-AI teams would systematically map thousands of problems. He also calls AI…",
+      "link": "https://the-decoder.com/terence-tao-sees-ai-ushering-in-big-math-but-calls-major-tech-firms-proofs-toxic-waste/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/03/terence_tao_ai_math.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-28T14:45:01+00:00"
+    },
+    {
+      "id": "5e79550f0b307c40",
+      "title": "Como funciona o treinamento de uma IA?",
+      "summary": "Como funciona o treinamento de uma IA? Antes de responder a uma pergunta, reconhecer uma imagem ou escrever um código, uma Inteligência Artificial (IA) precisa passar por um longo…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/como-funciona-o-treinamento-de-uma-ia/",
+      "image": "https://tl.ctcdn.com.br/f4z0ysPSfONMuamlFptlxwcANLE=/400x225/smart/filters:format(webp):quality(85)/0a91427f-ec89-413c-8190-845ee1ccc7d8.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-28T14:30:00+00:00"
+    },
+    {
+      "id": "86dc88a31c8f86ee",
+      "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+      "summary": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+      "link": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+      "image": null,
+      "source": "TechCrunch",
+      "region": "mundo",
+      "category": "Produtos",
+      "published_at": "2026-11-28T14:00:00+00:00"
+    },
+    {
+      "id": "fa4573ef24825fd0",
+      "title": "UK Parliament demands unredacted METR safety report after Anthropic redacts most of the evidence",
+      "summary": "The UK Parliament is turning up the pressure on Anthropic. Committee chair Liam Byrne is demanding the unredacted METR safety report on AI acceleration by December 4. METR…",
+      "link": "https://the-decoder.com/uk-parliament-demands-unredacted-metr-safety-report-after-anthropic-redacts-most-of-the-evidence/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/ukflag_blue.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-28T13:42:00+00:00"
+    },
+    {
+      "id": "8728e11ef1397716",
+      "title": "Desconto absurdo de 60%: leve Galaxy A57 5G e Fit3 por preço imperdível no Magalu",
+      "summary": "Desconto absurdo de 60%: leve Galaxy A57 5G e Fit3 por preço imperdível no Magalu O momento certo para renovar seu smartphone e ainda colocar um acessório inteligente no pulso sem…",
+      "link": "https://canaltech.com.br/smartphone/desconto-absurdo-de-60-leve-galaxy-a57-5g-e-fit3-por-preco-imperdivel-no-magalu/",
+      "image": "https://tl.ctcdn.com.br/J70JxwGt93MX70WAl-258jgK5AQ=/400x225/smart/filters:format(webp):quality(85)/7ceecdbe-bcec-4a81-9fc8-8b4336d10465.jpg",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-28T13:17:08+00:00"
+    },
+    {
+      "id": "bf983f30198fa809",
+      "title": "IA estaria próxima de quebrar criptografia e expor dados de bancos e governos",
+      "summary": "Laboratórios de inteligência artificial podem estar guardando descobertas que colocam em risco os sistemas de criptografia globais O post IA estaria próxima de quebrar…",
+      "link": "https://olhardigital.com.br/2026/11/28/inteligencia-artificial/ia-estaria-proxima-de-quebrar-criptografia-e-expor-dados-de-bancos-e-governos/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-28T12:54:59+00:00"
+    },
+    {
+      "id": "38e1d9e08b5e8d47",
+      "title": "Google Deepmind's \"Humanity's First Exam\" shows top AI models still fail simple everyday tasks under repeated runs",
+      "summary": "Google Deepmind tests the reliability of 18 AI models with \"Humanity's First Exam.\" Top models solve nearly every task family at least once, but even leaders like OpenAI's GPT-6.2…",
+      "link": "https://the-decoder.com/google-deepminds-humanitys-first-exam-shows-top-ai-models-still-fail-simple-everyday-tasks-under-repeated-runs/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/neural_network_coffee.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-28T11:12:30+00:00"
+    },
+    {
+      "id": "1988b1d8f85e1147",
+      "title": "Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots",
+      "summary": "Embo raised $110 million in seed funding to build a universal robot brain with world models. Its AI learns how the physical world works from internet video and practices motor…",
+      "link": "https://the-decoder.com/robotics-startup-embo-raises-110-million-in-seed-funding-to-build-world-model-ai-for-robots/",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/11/embo_logo.png",
+      "source": "The Decoder",
+      "region": "mundo",
+      "category": "Mundo",
+      "published_at": "2026-11-28T10:48:18+00:00"
+    },
+    {
+      "id": "879703033077d213",
+      "title": "O que são modelos de IA de código aberto?",
+      "summary": "O que são modelos de IA de código aberto? As ferramentas de inteligência artificial mais conhecidas disponíveis no mercado funcionam com código fechado , como o ChatGPT, o Gemini…",
+      "link": "https://canaltech.com.br/inteligencia-artificial/o-que-sao-modelos-de-ia-de-codigo-aberto/",
+      "image": "https://tl.ctcdn.com.br/CWwDNxYstGzJ6eChQQNmN53kBmw=/400x225/smart/filters:format(webp):quality(85)/9b3955bb-660f-4211-8b6a-2877fb890301.png",
+      "source": "Canaltech",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-28T10:30:03+00:00"
+    },
+    {
+      "id": "717e867f67d659cf",
+      "title": "Por que a IA ainda enfrenta obstáculos para avançar no mercado financeiro",
+      "summary": "Fragmentação de dados, falta de integração entre sistemas e necessidade de rastreabilidade dificultam o uso da inteligência artificial em recomendações financeiras O post Por que…",
+      "link": "https://olhardigital.com.br/2026/11/28/inteligencia-artificial/por-que-a-ia-ainda-enfrenta-obstaculos-para-avancar-no-mercado-financeiro/",
+      "image": null,
+      "source": "Olhar Digital",
+      "region": "brasil",
+      "category": "Brasil",
+      "published_at": "2026-11-28T10:00:00+00:00"
+    },
+    {
+      "id": "33e680266da2c6f9",
+      "title": "Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Model with 560B Total Parameters and 25B Activations per Token",
+      "summary": "Ant Group's Afu team open-sourced LingSante-3.1-flash, a 560B-parameter MoE medical AI model with 25B active parameters, a 1M-token context and an MIT license. It ranks first…",
+      "link": "https://www.marktechpost.com/2026/11/28/ant-group-lingsante-3-1-flash-open-source-medical-ai/",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/image-150x150.jpeg",
+      "source": "MarkTechPost",
+      "region": "mundo",
+      "category": "Pesquisa",
+      "published_at": "2026-11-28T09:45:33+00:00"
+    },
     {
       "id": "e18e0899a9dfc391",
       "title": "O que é MCP? Saiba para que serve o padrão de inteligência artificial",
@@ -870,127 +991,6 @@
       "region": "mundo",
       "category": "Mundo",
       "published_at": "2026-11-25T12:00:28+00:00"
-    },
-    {
-      "id": "dce698bd81a273bc",
-      "title": "PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values",
-      "summary": "Startup PrismML has released Ternary Bonsai 2.5 27B, an updated version of its aggressively compressed language model. The article PrismML shrinks a 54 GB language model to 5.9 GB…",
-      "link": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/07/prsim_ml_demo.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-25T11:51:49+00:00"
-    },
-    {
-      "id": "5ecec70ad6c15930",
-      "title": "MIT team discovers that unrealistic training data makes AI climate predictions more reliable",
-      "summary": "MIT researchers have developed a method that lets AI climate models get by with a single training run instead of the usual six to eight. An algorithm generates deliberately…",
-      "link": "https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/",
-      "image": "https://the-decoder.com/wp-content/uploads/2026/11/mit_climate.png",
-      "source": "The Decoder",
-      "region": "mundo",
-      "category": "Mundo",
-      "published_at": "2026-11-25T10:47:51+00:00"
-    },
-    {
-      "id": "0077e07924e43bf7",
-      "title": "An Indic Voice Agent with CUGA",
-      "summary": "",
-      "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-25T10:22:09+00:00"
-    },
-    {
-      "id": "aa2815536f14a5a8",
-      "title": "AI is straining America’s open records systems",
-      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor…",
-      "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-      "image": null,
-      "source": "MIT Tech Review",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-25T10:00:00+00:00"
-    },
-    {
-      "id": "c0c47727cb3b1dc3",
-      "title": "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework",
-      "summary": "Laminar is an open-source asynchronous RL post-training framework from HKU and ByteDance Seed researchers. It decouples rollout, training and weight sync, and lifted…",
-      "link": "https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/",
-      "image": null,
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-25T05:42:05+00:00"
-    },
-    {
-      "id": "11304642d4ef0ee9",
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
-      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake…",
-      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "image": null,
-      "source": "TechCrunch",
-      "region": "mundo",
-      "category": "Produtos",
-      "published_at": "2026-11-25T00:12:02+00:00"
-    },
-    {
-      "id": "df3be113c8aed13f",
-      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
-      "summary": "",
-      "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
-      "image": null,
-      "source": "Hugging Face",
-      "region": "mundo",
-      "category": "Modelos",
-      "published_at": "2026-11-25T00:00:00+00:00"
-    },
-    {
-      "id": "23a0af1682e773e5",
-      "title": "Ex-funcionário da OpenAI acusado de espionagem será solto com fiança milionária",
-      "summary": "Engenheiro saudita é suspeito de instalar dispositivos para gravar conversas confidenciais da empresa, incluindo reuniões com clientes e autoridades governamentais O post…",
-      "link": "https://olhardigital.com.br/2026/11/24/pro/ex-funcionario-da-openai-acusado-de-espionagem-sera-solto-com-fianca-milionaria/",
-      "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/openai-1024x512.jpg",
-      "source": "Olhar Digital",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-24T23:32:54+00:00"
-    },
-    {
-      "id": "b4cd6a3efcf87c1a",
-      "title": "Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking",
-      "summary": "Meta's engineering team explains how Facebook's Your Algorithm turns plain-language interests into ranking signals for Feed and Reels, using LLM validation, 4 retrieval sources…",
-      "link": "https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
-      "source": "MarkTechPost",
-      "region": "mundo",
-      "category": "Pesquisa",
-      "published_at": "2026-11-24T23:06:17+00:00"
-    },
-    {
-      "id": "6e7e7e593a2498eb",
-      "title": "Gemini pode ganhar recurso para criar vozes personalizadas com sotaque, tom e velocidade",
-      "summary": "Gemini pode ganhar recurso para criar vozes personalizadas com sotaque, tom e velocidade O Google está desenvolvendo um recurso que permitirá aos usuários do Gemini criar vozes…",
-      "link": "https://canaltech.com.br/apps/gemini-pode-ganhar-recurso-para-criar-vozes-personalizadas-com-sotaque-tom-e-velocidade/",
-      "image": "https://tl.ctcdn.com.br/CgUhc8MB7GiZQ-klFoQw9dKjG-c=/400x225/smart/filters:format(webp):quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-24T23:01:00+00:00"
-    },
-    {
-      "id": "74b5e6c2b072a028",
-      "title": "GPT-6.2 chega aos usuários do ChatGPT com alertas de preço, mas há um problema",
-      "summary": "GPT-6.2 chega aos usuários do ChatGPT com alertas de preço, mas há um problema A OpenAI começou a liberar nesta segunda-feira (23) o GPT-6.2 nas conversas convencionais do ChatGPT…",
-      "link": "https://canaltech.com.br/inteligencia-artificial/gpt-62-chega-aos-usuarios-do-chatgpt-com-alertas-de-preco-mas-ha-um-problema/",
-      "image": "https://tl.ctcdn.com.br/WFnnUmQ69nxUfI402W1ZuNIbeS4=/400x225/smart/filters:format(webp):quality(85)/18446ab6-fd96-4ef4-ad57-251e00fc4358.png",
-      "source": "Canaltech",
-      "region": "brasil",
-      "category": "Brasil",
-      "published_at": "2026-11-24T21:55:03+00:00"
     }
   ]
 }
